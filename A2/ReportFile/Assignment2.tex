@@ -542,25 +542,29 @@ Count,URI,Mementos
 54,1,34
 \end{lstlisting}
 
-\item \textbf{}The TimeMaps obtained are saved in CSV file and plotted as barplot . The below python code in Listing 5 creates a bargraph 
+\item \textbf{}The TimeMaps obtained are saved in CSV file and plotted as Bar Chart . The below python code in Listing 5 creates a bargraph 
 
-\begin{lstlisting}[language=Python, caption=histogram.py]
+\begin{lstlisting}[language=Python, caption=BarChart-ScatterPlot.ipynb]
 import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
+import csv
+x = []
+y = []
+with open('MemeFile-txt.csv','r') as csvfile:
+    next(csvfile, None)
+    plots = csv.reader(csvfile, delimiter=',')
+    for row in plots:
+        y.append((row[1]))
+        x.append((row[2]))        
+y.sort()
+x.sort()
+plt.bar(x,y)
+plt.ylabel("Number of URIs")
+plt.xlabel("Mementos")
+plt.title("Bar Graph Number of URIs vs Mementos")
 
-data=pd.read_csv('mem.csv', sep=',', skiprows=0,header=None, index_col =0).dropna() 
-data.plot(kind='bar')
-plt.ylim(0, 1000)
-plt.ylabel("URIs")
-plt.xlabel('mementos')
-plt.title('Histogram')
-L=plt.legend()
-L.get_texts()[0].set_text('URIs')
-plt.show()
 \end{lstlisting}
 
-The below graph shows the extracted content with \textbf{URI} at y-axis and \textbf{Mementos} at x-axis
+%The below graph shows the extracted content with \textbf{Number of URIs} at y-axis and \textbf{Mementos} at x-axis
 
 %\begin{figure}[h]
   %\centering
@@ -668,6 +672,32 @@ with open('carbonDate.csv', 'w') as in_csvFile:
 		writer.writerow({'currentAge': age, 'Mementos': MementoValue})
 		#writer.writerow([age, MementoValue])					
 \end{lstlisting}    
+
+\begin{lstlisting}[language=Python, caption=BarChart-ScatterPlot.ipynb]
+import matplotlib.pyplot as plt
+import numpy as np
+import csv
+
+x = []
+y = []
+
+with open('carbonDate.csv','r') as csvfile:
+    next(csvfile, None)
+    plots = csv.reader(csvfile, delimiter=',')
+    for row in plots:
+        x.append((row[0]))
+        y.append(int(row[1])) 
+        
+
+plt.yscale('log')
+plt.scatter(x, y)
+plt.xlabel("Age(s) in Days")
+plt.ylabel("Number of Mementos")
+plt.title("Scatter Plot Number of Mementos vs their Age in Days")
+
+\end{lstlisting}
+
+%The below graph shows the extracted content with \textbf{Number of Mementos} at y-axis and \textbf{Age(s) in Days} at x-axis
    
 %}
 
