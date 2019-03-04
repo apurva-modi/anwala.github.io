@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>
+				  Vitalik, Ethereum in &#8220;Difficult Place&#8221;, Tomochain Founder Says | NEWS.8BTC.COM				    </title> 
+<!-- 设置描述性标签和关键词标签 -->
+<meta content="The founder of Singapore and Vietnam-based Tomochain has taken on Ethereum's Vitalik Buterin for allegedly criticising some blockchain projects that claim high transaction speeds describing the..." name="description"/>
+<meta content="Ethereum, Tron, Vitalik Buterin" name="keywords"/>
+<meta property="og:image" content="https://news.8btc.com/wp-content/uploads/2019/02/Vitalik-.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder" />
+<meta property="og:title" content="  Vitalik, Ethereum in &#8220;Difficult Place&#8221;, Tomochain Founder Says | NEWS.8BTC.COM" />
+<meta property="og:description" content="The founder of Singapore and Vietnam-based Tomochain has taken on Ethereum's Vitalik Buterin for allegedly criticising some blockchain projects that claim high transaction speeds describing the..." />
+
+<link rel="shortcut icon" type="image/x-icon" href="https://news.8btc.com/wp-content/themes/news/img/logo.ico" media="screen" />
+<style type="text/css">
+img.wp-smiley, img.emoji {display: inline !important;border: none !important;box-shadow: none !important;height: 1em !important;width: 1em !important;margin: 0 .07em !important;vertical-align: -0.1em !important;background: none !important;padding: 0 !important;}
+.home-bigscreen:before, .home-bigscreen:after {background-color: #221411;}
+.home-bigscreen:before {box-shadow: -50px 0 320px 320px #221411;}
+</style>
+
+<link rel="stylesheet" id="ac_style-css" href="https://news.8btc.com/wp-content/themes/news/css/css.css" type="text/css" media="all" />
+<link rel="stylesheet" id="ac_style-css"  href="https://news.8btc.com/wp-content/themes/news/css/banner.css?version=1.8.4" type="text/css" media="all" />
+<link rel="stylesheet" href="https://news.8btc.com/wp-content/themes/news/fonts/iconfont.css" type="text/css" media="all" />
+
+<link rel="stylesheet" id="otgrid-css" href="https://news.8btc.com/wp-content/themes/news/css/otgrid.min.css" type="text/css" media="all" />
+<link rel="stylesheet" id="main-stylesheet-css" href="https://news.8btc.com/wp-content/themes/news/css/main-stylesheet.min.css" type="text/css" media="all" />
+<link rel="stylesheet" id="ot-responsive-css" href="https://news.8btc.com/wp-content/themes/news/css/responsive.min.css" type="text/css" media="all" />
+<link rel="stylesheet" id="style-css" href="https://news.8btc.com/wp-content/themes/news/css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" id="default-style-css" href="https://news.8btc.com/wp-content/themes/news/css/swiper.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ac_style-css" href="https://news.8btc.com/wp-content/themes/news/fonts/font/iconfont.css" type="text/css" media="all" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="NEWS.8BTC.COM &raquo; Vitalik, Ethereum in &#8220;Difficult Place&#8221;, Tomochain Founder Says Comments Feed" href="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/news.8btc.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=1.9"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='akp-dynamic-css-css'  href='https://news.8btc.com/wp-admin/admin-ajax.php' type='text/css' media='all' />
+<link rel='stylesheet' id='btc_addr-css'  href='https://news.8btc.com/wp-content/plugins/bitcoin-address/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-style-css'  href='https://news.8btc.com/wp-content/themes/news/css/css/font-awesome.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://news.8btc.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://news.8btc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://news.8btc.com/wp-content/plugins/adkingpro/js/jquery.jshowoff.js?ver=1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AkpAjax = {"ajaxurl":"https:\/\/news.8btc.com\/wp-admin\/admin-ajax.php","ajaxnonce":"8d83ad6592"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.8btc.com/wp-content/plugins/adkingpro/js/adkingpro-functions.js?ver=1.9'></script>
+<link rel='https://api.w.org/' href='https://news.8btc.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.8btc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://news.8btc.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='J.P. Morgan’s JPM Coin is Not A Cryptocurrency' href='https://news.8btc.com/j-p-morgans-jpm-coin-is-not-a-cryptocurrency' />
+<link rel='next' title='Data Shows dApp Market Is Not Cooling Down, Despite Trading Volume Down By 60% During Spring Festival Holiday' href='https://news.8btc.com/data-shows-dapp-market-is-not-cooling-down-despite-trading-volume-down-by-60-during-spring-festival-holiday' />
+
+<link rel="canonical" href="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder" />
+<link rel="alternate" type="application/json+oembed" href="https://news.8btc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.8btc.com%2Fvitalik-ethereum-in-difficult-place-tomochain-founder" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.8btc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.8btc.com%2Fvitalik-ethereum-in-difficult-place-tomochain-founder&#038;format=xml" />
+            <style type="text/css">
+                .adkingprobanner.rollover {position: relative;}
+                .adkingprobanner.rollover .akp_rollover_image {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 1;
+                }
+                .adkingprobanner.rollover .akp_rollover_image.over {z-index: 0;}
+                .adkingprobanner.rollover:hover .akp_rollover_image.over {z-index: 2;}
+                /* Add any CSS you would like to modify your banner ads here */            </style>
+            
+<script src="https://news.8btc.com/wp-content/themes/news/js/banner/jquery-1.9.1.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+//var ot = {"theme_name":"newsline","theme_full_name":"Newsline","adminUrl":"http:\/\/newsline.orange-themes.com\/wp-admin\/admin-ajax.php","security":"fe81afdf21","gallery_id":"","galleryCat":"","imageUrl":"http:\/\/newsline.orange-themes.com\/wp-content\/themes\/newsline\/images\/","cssUrl":"http:\/\/newsline.orange-themes.com\/wp-content\/themes\/newsline\/css\/","get_site_url":"http:\/\/newsline.orange-themes.com","themeUrl":"http:\/\/newsline.orange-themes.com\/wp-content\/themes\/newsline","logo":"http:\/\/newsline.orange-themes.com\/wp-content\/themes\/newsline\/images\/logo.png","_otmLogo":"http:\/\/newsline.orange-themes.com\/wp-content\/themes\/newsline\/images\/logo.png","_otmSearch ":"http:\/\/newsline.orange-themes.com","buyUrl":"http:\/\/www.orange-themes.com\/newsline-wordpress-theme\/"};
+</script>
+
+
+<meta name="generator" content="WordPress 4.5.4" />
+<meta name="generator" content="WPML ver:3.4.1 stt:1,4,3;" />
+<meta name="msapplication-TileImage" content="" />
+</head>
+<body class="home page page-id-158 page-template page-template-template-homepage page-template-template-homepage-php">
+<div id="boxed" class="">
+<header id="header" class="newsline-header">
+    <div class="container1">
+        <div class="container">
+            <ul class="con-top">
+                <div class="menu-%e9%a1%b6%e9%83%a8%e5%b7%a6-container"><ul id="menu-%e9%a1%b6%e9%83%a8%e5%b7%a6" class="menu"><li id="menu-item-174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174"><a href="/">Home</a></li>
+<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="https://news.8btc.com/about-us">About us</a></li>
+</ul></div>            </ul>
+            <ul class="right header-right-side load-responsive">
+                                <li class="with-split gj">
+                    <a href="#">
+                    <img style="float:left;padding-top:10px;" class="gj-img1" src="https://news.8btc.com/wp-content/themes/news/img/english.png">English<img style="float:right;padding-top:12px;" class="gj-img1" src="https://news.8btc.com/wp-content/themes/news/img/c2.png"><div class="clear"></div>
+                    <dl class="gj-dl">
+                        <dd><a href="http://www.8btc.com"><img style="float:left;padding-top:12px;" class="gj-img1" src="https://news.8btc.com/wp-content/themes/news/img/china.png">Chinese</a></dd>
+                    </dl>
+                    </a>
+                </li>
+                                                                <li class="with-split" style="color:#303030;">丨</li>
+                <li class="with-split"><a href="https://news.8btc.com/wp-login.php?redirect_to=https%3A%2F%2Fnews.8btc.com%2Fvitalik-ethereum-in-difficult-place-tomochain-founder">Login</a></li>
+                <li class="with-split" style="color:#303030;">丨</li>
+                <li class="with-split"><a href="https://news.8btc.com/wp-login.php?action=register">Register</a></li>
+        		            </ul>
+        </div>
+    </div>
+    <div class="container2">
+        <div class="container">
+            <div class="con2 con2-1 con2-logo fl" style="margin-right:10px;"><a href="https://news.8btc.com"><img src="https://news.8btc.com/wp-content/themes/news/img/logo1.png" alt="" /></a></div>
+            <div class="con2 con2-2 con2-hr fr">
+                                <div class="grid_3 header-prices" id="bpiDisplay">
+                    <div class="price-container price-big price-usd">
+                    <h3>USD <!-- <span class="bpi-change changeUSD data-down">-0.1%</span> --></h3>
+                    <div id="gd"><section><span class="fuhao">$</span><h1 class="jumbo" id="myTargetElement">3792.5</h1></section></div>
+                    </div>
+                    <div class="price-container price-big price-cny">
+                    <h3>CNY <!-- <span class="bpi-change changeCNY data-up">0.11%</span> --></h3>
+                    <div id="gd"><section><span class="fuhao">￥</span><h1 class="jumbo" id="myTargetElement2">25434</h1></section></div>
+                    </div>
+                    <div class="price-container price-small price-eur">
+                    <h3>EUR</h3>
+                    <div class="bpi-value bpiEUR">€<span id="eur_price">3348.88</span></div>
+                    </div>
+                    <div class="price-container price-small price-gbp">
+                    <h3>GBP</h3>
+                    <div class="bpi-value bpiGBP">£<span id="gbp_price">2896.57</span></div>
+                    </div>
+                </div>
+                            </div>
+            <div class="con2 con2-1 con2-hl fr" style="width:375px;">
+            <div class='adkingprocontainer' id='akp_slideshow47495'></div><script type='text/javascript'>jQuery('#akp_slideshow47495').jshowoff({ speed:5000, changeSpeed:600, effect: 'fade', links: false, controls: false });</script>            </div>
+            <div class="con2 con2-1 con2-hl fr" style="width:280px;margin-right:20px;">
+                        </div>
+        </div>
+    </div>
+<style type="text/css">
+.header-right-side li a:hover{text-decoration: none!important;}
+#gd {margin:0 auto;overflow: hidden;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+#gd h1.jumbo {font-size: 24px;color:#fff;font-weight:normal;}
+#gd .fuhao{float:left;font-size:20px;margin-top: 6px;margin-right:5px;}
+</style>
+<!-- 
+<script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/jquery-1.7.2.min.js"></script> -->
+<script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/countUp.min.js"></script>
+<script type="text/javascript">
+var options = {
+  useEasing : true, 
+  useGrouping : true, 
+  separator : ',', 
+  decimal : '.', 
+  prefix : '', 
+  suffix : '' 
+};
+
+var ticker_url = 'https://news.8btc.com/api/get_btc_price.php';
+$.getJSON(ticker_url,'',function(result){
+	if(result.btc_price > 0){
+		var btc_price = result.btc_price;
+	}else{
+		var btc_price = '25434';
+	}
+	if(result.btc_usd_price > 0){
+		var btc_usd_price = result.btc_usd_price;
+	}else{
+		var btc_usd_price = '3792.5';
+	}
+	if(result.btc_eur_price > 0){
+		var btc_eur_price = result.btc_eur_price;
+	}else{
+		var btc_eur_price = '3348.88';
+	}
+	if(result.btc_gbp_price > 0){
+		var btc_gbp_price = result.gbp_price;
+	}else{
+		var btc_gbp_price = '2896.57';
+	}
+	var demo = new CountUp("myTargetElement", 0, btc_usd_price, 1, 1, options);
+	var demo2 = new CountUp("myTargetElement2", 0, btc_price, 0, 1.5, options);
+
+	demo.start();
+    demo2.start();
+	
+	$("#eur_price").html(btc_eur_price);
+	$("#gbp_price").html(btc_gbp_price);
+});
+
+$(document).ready(function(){
+  $(".otm>ul>li").mouseover(function(){
+    $(this).children('.s-nav').show();
+  })
+  $(".otm>ul>li").mouseout(function(){
+    $(this).children('.s-nav').hide();
+  })
+  
+  $(".container .con-top li").mouseover(function(){
+    $(this).children('.s-nav').show();
+  })
+  $(".container .con-top li").mouseout(function(){
+    $(this).children('.s-nav').hide();
+  })
+
+})
+</script>
+
+
+    <div class="container3">
+        <div id="main-menu-wrapper"> 
+            <!-- BEGIN .container -->
+            <div class="container" style="background:#fff;">
+                <nav class="otm otm-follow">
+                    <ul id="menu-%e5%af%bc%e8%88%aa" class="load-responsive"><li id="menu-item-164" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-164"><a href="https://news.8btc.com/news">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="https://news.8btc.com/news/blockchain">Blockchain</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-165"><a href="https://news.8btc.com/news/bitcoin">Bitcoin</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168"><a href="https://news.8btc.com/news/regulation">Regulation</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="https://news.8btc.com/news/mining">Mining</a></li>
+	<li id="menu-item-394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-394"><a href="https://news.8btc.com/news/technology">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-26604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26604"><a href="https://news.8btc.com/topics">Topics</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-169"><a href="https://news.8btc.com/reviews">Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-447" class="6 menu-item menu-item-type-custom menu-item-object-custom menu-item-447"><a href="http://news.8btc.com/author/changjia"><img src="https://news.8btc.com/wp-content/uploads/2016/11/changjia.jpg" width="25" height="25" alt="Chang Jia" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;ChangJia</a></li>
+	<li id="menu-item-495" class="9 menu-item menu-item-type-custom menu-item-object-custom menu-item-495"><a href="http://news.8btc.com/author/redli"><img src="https://news.8btc.com/wp-content/uploads/2016/11/miner-headshot-320x320.jpg" width="25" height="25" alt="Red Li" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;Red Li</a></li>
+	<li id="menu-item-17588" class="10760 menu-item menu-item-type-custom menu-item-object-custom menu-item-17588"><a href="http://news.8btc.com/author/chloejiang"><img src="https://news.8btc.com/wp-content/uploads/2018/01/微信图片_20180118103735.jpg" width="23" height="25" alt="ChloeJiang" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;ChloeJiang</a></li>
+	<li id="menu-item-17590" class="9932 menu-item menu-item-type-custom menu-item-object-custom menu-item-17590"><a href="http://news.8btc.com/author/lylian"><img src="https://news.8btc.com/wp-content/uploads/2018/09/wo-wuzhen.jpg" width="20" height="25" alt="lylian Teng" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;lylian</a></li>
+	<li id="menu-item-17592" class="10602 menu-item menu-item-type-custom menu-item-object-custom menu-item-17592"><a href="http://news.8btc.com/author/conniewang"><img src="https://news.8btc.com/wp-content/uploads/2018/01/1-8.png" width="15" height="25" alt="conniewang" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;conniewang</a></li>
+	<li id="menu-item-551" class="31 menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a href="http://news.8btc.com/author/chrisbitcoin"><img src="https://news.8btc.com/wp-content/uploads/2016/11/chris-icon_2.jpg" width="25" height="25" alt="chris zhou" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;ChrisZhou</a></li>
+	<li id="menu-item-3713" class="931 menu-item menu-item-type-custom menu-item-object-custom menu-item-3713"><a href="http://news.8btc.com/author/cindy23"><img src="https://news.8btc.com/wp-content/uploads/2017/02/mmexport1487722560176-2.jpg" width="25" height="25" alt="Cindy23" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;Cindy</a></li>
+	<li id="menu-item-682" class="34 menu-item menu-item-type-custom menu-item-object-custom menu-item-682"><a href="http://news.8btc.com/author/obj"><img src="https://news.8btc.com/wp-content/uploads/2016/11/olu.jpeg" width="25" height="25" alt="Olusegun Ogundeji" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;Olusegun</a></li>
+	<li id="menu-item-6904" class="5493 menu-item menu-item-type-custom menu-item-object-custom menu-item-6904"><a href="http://news.8btc.com/author/bradleyfink"><img src="https://news.8btc.com/wp-content/uploads/2017/05/BradleyFink.jpg" width="25" height="25" alt="BradleyFink" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;BradleyFink</a></li>
+	<li id="menu-item-5901" class="605 menu-item menu-item-type-custom menu-item-object-custom menu-item-5901"><a href="http://news.8btc.com/author/hsl"><img src="https://news.8btc.com/wp-content/uploads/2017/02/huangsiliang.jpg" width="25" height="25" alt="ShiLiang Huang" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;Shiliang Huang</a></li>
+	<li id="menu-item-6908" class="5575 menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"><a href="http://news.8btc.com/author/jiangzhuoer"><img src="https://news.8btc.com/wp-content/uploads/2017/04/Jiangzhuoer.jpg" width="25" height="25" alt="Jiangzhuoer" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 sub-menu-author-img" />&nbsp;Jiangzhuoer</a></li>
+	<li id="menu-item-10122" class="7604 menu-item menu-item-type-custom menu-item-object-custom menu-item-10122"><a href="http://news.8btc.com/author/iamjosephyoung"><img src="https://secure.gravatar.com/avatar/da1e53e358724141cc46a6de83f44361?s=25&#038;d=https%3A%2F%2Fnews.8btc.com%2Fwp-content%2Fplugins%2Fwp-user-avatar%2Fimages%2Fwpua-32x32.png&#038;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default" />&nbsp;Joseph Young</a></li>
+</ul>
+</li>
+<li id="menu-item-268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-268"><a href="https://news.8btc.com/interview">Interview</a></li>
+<li id="menu-item-26876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26876"><a href="https://news.8btc.com/feature">Feature</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-170"><a href="https://news.8btc.com/press-releases">Press Releases</a>
+<ul class="sub-menu">
+	<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="https://news.8btc.com/submit-press-releases">Submit press releases</a></li>
+</ul>
+</li>
+<li id="menu-item-13096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13096"><a href="https://news.8btc.com/activity">Activity</a></li>
+</ul>                </nav>
+                <a href="#search-header" class="right search-header-bull">
+                    <span class="material-icons">
+                        <i class="fa fa-search" style="font-size:28px;color:#e1e1e1;line-height: 57px;"></i>
+                    </span>
+                </a> 
+                <!-- END .container --> 
+            </div>
+        </div>
+    </div>
+<style>
+.addfloat {position: fixed;top: 0px;margin:0 auto;width:100%;opacity: 0.9;}
+.yc-container{margin:0 auto;}
+</style>
+<script type="text/javascript">
+$(window).scroll(function() {
+    var bodyH = $(document).scrollTop();
+     if (bodyH >140) {
+      $(".container3").show();
+      $(".container3").addClass('addfloat');
+  } else {
+      $("container3").hide();
+      $(".container3").removeClass('addfloat');
+      $(".yc-container").css('display','none');
+    }
+    });
+</script>
+
+    <!--搜索-->
+    <div id="search-overlay">
+        <div id="search-overlay-inner">
+            <div id="gb"><a class="guanbi"></a></div>
+            <form action="https://news.8btc.com" method="get">
+                <input type="text" value="" placeholder="Search something.." name="s"/>
+                <button type="submit">
+                    <i class="fa fa-search" style="font-size:28px;color:#e1e1e1;line-height: 57px;"></i>
+                </button>
+            </form>
+            <strong class="category-listing-title"> <span> Articles worth reading </span> </strong>
+            <div class="ot-content-block hd-article-block-grid">
+                <div class="otg otg-items-3 otg-h-30 otg-v-30">
+                                    <div class="otg-item s-otg-item search-item" >
+                        <div class="item">
+                            <a href="https://news.8btc.com/bitcoin-plays-a-role-in-humanitarian-assistance" class="item-header">
+                                <img width="340" height="200" itemprop="image" src="https://news.8btc.com/wp-content/uploads/2017/04/bitcoin-sponsorship.png" alt="Bitcoin Plays a Role in Humanitarian Assistance" />
+                            </a>
+                            <div class="item-content">
+                                <span class="item-categories oneline-word">
+                                <a href="https://news.8btc.com/bitcoin-plays-a-role-in-humanitarian-assistance" title="Bitcoin Plays a Role in Humanitarian Assistance">Bitcoin Plays a Role in Humanitarian Assistance</a>
+                                </span>
+                                <h3><a href="https://news.8btc.com/bitcoin-plays-a-role-in-humanitarian-assistance">North Korea has always been notorious for its human rights violations. Recently, the totalitarian...</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="otg-item s-otg-item search-item" style="margin:0 10px;">
+                        <div class="item">
+                            <a href="https://news.8btc.com/why-i-am-still-not-voting-for-segwit-an-open-letter-from-jiangzhuoer" class="item-header">
+                                <img width="340" height="200" itemprop="image" src="https://news.8btc.com/wp-content/uploads/2017/04/ltc-miner.jpg" alt="Why I Am Still Not Voting for Segwit? An open letter from Jiangzhuoer" />
+                            </a>
+                            <div class="item-content">
+                                <span class="item-categories oneline-word">
+                                <a href="https://news.8btc.com/why-i-am-still-not-voting-for-segwit-an-open-letter-from-jiangzhuoer" title="Why I Am Still Not Voting for Segwit? An open letter from Jiangzhuoer">Why I Am Still Not Voting for Segwit? An open letter from Jiangzhuoer</a>
+                                </span>
+                                <h3><a href="https://news.8btc.com/why-i-am-still-not-voting-for-segwit-an-open-letter-from-jiangzhuoer">Note:Translated from Jiang Zhuo’er’s original post in Chinese.
+Recently, as the discussion ...</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="otg-item s-otg-item search-item" >
+                        <div class="item">
+                            <a href="https://news.8btc.com/bitcoin-community-is-withering-it-has-lost-the-excellent-circle" class="item-header">
+                                <img width="340" height="200" itemprop="image" src="https://news.8btc.com/wp-content/uploads/2016/12/hsl-53-1.png" alt="Bitcoin Community is Withering—It has Lost the Excellent Circle  " />
+                            </a>
+                            <div class="item-content">
+                                <span class="item-categories oneline-word">
+                                <a href="https://news.8btc.com/bitcoin-community-is-withering-it-has-lost-the-excellent-circle" title="Bitcoin Community is Withering—It has Lost the Excellent Circle  ">Bitcoin Community is Withering—It has Lost the Excellent Circle  </a>
+                                </span>
+                                <h3><a href="https://news.8btc.com/bitcoin-community-is-withering-it-has-lost-the-excellent-circle">Background
+
+Though China has long been puzzled by its brain drain in the form of elite emigrati...</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                                                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<!--手机端导航-->
+<link type="text/css" rel="stylesheet" href="https://news.8btc.com/wp-content/themes/news/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="https://news.8btc.com/wp-content/themes/news/css/swiper.min.css">
+
+
+<script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/banner/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/banner/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/banner/swiper.min.js"></script> 
+
+<div id="phone-nav-banner">
+    <div class="mNav visible-xs">
+    <span class="glyphicon glyphicon-align-justify glyphicon2">
+        <i class="fa fa-bars" style="font-size:28px;color:#fff;line-height:55px;"></i>
+    </span>
+    <a href="https://news.8btc.com"><img src="https://news.8btc.com/wp-content/themes/news/img/logo1.png" class="mlogo" alt="" /></a>
+    <span class="glyphicon glyphicon-search glyphicon2">
+        <i class="fa fa-search" style="font-size:28px;color:#fff;line-height:55px;"></i>
+    </span>
+    </div>
+    <div class="nMune visible-xs" >
+        <div class="mtop row">
+            <div class="col-xs-6">
+                <img src="https://news.8btc.com/wp-content/themes/news/img/logo2.png" class="mlogo1" alt="" />
+            </div>
+            <div class="col-xs-6 text-right micon">
+                <span class="glyphicon glyphicon-search">
+                <img width="20" height="20" src="https://news.8btc.com/wp-content/themes/news/img/sousuo.png">
+                </span>
+                                <a href="#" data-toggle="modal" data-target="#myModal" class="mlogin">LOGIN</a>
+        		            </div>
+        </div>
+        <div class="mlist row text-center phone-wp-nav-menu">
+            <ul id="menu-%e5%af%bc%e8%88%aa-1" class="load-responsive"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-164"><a href="https://news.8btc.com/news">News<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="https://news.8btc.com/news/blockchain">Blockchain<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-165"><a href="https://news.8btc.com/news/bitcoin">Bitcoin<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168"><a href="https://news.8btc.com/news/regulation">Regulation<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167"><a href="https://news.8btc.com/news/mining">Mining<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-394"><a href="https://news.8btc.com/news/technology">Technology<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26604"><a href="https://news.8btc.com/topics">Topics<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-169"><a href="https://news.8btc.com/reviews">Reviews<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a>
+<ul class="sub-menu">
+	<li class="6 menu-item menu-item-type-custom menu-item-object-custom menu-item-447"><a href="http://news.8btc.com/author/changjia">ChangJia<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="9 menu-item menu-item-type-custom menu-item-object-custom menu-item-495"><a href="http://news.8btc.com/author/redli">Red Li<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="10760 menu-item menu-item-type-custom menu-item-object-custom menu-item-17588"><a href="http://news.8btc.com/author/chloejiang">ChloeJiang<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="9932 menu-item menu-item-type-custom menu-item-object-custom menu-item-17590"><a href="http://news.8btc.com/author/lylian">lylian<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="10602 menu-item menu-item-type-custom menu-item-object-custom menu-item-17592"><a href="http://news.8btc.com/author/conniewang">conniewang<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="31 menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a href="http://news.8btc.com/author/chrisbitcoin">ChrisZhou<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="931 menu-item menu-item-type-custom menu-item-object-custom menu-item-3713"><a href="http://news.8btc.com/author/cindy23">Cindy<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="34 menu-item menu-item-type-custom menu-item-object-custom menu-item-682"><a href="http://news.8btc.com/author/obj">Olusegun<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="5493 menu-item menu-item-type-custom menu-item-object-custom menu-item-6904"><a href="http://news.8btc.com/author/bradleyfink">BradleyFink<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="605 menu-item menu-item-type-custom menu-item-object-custom menu-item-5901"><a href="http://news.8btc.com/author/hsl">Shiliang Huang<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="5575 menu-item menu-item-type-custom menu-item-object-custom menu-item-6908"><a href="http://news.8btc.com/author/jiangzhuoer">Jiangzhuoer<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+	<li class="7604 menu-item menu-item-type-custom menu-item-object-custom menu-item-10122"><a href="http://news.8btc.com/author/iamjosephyoung">Joseph Young<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-268"><a href="https://news.8btc.com/interview">Interview<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26876"><a href="https://news.8btc.com/feature">Feature<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-170"><a href="https://news.8btc.com/press-releases">Press Releases<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="https://news.8btc.com/submit-press-releases">Submit press releases<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13096"><a href="https://news.8btc.com/activity">Activity<span class="show-sub-menu-btn" style="float:right;"><i class="fa fa-angle-right"></i></span></a></li>
+</ul>        </div>
+    </div>
+    <div class="mwarp "> </div> 
+
+  <!-- 模态框（Modal） -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" 
+     aria-labelledby="myModalLabel" aria-hidden="true">
+     <div class="modal-dialog">
+        <div class="modal-content">
+       
+              <button type="button" class="close" data-dismiss="modal" 
+                 aria-hidden="true">×
+              </button>
+           <div class="modal-body">
+              <div class="row">
+             <div class="col-md-7">
+                 <div class="login-reg-box">
+                              <div class="tab-login">
+                                  <h3>LOGIN</h3>
+                                  <form id="loginform" class="comment-form comment-form1" name="loginform" action="https://news.8btc.com/wp-login.php" method="post" novalidate style="width:100%;">
+                                  <ul>
+                                      <li class="form-group">
+                                          <input type="text" class="form-control" placeholder="Name" id="user_login" name="log">
+                                      </li>
+                                      <li class="form-group">
+                                          <input type="password" class="form-control" placeholder="Password" id="user_pass" name="pwd">
+                                      </li>
+                                      <li class="form-group">
+                                        <input type="hidden" name="redirect_to" value="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder" />
+                                        <input name="submit" type="submit" id="wp-login" class="btn btn-primary btn-block" value="LOGIN">
+                                      </li>
+                                  </ul>
+                                  </form>
+                                 
+                                      <label id="info_login" class="alert alert-error" style="display:none"></label>
+                              </div>
+                              <div class="tab-reg" style="display:none">
+                                  <h3>REGISTER</h3>
+                                  <ul>
+                                      <li class="form-group">
+                                          <input type="text" class="form-control" placeholder="Name"  id="user_register">
+                                      </li>
+                                      <li class="form-group">
+                                          <input type="text" class="form-control" placeholder="Email"  id="user_email">
+                                      </li>
+                                      <li class="form-group">
+                                          <input type="password" class="form-control" placeholder="Password"  id="password">
+                                      </li>
+                                      <li class="form-group">
+                                          <input type="password" class="form-control" placeholder="Confirm Password" id="repeat_password">
+                                      </li>
+                                      <li class="form-group">
+                                          <button class="btn btn-primary btn-block"  id="wp-register">REGISTER</button>
+                                      </li>
+                                  </ul>
+                                   <p class="tips clearfix">
+                                          <label id="info_register" class="alert alert-error" style="display:none"></label>
+                                  </p>
+
+                              </div>
+                               
+                              <div class="group-footer">
+                                                                                                <a href="https://news.8btc.com/wp-login.php?action=lostpassword" class="btn-forget">Lost your Password?</a>	
+                                                                                                                                <a href="https://news.8btc.com/wp-login.php?action=register" class="btn-toggle">Register</a>
+                                                              </div>
+                          </div>
+
+             </div>
+             <div class="col-md-5 hidden-xs">
+               <div class="third-login">
+                    <a href="#"  class="btn btn-block btn-weibo"><i class="icon-weibo"></i>Micro-blog login</a>
+                   <div class="modal-wx"  id="is_web">
+                     <b>WeChat login</b>
+                     <img class="qrcode lightBorder img-responsive" src="https://news.8btc.com/wp-content/themes/news/img/erweima.jpg"  id="wx_login">
+                    <div class="info">
+                      <div class="status status_browser js_status">
+                        <p>Please use WeChat scan two-dimensional code login</p>
+                        <p>“babite”</p>
+                      </div>
+                  </div>
+                 </div>
+                               
+                </div>
+             </div>
+           </div>
+           </div>
+          
+        </div><!-- /.modal-content -->
+     </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+  <!-- pc搜索框 -->
+  <div class="search-overlay">
+    <div class="search-container">
+      <form class="search-global" action="https://news.8btc.com">
+        <input name="s" class="search-input" value="" type="text" placeholder="search">
+        <button class="btn-search"><img src="https://news.8btc.com/wp-content/themes/news/img/sousuo.png"><!-- <i class="glyphicon glyphicon-search"></i> --></button>
+      </form>
+      <div class="search-tags">
+        <h4>Hot search keywords</h4>
+        <ul>
+             <li><a target="_blank" href="#">hard fork</a></li>
+              <li><a target="_blank" href="#">Segwit</a></li>
+              <li><a target="_blank" href="#">PBOC</a></li>
+              <li><a target="_blank" href="#">mining</a></li>
+      </div>
+    </div>
+  </div>
+    <!-- 手机端搜索框 -->
+    <div class="msearch-overlay ">
+        <div class="search-container">
+            <span class="glyphicon glyphicon-remove"><img src="https://news.8btc.com/wp-content/themes/news/img/close.png"></span>
+            <form class="search-global" action="https://news.8btc.com">
+                <input name="s" class="search-input" value="" type="text" placeholder="search">
+                <button class="btn-search">
+                    <i class="fa fa-search" style="font-size:24px;color:#898989;"></i>
+                </button>
+            </form>
+            <div class="search-tags">
+                <h4>Hot search keywords</h4>
+                <ul>
+                    <li><a target="_blank" href="#">Hololens</a></li>
+                    <li><a target="_blank" href="#">AlphaGo</a></li>
+                    <li><a target="_blank" href="#">Hololens</a></li>
+                    <li><a target="_blank" href="#">Hololens</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+  <script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/banner/index-var1.dda74042.js"></script>
+  <script>
+    $(window).scroll(function() {
+      var bodyH = $(document).scrollTop();
+      if (bodyH >55) {
+        $(".mNav").css("opacity","0.8");
+        $(".mNav").css("background-color","#fff");
+        $(".mNav .fa").css("color","#000");
+        $(".mNav img.mlogo").attr("src","https://news.8btc.com/wp-content/themes/news/img/logo2.png");
+      } else {
+        $(".mNav").css("opacity","1");
+        $(".mNav").css("background-color","#000");
+        $(".mNav .fa").css("color","#fff");
+        $(".mNav img.mlogo").attr("src","https://news.8btc.com/wp-content/themes/news/img/logo1.png");
+      }
+    });
+
+    $('.header-right .glyphicon-remove').click(function(){
+       $(".search-overlay").hide();
+      $('.header-right .glyphicon-search').show();
+      $(this).hide();
+      $("body").removeClass('body-search');
+      
+    })
+    $('.header-right .glyphicon-search').click(function(){
+      $(".search-overlay").show();
+      $('.header-right .glyphicon-remove').show();
+      $(this).hide();
+      $("body").addClass('body-search');
+    })
+    // 手机端导航
+      $(".mNav .glyphicon-align-justify").click(function(){
+          $(".nMune").animate({top:'0'},250);
+           $(".mwarp").fadeIn();
+          return false;//关键是这里，阻止冒泡
+      });
+      $(document).click(function(){
+         $(".nMune").animate({top:'-100%'},300);
+          $(".mwarp").fadeOut();
+      });
+      $('.mNav .glyphicon-search').click(function(){
+        $('.msearch-overlay').animate({left:'0'},250);
+      })
+      $('.mwarp').click(function(){
+        $(".nMune").animate({top:'-100%'},300);
+          $(".mwarp").fadeOut();
+      })
+       $('.msearch-overlay .glyphicon-remove').click(function(){
+        $('.msearch-overlay').animate({left:'100%'},250);
+      })
+       $('.nMune .glyphicon-search').click(function(){
+         $('.msearch-overlay').animate({left:'0'},250);
+       })
+  </script>
+</div>
+
+<!--手机端导航end--><!--主要内容-->
+<div class="wrap wrap2 a-content-wrap" id="content-wrap" style="margin-top:200px;">
+  <section class="container-list main-section clearfix">
+    <div class="wrap-template-1 clearfix">
+      <section class="content-wrap clearfix a-wrap" role="main">
+        <section class="posts-wrap single-style-template-1 clearfix">
+                                  <article id="post-139" class="single-template-1 clearfix post-139 post type-post status-publish format-standard has-post-thumbnail hentry category-opinions" style="width:100%;">
+            <div class="post-content">
+                              <h2 class="title" style="padding:0">Vitalik, Ethereum in &#8220;Difficult Place&#8221;, Tomochain Founder Says</h2>
+              <header class="details a-details-time clearfix" style="border-bottom:1px solid #e6e6e6;">
+                <time class="detail left index-post-date" datetime="">Feb 16, 2019, 10:31</time>
+                <span class="detail left index-post-author hidden-xs"><em>by</em>
+                    <span class="author-name">
+                    <a href="https://news.8btc.com/author/obj" title="Posts by Olusegun Ogundeji" rel="author">Olusegun Ogundeji</a>                    </span>
+                </span>
+                <span class="detail left index-post-author visible-xs single-title-author-xs"><em>by</em>
+                    <span class="author-name">
+                        <a href="https://news.8btc.com/author/obj" class="no-color-change">
+                        <img src="https://news.8btc.com/wp-content/uploads/2016/11/olu.jpeg" width="55" height="55" alt="Olusegun Ogundeji" class="avatar avatar-55 wp-user-avatar wp-user-avatar-55 alignnone photo" />                        </a>
+                    </span>
+                </span>
+                                <span class="detail left index-post-category single-category-info"><em>in</em>
+                    <a href="https://news.8btc.com/news/bitcoin">Bitcoin</a>
+                                    </span>
+                                                <span class="hidden-xs detail left index-post-date pull-right detail-single-count"><i class="fa fa-share-alt"></i> 1</span>
+                <span class="hidden-xs detail left index-post-date pull-right detail-single-count"><i class="fa fa-comment"></i> <a href="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder#comment">0</a></span>
+                <span class="hidden-xs detail left index-post-date pull-right detail-single-count"><i class="fa fa-eye"></i> 5096</span>
+              </header>
+              <div class="single-content">
+                  <p>The founder of Singapore and Vietnam-based Tomochain has taken on <a rel="nofollow" target="_blank" href="http://news.8btc.com/what-to-watch-as-neo-based-icos-kick-off" target="_blank" rel="noopener">Ethereum&#8217;s Vitalik Buterin </a>for allegedly criticising some blockchain projects that claim high transaction speeds describing them as &#8220;centralized pile of trash&#8221;. <a rel="nofollow" target="_blank" href="https://twitter.com/longvuong22?lang=en" target="_blank" rel="noopener">Long Vuong</a> claims in a media statement that it is not Buterin&#8217;s call to hint at any blockchain project as a trash. <span id="more-35990"></span></p>
+<p><strong>Vuong&#8217;s beef with Ethereum </strong></p>
+<blockquote><p>“Vitalik and Ethereum is in difficult place. On one hand, they are disrespected by the Bitcoin maximalist camp, on the other they cannot seem to solve performance issues efficiently,” Vuong says. “There are trade-offs in most systems. But Vitalik won’t be the one who makes the call about what’s trash and what isn’t. This year won’t be a good one for Ethereum.&#8221;</p></blockquote>
+<p>Buterin was <a rel="nofollow" target="_blank" href="https://www.ccn.com/watch-ethereum-creator-crypto-eos-tron-piles-trash" target="_blank" rel="noopener">reportedly quoted as saying</a> at the Blockchain Connect conference in January that some projects which claim high transaction speeds are more centralized than the Ethereum network. He added in his comment at the conference that: “A lot of the time when a blockchain project claims &#8216;we can do 3,500TPS because we have a different algorithm,&#8217; what we really means is ‘were a centralized pile of trash’ that only works because we have seven nodes running the entire thing.”</p>
+<p>Afterwards, several reports suggest that Buterin may have <a rel="nofollow" target="_blank" href="https://www.ccn.com/watch-ethereum-creator-crypto-eos-tron-piles-trash" target="_blank" rel="noopener">cast aspersions</a> at rival blockchain projects like NEO, Tron or EOS. Vuong could have viewed his <a rel="nofollow" target="_blank" href="https://www.tomochain.com" target="_blank" rel="noopener">Tomochain</a>, whose network claims 1,000TPS over Ethereum’s double digit speeds, in the same category. Featuring 150 masternodes with a PoS voting consensus method, Tomochain seeks to be an innovative solution to the scalability problem facing the Ethereum blockchain. As an Ethereum Virtual Machine-compatible (EVM), every contract written in Ethereum can be seamlessly ported to TomoChain.</p>
+<blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">Thank you <a rel="nofollow" target="_blank" href="https://twitter.com/VitalikButerin?ref_src=twsrc%5Etfw">@VitalikButerin</a> for standing out! I have a secret campaign especially for you in <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/ValentinesDay?src=hash&amp;ref_src=twsrc%5Etfw">#ValentinesDay</a>! Don&#39;t forget to join it!  <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/TRON?src=hash&amp;ref_src=twsrc%5Etfw">#TRON</a> <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/TRX?src=hash&amp;ref_src=twsrc%5Etfw">#TRX</a> <a rel="nofollow" target="_blank" href="https://twitter.com/search?q=%24TRX&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TRX</a> <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/BitTorrent?src=hash&amp;ref_src=twsrc%5Etfw">#BitTorrent</a> <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/BTT?src=hash&amp;ref_src=twsrc%5Etfw">#BTT</a> <a rel="nofollow" target="_blank" href="https://twitter.com/search?q=%24BTT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BTT</a> <a rel="nofollow" target="_blank" href="https://t.co/rQsVsLtBKf">https://t.co/rQsVsLtBKf</a></p>
+<p>&mdash; Justin Sun (@justinsuntron) <a rel="nofollow" target="_blank" href="https://twitter.com/justinsuntron/status/1094067439271239680?ref_src=twsrc%5Etfw">February 9, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><strong>Ethereum to PoS</strong><br />
+Truly, more decentralized applications (dApps) activities are currently being run on the <a rel="nofollow" target="_blank" href="https://news.8btc.com/switch-to-progpow-ethereum-community-debates-asic-resistance" target="_blank" rel="noopener">TRON and EOS blockchains</a> but Ethereum still hosts more dApps, according to <a rel="nofollow" target="_blank" href="https://dappradar.com/rankings" target="_blank" rel="noopener">DappRadar ranking</a>. Only three Ethereum-based dApps are in the top 50 (30th, 40th and 49th spots) in terms of a 24-hour user basis. Despite the downward market trend and the reduced number of new ICOs, the <a rel="nofollow" target="_blank" href="https://ffdk.academy/blog/ethereumplattform-weiter-fuehrend-ein-ende-ist-nicht-abzusehen-wenn-es-um-icos-geht/" target="_blank" rel="noopener">Ethereum platform still leads</a> as the most popular platform by a very wide margin. A reform of the platform’s setup is expected to make it more active and attractive.</p>
+<p>The Ethereum network is working to switch to a <a rel="nofollow" target="_blank" href="http://news.8btc.com/stakings-crucial-role-in-ethereums-development" target="_blank" rel="noopener">Proof of Stake protocol</a>. In a 2013 article, Buterin notes that the PoS system could help alleviate much of the difficulty and wastefulness some coins experience today and could also be used to secure a cryptocurrency&#8217;s network in decentralized anti-spam systems.</p>
+<p>Going PoS has always been touted as the best way for Ethereum. However, the move seems to take longer than expected. As its network&#8217;s <a rel="nofollow" target="_blank" href="http://news.8btc.com/ethereums-constantinople-fork-gets-new-date" target="_blank" rel="noopener">Constantinople fork</a> date gets closer &#8211; around Feb. 28, some factors have been highlighted as slowing the switch. They include the view held by some that there&#8217;s a misconception about what a correct PoS is. They claim that changing to PoS is a lot more complex than many think regardless of how some blockchain projects have made it seem. It is also worth noting that Ethereum did not start with a PoS system and now that it has grown to be a large-sized project, there&#8217;s a need to be extra careful security-wise to get the switch done.</p>
+              <div>
+            </div>
+          </article>
+                                              </section>
+        <section id="comments" class="comments-area">
+            <div class="hidden-xs article-foot-tags">
+                <div class="fr foot-detail-info-fr post-tags">
+                <a target="_blank" class="tag" href="/tag/Ethereum">Ethereum</a> <a target="_blank" class="tag" href="/tag/Tron">Tron</a> <a target="_blank" class="tag" href="/vitalik-buterin">Vitalik Buterin</a>                </div>
+                <span class="fl foot-detail-info-fl post-support-reply details">
+                    <span class="post-small-button left p-read-more" id="share-174-rm" style="margin-right: 0px;">
+                                                <a href="https://news.8btc.com/wp-login.php" title="Login" class="point-comment">
+                            <i class="fa fa-thumbs-up" id="author_like">(<span id="like_count">0</span>)</i>
+                        </a>
+                                            </span>
+                    <div class="post-small-button left p-share" id="share-174-wrap" style="height: 50px; width: 50px;">
+                        <a href="#comment" class="post-share-temp1 reply-comment" id="share-174" style="display: block;">
+                            <i class="fa fa-mail-forward"></i>
+                        </a>
+                    </div>
+                <span>
+                <input type="hidden" id="is_liked" value=""/>
+                <script type="text/javascript">
+				$("#author_like").on("click",function(e){
+					like_this_author('34','',35990,'like',e);
+				})
+                function like_this_author(author_id,user_id,post_id,point,e){
+	                if($("#is_liked").val()==1) return;
+                    if(user_id!=''){
+                        if(author_id==user_id){
+                        	return "You can't vote for yourself.";
+                        }
+                        $.post("https://news.8btc.com",{user_id:user_id,author_id:author_id,post_id:post_id,point:point},function(result){
+                        		if(result=='success'){
+                            		$("#action_post_"+point).addClass('action_'+point+'_true');
+                            		$("#is_"+point+"d").val(1);
+                            		$("#"+point+"_count").html(parseInt($("#"+point+"_count").html())+1);
+									anp(e);
+                            	}else if(result=='already'){
+                            		alert('You have already voted.');
+                                }else if(result=='failed'){
+                            		alert('Please try again.');
+                                }
+                          	});
+                    }else{
+                    	alert('Please sign in first.');
+                    }
+                }
+	            function anp(e){
+	            	var n=1;
+	            	var $i=$("<b>").text("+"+n);
+	            	var x=e.pageX,y=e.pageY;
+	            	$i.css({top:y-20,left:x,position:"absolute",color:"#E94F06"});
+	            	$("body").append($i);
+	            	$i.animate({top:y-180,opacity:0,"font-size":"1.4em"},1500,function(){
+	            		$i.remove();
+	            	});
+	            	e.stopPropagation();
+	            }
+                </script>
+                <div style="clear: both;"></div>
+            </div>
+            <div class="visible-xs article-foot-tags">
+                <div><a target="_blank" class="tag" href="/tag/Ethereum">Ethereum</a> <a target="_blank" class="tag" href="/tag/Tron">Tron</a> <a target="_blank" class="tag" href="/vitalik-buterin">Vitalik Buterin</a></div>
+            </div>
+
+            <div class="ot-content-block article-main-next-prev">
+                <div class="otg otg-items-2 otg-h-30 ar-jt">
+                    <div class="otg-item" style="width:49%;margin-right:2%;margin-left:0">
+                        <a href="https://news.8btc.com/j-p-morgans-jpm-coin-is-not-a-cryptocurrency" class="article-nav-previous">
+                        <i class="fa iconfont">&#xe7b6;</i>
+                        <!--  <span>Previous article</span> -->
+                        <strong>J.P. Morgan’s JPM Coin is Not A Cryptocurrency</strong>
+                        </a>
+                    </div>
+                    <div class="otg-item" style="width:49%;margin-left:0">
+                        <a href="https://news.8btc.com/data-shows-dapp-market-is-not-cooling-down-despite-trading-volume-down-by-60-during-spring-festival-holiday" class="article-nav-next">
+                            <i class="fa iconfont">&#xe625;</i>
+                            <!-- <span>Next article</span> -->
+                            <strong>Data Shows dApp Market Is Not Cooling Down, Despite Trading Volume Down By 60% During Spring Festival Holiday</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="ot-content-block">
+                <div class="article-author-block">
+                    <div class="item-header">
+                        <a href="https://news.8btc.com/author/obj" class="no-color-change">
+                        <img src="https://news.8btc.com/wp-content/uploads/2016/11/olu.jpeg" width="55" height="55" alt="Olusegun Ogundeji" class="avatar avatar-55 wp-user-avatar wp-user-avatar-55 alignnone photo" />                        </a>
+                    </div>
+                    <div class="item-content">
+                        <strong><a href="https://news.8btc.com/author/obj" class="title-underline">Olusegun Ogundeji</a></strong>
+                        <p class="no-color-change">Olusegun Ogundeji is an author and journalist from Africa.  He writes mainly on technology-related issues including Bitcoin/Blockchain - usually from an end user perspective.</p>
+                    </div>
+                    <span class="jy"></span>
+                </div>
+            </div>
+            <div class="ot-content-block  ot-title-block-ar">
+    <div class="ot-material-card ot-material-card-content">
+        <div class="ot-title-block ot-title-block-ar">
+                    </div>
+        <ul id="list_content_all">
+        	        </ul>
+        <div class="comments-pager"></div>
+    </div>
+</div>
+    <div id="comment" class="comment-respond" style="margin-top: -80px;border:none;">
+                        <div class="ot-title-block  ot-title-block-ar">
+            <!-- <span class="title-k fl"></span> --><h2 style="background-color: #fff;"><span class="first">P</span>lease sign in first</h2>
+        </div>
+        <form id="loginform" class="comment-form comment-form1" name="loginform" action="https://news.8btc.com/wp-login.php" method="post" novalidate style="width:100%;">
+            <p class="comment-form-author">
+                <input id="author" name="log" type="text" placeholder="Username or email address" size="30" maxlength="245" aria-required="true" required>
+            </p>
+            <p class="comment-form-email">
+                <input id="email" name="pwd" type="password" placeholder="Password" size="30" maxlength="100" aria-describedby="email-notes" aria-required="true" required>
+            </p>
+            <p class="form-submit">
+                <input type="hidden" name="redirect_to" value="https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder#comment" />
+                <input name="submit" type="submit" id="submit" class="submit" value="Sign in">
+            </p>
+        </form>
+            </div>
+    <script>
+function showCommentForm(comment_id,obj){
+	if(comment_id=='') return;
+	if($('#comment_reply_'+comment_id).hasClass('hide')){
+		//$(obj).html('取消');
+		$('#comment_reply_'+comment_id).removeClass('hide');
+	}else{
+		//$(obj).html('回复');
+		$('#comment_reply_'+comment_id).addClass('hide');
+	}
+}
+</script>
+<script type="text/javascript">
+//评论支持反对js
+function point_this_comment(user_id,author_id,comment_id,point){
+	if(user_id!=''){
+		if(author_id==user_id){
+			return '不能给自己投票';
+		}
+		$.post(window.location.href,{user_id:user_id,author_id:author_id,ajax_comment_id:comment_id,ajax_comment_point:point},function(result){
+			if(result=='success'){
+				if($("#comment_"+point+"_count_"+comment_id).html()!=''){
+					if(!parseInt($("#comment_"+point+"_count_"+comment_id).html())){
+						$("#comment_"+point+"_count_"+comment_id).html('(1)');
+					}else{
+						new_count = parseInt($("#comment_"+point+"_count_"+comment_id).html())+1;
+						$("#comment_"+point+"_count_"+comment_id).html('('+new_count+')');
+					}
+				}else{
+					$("#comment_"+point+"_count_"+comment_id).html('(1)');
+	    		}
+			}else if(result=='nologin'){
+				alert('请先登录');
+			}else if(result=='already' || result=='limited'){
+				alert('已投票过');
+			}
+		});
+	}else{
+		alert('请先登录');
+	}
+}
+</script>          <!-- #respond -->
+          
+        </section>
+        <!-- END #comments --> 
+        
+      </section>
+      <!-- END .content-wrap -->
+      
+      <section class="sidebar clearfix a-sidebar">
+    <aside id="ac_social_buttons_widget-2" class="side-box clearfix widget ac-social-buttons-widget a-widget2">
+        <div class="sb-content clearfix">
+            <ul class="sidebar-social clearfix">
+                                <li class="alignleft"><a target="_blank" href="javascript: void(window.open('http://twitter.com/home/?status='.concat(encodeURIComponent(document.title)) .concat(' ') .concat(encodeURIComponent(location.href)), 'newWindow', 'width=800, height=400','center'));" class="social-btn twitter">Twitter<i class="fa fa-twitter iconfont-red i-r1"></i> </a></li>
+                <li class="alignright"><a target="_blank" href="javascript: void(window.open('https://www.facebook.com/sharer/sharer.php?u=https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder', 'newWindow', 'width=800, height=400','center'))" class="social-btn facebook">Facebook <i class="fa fa-facebook iconfont-red i-r2"></i> </a></li>
+                <li class="alignleft"><a target="_blank" href="javascript: void(window.open('http://v.t.sina.com.cn/share/share.php?title=Vitalik, Ethereum in &#8220;Difficult Place&#8221;, Tomochain Founder Says&url=https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder&content=utf-8&sourceUrl=&pic=https://news.8btc.com/wp-content/uploads/2019/02/Vitalik-.jpg','newWindow','width=800, height=400','center'));"  class="social-btn google-plus">Weibo <i class="fa fa-weibo iconfont-red i-r3"></i> </a></li>
+                <li class="alignright"><a target="_blank" href="https://www.reddit.com/submit?url=https://news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder" class="social-btn rss">REDDIT<i class="fa fa-reddit-alien iconfont-red i-r4"></i> </a></li>
+            </ul>
+        </div>
+    </aside>
+        <!-- END .sidebox .widget -->
+    <aside class="side-box ac-tabs-init-wrap widget" id="ac-tabs-widget-ac_tabs_widget-2">
+        <div class="tabs-widget-navigation clearfix">
+            <div class="ot-title-block ny-otb">
+              <div class="ot-title-block-t ot-title-block-ta" style="padding:40px 0 5px 0;"><h2><span class="first">R</span>ECENT POSTS</h2></div>
+            </div>
+        </div>
+    
+        <div class="article">
+            <dl style="margin-bottom: 0;">
+                                                <dd>
+                    <a href="https://news.8btc.com/blockchain-stands-to-capture-one-third-of-global-economy-cost">
+                        <div class="img"><img src="https://news.8btc.com/wp-content/uploads/2019/03/kpmg.jpg" onerror="this.src='https://news.8btc.com/wp-content/themes/news/img/a1.jpg'" alt="Blockchain Stands to Capture One-Third of Global Economy Cost"/></div>
+                        <div class="article-r-n">
+                            <p class="p1" style="font-family: 'Lato',sans-serif;font-weight: 700">Blockchain</p>
+                            <P class="p2 title-underline">Blockchain Stands to Capture One-Th...</P>
+                            <p class="p3" style="font-family: 'Lato',sans-serif;font-weight: 700"><a href="#comment">comments 0</a></p>
+                        </div>
+                    </a>
+                </dd>
+                                                <dd>
+                    <a href="https://news.8btc.com/miners-will-face-short-term-pain-after-hard-forks-activate-on-ethereum">
+                        <div class="img"><img src="https://news.8btc.com/wp-content/uploads/2019/03/15514326911.png" onerror="this.src='https://news.8btc.com/wp-content/themes/news/img/a1.jpg'" alt="Miners Will Face Short-Term Pain After Hard Forks Activate on Ethereum"/></div>
+                        <div class="article-r-n">
+                            <p class="p1" style="font-family: 'Lato',sans-serif;font-weight: 700">Mining</p>
+                            <P class="p2 title-underline">Miners Will Face Short-Term Pain Af...</P>
+                            <p class="p3" style="font-family: 'Lato',sans-serif;font-weight: 700"><a href="#comment">comments 0</a></p>
+                        </div>
+                    </a>
+                </dd>
+                                            </dl>
+        </div>
+                        <div class="tabs-widget-navigation clearfix">
+            <div class="ot-title-block ny-otb">
+                <div class="ot-title-block-t ot-title-block-ta"  style="padding:40px 0 5px 0;"><h2><span class="first">R</span>elated POSTS</h2></div>
+            </div>
+        </div>
+        <div class="sb-content tabs-widget-tab clearfix" id="ac_tabs_widget-2_tab-2" style="margin-top:-30px ;display:block;">
+            <ul class="ac-featured-posts">
+                                <li id="featured-post-1">
+                    <figure class="thumbnail"> <img width="638" height="368" src="https://news.8btc.com/wp-content/uploads/2019/03/stablecoins-vs-Bitcoin.jpg" class="attachment-ac-sidebar-featured size-ac-sidebar-featured wp-post-image" alt="" sizes="(max-width: 638px) 100vw, 638px" />
+                        <figcaption class="details">
+                            <span class="category"><a href="<a href="" title="View all posts in Bitcoin">Bitcoin</a></span>
+                            <a href="https://news.8btc.com/how-rising-stablecoins-use-can-impact-bitcoin-ethereum" class="title title-underline" rel="bookmark">How Rising Stablecoins Use Can Impact Bitcoin, Ethereum</a>            
+                            <!-- <a href="https://news.8btc.com/how-rising-stablecoins-use-can-impact-bitcoin-ethereum" title="Read More" class="read-more"><i class="iconfont">&#xe684;</i> </a> -->
+                        </figcaption>
+                        <div class="a-mask">
+                            <!-- <h2>March 1, 2019</h2> -->
+                            <h3><a href="https://news.8btc.com/how-rising-stablecoins-use-can-impact-bitcoin-ethereum" class="title" rel="bookmark">Bitcoin’s volatility is “a feature and not a bug” that could make stablecoins' use rise in the long term, a new report by all-in-one crypto company, Blockchain, posited. The projected rise would impact top cryptocurrencies like Bitcoin and Ethereum in some ways, it suggests.
+
+Known for th...</a></h3>
+                        </div>
+                    </figure>
+                </li>
+                            <li id="featured-post-2">
+                    <figure class="thumbnail"> <img width="638" height="368" src="https://news.8btc.com/wp-content/uploads/2019/02/15513487661.png" class="attachment-ac-sidebar-featured size-ac-sidebar-featured wp-post-image" alt="" sizes="(max-width: 638px) 100vw, 638px" />
+                        <figcaption class="details">
+                            <span class="category"><a href="<a href="" title="View all posts in Bitcoin">Bitcoin</a></span>
+                            <a href="https://news.8btc.com/chinas-crypto-project-moleculemol-blockchain-shuts-downto-return-remaining-eth-to-investors" class="title title-underline" rel="bookmark">China&#8217;s Crypto Project Molecule(MOL) Blockchain Shuts Down,to Return &#8216;Remaining&#8217; ETH to Investors</a>            
+                            <!-- <a href="https://news.8btc.com/chinas-crypto-project-moleculemol-blockchain-shuts-downto-return-remaining-eth-to-investors" title="Read More" class="read-more"><i class="iconfont">&#xe684;</i> </a> -->
+                        </figcaption>
+                        <div class="a-mask">
+                            <!-- <h2>February 28, 2019</h2> -->
+                            <h3><a href="https://news.8btc.com/chinas-crypto-project-moleculemol-blockchain-shuts-downto-return-remaining-eth-to-investors" class="title" rel="bookmark">China-based cryptocurrency project Molecule (MOL) Blockchain announced on February 2 it  shut down operations and would return the remaining ETH which the team raised through its initial coin offering(ICO) to investors due to the brutal crypto winter, according to the statement.
+
+L...</a></h3>
+                        </div>
+                    </figure>
+                </li>
+                            <li id="featured-post-3">
+                    <figure class="thumbnail"> <img width="638" height="368" src="https://news.8btc.com/wp-content/uploads/2019/02/15512609481.png" class="attachment-ac-sidebar-featured size-ac-sidebar-featured wp-post-image" alt="" sizes="(max-width: 638px) 100vw, 638px" />
+                        <figcaption class="details">
+                            <span class="category"><a href="<a href="" title="View all posts in Bitcoin">Bitcoin</a></span>
+                            <a href="https://news.8btc.com/historical-data-shows-eth-price-will-likely-drop-lower-next-month-although-ethereums-constantinople-hard-fork-approaches" class="title title-underline" rel="bookmark">Historical Data Shows ETH Price Will Likely Drop Lower Next Month, Although Ethereum&#8217;s  Constantinople Hard Fork Approaches</a>            
+                            <!-- <a href="https://news.8btc.com/historical-data-shows-eth-price-will-likely-drop-lower-next-month-although-ethereums-constantinople-hard-fork-approaches" title="Read More" class="read-more"><i class="iconfont">&#xe684;</i> </a> -->
+                        </figcaption>
+                        <div class="a-mask">
+                            <!-- <h2>February 27, 2019</h2> -->
+                            <h3><a href="https://news.8btc.com/historical-data-shows-eth-price-will-likely-drop-lower-next-month-although-ethereums-constantinople-hard-fork-approaches" class="title" rel="bookmark">Etheurem’s long-awaited network update known as Constantinople is set to be executed at a block number 7,280,000, which is scheduled to take place on Thursday, February 28. Although this hard fork event is widely seen as being bullish in the long term, Ethereum(ETH)’s historical data indi...</a></h3>
+                        </div>
+                    </figure>
+                </li>
+                        </ul>
+        </div>
+    </aside>
+</section>    </div>
+  </section>
+</div>
+<!-- END .wrap --> 
+
+
+<style type="text/css">
+@media screen and (max-width: 600px) {
+    height: 480px;margin: 0 0 -30px 0;
+}
+</style>
+
+<div id="footer">
+    <div class="f-banner banner_type_0 banner_library_header"></div> 
+    <div id="ft">
+        <footer id="footer1">
+            <div class="container">
+                <div class="copyright-strip">
+                    <dl class="footer">
+                        <dt>CONTACT</dt>
+                        <dd class="f-contact">
+                                                        <ul>
+                                <li class="icon-footer-contact"><i class="fa fa-map-marker" style="margin-right:14px;font-size:22px;"></i>Xihu District, Hangzhou, Zhejiang, PRC 310012</li>
+                                <li class="icon-footer-contact contact-phone"><i class="fa fa-phone"></i>(+86)0571-86093123</li>
+                                <li class="icon-footer-contact"><i class="fa fa-envelope"></i>q@8btc.com (Bussiness)
+<br/>
+<font style="margin-left:29px">connie@8btc.com (Columnist & Submission)</font></li>
+                                								<li class="icon-footer-contact contact-phone"><i class="fa fa-bitcoin"></i>3KRMbbQmVxq3H4RYbeJdNFYj5vPBCnx8sJ</li>
+                            </ul>
+                                                    </dd>
+                    </dl>
+                    <dl class="footer footer-none" style="margin: 0 5%">
+                        <dt>QUICK LINKS</dt>
+                        <!-- <hr style="color:#d03a3b;width:60px;"> -->
+                        <dd>
+                            <div class="f-links">
+                                <div class="f-links-l fl">
+                                    <ul>
+                                    <li><a rel="nofollow" href="https://www.reddit.com/r/btc" title="Reddit">/r/btc</a></li>
+<li><a rel="nofollow" href="https://bitcoinmagazine.com/" target="_blank">BitcoinMagazine</a></li>
+<li><a rel="nofollow" href="http://www.coindesk.com/" target="_blank">Coindesk</a></li>
+<li><a rel="nofollow" href="http://cointelegraph.com/" target="_blank">Cointelegraph</a></li>
+<li><a rel="nofollow" href="http://www.newsbtc.com/" target="_blank">NewsBTC</a></li>
+<li><a rel="nofollow" href="http://www.the-blockchain.com/" title="Blockchain News is your source for the latest news and opinion on Blockchain and Distributed Ledger technology and intelligence.">The Blockchain News</a></li>
+                                    </ul>
+                                </div>
+                                <div class="f-links-r fr">
+                                    <ul>
+                                        <li><a href="http://book.8btc.com/" target="_blank">8BTCBook</a></li>
+<li><a href="https://bbs.8btc.com/">8BTCForum</a></li>
+<li><a href="http://www.8btc.com">8BTCNews（Chinese）</a></li>
+<li><a href="https://blockmeta.com/" target="_blank">Blockmeta</a></li>
+<li><a href="https://bytom.io/" target="_blank">Bytom</a></li>
+<li><a href="http://www.qkl123.com/">QKL123</a></li>
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </dd>
+                    </dl>
+                    <!-- <dl class="footer footer-none">
+                    <dt>ABOUT 8BTC.COM</dt>
+                    <hr style="color:#d03a3b;width:60px;">
+                    <dd class="f-about">Bitcoin.com is your premier source for everything Bitcoin related. This section of the site focuses on delivering the latest news from the bitcoin space. You can also engage with the community on our Bitcoin Forum, or check out some useful tools.</dd>
+                    </dl> -->
+                    <dl class="footer footer-none">
+                        <dt style="width:100%;">TAGS</dt>
+                          <div class="tagcloud">
+                            <a href='https://news.8btc.com/tag/bitcoin' class='tag-link-615 tag-link-position-1' title='267 topics' style='font-size: 14px;'>Bitcoin</a>
+<a href='https://news.8btc.com/tag/eos' class='tag-link-724 tag-link-position-2' title='16 topics' style='font-size: 14px;'>eos</a>
+<a href='https://news.8btc.com/tag/pboc' class='tag-link-74 tag-link-position-3' title='30 topics' style='font-size: 14px;'>PBOC</a>
+<a href='https://news.8btc.com/tag/bitcoin-mining' class='tag-link-194 tag-link-position-4' title='22 topics' style='font-size: 14px;'>bitcoin mining</a>
+<a href='https://news.8btc.com/tag/segwit' class='tag-link-48 tag-link-position-5' title='20 topics' style='font-size: 14px;'>SegWit</a>
+<a href='https://news.8btc.com/tag/ethereum' class='tag-link-2 tag-link-position-6' title='44 topics' style='font-size: 14px;'>Ethereum</a>
+<a href='https://news.8btc.com/tag/eth' class='tag-link-3 tag-link-position-7' title='14 topics' style='font-size: 14px;'>ETH</a>
+<a href='https://news.8btc.com/tag/bytom' class='tag-link-706 tag-link-position-8' title='34 topics' style='font-size: 14px;'>Bytom</a>
+<a href='https://news.8btc.com/tag/ico' class='tag-link-30 tag-link-position-9' title='44 topics' style='font-size: 14px;'>ICO</a>
+<a href='https://news.8btc.com/tag/blockchain' class='tag-link-658 tag-link-position-10' title='221 topics' style='font-size: 14px;'>Blockchain</a>
+<a href='https://news.8btc.com/tag/bitcoin-cash' class='tag-link-754 tag-link-position-11' title='18 topics' style='font-size: 14px;'>bitcoin cash</a>
+<a href='https://news.8btc.com/tag/mining' class='tag-link-37 tag-link-position-12' title='46 topics' style='font-size: 14px;'>Mining</a>
+<a href='https://news.8btc.com/tag/cryptocurrency' class='tag-link-118 tag-link-position-13' title='69 topics' style='font-size: 14px;'>Cryptocurrency</a>
+<a href='https://news.8btc.com/tag/regulation' class='tag-link-621 tag-link-position-14' title='38 topics' style='font-size: 14px;'>regulation</a>
+<a href='https://news.8btc.com/tag/bitmain' class='tag-link-72 tag-link-position-15' title='74 topics' style='font-size: 14px;'>Bitmain</a>
+<a href='https://news.8btc.com/tag/huobi' class='tag-link-225 tag-link-position-16' title='21 topics' style='font-size: 14px;'>HuoBi</a>
+<a href='https://news.8btc.com/tag/crypto' class='tag-link-840 tag-link-position-17' title='20 topics' style='font-size: 14px;'>crypto</a>
+<a href='https://news.8btc.com/tag/binance' class='tag-link-828 tag-link-position-18' title='27 topics' style='font-size: 14px;'>Binance</a>
+<a href='https://news.8btc.com/tag/litecoin' class='tag-link-84 tag-link-position-19' title='30 topics' style='font-size: 14px;'>Litecoin</a>
+<a href='https://news.8btc.com/tag/china' class='tag-link-660 tag-link-position-20' title='26 topics' style='font-size: 14px;'>China</a>                          </div>
+                        
+                        <dt style="width:100%;">NEWSLETTER</dt>
+                          <div class="textwidget"><div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
+                        
+                          <p class="newsletter-p">Get in touch with us right now.</p>
+                          
+                          <div role="form" class="wpcf7" id="wpcf7-f1782-o1" lang="en-US" dir="ltr">
+                          <div class="screen-reader-response"></div>
+                            <form action="" method="post" class="wpcf7-form" novalidate="novalidate">
+                            <div class="mkd-newsletter clearfix">
+                              <div class="" style="overflow:auto;">
+                                <div class="mkd-column1">
+                                <span class="wpcf7-form-control-wrap text-386"><input type="text" name="text-386" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Enter your email"></span>
+                                </div>
+                                <div class="mkd-column2">
+                                <input type="submit" value="" class="wpcf7-form-control wpcf7-submit"><img class="wpc7-send" style="position: absolute;width: 20px;left: 10px;top: 10px;cursor:pointer" src="https://news.8btc.com/wp-content/themes/news/img/send.png"><img class="ajax-loader" src="https://news.8btc.com/wp-content/themes/news/img/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;">
+                                </div>
+                              </div>
+                              <div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert">Thank you for your message. It has been sent.</div>
+                            </div>
+                            </form>
+                          </div></div>
+                    </dl>
+                </div>
+            </div>
+        </footer>
+        <footer id="footer2">
+            <div class="container">
+                <div class="copyright-strip copyright-strip-d">
+                    <div class="left">
+                        <p>Hangzhou Shichuo Information Technology Co, Ltd. 2019 | 8btc.com
+                            <!--统计代码开始-->
+                            <div class="site-analytics">
+                                                        <script src="https://s4.cnzz.com/z_stat.php?id=1260873717&web_id=1260873717" language="JavaScript"></script>                                                        </div>
+                            <!--统计代码结束-->
+                        </p>
+                    </div>
+                    <!-- <script src="fonts/font/iconfont.css"></script> -->
+                    <div class="right">
+                    <ul class="f-n-icon">
+                        <li><a href="https://twitter.com/btcinchina" target="_blank"><i class="iconfont icon-twitter"></i></a></li>
+                      </ul>
+                    </div>
+                    <!-- <div class="clear"></div> -->
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+<a href="#top" id="otm-back-to-top" class="active" style="display: none;"><i class="material-icons"><img src="https://news.8btc.com/wp-content/themes/news/img/top.png"></i></a>
+
+<script type="text/javascript">
+  $('.f-top').click(function(){
+    $('html,body').animate({scrollTop: '0px'}, 1000);
+  })
+
+  $('.wpc7-send').click(function(){
+    // $('.ajax-loader').css("visibility","visible");
+    $('.wpcf7-display-none').css("display","block");
+  })
+</script>
+<script type='text/javascript'>
+    backTop=function (btnId){
+        var btn=document.getElementById(btnId);
+        var d=document.documentElement;
+        var b=document.body;
+        window.onscroll=set;
+        btn.onclick=function (){
+            btn.style.display="none";
+            window.onscroll=null;
+            this.timer=setInterval(function(){
+                d.scrollTop-=Math.ceil((d.scrollTop+b.scrollTop)*0.1);
+                b.scrollTop-=Math.ceil((d.scrollTop+b.scrollTop)*0.1);
+                if((d.scrollTop+b.scrollTop)==0) clearInterval(btn.timer,window.onscroll=set);
+            },10);
+        };
+        function set(){btn.style.display=(d.scrollTop+b.scrollTop>100)?'block':"none"}
+    };
+    backTop('otm-back-to-top');    
+</script>
+
+
+<!-- <script type='text/javascript' src='https://news.8btc.com/wp-content/themes/news/js/otmenu.min.js'></script> -->
+ <script type="text/javascript" src="https://news.8btc.com/wp-content/themes/news/js/theme-scripts.min.js"></script>  
+<script type="text/javascript">
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/newsline.orange-themes.com","ajax_url":"http:\/\/newsline.orange-themes.com\/wp-admin\/admin-ajax.php","url_type":"3"};
+</script>  
+<script src="https://news.8btc.com/wp-content/themes/news/js/common.js"></script>
+
+<script>
+var currentAjax = null;
+function getWeiboComment() {
+	if(currentAjax) {currentAjax.abort();}
+	currentAjax = jQuery.post('//news.8btc.com/vitalik-ethereum-in-difficult-place-tomochain-founder',{is_get_weibo_comment_from_api:1},function(result){
+	});
+}
+function stopAjax(){  
+	//如若上一次AJAX请求未完成，则中止请求  
+	if(currentAjax) {currentAjax.abort();}  
+}
+document.onclick=function(){
+	//无反应则终止操作,防止首页ajax一直请求导致打开其他页面响应慢(等待ajax请求完毕)
+	if(currentAjax) {currentAjax.abort();}  
+}
+getWeiboComment();
+</script><script type="text/javascript">
+$(".social-btn").on("click",function(e){
+	$.post("https://news.8btc.com",{post_id:'35990',ajax_post_share:1},function(result){});
+})
+</script>
+<script>
+function rsync_img(obj){
+	
+}
+</script>
+
+<div class="pn-news-message-top" id="today-new-article"></div>
+<script type="text/javascript">
+$(function(){
+	setInterval(change_adkingprocontainer_status, 10000);
+	var default_num_arr = new Array();
+	var sub_ele_count = new Array();
+	function change_adkingprocontainer_status(){
+		var adkingprocontainer_len = $(".adkingprocontainer").length;
+		if(adkingprocontainer_len > 0){
+			for (var i=0;i<adkingprocontainer_len;i++){
+				if( !(default_num_arr[i] >= 0) ) default_num_arr[i] = 1;
+				if( !(sub_ele_count[i] >= 0) ) sub_ele_count[i] = $(".adkingprocontainer").eq(i).find(".akpbanner").length;
+				if(default_num_arr[i] >= sub_ele_count[i]) default_num_arr[i] = 0;
+				var adkingprocontainer_id = 'id'+$(".adkingprocontainer").eq(i).attr('id');
+				if(adkingprocontainer_id.indexOf("akp_slideshow") > 0){
+					$(".adkingprocontainer").eq(i).find(".akpbanner").css('display','none');
+					$(".adkingprocontainer").eq(i).find(".akpbanner").eq(default_num_arr[i]).fadeIn(500);
+				}
+				default_num_arr[i] = default_num_arr[i] + 1;
+			}
+		}
+	}
+})
+</script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.602 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-03-04 02:09:03 -->
+
+<!-- super cache -->

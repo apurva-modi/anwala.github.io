@@ -1,0 +1,15 @@
+Crypto Mining Malware on Popular Code Repositories
+4 Jan, 2018
+bitcoin cryptomining remove malware malware on website malware cleanup
+Cryptocurrency mining malware is gaining popularity among hackers. Attackers are now using GitHub repositories and other well-known repositories for storing and serving the malicious code. On GitHub, the free accounts are being created to commit the obfuscated code and to use it in the injection later. The encrypted infection usually disguises itself as a legitimate jQuery or other familiar library files. It looks like in 2018 this new security threat - cryptojacking is here to stay. With the explosion of the cryptocurrency, it will become a significant part of the global web malware landscape. We expect that cyber-criminals will continue hijacking websites and visitors' systems to exploit them as the free power and computing resources.
+Let's have a look at the code that was recently detected by ThreatSign website security monitoring and later appeared to be another cryptocurrency mining infection.
+Malware Analysis
+The common infection is placed in the themes header file:
+Once decrypted, a connection to GitHub will take place to download a file:
+The content of the downloaded file from GitHub:
+MD5 : D7A539C0E2F1DAC800030CAB72C3A968
+And once you follow the decryption routine to uncover the content of the file, it should look like this:
+Notice on the script above, the first active line of the code (which hides inside a common JavaScript file) is the one that is responsible for the throttling of the visitor’s CPU for mining:
+Is your website flagged for malware, blocked by the search engines or disabled by the host?
+Quttera experts are at your service to clean up any malware from your sites and remove false-positives, blacklisting and other kinds of alerts by any security vendor and search engines. Just select from suitable ThreatSign! Anti-Malware Plan and get back online.
+For other issues and help: Quttera's help-desk

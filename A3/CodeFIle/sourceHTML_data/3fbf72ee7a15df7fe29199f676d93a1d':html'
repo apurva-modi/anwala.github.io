@@ -1,0 +1,777 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,600,700" rel="stylesheet"> 
+    <title>How to store crypto token - azultec</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="With cryptocurrencies and token becoming more and more mainstream, it is more important than ever to take care of them. But how to store crypto token?"/>
+<link rel="canonical" href="https://azultec.de/blog/how-to-store-crypto-token/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How to store crypto token" />
+<meta property="og:description" content="With cryptocurrencies and token becoming more and more mainstream, it is more important than ever to take care of them. But how to store crypto token?" />
+<meta property="og:url" content="https://azultec.de/blog/how-to-store-crypto-token/" />
+<meta property="og:site_name" content="azultec" />
+<meta property="article:tag" content="cryptocurrency" />
+<meta property="article:tag" content="ICO" />
+<meta property="article:tag" content="storing" />
+<meta property="article:tag" content="token" />
+<meta property="article:tag" content="Wallets" />
+<meta property="article:section" content="Knowledge" />
+<meta property="article:published_time" content="2018-12-19T10:08:23+00:00" />
+<meta property="article:modified_time" content="2018-12-19T10:08:24+00:00" />
+<meta property="og:updated_time" content="2018-12-19T10:08:24+00:00" />
+<meta property="og:image" content="https://azultec.de/wp-content/uploads/BitcoinWallet-1024x562.jpg" />
+<meta property="og:image:secure_url" content="https://azultec.de/wp-content/uploads/BitcoinWallet-1024x562.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="562" />
+<meta property="og:image:alt" content="Bitcoin wallet" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="With cryptocurrencies and token becoming more and more mainstream, it is more important than ever to take care of them. But how to store crypto token?" />
+<meta name="twitter:title" content="How to store crypto token - azultec" />
+<meta name="twitter:image" content="https://azultec.de/wp-content/uploads/BitcoinWallet.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="azultec &raquo; Feed" href="https://azultec.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="azultec &raquo; Comments Feed" href="https://azultec.de/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="azultec &raquo; How to store crypto token Comments Feed" href="https://azultec.de/blog/how-to-store-crypto-token/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://azultec.de/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css'  href='https://azultec.de/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-consent-style-css'  href='https://azultec.de/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://azultec.de/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-timeline-css-css'  href='https://azultec.de/wp-content/plugins/tm-timeline/css/tm-timeline.css?ver=56563' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://azultec.de/wp-content/themes/elementor-hello-theme-master/style.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-hello-theme-style-css'  href='https://azultec.de/wp-content/themes/elementor-hello-theme-child/style.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://azultec.de/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://azultec.de/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://azultec.de/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1550574169' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-animate-styles-css'  href='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/css/animate.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-sliders-styles-css'  href='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/css/sliders.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-icomoon-styles-css'  href='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/css/icomoon.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-frontend-styles-css'  href='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/css/lae-frontend.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-widgets-styles-css'  href='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/css/lae-widgets.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://azultec.de/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1550574169' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://azultec.de/wp-content/uploads/elementor/css/global.css?ver=1550574170' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-16-css'  href='https://azultec.de/wp-content/uploads/elementor/css/post-16.css?ver=1550756122' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-72-css'  href='https://azultec.de/wp-content/uploads/elementor/css/post-72.css?ver=1550574171' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-951-css'  href='https://azultec.de/wp-content/uploads/elementor/css/post-951.css?ver=1550574584' type='text/css' media='all' />
+<link rel='stylesheet' id='eci-icon-fonts-css'  href='https://azultec.de/wp-content/uploads/elementor_icons_files/merged-icons-font.css?ver=1538141041' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Muli%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://azultec.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://azultec.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/themes/elementor-hello-theme-master/main.js?ver=5.0.3'></script>
+<link rel='https://api.w.org/' href='https://azultec.de/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://azultec.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://azultec.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://azultec.de/?p=1926' />
+<link rel="alternate" type="application/json+oembed" href="https://azultec.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fazultec.de%2Fblog%2Fhow-to-store-crypto-token%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://azultec.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fazultec.de%2Fblog%2Fhow-to-store-crypto-token%2F&#038;format=xml" />
+        <script type="text/javascript">
+            (function () {
+                window.lae_fs = {can_use_premium_code: false};
+            })();
+        </script>
+        
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-129066765-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '415919199153951');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=415919199153951&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #ddd;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #464646;
+				}
+				#catapult-cookie-bar a {
+					color: #fff;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #ffffff;
+				}
+				button#catapultCookie {
+					background:#fd6666;
+					color: #ffffff;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #ddd;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style><link rel="icon" href="https://azultec.de/wp-content/uploads/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://azultec.de/wp-content/uploads/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://azultec.de/wp-content/uploads/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://azultec.de/wp-content/uploads/cropped-favicon-270x270.png" />
+</head>
+<body class="post-template-default single single-post postid-1926 single-format-standard wp-custom-logo elementor-default elementor-page-951">
+
+		<div data-elementor-type="header" data-elementor-id="16" class="elementor elementor-16 elementor-location-header" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<header data-id="60d86d8d" class="elementor-element elementor-element-60d86d8d elementor-section-content-middle header elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="3d7c57c5" class="elementor-element elementor-element-3d7c57c5 logo-col elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7af6903" class="elementor-element elementor-element-7af6903 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-element_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://azultec.de" data-elementor-open-lightbox="">
+							<img src="https://azultec.de/wp-content/uploads/2018/08/logo.svg" class="attachment-full size-full" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="1dfd80e8" class="elementor-element elementor-element-1dfd80e8 nav-col elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3d10b5e" class="elementor-element elementor-element-3d10b5e logo-text turquoise elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">azultec</h2>		</div>
+				</div>
+				<div data-id="374014a6" class="elementor-element elementor-element-374014a6 elementor-nav-menu__align-left elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" id="top-nav" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-element_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-none"><ul id="menu-1-374014a6" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-49"><a href="https://azultec.de/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2414"><a href="https://azultec.de/azultec-cloud-rendering/" class="elementor-item">Cloud Rendering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://azultec.de/products/" class="elementor-item">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2286"><a href="https://azultec.de/azultec-roadmap/" class="elementor-item">Roadmap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://azultec.de/azultec-team/" class="elementor-item">Company</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://azultec.de/azultec-ico/" class="elementor-item">ICO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://azultec.de/azultec-news/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://azultec.de/downloads/" class="elementor-item">Downloads</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-374014a6" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-49"><a href="https://azultec.de/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2414"><a href="https://azultec.de/azultec-cloud-rendering/" class="elementor-item">Cloud Rendering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://azultec.de/products/" class="elementor-item">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2286"><a href="https://azultec.de/azultec-roadmap/" class="elementor-item">Roadmap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://azultec.de/azultec-team/" class="elementor-item">Company</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://azultec.de/azultec-ico/" class="elementor-item">ICO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://azultec.de/azultec-news/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://azultec.de/downloads/" class="elementor-item">Downloads</a></li>
+</ul></nav>
+				</div>
+				</div>
+				<div data-id="22c05c0" class="elementor-element elementor-element-22c05c0 elementor-align-right elementor-widget elementor-widget-button" id="wp-m-btn" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Whitepaper</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div data-id="da7d3a9" class="elementor-element elementor-element-da7d3a9 elementor-align-right register elementor-widget elementor-widget-button" id="ico-m-btn" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">ICO Anmeldung</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="399153f" class="elementor-element elementor-element-399153f ico-btn-col azul-head-button elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="9996f5e" class="elementor-element elementor-element-9996f5e elementor-align-right register elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://ico.azultec.de/" class="elementor-button-link elementor-button elementor-size-sm" target="_blank" role="button" id="registerICO">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Register for our ICO</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div data-id="a8af386" class="elementor-element elementor-element-a8af386 elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<script> 
+document.addEventListener("DOMContentLoaded", function(event) { 
+	jQuery('a#registerICO').click(function(){
+		fbq('track','CompleteRegistration'); 
+	}); 
+}); 
+</script>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2e9d9b9c" class="elementor-element elementor-element-2e9d9b9c wp-btn-col azul-head-button elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="89e9229" class="elementor-element elementor-element-89e9229 elementor-align-right elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://azultec.de/wp-content/uploads/EN_azultec-White-Paper.pdf" class="elementor-button-link elementor-button elementor-size-md" target="_blank" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Whitepaper</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</header>
+						</div>
+			</div>
+		</div>
+				<div data-elementor-type="single" data-elementor-id="951" class="elementor elementor-951 elementor-location-single post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="b2ab27a" class="elementor-element elementor-element-b2ab27a bg-grey post-navigation elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="9a7d751" class="elementor-element elementor-element-9a7d751 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section data-id="9af9906" class="elementor-element elementor-element-9af9906 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="da80469" class="elementor-element elementor-element-da80469 navigation-section elementor-column elementor-col-100 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="a9762fe" class="elementor-element elementor-element-a9762fe elementor-widget elementor-widget-post-navigation" data-element_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation elementor-grid">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://azultec.de/blog/how-can-i-make-profit-with-tokens/" rel="prev"><span class="post-navigation__arrow-wrapper post-navigation__arrow-prev"><i class="fa fa-long-arrow-left" aria-hidden="true"></i><span class="elementor-screen-only">Prev</span></span><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Before</span></span></a>			</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://azultec.de/blog/extended-ico-registration/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span></span><span class="post-navigation__arrow-wrapper post-navigation__arrow-next"><i class="fa fa-long-arrow-right" aria-hidden="true"></i><span class="elementor-screen-only">Next</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div data-id="b0dc48e" class="elementor-element elementor-element-b0dc48e elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="link to-overview">
+<a href="?page_id=42">
+    Go to news overview
+</a>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="564af73" class="elementor-element elementor-element-564af73 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="d962e08" class="elementor-element elementor-element-d962e08 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f09d2d6" class="elementor-element elementor-element-f09d2d6 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="69a87c88" class="elementor-element elementor-element-69a87c88 post-detail-section elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="2f3df805" class="elementor-element elementor-element-2f3df805 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section data-id="024192a" class="elementor-element elementor-element-024192a post-meta-data elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="b8f94af" class="elementor-element elementor-element-b8f94af elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="cb22c5e" class="elementor-element elementor-element-cb22c5e elementor-widget elementor-widget-post-info" data-element_type="post-info.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+					<li class="elementor-icon-list-item elementor-repeater-item-71bb2fc elementor-inline-item" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://azultec.de/blog/category/knowledge/" class="elementor-post-info__terms-list-item">Knowledge</a>				</span>
+					</span>
+								</li>
+				<li class="elementor-icon-list-item elementor-repeater-item-32c8d7e elementor-inline-item" itemprop="datePublished">
+						<a href="https://azultec.de/blog/2018/12/19/">
+														<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+							<span class="elementor-post-info__item-prefix">/ &nbsp;  </span>
+										19.12.2018					</span>
+									</a>
+				</li>
+				</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="64a5c8d" class="elementor-element elementor-element-64a5c8d elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="69268f0" class="elementor-element elementor-element-69268f0 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Share:</p></div>
+				</div>
+				</div>
+				<div data-id="ce3077a" class="elementor-element elementor-element-ce3077a elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--align-right elementor-share-buttons--shape-square elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-element_type="share-buttons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-grid">
+							<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_facebook">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-facebook" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on facebook</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_twitter">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-twitter" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on twitter</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_pinterest">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-pinterest" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on pinterest</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_reddit">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-reddit" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on reddit</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_tumblr">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-tumblr" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on tumblr</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_whatsapp">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-whatsapp" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on whatsapp</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_email">
+													<span class="elementor-share-btn__icon">
+								<i class="fa fa-envelope" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on email</span>
+							</span>
+																	</div>
+				</div>
+						</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div data-id="ee95afa" class="elementor-element elementor-element-ee95afa after-social elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="3e978b6b" class="elementor-element elementor-element-3e978b6b text black elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">How to store crypto token</h1>		</div>
+				</div>
+				<div data-id="5095436f" class="elementor-element elementor-element-5095436f text elementor-widget elementor-widget-theme-post-content" data-element_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+			
+<p>Cryptocurrencies are on everyone&#8217;s lips and are slowly becoming acceptable. This is because more and more consumers are getting involved in mining. However, probably one of the most important points should not be neglected, i.e. the security of the earned currencies. And this is exactly where the so-called wallets come into play. In this <g class="gr_ gr_58 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="58" data-gr-id="58">post</g> we highlight a few types of wallets available to store the tokens safely.</p>
+
+
+
+<span id="more-1926"></span>
+
+
+
+<figure class="wp-block-image"><img src="https://azultec.de/wp-content/uploads/BitcoinWallet-1024x562.jpg" alt="Bitcoin wallet" class="wp-image-1927" srcset="https://azultec.de/wp-content/uploads/BitcoinWallet-1024x562.jpg 1024w, https://azultec.de/wp-content/uploads/BitcoinWallet-300x165.jpg 300w, https://azultec.de/wp-content/uploads/BitcoinWallet-768x421.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>How to store crypto token at all?</h2>
+
+
+
+<p>Cryptocurrencies are not a commodity to store at home on the hard drive – they can&#8217;t be stored on a crypto exchange either. The obtained coins or token exist solely as an entry in the blockchain with an accompanying owner&#8217;s address. The only thing you can actually really own physically or digitally is access codes to the owner&#8217;s address, called “wallet”. You can imagine it like the digital counterpart of an actual wallet, just that it is secured with a virtual key. </p>
+
+
+
+<h2>How to access the wallet</h2>
+
+
+
+<p>You need a public
+and a private key to access the crypto&nbsp;coins or token&nbsp;in your wallet.
+If you lose it, you can no longer gain access to the crypto&nbsp;currency.&nbsp;</p>
+
+
+
+<p>The private key
+acts like a PIN for the debit card or online banking. Of course, users must not
+lose this key. Nor must&nbsp;it&nbsp;fall into any thief&#8217;s hands. However, if
+you store this key on a computer unsecured, you could fall victim to a hacker
+attack.&nbsp;</p>
+
+
+
+<p>Let’s take a look at the different wallets
+including their pros and cons</p>
+
+
+
+<h2>ColdWallets</h2>
+
+
+
+<p>How secure the wallet is depending a bit on how you saved your access codes. The coins are like handling digital cash. For larger amounts of cryptocurrency, the so-called &#8220;cold&#8221; wallets are suitable – those are wallets that are not connected to the Internet and therefore are beyond the reach of hackers, the digital pickpockets.  Such wallets would be hardware wallets such as <a href="https://www.ledger.com/products/ledger-nano-s">Nano Ledger S</a> or <a href="https://trezor.io/">Trezor</a>. Hardware wallets are basically USB sticks on which the crypto keys are deposited. These usually have a recovery feature.  </p>
+
+
+
+<figure class="wp-block-image"><img src="https://azultec.de/wp-content/uploads/Trezor-1024x682.jpeg" alt="Trezor" class="wp-image-1928" srcset="https://azultec.de/wp-content/uploads/Trezor-1024x682.jpeg 1024w, https://azultec.de/wp-content/uploads/Trezor-300x200.jpeg 300w, https://azultec.de/wp-content/uploads/Trezor-768x512.jpeg 768w, https://azultec.de/wp-content/uploads/Trezor.jpeg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Another type of cold wallets <g class="gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="7" data-gr-id="7">are</g> paper wallets. These should be well hidden, and no mistakes should be made while creating them. Instructions on how to create a paper wallet can be found here:</p>
+
+
+
+<ul><li><a href="https://www.coindesk.com/information/paper-wallet-tutorial/" target="_blank" rel="noreferrer noopener">Instructions Paper-Wallet Bitcoin</a>&nbsp;</li><li><a href="https://etherbasics.com/tutorials/ether-wallet-paper-erstellen-tutorial/" target="_blank" rel="noreferrer noopener">Instructions Paper-Wallet Ether</a>&nbsp;</li></ul>
+
+
+
+<p>However, paper wallets only store cryptocurrencies, for transactions such as payments you need another The only. If the paper is lost or destroyed, you will no longer be able to access the wallet. In addition, it is quite complicated to enter the keys manually each time, even if there is now a small workaround using QR codes.</p>
+
+
+
+<h2>HotWallets</h2>
+
+
+
+<p>Alternatively, there are also&#8221;hot&#8221; wallets, which are offered by various online services and are always accessible via the internet. This makes this type of storage a lot more convenient, but you also need to trust the respective provider. Because if they don&#8217;t ensure strong security measures, hackers can empty your wallet. <g class="gr_ gr_9 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="9" data-gr-id="9">Hotwallets</g> are therefore only recommended for the (interim) storage of small quantities of tokens.</p>
+
+
+
+<h2>Software/ Mobile Wallets</h2>
+
+
+
+<p>Software or mobile wallets, on the other hand, are stored locally but can be accessed from the Internet. These are programs that are installed on PCs or mobile devices and manage public and private keys as well as transactions. These local wallets are definitely The only than hot wallets in terms of security, but they <g class="gr_ gr_12 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="12" data-gr-id="12">are only restricted</g> to the individual device. If they break or get lost, the wallet is also gone.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://azultec.de/wp-content/uploads/MobileWallet-768x1024.jpg" alt="" class="wp-image-1929" srcset="https://azultec.de/wp-content/uploads/MobileWallet-768x1024.jpg 768w, https://azultec.de/wp-content/uploads/MobileWallet-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<h2>Beware of scam or loss </h2>
+
+
+
+<p>Remember: The access codes to your own wallet may never be communicated to anyone. Requests to do this is always <g class="gr_ gr_23 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep" id="23" data-gr-id="23">scam</g> – often with the note that the wallet needs an update.  </p>
+
+
+
+<p>Use your access codes responsibly! Lose the access code, the coins will remainin accessible to you and to others forever.  </p>
+
+
+
+<p>If you want to know more, visit <a rel="noreferrer noopener" href="http://www.azultec.de/" target="_blank">www.azultec.de</a> </p>
+		</div>
+				</div>
+				<div data-id="2c27bc2" class="elementor-element elementor-element-2c27bc2 elementor-widget elementor-widget-elementor-disqus" data-element_type="elementor-disqus.default">
+				<div class="elementor-widget-container">
+					<div id="disqus_thread"></div>
+		<script>
+		    /**
+		     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+		     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+		     */
+		    /*
+		    var disqus_config = function () {
+		        this.page.url = https://azultec.de/blog/how-to-store-crypto-token/;  // Replace PAGE_URL with your page's canonical URL variable
+		        this.page.identifier = azultec-11926; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		    };
+		    */
+		    (function() {  // DON'T EDIT BELOW THIS LINE
+		        var d = document, s = d.createElement('script');
+
+		        s.src = 'https://azultec-1.disqus.com/embed.js';
+
+		        s.setAttribute('data-timestamp', +new Date());
+		        (d.head || d.body).appendChild(s);
+		    })();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+				</div>
+				</div>
+				<div data-id="6e4c893" class="elementor-element elementor-element-6e4c893 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="27273f0" class="elementor-element elementor-element-27273f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="d5d0b48" class="elementor-element elementor-element-d5d0b48 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7d04524" class="elementor-element elementor-element-7d04524 title small black elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">— Related articles</h2>		</div>
+				</div>
+				<div data-id="ad4f1bc" class="elementor-element elementor-element-ad4f1bc post-slider elementor-widget elementor-widget-lae-posts-carousel" data-element_type="lae-posts-carousel.default">
+				<div class="elementor-widget-container">
+			<div id="lae-posts-carousel-5c7c15d565ec1" class="lae-posts-carousel lae-container" data-settings='{"arrows":true,"dots":false,"autoplay":false,"autoplay_speed":3000,"animation_speed":300,"pause_on_hover":true,"display_columns":3,"scroll_columns":3,"gutter":10,"tablet_width":800,"tablet_display_columns":2,"tablet_scroll_columns":2,"tablet_gutter":10,"mobile_width":480,"mobile_display_columns":1,"mobile_scroll_columns":1,"mobile_gutter":10}'><div data-id="id-2433" class="lae-posts-carousel-item"><article id="post-2433" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/save-50-percent-on-the-azultec-cube-300/"><img width="300" height="157" src="https://azultec.de/wp-content/uploads/image_beitragsbild-300x157.jpg" class="lae-image attachment-medium size-medium" alt="image_beitragsbild" title="image_beitragsbild" srcset="https://azultec.de/wp-content/uploads/image_beitragsbild-300x157.jpg 300w, https://azultec.de/wp-content/uploads/image_beitragsbild-768x402.jpg 768w, https://azultec.de/wp-content/uploads/image_beitragsbild-1024x536.jpg 1024w, https://azultec.de/wp-content/uploads/image_beitragsbild.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/save-50-percent-on-the-azultec-cube-300/" title="Save 50% on the azultec Cube 300" rel="bookmark">Save 50% on the azultec Cube 300</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/announcement/">Announcement</a>, <a href="https://azultec.de/blog/category/azultec/">azultec</a>, <a href="https://azultec.de/blog/category/cube/">Cube</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/save-50-percent-on-the-azultec-cube-300/" title="Save 50% on the azultec Cube 300" rel="bookmark">Save 50% on the azultec Cube 300</a></h3><div class="entry-summary">Cloud rendering with the Cube is an amazing and easy way to make money while having your hardware doing the job for you. azultec is now offering a great 50% discount deal for anyone interested in joining this profitable field. Read more to find out!</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --><div data-id="id-2220" class="lae-posts-carousel-item"><article id="post-2220" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/report-prototype-testing-in-dubai/"><img width="300" height="169" src="https://azultec.de/wp-content/uploads/photo_2018-08-05_09-58-33-300x169.jpg" class="lae-image attachment-medium size-medium" alt="Dubai prototype testing" title="Dubai prototype testing" srcset="https://azultec.de/wp-content/uploads/photo_2018-08-05_09-58-33-300x169.jpg 300w, https://azultec.de/wp-content/uploads/photo_2018-08-05_09-58-33-768x432.jpg 768w, https://azultec.de/wp-content/uploads/photo_2018-08-05_09-58-33-1024x576.jpg 1024w, https://azultec.de/wp-content/uploads/photo_2018-08-05_09-58-33.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/report-prototype-testing-in-dubai/" title="Report: Prototype testing in Dubai" rel="bookmark">Report: Prototype testing in Dubai</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/azultec/">azultec</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/report-prototype-testing-in-dubai/" title="Report: Prototype testing in Dubai" rel="bookmark">Report: Prototype testing in Dubai</a></h3><div class="entry-summary">As mentioned in our roadmap, we did a prototype testing of our liquid cooling for the graphics cards used in the Cube and RenderMaster in Dubai last year. Of course, we want to share the results of this test. Smart City Dubai Dubai is the fastest growing city in the world and is known for [&hellip;]</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --><div data-id="id-2204" class="lae-posts-carousel-item"><article id="post-2204" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/free-token-the-azultec-referral-program/"><img width="300" height="192" src="https://azultec.de/wp-content/uploads/image_featured-300x192.jpg" class="lae-image attachment-medium size-medium" alt="azultec referral program" title="azultec referral program" srcset="https://azultec.de/wp-content/uploads/image_featured-300x192.jpg 300w, https://azultec.de/wp-content/uploads/image_featured-768x490.jpg 768w, https://azultec.de/wp-content/uploads/image_featured-1024x654.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/free-token-the-azultec-referral-program/" title="Free Token? The azultec referral program" rel="bookmark">Free Token? The azultec referral program</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/ico/">ICO</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/free-token-the-azultec-referral-program/" title="Free Token? The azultec referral program" rel="bookmark">Free Token? The azultec referral program</a></h3><div class="entry-summary">azultec is offering every participant in the ICO the chance to earn additional tokens by using the referral program. This allows you to invite new users to participate in the azultec ICO and get some extra tokens depending on how big the investement by the new member is.</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --><div data-id="id-2136" class="lae-posts-carousel-item"><article id="post-2136" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/now-available-azultec-rendermaster-300/"><img width="300" height="200" src="https://azultec.de/wp-content/uploads/1016100-3-300x200.jpg" class="lae-image attachment-medium size-medium" alt="azultec WizardMachine 300" title="azultec WizardMachine 300" srcset="https://azultec.de/wp-content/uploads/1016100-3-300x200.jpg 300w, https://azultec.de/wp-content/uploads/1016100-3-768x512.jpg 768w, https://azultec.de/wp-content/uploads/1016100-3-1024x683.jpg 1024w, https://azultec.de/wp-content/uploads/1016100-3.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/now-available-azultec-rendermaster-300/" title="Now available: azultec RenderMaster 300" rel="bookmark">Now available: azultec RenderMaster 300</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/announcement/">Announcement</a>, <a href="https://azultec.de/blog/category/rendermaster/">RenderMaster</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/now-available-azultec-rendermaster-300/" title="Now available: azultec RenderMaster 300" rel="bookmark">Now available: azultec RenderMaster 300</a></h3><div class="entry-summary">We are happy to introduce the RenderMaster 300, a high-performance, water-cooled render server for the industry, built with highly optimized hardware and software. Thanks to these optimizations, the RenderMaster 300 works up to 25 percent more efficiently than traditional rendering solutions. This also leads to an increased reliability and lifespan of the components and enables [&hellip;]</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --><div data-id="id-2310" class="lae-posts-carousel-item"><article id="post-2310" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/ces-innovation-honoree-award-for-azultec-cube-300-sustainability-and-eco-design/"><img width="300" height="200" src="https://azultec.de/wp-content/uploads/ces_beitragsbild-300x200.jpg" class="lae-image attachment-medium size-medium" alt="ces_beitragsbild" title="ces_beitragsbild" srcset="https://azultec.de/wp-content/uploads/ces_beitragsbild-300x200.jpg 300w, https://azultec.de/wp-content/uploads/ces_beitragsbild-768x512.jpg 768w, https://azultec.de/wp-content/uploads/ces_beitragsbild-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/ces-innovation-honoree-award-for-azultec-cube-300-sustainability-and-eco-design/" title="CES Innovation Honoree award for azultec Cube 300 &#8211; Sustainability and Eco-Design" rel="bookmark">CES Innovation Honoree award for azultec Cube 300 &#8211; Sustainability and Eco-Design</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/cube/">Cube</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/ces-innovation-honoree-award-for-azultec-cube-300-sustainability-and-eco-design/" title="CES Innovation Honoree award for azultec Cube 300 &#8211; Sustainability and Eco-Design" rel="bookmark">CES Innovation Honoree award for azultec Cube 300 &#8211; Sustainability and Eco-Design</a></h3><div class="entry-summary">Each year, the CES Innovation Awards are being held in the course of the event. In 2019, the azultec Cube managed to win the Honoree award in the category Sustainability and Eco-Design. But what makes the Cube stand out in that regard? Read more here!</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --><div data-id="id-2066" class="lae-posts-carousel-item"><article id="post-2066" class="post-1926 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge tag-cryptocurrency tag-ico tag-storing tag-token tag-wallets"><div class="lae-project-image"><a href="https://azultec.de/blog/the-azultec-cube-300-is-available/"><img width="300" height="160" src="https://azultec.de/wp-content/uploads/azultec_EN_Header_CUBE300.143734-300x160.jpg" class="lae-image attachment-medium size-medium" alt="azultec_EN_Header_CUBE300.143734" title="azultec_EN_Header_CUBE300.143734" srcset="https://azultec.de/wp-content/uploads/azultec_EN_Header_CUBE300.143734-300x160.jpg 300w, https://azultec.de/wp-content/uploads/azultec_EN_Header_CUBE300.143734.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="lae-image-info"><div class="lae-entry-info"><h3 class="lae-post-title"><a href="https://azultec.de/blog/the-azultec-cube-300-is-available/" title="The azultec Cube 300 is available!" rel="bookmark">The azultec Cube 300 is available!</a></h3><span class="lae-terms"><a href="https://azultec.de/blog/category/announcement/">Announcement</a></span></div></div><!-- .lae-image-info --></div><div class="lae-entry-text-wrap "><h3 class="entry-title"><a href="https://azultec.de/blog/the-azultec-cube-300-is-available/" title="The azultec Cube 300 is available!" rel="bookmark">The azultec Cube 300 is available!</a></h3><div class="entry-summary">We are very happy to introduce the Cube 300, a unique and highly powerful cloud rendering workstation. In combination with a unique, self-developed ecosystem, rendering in the cloud is to be revolutionized and to become much eco-friendlier by reusing most of the energy consumed by the workstation. In addition, owners of the Cube are rewarded [&hellip;]</div></div></article><!-- .hentry --></div><!-- .lae-posts-carousel-item --></div><!-- .lae-posts-carousel -->		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div data-elementor-type="footer" data-elementor-id="72" class="elementor elementor-72 elementor-location-footer" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="1935cb2e" class="elementor-element elementor-element-1935cb2e elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="8d9d50e" class="elementor-element elementor-element-8d9d50e footer-left-col elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="ed10ecd" class="elementor-element elementor-element-ed10ecd title elementor-widget elementor-widget-theme-site-title elementor-widget-heading" id="footer-title" data-element_type="theme-site-title.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://azultec.de">azultec</a></h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="1556e8c2" class="elementor-element elementor-element-1556e8c2 column elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="1af6ea7d" class="elementor-element elementor-element-1af6ea7d elementor-shape-circle social-row-one elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook" href="https://www.facebook.com/AzultecICO" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fa fa-facebook"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube" href="https://www.youtube.com/channel/UCcvKNeaPBP6eUpwgvs5yjqQ" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fa fa-youtube"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter" href="https://twitter.com/azultecico" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fa fa-twitter"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin" href="https://www.linkedin.com/company/azultec/" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fa fa-linkedin"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram" href="https://instagram.com/azultecico" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fa fa-instagram"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-telegram" href="https://t.me/azultecico" target="_blank">
+					<span class="elementor-screen-only">Telegram</span>
+					<i class="fa fa-telegram"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-reddit" href="https://www.reddit.com/r/azultecICO/" target="_blank">
+					<span class="elementor-screen-only">Reddit</span>
+					<i class="fa fa-reddit"></i>
+				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="27109d4f" class="elementor-element elementor-element-27109d4f elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="542042ab" class="elementor-element elementor-element-542042ab copy-col elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7c9de6cc" class="elementor-element elementor-element-7c9de6cc azul-copyright elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"><a href=" ">® 2018 azultec All rights reserved.</a></h3>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2f7e1106" class="elementor-element elementor-element-2f7e1106 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="8f27d1b" class="elementor-element elementor-element-8f27d1b elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><span style="color: #ffffff;"><a class="footer-link" style="color: #ffffff;" href="https://azultec.de/privacy-policy/">Privacy Policy</a>       <a style="color: #ffffff;" href="https://azultec.de/terms-and-conditions/">Terms &amp; Conditions</a>        <a class="footer-link" style="color: #ffffff;" href="https://azultec.de/imprint/">Imprint</a></span>
+<span style="float:right; margin-top:1em;font-size:75%; font-weight:300">azultec® is a registered trademark of azultec GmbH</span></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"azultec-1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"1926 https:\/\/azultec.de\/?p=1926","disqusShortname":"azultec-1","disqusTitle":"How to store crypto token","disqusUrl":"https:\/\/azultec.de\/blog\/how-to-store-crypto-token\/","postId":"1926"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor-pro/assets/lib/social-share/social-share.min.js?ver=0.2.17'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/js/jquery.waypoints.min.js?ver=2.5.2'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/js/lae-widgets.min.js?ver=2.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lae_settings = {"custom_css":""};
+var lae_ajax_object = {"ajax_url":"https:\/\/azultec.de\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/addons-for-elementor/assets/js/lae-frontend.min.js?ver=2.5.2'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=2.4.7'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/azultec.de\/wp-admin\/admin-ajax.php","nonce":"c497b5d6b1","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='https://azultec.de/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":576,"lg":992,"xl":1440,"xxl":1600},"version":"2.4.7","urls":{"assets":"https:\/\/azultec.de\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":1926,"title":"How to store crypto token","excerpt":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://azultec.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.4.7'></script>
+			
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-bar");
+							$("html").addClass("cookie-bar-bar");
+													}
+																	});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This website is using cookies, to offer you the best functionality.  <a class="ctcc-more-info-link" tabindex=0 target="_blank" href="https://azultec.de/privacy-policy/">Find out more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">Okay, thanks</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar -->
+</body>
+</html>

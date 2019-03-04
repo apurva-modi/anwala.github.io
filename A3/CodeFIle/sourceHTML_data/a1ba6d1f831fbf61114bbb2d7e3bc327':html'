@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> WireGuard for macOS
+   </TITLE>
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:wireguard%40lists.zx2c4.com?Subject=Re%3A%20WireGuard%20for%20macOS&In-Reply-To=%3CCAHmME9qjTJbWYVr9cToXpfnshGkppcqVS5%3DiVzqsrjS%2Bv_aF%2Bw%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="003891.html">
+   <LINK REL="Next"  HREF="003881.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>WireGuard for macOS</H1>
+    <B>Jason A. Donenfeld</B> 
+    <A HREF="mailto:wireguard%40lists.zx2c4.com?Subject=Re%3A%20WireGuard%20for%20macOS&In-Reply-To=%3CCAHmME9qjTJbWYVr9cToXpfnshGkppcqVS5%3DiVzqsrjS%2Bv_aF%2Bw%40mail.gmail.com%3E"
+       TITLE="WireGuard for macOS">Jason at zx2c4.com
+       </A><BR>
+    <I>Sat Feb 16 02:26:20 CET 2019</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="003891.html">DNS name resolution should not be done during configuration parsing.
+</A></li>
+        <LI>Next message: <A HREF="003881.html">WireGuard for macOS
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3853">[ date ]</a>
+              <a href="thread.html#3853">[ thread ]</a>
+              <a href="subject.html#3853">[ subject ]</a>
+              <a href="author.html#3853">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hey everyone,
+
+After many months of hard work, Roopesh, Eric, and I are pleased to
+announce an initial version of WireGuard for macOS:
+
+<A HREF="https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&amp;mt=12">https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&amp;mt=12</A>
+
+This is built from the same code base as our existing iOS app and
+makes use of Apple's Network Extension API to provide native
+integration into the operating system's networking stack. The
+application lives in the status bar, and after importing a
+configuration, the ordinary System Preferences networking item may
+also be used to control each tunnel. Because it uses these deep
+integration APIs, we're only allowed to distribute the application
+using the macOS App Store (whose rejections, appeals, and eventual
+acceptance made for quite the stressful saga over the last week and a
+half). Compared to the current CLI integration, we expect the
+WireGuard experience using this app to be excellent.
+
+For curious folks without a Mac (or without the patience to cajole KVM
+into booting macOS), I've assembled a few screenshots:
+<A HREF="https://data.zx2c4.com/wireguard-for-macos-screenshots-february-2019/">https://data.zx2c4.com/wireguard-for-macos-screenshots-february-2019/</A>
+
+This is new software, and there will certainly be problems. Don't
+hesitate to email <A HREF="https://lists.zx2c4.com/mailman/listinfo/wireguard">team at wireguard.com</A> directly with bugs as you
+encounter them.
+
+Enjoy!
+
+Regards,
+Jason
+
+PS: Because people will inevitably ask: yes, a Windows client is on
+its way, and it will have a very similar interface to this macOS one.
+We're taking the long and careful route, writing a new TUN driver for
+Windows 7+ called &quot;Wintun&quot; that we expect to be safer and faster than
+the current popular OpenVPN TUN driver, and also suitable for all
+projects, not just for WireGuard. We already have packets flowing and
+things generally work well, but polish will require a bit of patience.
+If you'd like to help and have an appetite for NDIS drivers, Win32 GUI
+programming, or Go, please do get in touch.
+</PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="003891.html">DNS name resolution should not be done during configuration parsing.
+</A></li>
+	<LI>Next message: <A HREF="003881.html">WireGuard for macOS
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3853">[ date ]</a>
+              <a href="thread.html#3853">[ thread ]</a>
+              <a href="subject.html#3853">[ subject ]</a>
+              <a href="author.html#3853">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.zx2c4.com/mailman/listinfo/wireguard">More information about the WireGuard
+mailing list</a><br>
+</body></html>

@@ -1,0 +1,1272 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  
+
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="nWrsaRJHBSE8_1Isp7u-UpgNi7N8Xao4t_59i66XwTU"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0">
+<meta name="description"
+      content="Learn to trade cryptocurrencies / altcoins in the #1 best free and realistic crypto trading simulator. Win free Bitcoin and other crypto in our fun weekly trading contests with your fantasy crypto portfolio.">
+<meta name="keywords" content="Fantasy crypto cryptocurrency trading simulation game win bitcoin app altcoin learn to trade crypto">
+<meta name="author" content="AltcoinFantasy.com">
+<meta property="og:title" content="Bitcoin Trading Simulator and Best Crypto Game - Free Weekly Competitions and Prizes!"/>
+<meta property="og:description" content="Free Crypto + Bitcoin Trading Fantasy Simulator Crypto Game - Win Prizes"/>
+<meta property="og:image" content="https://s3.amazonaws.com/static_garage/share-v3.png"/>
+<meta property="og:site_name" content="Altcoin Fantasy"/>
+<meta property="og:url" content="https://www.altcoinfantasy.com"/>
+<meta property="fb:app_id" content="211038066102760"/>
+<title>Free Bitcoin and Cryptocurrency Trading Simulator. Win Prizes - Free Sign Up + Win Free Bitcoin, Ethereum and Crypto in our Crypto Paper Trading App.</title>
+<link href="https://acf-production.s3.amazonaws.com/assets/favicon-d3de6af7e7eb627eb6d39d946af3526683940d6e59c5ac98e21a902d8d8b70be.png" rel="icon" type="image/png" sizes="16x16" />
+<meta name="propeller" content="c50cdedb9ec9ea832dd89f04bbf84206">
+
+  <!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-N2CKZF7');
+</script>
+<!-- End Google Tag Manager -->
+
+<style>.async-hide {
+  opacity: 0 !important
+} </style>
+<script>(function (a, s, y, n, c, h, i, d, e) {
+  s.className += ' ' + y;
+  h.start = 1 * new Date;
+  h.end = i = function () {
+    s.className = s.className.replace(RegExp(' ?' + y), '')
+  };
+  (a[n] = a[n] || []).hide = h;
+  setTimeout(function () {
+    i();
+    h.end = null
+  }, c);
+  h.timeout = c;
+})(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+    {'GTM-5XCLHJN': true});</script>
+
+<!-- start Mixpanel -->
+<script type="text/javascript">(function (e, a) {
+  if (!a.__SV) {
+    var b = window;
+    try {
+      var c, l, i, j = b.location, g = j.hash;
+      c = function (a, b) {
+        return (l = a.match(RegExp(b + "=([^&]*)"))) ? l[1] : null
+      };
+      g && c(g, "state") && (i = JSON.parse(decodeURIComponent(c(g, "state"))), "mpeditor" === i.action && (b.sessionStorage.setItem("_mpcehash", g), history.replaceState(i.desiredHash || "", e.title, j.pathname + j.search)))
+    } catch (m) {
+    }
+    var k, h;
+    window.mixpanel = a;
+    a._i = [];
+    a.init = function (b, c, f) {
+      function e(b, a) {
+        var c = a.split(".");
+        2 == c.length && (b = b[c[0]], a = c[1]);
+        b[a] = function () {
+          b.push([a].concat(Array.prototype.slice.call(arguments,
+              0)))
+        }
+      }
+
+      var d = a;
+      "undefined" !== typeof f ? d = a[f] = [] : f = "mixpanel";
+      d.people = d.people || [];
+      d.toString = function (b) {
+        var a = "mixpanel";
+        "mixpanel" !== f && (a += "." + f);
+        b || (a += " (stub)");
+        return a
+      };
+      d.people.toString = function () {
+        return d.toString(1) + ".people (stub)"
+      };
+      k = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+      for (h = 0; h < k.length; h++) e(d, k[h]);
+      a._i.push([b, c, f])
+    };
+    a.__SV = 1.2;
+    b = e.createElement("script");
+    b.type = "text/javascript";
+    b.async = !0;
+    b.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+    c = e.getElementsByTagName("script")[0];
+    c.parentNode.insertBefore(b, c)
+  }
+})(document, window.mixpanel || []);
+mixpanel.init('1aa1c086def8bdc9378a276e3ca3157d');</script><!-- end Mixpanel -->
+
+<script type="text/javascript">
+  (function (e, t) {
+    var n = e.amplitude || {_q: [], _iq: {}};
+    var r = t.createElement("script")
+    ;r.type = "text/javascript";
+    r.async = true
+    ;r.src = "https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.7.0-min.gz.js"
+    ;r.onload = function () {
+      if (e.amplitude.runQueuedFunctions) {
+        e.amplitude.runQueuedFunctions()
+      } else {
+        console.log("[Amplitude] Error: could not load SDK")
+      }
+    }
+    ;var i = t.getElementsByTagName("script")[0];
+    i.parentNode.insertBefore(r, i)
+    ;
+
+    function s(e, t) {
+      e.prototype[t] = function () {
+        this._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+        return this
+      }
+    }
+
+    var o = function () {
+          this._q = [];
+          return this
+        }
+    ;var a = ["add", "append", "clearAll", "prepend", "set", "setOnce", "unset"]
+    ;
+    for (var u = 0; u < a.length; u++) {
+      s(o, a[u])
+    }
+    n.Identify = o;
+    var c = function () {
+          this._q = []
+          ;
+          return this
+        }
+    ;var l = ["setProductId", "setQuantity", "setPrice", "setRevenueType", "setEventProperties"]
+    ;
+    for (var p = 0; p < l.length; p++) {
+      s(c, l[p])
+    }
+    n.Revenue = c
+    ;var d = ["init", "logEvent", "logRevenue", "setUserId", "setUserProperties", "setOptOut", "setVersionName", "setDomain", "setDeviceId", "setGlobalUserProperties", "identify", "clearUserProperties", "setGroup", "logRevenueV2", "regenerateDeviceId", "logEventWithTimestamp", "logEventWithGroups", "setSessionId"]
+    ;
+
+    function v(e) {
+      function t(t) {
+        e[t] = function () {
+          e._q.push([t].concat(Array.prototype.slice.call(arguments, 0)))
+        }
+      }
+
+      for (var n = 0; n < d.length; n++) {
+        t(d[n])
+      }
+    }
+
+    v(n);
+    n.getInstance = function (e) {
+      e = (!e || e.length === 0 ? "$default_instance" : e).toLowerCase()
+      ;
+      if (!n._iq.hasOwnProperty(e)) {
+        n._iq[e] = {_q: []};
+        v(n._iq[e])
+      }
+      return n._iq[e]
+    }
+    ;e.amplitude = n
+  })(window, document);
+
+  amplitude.getInstance().init("7ab99484bc67b4c3a0bab6bd4244b9bc");
+</script>
+
+<script>
+  window.trackEvent = function (name) {
+    try {
+      mixpanel.track(name);
+      amplitude.getInstance().logEvent(name);
+      ga('send', 'event', 'button', 'click', name);
+    } catch (err) {
+      Rollbar.warning("Can't send event to tracker", err);
+    }
+  }
+</script>
+
+<!-- Global site tag (gtag.js) - Google AdWords: 826302297 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-826302297"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+
+  gtag('config', 'AW-826302297');
+</script>
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-106388176-1', 'auto');
+  ga('require', 'GTM-5XCLHJN');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Begin Inspectlet Asynchronous Code -->
+<script type="text/javascript">
+  (function() {
+    window.__insp = window.__insp || [];
+    __insp.push(['wid', 1956579150]);
+    var ldinsp = function(){
+      if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1956579150&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+    setTimeout(ldinsp, 0);
+  })();
+</script>
+<!-- End Inspectlet Asynchronous Code -->
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jK01seFp29KshTmaF0SIaGUdxlXhk5y67Hb3FIyiKOqWzVRAjouRVYSF9zEgOYtV9ClzBwM7/1OLDKF3Uafzqg==" />
+
+
+  <!-- Hotjar Tracking Code for www.altcoinfantasy.com -->
+  <script>
+    (function (h, o, t, j, a, r) {
+      h.hj = h.hj || function () {
+        (h.hj.q = h.hj.q || []).push(arguments)
+      };
+      h._hjSettings = {hjid: 980665, hjsv: 6};
+      a = o.getElementsByTagName('head')[0];
+      r = o.createElement('script');
+      r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+  </script>
+
+  <link href="https://acf-production.s3.amazonaws.com/assets/favicon-d3de6af7e7eb627eb6d39d946af3526683940d6e59c5ac98e21a902d8d8b70be.png" rel="icon" type="image/png" sizes="16x16"/>
+
+  <link rel="stylesheet" media="all" href="https://acf-production.s3.amazonaws.com/assets/home-all-db5b3902e7662db4ca4ef9a8d1eee33e271afd346e5ed4ad7e358581b6895183.css" />
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2CKZF7"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="loader_wrapper">
+  <img src="https://acf-production.s3.amazonaws.com/assets/logo-coin-64-b25e69785abee604f3c50b558869c0e83a4e5863cee4a0790a4fc2008394cdc0.gif" alt="Logo coin 64" />
+</div>
+
+<!--header-->
+<header class="v1-header">
+
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="relative-nav-container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <i class="fa fa-navicon"></i>
+        </button>
+        <h1>
+          <a class="navbar-brand" href="/">
+            <span class="valign-helper"></span>
+            <img class="img-responsive" alt="logo" src="https://acf-production.s3.amazonaws.com/assets/home/logo-coin-150-c7ad30b8013ae4136519152b1177ab28d87de6c4346b38c01534268fb19fcb6e.png" />
+          </a>
+        </h1>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations="fadeInUp fadeInRight fadeInDown fadeInLeft">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="https://www.learn.altcoinfantasy.com" target="_blank" onclick="trackEvent('click_on_blog')">
+              Learn
+            </a>
+          </li>
+          <li class="dropdown">
+            <a href="/rewards" onclick="trackEvent('click_on_prizes')">
+              <span class="translation_missing" title="translation missing: en.home.buttons.prizes">Prizes</span>
+            </a>
+          </li>
+          <li class="dropdown">
+            <a href="/users/sign_in" onclick="trackEvent('click_on_log_in')">
+              <span class="translation_missing" title="translation missing: en.home.buttons.login">Login</span>
+            </a>
+          </li>
+          <li class="dropdown">
+            <a href="/users/sign_up" onclick="trackEvent('click_on_play_now')">
+              Play Now
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- container Fluid -->
+
+
+  </nav>
+</header>
+<!--header End-->
+
+<!--Banner-->
+
+<section class="homebanner-styling content">
+
+  <div class="jumbotron">
+    <div class="container">
+
+      <div class="outer">
+        <div class="middle">
+          <div class="inner">
+
+            <div class="tp-caption">
+              <h1>Learn How to Trade Crypto Risk-free</h1>
+            </div>
+
+            <div class="tp-caption">
+              <p>
+                Do you want to learn how to trade crypto risk-free? Try our free crypto trading simulator and win real prizes such as Bitcoin, Ethereum and much more in our weekly trading competitions. $3,400 USD in this week&#39;s contest!
+              </p>
+            </div>
+
+            <!--check if there is a next contest first-->
+              <div class="container countdown-container">
+                <div class="row">
+                  <div class="col-md-6 col-md-offset-3">
+                    <p class="white text-center" style="margin-top: 0">Contest ends in:</p>
+                    <div class="DateCountdown animated fadeIn" data-timer="885714" style="width: 100%;"></div>
+                  </div>
+                </div>
+              </div>
+
+
+            <!-- LAYER NR. 16 -->
+            <div class="tp-caption">
+              <a href="/users/sign_up" class="button-arrow" onclick="trackEvent('click_on_play_now');">
+                Play Now
+
+                <img alt="button-arrow-anchor" src="https://acf-production.s3.amazonaws.com/assets/home/button-arrow-anchor-d33640197b382bba173bca8c7968e83a16cc0d0e7f3a08f29d5ed276f13254cf.png" />
+              </a>
+            </div>
+
+            <div class="row">
+              <p class="white text-center" style="margin-top: 4em; margin-top: 2em;"><b>Our partners:</b></p>
+            </div>
+            <div class="row sponsors-container">
+
+              <div class="row">
+                <div class="col-xs-10 col-xs-offset-1 col-lg-6 col-lg-offset-3">
+
+                  <div class="row">
+                    <div class="col-xs-6 col-md-3">
+                      <a href="https://coinspectator.com/news/624474/altcoin-fantasy-brd-wallet-bring-a-free-altcoin-crypto-trading-game-contest-1800-brd-tokens-as-prizes" target="_blank">
+                        <img alt="Altcoin Fantasy and BRD" class="sponsor-logo" src="https://acf-production.s3.amazonaws.com/assets/home/sponsors/bread_logo-c8ff983c2dc2c9d538fa5da1c85502d0e4e0f33b3d24a03cc170bb802fef70de.png" />
+                      </a>
+                    </div>
+                    <div class="col-xs-6 col-md-3">
+                      <a href="https://support.okcoin.com/hc/en-us/articles/360022944351-Play-Fantasy-Crypto-Trading-and-Win-BTC-Prizes-" target="_blank">
+                        <img alt="about-img" class="sponsor-logo" src="https://acf-production.s3.amazonaws.com/assets/home/sponsors/Sponsor_Logo_Okcoin_White-c20d8e158ef3fe6c2f88eaf9ee894c344a8580365e11dc0be3f4dfc01bc2d5a9.png" />
+                      </a>
+                    </div>
+                    <div class="col-xs-6 col-md-3">
+                      <a href="https://dailyhodl.com/2018/07/31/pr-tradingview-altcoin-fantasy-bring-a-free-altcoin-crypto-trading-game-contest-win-prizes/" target="_blank">
+                        <img alt="about-img" class="sponsor-logo" src="https://acf-production.s3.amazonaws.com/assets/home/sponsors/TV_BlueWhite_logo-97a5cd12fb72e310be4e6b4a39412c6fbe3667515e65b969aa70dccd514e0a05.png" />
+                      </a>
+                    </div>
+                    <div class="col-xs-6 col-md-3">
+                      <a href="https://dailyhodl.com/2018/12/20/crypto-trading-simulator-altcoin-fantasy-partners-with-paxful-to-bring-bitcoin-and-crypto-to-more-people-through-peer-to-peer-finance/">
+                        <img alt="about-img" class="sponsor-logo" src="https://acf-production.s3.amazonaws.com/assets/home/sponsors/paxful_logo-6708e3ff61c780a122a32c84503cb715912ecb100f24a58c74218f4902cb3d28.png" />
+                      </a>
+                    </div>
+
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+</section>
+
+<!--Banner End-->
+
+<!--features Section-->
+<section id="features">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h4>What is Altcoin Fantasy?</h4>
+        <h1>Best Fantasy Crypto Trading Simulation Cryptogame</h1>
+        <h5>Practice and hone your skills as a digital trader without losing your hard-earned savings!</h5>
+        <ul style='margin-bottom: 60px;'>
+          <ol>Start the contest with virtual cash in USD.</ol>
+          <ol>Buy and sell any cryptocurrency virtually.</ol>
+          <ol>At the end of the contest period, players with the most balance win real prizes and coins.</ol>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <i class="fa fa-play fa-5x"></i>
+        <h3>Play</h3>
+        <p class="secondary-paragraph">Choose an available contest by different sponsors. Prizes are listed for each contest.</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <i class="fa fa-area-chart fa-5x"></i>
+        <h3>Trade</h3>
+        <p class="secondary-paragraph">Do your trades starting with virtual cash in USD currency. Think you can predict which crypto/coin will perform the best within the contest period? Make your trades.</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <i class="fa fa-bitcoin fa-5x"></i>
+        <h3>Win</h3>
+        <p class="secondary-paragraph">Finish first - or second last. Some contests have multiple winning conditions. Win prizes and coins!</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!--features Section End-->
+
+  <section id="pricing" class="v1-table">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12">
+        <h4>Featured Contest</h4>
+        <h2>Win prizes and other cryptocurrency</h2>
+        <h5>Hundreds of prizes each week</h5>
+      </div>
+    </div><!--row-->
+
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="monthly">
+        <!-- Table List 1-->
+        <div class="inherit-margins col-lg-offset-3 col-lg-6 offset-lg-3 offset-md-3 offset-sm-0 col-md-offset-3 col-md-6 col-sm-12 col-sm-offset-0 table-active padding-remove">
+          <div class="table-content">
+            <div class="table-header">
+              <h6>This Week&#39;s Featured Contest Sponsored by Crypto Control</h6>
+            </div>
+            <ul>
+              <li>
+                <span>Start with $10,000.00 in USD and trade your way to the top! Winners will win prizes and free crypto in our weekly contest. Top 100 traders will win! <b class='upper'>Absolutely free to play. Enter for a chance at free cryptocurrency and prizes.</b></span>
+              </li>
+              <li>
+
+                <div class="leaderboard">
+
+                  <h3>
+                    <svg class="ico-cup">
+                      <use xlink:href="#cup"></use>
+                    </svg>
+                    Leaderboard
+                  </h3>
+
+                  <ol>
+                            <li>
+                              <mark>BitManDee</mark>
+                              <small>$18070.16 USD</small>
+                            </li>
+                            <li>
+                              <mark>aa_korus2164</mark>
+                              <small>$15355.82 USD</small>
+                            </li>
+                            <li>
+                              <mark>nthajay</mark>
+                              <small>$15185.34 USD</small>
+                            </li>
+                            <li>
+                              <mark>Elimwaniki#4673</mark>
+                              <small>$15177.63 USD</small>
+                            </li>
+                            <li>
+                              <mark>admin1968</mark>
+                              <small>$14798.22 USD</small>
+                            </li>
+                            <li>
+                              <mark>almay3206</mark>
+                              <small>$14513.33 USD</small>
+                            </li>
+                            <li>
+                              <mark>winpaingphyo</mark>
+                              <small>$14419.42 USD</small>
+                            </li>
+                            <li>
+                              <mark>punyetanglamaran</mark>
+                              <small>$14167.15 USD</small>
+                            </li>
+                            <li>
+                              <mark>ajaxkmr3899</mark>
+                              <small>$14164.65 USD</small>
+                            </li>
+                            <li>
+                              <mark>NoobZzz</mark>
+                              <small>$14085.18 USD</small>
+                            </li>
+                            <li>
+                              <mark>RosyCrosc</mark>
+                              <small>$13924.79 USD</small>
+                            </li>
+                            <li>
+                              <mark>ruddy-sleep56201</mark>
+                              <small>$13569.17 USD</small>
+                            </li>
+                            <li>
+                              <mark>quickfire</mark>
+                              <small>$13532.81 USD</small>
+                            </li>
+                            <li>
+                              <mark>SBunknown</mark>
+                              <small>$13495.82 USD</small>
+                            </li>
+                            <li>
+                              <mark>yawyaw</mark>
+                              <small>$13457.69 USD</small>
+                            </li>
+                  </ol>
+
+
+                </div>
+
+                <svg style="display: none;">
+                  <symbol id="cup" x="0px" y="0px"
+                          width="25px" height="26px" viewBox="0 0 25 26" enable-background="new 0 0 25 26" xml:space="preserve">
+                    <path fill="#F26856" d="M21.215,1.428c-0.744,0-1.438,0.213-2.024,0.579V0.865c0-0.478-0.394-0.865-0.88-0.865H6.69
+	C6.204,0,5.81,0.387,5.81,0.865v1.142C5.224,1.641,4.53,1.428,3.785,1.428C1.698,1.428,0,3.097,0,5.148
+	C0,7.2,1.698,8.869,3.785,8.869h1.453c0.315,0,0.572,0.252,0.572,0.562c0,0.311-0.257,0.563-0.572,0.563
+	c-0.486,0-0.88,0.388-0.88,0.865c0,0.478,0.395,0.865,0.88,0.865c0.421,0,0.816-0.111,1.158-0.303
+	c0.318,0.865,0.761,1.647,1.318,2.31c0.686,0.814,1.515,1.425,2.433,1.808c-0.04,0.487-0.154,1.349-0.481,2.191
+	c-0.591,1.519-1.564,2.257-2.975,2.257H5.238c-0.486,0-0.88,0.388-0.88,0.865v4.283c0,0.478,0.395,0.865,0.88,0.865h14.525
+	c0.485,0,0.88-0.388,0.88-0.865v-4.283c0-0.478-0.395-0.865-0.88-0.865h-1.452c-1.411,0-2.385-0.738-2.975-2.257
+	c-0.328-0.843-0.441-1.704-0.482-2.191c0.918-0.383,1.748-0.993,2.434-1.808c0.557-0.663,1-1.445,1.318-2.31
+	c0.342,0.192,0.736,0.303,1.157,0.303c0.486,0,0.88-0.387,0.88-0.865c0-0.478-0.394-0.865-0.88-0.865
+	c-0.315,0-0.572-0.252-0.572-0.563c0-0.31,0.257-0.562,0.572-0.562h1.452C23.303,8.869,25,7.2,25,5.148
+	C25,3.097,23.303,1.428,21.215,1.428z M5.238,7.138H3.785c-1.116,0-2.024-0.893-2.024-1.99c0-1.097,0.908-1.99,2.024-1.99
+	c1.117,0,2.025,0.893,2.025,1.99v2.06C5.627,7.163,5.435,7.138,5.238,7.138z M18.883,21.717v2.553H6.118v-2.553H18.883
+	L18.883,21.717z M13.673,18.301c0.248,0.65,0.566,1.214,0.947,1.686h-4.24c0.381-0.472,0.699-1.035,0.947-1.686
+	c0.33-0.865,0.479-1.723,0.545-2.327c0.207,0.021,0.416,0.033,0.627,0.033c0.211,0,0.42-0.013,0.627-0.033
+	C13.195,16.578,13.344,17.436,13.673,18.301z M12.5,14.276c-2.856,0-4.93-2.638-4.93-6.273V1.73h9.859v6.273
+	C17.43,11.638,15.357,14.276,12.5,14.276z M21.215,7.138h-1.452c-0.197,0-0.39,0.024-0.572,0.07v-2.06
+	c0-1.097,0.908-1.99,2.024-1.99c1.117,0,2.025,0.893,2.025,1.99C23.241,6.246,22.333,7.138,21.215,7.138z"/>
+                  </symbol>
+                </svg>
+
+
+              </li>
+            </ul>
+
+            <aside class="l-sidebar-widget sidebar-widget">
+              <h6>Latest Trades</h6>
+              <ul class="latest-trades">
+                    <li>
+                      <a href="/users/sign_up">Someone bought 0.12 WAVES at $2.648800974 USD</a>
+                      <span>1 minute ago</span>
+                    </li>
+                    <li>
+                      <a href="/users/sign_up">Someone bought 0.75 ETH at $131.64765606 USD</a>
+                      <span>1 minute ago</span>
+                    </li>
+                    <li>
+                      <a href="/users/sign_up">Someone bought 9314679.06 HOT at $0.00108447016857753 USD</a>
+                      <span>2 minutes ago</span>
+                    </li>
+              </ul>
+
+            </aside>
+
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div><!--container-->
+</section>
+
+
+
+
+<!--About Section-->
+<section id="about-us">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h4>Who We Are</h4>
+        <h2>Our Mission</h2>
+      </div>
+    </div>
+    <div id="aboutslider" class="carousel slide">
+      <div id="custom-top" class="carousel-inner">
+        <div class="row item active">
+          <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 box-1">
+            <p>
+              We created Altcoin Fantasy - a crypto game - to educate users about the cryptocurrency space. By creating a fun and exciting crypto game to compete for prizes in contests, we seek to educate potential investors about the space. In participating in free contests, users will get a chance to educate themselves about the different cryptocurrencies and alt coins and game credits and others. We offer an intuitive interface which includes descriptions, news, and historical charts for each of the coins. Compete in our contests now! Win either prizes and/or coins from our sponsors! <br/> In addition, we will also send you a weekly newsletter highlighting the world in cryptocurrencies so you will be up to date in the latest developments in cryptocurrencies.
+            </p>
+          </div>
+          <div class="col-lg-5 col-lg-offset-0 col-md-5 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
+            <div class="template-border bd-left">
+              <div class="banner-image">
+                <figure>
+                  <img alt="about-img" src="https://acf-production.s3.amazonaws.com/assets/home/placeholder/about-img-39640d7b3a3b285410d481863441b2c09f10bc059cdc2a08bd31ec481fdbb7f1.jpg" />
+                </figure>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--About Section End-->
+
+
+
+
+
+<!--Our Work Section-->
+<section id="our-work">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h4>Contests</h4>
+        <h2>How it works</h2>
+        <h5>Compete in crypto game fantasy contests featuring alt coins to win prizes and free crypto. No experience needed. Absolutely Free.</h5>
+      </div>
+    </div>
+    <div class="row desktop-only">
+      <div class="col-md-3 col-sm-3 col-xs-12">
+        <div class="col-md-12 pr-box-left">
+          <h3>Step 06</h3>
+          <p>Prizes (in coins) are awarded to the winners whom amassed the most USD equivalent in cryptocurrencies</p>
+        </div>
+        <div class="col-md-10 pr-box-left">
+          <h3>Step 05</h3>
+          <p>At the end of the contest, we tally up all of your holdings and convert it back into USD</p>
+        </div>
+        <div class="col-md-12 pr-box-left">
+          <h3>Step 04</h3>
+          <p>Check back during the contest period to see where you stand in the leaderboard</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <img class="img-responsive work-big-img" alt="work-img" src="https://acf-production.s3.amazonaws.com/assets/home/placeholder/work-img-f0dc8a809a1580ef7fe5a7ffe734e78853d92644e5647aaa099cea82d1e77de1.png" />
+      </div>
+      <div class="col-md-3 col-sm-3 col-xs-12">
+        <div class="col-md-12 pr-box-right">
+          <h3>Step 01</h3>
+          <p>Sign up for an account</p>
+        </div>
+        <div class="col-md-10 col-md-offset-2 pr-box-right">
+          <h3>Step 02</h3>
+          <p>Register in a contest before it starts or join an ongoing contest</p>
+        </div>
+        <div class="col-md-12 pr-box-right">
+          <h3>Step 03</h3>
+          <p>Make trades in cryptocurrencies/coins during the contest period</p>
+        </div>
+      </div>
+    </div>
+    <div class="row mobile-only">
+      <div class="col-md-3 col-sm-3 col-xs-12">
+        <div class="col-md-12 pr-box-right">
+          <h3>Step 01</h3>
+          <p>Sign up for an account</p>
+        </div>
+        <div class="col-md-10 col-md-offset-2 pr-box-right">
+          <h3>Step 02</h3>
+          <p>Register in a contest before it starts or join an ongoing contest</p>
+        </div>
+        <div class="col-md-12 pr-box-right">
+          <h3>Step 03</h3>
+          <p>Make trades in cryptocurrencies/coins during the contest period</p>
+        </div>
+        <div class="col-md-12 pr-box-left">
+          <h3>Step 04</h3>
+          <p>Check back during the contest period to see where you stand in the leaderboard</p>
+        </div>
+        <div class="col-md-10 pr-box-left">
+          <h3>Step 05</h3>
+          <p>At the end of the contest, we tally up all of your holdings and convert it back into USD</p>
+        </div>
+        <div class="col-md-12 pr-box-left">
+          <h3>Step 06</h3>
+          <p>Prizes (in coins) are awarded to the winners whom amassed the most USD equivalent in cryptocurrencies</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Our Work Section End-->
+
+<section id="blog-single-page">
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h4>Have Questions?</h4>
+      <h2>FAQ</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
+      <h4 class="blog-single-page-h3">What is Altcoin Fantasy?</h4>
+      <p style="">Altcoin Fantasy will let you test your skills as a cryptocurrency trader. We are a cryptocurrency simulation platform and cryptogame that allows you to make virtual trades, risk free. Compete in crypto picking contests to win prizes. No experience needed!</p>
+      <h4 class="blog-single-page-h3">How does Altcoin Fantasy work?</h4>
+      <p style="">You start with virtual cash in USD currency to spend on cryptocurrencies. Make your picks from the 1400+ coins out there you think will perform the best. Adjust your holdings throughout the contest. The players with the highest net worth at the end wins!</p>
+      <h4 class="blog-single-page-h3">How much does this cost? What&#39;s the catch?</h4>
+      <p style="">Nothing! Companies sponsor our contests for the most part. For certain contests, you may need to agree to accept marketing communication from them but you&#39;ll always be able to opt-out.</p>
+      <h4 class="blog-single-page-h3">What do I need to get started?</h4>
+      <p style="">It depends on the coin you win. You might need to create a wallet for the coin that you win, or you may need to sign up for a Coinbase account, which is a wallet for your cryptocurrencies. Don't have a Coinbase account? <a href="https://www.coinbase.com/join/546ae8e49ef873316d000001" target="_blank" class="link">Sign up for one here.</a> After you sign up for Coinbase, register with Altcoin Fantasy. When we ask for your Coinbase e-mail address later in the process, enter it then.</p>
+      <h4 class="blog-single-page-h3">Do you really pay out? This is a game that really pays out?</h4>
+      <p style="">Yes! Just ask <a href="https://www.facebook.com/altcoinfantasy/" target="_blank">our previous winners</a>! We pay out and post our winners every week.</p>
+      </p>
+    </div>
+  </div>
+
+
+</section>
+
+
+<section class="section">
+  <div class="container bring-to-front">
+    <div class="row gap-y align-items-center">
+      <div class="col-12 col-md-5 col-lg-5 mr-md-auto text-center text-lg-left">
+        <h2 class="bold">Our Previous Sponsors</h2>
+        <p class="color-2" style="margin-top: 5em;">
+          We've worked with previous sponsors to bring you exciting trading competitions with prizes going out to the top traders each week.
+        </p>
+      </div>
+      <div class="col-12 col-md-7 col-lg-6">
+        <div class="row gap-y">
+          <div class="col-6 col-sm-5 col-md-6 col-lg-5 mt-6 ml-lg-auto">
+            <div class="bg-3-gradient rounded color-1 p-2 p-sm-4 shadow text-center aos-init aos-animate" data-aos="fade-up">
+              <img class="img-responsive op-5 px-0 px-sm-4" alt="BRD and Altcoin Fantasy" src="https://acf-production.s3.amazonaws.com/assets/press/partners/brd-bad10b71b5d52065667f26e9210092bdc1f964cfd0850f511ad46c1c50c7eb53.png" />
+              <p class="bold">BRD Wallet</p>
+              <p class="op-5 small">BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies and is listed on major crypto
+                exchanges such as Binance.</p>
+              <a href="/p/brd" target="_blank" class="btn btn-rounded btn-1 mt-4">
+                <i class="d-inline-block d-sm-none fas fa-long-arrow-alt-right"></i>
+                <span class="d-none d-sm-inline-block">View</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-6 col-sm-5 col-md-6 col-lg-5 mr-lg-auto">
+            <div class="bg-4-gradient rounded color-1 p-2 p-sm-4 shadow text-center aos-init aos-animate" data-aos="fade-up">
+              <img class="img-responsive op-5 px-0 px-sm-4" alt="Trading View + Altcoin Fantasy" src="https://acf-production.s3.amazonaws.com/assets/press/partners/tradingviewwide-27d1afae7a73d1cc176bf6cd0bd9e7eaef8614d221b606b838364fcefa78d6f5.png" />
+              <p class="bold">Trading View</p>
+              <p class="op-5 small">Trading View is the premier social site with Live quotes, free charts and expert trading ideas. TradingView is a social
+                network for traders and investors on traditional and cryptocurrency markets!</p>
+              <a href="/p/tradingview" target="_blank" class="btn btn-rounded btn-1 mt-4">
+                <i class="d-inline-block d-sm-none fas fa-long-arrow-alt-right"></i>
+                <span class="d-none d-sm-inline-block">View</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-6 col-sm-5 col-md-6 col-lg-5 ml-lg-auto">
+            <div class="rounded color-1 p-2 p-sm-4 shadow text-center aos-init aos-animate" data-aos="fade-up">
+              <img src="https://expanse.tech/wp-content/themes/expanse/img/expanse_logo.png" class="img-responsive op-5 px-0 px-sm-4" alt="...">
+              <p class="bold">Expanse</p>
+              <p class="op-5 small">
+                Expanse is an alternative public network to Ethereum and is one of the stable forks of ETH. Expanse is listed on major exchanges such as
+                Poloniex.
+              </p>
+              <a href="/p/expanse" target="_blank" class="btn btn-rounded btn-1 mt-4">
+                <i class="d-inline-block d-sm-none fas fa-long-arrow-alt-right"></i>
+                <span class="d-none d-sm-inline-block">View</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-6 col-sm-5 col-md-6 col-lg-5 mt-5n mr-lg-auto">
+            <div class="rounded color-1 p-2 p-sm-4 shadow text-center aos-init aos-animate" data-aos="fade-up">
+              <img src="https://etherbots.io/assets/images/EtherbotsLogoFaded.png" class="img-responsive op-5 px-0 px-sm-4" alt="...">
+              <p class="bold">Etherbots</p>
+              <p class="op-5 small">
+                Etherbots is a Dapp that allows users to build and collect robots. The parent company of Etherbots own partly owned by Coinbase.
+
+              </p>
+              <a href="/p/etherbots" class="btn btn-rounded btn-1 mt-4">
+                <i class="d-inline-block d-sm-none fas fa-long-arrow-alt-right"></i>
+                <span class="d-none d-sm-inline-block">View</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!--Number Stats Section-->
+<section id="number-stats">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4">
+
+        <div class="avatars">
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/2336017419961176/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/123505751991619/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/2081535678605277/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/363451844475427/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/305938053594793/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/2421316724549088/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/2444317192312660/picture?type=large"/>
+            <img class="img-circle avatar-sm" src="//graph.facebook.com/v2.6/116170786072262/picture?type=large"/>
+        </div>
+        <div class="counter">96253</div>
+        <h3>Number of Players</h3>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <img alt="icon-2" src="https://acf-production.s3.amazonaws.com/assets/home/icon-2-93f6140decc28a64e4f14a7173634f15598d45fba1809382c8ca4625b94d00d8.png" />
+        $
+        <div class="counter-static">$25,000+ USD</div>
+        <h3>Total Prizes (in USD) Given To-Date</h3>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <img alt="icon-3" src="https://acf-production.s3.amazonaws.com/assets/home/icon-1-93f9b651a606626ea57c3dcb5034ee875722f44af2b9d95a4f1a095ee94ab0dd.png" />
+        <div class="counter">801527</div>
+        <h3>Total Number of Trades</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-lg-offset-4 col-sm-12 col-sm-offset-0">
+        <a href="/users/sign_up" class="" onclick="trackEvent('click_on_sign_up');">
+          <div class="included-box">
+            <span>
+              Play Now
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Number Stats Section End-->
+
+
+<!--Footer-->
+<footer>
+  <div id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 center-block">
+          <img class="bottom-logo" src="https://acf-production.s3.amazonaws.com/assets/logo-8242fa439185bfea283340d02eadde4d0ee1aa841acac9c59cd42747403a6b20.png" alt="Logo" />
+          <h3>About AltcoinFantasy.com</h3>
+          <p>Altcoin Fantasy is the best and most realistic fantasy crypto trading simulation game where you can win actual prizes with our cryptogame. Enter free contests to pick the best performing cryptocurrencies such as virtual coins, game tokens and others. The winner will win prizes and coins. <b class="upper">Absolutely free to play.</b></p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <ul>
+            <li>
+              <a href="https://www.facebook.com/altcoinfantasy/" target="_blank" onclick="trackEvent('click_on_facebook');">Facebook</a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/altcoinfantasy/" target="_blank" onclick="trackEvent('click_on_instagram');">Instagram</a>
+            </li>
+            <li>
+              <a href="/press" onclick="trackEvent('click_on_press');">Press</a>
+            </li>
+            <li>
+              <a href="https://cynthiahuang1.typeform.com/to/dE04eJ" target="_blank" onclick="trackEvent('click_on_sponsor');">Sponsor</a>
+            </li>
+            <li>
+              <a href="/organizations" target="_blank" onclick="trackEvent('click_on_host_private_contest');">Create Private Contest</a>
+            </li>
+            <li>
+              <a href="https://learn.altcoinfantasy.com" target="_blank" onclick="trackEvent('click_on_blog');">Learn</a>
+            </li>
+            <li>
+              <a href="/what-is-an-altcoin" target="_blank" onclick="trackEvent('click_on_host_private_contest');">Altcoin - What is it?</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-12">
+
+          <div class="app-links">
+            <a href='https://play.google.com/store/apps/details?id=com.altcoinfantasy.altcoinfantasy&utm_source=home-play-store&utm_campaign=home&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank" onclick="trackEvent('click_on_google_play')" ;>
+              <img alt="Get Altcoin Fantasy on Google Play" class="app-icon" src="https://acf-production.s3.amazonaws.com/assets/google-09695fd29e26f90c95b369bf1a41541cb12c5b60f543ed0f6ff14b596ff02253.png" />
+            </a>
+
+            <a href="https://itunes.apple.com/us/app/altcoin-fantasy-crypto-game/id1356209063?mt=8" target="_blank" onclick="trackEvent('click_on_ios')" ;>
+              <img alt="Get Altcoin Fantasy on App store" class="app-icon" src="https://acf-production.s3.amazonaws.com/assets/apple-aa0d2ba78a51b66ab33d30bb67193e9590c6346d41be36967eff0670b1a4dfba.png" />
+            </a>
+          </div>
+          <div class="footer-bottom">
+            <p>
+              © copyright 2019 Altcoin Fantasy. All rights reserved
+              <br/> Made with &nbsp;
+              <span style='color: red'>&#10084;</span>&nbsp; in Vancouver <img alt="Canada" src="https://acf-production.s3.amazonaws.com/assets/icons/canada-5dbdfa5941c296c16c89ba2b5b768a63c211b3e927914b3bd3daa700c774819d.png" />
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--Footer End-->
+
+  <div class="cookies-eu js-cookies-eu">
+    <span class="cookies-eu-content-holder">Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span>
+    <span class="cookies-eu-button-holder">
+    <button class="cookies-eu-ok js-cookies-eu-ok"> OK </button>
+    </span>
+  </div>
+
+
+
+
+
+<script>
+  window.fbAsyncInit = function () {
+    FB.init({
+      appId: '211038066102760',
+      xfbml: true,
+      version: 'v2.10'
+    });
+
+    FB.AppEvents.logPageView();
+
+  };
+
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {
+      return;
+    }
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function () {
+      n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1772537506167299');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1"
+       src="https://www.facebook.com/tr?id=1772537506167299&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+  <!-- Start of Survicate (www.survicate.com) code -->
+  <script type="text/javascript">
+    (function (w) {
+      var s = document.createElement('script');
+      s.src = '//survey.survicate.com/workspaces/7b50d0e56f05ec22972debecba88634a/web_surveys.js';
+      s.async = true;
+      var e = document.getElementsByTagName('script')[0];
+      e.parentNode.insertBefore(s, e);
+    })(window);
+  </script>
+
+<script>
+  var _rollbarConfig = {
+    accessToken: "c63fcdfd7f0441e7b0ffdcf46271e7d1",
+    captureUncaught: false,
+    captureUnhandledRejections: false,
+    payload: {
+      environment: "production"
+    }
+  };
+  // Rollbar Snippet
+  !function (r) {
+    function e(n) {
+      if (o[n]) return o[n].exports;
+      var t = o[n] = {exports: {}, id: n, loaded: !1};
+      return r[n].call(t.exports, t, t.exports, e), t.loaded = !0, t.exports
+    }
+
+    var o = {};
+    return e.m = r, e.c = o, e.p = "", e(0)
+  }([function (r, e, o) {
+    "use strict";
+    var n = o(1), t = o(4);
+    _rollbarConfig = _rollbarConfig || {}, _rollbarConfig.rollbarJsUrl = _rollbarConfig.rollbarJsUrl || "https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.9/rollbar.min.js", _rollbarConfig.async = void 0 === _rollbarConfig.async || _rollbarConfig.async;
+    var a = n.setupShim(window, _rollbarConfig), l = t(_rollbarConfig);
+    window.rollbar = n.Rollbar, a.loadFull(window, document, !_rollbarConfig.async, _rollbarConfig, l)
+  }, function (r, e, o) {
+    "use strict";
+
+    function n(r) {
+      return function () {
+        try {
+          return r.apply(this, arguments)
+        } catch (r) {
+          try {
+            console.error("[Rollbar]: Internal error", r)
+          } catch (r) {
+          }
+        }
+      }
+    }
+
+    function t(r, e) {
+      this.options = r, this._rollbarOldOnError = null;
+      var o = s++;
+      this.shimId = function () {
+        return o
+      }, "undefined" != typeof window && window._rollbarShims && (window._rollbarShims[o] = {handler: e, messages: []})
+    }
+
+    function a(r, e) {
+      if (r) {
+        var o = e.globalAlias || "Rollbar";
+        if ("object" == typeof r[o]) return r[o];
+        r._rollbarShims = {}, r._rollbarWrappedError = null;
+        var t = new p(e);
+        return n(function () {
+          e.captureUncaught && (t._rollbarOldOnError = r.onerror, i.captureUncaughtExceptions(r, t, !0), i.wrapGlobals(r, t, !0)), e.captureUnhandledRejections && i.captureUnhandledRejections(r, t, !0);
+          var n = e.autoInstrument;
+          return e.enabled !== !1 && (void 0 === n || n === !0 || "object" == typeof n && n.network) && r.addEventListener && (r.addEventListener("load", t.captureLoad.bind(t)), r.addEventListener("DOMContentLoaded", t.captureDomContentLoaded.bind(t))), r[o] = t, t
+        })()
+      }
+    }
+
+    function l(r) {
+      return n(function () {
+        var e = this, o = Array.prototype.slice.call(arguments, 0), n = {shim: e, method: r, args: o, ts: new Date};
+        window._rollbarShims[this.shimId()].messages.push(n)
+      })
+    }
+
+    var i = o(2), s = 0, d = o(3), c = function (r, e) {
+      return new t(r, e)
+    }, p = d.bind(null, c);
+    t.prototype.loadFull = function (r, e, o, t, a) {
+      var l = function () {
+        var e;
+        if (void 0 === r._rollbarDidLoad) {
+          e = new Error("rollbar.js did not load");
+          for (var o, n, t, l, i = 0; o = r._rollbarShims[i++];) for (o = o.messages || []; n = o.shift();) for (t = n.args || [], i = 0; i < t.length; ++i) if (l = t[i], "function" == typeof l) {
+            l(e);
+            break
+          }
+        }
+        "function" == typeof a && a(e)
+      }, i = !1, s = e.createElement("script"), d = e.getElementsByTagName("script")[0], c = d.parentNode;
+      s.crossOrigin = "", s.src = t.rollbarJsUrl, o || (s.async = !0), s.onload = s.onreadystatechange = n(function () {
+        if (!(i || this.readyState && "loaded" !== this.readyState && "complete" !== this.readyState)) {
+          s.onload = s.onreadystatechange = null;
+          try {
+            c.removeChild(s)
+          } catch (r) {
+          }
+          i = !0, l()
+        }
+      }), c.insertBefore(s, d)
+    }, t.prototype.wrap = function (r, e, o) {
+      try {
+        var n;
+        if (n = "function" == typeof e ? e : function () {
+          return e || {}
+        }, "function" != typeof r) return r;
+        if (r._isWrap) return r;
+        if (!r._rollbar_wrapped && (r._rollbar_wrapped = function () {
+          o && "function" == typeof o && o.apply(this, arguments);
+          try {
+            return r.apply(this, arguments)
+          } catch (o) {
+            var e = o;
+            throw"string" == typeof e && (e = new String(e)), e._rollbarContext = n() || {}, e._rollbarContext._wrappedSource = r.toString(), window._rollbarWrappedError = e, e
+          }
+        }, r._rollbar_wrapped._isWrap = !0, r.hasOwnProperty)) for (var t in r) r.hasOwnProperty(t) && (r._rollbar_wrapped[t] = r[t]);
+        return r._rollbar_wrapped
+      } catch (e) {
+        return r
+      }
+    };
+    for (var u = "log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","), f = 0; f < u.length; ++f) t.prototype[u[f]] = l(u[f]);
+    r.exports = {setupShim: a, Rollbar: p}
+  }, function (r, e) {
+    "use strict";
+
+    function o(r, e, o) {
+      if (r) {
+        var t;
+        "function" == typeof e._rollbarOldOnError ? t = e._rollbarOldOnError : r.onerror && !r.onerror.belongsToShim && (t = r.onerror, e._rollbarOldOnError = t);
+        var a = function () {
+          var o = Array.prototype.slice.call(arguments, 0);
+          n(r, e, t, o)
+        };
+        a.belongsToShim = o, r.onerror = a
+      }
+    }
+
+    function n(r, e, o, n) {
+      r._rollbarWrappedError && (n[4] || (n[4] = r._rollbarWrappedError), n[5] || (n[5] = r._rollbarWrappedError._rollbarContext), r._rollbarWrappedError = null), e.handleUncaughtException.apply(e, n), o && o.apply(r, n)
+    }
+
+    function t(r, e, o) {
+      if (r) {
+        "function" == typeof r._rollbarURH && r._rollbarURH.belongsToShim && r.removeEventListener("unhandledrejection", r._rollbarURH);
+        var n = function (r) {
+          var o, n, t;
+          try {
+            o = r.reason
+          } catch (r) {
+            o = void 0
+          }
+          try {
+            n = r.promise
+          } catch (r) {
+            n = "[unhandledrejection] error getting `promise` from event"
+          }
+          try {
+            t = r.detail, !o && t && (o = t.reason, n = t.promise)
+          } catch (r) {
+            t = "[unhandledrejection] error getting `detail` from event"
+          }
+          o || (o = "[unhandledrejection] error getting `reason` from event"), e && e.handleUnhandledRejection && e.handleUnhandledRejection(o, n)
+        };
+        n.belongsToShim = o, r._rollbarURH = n, r.addEventListener("unhandledrejection", n)
+      }
+    }
+
+    function a(r, e, o) {
+      if (r) {
+        var n, t,
+            a = "EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");
+        for (n = 0; n < a.length; ++n) t = a[n], r[t] && r[t].prototype && l(e, r[t].prototype, o)
+      }
+    }
+
+    function l(r, e, o) {
+      if (e.hasOwnProperty && e.hasOwnProperty("addEventListener")) {
+        for (var n = e.addEventListener; n._rollbarOldAdd && n.belongsToShim;) n = n._rollbarOldAdd;
+        var t = function (e, o, t) {
+          n.call(this, e, r.wrap(o), t)
+        };
+        t._rollbarOldAdd = n, t.belongsToShim = o, e.addEventListener = t;
+        for (var a = e.removeEventListener; a._rollbarOldRemove && a.belongsToShim;) a = a._rollbarOldRemove;
+        var l = function (r, e, o) {
+          a.call(this, r, e && e._rollbar_wrapped || e, o)
+        };
+        l._rollbarOldRemove = a, l.belongsToShim = o, e.removeEventListener = l
+      }
+    }
+
+    r.exports = {captureUncaughtExceptions: o, captureUnhandledRejections: t, wrapGlobals: a}
+  }, function (r, e) {
+    "use strict";
+
+    function o(r, e) {
+      this.impl = r(e, this), this.options = e, n(o.prototype)
+    }
+
+    function n(r) {
+      for (var e = function (r) {
+        return function () {
+          var e = Array.prototype.slice.call(arguments, 0);
+          if (this.impl[r]) return this.impl[r].apply(this.impl, e)
+        }
+      }, o = "log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","), n = 0; n < o.length; n++) r[o[n]] = e(o[n])
+    }
+
+    o.prototype._swapAndProcessMessages = function (r, e) {
+      this.impl = r(this.options);
+      for (var o, n, t; o = e.shift();) n = o.method, t = o.args, this[n] && "function" == typeof this[n] && ("captureDomContentLoaded" === n || "captureLoad" === n ? this[n].apply(this, [t[0], o.ts]) : this[n].apply(this, t));
+      return this
+    }, r.exports = o
+  }, function (r, e) {
+    "use strict";
+    r.exports = function (r) {
+      return function (e) {
+        if (!e && !window._rollbarInitialized) {
+          r = r || {};
+          for (var o, n, t = r.globalAlias || "Rollbar", a = window.rollbar, l = function (r) {
+            return new a(r)
+          }, i = 0; o = window._rollbarShims[i++];) n || (n = o.handler), o.handler._swapAndProcessMessages(l, o.messages);
+          window[t] = n, window._rollbarInitialized = !0
+        }
+      }
+    }
+  }]);
+  // End Rollbar Snippet
+</script>
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: {families: ['Lato:400,300,700', 'Montserrat:400,700']}
+  };
+  (function () {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+
+<script async src="https://appsha1.cointraffic.io/js/?wkey=jyCgdX"></script>
+
+
+<script src="https://acf-production.s3.amazonaws.com/assets/home-all-74ed6f47ac0e9a5900c62e56d1803be2892e7dc47538bb6cf9b1010e67a5d729.js"></script>
+
+<script>
+  $(document).ready(function () {
+    trackEvent('view_homepage');
+  });
+</script>
+
+
+</body>
+</html>

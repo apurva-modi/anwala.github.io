@@ -1,0 +1,477 @@
+<!DOCTYPE HTML>
+<html xmlns:fb="http://www.facebook.com/2008/fbml" ng-app="coin">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <script>if(console in window){console.log=function(){}}else{console={};console.log=function(){};console.warn=function(){}}</script>
+  <meta charset="UTF-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"39a2506779","applicationID":"3595048","transactionName":"cFpaFUdWXVxWERoNXF5QGwxUUF9AUgRQ","queueTime":0,"applicationTime":47,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIDV1RXGwAFXVRSAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+  <title>The easiest way to buy and sell Bitcoin and cryptocurrency. | Coincheck</title>
+  <link rel="stylesheet" media="screen" href="https://assets.coincheck.com/assets/base-a29123e510123428c63903bb8ce766fb.css" debug="false" />
+  <link rel="stylesheet" media="screen" href="https://assets.coincheck.com/assets/pages/mainpage-b59f647d73ee67edf2257b8b7ecf456c.css" debug="false" />
+  <script src="https://assets.coincheck.com/assets/base-5f5791a9a7ab84a86b1f9cd3a1a30306.js" debug="false"></script>
+  
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="9NxCdMH+qG3SRb8kOkg5biAnWZe+G2ZKHB5hyJNGOLgb5Rw0dFbp6VQZ3foa0O8sQOOowa9WAiBEED6n35QN+g==" />
+
+    <link rel="canonical" href="https://coincheck.com/">
+    <meta property="og:url" content="https://coincheck.com/">
+
+    <link rel="alternate" href="https://coincheck.com/" hreflang="x-default" />
+    <link rel="alternate" href="https://coincheck.com/" hreflang="en" />
+    <link rel="alternate" href="https://coincheck.com/ja/" hreflang="ja" />
+    <link rel="alternate" href="https://coincheck.com/cn/" hreflang="cn" />
+    <link rel="alternate" href="https://coincheck.com/id/" hreflang="id" />
+
+
+  <meta property="fb:app_id" content="629634010457380"/>
+  <meta property="og:site_name" content="coincheck（コインチェック）" />
+  <meta property="og:title" content="The easiest way to buy and sell Bitcoin and cryptocurrency. | Coincheck" />
+    <meta property="og:image" content="https://coincheck.com/images/ogp/coincheck_ogp_large_2018.jpg" />
+  <meta property="og:description" content="Trading value No.1※1 The number of app users No.1※2※1 No.1 Bitcoin trade volume in Japan! According to jpbitcoin.com (2017 yearly BTC spot trade volume)  ※2 According to the research conducted by App Ape in August-October 2017 (Sample size： 50,000 users)." />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:title" content="The easiest way to buy and sell Bitcoin and cryptocurrency. | Coincheck">
+  <meta name="twitter:description" content="Trading value No.1※1 The number of app users No.1※2※1 No.1 Bitcoin trade volume in Japan! According to jpbitcoin.com (2017 yearly BTC spot trade volume)  ※2 According to the research conducted by App Ape in August-October 2017 (Sample size： 50,000 users).">
+  <meta name="twitter:image:src" content="https://coincheck.com/images/ogp/coincheck_ogp_large_2018.jpg">
+  <meta name="twitter:domain" content="coincheck.com">
+
+  <meta name="keywords" content="Bitcoin, Ethereum, Ripple, NEM" />
+    <meta name="description" content="Trading value No.1※1 The number of app users No.1※2※1 No.1 Bitcoin trade volume in Japan! According to jpbitcoin.com (2017 yearly BTC spot trade volume)  ※2 According to the research conducted by App Ape in August-October 2017 (Sample size： 50,000 users)." />
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+  <link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+    <meta name="apple-itunes-app" content="app-id=957130004">
+    <link rel="apple-touch-icon" href="/images/icons/favicon.ico">
+    <link href='/images/icons/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+  <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('set', 'dimension1', 'not_login');
+  ga('create', 'UA-53448644-1', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+
+    angular.module("coin").value("current_account", null)
+      .value("current_user", null)
+      .value("currentShop", null)
+      .value("initNotice", "")
+      .value("initError", "")
+      .value("minConfirmation", 3)
+      .value("pageType", "consumer")
+      .value("ios", false)
+      .value("android", false)
+      .value("socketDomain", "https://ws.coincheck.com")
+      .value("env", "production")
+      .value("language", "en")
+
+    i18next.changeLanguage("en")
+  </script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGXLHSS');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1921602911404723');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1921602911404723&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+twq('init','nxhxq');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<!-- Yahoo Code for your Target List -->
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'FRUGWDMQVI';
+var yahoo_retargeting_label = '';
+var yahoo_retargeting_page_type = '';
+var yahoo_retargeting_items = [{item_id: '', category_id: '', price: '', quantity: ''}];
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="https://b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+
+</head>
+  
+<body id="" class="gray" ng-controller="AppCtrl" data-env="production">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGXLHSS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div class="notice" ng-class="{show: notice.on, error: notice.error}">
+    <div class="inner" ng-bind="notice.text"></div>
+  </div>
+
+  
+<script>
+  angular.module("coin").value("fixHeader", false)
+</script>
+<header class="header-lp-wrapper" ng-controller="HeaderCtrl">
+  <div class="header-lp-contents">
+    <div class="logo">
+      <img src="/images/logos/logo.svg" alt="Coincheck Logo">
+    </div>
+    <ul class="header_login">
+      <li class="exchange_link"><a href="/exchange">Exchange</a></li>
+      <li>
+        <div class="login">Sign in <i class="fa fa-caret-down"></i></div>
+        <ul>
+          <li><a href="/sessions/signin?account_type=consumer"><p>Exchange</p></a></li>
+          <li><a href="/sessions/signin?account_type=ec"><p>Payment</p></a></li>
+          <li><a href="/sessions/signin?account_type=lending"><p>Lending</p></a></li>
+        </ul>
+      </li>
+        <li>
+          <div class="regist bg-linkcolor">Register <i class="fa fa-caret-down"></i></div>
+          <ul>
+            <li><a href="/registrations"><p>Exchange</p></a></li>
+            <li><a href="/payment"><p>Payment</p></a></li>
+            <li><a href="/lending"><p>Lending</p></a></li>
+          </ul>
+        </li>
+    </ul>
+    <div class="clearfix"></div>
+  </div>
+</header>
+
+<div class="coincheck_home">
+  <div class="coincheck_home_main">
+    <main>
+      <div class="main_text">
+        <h1 class="main_text_h1"><span class="main_text_h1_span">Bitcoin Exchange</span><br>Coincheck</h1>
+        <script type="text/javascript">
+  angular.module("coin").value("recaptcha_site_key", "6LfE2CQTAAAAABTAUCC9ekQVs8ATz3Rmkw_1y7jo");
+</script>
+<div class="registration_form_top">
+    <div class="registration_form_top_user" ng-controller="CommonRegistrationCtrl">
+      <form ng-submit="register('recaptcha_471f8e5b')" class="registration_form_top_user_wrapper">
+        <div class="form_container_wrap">
+          <div class="account_formwrap">
+            <input id="email" class="email" type="email" placeholder="Email" ng-model="user.email" ng-class="{error: error.email}"/>
+            <input id="password" class="password" type="password" placeholder="Password" ng-model="user.password" ng-class="{error: error.password}"/>
+            <button class="create">Create account</button>
+          </div>
+        </div>
+        <div class="form_container_wrap">
+          <div class="facebook_btnwrap">
+            <a class="facebook_btn" href="/auth/facebook?type=consumer">Start with Facebook</a>
+          </div>
+        </div>
+        <div class="form_container_wrap">
+          <div class="terms-explanation">
+  By using Coincheck you agree to our <a class="links" target="_blank" href="/info/terms">Terms of Use</a> and <a class="links" target="_blank" href="/agreements_url?type=privacy_policy">Privacy Policy</a>.
+</div>
+
+        </div>
+      </form>
+    </div>
+</div>
+
+        <div class="main_section_contents_a sp-only"><a href="/exchange">Exchange</a></div>
+      </div>
+    </main>
+  </div>
+  <div class="coincheck_home_main_grandient"></div>
+  <section class="main_section_contents reverse a-center">
+    <div class="main_section_contents_img img_buysell">
+      <img class="main_section_contents_img_device" src="/images/lp/mainpage/img_sp_ios_android.png" alt="CoincheckアプリのUI">
+    </div>
+    <div class="main_section_contents_copy">
+      <img class="main_section_contents_icon" src="/images/lp/mainpage/icon_buysell.svg" alt="">
+      <h2 class="main_section_contents_h2">Buy and sell<br>cryptocurrencies<br>24 hours a day.</h2>
+      <p class="main_section_contents_p">Whether it&#39;s a weekday or the weekend, you can buy and sell cryptocurrencies 24 hours a day. In addition to Bitcoin (BTC), we support transactions of Ripple (XRP) and other cryptocurrencies.</p>
+    </div>
+  </section>
+  <section class="main_section_contents a-center">
+    <div class="main_section_contents_copy">
+      <img class="main_section_contents_icon" src="/images/lp/mainpage/icon_sendreceive.svg" alt="">
+      <h2 class="main_section_contents_h2">Transfer & Deposit<br>funds instantly</h2>
+      <p class="main_section_contents_p">If you have the address, you can send cryptocurrencies to anywhere in the world, instantly. You can also display your QR code to receive coins immediately.</p>
+    </div>
+    <div class="main_section_contents_img img_sendreceive">
+      <img class="main_section_contents_img_device" src="/images/lp/mainpage/img_sp_seind_receive.png" alt="Coincheckアプリの送金受取のUI">
+    </div>
+  </section>
+  <section class="main_section_contents reverse a-center">
+    <div class="main_section_contents_img img_tradeview">
+      <img class="main_section_contents_img_device" src="/images/lp/mainpage/img_pc_trade.png" alt="CoincheckトレードビューのUI">
+    </div>
+    <div class="main_section_contents_copy">
+      <h2 class="main_section_contents_h2">Use our Trade View<br>for professional<br>quality trading</h2>
+      <p class="main_section_contents_p">Use the Coincheck Trade View in the browser to trade Bitcoin with no transaction fees.</p>
+      <a class="main_section_contents_a" href="/exchange/tradeview" target="_blank">Log in to to use Trade View</a>
+    </div>
+  </section>
+  <section class="main_section_contents_security">
+    <div class="main_section_contents_security_description">
+      <h2 class="main_section_contents_security_h2">Trade safely and securely</h2>
+    </div>
+    <div class="main_section_contents_security_lists">
+      <div class="main_section_contents_security_lists_box">
+        <img class="main_section_contents_security_lists_box_img" src="/images/lp/mainpage/icon_security_2fa.svg" alt="Coincheckアプリの2段階認証">
+        <h3 class="main_section_contents_security_lists_box_h3">Two-Factor Auth</h3>
+        <p class="main_section_contents_security_lists_box_p">Coincheck requires users to perform two-factor verification during login, helping you protect your account from malicious third parties with both a password and your phone.</p>
+      </div>
+      <div class="main_section_contents_security_lists_box">
+        <img class="main_section_contents_security_lists_box_img" src="/images/lp/mainpage/icon_security_coldwallet.svg" alt="Coincheckアプリのコールドウォレット">
+        <h3 class="main_section_contents_security_lists_box_h3">Cold Wallet</h3>
+        <p class="main_section_contents_security_lists_box_p">Customer assets are secured offline, providing top level security.</p>
+      </div>
+      <div class="main_section_contents_security_lists_box">
+        <img class="main_section_contents_security_lists_box_img" src="/images/lp/mainpage/icon_security_sysytem audit.svg" alt="Coincheckアプリのシステム監査">
+        <h3 class="main_section_contents_security_lists_box_h3">System security</h3>
+        <p class="main_section_contents_security_lists_box_p">We&#39;ve confirmed the security and efficiency of our systems with multiple information security firms from around the world.</p>
+      </div>
+    </div>
+  </section>
+  <section class="main_section_contents">
+    <a class="main_section_contents_servicelink" href="/lending" target="_blank">
+      <div class="main_section_contents_servicebox lending">
+        <h3 class="main_section_contents_servicebox_h3"><br>Coincheck Lending</h3>
+        <p class="main_section_contents_servicebox_p">Loan us your spare cryptocurrencies and earn interest without doing a thing!</p>
+        <p class="main_section_contents_servicebox_a">Go to Coincheck Lending</p>
+      </div>
+    </a>
+    <a class="main_section_contents_servicelink" href="/payment" target="_blank">
+      <div class="main_section_contents_servicebox payment">
+        <h3 class="main_section_contents_servicebox_h3"><br>Coincheck Payment</h3>
+        <p class="main_section_contents_servicebox_p">We're getting ready to resume normal services. <br>Please wait just a little longer.</p>
+        <p class="main_section_contents_servicebox_a">Go to Coincheck Payment</p>
+      </div>
+    </a>
+  </section>
+  <hr class="main_hr">
+  <section class="main_section_contents">
+    <div class="main_section_contents_linkbox">
+      <a class="main_section_contents_linkbox_a" href="https://twitter.com/coincheckjp" target="_blank">
+        <div class="main_section_contents_linkbox_title">Twitter
+        <h5 class="main_section_contents_linkbox_h5"></h5>
+      </div>
+      </a>
+    </div>
+    <div class="main_section_contents_linkbox">
+      <a class="main_section_contents_linkbox_a" href="https://coincheck.blog" target="_blank">
+        <div class="main_section_contents_linkbox_title">Blog
+          <h5 class="main_section_contents_linkbox_h5"></h5>
+        </div>
+      </a>
+    </div>
+    <div class="main_section_contents_linkbox">
+      <a class="main_section_contents_linkbox_a" href="https://corporate.coincheck.com/archive" target="_blank">
+        <div class="main_section_contents_linkbox_title">Press
+          <h5 class="main_section_contents_linkbox_h5"></h5>
+        </div>
+      </a>
+    </div>
+    <div class="main_section_contents_linkbox">
+      <a class="main_section_contents_linkbox_a" href="https://corporate.coincheck.com/recruit" target="_blank">
+        <div class="main_section_contents_linkbox_title">Recruit
+          <h5 class="main_section_contents_linkbox_h5"></h5>
+        </div>
+      </a>
+    </div>
+  </section>
+  <section class="main_section_contents_media">
+    <h3 class="main_section_contents_media_h3">We have been featured in</h3>
+    <div class="media_wrapper">
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-nikkei.png" alt="Nikkei">
+      </figure>
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-wired.png" alt="WIRED">
+      </figure>
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-asahi.png" alt="Asahi">
+      </figure>
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-yomiuri.png" alt="Yomiuri">
+      </figure>
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-wbs.png" alt="WBS">
+      </figure>
+      <figure class="media_contents_image">
+        <img src="/images/lp/mainpage/img-tech.png" alt="TC">
+      </figure>
+    </div>
+  </section>
+  <hr class="main_hr">
+  <div class="bottom_notice rsv-container"><p class="bold">Important notice about cryptocurrency trading</p> <ul class="ul-en"> <li>Virtual currency is not a national currency in or outside of Japan.</li> <li>Virtual currency handled by the Company is a “decentralized virtual currency” that is traded and issued on the Internet, and the value of a virtual currency is not guaranteed by neither a particular nation nor other people.</li> <li>In Virtual Currency Trading, there is a risk that customers will incur losses due to value fluctuations of the virtual currency being traded. Further, in leveraged trading and margin trading, since the transaction amount is larger than the amount of virtual currency or margin that a customer deposits with the Company, there is a risk that customers will incur losses greater than the amount of virtual currency or margin.</li> <li>In Virtual Currency Trading, there is a possibility that customers may not be able to place trades as they intend due to the fact that the difference between sell and buy prices of virtual currency will spread and orders may be suspended temporarily in the event of sudden market fluctuations, reduced liquidity, or other such situations.</li> <li>Processing of transactions may be delayed, or placement, execution, confirmation and cancellation of orders may be invalidated due to a failure in the transaction system required for Virtual Currency Trading or the communication lines connecting the Company and customers.</li> <li>There is a risk that virtual currency will be lost in whole or in part due to a cyber-attack or other such causes.</li> <li>There is a risk that the Company will not be able to continue its business if the external environment changes (including tightening of regulations for virtual currencies), the Company’s financial condition deteriorates, or any service provider falls into bankruptcy. If the Company falls into bankruptcy, the Company will not be able to return assets to customers, and there is a possibility that customers will incur losses.</li> <li>Assets deposited by customers are subject to the obligation to manage separately from the Company’s own assets, and they will be managed separately from the Company’s own money and virtual currency as follows. However, margin used on leveraged trading is not a subject to segregated management of customers assets. For more information, please refer to “11. Separation management”.</li> <div class="supplement"> 1) Money:<br> Customer’s trading account at Resona Bank, Ltd., SBI Sumishin Net Bank, Ltd., Aozora Bank, Ltd., or ORIX Bank Corporation.<br> 2) Virtual Currency:<br> Virtual currency is stored in a cold wallet disconnected from the Internet or other external networks, or in a hot wallet connected to the Internet or other external networks, in such a manner that each customer’s amount is immediately recognizable as data. </div> <li>Transaction fees and other fees are required for Virtual Currency Trading. Please see “11. Fees, etc.” for details.</li></ul> </ul></div>
+</div>
+  <footer class="footer" ng-if="!ios && !android" ng-controller="FooterCtrl">
+    <div class="footer-inner border-top">
+      <div class="cointainer">
+        <div class="rsv-container">
+          <div class="language">
+            <label for="footer-language">Language</label>
+            <select id="footer-language" ng-model="language" ng-change="changeLanguage(language)">
+              <option value="en" >English</option>
+              <option value="id" >Indonesian</option>
+              <option value="cn" >中文(简体)</option>
+              <option value="ja" >日本語</option>
+            </select>
+          </div>
+        </div>
+        <div class="menus rsv-container">
+          <div class="menu left">
+            <div class="logo">
+              <a ng-hide="isECHeader()" href="/" >
+                <img src="/images/logos/logo.svg" alt="Coincheck Logo">
+              </a>
+              <a ng-show="isECHeader()" href="/payment" >
+                <img src="/images/logos/logo.svg" alt="Coincheck Logo">
+              </a>
+            </div>
+            <p class="trade-name">Coincheck, Inc.</p>
+            <p class="member">Digital Currency Exchange<br>Registration Number: Kanto Finance Bureau 00014</p>
+            <p class="member">General Incorporated Association<br>JVCEA Member</p>
+            <ul>
+              <li class="left icon"><a href="https://twitter.com/coincheckjp" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
+              <li class="left icon"><a href="https://www.facebook.com/coincheck/" target="_blank"><i class="fa fa-facebook fa-lg"></i></a></li>
+            </ul>
+          </div>
+          <div class="menu left">
+            <h4 class="footer-title">PRODUCTS</h4>
+            <nav>
+              <ul>
+                <li><a href="/buys">Buy Bitcoin</a></li>
+                <li><a href="/buys?pair=eth_jpy">Buy Altcoins</a></li>
+                <li><a href="/exchange">Exchange</a></li>
+                <li><a href="https://app.adjust.com/bjs9hhq" target="_blank">Coincheck App</a></li>
+                <li><a href="/payment">Payment</a></li>
+                <li><a href="https://itunes.apple.com/jp/app/bittokoin-jue-ji-coincheck/id983147148" target="_blank">Payment for iOS</a></li>
+                <li><a href="/lending" target="_blank">Lending</a></li>
+                <li><a href="/denki" target="_blank">Coincheck Electric</a></li>
+                <li><a href="/donations">Bitcoin Donations</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="menu left">
+            <h4 class="footer-title">SERVICE GUIDES</h4>
+            <nav>
+              <ul>
+                <li><a href="/documents/security">Security</a></li>
+                <li><a href="/documents/howto">Buy Bitcoin</a></li>
+                <li><a href="/documents/transfer">Transfer Bitcoin</a></li>
+                <li><a href="/documents/payment">Payment documents</a></li>
+                <li><a href="/documents/exchange/api">Exchange API</a></li>
+                <li><a href="/documents/payment/api">Payment API</a></li>
+                <li><a href="/documents/about/efforts_to_trade">Efforts to trade with confidence</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="menu left">
+            <h4 class="footer-title">SUPPORT</h4>
+            <nav>
+              <ul>
+                <li><a href="/info/help">Help Center / Contact</a></li>
+                <li><a href="/exchange/closing_prices">Closing prices for supported currencies</a></li>
+                <li><a href="/exchange/rates">Search rates</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="menu left">
+            <h4 class="footer-title">INFO</h4>
+            <nav>
+              <ul>
+                <li><a href="/article/19">About Cryptocurrency</a></li>
+                <li><a href="/article/20">What is Bitcoin?</a></li>
+                <li><a href="/article">Useful information about crypto</a></li>
+                <li><a href="/exchange/charts">Cryptocurrency Charts</a></li>
+                <li><a href="/info/fee">Fee</a></li>
+                <li><a href="/agreements_url?type=terms_store" target="_blank">Merchant Terms</a></li>
+                <li><a href="/agreements_url?type=transaction_manual" target="_blank">Trading manual</a></li>
+                <li><a href="/info/faq_posts/96">Chat Guidelines</a></li>
+                <li><a href="/images/outline/currency_outline_0921.pdf" target="_blank">Outline of Cryptocurrency</a></li>
+                <li><a href="/images/guidelines/planned_hard_forks_and_new_coins_20180501.pdf" target="_blank">Company response guidelines for planned Hard Forks and new coins</a></li>
+                <li><a href="/info/logos">About Logos</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="menu left">
+            <h4 class="footer-title">ABOUT</h4>
+            <nav>
+              <ul>
+                <li><a href="https://corporate.coincheck.com/" target="_blank">About</a></li>
+                <li><a href="https://corporate.coincheck.com/recruit" target="_blank">Jobs</a></li>
+                <li><a href="https://coincheck.blog" target="_blank">Blog</a></li>
+                <li><a href="/info/terms2">Legal</a></li>
+                <li><a href="/agreements_url?type=privacy_policy" target="_blank">Privacy Policy</a></li>
+                <li><a href="/info/terms" target="_blank">Terms of use</a></li>
+                <li><a href="/images/guidelines/money_laundering_prevention_20181009.pdf" target="_blank">Money Laundering Prevention</a></li>
+                <li><a href="/info/antisocial">Fundamental Policies Against Organized Crime</a></li>
+                <li><a href="/info/security_policy">Information Security Policy</a></li>
+                <li><a href="/documents/about/disputes_policy">Policy Regarding Disputes and Complaints</a></li>
+                <li><a href="/sitemap" ng-show="!isPhone">Sitemap</a></li>
+                <li><a href="https://crypto-lab.info" target="_blank">Monex Cryptocurrency Lab</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+
+  <div class="modal-view" modal></div>
+
+    <div class="lang-warning" ng-cloak ng-show="langWarningCtrl.showWarning" ng-controller="LangWarningCtrl as langWarningCtrl">
+      <div class="inner">
+        <div class="warning" ng-show="langWarningCtrl.browserLang == 'ja'">
+          <p class="text">日本語で表示しますか？</p>
+          <a class="link" href="/languages/ja">はい</a>
+          <a class="link" ng-click="langWarningCtrl.dismiss()">いいえ</a>
+          <a class="link" ng-click="langWarningCtrl.dismissNever()">もう表示しない</a>
+        </div>
+        <div class="warning" ng-show="langWarningCtrl.browserLang == 'en'">
+          <p class="text">Show in English?</p>
+          <a class="link" href="/languages/en">Yes</a>
+          <a class="link" ng-click="langWarningCtrl.dismiss()">No</a>
+          <a class="link" ng-click="langWarningCtrl.dismissNever()">Never</a>
+        </div>
+      </div>
+    </div>
+      <script type="text/javascript" language="javascript">
+    /* <![CDATA[ */
+    var yahoo_retargeting_id = 'J0YC7G24CU';
+    var yahoo_retargeting_label = '';
+    var yahoo_retargeting_page_type = '';
+    var yahoo_retargeting_items = [{item_id: '', category_id: '', price: '', quantity: ''}];
+    /* ]]> */
+  </script>
+  <script type="text/javascript" language="javascript" src="https://b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+</body>
+</html>

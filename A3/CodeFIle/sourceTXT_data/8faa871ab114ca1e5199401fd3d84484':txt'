@@ -1,0 +1,14 @@
+· 63 commits to master           since this release
+Release
+This is the second of weekly Friday releases in February -- Let There Be Liquidity.
+This release includes a number of small feature additions/modifications, clarifications, and minor bug fixes. The most significant features added were (1) enforced ordering of eth1 deposits (to avoid replay attacks) and (2) enabling transfers from "withdrawable" validator accounts (to open up liquidity options for validators before phase 2).
+The core of the phase 1 spec is currently being built, but the exact particulars should be considered unstable and not yet targeted for production development.
+Outside of this immediate release, progress continues to be made on the cross-client testing, and much progress have been made around network specifications ( #593 ) and discovery protocol.
+Changelog
+PR showing full diff can be found here: #631
+Phase 0 spec
+tighten up eth1 deposit flow ( #594 , #589 )
+enable transfers between "withdrawable" accounts ( #601 )
+switch bitfields to little-endian ( #575 )
+only reward attestations from committees for previous epoch + note on validator set to reward/penalize ( #597 )
+add minimum slashing penalty ( #624 )

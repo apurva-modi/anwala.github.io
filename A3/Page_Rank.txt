@@ -1,0 +1,24 @@
+PageRank		URI
+--------		---
+
+1			https://walk4cyber.blogspot.com/
+2			https://blocksdecoded.com/
+2			https://techterrene.com/
+2			https://www.cryptoonair.com
+3			https://topnews.one/
+4			https://bitrss.com/
+4			https://blog.nomics.com
+4			https://breakermag.com
+4			http://comics.trendolizer.com
+5			https://www.theblockcrypto.com/
+6			https://www.ccn.com/
+6			https://ethereumworldnews.com
+6			https://www.newsbtc.com
+7			https://paper.li
+7			https://cointelegraph.com
+8			https://www.cnbc.com
+8			https://www.forbes.com
+
+*************************************************************************************
+Note: These Page Ranks are manually obtained using " https://www.checkpagerank.net/ "
+*************************************************************************************

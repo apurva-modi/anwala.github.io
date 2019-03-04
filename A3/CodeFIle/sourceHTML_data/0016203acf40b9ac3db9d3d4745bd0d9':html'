@@ -1,0 +1,281 @@
+<!doctype html>
+			<html lang="en">
+
+			<head>
+				<meta charset="utf-8">
+				<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+				<title>Scrypta Blockchain - Make Blockchain for real</title>
+				<meta name="description" content="">
+				<meta name="viewport" content="width=device-width,initial-scale=1">
+				<!-- Place favicon.ico in the root directory -->
+				<link rel="icon" type="image/png" href="/logo.png" />
+				<link href="https://fonts.googleapis.com/css?family=Poppins:100,300,400,700,900" rel="stylesheet">
+				<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet"> -->
+				<link href="https://fonts.googleapis.com/css?family=Caveat" rel="stylesheet">
+				<!-- themeforest:css -->
+				<link rel="stylesheet" href="/css/aos.css">
+				<link rel="stylesheet" href="/css/bootstrap.css">
+				<link rel="stylesheet" href="/css/cookieconsent.min.css">
+				<link rel="stylesheet" href="/css/fontawesome-all.css">
+				<link rel="stylesheet" href="/css/helper.css">
+				<link rel="stylesheet" href="/css/magnific-popup.css">
+				<link rel="stylesheet" href="/css/odometer-theme-minimal.css">
+				<link rel="stylesheet" href="/css/pe-icon-7-stroke.css">
+				<link rel="stylesheet" href="/css/prettify.css">
+				<link rel="stylesheet" href="/css/simplebar.css">
+				<link rel="stylesheet" href="/css/smart_wizard.css">
+				<link rel="stylesheet" href="/css/smart_wizard_theme_arrows.css">
+				<link rel="stylesheet" href="/css/smart_wizard_theme_circles.css">
+				<link rel="stylesheet" href="/css/smart_wizard_theme_dots.css">
+				<link rel="stylesheet" href="/css/styles.css">
+				<link rel="stylesheet" href="/css/swiper.css">
+				<!-- endinject -->
+				<!-- Start of scryptachain Zendesk Widget script -->
+				<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=40ba57ed-b3d5-4acd-8696-e732d2b7002b"> </script>
+				<!-- End of scryptachain Zendesk Widget script -->
+			</head>
+
+			<body>
+				<!--[if lt IE 8]>
+			<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+			<![endif]-->
+				<!-- ./Main Navigation -->
+				<nav class="navbar navbar-expand-md main-nav navigation fixed-top sidebar-left">
+					<div class="container">
+						<button class="navbar-toggler" type="button">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a href="/en/homepage" class="navbar-brand">
+							<img src="/logo.png" alt="ScryptaChain" height="35" class="logo logo-sticky d-block d-md-none">
+							<img src="/logo.png" alt="ScryptaChain" height="35" class="logo d-none d-md-block">
+						</a>
+						<div class="collapse navbar-collapse ml-auto" id="main-navbar">
+							<ul class="nav navbar-nav">
+								<li class="nav-item">
+									<a class="nav-link" href="/en/blockchain">Blockchain</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="/en/developers">Developers</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" target="_blank" href="https://chainz.cryptoid.info/lyra/">Explorer</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" target="_blank" href="https://github.com/scryptachain/roadmap/projects/1">Roadmap</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="/en/homepage#wallet">Wallet</a>
+								</li>
+							</ul>
+							<ul class="nav navbar-nav ml-md-auto justify-content-center mt-4 mt-md-0 flex-row">
+								<li class="btn btn-rounded btn-outline mr-3 px-3" style="padding-top:15px" onClick="window.location='https://github.com/scryptachain'" target="_blank">
+									<i class="fab fa-github d-none d-md-inline mr-md-0 mr-lg-2"></i>
+									<span class="d-md-none d-lg-inline">Github</span>
+								</li>
+								<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="javascript:;" aria-expanded="false">EN</a>
+									<div class="dropdown-menu p-3">
+										
+				<a class="dropdown-item" href="/it/about-scrypta">IT</a>
+				<a class="dropdown-item" href="/sp/about-scrypta">SP</a>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+		
+<main>
+	<!-- ./Page header -->
+	<header class="page header color-1 overlay alpha-8 image-background cover overlay gradient gradient-43" style="">
+		<div class="divider-shape">
+			<!-- waves divider -->
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none" class="shape-waves" style="left: 0; transform: rotate3d(0,1,0,180deg);">
+				<path class="shape-fill shape-fill-1" d="M790.5,93.1c-59.3-5.3-116.8-18-192.6-50c-29.6-12.7-76.9-31-100.5-35.9c-23.6-4.9-52.6-7.8-75.5-5.3c-10.2,1.1-22.6,1.4-50.1,7.4c-27.2,6.3-58.2,16.6-79.4,24.7c-41.3,15.9-94.9,21.9-134,22.6C72,58.2,0,25.8,0,25.8V100h1000V65.3c0,0-51.5,19.4-106.2,25.7C839.5,97,814.1,95.2,790.5,93.1z" />
+			</svg>
+		</div>
+		<div class="container" style="">
+			<div class="row">
+				<div class="col-md-6">
+					<h1 class="regular display-4 color-1 mb-4">Scrypta Crowdsale</h1>
+					<p class="lead color-1">Welcome to the official page of the Scrypta Crowdsale. During this distribution stage all participants can contribute to the project by collaborating on the growth of the infrastructure.</p>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- ./Pricing cards -->
+	<section>
+		<div class="container">
+			<div class="section-heading text-center">
+				<h2 class="mb-2">How to Contribute</h2>
+				<p class="lead color-2">In order to join the Crowdsale, all partecipants can proceed through methods described below.</p>
+			</div>
+			<div class="row">
+			<div class="col-md-6 mt-5">
+					<div class="card text-center">
+						<div class="pricing card-header bg-3-gradient color-1 d-flex align-items-center flex-column">
+							<h4>Scrypta Masternodes Platforms</h4>
+							<div class="pricing-value">
+								<span class="price bold">0,5</span>
+							</div>
+							<p>Cloud Wallet Full Node, through which you can participate immediately to the Masternode Super Validator process.</p>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item ">15000 LYRA</li>
+							<li class="list-group-item ">1 Year Masternode Hosting</li>
+							<li class="list-group-item">Automatic Masternode Deployment</li>
+							<li class="list-group-item">Bonus 7500 Lyra *</li>
+							<li class="list-group-item">Staking in cloud</li>
+						</ul>
+						<div class="card-body">
+							<a href="https://masternodes.scryptachain.org" target="_blank" class="btn btn-accent">Join Crowdsale</a>
+						</div>
+					</div>
+					<div class="text-center" style="font-size:12px; margin-top:15px">
+						* The Bonus will be issued after 1 year of continued masternode activity without interruption.					</div>
+				</div>
+				<div class="col-md-6 mt-5">
+					<div class="card text-center">
+						<div class="pricing card-header bg-2-gradient color-1 d-flex align-items-center flex-column">
+							<h4>Direct Exchange Listing</h4>
+							<div style="font-size:35px; margin:25px 0">
+								<span class="price bold">Mercatox</span>
+							</div>
+							<p>Gradual placing of LYRA into “direct listing” on the Mercatox.com exchange.</p>
+						</div>
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item">No predetermined amount</li>
+							<li class="list-group-item strike-through">1 Year Masternode Hosting</li>
+							<li class="list-group-item strike-through">Automatic Masternode Deployment</li>
+							<li class="list-group-item strike-through">Bonus 7500 Lyra *</li>
+							<li class="list-group-item strike-through">Staking in cloud</li>
+						</ul>
+						<div class="card-body">
+							<a href="https://mercatox.com/exchange/LYRA/BTC" target="_blank" class="btn btn-accent bg-2-gradient color-1">Trade now</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+</main>
+
+
+				<footer class="site-footer section block bg-1">
+				<div class="container py-4">
+					<div class="row gap-y text-center text-md-left">
+						<div class="col-md-4 mr-auto">
+							<img src="/logo.png" alt="" class="logo">
+							<p>Scrypta, a decentralized storage and certification infrastructure offering the opportunity to redefine business models and relationships among citizens, businesses and governments.<br> <br>E-mail: <a href="mailto:scryptachain@criptext.com"><strong>scryptachain@criptext.com</strong></a></p>
+						</div>
+						<div class="col-md-2">
+							<h6 class="py-2 bold">Project</h6>
+							<nav class="nav flex-column">
+								<a class="nav-item py-2" href="/en/homepage">Home</a>
+								<a class="nav-item py-2" href="/en/about-scrypta">About</a>
+								<a class="nav-item py-2" href="/en/blockchain">Blockchain</a>
+								<a class="nav-item py-2" href="https://github.com/scryptachain/roadmap/projects/1" target="_blank">Roadmap</a>
+								
+							</nav>
+						</div>
+						<div class="col-md-2">
+							<h6 class="py-2 bold">Resources</h6>
+							<nav class="nav flex-column">
+								
+								<a class="nav-item py-2" href="/en/developers">Developers Area</a>
+								<a class="nav-item py-2" href="https://chainz.cryptoid.info/lyra/"target="_blank">Block Explorer</a>
+								<a class="nav-item py-2" href="https://wiki.scryptachain.org/"target="_blank">Wiki Scrypta</a>
+								<a class="nav-item py-2" href="https://masternodes.scryptachain.org/register" target="_blank">Masternodes Platform</a>
+							</nav>
+						</div>
+						<div class="col-md-2">
+							<h6 class="py-2 bold">Download</h6>
+							<nav class="nav flex-column">
+								<a class="nav-item py-2" href="/en/homepage#wallet">Wallet</a>
+								<a class="nav-item py-2" href="/scrypta_light_paper_en.pdf"target="_blank">Light Paper</a>
+							</nav>
+						</div>
+						
+					</div>
+					<hr class="mt-5">
+					<div class="row small align-items-center">
+						<div class="col-md-4">
+							<p class="mt-2 mb-md-0 color-2 text-center text-md-left">© 2019, Scrypta Blockchain Technology. All Rights Reserved.</p>
+						</div>
+						<div class="col-md-8">
+							<nav class="nav justify-content-center justify-content-md-end">
+								<a href="https://twitter.com/scryptachain" target="_blank" class="btn btn-circle btn-sm btn-2 mr-3 op-4">
+									<i class="fab fa-twitter" style="font-size:20px"></i>
+								</a>
+								<a href="https://discord.gg/mrVQvhB" target="_blank" class="btn btn-circle btn-sm btn-2 mr-3 op-4">
+									<i class="fab fa-discord" style="font-size:20px"></i>
+								</a>
+								<a href="https://medium.com/@scryptachain" target="_blank" class="btn btn-circle btn-sm btn-2 mr-3 op-4">
+									<i class="fab fa-medium" style="font-size:20px"></i>
+								</a>
+								<a href="https://t.me/scryptachain_official " target="_blank" class="btn btn-circle btn-sm btn-2 mr-3 op-4">
+									<i class="fab fa-telegram" style="font-size:20px"></i>
+								</a>
+								<a href="https://github.com/scryptachain" target="_blank" class="btn btn-circle btn-sm btn-2 op-4">
+									<i class="fab fa-github" style="font-size:20px"></i>
+								</a>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<!-- themeforest:js -->
+			<script src="/js/01.cookie-consent-util.js"></script>
+			<script src="/js/02.1.cookie-consent-themes.js"></script>
+			<script src="/js/02.2.cookie-consent-custom-css.js"></script>
+			<script src="/js/02.3.cookie-consent-informational.js"></script>
+			<script src="/js/02.4.cookie-consent-opt-out.js"></script>
+			<script src="/js/02.5.cookie-consent-opt-in.js"></script>
+			<script src="/js/02.6.cookie-consent-location.js"></script>
+
+			<script src="/js/jquery.js"></script>
+			<script src="/js/jquery.animatebar.js"></script>
+			<script src="/js/odometer.min.js"></script>
+			<script src="/js/simplebar.js"></script>
+			<script src="/js/swiper.js"></script>
+			<script src="/js/popper.js"></script>
+			<script src="/js/jquery.easing.min.js"></script>
+			<script src="/js/jquery.validate.js"></script>
+			<script src="/js/jquery.smartWizard.js"></script>
+			<script src="/js/bootstrap.js"></script>
+			<script src="/js/jquery.waypoints.js"></script>
+			<script src="/js/jquery.counterup.js"></script>
+			<script src="/js/modernizr-2.8.3.min.js"></script>
+			<script src="/js/aos.js"></script>
+			<script src="/js/particles.js"></script>
+			<script src="/js/typed.js"></script>
+			<script src="/js/prettify.js"></script>
+			<script src="/js/jquery.magnific-popup.js"></script>
+			<script src="/js/cookieconsent.min.js"></script>
+			<script src="/js/common-script.js"></script>
+			<script src="/js/forms.js"></script>
+			<script src="/js/site.js"></script>
+			<!-- endinject -->
+			<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+			<script>
+			(function(f, a, t, h, o, m){
+				a[h]=a[h]||function(){
+					(a[h].q=a[h].q||[]).push(arguments)
+				};
+				o=f.createElement('script'),
+				m=f.getElementsByTagName('script')[0];
+				o.async=1; o.src=t; o.id='fathom-script';
+				m.parentNode.insertBefore(o,m)
+			})(document, window, '//hub.usesfathom.com/tracker.js', 'fathom');
+			fathom('set', 'siteId', 'IAALM');
+			fathom('trackPageview');
+			</script>
+			<!-- / Fathom -->
+		</body>
+
+		</html>
+		

@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M3DZZPK');</script>
+    <!-- End Google Tag Manager -->
+
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Crypto Mining Malware on Popular Code Repositories  &middot; Quttera web security blog</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="description" content="" />
+
+<meta name="keywords" content="infected website, website virus, online threats, malware, malware cleanup, remove blacklist, remove malware, ">
+
+
+<meta property="og:title" content="Crypto Mining Malware on Popular Code Repositories  &middot; Quttera web security blog ">
+<meta property="og:site_name" content="Quttera web security blog"/>
+<meta property="og:url" content="https://blog.quttera.com/post/crypto-mining-malware-on-popular-code-repositories/" />
+<meta property="og:locale" content="en-us">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content=""/>
+<meta property="og:article:published_time" content="2018-01-04T14:00:00Z" />
+<meta property="og:article:modified_time" content="2018-01-04T14:00:00Z" />
+
+  
+    
+<meta property="og:article:tag" content="infected website">
+    
+<meta property="og:article:tag" content="website virus">
+    
+<meta property="og:article:tag" content="online threats">
+    
+<meta property="og:article:tag" content="malware">
+    
+<meta property="og:article:tag" content="malware cleanup">
+    
+<meta property="og:article:tag" content="remove blacklist">
+    
+<meta property="og:article:tag" content="remove malware">
+    
+  
+
+  
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@227777981" />
+<meta name="twitter:creator" content="@227777981" />
+<meta name="twitter:title" content="Crypto Mining Malware on Popular Code Repositories" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="https://blog.quttera.com/post/crypto-mining-malware-on-popular-code-repositories/" />
+<meta name="twitter:domain" content="https://blog.quttera.com/">
+  
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Crypto Mining Malware on Popular Code Repositories",
+    "author": {
+      "@type": "Person",
+      "name": "http://profiles.google.com/+?rel=author"
+    },
+    "datePublished": "2018-01-04",
+    "description": "",
+    "wordCount": 293
+  }
+</script>
+
+
+
+<link rel="canonical" href="https://blog.quttera.com/post/crypto-mining-malware-on-popular-code-repositories/" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/touch-icon-144-precomposed.png">
+<link rel="icon" href="/favicon.png">
+<meta name="generator" content="Hugo 0.31.1" />
+
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://blog.quttera.com/css/bootswatch/default/bootstrap.min.css">
+
+
+<link rel="stylesheet" href="https://blog.quttera.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://blog.quttera.com/css/style.css">
+
+
+  <link rel="stylesheet" href="https://blog.quttera.com/css/highlight/default.css">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+      <style>
+        .fixed-cookie-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            z-index: 100;      
+            background-color: grey;
+            color: white;
+      }
+    </style>
+
+    <script>
+        function getCookie(cname) {
+            var name = cname + "=",
+                ca = document.cookie.split(';'),
+                i,
+                c,
+                ca_length = ca.length;
+            for (i = 0; i < ca_length; i += 1) {
+                c = ca[i];
+                while (c.charAt(0) === ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) !== -1) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+        function setCookie(variable, value, expires_seconds) {
+            var d = new Date();
+            d = new Date(d.getTime() + 1000 * expires_seconds);
+            document.cookie = variable + '=' + value + '; expires=' + d.toGMTString() + ';';
+        }
+
+        function CookiePolicyAccepted() {
+       	    document.getElementById("cookies-policy").style.display = "none"
+            setCookie("CookiePolicyAccepted","yes", 2592000  );
+        }
+    </script>
+
+</head>
+<body data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
+
+    
+    <script>
+        $(document).ready(function(){
+            
+            
+            
+            if( getCookie("CookiePolicyAccepted") != "yes" ){
+                document.getElementById("cookies-policy").style.display = "block"
+            }else{
+                document.getElementById("cookies-policy").style.display = "none"
+            }
+        });
+
+    </script>
+
+    <div class="fixed-cookie-container" id="cookies-policy">
+        <div class="col-sm-12">
+            <div align="center">
+                Quttera uses cookies on this website to help operate our site and for analytics purposes. By continuing to use our services, you are giving us your consent to use cookies.
+                <a href="https://quttera.com/privacy" style="color: black;">Privacy Policy link  </a>
+                <button type="button" class="btn btn-default" onclick="CookiePolicyAccepted();">Accept &amp; Close</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3DZZPK"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header id="main-header">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-toggle btn-default" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="navbar-brand" href="https://blog.quttera.com/" title="Quttera" style="padding-top: 9px; padding-bottom: 2px;"><img class="logo" src="//quttera.com/images/quttera_icon32.png"></a>
+                <a class="navbar-brand" href="https://blog.quttera.com/" title="Quttera" style="padding-top: 15px; padding-bottom: 15px; font-size: 14px;">Quttera Blog</a>
+
+	        </div>
+	        <div class="navbar-collapse collapse" style="height: 1px;">
+                
+                
+                    
+                
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                     
+                        <li>
+                            <a href="/post"
+                                >
+                                
+                                Posts
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/tags"
+                                >
+                                
+                                Tags
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://quttera.com/website-malware-scanner"
+                                >
+                                
+                                Malware Scanner
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://quttera.com/about"
+                                >
+                                
+                                About Quttera
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </div>
+            </div>
+            
+        </nav>
+
+</header>
+
+
+
+<div class="container">
+  <div class="row main">
+    
+    <div class="col-md-9 col-sm-12 mid-section">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+  <div class="text-center">
+
+    <h1>Crypto Mining Malware on Popular Code Repositories
+</h1>
+
+    <div class="metas">
+<small>
+  <i class="fa fa-calendar"></i>
+  <time datetime="2018-01-04">4 Jan, 2018</time>
+</small>
+
+
+  <small>
+  &middot; Read in about 2 min
+  &middot; (293 Words)
+</small>
+
+
+<div class="margin-10">
+  <i class="fa fa-tags"></i>
+  
+  <a href="/tags/bitcoin" class="label label-primary">bitcoin</a>
+  
+  <a href="/tags/cryptomining" class="label label-primary">cryptomining</a>
+  
+  <a href="/tags/remove-malware" class="label label-primary">remove malware</a>
+  
+  <a href="/tags/malware-on-website" class="label label-primary">malware on website</a>
+  
+  <a href="/tags/malware-cleanup" class="label label-primary">malware cleanup</a>
+  
+
+
+</div>
+<br>
+</div>
+
+  </div>
+</div>
+
+      <div class="content">
+  <p><img src="/images/4-1-2018-1.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p>
+
+<p>Cryptocurrency mining malware is gaining popularity among hackers. Attackers are now using GitHub repositories and other well-known repositories for storing and serving the malicious code. On GitHub, the free accounts are being created to commit the obfuscated code and to use it in the injection later. The encrypted infection usually disguises itself as a legitimate jQuery or other familiar library files. It looks like in 2018 this new security threat - <b>cryptojacking</b> is here to stay. With the explosion of the cryptocurrency, it will become a significant part of the global web malware landscape. We expect that cyber-criminals will continue <a class="mid-section" href="https://blog.quttera.com/tags/bitcoin/">hijacking websites and visitors' systems</a> to exploit them as the free power and computing resources.</p>
+
+<p>Let's have a look at the code that was recently detected by <a class="mid-section" href="https://quttera.com/website-anti-malware-monitoring">ThreatSign website security monitoring</a> and later appeared to be another cryptocurrency mining infection.</p>
+
+<p><h2>Malware Analysis</h2>
+<p>The common infection is placed in the themes header file:</p>
+<p><img src="/images/4-1-2018-2.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p></p>
+
+<p>Once decrypted, a connection to GitHub will take place to download a file:</p>
+<p><img src="/images/4-1-2018-3.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p>
+
+<p>The content of the downloaded file from GitHub:</p>
+<div class="col-md-12" style="margin-bottom: 10px;border: 1px solid #d8346b;border-left-width: 5px;border-radius: 3px;/* margin-bottom: 5px; */">
+<p style="margin-top:15px;"><b>MD5 :</b> D7A539C0E2F1DAC800030CAB72C3A968</p>
+</div>
+<p><img src="/images/4-1-2018-4.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p>
+
+<p>And once you follow the decryption routine to uncover the content of the file, it should look like this:</p>
+<p><img src="/images/4-1-2018-5.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p>
+
+<p>Notice on the script above, the first active line of the code (which hides inside a common JavaScript file) is the one that is responsible for the throttling of the visitor’s CPU for mining:</p>
+<p><img src="/images/4-1-2018-6.png" alt="Crypto Mining Malware on Popular Code Repositories | Quttera blog"></p>
+
+<p><h3>Is your website flagged for malware, blocked by the search engines or disabled by the host?</h3>
+<p>Quttera experts are at your service to clean up any malware from your sites and remove false-positives, blacklisting and other kinds of alerts by any security vendor and search engines. Just select from suitable <a class="mid-section" href="https://quttera.com/anti-malware-website-monitoring-signup" target="_blank">ThreatSign! Anti-Malware Plan</a> and get back online.</p></p>
+
+<p>For other issues and help: <a class="mid-section" href="https://helpdesk.quttera.com/" target="_blank">Quttera's help-desk</a></p>
+
+</div>
+
+
+      <footer>
+  <a href="https://quttera.com/anti-malware-website-monitoring-signup" class="btn btn-success btn-lg visible-lg visible-md" style="color: white; text-decoration: none;">Initiate Malware Cleanup For Your Website Now <span class="glyphicon glyphicon-wrench"></span></a>
+
+<p><a class="btn btn-large btn-success btn-block visible-sm visible-xs" href="https://quttera.com/anti-malware-website-monitoring-signup">Get started with malware removal»</a></p>
+
+
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      
+  
+    <nav><ul class="pager">
+    
+        <li class="previous">
+          <a href="https://blog.quttera.com/post/preventing-brute-force-attacks-on-websites/" title="Preventing Brute-Force Attacks On Websites">
+            <span aria-hidden="true">&larr;</span>Previous
+          </a>
+        </li>
+    
+
+    
+      <li class="next">
+        <a href="https://blog.quttera.com/post/what-is-cryptojacking/" title="What is Cryptojacking?">
+            Next <span aria-hidden="true">&rarr;</span>
+        </a>
+      </li>
+    
+    </ul> </nav>
+  
+
+
+</div>
+
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  (function() {
+    
+    
+    
+    if (window.location.hostname == "localhost")
+      return;
+
+    if (window.location.href.match("/post[/]?$"))
+      return;
+
+    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
+    dsq.src = '//bloqqutteracom.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
+</footer>
+
+    </div>
+    <div class="visible-sm visible-xs" style="clear: both;"></div>
+    <div class="col-md-3 col-sm-12 sidebar-section">
+        <div>
+  
+
+    <div class="section">
+        <div class= "panel panel-primary">
+            <div class="panel-heading" style="background: radial-gradient(#50a6f1 21%, #337ab7 79%);">
+                <h3 style="margin-top:10px; color: rgb(141, 41, 41);text-align: center; text-transform: uppercase;">
+                    <small style="color:white;font-weight: bold;letter-spacing: 0.5px;">Malware clean-up and hacking recovery for websites</small>
+                </h3>
+            </div>
+            <div class="panel-body">
+                <div class="embed-responsive embed-responsive-4by3">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zPhj16hzj8g" allowfullscreen=""></iframe>
+                    </div>
+                <p class="text-mutes" style="padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    border-left-color: #088aaa;
+    font-size: medium;">Get your website cleaned and removed from blacklists. Prevent traffic loss and protect your visitors now.</p>
+                <table class="table table-bordered" style="margin-top: 20px;">
+                    <thead>
+                        <tr><th style="width:25%;text-align:center;font-size:18px;text-transform: capitalize;">emergency</th></tr>
+                    </thead>
+					<tbody>
+						<tr>
+							<td style="text-align:center;vertical-align: middle;">
+							<span itemprop="price"><p style="display: inline;font-weight: bold;text-align:center;font-size:25px;color: #3a87ad;">$249</p><p style="text-transform: none; display: inline;font-size:20px;color: #757575;font-weight: normal;"> / yr</p><meta itemprop="priceCurrency" content="USD"></span></td>
+						</tr>
+						<tr>
+							<td style="color: rgb(102, 160, 102);text-align:center;font-size:136%;vertical-align: middle;">1 Website</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;"><span>Initial Response Time</span><br> <span>within 4 hrs.</span></td>
+						</tr>						
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Manual Malware Removal / Full Website Audit</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Blacklisting removal</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Web Application Firewall (WAF)</td>
+						</tr> 
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Dedicated Malware Analyst</td>
+						</tr> 
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">24/7 Access to Cybersecurity Professionals</td>
+						</tr> 						
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;"><a href="/anti-malware-website-monitoring-signup" style="text-decoration:underline;">all features...</a></td>
+						</tr>
+						<tr>
+							<td style="text-align:center;vertical-align: middle;">
+								<a class="btn btn-info" style="font-size:15px;" href="https://www.bluesnap.com/jsp/buynow.jsp?contractId=3478034&amp;templateId=938788">Create Account</a>
+							</td>
+						</tr>                            
+					</tbody>
+                </table> 
+                <table class="table table-bordered" style="margin-top: 20px;">
+                    <thead>
+                        <tr>
+                            <th style="width:25%;text-align:center;font-size:18px;text-transform: capitalize;">economy</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+						<tr>
+							<td style="text-align:center;vertical-align: middle;">
+							<span itemprop="price"><p style="display: inline;font-weight: bold;text-align:center;font-size:25px;color: #3a87ad;">$149</p><p style="text-transform: none; display: inline;font-size:20px;color: #757575;font-weight: normal;"> / yr</p><meta itemprop="priceCurrency" content="USD"></span></td>
+						</tr>
+						<tr>
+							<td style="color: rgb(102, 160, 102);text-align:center;font-size:136%;vertical-align: middle;">1 Website</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;"><span>Initial Response Time</span><br> <span>within 12 hrs.</span></td>
+						</tr>						
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Malware Removal</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">Blacklisting removal</td>
+						</tr>
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;">24/7 Access to Cybersecurity Professionals</td>
+						</tr> 						
+						<tr>
+							<td style="text-align:center;font-size:100%;vertical-align: middle;"><a href="/anti-malware-website-monitoring-signup" style="text-decoration:underline;">all features...</a></td>
+						</tr>
+						<tr>
+							<td style="text-align:center;vertical-align: middle;">
+								<a class="btn btn-info" style="font-size:15px;" href="https://www.bluesnap.com/jsp/buynow.jsp?contractId=3478032&amp;templateId=938788">Create Account</a>
+							</td>
+						</tr>                            
+					</tbody>
+                </table> 
+            
+                <p><a href="http://quttera.com/anti-malware-website-monitoring-signup" style="text-decoration:underline;">more plans</a></p>
+                <p style="text-align: left;">Need help? <a href="mailto:contactus@quttera.com" style="text-decoration:underline;">contactus@quttera.com</a></p>                          
+            </div>
+        </div>
+    </div> 
+    <div class="section">
+        
+        <div class="panel panel-default">
+            <div class="panel-heading"><h4>Newsletter</h4></div>
+            <div class="panel-body" style="text-align: center;">
+                <p>Join our mailing list to receive free email updates</p><div class="clear">
+                <a href="http://eepurl.com/zrst5" target="_blank" class="btn btn-warning btn-lg">Subscribe now</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+            try {
+                var _gaq = _gaq || [];
+                _gaq.push(["_setAccount", "UA-329148-88"]);
+                _gaq.push(["_setDomainName", ".list-manage.com"]);
+                _gaq.push(["_trackPageview"]);
+                _gaq.push(["_setAllowLinker", true]);
+            } catch(err) {console.log(err);}
+        </script>
+        <div class='clear'><br/></br></div>
+    </div> 
+    <div class="section">
+      <header><div class="title"><b>Latest Posts</b></div></header>
+      <div class="content">
+        <ul>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/protect-website-from-phishing-kits/">Protecting Your Website from Phishing Kits</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/quttera-web-application-firewall-statistics-2018/">Quttera Web Application Firewall Statistics for 2018</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/website-corruption-php-7.2-migration/">Avoid Website Corruption when Migrating to PHP 7.2</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/malvertising-hides-behind-legitimate-applications/">Malvertising Hides Behind Legitimate Applications</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/decoding-obfuscated-javascript-with-google-chrome/">Decoding Obfuscated JavaScript Using Google Chrome</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/generic-php-backdoor-malware-without-eval/">Generic PHP Backdoor Malware Without Eval</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/php-backdoor-malware-in-wordpress-theme-files/">PHP Backdoor Malware in WordPress Theme Files</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/suspicious-icon-files-on-your-website/">Suspicious Icon Files on Your Website</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/website-malware-removal-guide-part-3-post-cleanup-and-hardening/">Website Malware Removal Guide, Part 3: Post Cleanup and Hardening</a>
+          </li>
+        
+          <li>
+          <a href="https://blog.quttera.com/post/website-malware-removal-guide-part-2-the-cleanup-process/">Website Malware Removal Guide, Part 2: The Cleanup Process</a>
+          </li>
+        
+        </ul>
+      </div>
+    </div>
+
+    
+      
+      
+    
+      
+      
+    <div class="section taxonomies">
+        <header><div class="title"><b>tag</b></div></header>
+        <div class="content">
+          <ul>
+            <li><a href="https://blog.quttera.com/tags/malware-cleanup">malware-cleanup</a></li><li><a href="https://blog.quttera.com/tags/remove-malware">remove-malware</a></li><li><a href="https://blog.quttera.com/tags/hacking">hacking</a></li><li><a href="https://blog.quttera.com/tags/website-security">website-security</a></li><li><a href="https://blog.quttera.com/tags/blacklisted-website">blacklisted-website</a></li><li><a href="https://blog.quttera.com/tags/infected-website">infected-website</a></li><li><a href="https://blog.quttera.com/tags/malicious-javascript">malicious-javascript</a></li><li><a href="https://blog.quttera.com/tags/malware-removal">malware-removal</a></li><li><a href="https://blog.quttera.com/tags/malware-on-website">malware-on-website</a></li><li><a href="https://blog.quttera.com/tags/wordpress-malware">wordpress-malware</a></li>
+          </ul>
+        </div>
+    </div>
+      
+    
+</div> 
+
+
+    </div>
+  </div>
+</div>
+      <div class="row">
+    <div class="col-md-12 text-center">
+           <div>
+    <a href="http://quttera.com"><b>&copy; 2019 Quttera Ltd. All rights reserved.</b></a>
+</div>
+
+
+    </div>
+</div>
+
+    
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+<script src="/js/popover/angular-storage.min.js"></script>
+
+
+<script type="text/javascript">
+  (function() {
+    
+    
+    if (window.location.hostname == "localhost")
+      return;
+
+    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
+    dsq.src = '//bloqqutteracom.disqus.com/count.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="/js/highlight.pack.js"></script>
+<script src="/js/site.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39406701-1', 'blog.quttera.com');
+  ga('send', 'pageview');
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+<script>
+var ENABLE_POPOVER = ""; 
+var EXPIRE_COOKIE = ""; 
+var SHOW_MODAL_TIMEOUT = ""; 
+var MOUSE_LEAVE = ""; 
+var MODAL_SIZE = ""; 
+var POST_URL = ""; 
+var SIGNUP_HEADER = "";
+var HEADER_IMAGE = "";
+var IMG_DESCRIPTION = "";
+var SIGNUP_TEXT = "";
+var INPUT_PLACEHOLDER = "";
+var SUBMIT_BUTTON = "";
+var SUCCESS_MESSAGE = "";
+var ERROR_MESSAGE = "";
+var OPTIN = "";
+var COOKIE_NAME = "";
+</script>
+<script src="/js/popover/angular-modal-service.min.js"></script>
+<script src="/js/angular-ismobile.min.js"></script>
+<script src="/js/popover/popover.min.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57555f1445969ae3"></script>
+
+
+
+
+  </body>
+</html>
+

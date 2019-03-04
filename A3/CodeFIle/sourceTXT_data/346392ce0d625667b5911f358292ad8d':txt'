@@ -1,0 +1,10 @@
+Counterwallet is a free web-wallet for Bitcoin and Counterparty , the world's first protocol for decentralized financial tools.
+Secure
+All encryption is handled client-side. Neither your passphrase nor any of your private information ever leaves your browser.
+Counterwallet passphrases are highly secure, and protect your wallet from any brute force attacks. They are also rather easy to learn and hard to mistype.
+Simple
+With Counterwallet, your passphrase is literally your wallet, and all of your addresses and keys are generated on-the-fly when you log in.
+There are no wallet files to backup or secure, and using your passphrase you can access your wallet from any trusted machine with a web browser.
+Open-Source
+Counterwallet is entirely open-source, so you know that it works exactly the way that it is supposed to.
+If you like, you even run your own Counterwallet server.

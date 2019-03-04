@@ -1,0 +1,633 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>[코인리더스] [AI봇 코리 기자의 시세 읽기]25일 &quot;비트코인 3,600달러선 지속, 라이트코인·트론 강세&quot;…BTC ETF·삼성갤럭시S10 `희비`</title>
+		<link rel="stylesheet" href="/css/common.css?wdate=20180608" type="text/css" />
+		<link rel="stylesheet" href="./data/ins_skin/n/css/cell_style.css?wdate=20180608" type="text/css" />
+		
+<link rel='shortcut icon' href='http://m.coinreaders.com/data/m.coinreaders.com/icon.png'>
+<link rel='apple-touch-icon' href='http://m.coinreaders.com/data/m.coinreaders.com/icon.png'>
+<link rel='apple-touch-startup-image' href='http://m.coinreaders.com/data/m.coinreaders.com/icon.png'>
+		<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+		<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="title" content="[코인리더스] [AI봇 코리 기자의 시세 읽기]25일 ˝비트코인 3,600달러선 지속, 라이트코인·트론 강세˝…BTC ETF·삼성갤럭시S10 '희비'" />
+		<meta name="description" content="  빗썸 암호화폐(가상통화) 거래소 1월 25일 오전 7시 35분 기준으로 비트코인은 24시간 전 대비 15,000원 (0.38%) 하락한 3,985,000원에 거래되고 있다. (같은 시간 해외 암호화폐 시황중계사이트인 코인마켓캡에서 글로벌 비트코인 가격은 24시간 전 대비 0.78% 상승한 3,608달러에 거래되고 있다. 거래량은 약 52억 달러이다.) 비트코인캐시는 5,900원 (3.94%) 하락한 143,700원에 매도 매수세가 공" />
+		<link rel="image_src" href="http://www.coinreaders.com/data/coinreaders_com/mainimages/201901/074613_2019012445583733.jpg" />
+		<meta property="og:title" content="[코인리더스] [AI봇 코리 기자의 시세 읽기]25일 ˝비트코인 3,600달러선 지속, 라이트코인·트론 강세˝…BTC ETF·삼성갤럭시S10 '희비'" />
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://m.coinreaders.com/3398" />
+		<meta property="og:image" content="http://www.coinreaders.com/data/coinreaders_com/mainimages/201901/074613_2019012445583733.jpg" />
+		<meta property="og:image:width" content="250" />
+		<meta property="og:image:height" content="206" />
+		<meta property="og:site_name" content="코인리더스" />
+		<meta property="og:description" content="  빗썸 암호화폐(가상통화) 거래소 1월 25일 오전 7시 35분 기준으로 비트코인은 24시간 전 대비 15,000원 (0.38%) 하락한 3,985,000원에 거래되고 있다. (같은 시간 해외 암호화폐 시황중계사이트인 코인마켓캡에서 글로벌 비트코인 가격은 24시간 전 대비 0.78% 상승한 3,608달러에 거래되고 있다. 거래량은 약 52억 달러이다.) 비트코인캐시는 5,900원 (3.94%) 하락한 143,700원에 매도 매수세가 공" />
+		<meta property="dable:item_id" content="3398">
+		<meta property="dable:author" content="코리" />
+		<meta property="article:section" content="Coin" />
+		<meta property="article:section2" content="" />
+		<meta property="article:published_time" content="2019-01-25T07:43:00+09:00" />
+		<style>#logimg {height:40px;}</style>		<script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="/js/ins_js.js"></script>
+		<script type="text/javascript" src="/js/kakao.link.js?wdate=20180608"></script>
+		<script type="text/javascript" src="/js/google.js"></script>
+		<script language="javascript">
+			var a=17;
+
+			function fontsizeasc() {
+				a=a+4;
+				var f = document.getElementById( 'textinput' );
+				f.style.fontSize=a+"px";
+			}
+			function fontsizedesc() {
+				a=a-4;
+				var f = document.getElementById( 'textinput' );
+				f.style.fontSize=a+"px";
+			}
+
+			function searchArticle(){
+				var sform = document.search;
+					sform.action ="/b.html";
+					sform.submit();
+			}
+
+
+
+			//푸터고정배너
+			$(window).scroll(function() {
+				var scrollHeight = document.compatMode=="CSS1Compat"? document.documentElement.scrollHeight : document.body.scrollHeight;
+				var clientHeight = document.compatMode=="CSS1Compat"? document.documentElement.clientHeight : document.body.clientHeight;
+				var ScrollTop = document.compatMode == "CSS1Compat"? document.documentElement.scrollTop : document.body.scrollTop;
+				var scrollPos = scrollHeight - ScrollTop;
+
+				if (clientHeight == scrollPos) {
+					$("#footerbn").css("display","none");
+				} else {
+					$("#footerbn").css("display","block");
+				}
+			});
+		</script>
+
+		<!--script> Kakao.init('43e835570796bb4d0b3dcee9560ff4f6'); function sendLink() { var uagent = navigator.userAgent.toLocaleLowerCase(); if (uagent.search("android") > -1 || uagent.search("iphone") > -1 || uagent.search("ipod") > -1 || uagent.search("ipad") > -1) { Kakao.Link.sendTalkLink({	label: '[코인리더스]\n[AI봇 코리 기자의 시세 읽기]25일 ˝비트코인 3,600달러선 지속, 라이트코인·트론 강세˝…BTC ETF·삼성갤럭시S10 희비\nhttp://m.coinreaders.com/3398', image: { src: 'http://www.coinreaders.com/data/coinreaders_com/mainimages/201901/074613_2019012445583733.jpg', width: '250', height: '206'}}); } else { alert('PC에서는 지원되지 않습니다.\n모바일에서 이용해주세요.'); }	} </script-->
+	<script type='text/javascript'> var kakao_key=''; Kakao.init(kakao_key); function sendLink() { if(kakao_key){ Kakao.Link.cleanup(); Kakao.Link.sendScrap({ requestUrl: 'http://m.coinreaders.com/3398', installTalk : true });  } else { alert('준비중입니다.'); } }</script>
+		<!-- unified code-180824 -->
+<!--script async src="https://appsha1.cointraffic.io/js/?wkey=s8PiB1"></script-->
+<!-- //unified code-180824 -->
+
+<!-- Facebook Pixel Code-180829 -->
+ <script>
+   !function(f,b,e,v,n,t,s)
+   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+   n.queue=[];t=b.createElement(e);t.async=!0;
+   t.src=v;s=b.getElementsByTagName(e)[0];
+   s.parentNode.insertBefore(t,s)}(window, document,'script',
+   'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '1598130820298469');
+   fbq('track', 'PageView');
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+   src="https://www.facebook.com/tr?id=1598130820298469&ev=PageView&noscript=1"
+ /></noscript>
+ <!-- End Facebook Pixel Code-180829 --><style>
+
+</style>
+</head>
+<body>
+<div id="cWrap">
+	<div id="wrap">
+		<!--div style="z-index: 999999; top: 0px;">
+			<a href="https://www.coincat.site" target="_blank">
+			<img src="http://www.coinreaders.com/data/coinreaders_com/upload/m_banner/m_bn_coincat.gif" alt="코인캣" width="100%">
+			</a>
+		</div-->
+		<div id="footerbn" style="background:url(http://www.coinreaders.com/data/coinreaders_com/upload/m_banner/m_bn-190104_2_2_back.jpg) repeat-x left bottom 0px; width:100%; position: fixed;z-index: 999999; bottom: 0px;">
+				<div style="margin:0 auto;">
+					<a href="https://t.me/coinreadersofficial" target="_blank"><img src="http://www.coinreaders.com/data/coinreaders_com/upload/m_banner/m_bn_telegram.gif" alt="코인리더스입장" width="100%"></a>
+				</div>
+		</div>
+		<nav id="c_header" style="margin-top: 0px;">
+			<h1><a href="../"><img src='/data/m.coinreaders.com/m_main_log.png?wdate=20190304115532' id='logimg'></a></h1>
+			<a href="./b.html"><button class="all_list">전체기사</button></a>
+			<button class="search">검색</button>
+		</nav>
+		<h2 style="position:absolute; top:-999px; font-size:0; text-indent:-9999">검색</h2>
+		<form name="searchForm" id="searchForm" method="get" action="b.html">
+		<div class="searchBox" id="searchBox">
+			<div class="wrap">
+				<input type="search" name="s_k" id="q" value="" placeholder="검색어를 입력하세요"/>
+				<button class="searchBtn"><span>검색</span></button>
+				<span class="del" id="q_del"></span>
+				<div id="suggest"></div>
+			</div>
+		</div>
+		</form>
+		<div id="MTop">
+			<div id="content" class="dotV3top">
+				<nav id="navi">
+					<div class="tab top" id="topMenu">
+						<div id="scroller">
+															<a href="/b.html"  1>Top news</a>
+																						<a href="/b.html?sc=sc2"  3>Coin</a>
+																						<a href="/b.html?sc=sc3"  3>Blockchain</a>
+																						<a href="/b.html?sc=sc7"  3>ICO</a>
+																						<a href="/b.html?sc=sc4"  3>the 4th</a>
+																						<a href="/b.html?sc=sc5"  3>Forum</a>
+																						<a href="/b.html?sc=sc6"  3>Column</a>
+																						<a href="/b.html?sc=sc8"  3>Video</a>
+																						<a href="/b.html?sc=sc10"  3>IT/경제</a>
+																				</div>
+					</div>
+					<span class="arr_l"></span>
+					<span class="arr_r active"></span>
+				</nav>
+			</div>
+		</div>
+		<div style="display:none">
+				</div>
+				<div id="content1" class="dotV3top1" style="display:none;" style="overflow: hidden;">
+					<nav id="navi1">
+				<div class="tab top" id="topMenu1">
+					<div id="scroller1">
+							</div>
+				</div>
+				<span class="arr_l"></span>
+				<span class="arr_r active"></span>
+			</nav>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	if($('#topMenu').size()>0 && $('#scroller').size()>0){
+		$('#scroller').width(document.getElementById('scroller').scrollWidth);
+		iscroll = new iScroll('topMenu',{
+			snap: 'a',
+			vScroll:false,
+			hScrollbar: false,
+			checkDOMChanges:true,
+			useTransform:false,
+			onScrollEnd: function () {
+				$('#navi .arr_l,#navi .arr_r').addClass('active');
+				0==this.x?$("#navi .arr_l").removeClass("active"):this.x==this.maxScrollX&&$("#navi .arr_r").removeClass("active");
+			}
+		});
+		$('#navi .arr_l,#navi .arr_r').click(function(){
+			$(this).hasClass("arr_l")?iscroll.scrollToPage(iscroll.currPageX-1):iscroll.scrollToPage(iscroll.currPageX+1);
+		});
+	}
+
+	if($('#topMenu1').size()>0 && $('#scroller1').size()>0){
+		$('#scroller1').width(document.getElementById('scroller1').scrollWidth);
+		iscroll1 = new iScroll('topMenu1',{
+			snap: 'a',
+			vScroll:false,
+			hScrollbar: false,
+			checkDOMChanges:true,
+			useTransform:false,
+			onScrollEnd: function () {
+				$('#navi1 .arr_l,#navi1 .arr_r').addClass('active');
+				0==this.x?$("#navi1 .arr_l").removeClass("active"):this.x==this.maxScrollX&&$("#navi1 .arr_r").removeClass("active");
+			}
+		});
+		$('#navi1 .arr_l,#navi1 .arr_r').click(function(){
+			$(this).hasClass("arr_l")?iscroll1.scrollToPage(iscroll1.currPageX-1):iscroll1.scrollToPage(iscroll1.currPageX+1);
+		});
+	}
+
+</script>
+<script language=javascript>
+   var referrer_url =document.referrer;
+   referrer_url = encodeURIComponent(referrer_url);
+  log_count("http://coinreaders.com/newnews/ins_wave_count_m.php?referer_url="+referrer_url);
+</script>
+
+<script language=javascript>
+  m_count("http://www.coinreaders.com/newnews/ins_m_read_count.php?uid=3398");
+  var movie='';
+</script>
+					<div align=center id="top_src">
+	<div style="padding:10px 0; text-align:center"><a href="http://www.codingworldnews.com" target="_blank"><img src="http://www.coinreaders.com/data/coinreaders_com/upload/m_banner/m_bn-190218.jpg" border="0" width="100%" /></a></div>
+	</div>
+	<div id="MRead">
+		<div class="container_le">
+			<div id="MRead_t">
+				<p class="read_title">[AI봇 코리 기자의 시세 읽기]25일 &quot;비트코인 3,600달러선 지속, 라이트코인·트론 강세&quot;…BTC ETF·삼성갤럭시S10 '희비'</p>
+				<p class="read_title2"></p>
+				<p class="fontsize"><a href="javascript:void(0);" onClick="fontsizedesc();" class="bt_fs_m">가 -</a><a href="javascript:void(0);" onClick="fontsizeasc();" class="bt_fs_p">가 +</a></p>
+				<p class="text_9"><a href="/b.html?n_n=코리" class="text_9" style="padding-left: 0;" title="코리의 다른기사보기">코리</a><span id="twc_t"></span><a href="https://twitter.com/economic2112" target="_blank"><span id="twc" style="color: #26b0f6; font: normal 11px/16px dotum,'돋움'; text-decoration: none; letter-spacing: -1px; padding: 0px 0px 0px 0px;"></span><span id="twn" style="color: #999999; font: normal 11px/16px dotum,'돋움'; text-decoration: none; letter-spacing: -1px;"></span></a><br />기사입력 2019-01-25</p>
+			</div>
+			<div id="MRead_b">
+				<div id="textinput"><div id="mov"></div><p> </p>
+<p>빗썸 암호화폐(가상통화) 거래소 1월 25일 오전 7시 35분 기준으로 비트코인은 24시간 전 대비 15,000원 (0.38%) 하락한 3,985,000원에 거래되고 있다. (같은 시간 해외 암호화폐 시황중계사이트인 코인마켓캡에서 글로벌 비트코인 가격은 24시간 전 대비 0.78% 상승한 3,608달러에 거래되고 있다. 거래량은 약 52억 달러이다.) 비트코인캐시는 5,900원 (3.94%) 하락한 143,700원에 매도 매수세가 공방을 벌이고 있고, 비트코인골드는 1.35% 하락한 12,440원을 기록하고 있다. </p>
+<p> </p>
+<p>가격 상승폭을 보면 피벡스 (10.66%) 엘프 (3.94%) 대시 (2.7%) 제로엑스 (2.69%) 골렘 (2.18%) 모네로 (2.18%) 라이트코인 (1.73%) 제트캐시 (1.63%) 베이직어텐션토큰 (1.47%) 비에이치피캐시 (0.25%) 에이치쉐어 (0%) 프리마스 (0%) 질리카 (0%) 아이오티체인 (0%) 이오스 (-0.18%) 뉴이코노미무브먼트 (-0.32%) 베잔트 (-0.34%)  비트코인 (-0.38%) 아이콘 (-0.38%) 쎄타토큰 (-0.52%) 리플 (-0.56%) 룸네트워크 (-0.57%) 사이버마일스 (-0.64%) 순으로 높았다.       </p>
+<p> </p>
+<p>거래금액 기준으로는 제트캐시 (631,674,371,753원) 대시 (620,263,912,249원) 비트코인 골드 (347,334,802,126원) 오미세고 (119,429,023,663원) 모네로 (50,582,542,633원) 비트코인 (11,767,138,048원) 트론 (5,784,838,077원) 리플 (5,594,322,514원) 이더리움 (5,511,100,910원) 루프링 (3,760,231,211원) 이오스 (3,030,354,698원) 비트코인 캐시 (2,853,571,197원) 어거 (2,453,808,879원) 텐엑스 (2,245,000,060원) 피벡스 (1,810,137,952원) 더마이다스터치골드 (1,533,506,525원)  순으로 활발한 거래를 보이고 있다.   </p>
+<p> </p>
+<p>지난 24시간 동안 세계 1위 암호화폐인 비트코인(BTC)은 3,600달러선에서 등락을 거듭하고 있다. 암호화폐 전체 시가총액은 1,200억 달러를 간신히 유지하고 있다. 대장주인 비트코인이 1% 가량 오름세를 보이면서 주요 알트코인도 대체로 강세를 나타내고 있다. 시총 '톱10' 코인 중에는 라이트코인(LTC, 시총 7위), 트론(TRX, 시총 9위)이 2% 가량 강세를 보여주고 있다. 투자심리는 크게 개선되지 않고 있다. 실제 암호화폐 데이터 제공 업체 알터너티브(Alternative.me)의 자체 추산 '공포·탐욕 지수'가 전날(23일)과 같은 33을 기록하며 '공포' 단계를 유지했다. 해당 지수는 0에 가까울수록 시장의 극단적 공포를 나타내며, 100에 가까울수록 극단적인 낙관을 의미한다.</p>
+<p> </p>
+<p>전날 암호화폐 시장은 생태계에 큰 영향을 미칠 굵직한 소식이 나왔다. 먼저 지난 23일(현지시간) 미국 시카고옵션거래소(CBOE)는 증권거래위원회(SEC)에 반에크 비트코인(BTC) ETF(상장지수펀드) 승인 요청을 철회하는 문건을 제출한 것으로 알려졌다. 이에 미국 정부 법률 변호사 제이크 체르빈스키(Jake Chervinsky)는 자신의 트위터를 통해 "2019년 상반기까지 미국 규제기관의 비트코인 ETF 승인은 쉽지 않을 것"이라고 전망했다. 다만 얀 반에크(Jan van Eck) 반에크 CEO는 CNBC와의 인터뷰에서 "비트코인 ETF 신청 철회는 일시적인 것이다. 다시 신청할 예정이다. 도망가는 것이 아니다"라며  "우리는 현재 미국 증권 거래 위원회(SEC)와 자산 보관, 시세 조작 등 비트코인과 관련된 다양한 문제점들을 논의하고 있다"고 해명했다.</p>
+<p> </p>
+<p>또한 암호화폐 지갑이 내재된 차세대 삼성전자 '갤럭시 S10' 스마트폰 사진이 유출되면서 시장이 들썪였다. 최근 SNS상에 노출된 삼성 갤럭시 S10 사진에는 삼성 블록체인 키스토어(Samsung Blockchain KeyStore) 기능이 탑재돼 있음을 확인할 수 있으며, 이 기능을 통해 사용자는 암호화폐 프라이빗 키를 안전하게 저장할 수 있다. 이에 암호화폐 전문매체 뉴스비티씨는 "삼성 스마트폰의 암호화폐와 블록체인 지원은 (삼성의 업계 지배력를 감안하면) 비트코인 뿐만 아니라 다른 블록체인 기반 프로젝트들에 긍정적인 소식"이라며 "암호화폐 채택이 증가하면 수요가 급증하고 거래량도 증가해 현재 최저가격으로부터 가격을 끌어올릴 수 있을 것"이라고 전망했다. 앞서 HTC는 블록체인 스마트폰 ‘엑소더스1’을 선보인 바 있다.</p>
+<p> </p>
+<p>한편 암호화폐 전문 미디어 비트코인익스체인지가이드에 따르면, 최근 찰스 호스킨슨(Charles Hoskinson) 카르다노(ADA) 창업자는 "암호화폐가 2017년 강세장의 가격을 회복하기까지는 최대 10년이 걸릴수도 있다"고 밝혔다. 이와 관련해 그는 "비트코인은 2017년 거의 2만 달러까지 올랐지만, 지난해 비트코인은 고점 대비 87% 하락했다. 그것은 명백한 거품 붕괴였다"며 "올들어 암호화폐 시장이 안정될 조짐을 보이고는 있지만, 낙관적이지는 않다"고 덧붙였다. 다만 그는 "보다 많은 규칙과 규정들은 암호화폐를 주류 시장으로 이끌 것이다. 그렇게 되면 암호화폐의 변동성은 안정될 것이고 시장의 상승을 견인할 것"이라고 강조했다.</p>
+<p> </p>
+<div class='thumb_box'><table width="100%"  class="body_img_table body_img_center" " border="0" cellspacing="0" align="center">
+<tbody>
+<tr>
+<td>
+<div class="body_img_table2"><img width=100% id="img_pop_view" style="cursor: pointer;" src="http://www.coinreaders.com/imgdata/coinreaders_com/201901/2019012445583733.jpg" alt="" border="0" /></div>
+</td>
+</tr>
+</tbody>
+</table></div>
+<p> </p>
+<p>※본 기사는 코봇컴퍼니와 코인리더스가 자체 개발한 AI 로봇 '코리(CORI)' 기자가 실시간 작성한 기사입니다.</p></div>
+				<div style="border: #d4d1d1 solid 1px; padding: 5px; text-align: center; border-radius: 3px; margin: 30px 0 0 0;"><a href="/b.html?n_n=코리" class="text_9" style="padding-left: 0;" title="코리의 다른기사보기">코리의 다른기사보기</a></div>
+			</div>
+			<div class="m_sns">
+				<span><a href="http://twitter.com/intent/tweet?text=%5B%EC%BD%94%EC%9D%B8%EB%A6%AC%EB%8D%94%EC%8A%A4%5D+%5BAI%EB%B4%87+%EC%BD%94%EB%A6%AC+%EA%B8%B0%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%B8+%EC%9D%BD%EA%B8%B0%5D25%EC%9D%BC+%CB%9D%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8+3%2C600%EB%8B%AC%EB%9F%AC%EC%84%A0+%EC%A7%80%EC%86%8D%2C+%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%BD%94%EC%9D%B8%C2%B7%ED%8A%B8%EB%A1%A0+%EA%B0%95%EC%84%B8%CB%9D%E2%80%A6BTC+ETF%C2%B7%EC%82%BC%EC%84%B1%EA%B0%A4%EB%9F%AD%EC%8B%9CS10+%ED%9D%AC%EB%B9%84+http%3A%2F%2Fm.coinreaders.com%2F3398" target="_blank"><img src="/img/sns_twitter.png" alt="트위터"></a></span>
+				<span><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fm.coinreaders.com%2F3398&t=%5BAI%EB%B4%87+%EC%BD%94%EB%A6%AC+%EA%B8%B0%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%B8+%EC%9D%BD%EA%B8%B0%5D25%EC%9D%BC+%CB%9D%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8+3%2C600%EB%8B%AC%EB%9F%AC%EC%84%A0+%EC%A7%80%EC%86%8D%2C+%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%BD%94%EC%9D%B8%C2%B7%ED%8A%B8%EB%A1%A0+%EA%B0%95%EC%84%B8%CB%9D%E2%80%A6BTC+ETF%C2%B7%EC%82%BC%EC%84%B1%EA%B0%A4%EB%9F%AD%EC%8B%9CS10+%ED%9D%AC%EB%B9%84" target="_blank"><img src="/img/sns_facebook.png" alt="페이스북"></a></span>
+				<span><a id='kakao-link-btn' href='javascript:sendLink()' title='카카오톡' class='sns_kakao'><img src="/img/sns_talk.png" alt="카카오톡"></a></span>
+				<span><a href='javascript:;' onClick="window.open('https://story.kakao.com/share?url=http%3A%2F%2Fm.coinreaders.com%2F3398', 'kakaost', 'status=no,menubar=no,scrollbars=yes,resizable=no,width=600,height=460')" title='카카오스토리' class='sns_kakaostory'><img src="/img/sns_story.png" alt="카카오스토리"></a></span>
+				<span><a href="https://band.us/plugin/share?body=%5B%EC%BD%94%EC%9D%B8%EB%A6%AC%EB%8D%94%EC%8A%A4%5D%0A%20%5BAI%EB%B4%87%20%EC%BD%94%EB%A6%AC%20%EA%B8%B0%EC%9E%90%EC%9D%98%20%EC%8B%9C%EC%84%B8%20%EC%9D%BD%EA%B8%B0%5D25%EC%9D%BC%20%CB%9D%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%203%2C600%EB%8B%AC%EB%9F%AC%EC%84%A0%20%EC%A7%80%EC%86%8D%2C%20%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%BD%94%EC%9D%B8%C2%B7%ED%8A%B8%EB%A1%A0%20%EA%B0%95%EC%84%B8%CB%9D%E2%80%A6BTC%20ETF%C2%B7%EC%82%BC%EC%84%B1%EA%B0%A4%EB%9F%AD%EC%8B%9CS10%20%ED%9D%AC%EB%B9%84%0Ahttp%3A%2F%2Fm.coinreaders.com%2F3398" onclick="javascript:window.open(this.href,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="/img/sns_band.png" alt="band" border='0'></a></span>
+				<span><a href="http://share.naver.com/web/shareView.nhn?url=http%3A%2F%2Fm.coinreaders.com%2F3398&title=%5BAI%EB%B4%87+%EC%BD%94%EB%A6%AC+%EA%B8%B0%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%B8+%EC%9D%BD%EA%B8%B0%5D25%EC%9D%BC+%CB%9D%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8+3%2C600%EB%8B%AC%EB%9F%AC%EC%84%A0+%EC%A7%80%EC%86%8D%2C+%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%BD%94%EC%9D%B8%C2%B7%ED%8A%B8%EB%A1%A0+%EA%B0%95%EC%84%B8%CB%9D%E2%80%A6BTC+ETF%C2%B7%EC%82%BC%EC%84%B1%EA%B0%A4%EB%9F%AD%EC%8B%9CS10+%ED%9D%AC%EB%B9%84" onclick="javascript:window.open(this.href,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="img/sns_naver_b.png" alt="naver" border='0'></a></span>
+				<span><a href="javascript:;" onclick="javascript:showPopup();"><img src="/img/sns_url.png" alt="URL복사" title="URL복사" /></a></span>
+			</div>
+			<div id="MRead_bt">
+				<a href="javascript:history.back();" class="bt2">뒤로가기</a> <a href="index.html" class="bt2">홈으로</a>
+			</div>
+			
+			<div align=center id="bottom_src">
+			<!--20190228:에어드랍-->
+<div style="padding:10px 0; text-align:center"><a href="https://www.coinzeus.io
+" target="_blank"><img src="http://www.coinreaders.com/data/coinreaders_com/upload/banner/m_bn_190229.jpg" border="0" width="100%" /></a></div>
+<!--//20190228:에어드랍-->
+
+<!--20181228:코인제우스
+<div style="padding:10px 0; text-align:center"><a href="http://www.coinzeus.io" target="_blank"><img src="http://www.coinreaders.com/data/coinreaders_com/banner/2019012200044838.jpg" border="0" width="100%" /></a></div>
+<!--//20181228:코인제우스-->
+
+<!-- ad링크 -->
+<style>
+#ad_link_read	{position:relative; margin-bottom:30px;text-align: left;}
+#ad_link_read .title_area	{position:relative; border-bottom:1px solid #db231b;}
+#ad_link_read dt				{font:bold 12px/16px dotum; padding:15px 0 3px;}
+#ad_link_read dt a				{font:bold 12px/16px dotum; letter-spacing:-1px; color:#db231b;}
+#ad_link_read dd.memo			{font:normal 12px/16px dotum; color:#777;}
+#ad_link_read dd.url			{font:normal 11px/16px dotum; color:#999;}
+</style>
+<div id="ad_link_read">
+	<div class="title_area"><img src="http://coinreaders.com/img/skin1/ad.gif" alt="AD링크" /></div>
+		<dl>
+			<dt><a href='http://mtradex.vectorx.io/trade/main' target='_blank'>M-TRADE X</a></dt>
+			<dd class='memo'>원클릭으로 하는 간편거래. 사전 회원가입시 6개월 무료 이용권 지급! </dd>
+			<dd class='url'>mtradex.vectorx.io/trade/main</dd>
+		</dl>
+		<dl>
+			<dt><a href='http://www.coinzeus.io' target='_blank'>코인제우스 </a></dt>
+			<dd class='memo'>글로벌 암호화폐 거래소, 빠르고 안전하게 암호화폐를 거래할 수 있는 국내 최고의 거래플랫폼입니다.  </dd>
+			<dd class='url'>www.coinzeus.io</dd>
+		</dl>
+		<dl>
+			<dt><a href='http://www.coincat.site' target='_blank'>코인캣 커뮤니티</a></dt>
+			<dd class='memo'>국내최초 블록체인 언론사가 운영하는 코인커뮤니티, 포럼, 코인정보, 이벤트</dd>
+			<dd class='url'>www.coincat.site</dd>
+		</dl>
+</div>
+<!-- //ad링크 -->
+
+<!--20180928:luxbio--
+<div style="padding:10px 0; text-align:center"><a href="http://luxbio.io/kr" target="_blank"><img src="http://coinreaders.com/data/coinreaders_com/upload/m_bn_180928.jpg" border="0" width="100%" /></a></div>
+<!--//20180928:luxbio-->
+
+
+<!-- mobile banner 300x250-180824 
+<div style="margin:10px 0 10px 0;">
+<a href="https://dgex.io" target="_blank"><img src="http://www.coinreaders.com/data/coinreaders_com/upload/tmtg.gif" width="100%" border="0"/></a>
+</div>
+<!-- //mobile banner 300x250-180824 -->
+
+
+<!-- mobile banner 300x250-180824 -->
+<!--div style="margin:10px 0 10px 0;">
+	<span id="ct_c78y4ej"></span>
+</div-->
+<!-- //mobile banner 300x250-180824 -->			</div>
+			
+			<div id="reply_src">
+						</div>
+		</div>
+		<div class="container_ri">
+			<div class="bestnews news_view_bestnews">
+				<h2>많이 본 뉴스</h2>
+				<ul>	
+							<li><a href='/a.html?uid=3613&page=&sc=&s_k=&s_t='>이더리움(ETH) 하드포크 업그레이드 완료…&quot;가격은 보합세&quot;</a></li>
+							<li><a href='/a.html?uid=3605&page=&sc=&s_k=&s_t='>트론(TRX) CEO &quot;비트코인 약세장 끝났다&quot; </a></li>
+							<li><a href='/a.html?uid=3612&page=&sc=&s_k=&s_t='>뉴욕타임즈 &quot;상반기 내 비트코인 거래소에 '페이스북 코인' 상장될 듯&quot; </a></li>
+							<li><a href='/a.html?uid=3620&page=&sc=&s_k=&s_t='>바이낸스는 리플(XRP)을 좋아해? </a></li>
+							<li><a href='/a.html?uid=3618&page=&sc=&s_k=&s_t='>비트코인 3,900달러 저항선 돌파 시도 지속…암호화폐 전문가 &quot;강세 전망 유지&quot;</a></li>
+							<li><a href='/a.html?uid=3615&page=&sc=&s_k=&s_t='>[1일 주요 알트코인 동향]블록원 CEO &quot;이오스, 설계상 문제없어&quot;·코인베이스, 리플 지원 外</a></li>
+							<li><a href='/a.html?uid=3614&page=&sc=&s_k=&s_t='>[AI봇 코리 기자의 시세 읽기]1일 &quot;비트코인 보합세 지속, 모멘텀 여전&quot;…알리바바코인·스팀 급등</a></li>
+							<li><a href='/a.html?uid=3621&page=&sc=&s_k=&s_t='>2월 비트코인, 작년 7월 이후 월봉 첫 양봉…조셉 영 &quot;약세장, 투자 적기&quot;</a></li>
+							<li><a href='/a.html?uid=3619&page=&sc=&s_k=&s_t='>[AI봇 코리 기자의 시세 읽기]2일 &quot;전문가·커뮤니티 모두 비트코인 강세 전망&quot;…2월 최고 알트코인 &quot;엔진·쎄타토큰·메이커&quot;</a></li>
+							<li><a href='/a.html?uid=3623&page=&sc=&s_k=&s_t='>비탈릭 부테린 &quot;비트코인은 계산기, 이더리움은 스마트폰&quot;</a></li>
+						</ul>
+			</div>
+
+						<div class="newnews">
+				<h2>최신기사</h2>
+				<ul>
+	<li>
+						<a href='/a.html?uid=3623'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/145650_2019030353546435.jpg); no-repeat left top;' alt='비탈릭 부테린 &quot;비트코인은 계산기, 이더리움은 스마트폰&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>비탈릭 부테린 &quot;비트코인은 계산기, 이더리움은 스마트폰&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3622'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/113821_2019021214278136.jpg); no-repeat left top;' alt='[AI봇 코리 기자의 시세 읽기]3일 &quot;비트코인 3,900달러 저항선 넘을까&quot;…'페이스북코인·갤럭시S10' 관심집중' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[AI봇 코리 기자의 시세 읽기]3일 &quot;비트코인 3,900달러 저항선 넘을까&quot;…'페이스북코인·갤럭시S10' 관심집중</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3621'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/213457_2019030229198272.jpg); no-repeat left top;' alt='2월 비트코인, 작년 7월 이후 월봉 첫 양봉…조셉 영 &quot;약세장, 투자 적기&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>2월 비트코인, 작년 7월 이후 월봉 첫 양봉…조셉 영 &quot;약세장, 투자 적기&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3620'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/124542_2019030243275795.png); no-repeat left top;' alt='바이낸스는 리플(XRP)을 좋아해? ' /></span></span>
+							<span class='text'>
+								<span class='main_title'>바이낸스는 리플(XRP)을 좋아해? </span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3619'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/095546_2019021214278136.jpg); no-repeat left top;' alt='[AI봇 코리 기자의 시세 읽기]2일 &quot;전문가·커뮤니티 모두 비트코인 강세 전망&quot;…2월 최고 알트코인 &quot;엔진·쎄타토큰·메이커&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[AI봇 코리 기자의 시세 읽기]2일 &quot;전문가·커뮤니티 모두 비트코인 강세 전망&quot;…2월 최고 알트코인 &quot;엔진·쎄타토큰·메이커&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3618'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/214421_2019030141273044.jpg); no-repeat left top;' alt='비트코인 3,900달러 저항선 돌파 시도 지속…암호화폐 전문가 &quot;강세 전망 유지&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>비트코인 3,900달러 저항선 돌파 시도 지속…암호화폐 전문가 &quot;강세 전망 유지&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3617'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/153601_2019030132584702.jpg); no-repeat left top;' alt='하이어드 &quot;블록체인 기술 수요 폭발적 성장&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>하이어드 &quot;블록체인 기술 수요 폭발적 성장&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3616'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/142417_2019030120338624.jpg); no-repeat left top;' alt='암호화폐 도둑채굴 '크립토재킹'…사이버 범죄자, 관심 여전' /></span></span>
+							<span class='text'>
+								<span class='main_title'>암호화폐 도둑채굴 '크립토재킹'…사이버 범죄자, 관심 여전</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3615'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/125159_2019030148492538.png); no-repeat left top;' alt='[1일 주요 알트코인 동향]블록원 CEO &quot;이오스, 설계상 문제없어&quot;·코인베이스, 리플 지원 外' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[1일 주요 알트코인 동향]블록원 CEO &quot;이오스, 설계상 문제없어&quot;·코인베이스, 리플 지원 外</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3614'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/104059_2019021214278136.jpg); no-repeat left top;' alt='[AI봇 코리 기자의 시세 읽기]1일 &quot;비트코인 보합세 지속, 모멘텀 여전&quot;…알리바바코인·스팀 급등' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[AI봇 코리 기자의 시세 읽기]1일 &quot;비트코인 보합세 지속, 모멘텀 여전&quot;…알리바바코인·스팀 급등</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3613'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/101408_2019030112021764.jpg); no-repeat left top;' alt='이더리움(ETH) 하드포크 업그레이드 완료…&quot;가격은 보합세&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>이더리움(ETH) 하드포크 업그레이드 완료…&quot;가격은 보합세&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3612'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201903/095314_2019030150301841.png); no-repeat left top;' alt='뉴욕타임즈 &quot;상반기 내 비트코인 거래소에 '페이스북 코인' 상장될 듯&quot; ' /></span></span>
+							<span class='text'>
+								<span class='main_title'>뉴욕타임즈 &quot;상반기 내 비트코인 거래소에 '페이스북 코인' 상장될 듯&quot; </span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3611'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/154439_2019022840535371.jpg); no-repeat left top;' alt='[카드뉴스]오늘의 암호화폐·블록체인 소식(2월/28일)…애플 워즈니악의 여전한 비트코인 낙관론 外' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[카드뉴스]오늘의 암호화폐·블록체인 소식(2월/28일)…애플 워즈니악의 여전한 비트코인 낙관론 外</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3610'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/2019022825586622.jpg); no-repeat left top;' alt='中 후룬연구소, 글로벌 부자 순위 발표…&quot;블록체인 및 비트코인 기업 다수 포함&quot;' /></span></span>
+							<span class='text'>
+								<span class='main_title'>中 후룬연구소, 글로벌 부자 순위 발표…&quot;블록체인 및 비트코인 기업 다수 포함&quot;</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3609'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/120509_2019022801324529.png); no-repeat left top;' alt='[28일 암호화폐·블록체인 소식]미즈호그룹, J코인 발행·테라, 카카오벤처스 투자 유치 外 ' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[28일 암호화폐·블록체인 소식]미즈호그룹, J코인 발행·테라, 카카오벤처스 투자 유치 外 </span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3607'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/083541_2019021214278136.jpg); no-repeat left top;' alt='[AI봇 코리 기자의 시세 읽기]28일 &quot;비트코인 약세에도 긍정적 전망 잇따라&quot;…'톱10' 중 이오스· 바이낸스코인 강세' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[AI봇 코리 기자의 시세 읽기]28일 &quot;비트코인 약세에도 긍정적 전망 잇따라&quot;…'톱10' 중 이오스· 바이낸스코인 강세</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3606'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/081259_2019022811596480.jpg); no-repeat left top;' alt='[中 CCID 10차 퍼블록체인 평가]톱3에 이오스·트론·이더리움…비트코인 13위, 리플은 20위 ' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[中 CCID 10차 퍼블록체인 평가]톱3에 이오스·트론·이더리움…비트코인 13위, 리플은 20위 </span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3605'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/075130_2019022850104684.jpg); no-repeat left top;' alt='트론(TRX) CEO &quot;비트코인 약세장 끝났다&quot; ' /></span></span>
+							<span class='text'>
+								<span class='main_title'>트론(TRX) CEO &quot;비트코인 약세장 끝났다&quot; </span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3604'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/2019022707454873.jpg); no-repeat left top;' alt='[AI코리 TV] 놓쳐서는 안될! 2월27일 암호화폐·블록체인 소식' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[AI코리 TV] 놓쳐서는 안될! 2월27일 암호화폐·블록체인 소식</span>
+							</span>
+						</a>
+					</li><li>
+						<a href='/a.html?uid=3603'>
+							<span class='thumb_img'><span class='outline'></span><span class='img' style='background:url(http://www.coinreaders.com/data/coinreaders_com/mainimages/201902/164553_2019022744363712.jpg); no-repeat left top;' alt='[27일 암호화폐·블록체인 소식]HTC 크립토폰, 라이트코인·바이낸스코인 추가 지원 外' /></span></span>
+							<span class='text'>
+								<span class='main_title'>[27일 암호화폐·블록체인 소식]HTC 크립토폰, 라이트코인·바이낸스코인 추가 지원 外</span>
+							</span>
+						</a>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+		
+		<div align=center id="bottom_src1">
+					</div>
+	</div>
+
+<!-- Url_Copy_Layer -->
+<div id="Url_Layer_bg"></div>
+<div id="Url_Layer">
+	<span class="h_title">URL 복사</span>
+	<div class="close">x</div>
+	<div class="ct_bg">
+	<ul>
+		<li><label for="url_layer" style="display:none;">검색어</label><textarea id="url_layer" readonly="readonly">http://m.coinreaders.com/3398</textarea></li>
+	</ul>
+	</div>
+	<div class="ab_bg">
+	<ul>
+		<li>위에의 URL을 누르면 복사하실수 있습니다.</li>
+	</ul>
+	</div>
+</div>
+<!-- //Url_Copy_Layer -->
+
+	<div id="MBottom">
+		<p><a href="http://www.coinreaders.com/m_g.php" class="bt">PC버전</a> <a href="#MTop" class="bt">맨위로</a> <a href="javascript:;" uid="3398" sc="" sc2="" mode="" class="cash"><span style="display:none">갱신</span><span id="cash_div"></span></a></p>
+		<p>Copyright ⓒ 코인리더스. All rights reserved.</p>
+	</div>
+</div>
+</body>
+</html>
+
+
+<script>
+$(document).ready(function(){
+
+	var imgs = $("#textinput").find('img');
+	var imgC = 1;
+	imgs.each(function (i) {
+		var imgWidth = $(this).width() - 50;
+		var imgSrc = $(this).attr('src');
+		
+		$(this).before('<div><div style="position: absolute; z-index: 999999999;"><div id="imgview_div'+imgC+'" style="position: relative; top: 10px; left: '+ imgWidth +'px;"><a href="/imgview.html?url='+ imgSrc +'" target="_blank"><img src="/img/icon_view.png?w=170628"></img></a></div></div>');
+		$(this).after('</div>');
+		imgC++;
+	});
+
+			var uid = 3398;
+			var out = $('#mov');
+			
+            var data="uid="+uid;
+	       
+			if(movie)
+	       {
+			 $.ajax({
+                data: data,
+                type: 'POST',
+                url: '/php_bin/movie_exe.php',
+                
+				success:function(args){
+					var args = $.trim(args);
+					//console.log(uid+'\n'+'\n'+args);
+					if(args=="Error") {
+						alert(args);
+					} else {
+						out.html(args);
+					}
+				},
+				//beforeSend:showRequest,  
+				error:function(request,status,error){  
+					alert(request.status+":"+request.responseText+"::"+error);  
+				}  
+						 
+            });
+
+		   }
+		   
+	
+
+   });
+   
+   $(window).bind("resize", function() {
+		var imgs = $("#textinput").find('img');
+		var imgC = 1;
+		imgs.each(function (i) {
+			if($(this).attr('src').indexOf('icon_view.png') != -1) {
+			} else {
+			var imgWidth = $(this).css('width').replace(/[^0-9]/g,"") - 50;
+			$('#imgview_div'+imgC).css('left',imgWidth+'px');
+			imgC++;
+			}
+		});
+   });
+
+	 
+$(".cash").click(function() {
+
+			var uid = $(".cash").attr('uid');
+			var sc = $(".cash").attr('sc');
+			var sc2 = $(".cash").attr('sc2');
+			var mode = $(".cash").attr('mode');
+			
+			if(typeof sc=='undefined' || sc=='null' || sc=='undefined' || sc=='NaN'){
+				sc = '';
+			}
+			
+			if(typeof sc2=='undefined' || sc2=='null' || sc2=='undefined' || sc2=='NaN'){
+				sc2 = '';
+			}
+			
+			if(typeof mode=='undefined' || mode=='null' || mode=='undefined' || mode=='NaN'){
+				mode = '';
+			}			
+			
+            var data="d_mode=del";
+				data +="&uid="+uid;
+				data +="&sc="+sc;
+				data +="&sc2="+sc2;
+				data +="&mode="+mode;
+	
+			 $.ajax({
+                data: data,
+                type: 'POST',
+                url: '/php_bin/cash_del_exe.php',
+                
+				success:function(args){
+					var args = $.trim(args);
+					//console.log(uid+'\n'+'\n'+args);
+					if(args=="Error") {
+						alert(args);
+					} else {
+						$(location).attr('href',args);
+					}
+				},
+				//beforeSend:showRequest,  
+				error:function(request,status,error){  
+					alert(request.status+":"+request.responseText+"::"+error);  
+				}  
+			
+            });
+
+		});
+
+
+</script>

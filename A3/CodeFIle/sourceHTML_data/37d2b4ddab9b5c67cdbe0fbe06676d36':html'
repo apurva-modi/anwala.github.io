@@ -1,0 +1,968 @@
+<!DOCTYPE html><html
+lang=en-US class><head><meta
+charset=UTF-8><meta
+name=viewport content="width=device-width, initial-scale=1"><link
+rel=profile href=http://gmpg.org/xfn/11><link
+rel=pingback href=https://notm.io/xmlrpc.php><link
+type=text/css media=all href=https://notm.io/wp-content/cache/autoptimize/css/autoptimize_142e4ef056a699018b28877191a5e0d5.css rel=stylesheet><title>Notm Platform &#8211; The first hybrid news platform with geolocation in the world</title><link
+rel=dns-prefetch href=//s.w.org><link
+href=https://cdn.shortpixel.ai rel=preconnect><link
+href=https://fonts.gstatic.com crossorigin rel=preconnect><link
+rel=alternate type=application/rss+xml title="Notm Platform &raquo; Feed" href=https://notm.io/feed/><link
+rel=alternate type=application/rss+xml title="Notm Platform &raquo; Comments Feed" href=https://notm.io/comments/feed/> <script>window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/notm.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>  <script src='https://notm.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script> <script src='https://notm.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> <link
+rel=https://api.w.org/ href=https://notm.io/wp-json/><link
+rel=EditURI type=application/rsd+xml title=RSD href=https://notm.io/xmlrpc.php?rsd><link
+rel=wlwmanifest type=application/wlwmanifest+xml href=https://notm.io/wp-includes/wlwmanifest.xml><meta
+name=generator content="WordPress 5.1"><link
+rel=canonical href=https://notm.io/><link
+rel=shortlink href=https://notm.io/><link
+rel=alternate type=application/json+oembed href="https://notm.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotm.io%2F"><link
+rel=alternate type=text/xml+oembed href="https://notm.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotm.io%2F&#038;format=xml"><meta
+name=generator content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link
+rel=stylesheet type=text/css href=https://notm.io/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css media=screen><![endif]--><link
+rel=icon href=https://notm.io/wp-content/uploads/2019/01/cropped-logoNotm-32x32.png sizes=32x32><link
+rel=icon href=https://notm.io/wp-content/uploads/2019/01/cropped-logoNotm-192x192.png sizes=192x192><link
+rel=apple-touch-icon-precomposed href=https://notm.io/wp-content/uploads/2019/01/cropped-logoNotm-180x180.png><meta
+name=msapplication-TileImage content=https://notm.io/wp-content/uploads/2019/01/cropped-logoNotm-270x270.png>
+<noscript><style>.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head><body
+class="home page-template page-template-page-templates page-template-template-onepage page-template-page-templatestemplate-onepage-php page page-id-29 wpb-js-composer js-comp-ver-5.6 vc_responsive ico-dark icos-theme-ver-1.4.2 wordpress-version-5.1 " data-spy=scroll data-target=#mainnav data-offset=80><div
+id=wrapper>
+<header
+class="site-header is-sticky"><div
+class="navbar navbar-expand-lg is-transparent" id=mainnav>
+<nav
+class=container><h1 class="navbar-brand">
+<a
+href=https://notm.io/>
+<img
+class=logo src=https://notm.io/wp-content/uploads/2019/01/ln23-1.png alt="Notm Platform">
+<img
+class=logo-2 src=https://notm.io/wp-content/uploads/2019/01/ln23-1.png alt="Notm Platform">
+</a></h1>
+<button
+class=navbar-toggler type=button>
+<span
+class=navbar-toggler-icon>
+<span
+class="ti ti-align-justify"></span>
+</span>
+</button><div
+class="navbar-collapse justify-content-end"><ul
+id=menu-onepage-menu class="navbar-nav menu-top"><li
+id=menu-item-150 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150"><a
+href=#intro>What is ico</a></li><li
+id=menu-item-241 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a
+href=#tokensale>Token Sale</a></li><li
+id=menu-item-242 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a
+href=#roadmap>Roadmap</a></li><li
+id=menu-item-243 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a
+href=#team>Team</a></li><li
+id=menu-item-244 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a
+href=#partners>Partners</a></li><li
+id=menu-item-245 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-245"><a
+href=#media>More</a><ul
+class=sub-menu><li
+id=menu-item-246 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-246"><a
+href=#media>Media Partners</a></li><li
+id=menu-item-357 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a
+href=#latestblog>Blog</a></li><li
+id=menu-item-247 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a
+href=#faqs>FAQs</a></li></ul></li><li
+id=menu-item-248 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-248"><a
+href=#contact>Contact</a></li></ul><ul
+class="navbar-nav navbar-btns"><li
+class=nav-item><a
+class="nav-link btn btn-sm btn-outline menu-link" href=https://notm.io/whitepaper-EN-min.pdf>whitepaper</a></li></ul></div>
+</nav></div>
+</header>
+<section
+class="vc_row wpb_row vc_row-fluid mobile-center banner-particle banner-curb vc_row-o-equal-height vc_row-o-content-middle vc_row-flex banner banner-full d-flex align-items-center"><div
+class=container><div
+class=banner-content><div
+class=row><div
+class="order-lg-first wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  vc_custom_1550483140722" ><div
+class=wpb_wrapper><h1>News on map</h1><p
+class="lead color-secondary">The first hybrid news platform with geolocation in the world</p><ul
+class=btns><li><a
+class="btn btn-alt" href=https://notm.io/payment target=_blank rel="noopener noreferrer">BUY TOKEN NOW</a></li></ul></div></div><ul
+class="social "><li><a
+href=https://www.facebook.com/NotmPlatform/><em
+class="fab fa-facebook-f"></em></a></li><li><a
+href=https://twitter.com/NotmPlatform><em
+class="fab fa-twitter"></em></a></li><li><a
+href=https://www.youtube.com/channel/UC2JsI4Gz3yOYSLqnCT6A7bA><em
+class="fa fa-youtube-play"></em></a></li><li><a
+href="https://bitcointalk.org/index.php?topic=4920444.0"><em
+class="fab fa-bitcoin"></em></a></li><li><a
+href=https://medium.com/notm><em
+class="fab fa-medium-m"></em></a></li><li><a
+href=https://notmworkspace.slack.com/><em
+class="fa fa-slack"></em></a></li><li><a
+href=https://notm.io/whitepaper-EN-min.pdf><em
+class="fa fa-file-text"></em></a></li><li><a
+href=https://t.me/NotmPlatform><em
+class="fas fa-paper-plane"></em></a></li><li><a
+href=https://t.me/Notmio><em
+class="fa fa-telegram"></em></a></li><li><a
+href=https://www.instagram.com/NotmChallenge/><em
+class="fa fa-instagram"></em></a></li></ul></div></div></div><div
+class="order-first wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  header-image" ><div
+class=wpb_wrapper><p><img
+src=https://notm.io/wp-content/uploads/2019/01/BANNN.png alt=header><br/>
+<img
+class="header-image-icon left-icon" src=https://notm.io/wp-content/uploads/2019/01/Edgar-1.png alt=header-icon><br/>
+<img
+class="header-image-icon right-icon" src=https://notm.io/wp-content/uploads/2019/01/car-1.png alt=header-icon></p></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=intro class="vc_row wpb_row vc_row-fluid section section-pad section-bg-blend nopb vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div
+class=container><div
+class=row><div
+class="res-m-btm wpb_column vc_column_container vc_col-sm-5 vc_col-sm-offset-1 vc_col-xs-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_center">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=675 height=653 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_675/https://notm.io/wp-content/uploads/2019/01/1-3.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_675/https://notm.io/wp-content/uploads/2019/01/1-3.png 675w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/1-3-300x290.png 300w" sizes="(max-width: 675px) 100vw, 675px"></div>
+</figure></div></div></div></div><div
+class="order-md-first order-last wpb_column vc_column_container vc_col-sm-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  vc_custom_1547714675331" ><div
+class=wpb_wrapper><h2>We’ve build a platform with honest news.</h2><p
+class=lead>Each element of the Notm platform will have a high degree of protection.</p><ul><li>Automatic calculation of income</li><li>Geolocation check (GPS and LBS)</li><li>News are protected by consensus</li><li>Scalability</li><li>Effective advertising recommendations</li></ul></div></div><a
+href=https://www.youtube.com/ class="play-btn video-play">
+<em
+class=play><span></span></em>
+<span>Watch Video</span>        <span>What and How it work (soon...)</span>    </a></div></div></div></div></div><div
+class=clearfix></div></section><section
+class="vc_row wpb_row vc_row-fluid section-pad no-pb section-bg-alt vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div
+class=container><div
+class=row><div
+class="res-m-btm wpb_column vc_column_container vc_col-sm-5"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_center">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=675 height=608 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_675/https://notm.io/wp-content/uploads/2019/01/2-2.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_675/https://notm.io/wp-content/uploads/2019/01/2-2.png 675w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/2-2-300x270.png 300w" sizes="(max-width: 675px) 100vw, 675px"></div>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-sm-offset-1"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  text-block" ><div
+class=wpb_wrapper><h4>What is Notm Exchange?</h4><p
+class=lead>Notm Exchange is a service for exchanging the Notm token for fiat money and vice versa.</p><p>The service will have low trading fees, a convenient mobile application, synchronization with a bank account, Triple account protection, No commissions for entering and withdrawing tokens, and Margin trading.</p><p>&nbsp;</p><p>Thanks to the synchronization of a bank account and an account for a Notm exchange, users will be able to instantly convert tokens into fiat money and pay for goods or services with a credit card.</p></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=application class="vc_row wpb_row vc_row-fluid section section-pad section-bg-btoa"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1520830144361"><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><div
+class=heading-animation>
+<span
+class=line-1></span><span
+class=line-2></span>
+<span
+class=line-3></span><span
+class=line-4></span>
+<span
+class=line-5></span><span
+class=line-6></span>
+<span
+class=line-7></span><span
+class=line-8></span></div><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> The Notm App <span>APPS</span></h2></div><div
+class="wpb_text_column wpb_content_element  vc_custom_1547714819200 text-center" ><div
+class=wpb_wrapper><p>Once you’ve entered our ecosystem, you can mange every thing. Anyone with a smartphone and an internet connection can use the Notm Platform and Notm exchange</p></div></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div
+class="res-m-btm wpb_column vc_column_container vc_col-sm-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_center">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=900 height=675 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_900/https://notm.io/wp-content/uploads/2019/01/3.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_900/https://notm.io/wp-content/uploads/2019/01/3.png 900w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/3-300x225.png 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://notm.io/wp-content/uploads/2019/01/3-768x576.png 768w" sizes="(max-width: 900px) 100vw, 900px"></div>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-5 vc_col-sm-offset-1"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  text-block" ><div
+class=wpb_wrapper><p>With a smartphone and internet connected, you get access to all the functions of the Notm ecosystem. Your account in Notm exchange will be synchronized with your bank account, so that you can pay for goods and services with a Notm payment card with instant conversion.</p><ul><li>Buying and selling tokens</li><li>Payment card Notm  (instant token conversion)</li><li>Creation, correction and supplement of news</li><li>Participation in consensus (Confirmed geolocation)</li><li>Placement of advertising recommendations</li></ul><p>In developing:</p><ul
+class=btns><li><a
+class="btn btn-sm" href=https://play.google.com/store target=_blank rel="noopener noreferrer">GET THE APP NOW</a></li><li><a
+href=https://www.apple.com/ios/app-store/ target=_blank rel="noopener noreferrer"><em
+class="fa fa-apple">ios</em></a><a
+href=https://play.google.com/store target=_blank rel="noopener noreferrer"><em
+class="fa fa-android">android</em></a></li></ul></div></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=tokensale class="vc_row wpb_row vc_row-fluid section-pad section-bg-alt"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1520830144361"><div
+class="wpb_column vc_column_container vc_col-sm-8 vc_col-md-offset-3 vc_col-md-6 vc_col-sm-offset-2"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Token Sale <span>TOKEN</span></h2></div><div
+class="wpb_text_column wpb_content_element  vc_custom_1546991910334 text-center" ><div
+class=wpb_wrapper><p>ICO Notm token will be released on the basis of Ethereum. Owing to this we are getting all the necessary infrastructure, which is already available for the Ethereum network.</p></div></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div
+class="event-info wpb_column vc_column_container vc_col-sm-12 vc_col-md-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class=row><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>Start</h6><p>Feb 18, 2019 (10:00AM CET)</p></div></div><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>Number of tokens for sale</h6><p>10,620,000,000 NOTM (59%)</p></div></div><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>End</h6><p>Dec 27, 2019 (11:59PM CET)</p></div></div><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>Tokens exchange rate</h6><p>0,01 USD = 1 NOTM</p></div></div><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>Acceptable currencies</h6><p>ETH</p></div></div><div
+class=col-sm-6><div
+class="event-single-info animated" data-animate=fadeInUp data-delay=0><h6>Minimal transaction amount</h6><p>100 USD</p></div></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-5 vc_col-md-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="countdown-box text-center " ><h6>Pre-ICO (2)</h6><ul
+class="token-countdown d-flex align-content-stretch" data-zone=0 data-date=2019/04/18 data-days=Days data-hours=Hours data-mins=Minutes data-secs=Seconds data-day=Days data-hour=Hours data-min=Minute data-sec=Second><li
+class=col>
+<span
+class="countdown-time days">00</span>
+<span
+class="countdown-text days_text">Days</span></li><li
+class=col>
+<span
+class="countdown-time hours">00</span>
+<span
+class="countdown-text hours_text">Hours</span></li><li
+class=col>
+<span
+class="countdown-time minutes">00</span>
+<span
+class="countdown-text minutes_text">Minutes</span></li><li
+class=col>
+<span
+class="countdown-time seconds countdown-time-last">00</span>
+<span
+class="countdown-text seconds_text">Seconds</span></li></ul>
+<a
+class="btn btn-alt btn-sm" href=https://notm.io/payment target=" _blank">BUY TOKEN NOW</a><ul
+class=icon-list></ul></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element " ><div
+class=wpb_wrapper><div
+class="gaps size-3x"></div><div
+class="gaps size-3x d-none d-md-block"></div></div></div></div></div></div><div
+class="single-chart res-m-btm wpb_column vc_column_container vc_col-sm-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><h3 style="text-align: center" class="vc_custom_heading sub-heading" >Distribution<br/>
+of tokens</h3><div
+class="wpb_single_image wpb_content_element vc_align_center">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=810 height=660 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_810/https://notm.io/wp-content/uploads/2019/01/chart-dark-a.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_810/https://notm.io/wp-content/uploads/2019/01/chart-dark-a.png 810w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/chart-dark-a-300x244.png 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://notm.io/wp-content/uploads/2019/01/chart-dark-a-768x626.png 768w" sizes="(max-width: 810px) 100vw, 810px"></div>
+</figure></div></div></div></div><div
+class="single-chart res-m-btm wpb_column vc_column_container vc_col-sm-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><h3 style="text-align: center" class="vc_custom_heading sub-heading" >Use<br/>
+of Funds</h3><div
+class="wpb_single_image wpb_content_element vc_align_center">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=810 height=660 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_810/https://notm.io/wp-content/uploads/2019/01/chart-dark-b.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_810/https://notm.io/wp-content/uploads/2019/01/chart-dark-b.png 810w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/chart-dark-b-300x244.png 300w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://notm.io/wp-content/uploads/2019/01/chart-dark-b-768x626.png 768w" sizes="(max-width: 810px) 100vw, 810px"></div>
+</figure></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=roadmap class="vc_row wpb_row vc_row-fluid section-pad section-bg section-connect"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1520830144361"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> OUR ROADMAP <span>ROADMAP</span></h2></div><div
+class=vc_empty_space   style="height: 50px" ><span
+class=vc_empty_space_inner></span></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="row roadmap-list align-items-end"><div
+class="col-lg "><div
+class="single-roadmap roadmap-sm roadmap-done"><h6>January 2019</h6><p>Start Closed Sales</p></div></div><div
+class="col-lg width-0"><div
+class="single-roadmap roadmap-sm roadmap-done roadmap-down"><h6>February 2019</h6><p>Preliminary token sale
+(the 1st stage)</p></div></div><div
+class="col-lg "><div
+class="single-roadmap roadmap-lg "><h6>March 2019</h6><p>Listing on Exchange</p></div></div><div
+class="col-lg width-0"><div
+class="single-roadmap roadmap-sm  roadmap-down"><h6>April 2019</h6><p>Preliminary token sale
+(the 2nd stage)</p></div></div><div
+class="col-lg "><div
+class="single-roadmap roadmap-sm "><h6>May 2019</h6><p>The NOTM conference</p></div></div><div
+class="col-lg width-0"><div
+class="single-roadmap roadmap-sm  roadmap-down"><h6>June 2019</h6><p>The main token sale</p></div></div><div
+class="col-lg "><div
+class="single-roadmap roadmap-lg "><h6>December 2019</h6><p>Start of the NOTM marketing stage</p></div></div><div
+class="col-lg width-0"><div
+class="single-roadmap roadmap-sm  roadmap-down"><h6>January 2020</h6><p>The NOTM mobile apps presentation</p></div></div><div
+class="col-lg "><div
+class="single-roadmap roadmap-sm "><h6>February 2020</h6><p>The NOTM platform presentation</p></div></div><div
+class="col-lg width-0"><div
+class="single-roadmap roadmap-sm  roadmap-down"><h6>June 2020</h6><p>Exchange service launch</p></div></div><div
+class="col-lg "><div
+class="single-roadmap roadmap-lg "><h6>August 2020</h6><p>Financial and credit organization purchase</p></div></div></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=team class="vc_row wpb_row vc_row-fluid section-pad no-pb section-bg-alt section-fix"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Our team <span>TEAM</span></h2></div><div
+class="wpb_text_column wpb_content_element  vc_custom_1546992401580 text-center" ><div
+class=wpb_wrapper><p>The ICO Notm Team is international. We are united by a passion for fighting for fair internet, success in the media, finance and marketing industry.</p></div></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/1-6.png alt></div><div
+class=team-info><h5 class="team-name">Aleksandr Barantsev</h5>
+<span
+class=team-title>Founder & CEO</span><ul
+class=team-social><li><a
+target=_blank href=https://www.facebook.com/BarantsevAleksandr><em
+class="fa fa-facebook"></em></a></li><li><a
+target=_blank href=https://www.linkedin.com/in/aleksandr-barantsev/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/2-4.png alt></div><div
+class=team-info><h5 class="team-name">Anton Likhodayev</h5>
+<span
+class=team-title>CMO</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/anton-lihodaev-95957517l/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/3-2.png alt></div><div
+class=team-info><h5 class="team-name">Aleksandr Bondarev</h5>
+<span
+class=team-title>CIO</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/aleksandr-bondarev-a12035114/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/4-1.png alt></div><div
+class=team-info><h5 class="team-name">Rémy PERETTI</h5>
+<span
+class=team-title>Asian Ambassador</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/r%C3%A9my-bien-bao-peretti-7359aa173/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/02/1112-2-2.png alt></div><div
+class=team-info><h5 class="team-name">Brian Sam</h5>
+<span
+class=team-title>Ghana Ambassador</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/briam-kobina-okyere-sam-941454180><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/1111.png alt></div><div
+class=team-info><h5 class="team-name">Anna Mikhailichenko</h5>
+<span
+class=team-title>Community manager</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/mikhailichenko-anna1242527179/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/02/1112-2.png alt></div><div
+class=team-info><h5 class="team-name">Allen Odiase</h5>
+<span
+class=team-title>Nigeria Ambassador</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/allen-odiase-hnd-pgdm-mba-mrktng-fcicn-spmiim-afrca-ace-1aa92b113/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/02/design1er-1.png alt></div><div
+class=team-info><h5 class="team-name">Igor Kamyansky</h5>
+<span
+class=team-title>Designer</span><ul
+class=team-social><li><a
+target=_blank href=https://www.linkedin.com/in/kamy1337/><em
+class="fa fa-linkedin"></em></a></li></ul></div></div></div></div></div></div><div
+class="wpb_text_column wpb_content_element  text-center" ><div
+class=wpb_wrapper><div
+class="gaps size-2x"></div><h3 class="sub-heading ucap">Advisors</h3><div
+class="gaps size-2x"></div></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-1 vc_col-md-10"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/Man.png alt></div><div
+class=team-info><h5 class="team-name">Mark Wood</h5>
+<span
+class=team-title>CEO Advertising Agency</span><ul
+class=team-social></ul></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-offset-0 vc_col-md-4 vc_col-sm-offset-3"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="team-circle text-center"><div
+class=team-photo>
+<img
+src alt></div><div
+class=team-info><h5 class="team-name"></h5>
+<span
+class=team-title></span></div></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=partners class="vc_row wpb_row vc_row-fluid section-pad section-bg-alt"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Notm PARTNERS <span>PARTNERS</span></h2></div><div
+class=vc_empty_space   style="height: 50px" ><span
+class=vc_empty_space_inner></span></div><div
+class="vc_empty_space  vc_hidden-sm vc_hidden-xs"   style="height: 60px" ><span
+class=vc_empty_space_inner></span></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_center   single-partner">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://advarteam.com/ target=_self class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=350 height=100 src=https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_350/https://notm.io/wp-content/uploads/2019/01/partner-md-c-2.png class="vc_single_image-img attachment-full" alt srcset="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_350/https://notm.io/wp-content/uploads/2019/01/partner-md-c-2.png 350w, https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300/https://notm.io/wp-content/uploads/2019/01/partner-md-c-2-300x86.png 300w" sizes="(max-width: 350px) 100vw, 350px"></a>
+</figure></div><div
+class="wpb_single_image wpb_content_element vc_align_center   single-partner">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://ddex.io/ target=_self class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=175 height=50 src=https://notm.io/wp-content/uploads/2019/02/DDEX-1.png class="vc_single_image-img attachment-full" alt></a>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=140 height=50 src=https://notm.io/wp-content/uploads/2019/02/1-8-3.png class="vc_single_image-img attachment-thumbnail" alt></div>
+</figure></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+class="vc_row wpb_row vc_row-fluid section-pad section-bg section-connect"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><h6 style="text-align: center" class="vc_custom_heading section-title-sm vc_custom_1520917253885" >As seen in</h6></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://vietincrypto.com/notm-la-du-an-tot-nhat-de-chong-lai-tin-tuc-gia-mao/ target=_blank class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=150 height=60 src=https://notm.io/wp-content/uploads/2019/02/111-3-150x60.png class="vc_single_image-img attachment-thumbnail" alt></a>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=150 height=60 src=https://notm.io/wp-content/uploads/2019/02/1-1-150x60.png class="vc_single_image-img attachment-thumbnail" alt></div>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://calendar-ico.com/notm-novostnaya-platforma-bank-i-birzha/ target=_blank class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=150 height=60 src=https://notm.io/wp-content/uploads/2019/02/CA-150x60.png class="vc_single_image-img attachment-thumbnail" alt></a>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://steemit.com/cryptocurrency/@notm/notm-project target=_blank class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=150 height=60 src=https://notm.io/wp-content/uploads/2019/02/123-1-150x60.png class="vc_single_image-img attachment-thumbnail" alt></a>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left">
+<figure
+class="wpb_wrapper vc_figure">
+<a
+href=https://cryptovod.ru/obzor-ico-notm-io-pervaya-v-mire-novostnaya-platforma-s-geolokatsiej/ target=_blank class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=150 height=60 src=https://notm.io/wp-content/uploads/2019/02/cr-150x60.png class="vc_single_image-img attachment-thumbnail" alt></a>
+</figure></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=latestblog class="vc_row wpb_row vc_row-fluid section-pad section-bg-dark"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Notm News <span>NEWS</span></h2></div><div
+class=vc_empty_space   style="height: 50px" ><span
+class=vc_empty_space_inner></span></div><div
+class="vc_empty_space  vc_hidden-sm vc_hidden-xs"   style="height: 60px" ><span
+class=vc_empty_space_inner></span></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class=blog-list><div
+class=row><div
+class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2"><div
+class=blog-item><div
+class=blog-photo>
+<a
+href=https://notm.io/what-is-notm/>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/1-1-1.png alt>
+</a></div><div
+class=blog-texts><ul
+class=blog-meta><li>January 17, 2019</li><li><a
+href=https://notm.io/category/blog/ rel="category tag">Blog</a></li></ul><h5 class="blog-title">
+<a
+href=https://notm.io/what-is-notm/>What is Notm?</a></h5><p>Notm is an ecosystem that consists of several connected and cooperating projects. The first project...</p></div></div></div><div
+class="col-lg-4 offset-lg-0 col-sm-8 offset-sm-2"><div
+class=blog-item><div
+class=blog-photo>
+<a
+href=https://notm.io/we-announce-the-beginning-of-bounty-campaign/>
+<img
+src=https://notm.io/wp-content/uploads/2019/01/11.png alt>
+</a></div><div
+class=blog-texts><ul
+class=blog-meta><li>January 16, 2019</li><li><a
+href=https://notm.io/category/blog/ rel="category tag">Blog</a></li></ul><h5 class="blog-title">
+<a
+href=https://notm.io/we-announce-the-beginning-of-bounty-campaign/>We announce the beginning of Bounty campaign</a></h5><p>Bounty campaign had been developed by us for more then a month to get the...</p></div></div></div></div></div><div
+class="row text-center"><div
+class=col-md-12>
+<a
+class="btn btn-more" href=https://notm.io/category/blog/ target=" _blank">READ ALL NEWS <em
+class="ti ti-angle-right"></em></a></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=faqs class="vc_row wpb_row vc_row-fluid section-pad no-pb"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Frequently asked questions <span>FAQS</span></h2></div><div
+class="wpb_text_column wpb_content_element  vc_custom_1520924412863 text-center" ><div
+class=wpb_wrapper><p>Below we’ve provided a bit of ICO, ICO Token, cryptocurrencies, and few others. If you have any other questions, please get in touch using the contact form below.</p></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+class="vc_row wpb_row vc_row-fluid section-bg-alt"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class=vc_tta-container data-vc-action=collapse><div
+class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1  ot-tabs vc_tta-tabs-position-top vc_tta-controls-align-left"><div
+class=vc_tta-tabs-container><ul
+class=vc_tta-tabs-list><li
+class="vc_tta-tab vc_active" data-vc-tab><a
+href=#1520927186706-24e6240e-867e data-vc-tabs data-vc-container=.vc_tta><span
+class=vc_tta-title-text>General</span></a></li><li
+class=vc_tta-tab data-vc-tab><a
+href=#1520937009638-39a59121-c4f6 data-vc-tabs data-vc-container=.vc_tta><span
+class=vc_tta-title-text>Pre-ICO &amp; ICO</span></a></li><li
+class=vc_tta-tab data-vc-tab><a
+href=#1520927144944-4e219566-c71a data-vc-tabs data-vc-container=.vc_tta><span
+class=vc_tta-title-text>Tokens</span></a></li><li
+class=vc_tta-tab data-vc-tab><a
+href=#1520927169441-fbd46c2d-7973 data-vc-tabs data-vc-container=.vc_tta><span
+class=vc_tta-title-text>Legal</span></a></li></ul></div><div
+class=vc_tta-panels-container><div
+class=vc_tta-panels><div
+class="vc_tta-panel vc_active" id=1520927186706-24e6240e-867e data-vc-content=.vc_tta-panel-body><div
+class=vc_tta-panel-heading><h4 class="vc_tta-panel-title"><a
+href=#1520927186706-24e6240e-867e data-vc-accordion data-vc-container=.vc_tta-container><span
+class=vc_tta-title-text>General</span></a></h4></div><div
+class=vc_tta-panel-body><div
+class=accordion id=accordion-111><div
+class=card><div
+class=card-header><h5>
+<a
+class data-toggle=collapse data-target=#collapse-340>
+What is Notm?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-340 class="collapse show" data-parent=#accordion-111><div
+class=card-body><p>Notm Platform - is unique service; The first hybrid news platform with geolocation in the world.</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-341>
+What cryptocurrencies can I use to purchase?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-341 class="collapse " data-parent=#accordion-111><div
+class=card-body><p>Cryptocurrencies for payment - Ethereum</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-342>
+How can I participate in the ICO Token sale?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-342 class="collapse " data-parent=#accordion-111><div
+class=card-body><p>Don’t use the cryptocurrency stock exchanges or exchange services for
+sending the Ethereum (ETH), because the tokens will be send to the ETH address,
+which the payment was made from.
+Check payment address by contacting us by email!Address: 0x5ea45217883d06BcEef2c747e558B1a25ECa1b97</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-343>
+How do I benefit from the ICO Token?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-343 class="collapse " data-parent=#accordion-111><div
+class=card-body><p>Notm token can be used for trading on a cryptocurrency exchange or on a Notm platform after launch</p></div></div></div></div></div></div><div
+class=vc_tta-panel id=1520937009638-39a59121-c4f6 data-vc-content=.vc_tta-panel-body><div
+class=vc_tta-panel-heading><h4 class="vc_tta-panel-title"><a
+href=#1520937009638-39a59121-c4f6 data-vc-accordion data-vc-container=.vc_tta-container><span
+class=vc_tta-title-text>Pre-ICO &amp; ICO</span></a></h4></div><div
+class=vc_tta-panel-body><div
+class=accordion id=accordion-411><div
+class=card><div
+class=card-header><h5>
+<a
+class data-toggle=collapse data-target=#collapse-532>
+When does the open sale of tokens begin?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-532 class="collapse show" data-parent=#accordion-411><div
+class=card-body><p>Start at 10:00 CET February 18, 2019</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-533>
+How much does the Notm token cost?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-533 class="collapse " data-parent=#accordion-411><div
+class=card-body><p>Closed sale - 1 NOTM costs 0,005 USD
+Pre-ICO (the 1st stage) - 1 NOTM costs 0,01 USD
+Pre-ICO (the 2nd stage) -  1 NOTM costs 0,015 USD
+Main sale - 1 NOTM costs 0,025 USD</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-534>
+Can I pay with fiat money?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-534 class="collapse " data-parent=#accordion-411><div
+class=card-body><p>Yes. We accept all liquid currencies. For payment, contact us at CEO@Notm.io</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-535>
+How can I buy Notm tokens?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-535 class="collapse " data-parent=#accordion-411><div
+class=card-body><p>To pay, transfer Ethereum from your personal ETH address (ERC 20) to our Address: 0x5ea45217883d06BcEef2c747e558B1a25ECa1b97</p></div></div></div></div></div></div><div
+class=vc_tta-panel id=1520927144944-4e219566-c71a data-vc-content=.vc_tta-panel-body><div
+class=vc_tta-panel-heading><h4 class="vc_tta-panel-title"><a
+href=#1520927144944-4e219566-c71a data-vc-accordion data-vc-container=.vc_tta-container><span
+class=vc_tta-title-text>Tokens</span></a></h4></div><div
+class=vc_tta-panel-body><div
+class=accordion id=accordion-959><div
+class=card><div
+class=card-header><h5>
+<a
+class data-toggle=collapse data-target=#collapse-103>
+How many tokens are released?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-103 class="collapse show" data-parent=#accordion-959><div
+class=card-body><p>Total released: 18,000,000,000 Notm tokens</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-104>
+How many Notm tokens are for sale?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-104 class="collapse " data-parent=#accordion-959><div
+class=card-body><p>59 % - 10,620,000,000 tokens Notm</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-105>
+Can I pay from a cryptocurrency exchange?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-105 class="collapse " data-parent=#accordion-959><div
+class=card-body><p>Not! It is forbidden! You will lose your money, and tokens will not be credited to you.</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-106>
+Where is it safe to store tokens?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-106 class="collapse " data-parent=#accordion-959><div
+class=card-body><p>We recommend using https://www.myetherwallet.com/ to pay for and storage of tokens.</p></div></div></div></div></div></div><div
+class=vc_tta-panel id=1520927169441-fbd46c2d-7973 data-vc-content=.vc_tta-panel-body><div
+class=vc_tta-panel-heading><h4 class="vc_tta-panel-title"><a
+href=#1520927169441-fbd46c2d-7973 data-vc-accordion data-vc-container=.vc_tta-container><span
+class=vc_tta-title-text>Legal</span></a></h4></div><div
+class=vc_tta-panel-body><div
+class=accordion id=accordion-736><div
+class=card><div
+class=card-header><h5>
+<a
+class data-toggle=collapse data-target=#collapse-19>
+NOTM tokens are stocks?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-19 class="collapse show" data-parent=#accordion-736><div
+class=card-body><p>NOTM tokens are not the securities or the property of NOTM company</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-20>
+I live in USA. Can I invest?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-20 class="collapse " data-parent=#accordion-736><div
+class=card-body><p>You confirm you’re not a resident of the country the cryptocurrency trade is forbidden in (the USA, China, South Korea and others)</p></div></div></div><div
+class=card><div
+class=card-header><h5>
+<a
+class=collapsed data-toggle=collapse data-target=#collapse-21>
+Will I get a guaranteed profit?<span
+class=plus-minus><span
+class="ti ti-angle-up"></span></span>
+</a></h5></div><div
+id=collapse-21 class="collapse " data-parent=#accordion-736><div
+class=card-body><p> You confirm that all the information on that website (and other sources where Notm project is presented) and all the messages from the NOTM company can not be understood as guarantee of the profit or income in any way</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section><section
+id=contact class="vc_row wpb_row vc_row-fluid section-pad section-bg-alt"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="section-head text-center"><h2 class="section-title animated" data-animate="fadeInUp" data-delay=".1"> Contact Notm <span>CONTACT</span></h2></div></div></div></div></div><div
+class="wpb_text_column wpb_content_element  vc_custom_1520932193361 text-center" ><div
+class=wpb_wrapper><p>Any question? Reach out to us and we’ll get back to you shortly.</p></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-offset-2 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_text_column wpb_content_element  vc_custom_1546996574494" ><div
+class=wpb_wrapper><ul
+class=contact-info><li></li><li><em
+class="fa fa-envelope">tele</em>CEO@Notm.io</li><li><em
+class="fa fa-paper-plane">tele</em>Join us on <a
+href=https://t.me/NotmPlatform target=_blank rel="noopener noreferrer">Telegram</a></li></ul></div></div><div
+role=form class=wpcf7 id=wpcf7-f301-p29-o1 lang=en-US dir=ltr><div
+class=screen-reader-response></div><form
+action=/#wpcf7-f301-p29-o1 method=post class=wpcf7-form novalidate=novalidate><div
+style="display: none;">
+<input
+type=hidden name=_wpcf7 value=301>
+<input
+type=hidden name=_wpcf7_version value=5.1.1>
+<input
+type=hidden name=_wpcf7_locale value=en_US>
+<input
+type=hidden name=_wpcf7_unit_tag value=wpcf7-f301-p29-o1>
+<input
+type=hidden name=_wpcf7_container_post value=29>
+<input
+type=hidden name=g-recaptcha-response value></div><div
+class="comment-form text-center"><div
+class=form-results></div><div
+class=input-field>
+<span
+class="wpcf7-form-control-wrap your-name"><input
+type=text name=your-name value size=40 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-line" aria-required=true aria-invalid=false></span><label
+class=input-title>Your Name</label></div><div
+class=input-field>
+<span
+class="wpcf7-form-control-wrap your-email"><input
+type=email name=your-email value size=40 class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input-line" aria-required=true aria-invalid=false></span><label
+class=input-title>Your Email</label></div><div
+class=input-field>
+<span
+class="wpcf7-form-control-wrap your-message"><textarea name=your-message cols=40 rows=10 class="wpcf7-form-control wpcf7-textarea input-line txtarea" aria-invalid=false></textarea></span><label
+class=input-title>Your Message</label></div><div
+class=input-field>
+<button
+type=submit class=btn>Submit</button></div></div><div
+class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div></div></div></div></div></div><div
+class=clearfix></div></section>
+<footer
+class="section footer-section section-pad-sm section-bg "><div
+class=container><div
+class="row text-center"><div
+class=col-md-12><ul
+class=social><li><a
+target=_blank href=https://www.facebook.com/NotmPlatform/><em
+class="fa fa-facebook"></em></a></li><li><a
+target=_blank href=https://twitter.com/NotmPlatform><em
+class="fa fa-twitter"></em></a></li><li><a
+target=_blank href=https://www.youtube.com/channel/UC2JsI4Gz3yOYSLqnCT6A7bA><em
+class="fa fa-youtube-play"></em></a></li><li><a
+target=_blank href="https://bitcointalk.org/index.php?topic=4920444.0"><em
+class="fa fa-bitcoin"></em></a></li><li><a
+target=_blank href=https://medium.com/notm><em
+class="fa fa-medium"></em></a></li><li><a
+target=_blank href=https://notmworkspace.slack.com/><em
+class="fa fa-slack"></em></a></li><li><a
+target=_blank href=https://notm.io/whitepaper-EN-min.pdf><em
+class="fa fa-file-word"></em></a></li><li><a
+target=_blank href=https://t.me/NotmPlatform><em
+class="fa fa-telegram"></em></a></li><li><a
+target=_blank href=https://t.me/Notmio><em
+class="fa fa-telegram"></em></a></li></ul>
+<span
+class=copyright-text> Copyright © 2019 </span></div></div></div>
+</footer>
+<a
+href=# id=back-to-top></a> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105303630-3"></script> <script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105303630-3');</script> </div> <script>var wpcf7 = {"apiSettings":{"root":"https:\/\/notm.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};</script> <script src='https://notm.io/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script> <script src='https://notm.io/wp-includes/js/comment-reply.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/bootstrap.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/jquery.easing.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.6'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/owl.carousel.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/jquery.magnific-popup.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/jquery.countdown.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/particles.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/vendor/select2.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/themes/icos/assets/js/script-pack.js?ver=5.1'></script> <script src='https://notm.io/wp-includes/js/wp-embed.min.js?ver=5.1'></script> <script src='https://notm.io/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.6'></script> <script src='https://notm.io/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.6'></script> <script src='https://notm.io/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.6'></script> <script src='https://notm.io/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=5.6'></script> </body></html>
+<!-- Dynamic page generated in 1.613 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-03-03 17:55:45 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

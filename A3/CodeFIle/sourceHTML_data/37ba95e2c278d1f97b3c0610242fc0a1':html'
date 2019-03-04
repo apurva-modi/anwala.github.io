@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>MetaMask Token - How to Add Or Send Custom Tokens</title>
+<link rel='preload' href='https://cryptostaunch.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=1.7.7' as='script' />
+<link rel='preload' href='path-to-intersection-observer.js' as='script' />
+<link rel='preload' href='//cdn.jsdelivr.net/npm/lozad@1.3.0/dist/lozad.min.js' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/themes/generatepress/js/classList.min.js?ver=2.2.2' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/themes/generatepress/js/menu.min.js?ver=2.2.2' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/themes/generatepress/js/a11y.min.js?ver=2.2.2' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/themes/generatepress/js/dropdown-click.min.js?ver=2.2.2' as='script' />
+<link rel='preload' href='https://cryptostaunch.com/wp-content/plugins/jetpack/_inc/build/widgets/milestone/milestone.min.js?ver=20160520' as='script' />
+
+<meta name="description" content="Do you know you can add custom tokens to your MetaMask cryptocurrency wallet? Well, adding token to MetaMask is simple, and this content will guide on how" />
+<link rel="canonical" href="https://cryptostaunch.com/metamask-custom-tokens.html" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Do you know you can add custom tokens to your MetaMask cryptocurrency wallet? Well, adding token to MetaMask is simple, and this content will guide on how" />
+<meta name="twitter:title" content="MetaMask Token - How to Add Or Send Custom Tokens" />
+<meta name="twitter:site" content="@cryptostaunch" />
+<meta name="twitter:image" content="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/10/metamask-token-wallet.png?fit=560%2C315&#038;ssl=1" />
+<meta name="twitter:creator" content="@CryptoStaunch" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Person","url":"https://cryptostaunch.com/","sameAs":["https://facebook.com/doronize","https://pinterest.com/doronize","https://twitter.com/cryptostaunch"],"@id":"#person","name":"Mr. KingsHOK"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://cryptostaunch.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://cryptostaunch.com/library","name":"Blog"}},{"@type":"ListItem","position":3,"item":{"@id":"https://cryptostaunch.com/category/cryptocurrency-investment","name":"Cryptocurrency Investment"}},{"@type":"ListItem","position":4,"item":{"@id":"https://cryptostaunch.com/metamask-custom-tokens.html","name":"MetaMask Token &#8211; How to Add Or Send Custom Tokens"}}]}</script>
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The CryptoStaunch &raquo; Feed" href="https://cryptostaunch.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="The CryptoStaunch &raquo; Comments Feed" href="https://cryptostaunch.com/comments/feed" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/5.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-page-header-css' href='https://cryptostaunch.com/wp-content/plugins/gp-premium/page-header/functions/css/page-header.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css' href='https://cryptostaunch.com/wp-content/themes/generatepress/css/unsemantic-grid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://cryptostaunch.com/wp-content/themes/generatepress/style.min.css' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+.entry-header .entry-meta {display:none;}.post-navigation {display:none;}.single footer.entry-meta {display:none;}.no-featured-image-padding .featured-image {margin-left:-20px;margin-right:-20px;}.post-image-above-header .no-featured-image-padding .inside-article .featured-image {margin-top:-20px;}@media (max-width:768px){.no-featured-image-padding .featured-image {margin-left:-30px;margin-right:-30px;}.post-image-above-header .no-featured-image-padding .inside-article .featured-image {margin-top:-10px;}}
+body{background-color:#ffffff;color:#3a3a3a;}a, a:visited{color:#5db873;}a:visited{color:#5db873;}a:hover, a:focus, a:active{color:#000000;}body .grid-container{max-width:1140px;}body, button, input, select, textarea{font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";font-weight:400;font-size:18px;}body{line-height:2;}p{margin-bottom:2em;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:2em;}.main-title{font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";text-transform:uppercase;font-size:44px;}.site-description{font-size:12px;}.main-navigation a, .menu-toggle{font-family:Trebuchet MS, Helvetica, sans-serif;font-weight:bold;font-size:20px;}.main-navigation .main-nav ul ul li a{font-size:17px;}.widget-title{text-transform:capitalize;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.button:visited,.wp-block-button .wp-block-button__link{text-transform:capitalize;}h1{font-weight:800;font-size:44px;line-height:1em;}h2{font-weight:800;font-size:32px;line-height:1.6em;}h3{font-weight:800;font-size:24px;}h4{font-weight:800;line-height:1.2em;}h5{font-weight:bold;}h6{font-weight:bold;}.site-info{font-size:12px;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a,.top-bar a:visited{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a,.site-header a:visited{color:#ffffff;}.site-header a:hover{color:#020202;}.main-title a,.main-title a:hover,.main-title a:visited{color:#ffffff;}.site-description{color:#757575;}.main-navigation,.main-navigation ul ul{background-color:#5db873;}.main-navigation .main-nav ul li a,.menu-toggle{color:#ffffff;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#ffffff;background-color:#5db873;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#5db873;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#5db873;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active{color:#5db873;background-color:#5db873;}.navigation-search input[type="search"]:focus{color:#ffffff;background-color:#5db873;}.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul ul li a{color:#5db873;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#5db873;background-color:#ffc52c;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#ffc52c;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#ffc52c;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#000000;background-color:#ffffff;}.inside-article a,.inside-article a:visited,.paging-navigation a,.paging-navigation a:visited,.comments-area a,.comments-area a:visited,.page-header a,.page-header a:visited{color:#000000;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#5db873;}.entry-header h1,.page-header h1{color:#000000;}.entry-title a,.entry-title a:visited{color:#000000;}.entry-title a:hover{color:#5db873;}.entry-meta{color:#000000;}.entry-meta a,.entry-meta a:visited{color:#5db873;}.entry-meta a:hover{color:#ff5500;}h2{color:#5db873;}h3{color:#000000;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#000000;background-color:#ffffff;}.site-info a,.site-info a:visited{color:#5db873;}.site-info a:hover{color:#ffc52c;}.footer-bar .widget_nav_menu .current-menu-item a{color:#ffc52c;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#5db873;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffc52c;background-color:#5db873;}.generate-back-to-top,.generate-back-to-top:visited{background-color:rgba(93,184,115,0.71);color:#ffffff;}.generate-back-to-top:hover,.generate-back-to-top:focus{background-color:rgba(93,184,115,0.7);color:#ffc52c;}.inside-header{padding:40px 40px 16px 40px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:10px 30px 10px 30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:20px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:20px;}.one-container.both-sidebars .site-main{margin:0px 20px 0px 20px;}.separate-containers .widget, .separate-containers .site-main > *, .separate-containers .page-header, .widget-area .main-navigation{margin-bottom:0px;}.right-sidebar.separate-containers .site-main{margin:0px;}.left-sidebar.separate-containers .site-main{margin:0px;}.both-sidebars.separate-containers .site-main{margin:0px;}.both-right.separate-containers .site-main{margin:0px;}.both-right.separate-containers .inside-left-sidebar{margin-right:0px;}.both-right.separate-containers .inside-right-sidebar{margin-left:0px;}.both-left.separate-containers .site-main{margin:0px;}.both-left.separate-containers .inside-left-sidebar{margin-right:0px;}.both-left.separate-containers .inside-right-sidebar{margin-left:0px;}.separate-containers .site-main{margin-top:0px;margin-bottom:0px;}.separate-containers .page-header-image, .separate-containers .page-header-contained, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single{margin-top:0px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:0px;margin-bottom:0px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{padding-left:16px;padding-right:16px;line-height:44px;}.main-navigation .main-nav ul ul li a{padding:12px 16px 12px 16px;}.navigation-search input{height:44px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:16px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:16px;}.menu-item-has-children ul .dropdown-menu-toggle{padding-top:12px;padding-bottom:12px;margin-top:-12px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:16px;}.site-info{padding:0px 20px 20px 20px;}.one-container .sidebar .widget{padding:0px;}/* End cached CSS */.page .entry-content{margin-top:0px;}.single .entry-content{margin-top:0px;}.entry-content > .alignwide:first-child, .entry-content > .alignfull:first-child{margin-top:-20px;}
+.generate-content-header{background-color:#ffffff;background-position:center center;}.separate-containers .generate-content-header.generate-page-header{margin-top:0px;}.inside-page-header{background-color:transparent;color:#000000;}.page-header-content-container{text-align:center;padding-top:4px;padding-bottom:4px;color:#000000;}.page-header-content-container a:not(.button), .page-header-content-container a:not(.button):visited{color:#5db873;}.page-header-content-container a:not(.button):hover, .page-header-content-container a:not(.button):active{color:#000000;}.page-header-content-container h1, .page-header-content-container h2, .page-header-content-container h3, .page-header-content-container h4, .page-header-content-container h5{color:#000000;}.generate-merged-header .inside-header{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}.generate-merged-header .site-header{background:transparent;}
+@media (max-width:768px){.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{padding-left:8px;padding-right:8px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:8px;}.main-navigation .main-nav ul ul li a{padding-left:8px;padding-right:8px;}}
+.main-navigation .navigation-logo img {height:44px;}@media (max-width: 1150px) {.main-navigation .navigation-logo.site-logo {margin-left:0;}body.sticky-menu-logo.nav-float-left .main-navigation .site-logo.navigation-logo {margin-right:0;}}.mobile-header-navigation .mobile-header-logo img {height:44px;}
+.slideout-navigation.main-navigation{background-color:#5db873;}.slideout-navigation.main-navigation .main-nav ul li a{font-weight:bold;text-transform:capitalize;font-size:16px;}.slideout-navigation.main-navigation .main-nav ul ul li a{font-size:15px;}@media (max-width:768px){.slideout-navigation.main-navigation .main-nav ul li a{font-size:12px;}.slideout-navigation.main-navigation .main-nav ul ul li a{font-size:11px;}}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css' href='https://cryptostaunch.com/wp-content/themes/generatepress/css/mobile.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-blog-css' href='https://cryptostaunch.com/wp-content/plugins/gp-premium/blog/functions/css/style-min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-menu-logo-css' href='https://cryptostaunch.com/wp-content/plugins/gp-premium/menu-plus/functions/css/menu-logo.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-mobile-header-css' href='https://cryptostaunch.com/wp-content/plugins/gp-premium/menu-plus/functions/css/mobile-header.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.1/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.1/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://cryptostaunch.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cryptostaunch.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cryptostaunch.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.1" />
+<link rel='shortlink' href='https://wp.me/p8MYUC-Fq' />
+<link rel="alternate" type="application/json+oembed" href="https://cryptostaunch.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptostaunch.com%2Fmetamask-custom-tokens.html" />
+<link rel="alternate" type="text/xml+oembed" href="https://cryptostaunch.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptostaunch.com%2Fmetamask-custom-tokens.html&#038;format=xml" />
+
+<meta name="theme-color" content="#5db873">
+
+<meta name="msapplication-navbutton-color" content="#5db873">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#5db873">
+<link rel='dns-prefetch' href='//s.w.org'>
+<link rel='dns-prefetch' href='//www.gravatar.com'>
+<link rel='dns-prefetch' href='//ajax.cloudflare.com'>
+<link rel='dns-prefetch' href='//ajax.googleapis.com'>
+<link rel='dns-prefetch' href='//use.fontawesome.com'>
+<link rel='dns-prefetch' href='//www.google-analytics.com'>
+<link rel='dns-prefetch' href='//www.googletagservices.com'>
+<link rel='dns-prefetch' href='//www.googletagmanager.com'>
+<link rel='dns-prefetch' href='//partner.googleadservices.com'>
+<link rel='dns-prefetch' href='//doronize.us16.list-manage.com'>
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com'>
+<link href='https://ajax.googleapis.com' rel='preconnect' />
+<link rel='preconnect' href='https://cryptostaunch.com' crossorigin>
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/gp-premium/page-header/functions/css/page-header.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/gp-premium/sections/functions/css/style.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-includes/css/dashicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/themes/generatepress/css/unsemantic-grid.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/themes/generatepress/css/mobile.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/gp-premium/blog/functions/css/style-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/gp-premium/menu-plus/functions/css/menu-logo.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/wp-content/plugins/gp-premium/menu-plus/functions/css/mobile-header.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cryptostaunch.com/?custom-css=410f72952d" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="//use.fontawesome.com/releases/v5.0.9/css/all.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link expr:href="data:blog.canonicalUrl.https" hreflang="en" rel="alternate" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7835654324050154",
+          enable_page_level_ads: true
+     });
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MS2B2T3');</script>
+
+<script>var WP_Statistics_http = new XMLHttpRequest();WP_Statistics_http.open('POST', 'https://cryptostaunch.com/wp-json/wpstatistics/v1/hit?_=1551636276', true);WP_Statistics_http.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");WP_Statistics_http.send("wp_statistics_hit=" + JSON.stringify({"base":"https://cryptostaunch.com/wp-json","browser":"Curl","platform":"Unknown","version":"Unknown","referred":"https://cryptostaunch.com","api":"wp-json","ip":"172.69.162.65","hash_ip":"#hash#18d55951a0abc021b9ab9f1ae85d8654b3a47441","exclude":"1","exclude_reason":"CrawlerDetect","ua":"curl/7.60.0","track_all":"1","timestamp":"1551639876","search_query":"","current_page_type":"post","current_page_id":"2568","page_uri":"/metamask-custom-tokens.html?utm_source=SocialAutoPoster","user_id":"0"}));</script>
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="manifest" href="https://cryptostaunch.com?jetpack_app_manifest=1">
+<meta name="theme-color" content="#fff">
+<style type='text/css'>img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> <meta name="onesignal" content="wordpress-plugin" />
+<link rel="manifest" href="https://cryptostaunch.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://cryptostaunch.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '8d3b93f7-5d88-45d3-83f7-c7aace337e48';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Doronize";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing already!";
+oneSignal_options['welcomeNotification']['url'] = "https://doronize.com.ng/start";
+oneSignal_options['path'] = "https://cryptostaunch.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MetaMask Token &#8211; How to Add Or Send Custom Tokens" />
+<meta property="og:url" content="https://cryptostaunch.com/metamask-custom-tokens.html" />
+<meta property="og:description" content="Do you know you can add custom tokens to your MetaMask cryptocurrency wallet? Well, adding token to MetaMask is simple, and this content will guide on how to do it. Previously, i wrote about how to…" />
+<meta property="article:published_time" content="2018-10-15T19:13:07+00:00" />
+<meta property="article:modified_time" content="2018-12-13T02:47:53+00:00" />
+<meta property="og:site_name" content="The CryptoStaunch" />
+<meta property="og:image" content="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/10/metamask-token-wallet.png?fit=560%2C315&amp;ssl=1" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="315" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@iamLyricalPower" />
+<meta name="twitter:site" content="@doronize" />
+<meta name="twitter:text:title" content="MetaMask Token &#8211; How to Add Or Send Custom Tokens" />
+<meta name="twitter:image" content="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/10/metamask-token-wallet.png?fit=560%2C315&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<link rel="icon" href="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/12/cropped-cryptostaunch-icon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/12/cropped-cryptostaunch-icon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/12/cropped-cryptostaunch-icon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/2018/12/cropped-cryptostaunch-icon.png?fit=270%2C270&#038;ssl=1" />
+<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://cryptostaunch.com/?custom-css=700ad163fc" />
+</head>
+<body class="post-template-default single single-post postid-2568 single-format-standard wp-custom-logo wp-embed-responsive post-image-below-header post-image-aligned-center sticky-menu-fade menu-logo menu-logo-enabled mobile-header mobile-header-logo no-sidebar nav-above-header fluid-header separate-containers active-footer-widgets-0 nav-aligned-right header-aligned-right dropdown-click-arrow dropdown-click featured-image-active" itemtype="https://schema.org/Blog" itemscope>
+<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a><div id="page-header-1051" class="page-header-content page-header-contained grid-container grid-parent generate-combined-page-header generate-page-header generate-content-header">
+<div class="inside-page-header-container inside-content-header  generate-merged-header"> <nav id="site-navigation" class="main-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation grid-container grid-parent">
+<div class="site-logo sticky-logo navigation-logo">
+<a href="https://cryptostaunch.com/" title="The CryptoStaunch" rel="home">
+<img src="https://cryptostaunch.com/wp-content/uploads/cryptostaunch-white.png" alt="The CryptoStaunch" />
+</a>
+</div> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="mobile-menu"></span>
+</button>
+<div id="primary-menu" class="main-nav"><ul id="menu-header" class=" menu sf-menu"><li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a href="https://cryptostaunch.com/start">Beginner? Get Started.</a></li>
+<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="https://cryptostaunch.com/about">About</a></li>
+<li id="menu-item-1122" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1122"><a href="https://cryptostaunch.com/library">Blog</a></li>
+<li id="menu-item-2269" class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="https://cryptostaunch.com/buy-coins"><i class="fab fa-bitcoin"> Get Your Coins</i></a></li>
+</ul></div> </div>
+</nav>
+<header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope>
+<div class="inside-header grid-container grid-parent">
+<div class="site-logo">
+<a href="https://cryptostaunch.com/" title="The CryptoStaunch" rel="home">
+<img class="header-image" alt="The CryptoStaunch" src="https://i2.wp.com/cryptostaunch.com/wp-content/uploads/cryptostaunch-white.png?fit=350%2C70&#038;ssl=1" title="The CryptoStaunch" srcset="https://i2.wp.com/cryptostaunch.com/wp-content/uploads/cryptostaunch-white.png?fit=350%2C70&#038;ssl=1 1x, https://cryptostaunch.com/wp-content/uploads/cryptostaunch-white.png 2x" width="350" height="70" />
+</a>
+</div> </div>
+</header>
+<nav id="mobile-header" class="main-navigation mobile-header-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation grid-container grid-parent">
+<div class="site-logo mobile-header-logo">
+<a href="https://cryptostaunch.com/" title="The CryptoStaunch" rel="home">
+<img src="https://cryptostaunch.com/wp-content/uploads/cryptostaunch-white.png" alt="The CryptoStaunch" />
+</a>
+</div> <button class="menu-toggle" aria-controls="mobile-menu" aria-expanded="false">
+<span class="mobile-menu"></span>
+</button>
+<div id="mobile-menu" class="main-nav"><ul id="menu-header-1" class=" menu sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2213"><a href="https://cryptostaunch.com/start">Beginner? Get Started.</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="https://cryptostaunch.com/about">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1122"><a href="https://cryptostaunch.com/library">Blog</a></li>
+<li class="nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-2269"><a href="https://cryptostaunch.com/buy-coins"><i class="fab fa-bitcoin"> Get Your Coins</i></a></li>
+</ul></div> </div>
+</nav>
+<div class="page-header-content-wrapper generate-combined-content ">
+<div class="generate-inside-combined-content page-header-content-container">
+<div class="stats" style="font-size: small; font-style: italic;">
+<p id="breadcrumbs"><span><span><a href="https://cryptostaunch.com/">Home</a> » <span><a href="https://cryptostaunch.com/library">Blog</a> » <span><a href="https://cryptostaunch.com/category/cryptocurrency-investment">Cryptocurrency Investment</a> » <span class="breadcrumb_last">MetaMask Token &#8211; How to Add Or Send Custom Tokens</span></span></span></span></span></p>
+</div>
+<h1 class="entry-title" itemprop="headline">MetaMask Token &#8211; How to Add Or Send Custom Tokens</h1>
+<div class="stats" style="font-size: small; font-style: italic;">
+<div class="foto-autor">
+<img alt='' src='https://secure.gravatar.com/avatar/558d11c9aff6d936cef064815dea906a?s=32&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/558d11c9aff6d936cef064815dea906a?s=64&#038;d=wavatar&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /> </div>
+<div class="autor-post">by The 'Staunch</div>
+<br />
+<span> 1189 Words</span> // <span> 8 Mins Read </span> // <span> 7476 Views </span><br />
+To get free guides, <a href="#mc_embed_signup_scroll"><strong>subsribe now</strong></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page" class="hfeed site grid-container container grid-parent">
+<div id="content" class="site-content">
+<div id="primary" class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100">
+<main id="main" class="site-main">
+<article id="post-2568" class="post-2568 post type-post status-publish format-standard has-post-thumbnail category-cryptocurrency-investment no-featured-image-padding" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<hr style="border-top: 0px solid; height: 1px; margin-left:25% !important; margin-right:25% !important; margin: 0em 0; width: 50%;" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7835654324050154" data-ad-slot="7300585621" data-ad-format="auto" data-full-width-responsive="true"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script>
+<header class="entry-header">
+<div class="entry-meta">
+</div>
+</header>
+<div class="entry-content" itemprop="text">
+<p>Do you know you can add custom tokens to your MetaMask <a href="https://cryptostaunch.com/bitcoin-wallets.html" data-wpel-link="internal" target="_blank">cryptocurrency wallet</a>? Well, adding token to MetaMask is simple, and this content will guide on how to do it.</p>
+<p>Previously, i wrote about how to the meaning of <a href="https://cryptostaunch.com/cryptocurrency-airdrops.html" data-wpel-link="internal" target="_blank">cryptocurrency airdrops</a> and how to participate in getting airdrops. I also talked about some of the tools you will be needing to start receiving airdrops, and these tools are; ERC20 etherscan supported wallet address, Telegram and Twitter account etc.</p><div class="content-box">
+<b>Interested in buying crypto-coins?</b> You can exchange over 400 cryptocurrencies at best cheap rate! <a href="https://cryptostaunch.com/goto/changelly" rel="nofollow external noopener noreferrer" target="_blank" data-wpel-link="external"><font color="#ff5500">Buy from Changelly instantly</font></a>
+</div>
+<p>Read more about <a href="https://cryptostaunch.com/cryptocurrency-airdrops.html" data-wpel-link="internal" target="_blank">airdrops and how to participate in it to get more crypto coins you can use to make money</a>.</p>
+<p>Though, i know a lot about airdrops, I&#8217;ll still have to be very sincere right here. Personally, do not try to get airdrop coins myself. Why? Because time is not always available for me to start setting my wallets up for it. I only had time to give it a try just to know all the processes involved, but never tried after the first time.</p>
+<p>Lol&#8230; now am sounding like a deceptive person right now, uh? Have it in mind that this blog is established to teach you everything i have learned to make money with crypto coins. That i don&#8217;t do some of the things posted on the blog anymore doesn&#8217;t mean am going to deceive you into getting to invest in BS.</p>
+<p>That been said, let&#8217;s discuss about how you can add custom tokens to MetaMask wallet. Firstly, just so you know, what Google Chrome is to the internet is what MetaMask is to Ethereum.</p>
+<figure style="width: 976px" class="wp-caption aligncenter"><img class="size-full wp-image-2573 lazy-load" title="MetaMask wallet" data-src="https://cryptostaunch.com/wp-content/uploads/metamask1030951364.jpg" alt="MetaMask ERC20 wallet" width="986" height="363" srcset="https://i2.wp.com/cryptostaunch.com/wp-content/uploads/metamask1030951364.jpg?w=986&amp;ssl=1 986w, https://i2.wp.com/cryptostaunch.com/wp-content/uploads/metamask1030951364.jpg?resize=163%2C60&amp;ssl=1 163w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-caption-text">MetaMask</figcaption></figure>
+<p>MetaMask is a cryptocurrency internet browser wallet on the Google chrome made to access ethereum <a href="https://cryptostaunch.com/blockchain.html" data-wpel-link="internal" target="_blank">blockchain</a> through which it&#8217;s possible to manage all ERC20 tokens and Ether DApps (ETH). So it&#8217;s not wallet that allows you to only store, send, receive other tokens, but it also enable you to access all other known ethereum DApps.</p>
+<p>The logo and UI also attracts you to start making use of it. See a short video about how metamask works below.</p>
+<p>I figured out that people who would like to manage or send custom tokens to metamask always finds it very difficult, as they don&#8217;t really know how to use the metamask wallet or properly add a custom token to it.</p>
+<p>One of the most common problem these people face is the inability to see custom tokens in the metamask crypto coin wallet. They don&#8217;t really know that metamask wallet does not support most ERC20 DApps by default. Some tokens are meant to be added manually for them to see it.</p>
+<p>Now, i guess the long talk is enough to describe why you need to add custom tokens by yourself. Let&#8217;s dive into how to do it the right way.</p>
+<h2>How to add custom tokens to MetaMask</h2>
+<p>Before we start, just know that this is a Do-It-Yourself guide to adding custom tokens to metamask crytocurrency wallet.</p>
+<p>In this tutorial you will learn how to add ERC20 tokens to the wallet easily with a step-by-step instructions.</p>
+<h3>Get started with the right steps to add those custom tokens.</h3>
+<p><b>Step #1.</b> Open and log into metamask</p>
+<p><img class="aligncenter size-full wp-image-2571 lazy-load" title="MetaMask wallet " data-src="https://cryptostaunch.com/wp-content/uploads/metamask-etherscan4134526.png" alt="MetaMask " width="383" height="292" srcset="https://i0.wp.com/cryptostaunch.com/wp-content/uploads/metamask-etherscan4134526.png?w=383&amp;ssl=1 383w, https://i0.wp.com/cryptostaunch.com/wp-content/uploads/metamask-etherscan4134526.png?resize=79%2C60&amp;ssl=1 79w" sizes="(max-width: 383px) 100vw, 383px" /></p>
+<p><b>Step #2.</b> Goto &#8216;<b>Tokens</b>&#8216; tab immediately you login</p>
+<p><b>Step #3.</b> Click on &#8216;<b>Add Token</b>&#8216; button as shown in the image below</p>
+<p><img class="aligncenter size-full wp-image-2572 lazy-load" title="Add token metamask " data-src="https://cryptostaunch.com/wp-content/uploads/metamask-add-token.gif" alt="Add token metamask " width="359" height="414"></p>
+<p><b>Step #4.</b> Fetch all the details required for the token you will like to add to your metamask crypto wallet.</p>
+<p><b>The details you will need to fetch are:</b></p>
+<p>A. Token Symbol<br />
+B. Token Decimals<br />
+C. Token Contract Address</p>
+<p><b>Step #5.</b> Find desired token with Etherscan</p>
+<p><img class="aligncenter size-full wp-image-2574 lazy-load" title="Etherscan" data-src="https://cryptostaunch.com/wp-content/uploads/metamask-token-list-1024x299465482454.png" alt="Etherscan" width="1024" height="299" srcset="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/metamask-token-list-1024x299465482454.png?resize=1024%2C299465482454&amp;ssl=1 1024w, https://i1.wp.com/cryptostaunch.com/wp-content/uploads/metamask-token-list-1024x299465482454.png?resize=205%2C60&amp;ssl=1 205w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Let&#8217;s say you want to add a token called NucleusVision, you will need to visit <a href="https://etherscan.io" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Etherscan.io</a> and find it in the token list.</p>
+<p><b>Step #6.</b> As soon as you see the token in the list just click on the name</p>
+<p><b>Step #7.</b>&nbsp;Now copy all the details (like; Contract address and Decimals) you need to add it to the wallet</p>
+<p><img class="aligncenter size-full wp-image-2577 lazy-load" title="Erc20 tokens" data-src="https://cryptostaunch.com/wp-content/uploads/token-contract-address-855655592.png" alt="ERC20 tokens " width="672" height="168" srcset="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/token-contract-address-855655592.png?w=672&amp;ssl=1 672w, https://i1.wp.com/cryptostaunch.com/wp-content/uploads/token-contract-address-855655592.png?resize=240%2C60&amp;ssl=1 240w" sizes="(max-width: 672px) 100vw, 672px" /></p>
+<p><b>See example of how the details you will copy will look like:</b></p>
+<p>• Token Symbol: Latest MetaMask can get this automatically<br />
+• Token Decimals: 18<br />
+• Token Contract Address:<code>0xBS7777EGW83HJS678SUA7...</code></p>
+<p><i><b>Note:</b> Token contact address is always shown as an alphanumeric long HEXADECIMAL code.</i></p>
+<p><b>Step #8.</b> Input those details you got from Etherscan at the appropriate space boxes in MetaMask wallet and &#8216;<b>Add</b>&#8216; it by click the button next to it.</p>
+<p>Once you successfully add the custom token to the wallet, you will be able to see the balance or amount of the token you have already. Use this process to always add any custom ERC20 token to your MetaMask wallet anytime.</p>
+<h2>How to send or transfer tokens out of metamask wallet</h2>
+<p>The new metamask beta version made this process simple.</p>
+<p>Before, you have to connect MetaMask to MyEtherWallet or any other open source Ethereum wallet. But now, with the new beta verion of metamask, you can directly send tokens without any other wallet getting involved.</p>
+<p><i><b>Note:</b> You will need a small amount of Ethereum to be in the wallet for the token transfer to work. ETH serves as the GAS fee.</i></p>
+<p>Firstly, you will need to download the latest version of MetaMask. As at the time of writing this post, it&#8217;s only the BETA version that can transfer or send out tokens.</p>
+<p>You need to open metamask wallet, click on your account and select &#8216;<b>Try Beta</b>&#8216;.</p>
+<p><img class="aligncenter size-full wp-image-2576 lazy-load" title="Custom tokens metamask wallet " data-src="https://cryptostaunch.com/wp-content/uploads/new-metamask-beta26430600.png" alt="Custom tokens metamask wallet " width="366" height="462" srcset="https://i1.wp.com/cryptostaunch.com/wp-content/uploads/new-metamask-beta26430600.png?w=366&amp;ssl=1 366w, https://i1.wp.com/cryptostaunch.com/wp-content/uploads/new-metamask-beta26430600.png?resize=48%2C60&amp;ssl=1 48w" sizes="(max-width: 366px) 100vw, 366px" /></p>
+<p>The moment you do this, you will see the instant changeon the user interface. It will look more sleek with more whiteapaces everywhere. By this time, the send feature to send or transfer custom tokens out will be activated already.</p>
+<p><img class="aligncenter size-full wp-image-2575 lazy-load" title="MetaMask tokens" data-src="https://cryptostaunch.com/wp-content/uploads/metamask-tokens726253671.png" alt="MetaMask tokens" width="395" height="599" srcset="https://i2.wp.com/cryptostaunch.com/wp-content/uploads/metamask-tokens726253671.png?w=395&amp;ssl=1 395w, https://i2.wp.com/cryptostaunch.com/wp-content/uploads/metamask-tokens726253671.png?resize=40%2C60&amp;ssl=1 40w" sizes="(max-width: 395px) 100vw, 395px" /></p>
+<p>Now click on the top left side menu hamburger so you will see all the tokens you have available for sending out. Select the tokens you wish to transfer to another wallet and hit the &#8216;<b>Send</b>&#8216; button, then you add the recipient wallet address you wish to send the airdrop coins.</p>
+<p><img class="aligncenter size-full wp-image-2578 lazy-load" title="Sending tokens from metamask" data-src="https://cryptostaunch.com/wp-content/uploads/metamask-sending-tokens.gif" alt="MetaMask tokens sending" width="394" height="494"></p>
+<p>Now, this is how you can send or transfer any token from metamask to an exchange or any wallet. I recommended using <a href="https://cryptostaunch.com/goto/ledger" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Ledger hardware wallet</a> to safely store your coins to avoid loosing it to theft or hackers.</p>
+<p><a href="https://cryptostaunch.com/goto/ledger" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer"><img class="aligncenter size-full wp-image-363 lazy-load" title="Ledger Nano S Wallet " data-src="https://cryptostaunch.com/wp-content/uploads/2_pack_ledger_nano_s_with_screen422906013.jpg" alt="Ledger Nano S Wallet " width="770" height="770"></a></p>
+<p>You can read my post on <a href="https://cryptostaunch.com/hardware-wallet.html" data-wpel-link="internal" target="_blank">the best cryptocurrency hardware wallets to safely store your coins</a>.</p>
+<h2>Final thoughts with custom tokens and MetaMask</h2>
+<p>MetaMask is a self-hosted cryptocurrency wallet for storing Ether and other Ethereum based tokens, so it&#8217;s necessary to master this particluar process to be able to add any custom ERC20 token safely. But i always recommend usage of <a href="https://cryptostaunch.com/ethereum-wallet.html" data-wpel-link="internal" target="_blank">hardware wallets</a> to store tokens.</p>
+<p>However, you will see that the process is very simple and doesn&#8217;t you to be a technical about the whole thing to have your desired tokens added to the ERC20 enabled wallet. By the way, i hope this helps you with the problem of not being able to add custom tokens to MetaMask etherscan wallet.</p>
+<p>If by any chance you don&#8217;t see a particular token in your MetaMask wallet, don&#8217;t start panicing yet. Just know that the token is not added by default, so you need this simple process to add it up like a PRO. I will suggest you bookmark this page for future reference whenever you face difficulties seeing custom tokens in your MetaMask wallet.</p>
+</div>
+<footer class="entry-meta">
+<nav id="nav-below" class="post-navigation">
+<span class="screen-reader-text">Post navigation</span>
+</nav>
+</footer>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7835654324050154" data-ad-slot="7204951623" data-ad-format="link" data-full-width-responsive="true"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<hr style="border-top: 0px solid; height: 1px; margin-left: 12% !important; margin-right: 12% !important; margin-bottom: -8px;" />
+</div>
+</article>
+</main>
+</div>
+</div>
+</div>
+<div class="site-footer footer-bar-active footer-bar-align-center">
+<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+<div class="inside-site-info grid-container grid-parent">
+<div class="footer-bar">
+<aside id="custom_html-12" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget">
+<div id="mc_embed_signup">
+<form action="https://doronize.us16.list-manage.com/subscribe/post?u=d4095cbeda4cf161a7873d6e7&amp;id=1fd01bacd0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<h2 style="color: #000000;">Let's get connected</h2>
+<div class="crunchify-follower">
+<div class="crunchify-social-share-sidebar"><a class="crunchify-social-icon-rss crunchify-social-icon" href="https://feeds.feedburner.com/doronize" target="_blank" rel="nofollow">
+<i class="fas fa-rss fa-2x"></i></a><a class="crunchify-social-icon-twitter crunchify-social-icon" href="https://twitter.com/doronize" target="_blank" rel="nofollow">
+<i class="fab fa-twitter fa-2x"></i></a><a class="crunchify-social-icon-pinterest crunchify-social-icon" href="https://www.pinterest.com/doronize" target="_blank" rel="nofollow">
+<i class="fab fa-pinterest-p fa-2x"></i></a>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="mc-field-group">
+<input type="email" placeholder="What's Your Email Address?" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d4095cbeda4cf161a7873d6e7_1fd01bacd0" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="GAIN INSTANT ACCESS" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+</div></aside><aside id="custom_html-6" class="widget_text widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><center style="color: black">All investments involve risk, and may result in a loss. Anything published on this site is for educational purposes only and DOES NOT constitute any kind of financial advice. Historical and expected returns, as well as future projections may not reflect actual future performance. <a href="/disclosure" target="_blank">Read disclaimer</a> to grab further information.</center>
+<a href="//www.dmca.com/Protection/Status.aspx?ID=c93f7c06-a1bb-4c3a-bfd6-e6d0f059b98c" title="DMCA.com Protection Status" class="dmca-badge" target="_blank" rel="nofollow"> <img src="https://images.dmca.com/Badges/dmca-badge-w100-5x1-10.png?ID=c93f7c06-a1bb-4c3a-bfd6-e6d0f059b98c" alt="DMCA.com Protection Status" /></a> <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js" async="async"> </script></div></aside> </div>
+<div class="copyright-bar">
+<div><strong><a href="/contribute">Write Post</a> | <a href="/archive">Sitemap</a> | <a href="/privacy-policy">Privacy Policy</a></strong>
+<br><em>&copy; <a href="https://cryptostaunch.com"><font color="black">The CryptoStaunch</font></a> 2019 | Built with <i class="fab fa-bitcoin" style="color: #ff5500;font-size: 12px"></i> by <a href="https://cryptostaunch.com/about"><font color="black">Mr. Kings</font></a></em></br></div> </div>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+function parseJSAtOnload() {
+var links = ["2Zuny_J3EJPWa_q7BJPpEj7rp6A.js", "jquery.js", "jquery-migrate.min.js", "DMCABadgeHelper.min.js", "gtm.js", "all.css"],
+headElement = document.getElementsByTagName("head")[0],
+linkElement, i;
+for (i = 0; i < links.length; i++) {
+linkElement = document.createElement("script");
+linkElement.src = links[i];
+headElement.appendChild(linkElement);
+}
+}
+if (window.addEventListener)
+window.addEventListener("load", parseJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", parseJSAtOnload);
+else window.onload = parseJSAtOnload;
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS2B2T3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<link href="//use.fontawesome.com/releases/v5.0.9/css/all.css" rel="stylesheet" crossorigin="anonymous"><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0.1/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var smooth = {"elements":[".smooth-scroll","li.smooth-scroll a"],"duration":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cryptostaunch.com/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js'></script>
+<script type='text/javascript' src='https://cryptostaunch.compath-to-intersection-observer.js'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/npm/lozad@1.3.0/dist/lozad.min.js'></script>
+<script type='text/javascript'>
+
+		lozad(".lazy-load", { 
+		rootMargin: "300px 0px"
+		}).observe();
+	
+
+		var myElements = document.querySelectorAll("#main img");
+		lozad(myElements).observe();
+	
+</script>
+<!--[if lte IE 11]>
+<script type='text/javascript' src='https://cryptostaunch.com/wp-content/themes/generatepress/js/classList.min.js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://cryptostaunch.com/wp-content/themes/generatepress/js/menu.min.js'></script>
+<script type='text/javascript' src='https://cryptostaunch.com/wp-content/themes/generatepress/js/a11y.min.js'></script>
+<script type='text/javascript' src='https://cryptostaunch.com/wp-content/themes/generatepress/js/dropdown-click.min.js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0.1',blog:'129884582',post:'2568',tz:'1',srv:'cryptostaunch.com'} ]);
+	_stq.push([ 'clickTrackerInit', '129884582', '2568' ]);
+</script>
+</body>
+</html>

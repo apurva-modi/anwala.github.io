@@ -1,0 +1,25 @@
+2 weeks ago Crypto World News TodaysGazette 639 Print this Page
+6 total views, 6 views today
+Since Bitcoin came into being, the project’s cardinal rules, block sizes, supply limits, among other pertinent values, have been kept static. Many have claimed that these values are what make BTC valuable, and give it long-term staying power.
+Yet, some have begged to differ, leading to the creation of Bitcoin Cash, and subsequently, SV and ABC. While these moves have been centered around increasing block sizes to bolster transactional throughput, little attention has been given to the shrinking of the same value. But this changed recently.
+Bitcoin Block Size Decrease Proposed
+Luke Dashj, a long-time and leading developer of the Bitcoin Core client, recently took to Twitter to surprisingly remark that he is currently looking into reducing Bitcoin’s block sizes temporarily. Casting controversy aside, Luke remarked that it would be possible to reduce block sizes to 300Kb to 1Mb through a “very simple softfork,” potentially to improve network security and the number of nodes.
+Another example: This patch would enforce a very simple softfork, reducing #Bitcoin block sizes to ~300k between Aug 1 and Dec 31. It demonstrates how one can make a truly TEMPORARY softfork. https://t.co/sukdk2zJpR
+(DO NOT RUN THIS IN PRODUCTION EVEN IF YOU SUPPORT A UASF)
+— Luke Dashjr (@LukeDashjr) February 7, 2019
+If such a move was pushed to production, it would cut hundreds of transactions out of each and every block, as the average Bitcoin block size currently sits at above 1.2 Mb, due to the SegWit protocol.
+Yet, Luke explained to BitcoinMagazine that such a move could be deemed logical, as more nodes decrease the chance of censorship through centralization, while also increasing fees to bolster chain security. He explained that if a bad actor(s) was to attack Bitcoin, they would be able to split the network in two, with full node users and light wallet users on each side. In Luke’s eyes, this potential dichotomy could spell disaster for the network.
+While the premise is there, some believe that this is a foolish idea.
+Crypto Community Responds In Force
+While the premise is there, some believe that this is a foolish idea.
+Mike Relentless, an advocate for ‘big blocks’ Bitcoin SV , quickly took to his Twitter soapbox to bash the idea of curbing block sizes drastically. In a comment that has become a topic of controversy, Mike noted that he’s “flabbergasted” by the “core devs'” audacity, adding that if block sizes dropped to 300 Kb, Lightning Network adoption would be killed, and few consumers could get a foothold in the ecosystem.
+I'm shocked the core devs want to reduce the block size from 1MB to only 300KB.
+I'm flabbergasted!
+Do they not understand along with killing mainnet adoption they're also killing LN adoption???
+How the fuck are you going to onboard billions of people if you shrink??? #Bitcoin
+— Mike Relentless [SV] (@mikerelentless) February 13, 2019
+CobraBitcoin, the co-owner of the Bitcoin.org domain, remarked that this is “madness,” explaining that the crypto doesn’t need more forks in a year as important as 2019, as analysts expect the following months to be rife with adoption. He added that such a move would cause unnecessary drama, damaging the public reputation of this crypto asset.
+Stop this madness! Last thing Bitcoin needs is yet more contentious forks in this key year for adoption! A soft fork to "reduce the block size" is a hard fork in all but name. This will split off from the established consensus, cause massive drama, and damage trust in Bitcoin. https://t.co/54tzz4UIli
+— Cøbra (@CobraBitcoin) February 11, 2019
+The post Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes appeared first on Today's Gazette - Cryptocurrency, Bitcoin, Ripple, Tron, Verge, Cardano News .
+- - - - -

@@ -1,0 +1,1538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/favicon.ico">
+<title>DogeCoin Private Exchanges | CoinGecko</title>
+<meta name="description" content="Get DogeCoin Private (DOGP) volumes and prices by exchange.
+" />
+
+<meta property="og:title" content="DogeCoin Private Exchanges | CoinGecko">
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Get DogeCoin Private (DOGP) volumes and prices by exchange.
+">
+<meta property="og:image" content="https://assets.coingecko.com/coins/images/7670/large/DogeCoin-Private-logo.png?1549240189">
+<meta property="og:url" content="https://www.coingecko.com/en/coins/dogecoin-private/trading_exchanges">
+<meta property="og:site_name" content="CoinGecko">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@coingecko">
+<meta name="twitter:creator" content="@coingecko">
+<meta name="twitter:title" content="DogeCoin Private Exchanges | CoinGecko">
+<meta name="twitter:description" content="Get DogeCoin Private (DOGP) volumes and prices by exchange.
+">
+<meta name="twitter:image" content="https://assets.coingecko.com/coins/images/7670/large/DogeCoin-Private-logo.png?1549240189">
+<link rel="alternate" hreflang="en" href="https://www.coingecko.com/en/coins/dogecoin-private/trading_exchanges" />
+<link rel="alternate" hreflang="zh" href="https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/dogecoin-private/%E5%85%91%E6%8D%A2%E5%B9%B3%E5%8F%B0" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.coingecko.com/zh-tw/%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3/dogecoin-private/%E5%85%8C%E6%8F%9B%E5%B9%B3%E5%8F%B0" />
+<link rel="alternate" hreflang="de" href="https://www.coingecko.com/de/munze/dogecoin-private/handelsplatz" />
+<link rel="alternate" hreflang="fr" href="https://www.coingecko.com/fr/pi%C3%A8ces/dogecoin-private/%C3%A9change_investissement" />
+<link rel="alternate" hreflang="es" href="https://www.coingecko.com/es/monedas/dogecoin-private/intercambios_comerciales" />
+<link rel="alternate" hreflang="ja" href="https://www.coingecko.com/ja/%E3%82%B3%E3%82%A4%E3%83%B3/dogecoin-private/%E5%8F%96%E5%BC%95%E6%89%80" />
+<link rel="alternate" hreflang="id" href="https://www.coingecko.com/id/koin_koin/dogecoin-private/pertukaran_perdagangan" />
+<link rel="alternate" hreflang="ru" href="https://www.coingecko.com/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/dogecoin-private/%D0%91%D0%B8%D1%80%D0%B6%D0%B8" />
+<link rel="alternate" hreflang="ko" href="https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/dogecoin-private/%EA%B1%B0%EB%9E%98%EC%86%8C" />
+<link rel="alternate" hreflang="ar" href="https://www.coingecko.com/ar/%D8%B9%D9%85%D9%84%D8%A7%D8%AA/dogecoin-private/%D8%A8%D9%88%D8%B1%D8%B5%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9" />
+<link rel="alternate" hreflang="th" href="https://www.coingecko.com/th/coin/dogecoin-private/%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94_%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99" />
+<link rel="alternate" hreflang="vi" href="https://www.coingecko.com/vi/%C4%91%E1%BB%93ng_xu/dogecoin-private/t%E1%BB%89_gi%C3%A1_giao_d%E1%BB%8Bch" />
+<link rel="alternate" hreflang="it" href="https://www.coingecko.com/it/monete/dogecoin-private/siti_di_scambi" />
+<link rel="alternate" hreflang="pt" href="https://www.coingecko.com/pt/moedas/dogecoin-private/trocas_comerciais" />
+<link rel="alternate" hreflang="pl" href="https://www.coingecko.com/pl/waluty/dogecoin-private/gie%C5%82dy" />
+<link rel="alternate" hreflang="tr" href="https://www.coingecko.com/tr/coin&#39;ler/dogecoin-private/i%C5%9Flem_borsalar%C4%B1" />
+<link rel="alternate" hreflang="hu" href="https://www.coingecko.com/hu/coins/dogecoin-private/trading_exchanges" />
+<link rel="alternate" hreflang="nl" href="https://www.coingecko.com/nl/coins/dogecoin-private/trading_exchanges" />
+<link rel="alternate" hreflang="ro" href="https://www.coingecko.com/ro/coins/dogecoin-private/trading_exchanges" />
+<link rel="alternate" hreflang="sv" href="https://www.coingecko.com/sv/coins/dogecoin-private/trading_exchanges" />
+<link rel="alternate" hreflang="x-default" href="https://www.coingecko.com/en/coins/dogecoin-private/trading_exchanges" />
+<link rel="stylesheet" media="all" href="https://static.coingecko.com/s/application-2db6faf1f0b89d9bf6e5126073390cb3d35dffface6a40b52db65e6fe20ac303.css" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-LRlmVvLKVApDVGuspQFnRQJjkv0P7/YFrw84YYQtmYG4nK8c+M+NlmYDCv0rKWpG" crossorigin="anonymous">
+
+<link rel="preload" href="//static.coingecko.com/s/packs/application-eb6a86449f0f499cf31c.js" as="script">
+<link rel="preload" href="//cdn-s2s.buysellads.net/pub/coingecko.js" as="script">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+<meta name="apple-itunes-app" content="app-id=1390323960">
+<meta name="action-cable-url" content="wss://cable.coingecko.com/cable" />
+<script type="text/javascript">
+    (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+    ;r.type="text/javascript";r.async=true
+    ;r.src="https://cdn.amplitude.com/libs/amplitude-4.4.0-min.gz.js"
+    ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+    e.amplitude.runQueuedFunctions()}else{
+    console.log("[Amplitude] Error: could not load SDK")}}
+    ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+    ;function s(e,t){e.prototype[t]=function(){
+    this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+    var o=function(){this._q=[];return this}
+    ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+    ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+    ;return this}
+    ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+    ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+    ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+    ;function v(e){function t(t){e[t]=function(){
+    e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+    for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+    e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+    ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+    ;e.amplitude=n})(window,document);
+
+    amplitude.getInstance().init("7afbf6cadd234c014f86a9c33c3f0a3f");
+  </script>
+</head>
+<script src="//instant.page/1.0.0" type="module" integrity="sha384-6w2SekMzCkuMQ9sEbq0cLviD/yR2HfA/+ekmKiBnFlsoSvb/VmQFSi/umVShadQI"></script>
+<body data-locale="en" data-controller="csrf-meta currency price percent-change portfolios" data-currency-symbols="{&quot;btc&quot;:&quot;BTC&quot;,&quot;eth&quot;:&quot;ETH&quot;,&quot;ltc&quot;:&quot;LTC&quot;,&quot;bch&quot;:&quot;BCH&quot;,&quot;bnb&quot;:&quot;BNB&quot;,&quot;eos&quot;:&quot;EOS&quot;,&quot;xrp&quot;:&quot;XRP&quot;,&quot;xlm&quot;:&quot;XLM&quot;,&quot;usd&quot;:&quot;$&quot;,&quot;aed&quot;:&quot;DH&quot;,&quot;ars&quot;:&quot;$&quot;,&quot;aud&quot;:&quot;A$&quot;,&quot;bdt&quot;:&quot;৳&quot;,&quot;bhd&quot;:&quot;BD&quot;,&quot;bmd&quot;:&quot;$&quot;,&quot;brl&quot;:&quot;R$&quot;,&quot;cad&quot;:&quot;CA$&quot;,&quot;chf&quot;:&quot;Fr.&quot;,&quot;clp&quot;:&quot;CLP$&quot;,&quot;cny&quot;:&quot;¥&quot;,&quot;czk&quot;:&quot;Kč&quot;,&quot;dkk&quot;:&quot;kr.&quot;,&quot;eur&quot;:&quot;€&quot;,&quot;gbp&quot;:&quot;£&quot;,&quot;hkd&quot;:&quot;HK$&quot;,&quot;huf&quot;:&quot;Ft&quot;,&quot;idr&quot;:&quot;Rp&quot;,&quot;ils&quot;:&quot;₪&quot;,&quot;inr&quot;:&quot;₹&quot;,&quot;jpy&quot;:&quot;¥&quot;,&quot;krw&quot;:&quot;₩&quot;,&quot;kwd&quot;:&quot;KD&quot;,&quot;lkr&quot;:&quot;Rs&quot;,&quot;mmk&quot;:&quot;K&quot;,&quot;mxn&quot;:&quot;MX$&quot;,&quot;myr&quot;:&quot;RM&quot;,&quot;nok&quot;:&quot;kr&quot;,&quot;nzd&quot;:&quot;NZ$&quot;,&quot;php&quot;:&quot;₱&quot;,&quot;pkr&quot;:&quot;₨&quot;,&quot;pln&quot;:&quot;zł&quot;,&quot;rub&quot;:&quot;₽&quot;,&quot;sar&quot;:&quot;SR&quot;,&quot;sek&quot;:&quot;kr&quot;,&quot;sgd&quot;:&quot;S$&quot;,&quot;thb&quot;:&quot;฿&quot;,&quot;try&quot;:&quot;₺&quot;,&quot;twd&quot;:&quot;NT$&quot;,&quot;vef&quot;:&quot;Bs.F&quot;,&quot;vnd&quot;:&quot;₫&quot;,&quot;zar&quot;:&quot;R&quot;,&quot;xdr&quot;:&quot;XDR&quot;,&quot;xag&quot;:&quot;XAG&quot;,&quot;xau&quot;:&quot;XAU&quot;}" data-currency-override="" data-exchange-rate-json="{&quot;usd&quot;:&quot;3807.507&quot;,&quot;gbp&quot;:&quot;2882.663&quot;,&quot;eur&quot;:&quot;3346.513&quot;,&quot;cny&quot;:&quot;25535.047&quot;,&quot;jpy&quot;:&quot;426114.919&quot;,&quot;cad&quot;:&quot;5062.503&quot;,&quot;rub&quot;:&quot;251021.337&quot;,&quot;hkd&quot;:&quot;29884.553&quot;,&quot;sek&quot;:&quot;35297.115&quot;,&quot;sgd&quot;:&quot;5159.922&quot;,&quot;krw&quot;:&quot;4292912.041&quot;,&quot;aud&quot;:&quot;5378.103&quot;,&quot;zar&quot;:&quot;54177.02&quot;,&quot;inr&quot;:&quot;270333.014&quot;,&quot;myr&quot;:&quot;15511.727&quot;,&quot;idr&quot;:&quot;53694931.701&quot;,&quot;brl&quot;:&quot;14380.383&quot;,&quot;nzd&quot;:&quot;5601.749&quot;,&quot;mxn&quot;:&quot;73360.003&quot;,&quot;php&quot;:&quot;197537.283&quot;,&quot;dkk&quot;:&quot;24997.046&quot;,&quot;pln&quot;:&quot;14421.504&quot;,&quot;xau&quot;:&quot;2.94320309694472&quot;,&quot;xag&quot;:&quot;250.320984473117&quot;,&quot;twd&quot;:&quot;117457.79&quot;,&quot;xdr&quot;:&quot;2724.819&quot;,&quot;chf&quot;:&quot;3803.471&quot;,&quot;eth&quot;:&quot;28.9315494259991&quot;,&quot;aed&quot;:&quot;13984.974&quot;,&quot;ars&quot;:&quot;151633.975&quot;,&quot;kwd&quot;:&quot;1156.621&quot;,&quot;lkr&quot;:&quot;684399.426&quot;,&quot;sar&quot;:&quot;14280.817&quot;,&quot;try&quot;:&quot;20461.924&quot;,&quot;thb&quot;:&quot;121017.81&quot;,&quot;pkr&quot;:&quot;527815.691&quot;,&quot;nok&quot;:&quot;32679.453&quot;,&quot;ils&quot;:&quot;13823.155&quot;,&quot;huf&quot;:&quot;1058601.238&quot;,&quot;czk&quot;:&quot;85858.526&quot;,&quot;clp&quot;:&quot;2512128.511&quot;,&quot;bdt&quot;:&quot;319316.594&quot;,&quot;bhd&quot;:&quot;1435.285&quot;,&quot;bmd&quot;:&quot;3807.507&quot;,&quot;mmk&quot;:&quot;5760377.578&quot;,&quot;vef&quot;:&quot;946118497.019&quot;,&quot;bch&quot;:&quot;29.2529009537211&quot;,&quot;ltc&quot;:&quot;79.5341718255186&quot;,&quot;eos&quot;:&quot;1081.09296305863&quot;,&quot;bnb&quot;:&quot;333.881304584393&quot;,&quot;xlm&quot;:&quot;43815.1453372521&quot;,&quot;xrp&quot;:&quot;12242.8346190331&quot;,&quot;vnd&quot;:&quot;88398391.345&quot;}">
+<div style="background: #373737" data-controller="top-banner" ">
+<div id="top-banner" class="justify-content-center align-items-center" style="display: flex; height: 100px;" data-target="top-banner.topBannerContainer">
+<div id="bsa-zone_1517002296003-0_123456"></div>
+<div id="top-ico-banner-close" data-action="click->top-banner#closeBanner" style='color: #ffffff; padding: 5px 10px; position: absolute; top: 5px; right: 5px;cursor: pointer; font-size: 18px;'><i class="far fa-times-circle"></i></div>
+</div>
+</div>
+</div>
+<script>
+    // Prioritize night mode
+    var isDarkMode = document.cookie.split(';').filter(function(item) { return item.indexOf('is_dark=true') >= 0 }).length
+    if (isDarkMode) {
+      document.body.classList.add('darktheme');
+    } else {
+      document.body.classList.remove('darktheme');
+    }
+
+    // Prioritize top-banner show/hide
+    var isTopBannerDisabled = document.cookie.split(';').filter(function(item) { return item.indexOf('top_banner_disabled=1') >= 0 }).length
+    if (isTopBannerDisabled) {
+      document.getElementById("top-banner").style.display = "none";
+    }
+
+    // loadScript util method
+    function loadScript(src, onload) {
+      var js = document.createElement("script");
+      js.src = src;
+      js.onload = onload;
+      js.onerror = function() {
+        console.error("Failed to load script:", src);
+      };
+      document.head.appendChild(js);
+    }
+  </script>
+<div id="wrapper">
+<div class="header dashboard" data-controller="header">
+<div class="top-header">
+<div class="container d-flex justify-content-between align-items-center">
+<div class="text-white text-2xs text-lg-xs">
+Ethereum Constantinople Hard Fork upgrade has been completed - <img height="17px" width="17px" src="https://static.coingecko.com/s/ethereum-grey-154de512147a73eba3d6d0b75bf357b2935418edc01ac41d1eacb9bfbc54457b.png" /> <a target="_blank" href="/en/explain/ethereum_constantinople_hard_fork">Read More</a>
+</div>
+<div class="d-flex align-items-center">
+<ul class="menu-top-header-menu d-none d-lg-block">
+<span class="logged-in-navigation" style="display: none;" data-target="csrf-meta.loggedInNavi">
+<li class='nav-item'><a class="nav-link" href="/en/dashboard">Dashboard</a></li>
+<li class="account nav-item user-navigation desktop">
+<a href="#" class="dropdown nav-link" data-toggle="dropdown" data-flip="false">
+<span class="user-name" data-target="csrf-meta.userName">
+</span>
+<span class="fas fa-caret-down ml-1"></span>
+</a>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a class="nav-link" href="/en/alerts">View My Alerts</a></li>
+<li><a class="nav-link" href="/account/edit?locale=en">Account Settings</a></li>
+<li data-target="csrf-meta.beam"><a class="nav-link" href="/en/project_roles">Beam (beta)</a></li>
+<li><a class="nav-link" rel="nofollow" data-method="delete" href="/account/sign_out?locale=en">Sign Out</a></li>
+</ul>
+</li>
+<span class='user-navigation mobile'>
+<li class='nav-item'><a class="nav-link" href="/en/alerts">View My Alerts</a></li>
+<li class='nav-item'><a class="nav-link" href="/account/edit?locale=en">Account Settings</a></li>
+<li data-target="csrf-meta.beam"><a class="nav-link" href="/en/project_roles">Beam (beta)</a></li>
+<li class='nav-item'><a class="nav-link" rel="nofollow" data-method="delete" href="/account/sign_out?locale=en">Sign Out</a></li>
+</span>
+</span>
+<span class="not-logged-in-navigation" style="display: none;" data-target="csrf-meta.loggedOutNavi">
+<li class='nav-item'><a class="nav-link" href="/account/sign_in?locale=en">Sign In</a></li>
+<li class='nav-item'><a class="nav-link" href="/account/sign_up?locale=en">Sign Up</a></li>
+</span>
+<li class="language">
+<a href="#" class="nav-link px-0" data-toggle="dropdown" data-flip="false">
+<span class="fal fa-globe mx-2 text-2xs"></span>English<span class="fas fa-caret-down mx-2"></span>
+</a>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a class="nav-link" href="/en/coins/dogecoin-private/trading_exchanges">English</a></li>
+<li><a class="nav-link" href="/es/monedas/dogecoin-private/intercambios_comerciales">Español</a></li>
+<li><a class="nav-link" href="/de/munze/dogecoin-private/handelsplatz">Deutsch</a></li>
+<li><a class="nav-link" href="/nl/coins/dogecoin-private/trading_exchanges">Nederlands</a></li>
+<li><a class="nav-link" href="/pt/moedas/dogecoin-private/trocas_comerciais">Português</a></li>
+<li><a class="nav-link" href="/fr/pi%C3%A8ces/dogecoin-private/%C3%A9change_investissement">Français</a></li>
+<li><a class="nav-link" href="/it/monete/dogecoin-private/siti_di_scambi">Italiano</a></li>
+<li><a class="nav-link" href="/hu/coins/dogecoin-private/trading_exchanges">Magyar nyelv</a></li>
+<li><a class="nav-link" href="/ro/coins/dogecoin-private/trading_exchanges">Limba română</a></li>
+<li><a class="nav-link" href="/sv/coins/dogecoin-private/trading_exchanges">Svenska</a></li>
+<li><a class="nav-link" href="/pl/waluty/dogecoin-private/gie%C5%82dy">język polski</a></li>
+<li><a class="nav-link" href="/id/koin_koin/dogecoin-private/pertukaran_perdagangan">Bahasa Indonesia</a></li>
+<li><a class="nav-link" href="/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/dogecoin-private/%E5%85%91%E6%8D%A2%E5%B9%B3%E5%8F%B0">简体中文</a></li>
+<li><a class="nav-link" href="/zh-tw/%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3/dogecoin-private/%E5%85%8C%E6%8F%9B%E5%B9%B3%E5%8F%B0">繁體中文</a></li>
+<li><a class="nav-link" href="/ja/%E3%82%B3%E3%82%A4%E3%83%B3/dogecoin-private/%E5%8F%96%E5%BC%95%E6%89%80">日本語</a></li>
+<li><a class="nav-link" href="/ko/%EC%BD%94%EC%9D%B8/dogecoin-private/%EA%B1%B0%EB%9E%98%EC%86%8C">한국어</a></li>
+<li><a class="nav-link" href="/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/dogecoin-private/%D0%91%D0%B8%D1%80%D0%B6%D0%B8">ру́сский</a></li>
+<li><a class="nav-link" href="/ar/%D8%B9%D9%85%D9%84%D8%A7%D8%AA/dogecoin-private/%D8%A8%D9%88%D8%B1%D8%B5%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9">العربية</a></li>
+<li><a class="nav-link" href="/th/coin/dogecoin-private/%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94_%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99">ภาษาไทย</a></li>
+<li><a class="nav-link" href="/vi/%C4%91%E1%BB%93ng_xu/dogecoin-private/t%E1%BB%89_gi%C3%A1_giao_d%E1%BB%8Bch">Tiếng việt</a></li>
+<li><a class="nav-link" href="/tr/coin&#39;ler/dogecoin-private/i%C5%9Flem_borsalar%C4%B1">Türkçe</a></li>
+</ul>
+</li>
+</ul>
+<div class="ml-2 center">
+<div data-controller="dark" class="btn-group" role="group">
+<i class="bulb fas fa-lightbulb" data-action="click->dark#toggle"></i>
+</div>
+</div>
+<div class="ml-2 d-lg-flex flex-column darkhide d-none">
+<div class="color-box" style="background-color: white;" data-target="header.colorBox" data-action="click->header#selectBox" data-color="white"></div>
+<div class="color-box" style="background-color: yellow;" data-target="header.colorBox" data-action="click->header#selectBox" data-color="#fef7e9"></div>
+<div class="color-box" style="background-color: lightgreen;" data-target="header.colorBox" data-action="click->header#selectBox" data-color="#eef7e4"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-header container d-flex justify-content-between align-items-center">
+<div class="d-flex justify-content-between w-100 h-100">
+<div class="d-flex justify-content-between justify-content-lg-start w-100">
+<div class="main-logo center">
+<a class="center" href="/en">
+<img alt="CoinGecko Logo" width="150px" height="47px" class="darkhide" src="https://static.coingecko.com/s/coingecko-logo-914bb72fab0df2d908e6123221470802f1bfac637b0f90399a3341c753f6bc52.png" />
+<img alt="CoinGecko Logo (White)" width="150px" height="47px" class="darkshow" src="https://static.coingecko.com/s/coingecko-logo-white-0f3ee490450b8f9d2eb4ca4b1d669dfbadd0c8678d501bcdc67adda081d06663.png" />
+</a> </div>
+<ul class="nav coingecko ml-5 d-none d-lg-flex">
+<li class="nav-item">
+<a class="h-100 w-100 center" href="/en">Coins</a>
+</li>
+<li class="nav-item center">
+<a class="h-100 w-100 center" href="/en/ico">
+ICO
+</a> </li>
+<li class="nav-item center">
+<a class="h-100 w-100 center" href="/en/exchanges">
+Exchanges
+</a> </li>
+<li class="nav-item center">
+<a class="h-100 w-100 center" href="/en/beam">
+<span class="translation_missing" title="translation missing: en.layouts.navigation.desktop.beam">Beam</span>
+</a> </li>
+<li class="nav-item center">
+<a class="h-100 w-100 center" href="/en/videos">Videos</a>
+</li>
+<li class="nav-item dropdown">
+<a class="h-100 w-100 center" href="#" data-toggle="dropdown" data-flip="false">Trending</a>
+<ul class="dropdown-menu ">
+<li class="p-0"><a class="text-body" href="/en/coins/trending"><span class="translation_missing" title="translation missing: en.layouts.navigation.desktop.large_movers">Large Movers</span></a></li>
+<li class="p-0"><a class="text-body" href="/en/coins/high_volume"><span class="translation_missing" title="translation missing: en.layouts.navigation.desktop.high_volume">High Volume</span></a></li>
+<li class="p-0"><a class="text-body" href="/en/coins/recently_added"><span class="translation_missing" title="translation missing: en.layouts.navigation.desktop.recently_added">Recently Added</span></a></li>
+</ul>
+</li>
+<li class="nav-item">
+<a class="h-100 w-100 center" href="#" data-toggle="dropdown" data-flip="false"><i class="far fa-ellipsis-h"></i> <span class="fas fa-caret-down ml-1"></span></a>
+<ul class="dropdown-menu ">
+<li class="p-0"><a class="text-body" href="/en/events">Events</a></li>
+<li class="p-0"><a class="text-body" href="/en/coins/compare">Compare</a></li>
+<li class="p-0"><a class="text-body" href="/en/coins/ath">All-Time High</a></li>
+<li class="p-0"><a class="text-body" href="/buzz?locale=en">Buzz</a></li>
+<li class="p-0"><a class="text-body" href="/en/crypto_index">Crypto Index</a></li>
+<li class="section-border"></li>
+<li class="p-0"><a class="text-body" href="/api?locale=en">API</a></li>
+<li class="p-0"><a class="text-body" href="http://reports.coingecko.com/all-reports">Reports</a></li>
+<li class="p-0"><a class="text-body" href="/en/widgets">Widgets</a></li>
+<li class="p-0"><a class="text-body" href="http://newsletter.coingecko.com/landing/subscribe">Newsletter</a></li>
+</ul>
+</li>
+<li class="nav-item">
+<a class="h-100 w-100 center text-primary" target="_blank" href="https://facebook.com/coingecko">
+<i class="fab fa-facebook"></i>
+</a> </li>
+<li class="nav-item">
+<a class="h-100 w-100 center text-primary" target="_blank" href="https://t.me/coingeckoofficial">
+<i class="fab fa-telegram"></i>
+</a> </li>
+<li class="nav-item">
+<a class="h-100 w-100 center text-primary" target="_blank" href="https://discord.gg/EhrkaCH">
+<i class="fab fa-discord"></i>
+</a> </li>
+<li class="nav-item">
+<a class="h-100 w-100 center text-primary" target="_blank" href="https://twitter.com/coingecko">
+<i class="fab fa-twitter"></i>
+</a> </li>
+</ul>
+<div class="d-flex d-lg-none align-items-center">
+<a class="mr-3 text-primary text-lg" target="_blank" href="https://t.me/coingeckoofficial"><i class="fab fa-telegram"></i></a>
+<a class="mr-3 text-primary text-lg" target="_blank" href="https://discord.gg/EhrkaCH">
+<i class="fab fa-discord"></i>
+</a> <a class="mr-3 text-primary text-lg" data-toggle="collapse" data-target="#language-mobile" href="#"><i type="light" class="fal fa-globe"></i></a>
+<a class="text-body text-2xl" data-toggle="collapse" data-target="#nav-mobile" href="#"><i class="far fa-bars"></i></a>
+</div>
+</div>
+<div class="w-64 d-none d-lg-block">
+<div data-controller="search" class="d-flex flex-column justify-content-center h-100 search-container">
+<form data-target="search.form" action="/en/search_redirect" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="id" id="id" value="" data-target="search.id" />
+<input type="hidden" name="type" id="type" value="" data-target="search.type" />
+</form>
+<div class="relative my-2" data-action="keydown->search#onKeydown mousedown->search#onMousedown mouseup->search#onMouseup">
+<input type="search" class="form-control px-2" data-action="input->search#onInputChanged
+        blur->search#onBlur
+        focus->search#onFocus" data-target="search.input header.searchInput" placeholder="Search" />
+<div data-target="header.searchOverlay" class="search-overlay absolute" style="top: 0; bottom: 0; right: 0; left: 0;">
+<div class="absolute mt-1 font-bold text-normal text-body" style="top: 0; left: 0">Search</div>
+<div class="absolute mt-1 font-bold text-body" style="top: 0; right: 0"><i class="far fa-search"></i></div>
+</div>
+<div class="search-progress-container" data-target="search.progress">
+<div class="search-progress-bar"></div>
+</div>
+<div class="search-results" style="display:none;" data-target="search.results" data-action="mouseover->search#onMouseover click->search#onItemClick">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="relative" id="mobile-nav">
+<div class="main-menu mobile">
+<nav id="nav-mobile" class="collapse">
+<ul class="list-reset mx-3">
+<li>
+<a class="nav-link" href="/en">Coins</a>
+</li>
+<li>
+<a class="nav-link" href="/en/ico">
+ICO
+</a> </li>
+<li>
+<a class="nav-link" href="/en/exchanges">
+Exchanges
+</a> </li>
+<li>
+<a class="nav-link" href="/en/beam">
+<span class="translation_missing" title="translation missing: en.layouts.navigation.mobile.beam">Beam</span>
+</a> </li>
+<li>
+<a class="nav-link" href="/en/coins/trending">
+Trending
+</a> </li>
+<li>
+<a class="nav-link" href="/en/videos">
+Videos
+</a> </li>
+<li>
+<a class="nav-link" href="/en/events">
+Events
+</a> <li>
+<a class="nav-link" href="/en/coins/compare">
+Compare
+</a> </li>
+<li>
+<a class="nav-link" href="/en/coins/ath">
+All-Time High
+</a> </li>
+<li>
+<a class="nav-link" href="/buzz?locale=en">
+Buzz
+</a> </li>
+<li>
+<a class="nav-link" href="/en/crypto_index">
+Crypto Index
+</a> </li>
+<li class="section-border"></li>
+<li>
+<a class="nav-link" href="/api?locale=en">
+API
+</a> </li>
+<li>
+<a class="nav-link" href="http://reports.coingecko.com/all-reports">
+Reports
+</a> </li>
+<li>
+<a class="nav-link" href="/en/widgets">Widgets</a>
+</li>
+<li>
+<a class="nav-link" href="http://newsletter.coingecko.com/landing/subscribe">Newsletter</a>
+</li>
+<li class="section-border"></li>
+<span class="logged-in-navigation" style="display: none;" data-target="csrf-meta.loggedInNavi">
+<li class='nav-item'><a class="nav-link" href="/en/dashboard">Dashboard</a></li>
+<li class="account nav-item user-navigation desktop">
+<a href="#" class="dropdown nav-link" data-toggle="dropdown" data-flip="false">
+<span class="user-name" data-target="csrf-meta.userName">
+</span>
+<span class="fas fa-caret-down ml-1"></span>
+</a>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a class="nav-link" href="/en/alerts">View My Alerts</a></li>
+<li><a class="nav-link" href="/account/edit?locale=en">Account Settings</a></li>
+<li data-target="csrf-meta.beam"><a class="nav-link" href="/en/project_roles">Beam (beta)</a></li>
+<li><a class="nav-link" rel="nofollow" data-method="delete" href="/account/sign_out?locale=en">Sign Out</a></li>
+</ul>
+</li>
+<span class='user-navigation mobile'>
+<li class='nav-item'><a class="nav-link" href="/en/alerts">View My Alerts</a></li>
+<li class='nav-item'><a class="nav-link" href="/account/edit?locale=en">Account Settings</a></li>
+<li data-target="csrf-meta.beam"><a class="nav-link" href="/en/project_roles">Beam (beta)</a></li>
+<li class='nav-item'><a class="nav-link" rel="nofollow" data-method="delete" href="/account/sign_out?locale=en">Sign Out</a></li>
+</span>
+</span>
+<span class="not-logged-in-navigation" style="display: none;" data-target="csrf-meta.loggedOutNavi">
+<li class='nav-item'><a class="nav-link" href="/account/sign_in?locale=en">Sign In</a></li>
+<li class='nav-item'><a class="nav-link" href="/account/sign_up?locale=en">Sign Up</a></li>
+</span>
+</ul>
+</nav>
+</div>
+<div class="main-menu mobile">
+<ul class="collapse list-reset mx-3" id="language-mobile">
+<li><a class="nav-link" href="/en/coins/dogecoin-private/trading_exchanges">English</a></li>
+<li><a class="nav-link" href="/es/monedas/dogecoin-private/intercambios_comerciales">Español</a></li>
+<li><a class="nav-link" href="/de/munze/dogecoin-private/handelsplatz">Deutsch</a></li>
+<li><a class="nav-link" href="/nl/coins/dogecoin-private/trading_exchanges">Nederlands</a></li>
+<li><a class="nav-link" href="/pt/moedas/dogecoin-private/trocas_comerciais">Português</a></li>
+<li><a class="nav-link" href="/fr/pi%C3%A8ces/dogecoin-private/%C3%A9change_investissement">Français</a></li>
+<li><a class="nav-link" href="/it/monete/dogecoin-private/siti_di_scambi">Italiano</a></li>
+<li><a class="nav-link" href="/hu/coins/dogecoin-private/trading_exchanges">Magyar nyelv</a></li>
+<li><a class="nav-link" href="/ro/coins/dogecoin-private/trading_exchanges">Limba română</a></li>
+<li><a class="nav-link" href="/sv/coins/dogecoin-private/trading_exchanges">Svenska</a></li>
+<li><a class="nav-link" href="/pl/waluty/dogecoin-private/gie%C5%82dy">język polski</a></li>
+<li><a class="nav-link" href="/id/koin_koin/dogecoin-private/pertukaran_perdagangan">Bahasa Indonesia</a></li>
+<li><a class="nav-link" href="/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/dogecoin-private/%E5%85%91%E6%8D%A2%E5%B9%B3%E5%8F%B0">简体中文</a></li>
+<li><a class="nav-link" href="/zh-tw/%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3/dogecoin-private/%E5%85%8C%E6%8F%9B%E5%B9%B3%E5%8F%B0">繁體中文</a></li>
+<li><a class="nav-link" href="/ja/%E3%82%B3%E3%82%A4%E3%83%B3/dogecoin-private/%E5%8F%96%E5%BC%95%E6%89%80">日本語</a></li>
+<li><a class="nav-link" href="/ko/%EC%BD%94%EC%9D%B8/dogecoin-private/%EA%B1%B0%EB%9E%98%EC%86%8C">한국어</a></li>
+<li><a class="nav-link" href="/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/dogecoin-private/%D0%91%D0%B8%D1%80%D0%B6%D0%B8">ру́сский</a></li>
+<li><a class="nav-link" href="/ar/%D8%B9%D9%85%D9%84%D8%A7%D8%AA/dogecoin-private/%D8%A8%D9%88%D8%B1%D8%B5%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9">العربية</a></li>
+<li><a class="nav-link" href="/th/coin/dogecoin-private/%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94_%E0%B9%81%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99">ภาษาไทย</a></li>
+<li><a class="nav-link" href="/vi/%C4%91%E1%BB%93ng_xu/dogecoin-private/t%E1%BB%89_gi%C3%A1_giao_d%E1%BB%8Bch">Tiếng việt</a></li>
+<li><a class="nav-link" href="/tr/coin&#39;ler/dogecoin-private/i%C5%9Flem_borsalar%C4%B1">Türkçe</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bottom-header">
+<div class="container d-lg-none">
+<div data-controller="search" class="d-flex flex-column justify-content-center h-100 search-container">
+<form data-target="search.form" action="/en/search_redirect" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="id" id="id" value="" data-target="search.id" />
+<input type="hidden" name="type" id="type" value="" data-target="search.type" />
+</form>
+<div class="relative my-2" data-action="keydown->search#onKeydown mousedown->search#onMousedown mouseup->search#onMouseup">
+<input type="search" class="form-control px-2" data-action="input->search#onInputChanged
+        blur->search#onBlur
+        focus->search#onFocus" data-target="search.input header.searchInput" placeholder="Search" />
+<div data-target="header.searchOverlay" class="search-overlay absolute" style="top: 0; bottom: 0; right: 0; left: 0;">
+<div class="absolute mt-1 font-bold text-normal text-body" style="top: 0; left: 0">Search</div>
+<div class="absolute mt-1 font-bold text-body" style="top: 0; right: 0"><i class="far fa-search"></i></div>
+</div>
+<div class="search-progress-container" data-target="search.progress">
+<div class="search-progress-bar"></div>
+</div>
+<div class="search-results" style="display:none;" data-target="search.results" data-action="mouseover->search#onMouseover click->search#onItemClick">
+</div>
+</div>
+</div>
+</div>
+<div class="overall-stats-container text-2xs text-lg-xs border-0">
+<div class="container">
+<div class="d-flex justify-content-between">
+<div class="d-none d-sm-flex flex-column flex-lg-row justify-content-between">
+<div class="mr-2">Coins: <a class="" href="/en">4150</a></div>
+<div class="mr-2">Exchanges: <a class="" href="/en/exchanges">300</a></div>
+</div>
+<div class="d-flex flex-column flex-lg-row justify-content-between">
+<div class="mr-2">
+Market Cap:
+<a href="/en/global_charts">
+<span class="" data-target="price.price" data-price-btc="33823213.07358809">
+$128,782,128,676
+</span> <span class="mr-2">
+<span class="text-green"><span>0.37%</span><i class="far fa-level-up" data-icon-up-class="fa-level-up" data-icon-down-class="fa-level-down"></i></span>
+</span>
+</a> </div>
+<div class="">
+24h Vol:
+<a href="/en/global_charts">
+<span class="" data-target="price.price" data-price-btc="4479942.375734455">
+$17,057,413,033
+</span></a> </div>
+</div>
+<div class="d-flex flex-column flex-lg-row justify-content-between">
+<div class="mr-1 d-none d-lg-block"><span class="d-lg-inline">Dominance:</span></div>
+<div class="mr-1"><span class="d-lg-inline">BTC</span> <span class="font-weight-bold">51.9%</span></div>
+<div class="mr-1"><span class="d-lg-inline">ETH</span> <span class="font-weight-bold">10.7%</span></div>
+<div class="d-none d-lg-block"><span class="d-lg-inline">XRP</span> <span class="font-weight-bold">10.0%</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="filter-menu">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-5">
+<div class='breadcrumb'>
+<a href="/en">Coins</a> / DogeCoin Private (Exchanges)
+</div>
+</div>
+<div class="col-12 col-md-7">
+</div>
+</div>
+</div>
+</div>
+
+<div class="container coins">
+<div class='unobtrusive-flash-container mt-1'></div>
+<div class="row justify-content-center align-items-center my-2 ad-spacer">
+
+<div id="bsa-zone_1509402283990-0_123456">
+</div>
+</div>
+<div class="alert alert-success text-center d-none" role="alert" id="addAlertSuccessNotification">
+Price Alert Successfully Saved! Please allow notification to receive alerts
+</div>
+<div class="mt-3" data-controller="kyber">
+<div class="col-12 row p-0 m-0">
+<div class="col-md-9 col-lg-8 p-0">
+<div class="d-flex flex-column flex-md-row justify-content-center justify-content-md-start align-items-center align-items-md-center w-100">
+
+<div class="d-flex flex-column w-100 mb-2">
+<div class="d-flex justify-content-center flex-md-row align-middle align-items-center justify-content-md-start">
+<img alt="dogecoin private  (DOGP)" height="50" src="https://assets.coingecko.com/coins/images/7670/large/DogeCoin-Private-logo.png?1549240189" />
+<div class="mr-md-3 mx-2 mb-md-0 text-3xl font-semibold">
+DogeCoin Private (DOGP)
+</div>
+</div>
+</div>
+</div>
+<div class="my-2 mx-0 d-flex flex-column flex-md-row align-items-center justify-content-md-start">
+<div class="mr-md-2" data-controller="favorites">
+<div id="currency-selector" class="justify-content-center d-inline" data-controller="currency-dropdown">
+<a href="#" class="btn btn-primary coingecko dropdown-toggle currency-selected" data-toggle="dropdown" data-flip="false" data-target="currency-dropdown.button">USD</a>
+<div class="dropdown-menu dropdown-popup " style="z-index: 10000001;">
+<ul class="d-flex flex-wrap p-0 m-0 b-b">
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="btc" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BTC</span> <span class="text-muted d-none d-md-inline">BTC</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="eth" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>ETH</span> <span class="text-muted d-none d-md-inline">ETH</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="ltc" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>LTC</span> <span class="text-muted d-none d-md-inline">LTC</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="bch" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BCH</span> <span class="text-muted d-none d-md-inline">BCH</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="bnb" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BNB</span> <span class="text-muted d-none d-md-inline">BNB</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="eos" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>EOS</span> <span class="text-muted d-none d-md-inline">EOS</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="xrp" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>XRP</span> <span class="text-muted d-none d-md-inline">XRP</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="xlm" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>XLM</span> <span class="text-muted d-none d-md-inline">XLM</span></div>
+</a> </li>
+</ul>
+<ul class="d-flex flex-wrap p-0 m-0">
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="usd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>USD</span> <span class="text-muted d-none d-md-inline">$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="aed" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>AED</span> <span class="text-muted d-none d-md-inline">DH</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="ars" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>ARS</span> <span class="text-muted d-none d-md-inline">$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="aud" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>AUD</span> <span class="text-muted d-none d-md-inline">A$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="bdt" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BDT</span> <span class="text-muted d-none d-md-inline">৳</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="bhd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BHD</span> <span class="text-muted d-none d-md-inline">BD</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="bmd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BMD</span> <span class="text-muted d-none d-md-inline">$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="brl" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>BRL</span> <span class="text-muted d-none d-md-inline">R$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="cad" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>CAD</span> <span class="text-muted d-none d-md-inline">CA$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="chf" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>CHF</span> <span class="text-muted d-none d-md-inline">Fr.</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="clp" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>CLP</span> <span class="text-muted d-none d-md-inline">CLP$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="cny" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>CNY</span> <span class="text-muted d-none d-md-inline">¥</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="czk" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>CZK</span> <span class="text-muted d-none d-md-inline">Kč</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="dkk" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>DKK</span> <span class="text-muted d-none d-md-inline">kr.</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="eur" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>EUR</span> <span class="text-muted d-none d-md-inline">€</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="gbp" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>GBP</span> <span class="text-muted d-none d-md-inline">£</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="hkd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>HKD</span> <span class="text-muted d-none d-md-inline">HK$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="huf" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>HUF</span> <span class="text-muted d-none d-md-inline">Ft</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="idr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>IDR</span> <span class="text-muted d-none d-md-inline">Rp</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="ils" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>ILS</span> <span class="text-muted d-none d-md-inline">₪</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="inr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>INR</span> <span class="text-muted d-none d-md-inline">₹</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="jpy" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>JPY</span> <span class="text-muted d-none d-md-inline">¥</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="krw" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>KRW</span> <span class="text-muted d-none d-md-inline">₩</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="kwd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>KWD</span> <span class="text-muted d-none d-md-inline">KD</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="lkr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>LKR</span> <span class="text-muted d-none d-md-inline">Rs</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="mmk" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>MMK</span> <span class="text-muted d-none d-md-inline">K</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="mxn" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>MXN</span> <span class="text-muted d-none d-md-inline">MX$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="myr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>MYR</span> <span class="text-muted d-none d-md-inline">RM</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="nok" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>NOK</span> <span class="text-muted d-none d-md-inline">kr</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="nzd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>NZD</span> <span class="text-muted d-none d-md-inline">NZ$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="php" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>PHP</span> <span class="text-muted d-none d-md-inline">₱</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="pkr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>PKR</span> <span class="text-muted d-none d-md-inline">₨</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="pln" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>PLN</span> <span class="text-muted d-none d-md-inline">zł</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="rub" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>RUB</span> <span class="text-muted d-none d-md-inline">₽</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="sar" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>SAR</span> <span class="text-muted d-none d-md-inline">SR</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="sek" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>SEK</span> <span class="text-muted d-none d-md-inline">kr</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="sgd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>SGD</span> <span class="text-muted d-none d-md-inline">S$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="thb" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>THB</span> <span class="text-muted d-none d-md-inline">฿</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="try" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>TRY</span> <span class="text-muted d-none d-md-inline">₺</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="twd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>TWD</span> <span class="text-muted d-none d-md-inline">NT$</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="vef" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>VEF</span> <span class="text-muted d-none d-md-inline">Bs.F</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="vnd" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>VND</span> <span class="text-muted d-none d-md-inline">₫</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="zar" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>ZAR</span> <span class="text-muted d-none d-md-inline">R</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="xdr" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>XDR</span> <span class="text-muted d-none d-md-inline">XDR</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="xag" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>XAG</span> <span class="text-muted d-none d-md-inline">XAG</span></div>
+</a> </li>
+<li class="col-3">
+<a class="py-2 px-3" data-iso-code="xau" data-action="click-&gt;currency-dropdown#selectCurrency" href="#">
+<div class="d-flex justify-content-center justify-content-md-between"><span>XAU</span> <span class="text-muted d-none d-md-inline">XAU</span></div>
+</a> </li>
+</ul>
+</div>
+</div>
+<span data-controller="portfolios">
+<i type="solid" data-target="favorites.solidStar" data-action="click-&gt;favorites#toggleFavorite click-&gt;portfolios#deleteCoin" data-coin-id="7670" data-coin-symbol="dogp" data-type="unfavorite" style="display: none;" class="fas btn btn-secondary cursor-pointer star-color text-lg fa-star"></i>
+<i data-target="favorites.emptyStar" data-action="click-&gt;favorites#toggleFavorite click-&gt;portfolios#addCoin" data-coin-id="7670" data-coin-symbol="dogp" data-type="favorite" style="" class="far btn btn-secondary  cursor-pointer text-lg fa-star"></i>
+</span>
+<a class="addthis_button_compact" href="#" data-controller="addthis">
+<span class="glyphicons glyphicons-share-alt"></span>
+<i class="far fa-lg btn fa-share-alt btn-secondary cursor-pointer pt-2"></i>
+</a>
+<a tabindex="0" class="btn btn-secondary btn-sm px-2 mr-1" data-toggle="modal" data-target="#addAlertModal" data-placement="bottom" data-html="true">
+<i class="fas fa-bell"></i>
+</a> <div class="modal fade" id="addAlertModal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal-header-primary bg-light text-dark">
+<h5 class="modal-title"><span class="translation_missing" title="translation missing: en.alerts.add_alert_modal.add_price_alert">Add Price Alert</span></h5>
+<a href="#" data-dismiss="modal" class="text-dark mt-2">
+<i class="fas fa-times fa-lg"></i>
+</a>
+</div>
+<div class="modal-body" data-controller="add-alerts">
+<div class="d-flex flex-column align-items-center justify-content-center my-2">
+<div class="col-12">
+<p class="text-muted m-0 mb-3">
+<span class="badge badge-warning">Beta</span>
+When the price hits the target price, an alert will be sent to you via browser notification. To receive alerts, please allow web browser notification permission.
+</p>
+</div>
+</div>
+<div data-target="add-alerts.loggedInContent">
+<form data-target="add-alerts.form" action="/en/alerts" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+<input type="hidden" name="coin_id" id="coin_id" value="7670" />
+<div class="input-group d-flex flex-nowrap">
+<div class="center text-xl">1 DOGP = </div>
+<input type="text" name="target_price" id="target_price" class="form-control mx-2 text-right" />
+<select name="vs_currency" id="vs_currency" class="form-control col-2" data-target="add-alerts.currencyInput"><option selected="selected" value="BTC">BTC</option>
+<option value="ETH">ETH</option>
+<option value="LTC">LTC</option>
+<option value="BCH">BCH</option>
+<option value="BNB">BNB</option>
+<option value="EOS">EOS</option>
+<option value="XRP">XRP</option>
+<option value="XLM">XLM</option>
+<option value="USD">USD</option>
+<option value="AED">AED</option>
+<option value="ARS">ARS</option>
+<option value="AUD">AUD</option>
+<option value="BDT">BDT</option>
+<option value="BHD">BHD</option>
+<option value="BMD">BMD</option>
+<option value="BRL">BRL</option>
+<option value="CAD">CAD</option>
+<option value="CHF">CHF</option>
+<option value="CLP">CLP</option>
+<option value="CNY">CNY</option>
+<option value="CZK">CZK</option>
+<option value="DKK">DKK</option>
+<option value="EUR">EUR</option>
+<option value="GBP">GBP</option>
+<option value="HKD">HKD</option>
+<option value="HUF">HUF</option>
+<option value="IDR">IDR</option>
+<option value="ILS">ILS</option>
+<option value="INR">INR</option>
+<option value="JPY">JPY</option>
+<option value="KRW">KRW</option>
+<option value="KWD">KWD</option>
+<option value="LKR">LKR</option>
+<option value="MMK">MMK</option>
+<option value="MXN">MXN</option>
+<option value="MYR">MYR</option>
+<option value="NOK">NOK</option>
+<option value="NZD">NZD</option>
+<option value="PHP">PHP</option>
+<option value="PKR">PKR</option>
+<option value="PLN">PLN</option>
+<option value="RUB">RUB</option>
+<option value="SAR">SAR</option>
+<option value="SEK">SEK</option>
+<option value="SGD">SGD</option>
+<option value="THB">THB</option>
+<option value="TRY">TRY</option>
+<option value="TWD">TWD</option>
+<option value="VEF">VEF</option>
+<option value="VND">VND</option>
+<option value="ZAR">ZAR</option>
+<option value="XDR">XDR</option>
+<option value="XAG">XAG</option>
+<option value="XAU">XAU</option></select>
+ </div>
+<div class="center">
+<input type="hidden" name="initial_price" id="initial_price" value="1.3015714142271399e-05" data-target="add-alerts.initialPriceInput" />
+<span class="mr-1">Current Price is</span>
+<span data-target="add-alerts.currentPrice" data-price-json="{&quot;aed&quot;:4.780671804456265e-05,&quot;ars&quot;:0.0005183508157159586,&quot;aud&quot;:1.8384696225958327e-05,&quot;bch&quot;:9.996022641139739e-08,&quot;bdt&quot;:0.0010915628665415897,&quot;bhd&quot;:4.9064296344989175e-06,&quot;bmd&quot;:1.3015714142271399e-05,&quot;bnb&quot;:1.1409073873934281e-06,&quot;brl&quot;:4.9158399958237834e-05,&quot;btc&quot;:3.4171047367075574e-09,&quot;cad&quot;:1.7305836696419598e-05,&quot;chf&quot;:1.300191748528056e-05,&quot;clp&quot;:0.008587546793773089,&quot;cny&quot;:8.728988689514295e-05,&quot;czk&quot;:0.0002935017507653914,&quot;dkk&quot;:8.545076648684007e-05,&quot;eos&quot;:3.694207884888853e-06,&quot;eth&quot;:9.886213458387034e-08,&quot;eur&quot;:1.1439836552495865e-05,&quot;gbp&quot;:9.85419717711365e-06,&quot;hkd&quot;:0.00010215838794556657,&quot;huf&quot;:0.0036187590029757247,&quot;idr&quot;:0.18371715483738385,&quot;ils&quot;:4.7253550193516285e-05,&quot;inr&quot;:0.0009241157041012677,&quot;jpy&quot;:0.0014566459441009432,&quot;krw&quot;:0.01467726401297272,&quot;kwd&quot;:3.953835547854344e-06,&quot;lkr&quot;:0.0023395746170732814,&quot;ltc&quot;:2.7177659527509237e-07,&quot;mmk&quot;:0.019691473496323806,&quot;mxn&quot;:0.00025077636752197105,&quot;myr&quot;:5.3025824179901404e-05,&quot;nok&quot;:0.00011171257291170114,&quot;nzd&quot;:1.9149213243247068e-05,&quot;php&quot;:0.0006752682654151832,&quot;pkr&quot;:0.001804303372972369,&quot;pln&quot;:4.929896967097429e-05,&quot;rub&quot;:0.0008581000019716664,&quot;sar&quot;:4.8818039033417306e-05,&quot;sek&quot;:0.00012066087638451281,&quot;sgd&quot;:1.7638856758463744e-05,&quot;thb&quot;:0.0004136784425838124,&quot;try&quot;:6.994774937198054e-05,&quot;twd&quot;:0.00040152176557493115,&quot;usd&quot;:1.3015714142271399e-05,&quot;vef&quot;:3.234244119295854,&quot;vnd&quot;:0.30218411146596524,&quot;xag&quot;:8.557058915123391e-07,&quot;xau&quot;:1.0061147031975774e-08,&quot;xdr&quot;:9.314617731631676e-06,&quot;xlm&quot;:0.0001497209406714542,&quot;xrp&quot;:4.182983357439658e-05,&quot;zar&quot;:0.00018520059653037943}">1.3015714142271399e-05</span>
+</div>
+<div class="center mt-3">
+<input type="submit" name="commit" value="Save" class="btn btn-success" data-disable-with="Save" />
+</div>
+</form> <div class="d-flex align-items-end flex-column">
+<a target="_blank" class="m-2" href="/en/alerts">See all alerts</a>
+</div>
+</div>
+<div class="center" data-target="add-alerts.loggedOutContent">
+<a class="nav-link" href="/account/sign_in?locale=en&amp;redirect_to=%2Fen%2Fcoins%2Fdogecoin-private">Sign In to Set Price Alert</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="d-flex mt-2 mt-md-0">
+<a tabindex="0" class="btn btn-promotion btn-sm px-2 mr-1" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-delay="{&quot;show&quot;:0,&quot;hide&quot;:100}" data-content="
+
+<div class=&quot;p-2 px-2&quot;>
+  <div>
+    <a target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; href=&quot;http://bit.ly/2OVMm37&quot;>
+      <img alt=&quot;etoro&quot; src=&quot;https://static.coingecko.com/s/etoro-99237c95c3754605c1c631c496da514fdef132e165b0dba4bc5d49dba90398d9.png&quot; /> eToro
+</a>    <div class=&quot;text-muted&quot; style=&quot;line-height: 1&quot;>
+      <small>Trade on the world's leading social trading platform <br/>(Highly volatile investment product. Your capital is at risk) </small>
+    </div>
+  </div>
+</div>
+
+<div class=&quot;p-2 px-2&quot;>
+  <div>
+    <a target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; href=&quot;http://bit.ly/2q2QorA&quot;>
+      <img alt=&quot;crypto.com (MCO)&quot; src=&quot;https://static.coingecko.com/s/crypto_com_mini_icon-6d4e551f14c7414896f98ea35db2a22a71c028fae03fc01e464d6630170c04ec.png&quot; /> Crypto.com
+</a>    <div class=&quot;text-muted&quot;>
+      <small>The Best Place to Buy Crypto, BTC/ETH/XRP/LTC & More</small>
+    </div>
+  </div>
+</div>
+
+<div class=&quot;p-2 px-2&quot;>
+  <div>
+      <a target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; href=&quot;https://bit.ly/2L7WEvh&quot;>
+        <img alt=&quot;Bitbox exchange&quot; width=&quot;20px&quot; height=&quot;20px&quot; src=&quot;https://static.coingecko.com/s/bitbox-013c9d89d7d2177e4322e7b662b565b260350842e339d16c7779fcc1d82c7bc4.png&quot; /> BITBOX
+</a>      <div class=&quot;text-muted&quot;>
+        <small>Trade with BITBOX, virtual currency exchange by LINE</small>
+      </div>
+  </div>
+</div>
+
+<div class=&quot;d-flex flex-row-reverse&quot;>
+  <small class=&quot;text-muted&quot;>Featured</small>
+</div>
+
+" data-html="true">
+Buy / Sell <i class="fas fa-caret-down"></i>
+</a> <a tabindex="0" class="btn btn-promotion btn-sm px-2 mr-1" data-toggle="popover" data-trigger="focus" data-placement="bottom" data-delay="{&quot;show&quot;:0,&quot;hide&quot;:100}" data-content="<div class=&quot;p-2 px-2&quot;>
+  <a target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; href=&quot;http://bit.ly/2TkepHH&quot;>
+    <img alt=&quot;Nexo loans&quot; src=&quot;https://static.coingecko.com/s/nexo_20-cc49f1b3e578dcb4c7602f9cf9bb6d397e4cd855774b3269da447ae344f453b3.png&quot; /> Nexo - Instant Crypto Loans
+</a>  <div class=&quot;text-muted&quot;>
+    <small>Get instant cash in 40+ fiat currencies using crypto as collateral without selling it</small>
+  </div>
+</div>
+
+<div class=&quot;d-flex flex-row-reverse&quot;>
+  <small class=&quot;text-muted&quot;><span class=&quot;translation_missing&quot; title=&quot;translation missing: en.coins.ads.loan_popover.sponsored&quot;>Sponsored</span></small>
+</div>
+" data-html="true">
+Crypto Loan <i class="fas fa-caret-down"></i>
+</a> </div>
+</div>
+</div>
+<div class="col-md-3 col-lg-4 text-center text-md-right mt-3 mt-md-0 pr-0">
+<div class="text-3xl">
+<span class="no-wrap" data-price-btc="0.00000000341710473670756" data-coin-id="7670" data-coin-symbol="dogp" data-target="price.price">$0.00</span>
+<span class="live-percent-change ml-1" style="font-size: 20px;">
+<span class="text-green" data-json="{&quot;aed&quot;:53.22834014314496,&quot;ars&quot;:53.228340143145616,&quot;aud&quot;:53.22834014314568,&quot;bch&quot;:52.390107298177,&quot;bdt&quot;:53.228340143145736,&quot;bhd&quot;:53.22834014314599,&quot;bmd&quot;:53.22834014314597,&quot;bnb&quot;:51.721037858591814,&quot;brl&quot;:53.18980794897603,&quot;btc&quot;:53.16647167899588,&quot;cad&quot;:53.20806006230179,&quot;chf&quot;:53.22834014314556,&quot;clp&quot;:53.22834014314587,&quot;cny&quot;:53.22834014314552,&quot;czk&quot;:53.22834014314585,&quot;dkk&quot;:53.22834014314554,&quot;eos&quot;:50.191702860637456,&quot;eth&quot;:52.420226881717305,&quot;eur&quot;:53.12015387519754,&quot;gbp&quot;:53.23947231984305,&quot;hkd&quot;:53.23419708513393,&quot;huf&quot;:53.151221950602576,&quot;idr&quot;:53.228340143145815,&quot;ils&quot;:53.228340143146035,&quot;inr&quot;:53.228340143145736,&quot;jpy&quot;:53.22752973000349,&quot;krw&quot;:53.25157595852163,&quot;kwd&quot;:53.22834014314539,&quot;lkr&quot;:53.22834014314577,&quot;ltc&quot;:53.77873408820953,&quot;mmk&quot;:53.22834014314574,&quot;mxn&quot;:53.22953307361615,&quot;myr&quot;:53.22834014314579,&quot;nok&quot;:53.22762603660348,&quot;nzd&quot;:53.295962839053914,&quot;php&quot;:53.22834014314653,&quot;pkr&quot;:53.2283401431456,&quot;pln&quot;:53.230362906111715,&quot;rub&quot;:53.22834014314542,&quot;sar&quot;:53.22834014314605,&quot;sek&quot;:53.25793236127313,&quot;sgd&quot;:53.22834014314579,&quot;thb&quot;:53.22592964178317,&quot;try&quot;:53.22834014314546,&quot;twd&quot;:53.2283401431469,&quot;usd&quot;:53.22834014314597,&quot;vef&quot;:53.22834014314568,&quot;vnd&quot;:53.228340143145914,&quot;xag&quot;:53.22834014314619,&quot;xau&quot;:53.22834014314586,&quot;xdr&quot;:53.22834014314582,&quot;xlm&quot;:47.29784913046152,&quot;xrp&quot;:53.511839419849395,&quot;zar&quot;:53.23232467896204}" data-coin-id="7670" data-up-class="text-green" data-down-class="text-danger" data-24h="true" data-target="percent-change.percent"><span>53%</span><i class="far fa-level-up" data-icon-up-class="fa-level-up" data-icon-down-class="fa-level-down"></i></span>
+</span>
+</div>
+<div class="text-2xs text-danger">
+</div>
+<div class="text-muted text-normal">
+0.00000000 BTC
+<span class="live-percent-change">
+<span class="text-green" data-json="{&quot;aed&quot;:53.22834014314496,&quot;ars&quot;:53.228340143145616,&quot;aud&quot;:53.22834014314568,&quot;bch&quot;:52.390107298177,&quot;bdt&quot;:53.228340143145736,&quot;bhd&quot;:53.22834014314599,&quot;bmd&quot;:53.22834014314597,&quot;bnb&quot;:51.721037858591814,&quot;brl&quot;:53.18980794897603,&quot;btc&quot;:53.16647167899588,&quot;cad&quot;:53.20806006230179,&quot;chf&quot;:53.22834014314556,&quot;clp&quot;:53.22834014314587,&quot;cny&quot;:53.22834014314552,&quot;czk&quot;:53.22834014314585,&quot;dkk&quot;:53.22834014314554,&quot;eos&quot;:50.191702860637456,&quot;eth&quot;:52.420226881717305,&quot;eur&quot;:53.12015387519754,&quot;gbp&quot;:53.23947231984305,&quot;hkd&quot;:53.23419708513393,&quot;huf&quot;:53.151221950602576,&quot;idr&quot;:53.228340143145815,&quot;ils&quot;:53.228340143146035,&quot;inr&quot;:53.228340143145736,&quot;jpy&quot;:53.22752973000349,&quot;krw&quot;:53.25157595852163,&quot;kwd&quot;:53.22834014314539,&quot;lkr&quot;:53.22834014314577,&quot;ltc&quot;:53.77873408820953,&quot;mmk&quot;:53.22834014314574,&quot;mxn&quot;:53.22953307361615,&quot;myr&quot;:53.22834014314579,&quot;nok&quot;:53.22762603660348,&quot;nzd&quot;:53.295962839053914,&quot;php&quot;:53.22834014314653,&quot;pkr&quot;:53.2283401431456,&quot;pln&quot;:53.230362906111715,&quot;rub&quot;:53.22834014314542,&quot;sar&quot;:53.22834014314605,&quot;sek&quot;:53.25793236127313,&quot;sgd&quot;:53.22834014314579,&quot;thb&quot;:53.22592964178317,&quot;try&quot;:53.22834014314546,&quot;twd&quot;:53.2283401431469,&quot;usd&quot;:53.22834014314597,&quot;vef&quot;:53.22834014314568,&quot;vnd&quot;:53.228340143145914,&quot;xag&quot;:53.22834014314619,&quot;xau&quot;:53.22834014314586,&quot;xdr&quot;:53.22834014314582,&quot;xlm&quot;:47.29784913046152,&quot;xrp&quot;:53.511839419849395,&quot;zar&quot;:53.23232467896204}" data-coin-id="7670" data-up-class="text-green" data-down-class="text-danger" data-24h="true" data-target=""><span>53%</span><i class="far fa-level-up" data-icon-up-class="fa-level-up" data-icon-down-class="fa-level-down"></i></span>
+</span>
+</div>
+</div>
+</div>
+<div class="col-12 row p-0 m-0 mb-2 d-flex flex-column-reverse flex-sm-row">
+<div class="col-md-9 col-lg-7 p-0">
+<div class="d-flex flex-column mx-3 mx-sm-5 mx-md-0">
+<div class="coin-link-row mb-md-0">
+<span class="coin-link-title mr-2">Website</span>
+<div class="d-flex flex-wrap">
+<a target="_blank" rel="nofollow" class="coin-link-tag" href="https://privatedogp.github.io/"><span class="">privatedogp.github.io</span></a>
+</div>
+</div>
+<div class="coin-link-row mb-md-0">
+<span class="coin-link-title mr-2">Explorers</span>
+<div class="d-flex flex-wrap">
+<a target="_blank" rel="nofollow" class="coin-link-tag" href="http://dogep.live/"><span class="">dogep.live</span></a>
+</div>
+</div>
+<div class="coin-link-row mb-md-0">
+<span class="coin-link-title mr-2">Community</span>
+<div class="d-flex flex-wrap">
+<a target="_blank" rel="nofollow" class="coin-link-tag" href="https://twitter.com/privateDOGP"><i class="fab mr-sm-1 fa-twitter"></i><span class="d-none d-sm-inline">Twitter</span></a><a target="_blank" rel="nofollow" class="coin-link-tag" href="https://t.me/PrivateDOGP"><i class="fab mr-sm-1 fa-telegram"></i><span class="d-none d-sm-inline">Telegram</span></a>
+<a target="_blank" rel="nofollow" class="coin-link-tag" href="https://discord.gg/eP7ca4E"><span class="">discord.gg</span></a>
+<a target="_blank" rel="nofollow" class="coin-link-tag" href="https://bitcointalk.org/index.php?topic=5096254.0"><span class="">bitcointalk.org</span></a>
+</div>
+</div>
+<div class="coin-link-row mb-md-0">
+<span class="coin-link-title mr-2">Tags</span>
+<div class="d-flex flex-wrap">
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-lg-5 text-center text-md-right mt-3 mt-md-0 pr-0">
+<div class="mt-1 mb-3 d-flex flex-wrap">
+<div class="col-6 col-md-12 col-lg-6 p-0 mb-2">
+<div class="font-weight-bold">
+Market Cap
+(Rank #2545)
+</div>
+<div class="mt-1">
+<span>
+<span class="no-wrap" data-price-btc="0.0" data-target="price.price">$0.00</span>
+</span>
+</div>
+</div>
+<div class="col-6 col-md-12 col-lg-6 p-0 mb-2 pl-2">
+<div class="font-weight-bold">
+24 Hour Trading Vol
+</div>
+<div class="mt-1">
+<span>
+<span class="no-wrap" data-price-btc="0.00828298756651683" data-target="price.price">$31.55</span>
+</span>
+</div>
+</div>
+<div class="col-6 col-md-12 col-lg-6 p-0 mb-2">
+<div class="font-weight-bold">
+24h Low / 24h High
+</div>
+<div class="mt-1">
+<span>
+<span class="no-wrap" data-price-json="{&quot;aed&quot;:1.4389174506316622e-05,&quot;ars&quot;:0.00015601657356767207,&quot;aud&quot;:5.533544511345563e-06,&quot;bch&quot;:2.998083108264242e-08,&quot;bdt&quot;:0.00032854563571256334,&quot;bhd&quot;:1.4767688538660863e-06,&quot;bmd&quot;:3.917553636350846e-06,&quot;bnb&quot;:3.3717318159144366e-07,&quot;brl&quot;:1.479973412740625e-05,&quot;btc&quot;:1.0250949e-09,&quot;cad&quot;:5.2095118974220775e-06,&quot;chf&quot;:3.913401029496305e-06,&quot;clp&quot;:0.0025847352516769283,&quot;cny&quot;:2.6273073462186937e-05,&quot;czk&quot;:8.834005098898422e-05,&quot;dkk&quot;:2.5719523133370507e-05,&quot;eos&quot;:1.1233244055004199e-06,&quot;eth&quot;:2.9610722231429492e-08,&quot;eur&quot;:3.4456686306378334e-06,&quot;gbp&quot;:2.96576439263122e-06,&quot;hkd&quot;:3.074711559258138e-05,&quot;huf&quot;:0.0010897458950237145,&quot;idr&quot;:0.0552963748378408,&quot;ils&quot;:1.4222678476771747e-05,&quot;inr&quot;:0.00027814630818090945,&quot;jpy&quot;:0.000438433015212204,&quot;krw&quot;:0.004416987839035311,&quot;kwd&quot;:1.1900509383288438e-06,&quot;lkr&quot;:0.0007041802661340636,&quot;ltc&quot;:8.090525709139454e-08,&quot;mmk&quot;:0.0059268667671559215,&quot;mxn&quot;:7.547970178925353e-05,&quot;myr&quot;:1.5960054751188734e-05,&quot;nok&quot;:3.36241278075811e-05,&quot;nzd&quot;:5.761111284527547e-06,&quot;php&quot;:0.00020324660020751807,&quot;pkr&quot;:0.0005430708728391349,&quot;pln&quot;:1.483812615304243e-05,&quot;rub&quot;:0.00025827647613733804,&quot;sar&quot;:1.4693568423861116e-05,&quot;sek&quot;:3.631027680941782e-05,&quot;sgd&quot;:5.309056935321756e-06,&quot;thb&quot;:0.0001245135660009567,&quot;try&quot;:2.1053324997113077e-05,&quot;twd&quot;:0.00012085261212778698,&quot;usd&quot;:3.917553636350846e-06,&quot;vef&quot;:0.9734636664494761,&quot;vnd&quot;:0.09095332394218894,&quot;xag&quot;:2.5755588132146777e-07,&quot;xau&quot;:3.028268960899203e-09,&quot;xdr&quot;:2.8035737545326575e-06,&quot;xlm&quot;:4.695196120603515e-05,&quot;xrp&quot;:1.2495103106569874e-05,&quot;zar&quot;:5.574142119679064e-05}" data-target="price.price">$0.00</span>
+/
+<span class="no-wrap" data-price-json="{&quot;aed&quot;:5.146255105662419e-05,&quot;ars&quot;:0.0005579896803240032,&quot;aud&quot;:1.977983395814598e-05,&quot;bch&quot;:1.0680115190316108e-07,&quot;bdt&quot;:0.0011750358955523528,&quot;bhd&quot;:5.281629777132363e-06,&quot;bmd&quot;:1.4011040309453926e-05,&quot;bnb&quot;:1.2266989574241045e-06,&quot;brl&quot;:5.2917597592761186e-05,&quot;btc&quot;:3.6596189050773594e-09,&quot;cad&quot;:1.862972370330416e-05,&quot;chf&quot;:1.3999831477206366e-05,&quot;clp&quot;:0.009244246068382015,&quot;cny&quot;:9.396504183535285e-05,&quot;czk&quot;:0.00031594615677012385,&quot;dkk&quot;:9.198528183962673e-05,&quot;eos&quot;:4.005008618596519e-06,&quot;eth&quot;:1.0448460287862645e-07,&quot;eur&quot;:1.2326913264257548e-05,&quot;gbp&quot;:1.0606357514256609e-05,&quot;hkd&quot;:0.0001099705537328572,&quot;huf&quot;:0.0038974510828808065,&quot;idr&quot;:0.1976904632124384,&quot;ils&quot;:5.086708184347256e-05,&quot;inr&quot;:0.0009947838619712268,&quot;jpy&quot;:0.0015680372829576642,&quot;krw&quot;:0.015799650750655682,&quot;kwd&quot;:4.256189758964065e-06,&quot;lkr&quot;:0.00251848449562434,&quot;ltc&quot;:2.885294286093497e-07,&quot;mmk&quot;:0.02119730242180851,&quot;mxn&quot;:0.0002699535158503105,&quot;myr&quot;:5.708076805511056e-05,&quot;nok&quot;:0.00012025535787201202,&quot;nzd&quot;:2.0613574922800377e-05,&quot;php&quot;:0.0007269067822947788,&quot;pkr&quot;:0.0019422804628980476,&quot;pln&quot;:5.306891682810327e-05,&quot;rub&quot;:0.0009237198655216769,&quot;sar&quot;:5.2551208888668934e-05,&quot;sek&quot;:0.00012988794808476155,&quot;sgd&quot;:1.8987719794251014e-05,&quot;thb&quot;:0.0004453128941553724,&quot;try&quot;:7.529673172703638e-05,&quot;twd&quot;:0.0004322265825063453,&quot;usd&quot;:1.4011040309453926e-05,&quot;vef&quot;:3.4815703718398145,&quot;vnd&quot;:0.32529246727043515,&quot;xag&quot;:9.21142674767157e-07,&quot;xau&quot;:1.0830534159207894e-08,&quot;xdr&quot;:1.0026916931218821e-05,&quot;xlm&quot;:0.00016757887335695272,&quot;xrp&quot;:4.456587544105807e-05,&quot;zar&quot;:0.00019936456372245212}" data-target="price.price">$0.00</span>
+</span>
+</div>
+</div>
+<div class="col-6 col-md-12 col-lg-6 p-0 mb-2 pl-2">
+<div class="font-weight-bold">
+Available Supply
+</div>
+<div class="mt-1">
+<span>
+0 / ?
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="full-width-mobile">
+<div data-controller="converter" class="converter w-100 mt-0 mt-md-3">
+
+<div class="d-none" data-target="price.price converter.price" data-coin-id="7670" data-price-btc="0.00000000341710473670756"></div>
+<div class="converter-field d-flex flex-column flex-md-row align-items-center justify-content-center my-2">
+<div class="input-group calc d-flex flex-nowrap">
+<span class="calc-symbol-box center" data-target="converter.fromSymbol">DOGP</span>
+<input type="number" name="from_amount" id="from_amount" value="" class="form-control rounded-0" data-target="converter.fromInput" data-action="keyup-&gt;converter#calculateTo change-&gt;converter#calculateTo" />
+</div>
+<i data-action="click-&gt;converter#changeDirection" class="far fa-exchange text-xl text-lg-2xl m-3 currency-swap"></i>
+<div class="input-group calc d-flex flex-nowrap">
+<span class="calc-symbol-box center" data-target="converter.toSymbol">USD</span>
+<input type="number" name="to_amount" id="to_amount" value="" class="form-control rounded-0" data-target="converter.toInput" data-action="keyup-&gt;converter#calculateFrom change-&gt;converter#calculateFrom" />
+</div>
+</div>
+</div>
+</div>
+<div class="coin-card">
+<div class="mt-3">
+<div class="card" data-controller="partials" data-partials-active-tab=trading_exchanges>
+<div class="card-header p-0 p-lg-2" id="panel">
+<button class="btn dropdown-toggle mobile-nav-toggle m-0 w-100 text-normal p-3 d-lg-none font-bold" type="button" data-target="partials.update" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">
+Exchanges
+</button>
+<ul class="coin-menu nav nav-tabs dropdown-menu w-100 border-top-0 border-left-0 border-right-0">
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="partials.trigger" data-action="click-&gt;partials#onClick" data-tab="overview" href="/en/coins/dogecoin-private#panel">Overview</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link active" data-target="partials.trigger" data-action="click-&gt;partials#onClick" data-tab="trading_exchanges" href="/en/coins/dogecoin-private/trading_exchanges#panel">Exchanges</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="currency.currencyLink" data-action="click-&gt;partials#onClick" data-tab="chart" href="/en/coins/dogecoin-private/usd#panel">Chart</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="partials.trigger" data-action="click-&gt;partials#onClick" data-tab="social" href="/en/coins/dogecoin-private/social#panel">Social</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="partials.trigger" data-action="click-&gt;partials#onClick" data-tab="developer" href="/en/coins/dogecoin-private/developer#panel">Developer</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="currency.currencyLink" data-action="click-&gt;partials#onClick" data-tab="historical_data" href="/en/coins/dogecoin-private/historical_data/usd#panel">Historical Data</a>
+</li>
+<li class="nav-item">
+<a class="font-weight-bold nav-link " data-target="partials.trigger" data-action="click-&gt;partials#onClick" data-tab="widgets" href="/en/coins/dogecoin-private/widgets#panel">Widgets</a>
+</li>
+</ul>
+</div>
+<div data-target="partials.inject">
+<div class="card-body">
+<h1 class='pb-3 card-title text-xl'>
+DogeCoin Private Exchanges
+</h1>
+</div>
+<div class='row justify-content-center'>
+<div class="col-lg-6">
+<span id="volume-pie-currency" class="float-left" style="width: 100%; height: 360px; margin: 0 auto" data-stats="[{&quot;name&quot;:&quot;DOGE&quot;,&quot;y&quot;:76.39},null,{&quot;name&quot;:&quot;BTC&quot;,&quot;y&quot;:20.23},{&quot;name&quot;:&quot;Others&quot;,&quot;y&quot;:3.39}]" data-controller="pie-chart" data-title="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en.coins.trading_exchanges.volume_by_currency&quot;>Volume By Currency</span>"></span>
+</div>
+<div class="col-lg-6">
+<span id="volume-pie-market" class="float-left" style="width: 100%; height: 360px; margin: 0 auto" data-stats="[{&quot;name&quot;:&quot;Altilly&quot;,&quot;y&quot;:100.01},null,{&quot;name&quot;:&quot;Others&quot;,&quot;y&quot;:0.0}]" data-controller="pie-chart" data-title="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en.coins.trading_exchanges.volume_by_market&quot;>Volume By Market</span>"></span>
+</div>
+</div>
+<div class="gecko-table-container mt-4" data-controller="gecko-table" data-target="gecko-table.tableContainer" data-view="" data-default-view="market">
+<div class="coingecko-table table-responsive">
+<div class="d-flex justify-content-end">
+<div class="form-check mr-3 mb-2" data-action="click->gecko-table#displayUnconvertedData">
+<input type="checkbox" class="form-check-input" id="displayUnconvertDataSwitch" data-target="gecko-table.displayUnconvertDataSwitch">
+<label class="form-check-label" for="displayUnconvertDataSwitch" style="font-size: 16px;">Display Unconverted Data</label>
+</div>
+</div>
+<table class="table table-scrollable" data-target="gecko-table.table">
+<thead>
+<tr>
+<th class="table-number text-left">#</th>
+<th class="text-left">Exchange</th>
+<th class="text-left">Pair</th>
+<th class="text-right">Price</th>
+<th class="text-right">24h Volume</th>
+<th class="text-right">Volume %</th>
+<th class="text-right">Last Traded</th>
+</tr>
+</thead>
+<thead class="asset-content sponsored">
+<tr class="sponsored">
+<td class="table-number">
+*
+</td>
+<td colspan="2">
+<span>
+<img width="20" height="20" class="mr-1" src="https://static.coingecko.com/s/bitbox-013c9d89d7d2177e4322e7b662b565b260350842e339d16c7779fcc1d82c7bc4.png" />
+<a rel="nofollow" href="https://bit.ly/2L7WEvh">BITBOX</a>
+</span>
+<span class="badge badge-warning"><span class="translation_missing" title="translation missing: en.shared.ticker_row_sponsored.sponsored">Sponsored</span></span>
+</td>
+<td>
+</td>
+<td class="text-left">
+</td>
+<td class="text-left">
+</td>
+<td></td>
+</tr>
+<tr class="sponsored">
+<td class="table-number">
+*
+</td>
+<td colspan="2">
+<span>
+<img width="20" height="20" class="mr-1" src="https://static.coingecko.com/s/crypto_com_mini_icon-6d4e551f14c7414896f98ea35db2a22a71c028fae03fc01e464d6630170c04ec.png" />
+<a rel="nofollow" href="https://bit.ly/2q2QorA">Crypto.com</a>
+</span>
+<span class="badge badge-warning"><span class="translation_missing" title="translation missing: en.shared.ticker_row_sponsored.sponsored">Sponsored</span></span>
+</td>
+<td>
+</td>
+<td class="text-left">
+</td>
+<td class="text-left">
+</td>
+<td></td>
+</tr>
+</thead>
+<tr class="  ">
+<td class="table-number">
+<div>
+1
+</div>
+</td>
+<td>
+<div>
+<img alt="Altilly" width="20" height="20" class="mr-1" src="https://assets.coingecko.com/markets/images/207/thumb/altillylogonew_logoonly.jpg?1542882562" />
+<a href="/en/exchanges/altilly">Altilly</a>
+</div>
+</td>
+<td>
+<div>
+<a rel="nofollow noopener" target="_blank" href="https://www.altilly.com/market/DOGP_DOGE">
+DOGP/DOGE
+</a> </div>
+</td>
+<td class="text-right">
+<div data-target="price.price" data-price-btc="0.0000000034572">
+$0.00
+</div>
+<small class="d-none unconverted-data">0.0067 DOGE</small>
+</td>
+<td class="text-right" data-sort="76.39">
+<div data-target="price.price" data-price-btc="0.00793133261009136">
+$30.21
+</div> <small class="d-none unconverted-data">
+2294149.199 DOGP
+</small>
+</td>
+<td class="text-right">
+76.39%
+</td>
+<td class="text-right">
+<small class="secondary">Recently</small>
+</td>
+</tr>
+<tr class="  ">
+<td class="table-number">
+<div>
+2
+</div>
+</td>
+<td>
+<div>
+<img alt="Altilly" width="20" height="20" class="mr-1" src="https://assets.coingecko.com/markets/images/207/thumb/altillylogonew_logoonly.jpg?1542882562" />
+<a href="/en/exchanges/altilly">Altilly</a>
+</div>
+</td>
+<td>
+<div>
+<a rel="nofollow noopener" target="_blank" href="https://www.altilly.com/market/DOGP_LTC">
+DOGP/LTC
+</a> </div>
+</td>
+<td class="text-right">
+<div data-target="price.price" data-price-btc="0.000000002512784">
+$0.00
+</div>
+<small class="d-none unconverted-data">0.0000002 LTC</small>
+</td>
+<td class="text-right" data-sort="3.39">
+<div data-target="price.price" data-price-btc="0.0003516549564254736">
+$1.34
+</div> <small class="d-none unconverted-data">
+139946.353 DOGP
+</small>
+</td>
+<td class="text-right">
+3.39%
+</td>
+<td class="text-right">
+<small class="secondary">Recently</small>
+</td>
+</tr>
+<tr class="anomaly  ">
+<td class="table-number">
+<div>
+3
+</div>
+</td>
+<td>
+<div>
+<img alt="Altilly" width="20" height="20" class="mr-1" src="https://assets.coingecko.com/markets/images/207/thumb/altillylogonew_logoonly.jpg?1542882562" />
+<a href="/en/exchanges/altilly">Altilly</a>
+</div>
+</td>
+<td>
+<div>
+<a rel="nofollow noopener" target="_blank" href="https://www.altilly.com/market/DOGP_BTC">
+DOGP/BTC
+</a> </div>
+</td>
+<td class="text-right">
+<div data-target="price.price" data-price-btc="0.00000001">
+$0.00
+</div>
+<small class="d-none unconverted-data">0.00000001 BTC</small>
+</td>
+<td class="text-right" data-sort="20.23">
+<div data-target="price.price" data-price-btc="0.0021">
+$8.00
+</div> <small class="d-none unconverted-data">
+210000.000 DOGP
+</small>
+</td>
+<td class="text-right">
+20.23%
+</td>
+<td class="text-right">
+<small class="secondary">Recently</small>
+</td>
+</tr>
+<tr class="anomaly  ">
+<td class="table-number">
+<div>
+4
+</div>
+</td>
+<td>
+<div>
+<img alt="Escodex" width="20" height="20" class="mr-1" src="https://assets.coingecko.com/markets/images/243/thumb/escodex.png?1549779843" />
+<a href="/en/exchanges/escodex">Escodex</a>
+</div>
+</td>
+<td>
+<div>
+<a rel="nofollow noopener" target="_blank" href="https://www.escodex.com">
+DOGP/BTC
+</a> </div>
+</td>
+<td class="text-right">
+<div data-target="price.price" data-price-btc="0.000000001112">
+$0.00
+</div>
+<small class="d-none unconverted-data">0.000000001112 BTC</small>
+</td>
+<td class="text-right" data-sort="0.0">
+<div data-target="price.price" data-price-btc="0.0">
+$0.00
+</div> <small class="d-none unconverted-data">
+0.000 DOGP
+</small>
+</td>
+<td class="text-right">
+0.00%
+</td>
+<td class="text-right">
+<small class="secondary">Recently</small>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer>
+<div class="topfooter py-3 text-center">
+<div class="container">
+<i type="light" class="fal text-lg text-danger mr-1 fa-exclamation-triangle"></i><span class="disclaimer"><a class="text-danger text-xs underline" href="/en/disclaimer">IMPORTANT DISCLAIMER:</a></span>
+<span class="text-lite text-xs">All content provided herein our website, hyperlinked sites, associated applications, forums, blogs, social media accounts and other platforms (“Site”) is for your general information only, procured from third party sources. We make no warranties of any kind in relation to our content, including but not limited to accuracy and updatedness. No part of the content that we provide constitutes financial advice, legal advice or any other form of advice meant for your specific reliance for any purpose. Any use or reliance on our content is solely at your own risk and discretion. You should conduct your own research, review, analyse and verify our content before relying on them. Trading is a highly risky activity that can lead to major losses, please therefore consult your financial advisor before making any decision. No content on our Site is meant to be a solicitation or offer.</span>
+</div>
+</div>
+<div id="footer" class="container my-3">
+<div class="row">
+<div class="col-12 col-lg-4 my-2">
+<div class="font-semibold text-sm mb-3">CoinGecko</div>
+<div class="text-xs text-muted">
+CoinGecko provides a fundamental analysis of the crypto market. In addition to tracking price, volume and market capitalization, CoinGecko tracks community growth, open-source code development, major events and on-chain metrics.
+</div>
+<div class="mt-3 d-flex">
+<a target="_blank" href="https://bit.ly/coingecko-android">
+<img alt="Google Play Store Button" width="150px" class="mr-2" src="https://static.coingecko.com/s/coingecko_logos/google_play_store-836027fba5bce52aa7f436d7edf8fadf2707c7607842f994e3af58748ef141a0.svg" />
+</a> <a target="_blank" href="https://bit.ly/coingecko-ios">
+<img alt="Apple App Store Button" width="150px" src="https://static.coingecko.com/s/coingecko_logos/apple_app_store-2b96ff447647976493b4622a5af700da687ffb28b64e3bd8c9c1bbd7ac20d028.svg" />
+</a> </div>
+<div class="mt-3 center">
+<a target="_blank" class="mr-5" href="https://chrome.google.com/webstore/detail/coingecko-bitcoin-cryptoc/ofmoicejmilkphppeoekfhbpkleppdlb">
+<img alt="Chrome Store Button" width="150px" class="rounded" src="https://static.coingecko.com/s/chrome_branding_logo-2b6b19311f6dcc6acfdacfdc4b8cf88be082ce7729e959cc7b015f594b3bc956.png" />
+</a> </div>
+</div>
+<div class="col-12 col-lg-5 my-2">
+<div class="font-semibold text-sm mb-3">Donations</div>
+<div class="text-3xs text-lg-xs text-muted w-100">
+<div class="mb-3">
+<span class="mr-1"><img alt="Bitcoin (BTC)" src="https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png" /></span>
+<a href="https://blockchain.info/address/3KJmVaMzKRxKbKTMQmfnKzecpsExs8tbkk" target="_blank" rel='nofollow'>3KJmVaMzKRxKbKTMQmfnKzecpsExs8tbkk</a>
+<span class="d-none d-sm-inline">(BTC)</span>
+</div>
+<div class="mb-3">
+<span class="mr-1"><img alt="Litecoin (LTC)" src="https://assets.coingecko.com/coins/images/2/thumb/litecoin.png" /></span>
+<a href="https://live.blockcypher.com/ltc/address/LZCRywjSPCXC2d8ybWgdTjyQrq7GRg3JqB" target="_blank" rel='nofollow'>LZCRywjSPCXC2d8ybWgdTjyQrq7GRg3JqB</a>
+<span class="d-none d-sm-inline">(LTC)</span>
+</div>
+<div class="mb-3">
+<span class="mr-1"><img alt="Bitcoin Cash (BCH)" src="https://assets.coingecko.com/coins/images/780/thumb/bitcoin_cash.png" /></span>
+<a href="https://blockchair.com/bitcoin-cash/address/1FqPxfG1bR82RP2RNn7MJiGER5rigmRUi5" target="_blank" rel='nofollow'>1FqPxfG1bR82RP2RNn7MJiGER5rigmRUi5</a>
+<span class="d-none d-sm-inline">(BCH)</span>
+</div>
+<div class="mb-3">
+<span class="mr-1"><img alt="Ethereum (ETH)" src="https://assets.coingecko.com/coins/images/279/thumb/ethereum.png" /></span>
+<a href="https://etherscan.io/address/0x4Cdc86fa95Ec2704f0849825f1F8b077deeD8d39" target="_blank" rel='nofollow'>0x4Cdc86fa95Ec2704f0849825f1F8b077deeD8d39</a>
+<span class="d-none d-sm-inline">(ETH)</span>
+</div>
+<div class="mb-3" data-controller="request-network-donation">
+<span class="mr-1"><img alt="Request Network (REQ)" src="https://static.coingecko.com/s/request_network-d967aa69b3e044c9dfeb52e8ee862bdbe9fae5c942cf5bc778e4b334756be3a9.png" /></span>
+<a href="#" data-action="request-network-donation#requestDonationTrigger">Donate ERC20 via Request Network</a>
+<span id="requestDonationTrigger"></span>
+</div>
+<div class="mb-3" data-controller="request-network-donation">
+<div>
+<span class="mr-1"><img alt="Grin (GRIN)" width="25" height="25" src="https://static.coingecko.com/s/grin-605e252df9a23ca2bd06a6f6d4b431c1185b474ae55f10c8a63e6f1a2030a919.png" /></span>
+gVuuSxaYrs9cSF1DJqdaxQFLeb7xyqPbTeojaax3N1JGQ5CGH1dt
+</div>
+<div style="margin-left:30px;">
+(via Grinbox, <a target="_blank" href="https://www.coingecko.com/buzz/how-to-use-grin-wallet713-to-send-and-receive-grin-coin-step-by-step-guide">How?</a>)
+</div>
+<span id="requestDonationTrigger"></span>
+</div>
+<div class="mb-3" data-controller="request-network-donation">
+<div>
+<span class="mr-1"><img alt="Grin (GRIN)" width="25" height="25" src="https://static.coingecko.com/s/grin-605e252df9a23ca2bd06a6f6d4b431c1185b474ae55f10c8a63e6f1a2030a919.png" /></span>
+https://grin-donate.coingecko.com:3415
+</div>
+<div style="margin-left:30px;">
+(via HTTP, <a target="_blank" href="https://www.coingecko.com/buzz/how-to-use-grin-wallet-to-send-receive-grin-coins#sending-grin">How?</a>)
+</div>
+<span id="requestDonationTrigger"></span>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-3 my-2">
+<div class="font-semibold text-sm mb-3">Follow Us</div>
+<div class="text-xs text-muted row">
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://www.facebook.com/coingecko" target="_blank" class="text-muted">
+<i class="fab fa-facebook text-white mr-1 w-4" aria-hidden="true"></i>Facebook</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://twitter.com/coingecko" target="_blank" class="text-muted">
+<i class="fab fa-twitter mr-1 w-4 text-white" aria-hidden="true"></i>Twitter</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://www.instagram.com/coingecko/" target="_blank" class="text-muted">
+<i class="fab fa-instagram mr-1 w-4 text-white" aria-hidden="true"></i>Instagram</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://t.me/coingeckoofficial" target="_blank" class="text-muted">
+<i class="fab fa-telegram mr-1 w-4 text-white" aria-hidden="true"></i>Telegram Official</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://t.me/coingeckonews" target="_blank" class="text-muted">
+<i class="fab fa-telegram mr-1 w-4 text-white" aria-hidden="true"></i>Telegram News</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://discord.gg/EhrkaCH" target="_blank" class="text-muted">
+<i class="fab fa-discord mr-1 w-4 text-white" aria-hidden="true"></i>Discord</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://steemit.com/@coingecko" target="_blank" class="text-muted">
+<img alt="Steemit Logo" class="footer-logo mr-2" src="https://static.coingecko.com/s/steemit-white-logo-fa8f4926020e2c4186ac3f0fa749fc9cd57ee75b7ad8ae18fef7d54f921ddc53.png" />Steemit</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://bitcointalk.org/index.php?topic=561516.0" target="_blank" class="text-muted">
+<i class="fab fa-btc mr-1 w-4 text-white" aria-hidden="true"></i>BitcoinTalk</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="http://newsletter.coingecko.com/landing/subscribe" target="_blank" class="text-muted">
+<i class="fal fa-envelope-square mr-1 w-4 text-white" aria-hidden="true"></i>Newsletter</a></div>
+<div class="mb-3 col-6 col-lg-12">
+<a href="https://blog.coingecko.com/" target="_blank" class="text-muted">
+<i class="fal fa-blog mr-1 w-4 text-white" aria-hidden="true"></i>Blog</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottomfooter">
+<div class="container p-0 pt-3 pb-3 pb-lg-0">
+<div class="center">
+<div data-controller="dark" class="btn-group" role="group">
+<button type="button" class="activate-light btn btn-sm py-1 px-2 btn-secondary center" data-action="dark#lightMode"><i type="solid" class="fas text-sm fa-sun"></i></button>
+<button type="button" class="activate-dark btn btn-sm py-1 px-2 btn-secondary center" data-action="dark#darkMode"><i type="solid" class="fas text-2xs fa-moon"></i></button>
+</div>
+</div>
+<div class="d-block d-lg-flex justify-content-between">
+<div class="d-flex center flex-wrap py-3">
+<div class="py-1 px-3"><a class="text-white" href="/api">API</a></div>
+<div class="py-1 px-3"><a class="text-white" href="https://selfserve.coingecko.com/">Advertising</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/about">About</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/faq">FAQ</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/methodology">Methodology</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/disclaimer">Disclaimer</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/terms">Terms of Service</a></div>
+<div class="py-1 px-3"><a class="text-white" href="/en/privacy">Privacy Policy</a></div>
+<div class="py-1 px-3"><a target="_blank" class="text-white" href="https://goo.gl/forms/1sRArLUxDAggur5t2">Request Form</a></div>
+<div class="py-1 px-3"><a target="_blank" class="text-white" href="https://support.coingecko.com/help_center">Help Center</a></div>
+<div class="py-1 px-3"><a target="_blank" class="text-white" href="/en/branding">Branding Guide</a></div>
+</div>
+<div class="d-flex center px-3">© 2019 CoinGecko. All Rights Reserved.</div>
+</div>
+</div>
+</div>
+</footer>
+<div data-controller="toast" class="toast toast-hide m-4 p-3">
+<div class="notice" data-target="toast.notice"></div>
+</div>
+
+<div class='fixed-bottom offset-md-8' id='cookie-notice' style="background: #3f3f3f; color: #fff; display: none;" data-controller="cookie-note">
+<div class='container pt-2 pb-2'>
+<div class='row'>
+<div class='col-md-12 d-flex'>
+<img alt="Browser Cookies" class="float-left" height="35" width="35" src="https://static.coingecko.com/s/cookie-46cb1f26ee98167dfdfbe383121cd3bb3373159de75941c99aa1c95c936338c4.png" />
+<span>
+This website uses cookies for functionality, analytics and advertising purposes as described in our Privacy Policy. If you agree to our use of cookies, please continue to use our site.
+</span>
+</div>
+<div class='col-md-12 text-center mt-2'>
+<a class="btn btn-sm btn-danger" data-action="click-&gt;cookie-note#accept" href="#">OK</a>
+or
+<a href="/en/privacy">Read More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="kyberForm" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-box-size">
+<div class="modal-content pt-3 pr-5 pb-3 pl-5">
+<div class="modal-header center">
+<img alt="WBTC Logo" height="60px" src="https://static.coingecko.com/s/wbtc_logo-5b8ec23d8f953f38e943b4412e4d288aa31336a2ad8220ec157febee815a1111.png" />
+</div>
+<div class="modal-body">
+<h5>If you have bought Wrapped Bitcoin (WBTC), you are eligible for a 10% cashback (maximum of $10) and a chance to win $50 worth of WBTC in a lucky draw.
+<br /><br />To participate, please verify your Twitter account.
+</h5>
+<br />
+<i class="text-left">*This entry is only eligible if your transaction is a swap from Ethereum or any ERC-20 tokens to Wrapped Bitcoin (WBTC) with the KyberSwap widget on CoinGecko</i>
+<br /><br />
+<i class="text-left">*This verification is done only to ensure you are a real user, no information on your account will be retained after the campaign</i>
+</div>
+<div class="modal-footer center">
+<a class="btn btn-primary" target="_blank" href="https://gleam.io/competitions/j08Id-wbtc-token-swap-cashback">Proceed</a>
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://static.coingecko.com/s/application-d09de6ca3094647e77c530ca1e2f8b721ff6a2b85d0a77825c6f6cc9c40d410e.js"></script>
+
+<script>
+    var needPolyfill =
+      Object.assign == null ||
+      window.fetch == null ||
+      typeof Set !== "function" ||
+      typeof Map !== "function" ||
+      typeof Promise !== "function";
+
+    if (needPolyfill) {
+      loadScript("//static.coingecko.com/s/packs/polyfills-efb9e2148abc56c0ce82.js", function() {
+        loadScript("//static.coingecko.com/s/packs/application-eb6a86449f0f499cf31c.js")
+      })
+    } else {
+      loadScript("//static.coingecko.com/s/packs/application-eb6a86449f0f499cf31c.js")
+    }
+  </script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-49392197-1', 'coingecko.com');
+    ga('send', 'pageview');
+  </script>
+<script>
+    // Leaderboard and Trade Button
+    loadScript("//cdn-s2s.buysellads.net/pub/coingecko.js", function() {
+        BSAS2S_targeting.push(["coins", [ "dogecoin-private" ]]);
+    })
+
+    setTimeout(function() {
+      // Cryptobar
+      loadScript("//m.servedby-buysellads.com/monetization.js", function() {
+        if (typeof _bsa !== 'undefined' && _bsa) {
+          _bsa.init('fancybar', 'CKYDV2QM', 'placement:coingecko');
+
+          if(document.getElementById("sponsored_box")) {
+            // format, zoneKey, segment:value, options
+            _bsa.init('default', 'CK7DPK7J', 'placement:sponsored_box', {
+                target: '#sponsored_box',
+                align: 'horizontal'
+            });
+          }
+
+        }
+      })
+    }, 1000);
+  </script>
+<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase-messaging.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.7.3/localforage.min.js"></script>
+<div id="firebaseFCM" data-controller="firebase-fcm" data-fcm-sender-id="17831980620"></div>
+</body>
+</html>

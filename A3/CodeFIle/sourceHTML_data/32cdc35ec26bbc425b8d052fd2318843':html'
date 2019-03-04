@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<link rel="icon" type="image/png" href="https://crypto-times.jp/wp-content/uploads/2018/01/スクリーンショット-2018-01-08-5.49.46.png">
+<link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/themes/crypto_theme/html5reset.css" />
+<link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/themes/crypto_theme/style.css" media="screen" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="https://crypto-times.jp/wp-content/themes/crypto_theme/custom.css">
+<link rel="stylesheet" href="https://crypto-times.jp/wp-content/themes/crypto_theme/post_custum.css">
+<link rel="pingback" href="https://crypto-times.jp/xmlrpc.php" />
+<link rel="index" title="CRYPTO TIMES [クリプトタイムズ]" href="https://crypto-times.jp/" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://crypto-times.jp/feed/" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/html5shiv.js"></script>
+<link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/themes/crypto_theme/js/slick.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/themes/crypto_theme/js/slick-theme.css" media="screen" />
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/tab.js"></script>
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/menu.js"></script>
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/page-top-pc.js"></script>
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/slick.min.js"></script>
+<script>
+$(function() {
+$('.slider').slick({
+ dots: true,
+  infinite: true,
+  autoplay: true,
+  speed: 300,
+  slidesToShow: 3,
+  adaptiveHeight: true
+});
+});
+</script>
+<script src="https://crypto-times.jp/wp-content/themes/crypto_theme/js/scroll-fixed.js"></script>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施 | CRYPTO TIMES [クリプトタイムズ]</title>
+<link rel="canonical" href="https://crypto-times.jp/sendfriend-ripple/" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施 | CRYPTO TIMES [クリプトタイムズ]" />
+<meta property="og:description" content="XRPを活用し「フィリピンへのもっとも賢い送金方法」を提供することを目的として、Send Friend社がRipple社やマスターカードを含めた8社より170万ドルの資金調達を実施しました。 SendFriendはRip &hellip;" />
+<meta property="og:url" content="https://crypto-times.jp/sendfriend-ripple/" />
+<meta property="og:site_name" content="CRYPTO TIMES [クリプトタイムズ]" />
+<meta property="article:section" content="ニュース" />
+<meta property="article:published_time" content="2019-02-15T21:20:16+09:00" />
+<meta property="article:modified_time" content="2019-02-15T13:32:37+09:00" />
+<meta property="og:updated_time" content="2019-02-15T13:32:37+09:00" />
+<meta property="og:image" content="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" />
+<meta property="og:image:secure_url" content="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="334" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="XRPを活用し「フィリピンへのもっとも賢い送金方法」を提供することを目的として、Send Friend社がRipple社やマスターカードを含めた8社より170万ドルの資金調達を実施しました。 SendFriendはRip [&hellip;]" />
+<meta name="twitter:title" content="XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施 | CRYPTO TIMES [クリプトタイムズ]" />
+<meta name="twitter:site" content="@cryptotimes_mag" />
+<meta name="twitter:image" content="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" />
+<meta name="twitter:creator" content="@cryptotimes_mag" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/crypto-times.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://crypto-times.jp/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://crypto-times.jp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://crypto-times.jp/wp-includes/css/dashicons.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-std-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-std.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-fb-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-fb.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-fb-flat-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-fb-flat.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-ln-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-ln.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-ln-flat-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-ln-flat.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-pink-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-pink.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-rtail-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-rtail.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-drop-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-drop.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-think-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-type-think.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-no-br-css'  href='https://crypto-times.jp/wp-content/plugins/speech-bubble/css/sb-no-br.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://crypto-times.jp/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://crypto-times.jp/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://crypto-times.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/crypto-times.jp\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"31624","token":"6fa655b3f7","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://crypto-times.jp/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2'></script>
+<link rel='https://api.w.org/' href='https://crypto-times.jp/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://crypto-times.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrypto-times.jp%2Fsendfriend-ripple%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://crypto-times.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrypto-times.jp%2Fsendfriend-ripple%2F&#038;format=xml" />
+	<style type="text/css" media="all">.shortcode-star-rating{padding:0 0.5em;}.dashicons{font-size:20px;width:auto;height:auto;line-height:normal;text-decoration:inherit;vertical-align:middle;}.shortcode-star-rating [class^="dashicons dashicons-star-"]:before{color:#efc700;}.ssr-int{margin-left:0.2em;font-size:13px;vertical-align:middle;color:#333;}/*.shortcode-star-rating:before,.shortcode-star-rating:after{display: block;height:0;visibility:hidden;content:"\0020";}.shortcode-star-rating:after{clear:both;}*/</style>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施 | CRYPTO TIMES [クリプトタイムズ]</title>
+<link rel="canonical" href="https://crypto-times.jp/sendfriend-ripple/" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施 | CRYPTO TIMES [クリプトタイムズ]" />
+<meta property="og:description" content="XRPを活用し「フィリピンへのもっとも賢い送金方法」を提供することを目的として、Send Friend社がRipple社やマスターカードを含めた8社より170万ドルの資金調達を実施しました。 SendFriendはRip &hellip;" />
+<meta property="og:url" content="https://crypto-times.jp/sendfriend-ripple/" />
+<meta property="og:site_name" content="CRYPTO TIMES [クリプトタイムズ]" />
+<meta property="article:section" content="ニュース" />
+<meta property="article:published_time" content="2019-02-15T21:20:16+09:00" />
+<meta property="article:modified_time" content="2019-02-15T13:32:37+09:00" />
+<meta property="og:updated_time" content="2019-02-15T13:32:37+09:00" />
+<meta property="og:image" content="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" />
+<meta property="og:image:secure_url" content="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="334" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type='text/javascript' src='https://crypto-times.jp/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<link rel='https://api.w.org/' href='https://crypto-times.jp/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://crypto-times.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrypto-times.jp%2Fsendfriend-ripple%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://crypto-times.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcrypto-times.jp%2Fsendfriend-ripple%2F&#038;format=xml" />
+	<style type="text/css" media="all">.shortcode-star-rating{padding:0 0.5em;}.dashicons{font-size:20px;width:auto;height:auto;line-height:normal;text-decoration:inherit;vertical-align:middle;}.shortcode-star-rating [class^="dashicons dashicons-star-"]:before{color:#efc700;}.ssr-int{margin-left:0.2em;font-size:13px;vertical-align:middle;color:#333;}/*.shortcode-star-rating:before,.shortcode-star-rating:after{display: block;height:0;visibility:hidden;content:"\0020";}.shortcode-star-rating:after{clear:both;}*/</style>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://crypto-times.jp/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Google Analytics -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60992671-8"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-60992671-8');
+</script>
+
+<!-- Global site tag (gtag.js) - Ptengine -->
+<script type="text/javascript">
+		window._pt_lt = new Date().getTime();
+		window._pt_sp_2 = [];
+		_pt_sp_2.push('setAccount,1ea9faa3');
+		var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		(function() {
+				var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+				atag.src = _protocol + 'js.ptengine.jp/pta.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(atag, s);
+		})();
+</script>
+</head>
+<body data-rsssl=1>
+
+
+<header class="header">
+	<div class="center">
+    <h1><a href="/"><img class="logo" src="/wp-content/themes/crypto_theme/images/logo.png" alt="CRYPTO TIMES [クリプトタイムズ]"></a></h1>
+
+		
+    
+
+    <ul class="header_menu">
+      <li>
+          	<div id="search_pc"><form method="get" action="https://crypto-times.jp/" autocomplete="on" id="search_form">
+<input class="search_input"  type="text" name="s" id="word" placeholder="キーワードを入力して下さい" /><input class="search_submit" type="submit" value="検索" id="searchsubmit" />
+</form><button id="s_pc_btn"></button></div>
+            </li>
+      <li>
+			<a class="menu-trigger"><span></span><span></span><span></span></a>
+      </li>
+    </ul>
+  </div>
+
+  <nav class="g_nav">
+    <h3>カテゴリー一覧</h3>
+    <ul class="list">
+      	<li class="cat-item cat-item-285"><a href="https://crypto-times.jp/category/%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/dapps/" >DApps</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://crypto-times.jp/category/%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/ico/" >ICO</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="https://crypto-times.jp/category/press-release/" >Press</a>
+</li>
+	<li class="cat-item cat-item-289"><a href="https://crypto-times.jp/category/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/%e3%82%a2%e3%83%8a%e3%82%a6%e3%83%b3%e3%82%b9/" >アナウンス</a>
+</li>
+	<li class="cat-item cat-item-288"><a href="https://crypto-times.jp/category/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/" >イベント</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="https://crypto-times.jp/category/%e3%82%b3%e3%83%a9%e3%83%a0/interview/" >インタビュー</a>
+</li>
+	<li class="cat-item cat-item-286"><a href="https://crypto-times.jp/category/%e3%82%a6%e3%82%a9%e3%83%ac%e3%83%83%e3%83%88/" >ウォレット</a>
+</li>
+	<li class="cat-item cat-item-291"><a href="https://crypto-times.jp/category/%e3%82%b3%e3%83%a9%e3%83%a0/%e3%82%b3%e3%83%a9%e3%83%9c/" >コラボ</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://crypto-times.jp/category/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/" >ニュース</a>
+</li>
+	<li class="cat-item cat-item-283"><a href="https://crypto-times.jp/category/%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/" >プロジェクト</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="https://crypto-times.jp/category/%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0/" >マイニング</a>
+</li>
+	<li class="cat-item cat-item-290"><a href="https://crypto-times.jp/category/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88/" >レポート</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://crypto-times.jp/category/%e5%88%9d%e5%bf%83%e8%80%85%e5%90%91%e3%81%91/" >初心者向け</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://crypto-times.jp/category/%e5%8f%96%e5%bc%95%e6%89%80/" >取引所</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="https://crypto-times.jp/category/%e6%8a%80%e8%a1%93/" >技術</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://crypto-times.jp/category/%e3%82%b3%e3%83%a9%e3%83%a0/" >特集・コラム</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://crypto-times.jp/category/%e9%80%9a%e8%b2%a8/" >通貨</a>
+</li>
+    </ul>
+  </nav>
+
+  
+
+
+</header>
+
+
+<div id="all">
+
+
+<div id="navi"><p><a href="https://crypto-times.jp">HOME</a>&nbsp;&gt;&nbsp;<a href="https://crypto-times.jp/category/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/">ニュース</a>&nbsp;&gt;&nbsp;XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施</p></div>
+
+
+
+
+<div class="wrapper">
+<div class="content">
+
+
+<div class="post_content">
+
+<div class="post_top">
+	<img width="500" height="334" src="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg" class="attachment-full size-full wp-post-image" alt="XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施" title="XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522.jpg 500w, https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_709036522-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />  <div class="post_guid">
+    <span class="post_category"><a href="https://crypto-times.jp/category/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/" rel="category tag">ニュース</a></span><span class="post_time">2019/02/16</span>
+  </div>
+
+	
+  <h1>XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施</h1>
+
+  <div class="post_user">
+		  	<a href="https://crypto-times.jp/?author=61">
+		<img src="https://crypto-times.jp/wp-content/uploads/2018/12/F2gnhPjcQxqdymULyO3gA.jpg" width="300" height="225" alt="magic_jonson" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /></a>
+      <div class="user_top">
+
+            	<h2>magic_jonson<span class="small"></span></h2>
+				<p>バスケと音楽が好きなライターです。ブロックチェーンや仮想通貨について勉強しています。よろしくお願いします。</p>
+      
+      </div>
+  </div>
+</div>
+
+<div class="post_main">
+  <ul class="share_box_top">
+    <li>
+      <a class="fb_icon" href="//www.facebook.com/sharer.php?src=bm&u=https://crypto-times.jp/sendfriend-ripple/&t=XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施" title="Facebookでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=600');return false;">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_facebook.png">
+      </a>
+    </li>
+    <li>
+      <a class="tw_icon" href="//twitter.com/share?text=XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施&url=https://crypto-times.jp/sendfriend-ripple/&via=CryptoTimes_mag" title="Twitterでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_twitter.png">
+      </a>
+    </li>
+    <li>
+      <a class="hat_icon" href="//b.hatena.ne.jp/add?mode=confirm&url=https://crypto-times.jp/sendfriend-ripple/" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=1000');return false;" title="はてなブックマークに登録">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_hatena.png">
+      </a>
+    </li>
+    <li>
+      <a class="line_icon" href="//line.me/R/msg/text/?XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施%0Ahttps://crypto-times.jp/sendfriend-ripple/" target="_blank" title="LINEに送る">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_line.png">
+      </a>
+    </li>
+  </ul>
+
+  
+  <div class="td-post-content">
+  <p><strong>XRPを活用し「フィリピンへのもっとも賢い送金方法」</strong>を提供することを目的として、<a href="https://www.sendfriend.io">Send Friend社</a>がRipple社やマスターカードを含めた8社より170万ドルの資金調達を実施しました。</p>
+<p>SendFriendはRipple社の国際送金ネットワークであるRippleNetにも加盟する企業で、送金においてXRPを活用する送金システム「xRapid」を採用しています。</p>
+<p>SendFriendではフィリピンからアメリカへ渡った移民の人々が本国へ送金するケースなどに向けて、低価格で安全に送金できるサービスを展開する予定です。従来のバンキングシステムに頼らないシームレスな送金により、他の手法の手数料の平均より65％安くサービスを提供することができます。</p>
+<p>今回、 <a href="https://www.media.mit.edu">MIT メディア ラボ</a>、<a href="https://www.barclays.co.uk">バークレイズ</a>、<a href="https://mastercardfdn.org">マスターカード</a>、<a href="https://ripple.com">Ripple</a>、<a href="http://www.techstars.com">テックスターズ</a>、<a href="https://www.mahindrafinance.com">Mahindraファイナンス</a>、<a href="http://www.2020.co">2020ベンチャーズ</a>、そして<a href="https://www.crunchbase.com/organization/8-decimal-capital">8ディシマル キャピタル</a>の8社がSend Friendに資金提供を行いました。</p>
+<p>Send Friendはニュージャージー州からサービスを開始する予定で、他の州でもすぐにパソコンやスマホから利用可能になる予定です。</p>
+<p style="text-align: right;">記事ソース:<a href="https://globenewswire.com/news-release/2019/02/11/1716656/0/en/SendFriend-Next-Generation-Remittance-Company-Announces-1-7M-in-Capital-from-8-Decimal-Capital-Techstars-2020-Ventures-Barclays-MIT-Media-Lab.html">West</a></p>
+
+
+  <ul class="share_box_botttom">
+    <li>
+      <a class="fb_icon" href="//www.facebook.com/sharer.php?src=bm&u=https://crypto-times.jp/sendfriend-ripple/&t=XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施" title="Facebookでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=600');return false;">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_facebook.png">
+      </a>
+    </li>
+    <li>
+      <a class="tw_icon" href="//twitter.com/share?text=XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施&url=https://crypto-times.jp/sendfriend-ripple/&via=CryptoTimes_mag" title="Twitterでシェア" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_twitter.png">
+      </a>
+    </li>
+    <li>
+      <a class="hat_icon" href="//b.hatena.ne.jp/add?mode=confirm&url=https://crypto-times.jp/sendfriend-ripple/" onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=1000');return false;" title="はてなブックマークに登録">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_hatena.png">
+      </a>
+    </li>
+    <li>
+      <a class="line_icon" href="//line.me/R/msg/text/?XRP活用予定の送金会社Send FriendがRipple社やマスターカードなどから資金調達を実施%0Ahttps://crypto-times.jp/sendfriend-ripple/" target="_blank" title="LINEに送る">
+      <img src="/wp-content/themes/crypto_theme/images/sns_icon_line.png">
+      </a>
+    </li>
+  </ul>
+
+  </div><!--td-post-content-->
+
+</div><!--post_main-->
+
+
+
+<div class="post_bottom">
+	<h3>この記事を書いたライター</h3>
+  <div class="post_user">
+
+    <a href="https://crypto-times.jp/?author=61">
+		<img src="https://crypto-times.jp/wp-content/uploads/2018/12/F2gnhPjcQxqdymULyO3gA.jpg" width="300" height="225" alt="magic_jonson" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /></a>
+    <div class="user_top">
+
+  	
+      <h2>magic_jonson<span class="small"></span></h2>
+			<p>バスケと音楽が好きなライターです。ブロックチェーンや仮想通貨について勉強しています。よろしくお願いします。</p>
+
+    
+      <ul class="other_list">
+        <li><img src="/wp-content/themes/crypto_theme/images/icon_pencil.png" alt="">22投稿</li>
+        <li><img src="/wp-content/themes/crypto_theme/images/icon_comment.png" alt="">0コメント</li>
+        <li>
+        <a href="" target="_blank" rel="nofollow"></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+
+<h2 class="leftborder_ttl">関連記事 同じライターから</h2>
+
+<div class="post_relation">
+
+	<ul class="relation_list">
+		    <li><a href="https://crypto-times.jp/htc_blockchain_smatphone_sale/"><div class="post_img"><img width="300" height="173" src="https://crypto-times.jp/wp-content/uploads/2019/02/a2f1215904ecb1beb733ef5238c2f87d-300x173.png" class="attachment-medium size-medium wp-post-image" alt="HTCのブロックチェーンスマホ『Exodus 1』の販売が3月中に開始！" title="HTCのブロックチェーンスマホ『Exodus 1』の販売が3月中に開始！" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/a2f1215904ecb1beb733ef5238c2f87d-300x173.png 300w, https://crypto-times.jp/wp-content/uploads/2019/02/a2f1215904ecb1beb733ef5238c2f87d-768x443.png 768w, https://crypto-times.jp/wp-content/uploads/2019/02/a2f1215904ecb1beb733ef5238c2f87d.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/3/1</span><h3>HTCのブロックチェーンスマホ『Exodus 1』の販売が...</h3></div></a></li>
+        <li><a href="https://crypto-times.jp/un_report_crypto_evaluation/"><div class="post_img"><img width="300" height="212" src="https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-300x212.jpg" class="attachment-medium size-medium wp-post-image" alt="国連のレポートで仮想通貨を「重要な技術革新」と評価" title="国連のレポートで仮想通貨を「重要な技術革新」と評価" srcset="https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-300x212.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-768x543.jpg 768w, https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-100x70.jpg 100w, https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-696x492.jpg 696w, https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326-594x420.jpg 594w, https://crypto-times.jp/wp-content/uploads/2019/01/shutterstock_276795326.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/2/27</span><h3>国連のレポートで仮想通貨を「重要な技術革新」と評価</h3></div></a></li>
+        <li><a href="https://crypto-times.jp/coinbase-neutrino/"><div class="post_img"><img width="300" height="132" src="https://crypto-times.jp/wp-content/uploads/2019/02/1UatsBh6DwWeGeM31QFGIwA-300x132.jpg" class="attachment-medium size-medium wp-post-image" alt="米国大手取引所CoinbaseがNeutrinoを買収と発表、セキュリティ強化へ乗り出す！" title="米国大手取引所CoinbaseがNeutrinoを買収と発表、セキュリティ強化へ乗り出す！" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/1UatsBh6DwWeGeM31QFGIwA-300x132.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/02/1UatsBh6DwWeGeM31QFGIwA-768x338.jpg 768w, https://crypto-times.jp/wp-content/uploads/2019/02/1UatsBh6DwWeGeM31QFGIwA.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/2/22</span><h3>米国大手取引所CoinbaseがNeutrinoを買収と発表、...</h3></div></a></li>
+    	</ul>
+
+
+	
+</div>
+
+
+<h2 class="leftborder_ttl">同カテゴリの人気記事</h2>
+<div class="post_catrank">
+	<ul>
+		                <li>
+    <a href="https://crypto-times.jp/fb-stablecoin-2/">
+      <div class="post_img"><img width="300" height="200" src="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="Facebookがステーブルコインの上場を取引所と交渉中？NYタイムズが報じる" title="Facebookがステーブルコインの上場を取引所と交渉中？NYタイムズが報じる" srcset="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273-300x200.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273-768x513.jpg 768w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+      <div class="post_data">
+      	<span class="post_category">ニュース</span><span class="post_time">2019/03/02</span>
+      	<h3>Facebookがステーブルコインの上場を取引所と交渉中？NYタイムズが報じる</h3>
+        <div class="post_text">
+        	<div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/08/hotoke_senju_kannon.png" width="266" height="300" alt="NT【CRYPTO TIMES公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>NT</p></div>
+          <p>Facebookがステーブルコインの上場を取引…</p>
+      	</div>
+      </div>
+    </a>
+    </li>
+            <li>
+    <a href="https://crypto-times.jp/xrp-coinbase/">
+      <div class="post_img"><img width="300" height="180" src="https://crypto-times.jp/wp-content/uploads/2019/02/Untitled-design-1-300x180.png" class="attachment-medium size-medium wp-post-image" alt="米Coinbase、一般投資家向けにもRipple(リップル)・XRPの取引を提供開始" title="米Coinbase、一般投資家向けにもRipple(リップル)・XRPの取引を提供開始" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/Untitled-design-1-300x180.png 300w, https://crypto-times.jp/wp-content/uploads/2019/02/Untitled-design-1-768x461.png 768w, https://crypto-times.jp/wp-content/uploads/2019/02/Untitled-design-1.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+      <div class="post_data">
+      	<span class="post_category">ニュース</span><span class="post_time">2019/03/02</span>
+      	<h3>米Coinbase、一般投資家向けにもRipple(リップル)・XRPの取引を提供開始</h3>
+        <div class="post_text">
+        	<div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/08/hotoke_senju_kannon.png" width="266" height="300" alt="NT【CRYPTO TIMES公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>NT</p></div>
+          <p>米Coinbase、一般投資家向けにもRipple(リ…</p>
+      	</div>
+      </div>
+    </a>
+    </li>
+            <li>
+    <a href="https://crypto-times.jp/flappy_bird_on_eos/">
+      <div class="post_img"><img width="300" height="143" src="https://crypto-times.jp/wp-content/uploads/2019/02/FireShot-Capture-60-Flappy-Bird-with-NeuroEvolution-MachineLear_-https___eosflappybird.bogo_.one_-300x143.png" class="attachment-medium size-medium wp-post-image" alt="EOS版のFlappy Birdがリリース！ランキング上位にはEOSの報酬！" title="EOS版のFlappy Birdがリリース！ランキング上位にはEOSの報酬！" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/FireShot-Capture-60-Flappy-Bird-with-NeuroEvolution-MachineLear_-https___eosflappybird.bogo_.one_-300x143.png 300w, https://crypto-times.jp/wp-content/uploads/2019/02/FireShot-Capture-60-Flappy-Bird-with-NeuroEvolution-MachineLear_-https___eosflappybird.bogo_.one_-768x366.png 768w, https://crypto-times.jp/wp-content/uploads/2019/02/FireShot-Capture-60-Flappy-Bird-with-NeuroEvolution-MachineLear_-https___eosflappybird.bogo_.one_.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+      <div class="post_data">
+      	<span class="post_category">ニュース</span><span class="post_time">2019/02/16</span>
+      	<h3>EOS版のFlappy Birdがリリース！ランキング上位にはEOSの報酬！</h3>
+        <div class="post_text">
+        	<div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2019/02/mKceF02k-300x300.jpg" width="300" height="300" alt="Shota【CRYPTO TIMES 公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>Shota</p></div>
+          <p>EOS版のFlappy Birdがリリース！ランキン…</p>
+      	</div>
+      </div>
+    </a>
+    </li>
+            <li>
+    <a href="https://crypto-times.jp/bitwise-etf-request/">
+      <div class="post_img"><img width="300" height="169" src="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_1280163124-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="初ビットコインETF承認なるか!?Bitwiseの申請に対しSECが審査開始" title="初ビットコインETF承認なるか!?Bitwiseの申請に対しSECが審査開始" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_1280163124-300x169.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_1280163124-768x432.jpg 768w, https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_1280163124.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+      <div class="post_data">
+      	<span class="post_category">ニュース</span><span class="post_time">2019/02/17</span>
+      	<h3>初ビットコインETF承認なるか!?Bitwiseの申請に対しSECが審査開始</h3>
+        <div class="post_text">
+        	<div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/06/IMG_7983.jpg" width="236" height="300" alt="sota【CRYPTO TIMES 公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>sota</p></div>
+          <p>初ビットコインETF承認なるか!?Bitwiseの…</p>
+      	</div>
+      </div>
+    </a>
+    </li>
+            <li>
+    <a href="https://crypto-times.jp/theuniversityofmichigan-investment/">
+      <div class="post_img"><img width="300" height="169" src="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_530884738-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="ミシガン大学基金がcryptonetwork technology fundにさらなる投資予定" title="ミシガン大学基金がcryptonetwork technology fundにさらなる投資予定" srcset="https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_530884738-300x169.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_530884738-768x432.jpg 768w, https://crypto-times.jp/wp-content/uploads/2019/02/shutterstock_530884738.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+      <div class="post_data">
+      	<span class="post_category">ニュース</span><span class="post_time">2019/02/23</span>
+      	<h3>ミシガン大学基金がcryptonetwork technology fundにさらなる投資予定</h3>
+        <div class="post_text">
+        	<div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/08/115f390efd4ebb573cdb95305a03e2b9.png" width="300" height="158" alt="shimada" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>Takahiro</p></div>
+          <p>ミシガン大学基金がcryptonetwork technol…</p>
+      	</div>
+      </div>
+    </a>
+    </li>
+          </ul>
+  </div>
+
+
+</div><!--post_content-->
+
+</div><!--content-->
+<div class="sidebar">
+
+
+  <div>  
+</div>
+
+<div class="side_box">
+  <h3><span class="side_ttl">RANKING</span><span class="small">人気記事ランキング</span></h3>
+  <ul class="side_rank">
+		                <li><a href="https://crypto-times.jp/binance_dex_testnet_launch/" class="side_list"><div class="post_img"><span class="rank">1</span><img src="https://crypto-times.jp/wp-content/uploads/2019/02/FireShot-Capture-67-Binance-Decentralized-Exchange-https___testnet.binance.org_-300x143.png" alt="Binanceが独自チェーンBinance Chain と Binance DEXのテストネットをローンチ"></div><div class="post_data"><span class="post_category">特集・コラム</span><span class="post_view">16785view</span><h4>Binanceが独自チェーンBinance Chain と Binance D...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2019/02/mKceF02k-300x300.jpg" width="300" height="300" alt="Shota【CRYPTO TIMES 公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>Shota</p></div></div></a></li>
+            <li><a href="https://crypto-times.jp/interview-blockbase/" class="side_list"><div class="post_img"><span class="rank">2</span><img src="https://crypto-times.jp/wp-content/uploads/2019/02/6dc31001b0a40cb80dbf92cbae66e0c0-300x227.png" alt="ブロックチェーン開発の良さはシンプルなところ。BlockBase 真木大樹がブロックチェーンを通じて目指す未来とは"></div><div class="post_data"><span class="post_category">インタビュー</span><span class="post_view">14579view</span><h4>ブロックチェーン開発の良さはシンプルなところ。B...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/09/publicdomainq-0011143rbw.jpg" width="300" height="200" alt="Rabbit【CRYPTO TIMES 公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>Rabbit</p></div></div></a></li>
+            <li><a href="https://crypto-times.jp/haruka-column-7/" class="side_list"><div class="post_img"><span class="rank">3</span><img src="https://crypto-times.jp/wp-content/uploads/2019/03/TOKEN-LAB-300x157.jpg" alt="TokenLab ブロックチェーンの技術に興味がある人たちが集まる場所（無料レポートリンク付き）"></div><div class="post_data"><span class="post_category">特集・コラム</span><span class="post_view">11426view</span><h4>TokenLab ブロックチェーンの技術に興味がある人た...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/12/226e640e7286b2bd3101a38f86aef9f0.png" width="297" height="300" alt="はるか先生" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>はるか先生</p></div></div></a></li>
+            <li><a href="/ranking/" class="more_btn">ランキング一覧を見る</a></li>
+  </ul>
+</div>
+
+
+<div class="side_box">
+  <h3><span class="side_ttl">NEW</span><span class="small">最新の投稿</span></h3>
+	  <ul class="side_new">
+       <li><a href="https://crypto-times.jp/julius-baer-to-enter-the-crypto-space/" class="side_list">
+    <div class="post_img">
+    <img width="800" height="534" src="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_1196822353.jpg" class="attachment-full size-full wp-post-image" alt="40兆円越を運用するスイスの大手銀行が仮想通貨産業への参入を発表" title="40兆円越を運用するスイスの大手銀行が仮想通貨産業への参入を発表" srcset="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_1196822353.jpg 800w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_1196822353-300x200.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_1196822353-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />        </div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/03/03</span><h4>40兆円越を運用するスイスの大手銀行が仮想通貨産...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/02/IMG_20171104_130322_663-1-300x300.jpg" width="300" height="300" alt="kaz【CRYPTO TIMES公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>kaz</p></div></div>
+    </a></li>
+      <li><a href="https://crypto-times.jp/quadrigacx-ernst-and-young-report/" class="side_list">
+    <div class="post_img">
+    <img width="800" height="534" src="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_674078311.jpg" class="attachment-full size-full wp-post-image" alt="QuadrigaCX資産消失事件で、問題のコールドウォレットは4月から空であったことが判明" title="QuadrigaCX資産消失事件で、問題のコールドウォレットは4月から空であったことが判明" srcset="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_674078311.jpg 800w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_674078311-300x200.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_674078311-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />        </div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/03/03</span><h4>QuadrigaCX資産消失事件で、問題のコールドウォレ...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/04/xPCEsxT0_400x400-300x300.png" width="300" height="300" alt="Yuya【CRYPTO TIMES公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>Yuya</p></div></div>
+    </a></li>
+      <li><a href="https://crypto-times.jp/fb-stablecoin-2/" class="side_list">
+    <div class="post_img">
+    <img width="800" height="534" src="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273.jpg" class="attachment-full size-full wp-post-image" alt="Facebookがステーブルコインの上場を取引所と交渉中？NYタイムズが報じる" title="Facebookがステーブルコインの上場を取引所と交渉中？NYタイムズが報じる" srcset="https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273.jpg 800w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273-300x200.jpg 300w, https://crypto-times.jp/wp-content/uploads/2019/03/shutterstock_558937273-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />        </div><div class="post_data"><span class="post_category">ニュース</span><span class="post_time">2019/03/02</span><h4>Facebookがステーブルコインの上場を取引所と交渉...</h4><div class="user"><img src="https://crypto-times.jp/wp-content/uploads/2018/08/hotoke_senju_kannon.png" width="266" height="300" alt="NT【CRYPTO TIMES公式ライター】" class="avatar avatar-300 wp-user-avatar wp-user-avatar-300 alignnone photo" /><p>NT</p></div></div>
+    </a></li>
+    <li><a href="/all/" class="more_btn">最新記事一覧を見る</a></li>
+  </ul>
+  </div>
+
+
+</div><!--sidebar-->
+</div><!--wrapper-->
+
+
+
+
+
+</div><!--all-->
+
+
+<footer class="footer">
+	<div class="footer_top">
+    <a href="/"><img class="footer_logo" src="/wp-content/themes/crypto_theme/images/logo.png" alt=""></a>
+    <p>CRYPTO TIMESは仮想通貨に関する総合メディアです。<br>各通貨に関する特徴や仮想通貨の最新ニュース、コラムなどはじめての方にも分かりやすい最新情報を発信していきます。</p>
+    <ul class="footer_sns">
+      <li><a target="_blank" href="https://twitter.com/cryptotimes_mag" title="Twitter"><img src="/wp-content/themes/crypto_theme/images/sns_icon_twitter.png" alt=""></a></li>
+      <li><a target="_blank" href="https://crypto-times.jp/feed/" title="RSS"><img src="/wp-content/themes/crypto_theme/images/sns_icon_rss.png" alt=""></a></li>
+    </ul>
+  </div>
+  <ul class="footer_menu">
+  	<li><a href="https://crypto-times.jp/recruit/">recruit</a></li>
+    <li><a href="https://crypto-times.jp/policy/">免責事項</a></li>
+    <li><a href="https://crypto-times.jp/contact/">お問い合わせ</a></li>
+  </ul>  
+  <div class="footer_copy">
+  	<p>© © CRYPTO TIMES All rights reserved.</p>
+  </div>
+</footer>
+
+
+
+<p class="pagetop"><a href="#all"><img src="/wp-content/themes/crypto_theme/images/pagetop.png" alt=""></a></p>
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/crypto-times.jp\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/crypto-times.jp\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://crypto-times.jp/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"\u8868\u793a","visibility_hide":"\u975e\u8868\u793a","width":"Auto"};
+var tocplus = {"visibility_show":"\u8868\u793a","visibility_hide":"\u975e\u8868\u793a","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://crypto-times.jp/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+</body>
+</html>

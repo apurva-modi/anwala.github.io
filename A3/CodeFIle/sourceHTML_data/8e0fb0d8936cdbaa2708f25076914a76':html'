@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>
+<html id="seedrs" lang="en-US" class="no-js seedrs ie8andlower ie8 fluid-grid">
+<![endif]-->
+<!--[if IE 9 ]>
+<html id="seedrs" lang="en-US" class="no-js seedrs ie9 fluid-grid">
+<![endif]-->
+<!--[if !IE]><!--><html id="seedrs" lang="en-US" class="seedrs no-js fluid-grid"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<script src="/assets/gulp/jquery-6cd4c4dee184e673759d7df48c9eee309a0980c5bae751770d2e0b6fe0aaed24.js"></script>
+<script>
+//<![CDATA[
+if (window != top) { top.location.href = location.href; }
+
+//]]>
+</script>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>Log In To Invest In Businesses Or Raise Startup Funding</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="y4xjbCz75Xb6iWUKnrVKLfU1W1bmavnXSpLgldZXhCT/NgLlDbtX/8asUtEOoT+rzTY/HAZuNHtjhcOobdZxiA==" />
+<meta content="Become an online seeder in new startup businesses and invest money online with European equity crowdfunding platform Seedrs." name="description">
+
+<!-- Analytical Init: Google -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-18059374-3', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  var match = document.cookie.match(new RegExp('(^| )ignored_referrer=([^;]+)'));
+  if (match && decodeURIComponent(match[2]) === document.referrer) {
+    ga('set', 'referrer', window.location.origin);
+  }
+  var userId = document.cookie.replace(/(?:(?:^|.*; *)external_user_id *= *([^;]*).*$)|^.*$/, "$1");
+  if(userId.length > 0) {
+    ga('set', 'userId', userId);
+  }
+
+  // Optimizely Universal Analytics Integration Code
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");
+
+  ga('send', 'pageview');
+</script>
+          <!-- Analytical Init: Sift Science -->
+          <script type="text/javascript">
+            var _sift = _sift || [];
+            _sift.push(['_setAccount', '5ccaac1218']);
+
+            (function() {
+              function ls() {
+                var e = document.createElement('script');
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(e, s);
+              }
+              if (window.attachEvent) {
+                window.attachEvent('onload', ls);
+              } else {
+                window.addEventListener('load', ls, false);
+              }
+            })();
+          </script>
+
+<script type="text/javascript">
+var Analytical = {
+  identify: function(id, options) {
+    if (options) {
+      mixpanel.people.set(options);
+      if (options.name) {
+        mixpanel.name_tag(options.name);
+      }
+    }
+    mixpanel.identify(id);
+  },
+  track: function(page, options) {
+    ga('send', 'pageview', page, options || {});
+  },
+  event: function(name, options, callback) {
+    ga('send', 'event', name, options && options.action || 'undefined', JSON.stringify(options), options && options.value);
+    
+    var gtmVariables = {};
+    for (var k in options) {
+      gtmVariables[k] = options[k];
+    }
+    gtmVariables.event = name;
+    gtmDataLayer.push(gtmVariables);
+    
+    mixpanel.track(name, options || {});
+  },
+  set: function(properties) {
+    mixpanel.register(properties);
+    
+    if (properties) {
+      _sift.push(['_setUserId', properties.user_id]);
+      _sift.push(['_setSessionId', properties.session_id]);
+      _sift.push(['_trackPageview']);
+    }
+  },
+  reset: function(properties) {
+    mixpanel.reset();
+  },
+  alias_identity: function(old_identity, new_identity) {
+    mixpanel.alias(new_identity);
+  }
+};
+</script>
+
+<script src="/assets/gulp/modernizr-5b8c50b3e064b15205a43617a20142980fc369f92160ad87808c933029d8a337.js"></script>
+<script>
+//<![CDATA[
+window.M = Modernizr;
+
+//]]>
+</script><script>
+//<![CDATA[
+(function(d, u) {
+var h = d.querySelector('html'), signed_in_status = d.cookie.match(/signed_in_status\s*\=\s*([^;]*)/);
+if (d.querySelector && signed_in_status !== null) {
+h.className += signed_in_status.length && signed_in_status[1] == 'incomplete' ? ' incomplete-signed-in' :' complete-signed-in';
+}
+h.className += u.match(/iphone os/gi) ? ' ios' : ' no-ios';
+h.className += u.match(/trident/gi) ? ' trident' : ' no-trident';
+h.className += u.match(/webkit/gi) ? ' webkit' : ' no-webkit';
+document.write('<'+'style id="max-80vh">');
+if (h.className.match(/\strident\s/) && document.documentMode <= 10 && document.documentElement.clientWidth > 600) {
+document.write('.max-80vh, .Modal { max-height: ' + document.documentElement.clientHeight * 0.8 +'px !important; }');
+}
+document.write('<'+'/style>');
+})(document, navigator.userAgent);
+
+//]]>
+</script>
+<link rel="stylesheet" media="all" href="/assets/gulp/base-e599378bdfd64463b30bd181eebe99791436c08dcf8822e5e074c0a28961e08b.css" />
+<link rel="stylesheet" media="only screen and (max-width: 37.46em)" href="/assets/gulp/small-d538f40530d781a7c43792aa1bb883edd3a73caa0469085e4fab656e3f7dd943.css" />
+<link rel="stylesheet" media="only screen and (min-width: 37.5em)" href="/assets/gulp/medium_and_large-34c6ba9e9bb1a083ddaf7fcc3b52c7c5147fdf5faa6edca302c5deda683b7fb1.css" />
+<link rel="stylesheet" media="only screen and (min-width: 37.5em) and (max-width: 59.3125em)" href="/assets/gulp/medium-dd44e0ecbaa4187a10e2a1e57a6ab080d3e0d163e484b914076819b48d82dd2c.css" />
+<link rel="stylesheet" media="only screen and (min-width: 59.375em)" href="/assets/gulp/large-7c9abd2c51cc408267e94247c382d23331f9680fd6c66a52b48a6df624f5635a.css" />
+<link rel="stylesheet" media="screen" href="/assets/gulp/main_nav-8b72dbac850fb4228b9585a00af3a5e19e751d73392451d6310ed48a7567811e.css" />
+<link rel="stylesheet" media="screen" href="/assets/gulp/icon_set-a7fe081bfe2cae221a1e9e32727c9ad361c8f192942736d80f6eba52fef9d70c.css" />
+
+
+
+<link href="https://www.seedrs.com/login" rel="canonical">
+<link href="/seedrs_32.png" rel="icon" sizes="32x32">
+<link href="/seedrs-xicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<script src="//use.typekit.com/gmd7txr.js"></script>
+<script>
+//<![CDATA[
+try{Typekit.load();}catch(e){}
+//]]>
+</script>
+<script>
+//<![CDATA[
+/*eslint-disable */
+var _prum = [['id', '5204f407abe53d3c18000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0],
+        p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+/*eslint-enable */
+
+
+//]]>
+</script><script src="//assets.seedrs.com/vwo/_vwo.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "FinancialService",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Churchill House, 142-146 Old Street",
+    "addressRegion": "London",
+    "postalCode": "EC1V 9BW"
+  },
+  "hasMap": "https://www.google.co.uk/maps/place/Churchill+House,+142-146+Old+St,+London+EC1V+9BW/@51.5248697,-0.0938118,17z",
+  "description": "Seedrs makes it simple for you to buy into businesses you believe in and share in their success",
+  "name": "Seedrs",
+  "logo": "https://www.seedrs.com/build/images/logos/seedrs-default-logo.svg",
+  "image": "https://www.seedrs.com/build/images/logos/seedrs-default-logo.svg",
+  "url" : "https://www.seedrs.com/",
+  "sameAs" : [
+    "https://www.facebook.com/Seedrs",
+    "https://twitter.com/Seedrs",
+    "https://plus.google.com/+SeedrsCrowdfunding",
+    "https://www.linkedin.com/company/seedrs"
+  ]
+}
+</script>
+
+</head>
+<body class="public-barebones-layout sessions fluid-grid sessions_new is-secondaryMarketClosed" id="sessions_new">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W2MBHF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmDataLayer','GTM-W2MBHF');</script>
+<!-- End Google Tag Manager -->
+
+<div class="MainNav-offCanvasWrap">
+<div class="FlashMessage" id="cookie_message" style="display:none">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="FlashMessage-content">
+Seedrs uses cookies to make the site simpler.
+<a target="_blank" href="/privacy_notice#cookies">Find out more about cookies</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="FlashMessage" id="flash_message"><div class="grid-container-wrapper" id="flash_message_container"><div class="grid-container"><div class="FlashMessage-content" id="flash_content"></div><a class="FlashMessage-closeButton close_button" href="#close_message">
+<i class="i-close InlineSVG"></i>
+<span class="assist">Close</span>
+</a></div></div></div>
+<div class="site">
+<header>
+<h1 class="assistive">Login with
+</h1>
+</header>
+
+<main class="Page-content Page-content--large content u-noBottomPadding" id="content">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="page-notices padded-container">
+<div class="InPageFlashMessage" hidden></div>
+
+</div>
+</div>
+</div>
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="padded-container">
+<div class="barebones-content-container">
+<div class="barebones-header">
+<div class="barebones-shape-container">
+<div class="barebones-circle"></div>
+</div>
+<div class="barebones-logo">
+<a href="https://www.seedrs.com/"><img alt="Seedrs logo" src="/assets/seedrs_logo_large-5be2fd4aa5a946e80e0353906e0ed07fa81382ae79fb66721661b6027fc3a35b.svg" /></a>
+</div>
+</div>
+<div class="barebones-primary-content">
+<h2 class="Page-title">Login with
+</h2>
+<div class="sign-in">
+<ul class="AuthProviders"><li class="AuthProvider">
+<span title="Login with Facebook">
+<a data-social-network="facebook" class="AuthProvider-link SocialLink SocialLink--normal SocialLink--facebookBackground SocialLink--facebookBorder SocialLink--darkFacebookHover social-networks-signin-facebook SocialLink--whiteColor" href="/auth/facebook?origin=login"><span class="assistive">Login with Facebook</span>
+<i class="AuthProvider-icon InlineSVG SocialLink-icon i-facebook is-large"></i>
+</a></span>
+</li><li class="AuthProvider">
+<span title="Login with Google">
+<a data-social-network="google" class="AuthProvider-link SocialLink SocialLink--normal SocialLink--googleBackground SocialLink--googleBorder SocialLink--darkGoogleHover social-networks-signin-google" href="/auth/google_oauth2?origin=login"><span class="assistive">Login with Google</span>
+<i class="AuthProvider-icon InlineSVG SocialLink-icon i-google is-large"></i>
+</a></span>
+</li><li class="AuthProvider">
+<span title="Login with Linkedin">
+<a data-social-network="linkedin" class="AuthProvider-link SocialLink SocialLink--normal SocialLink--linkedinBackground SocialLink--linkedinBorder SocialLink--darkLinkedinHover social-networks-signin-linkedin SocialLink--whiteColor" href="/auth/linkedin?origin=login"><span class="assistive">Login with Linkedin</span>
+<i class="AuthProvider-icon InlineSVG SocialLink-icon i-linkedin is-large"></i>
+</a></span>
+</li><li class="AuthProvider">
+<span title="Login with Twitter">
+<a data-social-network="twitter" class="AuthProvider-link SocialLink SocialLink--normal SocialLink--twitterBackground SocialLink--twitterBorder SocialLink--darkTwitterHover social-networks-signin-twitter SocialLink--whiteColor" href="/auth/twitter?origin=login"><span class="assistive">Login with Twitter</span>
+<i class="AuthProvider-icon InlineSVG SocialLink-icon i-twitter is-large"></i>
+</a></span>
+</li></ul>
+<div class="OrSeparator">
+<hr class="OrSeparator-rule">
+<p class="OrSeparator-word">or</p>
+</div>
+
+<form id="new_session" class="Form" novalidate="novalidate" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HiaAV2QGGB/2eaiu6wy5EB0JetWw1dyQbQ5MHSdADagqnOHeRUaqlspcn3V7GMyWJQoen1DRETxEGW8gnMH4BA==" />
+<p class="FormField is-notLastOfForm">
+<label class="FormField-label" for="session_email">Email</label>
+<input maxlength="255" class="FormField-textInput email" autofocus="autofocus" size="255" type="email" name="session[email]" id="session_email" />
+</p>
+<div class="forgot-password-container">
+<p class="FormField">
+<label class="FormField-label" for="session_password">Password</label>
+<input class="FormField-textInput Password" type="password" name="session[password]" id="session_password" />
+<span class="FormField FormField--checkbox Password-toggle">
+<label class="FormField-label" for="show_password"><input type="checkbox" name="show_password" id="show_password" class="FormField-checkboxInput" />
+<span class="FormField-checkboxContent">
+Show password
+</span>
+</label></span>
+</p>
+<div class="FormActions">
+<input type="submit" name="commit" value="Login" data-disable-with="Please wait..." class="Button Button--green Button--medium" />
+</div>
+<p class="forgot-password grey-links">
+<a href="/passwords/new">Forgot?</a>
+</p>
+</div>
+</form>
+</div>
+
+</div>
+</div>
+<div class="barebones-secondary-content">
+<p>
+Don't have an account yet?
+<a class="chevron-link" href="/signup">Sign&nbsp;Up</a>
+</p>
+
+</div>
+</div>
+
+</div>
+</div>
+</main>
+<footer class="site-footer" id="footer">
+<div class="grid-container-wrapper">
+<div class="grid-container" id="footer_extra_content">
+<hr class="HorizontalRule HorizontalRule--gradient">
+<div class="container footer-legal-content"><div class="text-copyright">
+<img alt="Seedrs small logo" class="legal-content-logo" src="/assets/seedrs_logo_large-5be2fd4aa5a946e80e0353906e0ed07fa81382ae79fb66721661b6027fc3a35b.svg" />
+<p class="fsa_text text-fsa">
+Seedrs Limited is authorised and regulated by the Financial Conduct Authority (No. 550317).
+</p>
+<p class="disclaimer">
+&copy; Seedrs Limited 2019. All rights reserved. Seedrs is a registered European Community trademark
+(No. 008771537) and registered United States service mark (No. 85423072) of Seedrs Limited, a limited company
+registered in England and Wales (No. 06848016), with registered office at Churchill House, 142-146 Old Street,
+London EC1V 9BW, United Kingdom, VAT No. GB 208 3065 32. Seedrs.com is a website owned and operated by Seedrs Limited.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+</footer>
+</div>
+<div id="dialogs"></div>
+<div id="javascript_includes">
+
+<script src="/assets/gulp/application-d94a9049b1b48b5b1c1de73d8359469d7cbf1d05c5e2596038394c3f662b150c.js"></script>
+
+<script>
+//<![CDATA[
+$(function(){var o=$("#new_session");window.location.hash&&(o.prop("action",o.prop("action")+window.location.hash),window.location.hash=""),o.validate({rules:{"session[email]":{required:!0,email:!0},"session[password]":{required:!0}}})});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(function(){""===document.referrer||document.referrer.match("^https?://[^/]*seedrs.com")||document.referrer!==Cookies.get("ignored_referrer")&&Cookies.set("_seedrs_referrer",document.referrer)}),$(function(){var e=new RegExp("[?&]promo_code=([^&;]+?)(&|#|;|$)").exec(window.location.search),o=decodeURIComponent((e||[null,""])[1].replace(/\+/g,"%20"))||"";if(""!==o){Cookies.set("_seedrs_campaign_code",o,{expires:30,path:"/"});var r,c=document.URL.split("?")[1].split("#")[0].split("&");r=1===c.length?"?promo_code="+o:0===c[0].indexOf("promo_code=")?"promo_code="+o+"&":"&promo_code="+o,window.location=window.location.href.replace(r,"")}});
+//]]>
+</script>
+<script>
+  $(function() {
+    if (Cookies.get('seen_cookie_message') !== 'accepted') {
+      $('#cookie_message').show();
+      Cookies.set('seen_cookie_message', 'accepted', { path: '/', expires: 30 * 365 });
+    }
+  });
+</script>
+
+</div>
+          <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+          0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+          for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+          var mixpanel_tracking_opt = {}; if ((document.cookie.replace(/(?:(?:^|.*; *)performance_cookie *= *([^;]*).*$)|^.*$/, "$1") != "true") && (document.cookie.indexOf("performance_cookie") != -1)) { mixpanel_tracking_opt = {opt_out_tracking_by_default: true} }
+          mixpanel.init('3bccab71799430a352d36dd035d35501', mixpanel_tracking_opt);</script><!-- end Mixpanel -->
+
+<script type="text/javascript">
+var commands;
+
+try {
+  commands = $.parseJSON(decodeURIComponent((Cookies.get('analytical') || '').replace(/\+/g, '%20')) || '[]');
+} catch(e) {
+  commands = [];
+}
+
+Cookies.remove('analytical', { path: '/' });
+
+$.each(commands, function(index, command) {
+  var method = command.shift(),
+      arguments = command;
+
+  if ('function' === typeof Analytical[method]) {
+    Analytical[method].apply(this, arguments);
+  }
+});
+</script>
+
+<script>
+  /* <![CDATA[ */
+  var google_conversion_id = 1006010876;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;"></div>
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006010876/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1">
+</noscript>
+
+<script>
+//<![CDATA[
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
+s.src='https://widget.intercom.io/widget/qhec2syh';
+var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+
+//]]>
+</script>
+</div>
+</body>
+</html>
+

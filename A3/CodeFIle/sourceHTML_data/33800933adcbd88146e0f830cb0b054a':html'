@@ -1,0 +1,1617 @@
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#da2f0c">
+  <link rel="canonical" href="https://mybitcoinshirts.com/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal">
+ <!-- SEO Manager 6.0.1 -->
+<meta name='seomanager' content='6.0' />
+<title>Why Bitcoin’s (BTC) future is vertical and crypto should give up going</title>
+<meta name='description' content='Bitcoin news. Bitcoin articles daily. Bitcoin Daily Updates. Cryptocurrencies news. Cryptocurrencies articles. Bitcoin articles. Altcoins news. Altcoins articles. Altcoins Updates. Bitcoin bull run. Bitcoin bottom. Blockchain News. Lightning Network News. Bakkt ICE News. Bitcoin ETF approval. US SEC News. Crypto News.' /> 
+<meta name="robots" content="index"> 
+<meta name="robots" content="follow">
+<script type="application/ld+json">
+ {
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "url": "https:\/\/mybitcoinshirts.com\/blogs\/news\/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal",
+ "mainEntityOfPage": "https:\/\/mybitcoinshirts.com\/blogs\/news\/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal",
+ "name": "Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal",
+ "headline": "Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal",
+ "author": {
+ "@type": "Person",
+ "name": "Reposted Crypto Articles"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "My Bitcoin Shirts"
+,"logo":
+ {
+ "@type": "ImageObject",
+ "url": "https://customers.seomanager.com/knowledgegraph/logo/my-bitcoin-shirts_myshopify_com_logo.png"
+ }},
+ "image": {
+ "@type": "ImageObject","url": "https://cdn.shopify.com/s/files/1/0054/2454/5859/articles/lightning_1024x1024.jpg?v=1550335364","height": "1024",
+ "width": "1024"
+ },
+ "datePublished": "2019-02-16 11:37:32 -0500",
+ "dateModified": "2019-02-16 11:47:00 -0500",
+ "description": "\nBy Gary McFarlane\nInstead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.\nThat, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.\n\n\n\n\n\n \n\n\nNodes matter and bitcoin is still on top by a mile\nAs of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.\nSome way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.\nAt the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site 1ML. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.\n\n\nGoing vertical with Bitcoin as new dapps launch but inactivity grows\nOK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.\nRadloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital \u0026amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity \u0026amp; user growth… Now data is showing that isn’t working.”\nAlthough not mentioned by Radloff, it might be noted here that a recent research on Ethereum by LongHash found that 10% of the dapps “running” on its blockchain were inactive.\nOther data at State of the Dapps report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.\nRadloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.\nHe maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.\nThe development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.\nHowever, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.\nDoes Cash and pizza prove the point?\nWhich brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.\nFirst, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by EWN.\nDorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.\nIn December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.\nNow consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.\nAs the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.\n\nAltcoin winter\nThe reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.\nThe group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.\nAn ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.\nIn a Bloomberg report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.\n“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.\nGiven the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in Jimmy Song’s recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.\nWith a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.\nLightning ‘Pass The Torch’ game lights the way\nOn a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.\nIt was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.\nIf nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.\nLightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.\nBack with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\nTo provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.\nMaybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 CNBC interview turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…\nCryptocurrency story much bigger than bitcoin now: CoinShares from CNBC.\n \nBy Gary McFarlane\nArticle source: https:\/\/cointelegraph.com\/news\/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k\n \n\nDisclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. \n ",
+ "articleBody": "\nBy Gary McFarlane\nInstead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.\nThat, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnd there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.\n\n\n\n\n\n \n\n\nNodes matter and bitcoin is still on top by a mile\nAs of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.\nSome way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.\nAt the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site 1ML. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.\n\n\nGoing vertical with Bitcoin as new dapps launch but inactivity grows\nOK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.\nRadloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital \u0026amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity \u0026amp; user growth… Now data is showing that isn’t working.”\nAlthough not mentioned by Radloff, it might be noted here that a recent research on Ethereum by LongHash found that 10% of the dapps “running” on its blockchain were inactive.\nOther data at State of the Dapps report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.\nRadloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.\nHe maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.\nThe development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.\nHowever, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.\nDoes Cash and pizza prove the point?\nWhich brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.\nFirst, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by EWN.\nDorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.\nIn December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.\nNow consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.\nAs the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.\n\nAltcoin winter\nThe reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.\nThe group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.\nAn ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.\nIn a Bloomberg report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.\n“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.\nGiven the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in Jimmy Song’s recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.\nWith a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.\nLightning ‘Pass The Torch’ game lights the way\nOn a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.\nIt was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.\nIf nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.\nLightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.\nBack with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\nTo provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.\nMaybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 CNBC interview turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…\nCryptocurrency story much bigger than bitcoin now: CoinShares from CNBC.\n \nBy Gary McFarlane\nArticle source: https:\/\/cointelegraph.com\/news\/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k\n \n\nDisclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. \n "
+ }
+ </script>
+<!-- end: SEO Manager 6.0.1 -->
+
+
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="My Bitcoin Shirts">
+<meta property="og:url" content="https://mybitcoinshirts.com/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal">
+<meta property="og:title" content="Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal">
+<meta property="og:type" content="article">
+<meta property="og:description" content="
+By Gary McFarlane
+Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.
+That, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.
+
+
+
+
+
+ 
+
+
+Nodes matter and bitcoin is still on top by a mile
+As of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.
+Some way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.
+At the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site 1ML. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.
+
+
+Going vertical with Bitcoin as new dapps launch but inactivity grows
+OK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.
+Radloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital &amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity &amp; user growth… Now data is showing that isn’t working.”
+Although not mentioned by Radloff, it might be noted here that a recent research on Ethereum by LongHash found that 10% of the dapps “running” on its blockchain were inactive.
+Other data at State of the Dapps report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.
+Radloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.
+He maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.
+The development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.
+However, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.
+Does Cash and pizza prove the point?
+Which brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.
+First, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by EWN.
+Dorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.
+In December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.
+Now consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.
+As the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.
+
+Altcoin winter
+The reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.
+The group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.
+An ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.
+In a Bloomberg report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.
+“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.
+Given the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in Jimmy Song’s recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.
+With a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.
+Lightning ‘Pass The Torch’ game lights the way
+On a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.
+It was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.
+If nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.
+Lightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.
+Back with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+To provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.
+Maybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 CNBC interview turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…
+Cryptocurrency story much bigger than bitcoin now: CoinShares from CNBC.
+ 
+By Gary McFarlane
+Article source: https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k
+ 
+
+Disclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. 
+ ">
+
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/0054/2454/5859/articles/lightning_1200x1200.jpg?v=1550335364">
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0054/2454/5859/articles/lightning_1200x1200.jpg?v=1550335364">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal">
+<meta name="twitter:description" content="
+By Gary McFarlane
+Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.
+That, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.
+
+
+
+
+
+ 
+
+
+Nodes matter and bitcoin is still on top by a mile
+As of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.
+Some way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.
+At the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site 1ML. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.
+
+
+Going vertical with Bitcoin as new dapps launch but inactivity grows
+OK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.
+Radloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital &amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity &amp; user growth… Now data is showing that isn’t working.”
+Although not mentioned by Radloff, it might be noted here that a recent research on Ethereum by LongHash found that 10% of the dapps “running” on its blockchain were inactive.
+Other data at State of the Dapps report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.
+Radloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.
+He maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.
+The development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.
+However, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.
+Does Cash and pizza prove the point?
+Which brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.
+First, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by EWN.
+Dorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.
+In December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.
+Now consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.
+As the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.
+
+Altcoin winter
+The reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.
+The group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.
+An ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.
+In a Bloomberg report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.
+“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.
+Given the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in Jimmy Song’s recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.
+With a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.
+Lightning ‘Pass The Torch’ game lights the way
+On a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.
+It was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.
+If nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.
+Lightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.
+Back with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+To provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.
+Maybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 CNBC interview turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…
+Cryptocurrency story much bigger than bitcoin now: CoinShares from CNBC.
+ 
+By Gary McFarlane
+Article source: https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k
+ 
+
+Disclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. 
+ ">
+
+
+  <link href="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/theme.scss.css?15702835305659451882" rel="stylesheet" type="text/css" media="all" />
+
+  <script>
+    var theme = {
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        sale: "Sale",
+        showMore: "Show More",
+        showLess: "Show Less",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window."
+      },
+      moneyFormat: "${{amount}}"
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+
+  <!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/match-media.min.js?15702835305659451882" type="text/javascript"></script><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/lazysizes.js?15702835305659451882" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/lazysizes.min.js?15702835305659451882"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/vendor.js?15702835305659451882" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/vendor.js?15702835305659451882"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/theme.js?15702835305659451882" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0054/2454/5859/t/1/assets/theme.js?15702835305659451882"></script><![endif]-->
+
+  <meta name="google-site-verification" content="fpH87pc5Zdsqi859maPGdWS-PZknpgTNnl8KE5dHMmY">
+<meta name="google-site-verification" content="RJc9V70F810uzqDD9DYUu9AIVmhl1yn0dPllr8410JA">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/5424545859/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="65d18293c3201e44c4d9de7c62be3fa6">
+<meta id="in-context-paypal-metadata" data-shop-id="5424545859" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A1YVBRW40MJKRC" data-amazon-payments-callback-url="https://mybitcoinshirts.com/5424545859/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.541387caefc84510b13a250d3edf7c17" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/news.atom" />
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":5424545859,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/5424545859","merchantName":"My Bitcoin Shirts","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"My Bitcoin Shirts","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"65d18293c3201e44c4d9de7c62be3fa6","betas":[],"domain":"mybitcoinshirts.com","shopId":5424545859,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "my-bitcoin-shirts.myshopify.com";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"Debut","id":38843744323,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "pay.shopify.com";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn.swellrewards.com\/loader\/Cgr7WhNQesWUUzw5Mwk02w.js?shop=my-bitcoin-shirts.myshopify.com","https:\/\/duw6wk4ou1qt.cloudfront.net\/static\/js\/external\/shopify-product-customizer.js?v=0.13\u0026shop=my-bitcoin-shirts.myshopify.com","https:\/\/app.sixads.net\/sixads.js?shop=my-bitcoin-shirts.myshopify.com","https:\/\/tracking.adcoffee.io\/v1\/en_US\/cross.js?init=5c49451615515\u0026app=cross_promotion\u0026shop=my-bitcoin-shirts.myshopify.com","\/\/static.zotabox.com\/5\/f\/5fe11670c6dd15a3814676f10ebc7618\/widgets.js?shop=my-bitcoin-shirts.myshopify.com","https:\/\/app.sixads.net\/sixads.js?hover=1\u0026shop=my-bitcoin-shirts.myshopify.com","https:\/\/www.bloglinkerapp.com\/js\/bloglinker.min.js?shop=my-bitcoin-shirts.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":5424545859,"offset":-18000,"reqid":"40ff052e-8d27-47cd-8e99-1551d2f3ecda","pageurl":"mybitcoinshirts.com\/blogs\/news\/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal","s":"articles-29847191619","u":"e8a76375a7b9","p":"article","rtyp":"article","rid":29847191619};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "my-bitcoin-shirts.myshopify.com";</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"article","resourceType":"article","resourceId":29847191619}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now())
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":5424545859,"isMerchantRequest":null,"themeId":38843744323,"themeCityHash":9949964741527329444}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"Google Analytics":{"trackingId":"UA-127819442-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["492734277869775","298894677372494"],"agent":"plshopify1.2"},"Pinterest Pixel":{"pixelId":"2612857937587"},"Google Gtag Pixel":{"conversionId":"AW-782804230","eventLabels":[{"type":"page_view","action_label":"AW-782804230\/GAZvCJy20IsBEIbKovUC"},{"type":"purchase","action_label":"AW-782804230\/FbCVCJ-20IsBEIbKovUC"},{"type":"view_item","action_label":"AW-782804230\/tIQFCKK20IsBEIbKovUC"},{"type":"add_to_cart","action_label":"AW-782804230\/IP9ICKW20IsBEIbKovUC"},{"type":"begin_checkout","action_label":"AW-782804230\/a9kpCMa50IsBEIbKovUC"},{"type":"search","action_label":"AW-782804230\/z4a3CMm50IsBEIbKovUC"},{"type":"add_payment_info","action_label":"AW-782804230\/YNwxCMy50IsBEIbKovUC"}],"targetCountry":"US"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"article","resourceType":"article","resourceId":29847191619}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/s/assets/shopify_pay/storefront-8ddbd55cc19e1ebbff92d676e1481c8e6b42e0c2714d3fdf6b810b1f193347b8.js?v=20190107"></script>
+<script integrity="sha256-DBz+azZCyGu5gK0LKY2/n3wGonECQmpgH9W9oypMXP0=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/express_buttons-0c1cfe6b3642c86bb980ad0b298dbf9f7c06a27102426a601fd5bda32a4c5cfd.js" crossorigin="anonymous"></script>
+<script integrity="sha256-6HOSr+Kf4wcoL05qrRLLS8wq/v1rf+vwtw7f0xX5aEw=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-e87392afe29fe307282f4e6aad12cb4bcc2afefd6b7febf0b70edfd315f9684c.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+<script src="https://alireviews-cdn.fireapps.vn/js/frontend/comment.js" defer="defer"></script> 
+ <link rel="stylesheet" href="https://alireviews-cdn.fireapps.vn/css/frontend/vendor.css"> 
+ <link rel="stylesheet" href="https://alireviews-cdn.fireapps.vn/css/frontend/grid.css"> 
+ <style>
+        .alireview-verified {
+            color: #4AD991 !important;
+        }
+        .alireview-number-total-review {
+            border-radius: 5px !important;
+            background: #242539 !important;
+        }
+
+        .alr-icon-star:before {
+            content: "\E901" !important;
+        }
+        
+        .alr-count-reviews .alr-star i,
+        .alireview-total-review .rating-symbol-foreground,
+        #alireview-review-widget-badge .rating-symbol-foreground > span,
+        .arv-collection .rating-symbol-foreground > span,
+        .alireview-status .rating-symbol-foreground > span {
+            color: #FFB303 !important;
+        }
+
+        .alr-count-reviews .alr-progress-bar-wrap .alr-progress-bar div {
+            background-color: #FFB303 !important;
+        }
+
+        .alireview-avatar {
+            border-radius: 50% !important;
+        }
+            </style>
+ 
+ </head>
+
+<body class="template-article">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+  <div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="search-bar__table">
+      <div class="search-bar__table-cell search-bar__form-wrapper">
+        <form class="search search-bar__form" action="/search" method="get" role="search">
+          <input class="search__input search-bar__input" type="search" name="q" value="" placeholder="Search" aria-label="Search">
+          <button class="search-bar__submit search__submit btn--link" type="submit">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+            <span class="icon__fallback-text">Submit</span>
+          </button>
+        </form>
+      </div>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"/></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div id="shopify-section-header" class="shopify-section">
+  <style>
+    
+      .site-header__logo-image {
+        max-width: 80px;
+      }
+    
+
+    
+      .site-header__logo-image {
+        margin: 0;
+      }
+    
+  </style>
+
+
+<div data-section-id="header" data-section-type="header-section">
+  
+    
+      <style>
+        .announcement-bar {
+          background-color: #fc9821;
+        }
+
+        .announcement-bar--link:hover {
+          
+
+          
+            
+            background-color: #fca53c;
+          
+        }
+
+        .announcement-bar__message {
+          color: #ffffff;
+        }
+      </style>
+
+      
+        <a href="/blogs/news" class="announcement-bar announcement-bar--link">
+      
+
+        <p class="announcement-bar__message">Check Out Our Crypto News Almanac Here!</p>
+
+      
+        </a>
+      
+
+    
+  
+
+  <header class="site-header border-bottom logo--left" role="banner">
+    <div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+      
+
+      
+
+      <div class="grid__item medium-up--one-quarter logo-align--left">
+        
+        
+          <div class="h2 site-header__logo">
+        
+          
+<a href="/" class="site-header__logo-image">
+              
+              <img class="lazyload js"
+                   src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_300x300.png?v=1539490837"
+                   data-src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_{width}x.png?v=1539490837"
+                   data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+                   data-aspectratio="1.4618784530386741"
+                   data-sizes="auto"
+                   alt="My Bitcoin Shirts"
+                   style="max-width: 80px">
+              <noscript>
+                
+                <img src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_80x.png?v=1539490837"
+                     srcset="//cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_80x.png?v=1539490837 1x, //cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_80x@2x.png?v=1539490837 2x"
+                     alt="My Bitcoin Shirts"
+                     style="max-width: 80px;">
+              </noscript>
+            </a>
+          
+        
+          </div>
+        
+      </div>
+
+      
+        <nav class="grid__item medium-up--one-half small--hide" id="AccessibleNav" role="navigation">
+          <ul class="site-nav list--inline " id="SiteNav">
+  
+
+
+
+    
+      <li>
+        <a href="/" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Home</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">All Items</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/bitcoin-shirts" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Bitcoin Shirts</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/hoodies" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Hoodies</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/caps-and-hats" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Hats</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/crypto-socks-1" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Socks</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/cups-and-mugs" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Cups & Mugs</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/fun-crypto-props" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Crypto Props</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/crypto-tees" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Crypto Tees</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li class="site-nav--active">
+        <a href="/blogs/news" class="site-nav__link site-nav__link--main site-nav__link--active">
+          <span class="site-nav__label">Crypto News Almanac</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+        </nav>
+      
+
+      <div class="grid__item medium-up--one-quarter text-right site-header__icons">
+        <div class="site-header__icons-wrapper">
+          
+            <div class="site-header__search site-header__icon">
+              <form action="/search" method="get" class="search-header search" role="search">
+  <input class="search-header__input search__input"
+    type="search"
+    name="q"
+    placeholder="Search"
+    aria-label="Search">
+  <button class="search-header__submit search__submit btn--link site-header__icon" type="submit">
+    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+    <span class="icon__fallback-text">Submit</span>
+  </button>
+</form>
+
+            </div>
+          
+
+          <button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg>
+            <span class="icon__fallback-text">Search</span>
+          </button>
+
+          
+
+          <a href="/cart" class="site-header__icon site-header__cart">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"/></svg>
+            <span class="icon__fallback-text">Cart</span>
+            
+          </a>
+
+          
+
+          
+            <button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="navigation"  aria-expanded="false" aria-label="Menu">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"/></svg>
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"/></svg>
+            </button>
+          
+        </div>
+
+      </div>
+    </div>
+
+    <nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+      <ul id="MobileNav" class="mobile-nav">
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/" class="mobile-nav__link">
+                <span class="mobile-nav__label">Home</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections" class="mobile-nav__link">
+                <span class="mobile-nav__label">All Items</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/bitcoin-shirts" class="mobile-nav__link">
+                <span class="mobile-nav__label">Bitcoin Shirts</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/hoodies" class="mobile-nav__link">
+                <span class="mobile-nav__label">Hoodies</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/caps-and-hats" class="mobile-nav__link">
+                <span class="mobile-nav__label">Hats</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/crypto-socks-1" class="mobile-nav__link">
+                <span class="mobile-nav__label">Socks</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/cups-and-mugs" class="mobile-nav__link">
+                <span class="mobile-nav__label">Cups & Mugs</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/fun-crypto-props" class="mobile-nav__link">
+                <span class="mobile-nav__label">Crypto Props</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/crypto-tees" class="mobile-nav__link">
+                <span class="mobile-nav__label">Crypto Tees</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item">
+            
+              <a href="/blogs/news" class="mobile-nav__link mobile-nav__link--active">
+                <span class="mobile-nav__label">Crypto News Almanac</span>
+              </a>
+            
+          </li>
+        
+        
+      </ul>
+    </nav>
+  </header>
+
+  
+</div>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "My Bitcoin Shirts",
+  
+    
+    "logo": "https://cdn.shopify.com/s/files/1/0054/2454/5859/files/mybitcoinshirts.com_logo-transp_2646x.png?v=1539490837",
+  
+  "sameAs": [
+    "",
+    "https://www.facebook.com/My-Bitcoin-Shirts",
+    "",
+    "https://www.instagram.com/mauro_bontempo/",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url": "https://mybitcoinshirts.com"
+}
+</script>
+
+
+
+
+</div>
+
+  <div class="page-container" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+      <article class="page-width">
+  <div class="grid">
+    <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+      <div id="shopify-section-article-template" class="shopify-section"><div class="section-header text-center">
+  <h1 class="article__title">Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal</h1>
+  
+
+  
+    <span class="article__date">
+      <time datetime="2019-02-16T16:47:00Z">February 16, 2019</time>
+    </span>
+  
+</div>
+
+<div class="rte">
+  <p style="text-align: center;"><span style="color: #000000;"><img alt="Bitcoin Lightning Network" src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/lightning_grande.jpg?v=1550335304" style="float: none;"></span></p>
+<p><span style="color: #000000;">By Gary McFarlane</span></p>
+<p><span style="color: #000000;">Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.</span></p>
+<p><span style="color: #000000;">That, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.</span></p>
+<div class="embed-container">
+<twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-0" data-tweet-id="1094592008692383744">
+<div data-twitter-event-id="0" class="SandboxRoot env-bp-350">
+<div class="EmbeddedTweet EmbeddedTweet--cta js-clickToOpenTarget tweet-InformationCircle-widgetParent" data-click-to-open-target="https://twitter.com/RyanRadloff/status/1094592008692383744" data-iframe-title="Twitter Tweet" data-scribe="page:tweet" id="twitter-widget-0" lang="en" data-twitter-event-id="2">
+<div class="EmbeddedTweet-ancestor EmbeddedTweet-ancestor--repliesRefresh" data-scribe="section:conversation">
+<blockquote class="Tweet Tweet--compact h-entry reply js-tweetIdInfo" cite="https://twitter.com/RyanRadloff/status/1094572685311520769" data-tweet-id="1094572685311520769">
+<div class="Tweet-ancestorContainer Tweet-ancestorContainer--repliesRefresh">
+<div class="Tweet-ancestorContents Tweet-ancestorContents--repliesRefresh">
+<div class="Tweet-header">
+<div class="TweetAuthor js-inViewportScribingTarget TweetAuthor--oneLine" data-scribe="component:author"><span style="color: #000000;"><a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/RyanRadloff" aria-label="Ryan Radloff ⚡️ (screen name: RyanRadloff)" style="color: #000000;">
+<div class="TweetAuthor-nameScreenNameContainer"><span class="TweetAuthor-decoratedName"><span class="TweetAuthor-name Identity-name customisable-highlight" title="Ryan Radloff ⚡️" data-scribe="element:name"></span></span></div>
+</a></span></div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<div class="EmbeddedTweet-tweetContainer">
+<div class="EmbeddedTweet-tweet">
+<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded" cite="https://twitter.com/RyanRadloff/status/1094592008692383744" data-tweet-id="1094592008692383744" data-scribe="section:subject">
+<div class="Tweet-header">
+<div class="TweetAuthor js-inViewportScribingTarget" data-scribe="component:author"><span style="color: #000000;"><a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/RyanRadloff" aria-label="Ryan Radloff ⚡️ (screen name: RyanRadloff)" style="color: #000000;"></a></span></div>
+</div>
+<div class="Tweet-body e-entry-content" data-scribe="component:tweet">
+<div class="u-hiddenVisually js-inViewportScribingTarget"></div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="resize-sensor">
+<div class="resize-sensor-shrink"></div>
+</div>
+</div>
+</twitter-widget>
+<p><span style="color: #000000;"><a href="https://twitter.com/RyanRadloff/status/1094592008692383744?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1094592008692383744&amp;ref_url=https%3A%2F%2Fethereumworldnews.com%2Fwhy-bitcoins-future-is-vertical-and-crypto-should-give-up-going-horizontal%2F" title="Twitter" style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/Capture_d2bbf870-f9d0-4e2f-9fc9-340ae46e73b9_grande.JPG?v=1550335008" alt=""></a></span></p>
+<p><span style="color: #000000;">And there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.</span></p>
+</div>
+<div class="code-block code-block-7">
+<div id="ct_BLXOip_disp">
+<div class="ct_BLXOiplg"><span style="color: #000000;"><a href="https://mybitcoinshirts.com/collections/crypto-tees" title="Crypto Shirts" style="color: #000000;"><strong><span id="ct_BLXOip"><img alt="Crypto Tees" src="https://cdn.shopify.com/s/files/1/0054/2454/5859/files/Bitcoin_Page_grande.png?v=1541102881"></span></strong></a></span></div>
+</div>
+<span id="ct_csxfH3dDbO5" style="color: #000000;"> </span>
+</div>
+<h3></h3>
+<h3><span style="color: #000000;">Nodes matter and bitcoin is still on top by a mile</span></h3>
+<p><span style="color: #000000;">As of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.</span></p>
+<p><span style="color: #000000;">Some way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.</span></p>
+<p><span style="color: #000000;">At the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site <a href="https://1ml.com/" style="color: #000000;">1ML</a>. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.</span></p>
+<div class="code-block code-block-8"></div>
+<p><span style="color: #000000;"><img class="alignnone size-large wp-image-34626" src="https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-16-at-09.11.52-1024x370.png" alt="" width="1024" height="370" srcset="https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-16-at-09.11.52-1024x370.png 1024w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-16-at-09.11.52-300x108.png 300w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-16-at-09.11.52-768x278.png 768w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-16-at-09.11.52-360x130.png 360w" sizes="(max-width: 1024px) 100vw, 1024px"></span></p>
+<h3><span style="color: #000000;">Going vertical with Bitcoin as new dapps launch but inactivity grows</span></h3>
+<p><span style="color: #000000;">OK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.</span></p>
+<p><span style="color: #000000;">Radloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital &amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity &amp; user growth… Now data is showing that isn’t working.”</span></p>
+<p><span style="color: #000000;">Although not mentioned by Radloff, it might be noted here that a recent research on Ethereum by <a href="https://www.longhash.com/news/ten-percent-of-ethereum-dapps-are-used-on-any-given-day" style="color: #000000;">LongHash</a> found that 10% of the dapps “running” on its blockchain were inactive.</span></p>
+<p><span style="color: #000000;">Other data at <a href="https://www.stateofthedapps.com/stats" style="color: #000000;">State of the Dapps</a> report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.</span></p>
+<p><span style="color: #000000;">Radloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.</span></p>
+<p><span style="color: #000000;">He maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.</span></p>
+<p><span style="color: #000000;">The development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.</span></p>
+<p><span style="color: #000000;">However, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.</span></p>
+<h3><span style="color: #000000;">Does Cash and pizza prove the point?</span></h3>
+<p><span style="color: #000000;">Which brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.</span></p>
+<p><span style="color: #000000;">First, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by <a href="https://ethereumworldnews.com/square-bitcoin-lightning-network-2019/" style="color: #000000;">EWN</a>.</span></p>
+<p><span style="color: #000000;">Dorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.</span></p>
+<p><span style="color: #000000;">In December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.</span></p>
+<p><span style="color: #000000;">Now consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.</span></p>
+<p><span style="color: #000000;">As the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.</span></p>
+<p><span style="color: #000000;"><img class="alignnone size-large wp-image-34623" src="https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-15.40.19-1024x525.png" alt="" width="1024" height="525" srcset="https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-15.40.19-1024x525.png 1024w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-15.40.19-300x154.png 300w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-15.40.19-768x394.png 768w, https://ethereumworldnews.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-15.40.19-360x185.png 360w" sizes="(max-width: 1024px) 100vw, 1024px"></span></p>
+<h3><span style="color: #000000;">Altcoin winter</span></h3>
+<p><span style="color: #000000;">The reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.</span></p>
+<p><span style="color: #000000;">The group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.</span></p>
+<p><span style="color: #000000;">An ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.</span></p>
+<p><span style="color: #000000;">In a <a href="https://www.bloomberg.com/news/articles/2019-02-13/crypto-carnage-puts-bitcoin-tracker-s-plan-for-basket-on-hold" style="color: #000000;">Bloomberg</a> report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.</span></p>
+<p><span style="color: #000000;">“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.</span></p>
+<p><span style="color: #000000;">Given the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in <a href="https://ethereumworldnews.com/jimmy-song-bitcoin-sv-scam/" style="color: #000000;">Jimmy Song’s</a> recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.</span></p>
+<p><span style="color: #000000;">With a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.</span></p>
+<h3><span style="color: #000000;">Lightning ‘Pass The Torch’ game lights the way</span></h3>
+<p><span style="color: #000000;">On a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.</span></p>
+<p><span style="color: #000000;">It was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.</span></p>
+<p><span style="color: #000000;">If nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.</span></p>
+<p><span style="color: #000000;">Lightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.</span></p>
+<p><span style="color: #000000;">Back with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.</span></p>
+<div class="embed-container">
+<twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-1" data-tweet-id="1094592080750489601">
+<div data-twitter-event-id="1" class="SandboxRoot env-bp-350">
+<div class="EmbeddedTweet EmbeddedTweet--cta js-clickToOpenTarget tweet-InformationCircle-widgetParent" data-click-to-open-target="https://twitter.com/RyanRadloff/status/1094592080750489601" data-iframe-title="Twitter Tweet" data-scribe="page:tweet" id="twitter-widget-1" lang="en" data-twitter-event-id="3">
+<div class="EmbeddedTweet-ancestor EmbeddedTweet-ancestor--repliesRefresh" data-scribe="section:conversation">
+<blockquote class="Tweet Tweet--compact h-entry reply js-tweetIdInfo" cite="https://twitter.com/RyanRadloff/status/1094592063679664128" data-tweet-id="1094592063679664128">
+<div class="Tweet-ancestorContainer Tweet-ancestorContainer--repliesRefresh">
+<div class="Tweet-ancestorContents Tweet-ancestorContents--repliesRefresh">
+<div class="Tweet-header">
+<div class="TweetAuthor js-inViewportScribingTarget TweetAuthor--oneLine" data-scribe="component:author"><span style="color: #000000;"><a class="TweetAuthor-link Identity u-linkBlend" data-scribe="element:user_link" href="https://twitter.com/RyanRadloff" aria-label="Ryan Radloff ⚡️ (screen name: RyanRadloff)" style="color: #000000;">
+<div class="TweetAuthor-nameScreenNameContainer"><span class="TweetAuthor-screenName Identity-screenName" title="@RyanRadloff" data-scribe="element:screen_name" dir="ltr"></span></div>
+</a></span></div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<span style="color: #000000;"> <a href="https://twitter.com/RyanRadloff/status/1094592080750489601?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1094592080750489601&amp;ref_url=https%3A%2F%2Fethereumworldnews.com%2Fwhy-bitcoins-future-is-vertical-and-crypto-should-give-up-going-horizontal%2F" title="Twitter" style="color: #000000;"><img src="//cdn.shopify.com/s/files/1/0054/2454/5859/files/Capture_3e2d7c23-c602-4fd6-8b7c-b67d6f6fa120_grande.JPG?v=1550335160" alt=""></a> </span>
+<div class="EmbeddedTweet-tweetContainer"><span style="color: #000000;"><a class="CallToAction" title="View Ryan Radloff ⚡️'s profile on Twitter" href="https://twitter.com/RyanRadloff" data-scribe="section:cta component:news" style="color: #000000;">
+<div class="CallToAction-chevron" data-scribe="element:cta_chevron">
+<div class="Icon Icon--chevronRightCTA " aria-label="View on Twitter" title="View on Twitter" role="img"></div>
+</div>
+</a></span></div>
+</div>
+<div class="resize-sensor">
+<div class="resize-sensor-expand">
+<div></div>
+</div>
+<div class="resize-sensor-shrink">
+<div></div>
+</div>
+</div>
+</div>
+</twitter-widget>
+<p><span style="color: #000000;"> </span></p>
+</div>
+<p><span style="color: #000000;">To provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.</span></p>
+<p><span style="color: #000000;">Maybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 <a href="https://www.cnbc.com/video/2017/12/19/cryptocurrency-story-much-bigger-than-bitcoin-now-coinshares.html" style="color: #000000;">CNBC interview</a> turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…</span></p>
+<p><span style="color: #000000;"><a href="https://www.cnbc.com/video/2017/12/19/cryptocurrency-story-much-bigger-than-bitcoin-now-coinshares.html?__source=cnbcembedplayer" style="color: #000000;">Cryptocurrency story much bigger than bitcoin now: CoinShares</a> from <a href="https://www.cnbc.com/?__source=cnbcembedplayer" style="color: #000000;">CNBC</a>.</span></p>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;">By Gary McFarlane</span></p>
+<p><span style="color: #000000;">Article source: https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k</span></p>
+<p><span style="color: #000000;"> </span></p>
+<hr>
+<p><span style="color: #000000;"><em>Disclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. </em></span></p>
+<p><span style="color: #000000;"> </span></p>
+</div>
+
+
+  <!-- /snippets/social-sharing.liquid -->
+<ul class="social-sharing">
+
+  
+    <li>
+      <a target="_blank" href="//www.facebook.com/sharer.php?u=https://mybitcoinshirts.com/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal" class="btn btn--small btn--share share-facebook">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 20 20"><path fill="#444" d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg>
+        <span class="share-title" aria-hidden="true">Share</span>
+        <span class="visually-hidden">Share on Facebook</span>
+      </a>
+    </li>
+  
+
+  
+    <li>
+      <a target="_blank" href="//twitter.com/share?text=Why%20Bitcoin%E2%80%99s%20(BTC)%20future%20is%20vertical%20and%20crypto%20should%20give%20up%20going%20horizontal&amp;url=https://mybitcoinshirts.com/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal" class="btn btn--small btn--share share-twitter">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" viewBox="0 0 20 20"><path fill="#444" d="M19.551 4.208q-.815 1.202-1.956 2.038 0 .082.02.255t.02.255q0 1.589-.469 3.179t-1.426 3.036-2.272 2.567-3.158 1.793-3.963.672q-3.301 0-6.031-1.773.571.041.937.041 2.751 0 4.911-1.671-1.284-.02-2.292-.784T2.456 11.85q.346.082.754.082.55 0 1.039-.163-1.365-.285-2.262-1.365T1.09 7.918v-.041q.774.408 1.773.448-.795-.53-1.263-1.396t-.469-1.864q0-1.019.509-1.997 1.487 1.854 3.596 2.924T9.81 7.184q-.143-.509-.143-.897 0-1.63 1.161-2.781t2.832-1.151q.815 0 1.569.326t1.284.917q1.345-.265 2.506-.958-.428 1.386-1.732 2.18 1.243-.163 2.262-.611z"/></svg>
+        <span class="share-title" aria-hidden="true">Tweet</span>
+        <span class="visually-hidden">Tweet on Twitter</span>
+      </a>
+    </li>
+  
+
+  
+    <li>
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=https://mybitcoinshirts.com/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal&amp;media=//cdn.shopify.com/s/files/1/0054/2454/5859/articles/lightning_1024x1024.jpg?v=1550335364&amp;description=Why%20Bitcoin%E2%80%99s%20(BTC)%20future%20is%20vertical%20and%20crypto%20should%20give%20up%20going%20horizontal" class="btn btn--small btn--share share-pinterest">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" viewBox="0 0 20 20"><path fill="#444" d="M9.958.811q1.903 0 3.635.744t2.988 2 2 2.988.744 3.635q0 2.537-1.256 4.696t-3.415 3.415-4.696 1.256q-1.39 0-2.659-.366.707-1.147.951-2.025l.659-2.561q.244.463.903.817t1.39.354q1.464 0 2.622-.842t1.793-2.305.634-3.293q0-2.171-1.671-3.769t-4.257-1.598q-1.586 0-2.903.537T5.298 5.897 4.066 7.775t-.427 2.037q0 1.268.476 2.22t1.427 1.342q.171.073.293.012t.171-.232q.171-.61.195-.756.098-.268-.122-.512-.634-.707-.634-1.83 0-1.854 1.281-3.183t3.354-1.329q1.83 0 2.854 1t1.025 2.61q0 1.342-.366 2.476t-1.049 1.817-1.561.683q-.732 0-1.195-.537t-.293-1.269q.098-.342.256-.878t.268-.915.207-.817.098-.732q0-.61-.317-1t-.927-.39q-.756 0-1.269.695t-.512 1.744q0 .39.061.756t.134.537l.073.171q-1 4.342-1.22 5.098-.195.927-.146 2.171-2.513-1.122-4.062-3.44T.59 10.177q0-3.879 2.744-6.623T9.957.81z"/></svg>
+        <span class="share-title" aria-hidden="true">Pin it</span>
+        <span class="visually-hidden">Pin on Pinterest</span>
+      </a>
+    </li>
+  
+
+</ul>
+
+
+
+
+
+
+</div>
+    </div>
+  </div>
+</article>
+
+
+  
+
+  <hr aria-hidden="true">
+  <div class="page-width">
+    <div class="grid">
+      <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+        <div class="comment-form form-vertical">
+          <form method="post" action="/blogs/news/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal/comments#comment_form" id="comment_form" accept-charset="UTF-8" class="comment-form"><input type="hidden" name="form_type" value="new_comment" /><input type="hidden" name="utf8" value="✓" />
+<h2 class="h3">Leave a comment</h2>
+
+
+            <div class="grid">
+
+              <div class="grid__item medium-up--one-half">
+                <label for="CommentForm-author">Name</label>
+                <input type="text" name="comment[author]" id="CommentForm-author" class="input-full" value="">
+                <span id="CommentForm-author-error" class="input-error-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><path d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14zm-1.05-3.85A1.05 1.05 0 1 1 7 11.2a1.008 1.008 0 0 1-1.05-1.05zm.381-1.981l-.266-5.25h1.841l-.255 5.25h-1.32z"/></svg> Name .</span>
+              </div>
+
+              <div class="grid__item medium-up--one-half">
+                <label for="CommentForm-email">Email</label>
+                <input type="email" name="comment[email]" id="CommentForm-email" class="input-full" value="" autocorrect="off" autocapitalize="off" >
+                <span id="CommentForm-email-error" class="input-error-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><path d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14zm-1.05-3.85A1.05 1.05 0 1 1 7 11.2a1.008 1.008 0 0 1-1.05-1.05zm.381-1.981l-.266-5.25h1.841l-.255 5.25h-1.32z"/></svg>  .</span>
+              </div>
+
+              <div class="grid__item">
+                <label for="CommentForm-body">Message</label>
+                <textarea name="comment[body]" id="CommentForm-body" class="input-full"></textarea>
+                <span id="CommentForm-body-error" class="input-error-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><path d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14zm-1.05-3.85A1.05 1.05 0 1 1 7 11.2a1.008 1.008 0 0 1-1.05-1.05zm.381-1.981l-.266-5.25h1.841l-.255 5.25h-1.32z"/></svg> Message .</span>
+              </div>
+
+            </div>
+
+            
+
+            <input type="submit" class="btn" value="Post comment">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="text-center return-link-wrapper page-width">
+  <a href="/blogs/news" class="btn btn--secondary btn--has-icon-before return-link">
+    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-left" viewBox="0 0 20 8"><path d="M4.814 7.555C3.95 6.61 3.2 5.893 2.568 5.4 1.937 4.91 1.341 4.544.781 4.303v-.44a9.933 9.933 0 0 0 1.875-1.196c.606-.485 1.328-1.196 2.168-2.134h.752c-.612 1.309-1.253 2.315-1.924 3.018H19.23v.986H3.652c.495.632.84 1.1 1.036 1.406.195.306.485.843.869 1.612h-.743z" fill="#000" fill-rule="evenodd"/></svg>
+    Back to Crypto News Almanac
+  </a>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "articleBody": "
+By Gary McFarlane
+Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.
+That, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.
+
+
+
+
+
+ 
+
+
+Nodes matter and bitcoin is still on top by a mile
+As of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.
+Some way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.
+At the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site 1ML. Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.
+
+
+Going vertical with Bitcoin as new dapps launch but inactivity grows
+OK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.
+Radloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital &amp; spending it on projects to promote network growth, hoping the spending would stimulate coin velocity &amp; user growth… Now data is showing that isn’t working.”
+Although not mentioned by Radloff, it might be noted here that a recent research on Ethereum by LongHash found that 10% of the dapps “running” on its blockchain were inactive.
+Other data at State of the Dapps report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.
+Radloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.
+He maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.
+The development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.
+However, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.
+Does Cash and pizza prove the point?
+Which brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.
+First, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by EWN.
+Dorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.
+In December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.
+Now consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.
+As the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.
+
+Altcoin winter
+The reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.
+The group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.
+An ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.
+In a Bloomberg report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.
+“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.
+Given the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in Jimmy Song’s recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.
+With a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.
+Lightning ‘Pass The Torch’ game lights the way
+On a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.
+It was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.
+If nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.
+Lightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.
+Back with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+To provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.
+Maybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017 CNBC interview turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…
+Cryptocurrency story much bigger than bitcoin now: CoinShares from CNBC.
+ 
+By Gary McFarlane
+Article source: https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k
+ 
+
+Disclaimer: Mybitcoinshirts.com does not create any content. We share daily crypto articles in our almanac collection so our customers can receive update information regarding cryptocurrencies. This information we share is public available on Google.com. 
+ ",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://mybitcoinshirts.com"
+  },
+  "headline": "Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal",
+  
+  
+    
+    "image": [
+      "https://cdn.shopify.com/s/files/1/0054/2454/5859/articles/lightning_1024x.jpg?v=1550335364"
+    ],
+  
+  "datePublished": "2019-02-16T11:47:00Z",
+  "dateCreated": "2019-02-16T11:37:32Z",
+  "author": {
+    "@type": "Person",
+    "name": "Reposted Crypto Articles"
+  },
+  "publisher": {
+    "@type": "Organization",
+    
+    "name": "My Bitcoin Shirts"
+  }
+}
+</script>
+<div id='vnavs-wrp-el' class='vnavs-wrp-el'></div><script>(function(i,s,o,g,r,a,m){i['VNAObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=true;a.type='text/javascript';a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://avsv1.varinode.com/avjs.php?app_id=d5629963af8b41ae874837c92ce5e574','vna');</script>
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<style>
+  .site-footer__hr {
+    border-bottom: 1px solid #dcdcdc;
+  }
+
+  .site-footer,
+  .site-footer a,
+  .site-footer__rte p {
+    color: #3d4246;
+    background-color: #f5f5f5;
+  }
+
+  .site-footer a:hover {
+    color: #61696f;
+  }
+</style>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="page-width">
+    <div class="site-footer__content"><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    "
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--text"><h4>MyBitcoinShirts.com</h4><div class="site-footer__rte
+                              ">
+                      <p>We are proud to support and be an advocate to the revolution of cryptocurrencies.&nbsp;</p>
+                  </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    site-footer-newsletter__one-half"
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--newsletter"><h4>Newsletter</h4><div class="site-footer__newsletter
+                          "><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+                    
+
+                    <label for="ContactFooter-email" class="visually-hidden">Subscribe to our mailing list</label>
+                    <div class="site-footer__newsletter">
+                      <input type="hidden" name="contact[tags]" value="newsletter">
+                      <input type="email"
+                        name="contact[email]"
+                        id="ContactFooter-email"
+                        class="newsletter__input"
+                        value=""
+                        placeholder="Email address"
+                        autocorrect="off"
+                        autocapitalize="off"
+                        >
+                      <span class="input-group__btn">
+                        <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
+                          <span class="newsletter__submit-text--large">Subscribe</span>
+                        </button>
+                      </span>
+                      <span id="ContactFooter-email-error" class="input-error-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 14 14"><path d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14zm-1.05-3.85A1.05 1.05 0 1 1 7 11.2a1.008 1.008 0 0 1-1.05-1.05zm.381-1.981l-.266-5.25h1.841l-.255 5.25h-1.32z"/></svg>  .</span>
+                    </div>
+                  </form>
+                </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    "
+             >
+          <div class="site-footer__item-inner site-footer__item-inner--link_list"><h4>Contact</h4><ul class="site-footer__linklist
+                            "><li class="site-footer__linklist-item">
+                        <a href="/search">Search</a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/contact-us">Contact</a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/policies/privacy-policy">Privacy Policy</a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/policies/refund-policy">Refund Policy</a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/policies/terms-of-service">Terms of Service</a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/blogs/news">Crypto News Almanac</a>
+                      </li></ul></div>
+        </div></div>
+  </div>
+
+  <hr class="site-footer__hr">
+
+  <div class="page-width">
+    <div class="grid grid--no-gutters small--text-center">
+      <div class="grid__item one-half small--one-whole"><ul class="list--inline site-footer__social-icons social-icons site-footer__icon-list"><li>
+                <a class="social-icons__link" href="https://www.facebook.com/My-Bitcoin-Shirts" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 20 20"><path fill="#444" d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg><span class="icon__fallback-text">Facebook</span>
+                </a>
+              </li><li>
+                <a class="social-icons__link" href="https://www.instagram.com/mauro_bontempo/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 512 512"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg><span class="icon__fallback-text">Instagram</span>
+                </a>
+              </li><li>
+                <a class="social-icons__link" href="https://mybitcoinshirts.com/blogs/news.atom"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-rss" viewBox="0 0 20 20"><path fill="#444" d="M5.903 16.586a2.489 2.489 0 1 1-4.977 0 2.489 2.489 0 0 1 4.977 0zM12.956 19.075H9.43c0-4.688-3.817-8.505-8.505-8.505V7.044c6.638 0 12.031 5.393 12.031 12.031z"/><path fill="#444" d="M15.445 19.075c0-8.028-6.493-14.52-14.52-14.52V.925c10.019 0 18.15 8.131 18.15 18.15h-3.63z"/></svg><span class="icon__fallback-text">RSS</span>
+                </a>
+              </li></ul></div>
+
+      <div class="grid__item one-half small--one-whole">
+        
+          <div class="grid__item site-footer__payment-icons">
+            
+              <span class="visually-hidden">Payment methods</span>
+              <ul class="payment-icons list--inline site-footer__icon-list">
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-amazon"><title id="pi-amazon">Amazon</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" fill-rule="nonzero" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF" fill-rule="nonzero"/><path d="M25.26 16.23c-1.697 1.48-4.157 2.27-6.275 2.27-2.97 0-5.644-1.3-7.666-3.463-.16-.17-.018-.402.173-.27 2.183 1.504 4.882 2.408 7.67 2.408 1.88 0 3.95-.46 5.85-1.416.288-.145.53.222.248.47v.001zm.706-.957c-.216-.328-1.434-.155-1.98-.078-.167.024-.193-.148-.043-.27.97-.81 2.562-.576 2.748-.305.187.272-.047 2.16-.96 3.063-.14.138-.272.064-.21-.12.205-.604.664-1.96.446-2.29h-.001z" fill="#F90" fill-rule="nonzero"/><path d="M21.814 15.291c-.574-.498-.676-.73-.993-1.205-.947 1.012-1.618 1.315-2.85 1.315-1.453 0-2.587-.938-2.587-2.818 0-1.467.762-2.467 1.844-2.955.94-.433 2.25-.51 3.25-.628v-.235c0-.43.033-.94-.208-1.31-.212-.333-.616-.47-.97-.47-.66 0-1.25.353-1.392 1.085-.03.163-.144.323-.3.33l-1.677-.187c-.14-.033-.296-.153-.257-.38.386-2.125 2.223-2.766 3.867-2.766.84 0 1.94.234 2.604.9.842.82.762 1.918.762 3.11v2.818c0 .847.335 1.22.65 1.676.113.164.138.36-.003.482-.353.308-.98.88-1.326 1.2a.367.367 0 0 1-.414.038zm-1.659-2.533c.34-.626.323-1.214.323-1.918v-.392c-1.25 0-2.57.28-2.57 1.82 0 .782.386 1.31 1.05 1.31.487 0 .922-.312 1.197-.82z" fill="#221F1F"/></svg>
+
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#002663"/><path d="M8.971 10.268l.774 1.876H8.203l.768-1.876zm16.075.078h-2.977v.827h2.929v1.239h-2.923v.922h2.977v.739l2.077-2.245-2.077-2.34-.006.858zm-14.063-2.34h3.995l.887 1.935L16.687 8h10.37l1.078 1.19L29.25 8h4.763l-3.519 3.852 3.483 3.828h-4.834l-1.078-1.19-1.125 1.19H10.03l-.494-1.19H8.406l-.495 1.19H4L7.286 8h3.43l.267.006zm8.663 1.078h-2.239l-1.5 3.536-1.625-3.536H12.06v4.81l-2.06-4.81H8.007l-2.382 5.512H7.18l.494-1.19h2.596l.494 1.19h2.72v-3.935l1.751 3.941h1.19l1.74-3.929v3.93h1.458l.024-5.52zm9.34 2.768l2.531-2.768h-1.822l-1.601 1.726-1.548-1.726h-5.894v5.518h5.81l1.614-1.738 1.548 1.738h1.875l-2.512-2.75z" fill="#FFF"/></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-diners_club"><title id="pi-diners_club">Diners Club</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z" fill="#3086C8"/></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-discover"><title id="pi-discover">Discover</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><path d="M37 16.95V21c0 1.1-.9 2-2 2H23.228c7.896-1.815 12.043-4.601 13.772-6.05z" fill="#EDA024"/><path fill="#494949" d="M9 11h20v2H9z"/><path d="M22 12c0 1.7-1.3 3-3 3s-3-1.4-3-3 1.4-3 3-3c1.7 0 3 1.3 3 3z" fill="#EDA024"/></svg>
+
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-google_pay"><title id="pi-google_pay">Google Pay</title><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/><path d="M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z" fill="#5F6368"/><path d="M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z" fill="#4285F4"/><path d="M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z" fill="#34A853"/><path d="M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z" fill="#FBBC04"/><path d="M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z" fill="#EA4335"/></svg>
+
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" width="38" height="24" role="img" aria-labelledby="pi-jcb" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-jcb">JCB</title><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/></g><path d="M11.5 5H15v11.5a2.5 2.5 0 0 1-2.5 2.5H9V7.5A2.5 2.5 0 0 1 11.5 5z" fill="#006EBC"/><path d="M18.5 5H22v11.5a2.5 2.5 0 0 1-2.5 2.5H16V7.5A2.5 2.5 0 0 1 18.5 5z" fill="#F00036"/><path d="M25.5 5H29v11.5a2.5 2.5 0 0 1-2.5 2.5H23V7.5A2.5 2.5 0 0 1 25.5 5z" fill="#2AB419"/><path d="M10.755 14.5c-1.06 0-2.122-.304-2.656-.987l.78-.676c.068 1.133 3.545 1.24 3.545-.19V9.5h1.802v3.147c0 .728-.574 1.322-1.573 1.632-.466.144-1.365.221-1.898.221zm8.116 0c-.674 0-1.388-.107-1.965-.366-.948-.425-1.312-1.206-1.3-2.199.012-1.014.436-1.782 1.468-2.165 1.319-.49 3.343-.261 3.926.27v.972c-.572-.521-1.958-.898-2.919-.46-.494.226-.737.917-.744 1.448-.006.56.245 1.252.744 1.497.953.467 2.39.04 2.919-.441v1.01c-.358.255-1.253.434-2.129.434zm8.679-2.587c.37-.235.582-.567.582-1.005 0-.438-.116-.687-.348-.939-.206-.207-.58-.469-1.238-.469H23v5h3.546c.696 0 1.097-.23 1.315-.415.283-.25.426-.53.426-.96 0-.431-.155-.908-.737-1.212zm-1.906-.281h-1.428v-1.444h1.495c.956 0 .944 1.444-.067 1.444zm.288 2.157h-1.716v-1.513h1.716c.986 0 1.083 1.513 0 1.513z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-shopify_pay"><title id="pi-shopify_pay">Shopify Pay</title><path d="M35.712 24H2.288A2.279 2.279 0 0 1 0 21.731V2.269A2.279 2.279 0 0 1 2.289 0H35.71A2.279 2.279 0 0 1 38 2.269v19.462A2.279 2.279 0 0 1 35.712 24" fill="#5C6AC4"/><path d="M35.712 23.5H2.288A1.779 1.779 0 0 1 .5 21.731V2.269A1.78 1.78 0 0 1 2.289.5H35.71a1.78 1.78 0 0 1 1.789 1.769v19.462c0 .973-.797 1.769-1.788 1.769z" fill="none" stroke="#142688" stroke-opacity=".2"/><path d="M12.892 7.934l-.835-.063-.614-.61a.128.128 0 0 0-.052-.031l-.395 9.12 3.118-.678-1.132-7.654a.1.1 0 0 0-.09-.084zm-2.81-.35v-.108c0-.33-.045-.597-.12-.808.297.037.494.374.62.76-.148.047-.317.1-.5.156zm-.653 3.295s-.346-.185-.77-.185c-.622 0-.653.39-.653.488 0 .537 1.398.742 1.398 2 0 .988-.627 1.625-1.473 1.625-1.014 0-1.534-.632-1.534-.632l.272-.897s.534.457.984.457a.397.397 0 0 0 .413-.4c0-.7-1.148-.731-1.148-1.882 0-.967.695-1.904 2.098-1.904.54 0 .807.155.807.155l-.394 1.175zm-.23-4.52a.3.3 0 0 1 .171.057c-.428.202-.888.71-1.081 1.723l-.817.254c.227-.774.766-2.035 1.727-2.035zm.533 1.276v.058l-1.034.32c.199-.768.572-1.14.898-1.28.082.207.136.503.136.902zm1.487-.402l-.31.095c-.185-.532-.51-1.02-1.085-1.02-.016 0-.032 0-.048.002-.163-.216-.365-.31-.54-.31C7.899 6 7.261 7.671 7.06 8.52l-.935.29c-.29.092-.3.1-.337.374C5.759 9.39 5 15.258 5 15.258l5.855 1.097.395-9.13a.32.32 0 0 0-.031.008zm7.394 4.348c.143.022.286.044.506.044.97 0 1.498-.727 1.498-1.443 0-.65-.43-.914-1.024-.914-.242 0-.43.01-.55.044l-.43 2.269zm-.848-3.36c.462-.11 1.157-.176 1.796-.176.616 0 1.376.11 1.894.518.44.341.694.87.694 1.498a2.71 2.71 0 0 1-.991 2.126c-.573.462-1.4.672-2.225.672-.21 0-.408-.022-.551-.034l-.518 2.688h-1.487l1.388-7.292zm7.715 2.985a1.485 1.485 0 0 0-.385-.044c-.991 0-1.663 1.421-1.663 2.358 0 .517.165.87.573.87.451 0 .969-.562 1.2-1.785l.276-1.399zm-.473 4.308c.01-.309.044-.65.066-1.014h-.034c-.473.837-1.112 1.124-1.674 1.124-.914 0-1.498-.727-1.498-1.796 0-1.762 1.09-3.822 3.646-3.822a5.94 5.94 0 0 1 1.664.253l-.573 2.875c-.132.683-.232 1.73-.22 2.38h-1.377zm4.357-5.247l.242 2.284c.067.54.11.925.132 1.277h.023c.12-.363.231-.705.451-1.289l.926-2.272h1.586l-1.862 3.848c-.66 1.366-1.3 2.368-1.994 3.018-.54.507-1.178.76-1.487.826l-.418-1.289a3.28 3.28 0 0 0 .859-.43 2.6 2.6 0 0 0 .826-.914c.044-.077.055-.143.033-.253l-.843-4.806h1.526z" fill="#fff"/></svg>
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" viewBox="0 0 38 24" width="38" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-venmo"><title id="pi-venmo">Venmo</title><g fill="none" fill-rule="evenodd"><rect fill-opacity=".07" fill="#000" width="38" height="24" rx="3"/><path fill="#3D95CE" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M24.675 8.36c0 3.064-2.557 7.045-4.633 9.84h-4.74L13.4 6.57l4.151-.402 1.005 8.275c.94-1.566 2.099-4.025 2.099-5.702 0-.918-.154-1.543-.394-2.058l3.78-.783c.437.738.634 1.499.634 2.46z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+
+                  </li>
+                
+                  <li class="payment-icon">
+                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                  </li>
+                
+              </ul>
+            
+          </div>
+        
+      </div>
+      <div class="grid__item">
+        <small class="site-footer__copyright-content">&copy; 2019, <a href="/" title="">My Bitcoin Shirts</a></small>
+        <small class="site-footer__copyright-content site-footer__copyright-content--powered-by"></small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+  </div>
+
+  <ul hidden>
+    <li id="a11y-refresh-page-message">choosing a selection results in a full page refresh</li>
+  </ul>
+<!-- Delete the Beeketing script below after uninstalling Happy Messenger app to remove it from your theme. For more info, read here: https://bit.ly/hmesscode or contact us at hi@beeketing.com. --><!-- BEEKETINGSCRIPT CODE START -->
+<script type="text/javascript">
+
+
+
+
+var BKCommerceAnalyticsEnable =  0 ;
+
+
+if(typeof Shopify === 'undefined') {
+    Shopify = {};
+}
+
+if (!Shopify.shop) {
+  Shopify.shop = 'mybitcoinshirts.com';
+}
+var bkRawUrl = function(){return window.location.href}();
+(function (doc, scriptPath) {
+    var sc, node, today=new Date(),dd=today.getDate(),mm=today.getMonth()+1,yyyy=today.getFullYear();if(dd<10)dd='0'+dd;if(mm<10)mm='0'+mm;today=yyyy+mm+dd;
+    
+    sc = doc.createElement("script");
+    sc.type = "text/javascript";
+    sc.async = !0;
+    sc.src = scriptPath + '?' + today;
+    node = doc.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(sc, node);
+})(document, 'https:\/\/sdk.beeketing.com\/js\/beeketing.js');
+</script>
+
+<!-- BEEKETINGSCRIPT CODE END --></body>
+</html>

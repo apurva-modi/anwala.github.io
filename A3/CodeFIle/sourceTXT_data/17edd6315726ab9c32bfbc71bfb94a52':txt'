@@ -1,0 +1,18 @@
+Marie Huillet
+Vitalik Buterin Dismisses Rumors New Constantinople Feature Allows Attack Vector
+Ethereum’s Vitalik Buterin has denied that a new Constantinople smart contract creation feature will have negative security implications for the network.
+Ethereum’s Vitalik Buterin and other core devs have denied that a new Constantinople smart contract feature will have negative security implications for the network
+9934 Total views
+196 Total shares
+News
+Ethereum (ETH) co-founder Vitalik Buterin and other core devs have dismissed allegations that a new smart contract creation feature set to be released in the forthcoming Constantinople hard fork will have negative security implications. The discussion was held during a Ethereum core developer call on Feb. 15.
+The feature in question is called “Create2” — designated as Ethereum Improvement Proposal (EIP) EIP-1014 — and is intended to allow for interactions with a contract that does not yet exist on the blockchain — specifically, “addresses that do not exist yet on-chain but can be relied on to only possibly eventually contain code.”
+Several ETH devs had voiced concerns that Create2 could introduce a potentially serious attack vector to the network, given the implication that smart contracts could purportedly be coded to change their address after being deployed. One had questioned whether the feature doesn’t “mean that any contract post-Constantinople with a self destruct [function in its code] is now more suspect than before?”
+In a discussion of this and other comments, dev Jeff Coleman underscored that “one of the things that is counter-intuitive about Create2 is that theoretically redeployments can change the contract byte code, because the address is only a commitment to the init code. People need to be aware that init codes are part of auditing, [...] that non-deterministic init codes are a problem.”
+Coleman stressed that those who are looking to audit others’ code need to look out for potentially “weird phenomena [...] especially if you combine Create2 with Create1, because the latter has a really weak assumption around address identity whatever the nonce is.” He added:
+“When we look forward to where we want to end up [...] it would be to have all addresses [...] contracted via the init code. We need content-based addressing of contracts, and not just order-based addressing, which is what Create1 is. So if we get to the place where Create2 is standard, get rid of self destruct entirely [...] we could throw out this idea of a contract nonce.”
+Like Coleman, Vitalik Buterin discussed Create2 in regard to a longer-term roadmap, saying:
+“The one thing we need to keep in mind is more for the future, when thinking about rents and deletion; that’s a way that can lead to contracts being in a state to being not in a state without a self-destruct operation [...]. It’s not something we need to figure out in the next few weeks, but it's still useful to keep in mind when getting the ETH 2.0 sharding to a VM spec very soon."
+Aside from Create2, the devs also noted they had found a prospective independent company for benchmark testing an application-specific integrated circuit ( ASIC )-resistant proof-of-work ( PoW ) algorithm dubbed “ ProgPoW .”
+Having voted to implement the algorithm as Ethereum continues to evolve toward its eventual target of Proof-of-Stake ( PoS ), the devs had recently decided to delay its rollout until a third party audit would be completed. An ongoing, informal online vote over the implementation of ProgPoW shows the majority in favor.
+0  Comments

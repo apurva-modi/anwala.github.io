@@ -1,0 +1,831 @@
+<!doctype html><html amp lang="en-gb"><head><title>JP Morgan creates first US bank-backed crypto-currency - BBC News</title><link rel="canonical" href="https://www.bbc.com/news/business-47240760" data-embed-ignore><link rel="manifest" href="https://news.files.bbci.co.uk/ws/manifests/news.json">  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,user-scalable=yes,minimal-ui"><meta property="og:title" content="JP Morgan creates first US bank-backed crypto-currency"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.bbc.com/news/business-47240760"/>
+<meta property="og:description" content="The US investment bank has created the JPM Coin to handle wholesale payments for some clients."/>
+<meta property="og:image" content="https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E2/production/_105649585_jamie-dimon.jpg"/>
+<meta property="og:image:width" content="1024"/>
+<meta property="og:image:height" content="576"/>
+<meta property="og:site_name" content="BBC News"/>
+<meta property="article:author" content="https://www.facebook.com/bbcnews"/>
+<meta property="article:section" content="Business"/>
+<meta property="article:published_time" content="2019-02-14T14:12:08+00:00"/>
+<meta property="article:modified_time" content="2019-02-14T15:58:19+00:00"/>
+<meta property="og:locale" content="en-gb"/>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://www.bbc.com/news/business-47240760",
+  "headline": "JP Morgan creates first US bank-backed crypto-currency",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E2/production/_105649585_jamie-dimon.jpg",
+    "width": 1024,
+    "height": 576
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Mary-Ann Russon"
+  },
+  "datePublished": "2019-02-14T14:12:08+00:00",
+  "dateModified": "2019-02-14T15:58:19+00:00",
+  "publisher": {
+    "@type": "Organization",
+    "name": "BBC News",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://news.files.bbci.co.uk/amp/brand/bbc-news.png",
+      "height": "60px",
+      "width": "239px"
+    }
+  }
+}
+</script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><style amp-custom>
+            body{font-family:Helvetica,Arial,freesans,sans-serif}.off-screen{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip:rect(0 0 0 0)}a,article,aside,body,caption,div,em,embed,footer,h1,h2,h3,h4,h5,h6,html,iframe,img,label,li,menu,nav,p,s,section,small,span,svg,table,td,th,time,tr,u,ul{color:inherit;margin:0;padding:0;border:0;font-size:100%;font-weight:inherit;vertical-align:baseline}article,aside,footer,menu,nav,section{display:block}body{line-height:1;height:100%;width:100%;margin:0;padding:0}ul{list-style:none}table{border-collapse:collapse;border-spacing:0}body{color:#404040}aside{float:right;clear:both;width:33.33333%;margin-top:16px;margin-left:16px}@media (max-width:37.5625em){aside{display:none}}p{margin:1em 0 1em 0}table{width:100%;border-collapse:separate;margin-bottom:16px}td,th{padding-top:8px;padding-bottom:8px;padding-left:8px;vertical-align:middle}ul{margin:0 0 0 20px;margin-bottom:16px;padding:0;list-style-position:outside}ul li ul{margin-bottom:0}ul li ul li:first-child{padding-top:0}ul li ul li:first-child:last-child{padding-bottom:0}ul li ul li:not(:first-child):last-child{padding-bottom:0}ul{list-style-type:square}li{padding-bottom:8px;padding-top:8px;padding-left:8px;padding-right:8px}.amp-o-bquote{margin:0}.amp-o-bquote__icon{display:block;height:42px;width:42px}.amp-o-bquote__content{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:700}@media (min-width:20em){.amp-o-bquote__content{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-bquote__content{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-bquote__content{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-bquote__footer{font-size:15px;font-size:.9375rem;line-height:18px;line-height:1.125rem;letter-spacing:0;color:gray;display:block}@media (min-width:37.5em){.amp-o-bquote__footer{line-height:20px;line-height:1.25rem}.amp-mode-mouse .amp-o-bquote__footer{font-size:14px;font-size:.875rem;line-height:18px;line-height:1.125rem}}.amp-o-hr{height:1px;border-width:0;color:gray;background-color:#dcdcdc;margin:0 0 16px 0}.amp-o-social-embed{margin:1em 0}.amp-o-social-embed--unavailable{background-color:#f2efec;display:table;position:absolute;height:100%;width:100%;text-align:center}.amp-o-social-embed--unavailable-message{display:table-cell;vertical-align:middle}.amp-o-table{font-size:15px;font-size:.9375rem;line-height:18px;line-height:1.125rem}@media (min-width:37.5em){.amp-o-table{line-height:20px;line-height:1.25rem}.amp-mode-mouse .amp-o-table{font-size:14px;font-size:.875rem;line-height:18px;line-height:1.125rem}}.amp-o-table__cell{border-bottom:1px solid #dbdbdb}.amp-o-table__row:focus,.amp-o-table__row:hover{background-color:#f7f7f5}.amp-o-table__head{background:#f7f7f5;border-bottom:1px solid #dbdbdb}.amp-o-table__link{font-size:15px;font-size:.9375rem;line-height:18px;line-height:1.125rem;font-weight:700}@media (min-width:37.5em){.amp-o-table__link{line-height:20px;line-height:1.25rem}.amp-mode-mouse .amp-o-table__link{font-size:14px;font-size:.875rem;line-height:18px;line-height:1.125rem}}.amp-o-quote__inner{padding:8px 0 0;border-top:8px solid #dcdcdc;overflow:hidden;position:relative}.amp-o-body-line{border:0;height:1px;color:#dcdcdc;background-color:#dcdcdc}.amp-o-crosshead{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}@media (min-width:37.5em){.amp-o-crosshead{font-size:21px;font-size:1.3125rem;line-height:24px;line-height:1.5rem}.amp-mode-mouse .amp-o-crosshead{font-size:20px;font-size:1.25rem}}.amp-o-subheading{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem;font-weight:700}@media (min-width:20em){.amp-o-subheading{letter-spacing:-1px;letter-spacing:-.0625rem}}@media (min-width:37.5em){.amp-o-subheading{font-size:21px;font-size:1.3125rem;line-height:24px;line-height:1.5rem}.amp-mode-mouse .amp-o-subheading{font-size:20px;font-size:1.25rem}}.amp-o-subheading{border-bottom:2px solid #dcdcdc;color:#1e1e1e;margin-top:16px;padding-bottom:8px}.amp-o-crosshead{color:#1e1e1e;margin:16px 0}.amp-o-link{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:700;border-bottom:1px solid #dcdcdc;color:#222;text-decoration:none}@media (min-width:20em){.amp-o-link{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-link{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-link{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-link:hover{color:#1167a8}.amp-o-section-link{font-size:14px;font-size:.875rem;line-height:16px;line-height:1rem;color:#bb1919;text-decoration:none}@media (min-width:20em){.amp-o-section-link{line-height:18px;line-height:1.125rem}}@media (min-width:37.5em){.amp-mode-mouse .amp-o-section-link{font-size:13px;font-size:.8125rem;line-height:16px;line-height:1rem}}.amp-o-section-link.brand--sport{color:#006328}.amp-o-section-link:hover{color:#1167a8}.amp-o-paragraph{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem}@media (min-width:20em){.amp-o-paragraph{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-paragraph{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-paragraph{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-paragraph--bold{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:700}@media (min-width:20em){.amp-o-paragraph--bold{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-paragraph--bold{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-paragraph--bold{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-pullout{background-color:#fff;clear:both}.amp-o-pullout__inner{padding:8px 0 0;border-top:8px solid #dcdcdc;overflow:hidden;position:relative}.amp-o-pullout__heading{border-bottom:1px solid #dcdcdc;margin-bottom:10px;padding-bottom:16px;font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem;font-weight:700}@media (min-width:20em){.amp-o-pullout__heading{letter-spacing:-1px;letter-spacing:-.0625rem}}@media (min-width:37.5em){.amp-o-pullout__heading{font-size:21px;font-size:1.3125rem;line-height:24px;line-height:1.5rem}.amp-mode-mouse .amp-o-pullout__heading{font-size:20px;font-size:1.25rem}}.amp-o-pullout__content{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem}@media (min-width:20em){.amp-o-pullout__content{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-pullout__content{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-pullout__content{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-question{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:700}@media (min-width:20em){.amp-o-question{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){.amp-o-question{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .amp-o-question{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.amp-o-social-embed--unavailable{background-color:#f2efec;display:table;position:absolute;height:100%;width:100%;text-align:center}.amp-o-social-embed--unavailable-message{display:table-cell;vertical-align:middle}.amp-o-social-embed amp-instagram{box-sizing:initial;border:1px solid #dfe0e4;border-radius:8px}.amp-o-social-bar{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-direction:row;flex-wrap:wrap;-webkit-box-align:center;-webkit-flex-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center}.amp-o-social-bar .amp-o-share-tools{-webkit-box-flex:1;-moz-box-flex:1;-webkit-flex:1;-ms-flex:1;flex-grow:1}.amp-o-social-bar .amp-o-facebook-like{max-height:28px;min-width:95px}amp-social-share[type=twitter]{background:0 0;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB3aWR0aD0iNDRweCIgaGVpZ2h0PSI0NHB4IiB2aWV3Qm94PSIwIDAgODggODgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+ICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiAgICAgICAgPGcgaWQ9IlR3aXR0ZXJfbG9nbyI+ICAgICAgICAgICAgPGcgaWQ9InR3LXBvc2kiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI2LjAwMDAwMCwgMjkuMDAwMDAwKSIgZmlsbD0iIzFkYTFmMiI+ICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zMy4xNjM3NTQsOC40NDc3MTM0MyBDMzMuMTYzNzU0LDguMTIwMDQ0ODMgMzMuMTYzNzU0LDcuNzkyMzc2MjQgMzMuMTQyOTg2Myw3LjQ2OTMyMjY5IEMzNC42MjQ0MTc2LDYuMzk2MzIzNDEgMzUuOTA1MDk0MSw1LjA2NzE4ODgyIDM2LjkyMDQwNTMsMy41NDY1Mjk2MyBDMzUuNTM4MTk3Niw0LjE2MDMzMTM3IDM0LjA3MjkxOSw0LjU2MTg0MDc4IDMyLjU3MDcyLDQuNzM5NTIwMjMgQzM0LjE1MTM3NDksMy43OTM0MzQ4NCAzNS4zMzUxMzU0LDIuMzAyNzczNDggMzUuOTAwNDc5MSwwLjU0OTA1NDIyOSBDMzQuNDE0NDMyOCwxLjQzMDUyODkxIDMyLjc4NzYyNzQsMi4wNTM1NjA3NCAzMS4wOTE1OTYzLDIuMzg4MTUxOTIgQzI4LjIyMTAzNDgsLTAuNjYyMzk2NTY4IDIzLjQyMzY4OTYsLTAuODEwMDc4MTg5IDIwLjM3MzE0MTEsMi4wNTgxNzU3OSBDMTguNDA0ODIyLDMuOTA4ODExMTEgMTcuNTcxODA1NCw2LjY2NjMwMzg4IDE4LjE4MDk5MjEsOS4yOTY4ODI3NSBDMTIuMDkxNDMyNyw4Ljk5MjI4OTQxIDYuNDE3MjI3OTQsNi4xMTQ4MDUzMiAyLjU3MDU4MzIyLDEuMzgyMDcwODcgQzAuNTYwNzI4NjU1LDQuODQzMzU4ODcgMS41ODc1Nzc0Myw5LjI3MTQ5OTk3IDQuOTE1MDI4OTUsMTEuNDkzNjQ2OSBDMy43MTA1MDA3MywxMS40NTkwMzQgMi41MzEzNTUyOSwxMS4xMzM2NzI5IDEuNDc2ODE2MjEsMTAuNTQ1MjU0IEwxLjQ3NjgxNjIxLDEwLjY0MjE3IEMxLjQ3OTEyMzc0LDE0LjI0ODgzMjEgNC4wMTk3MDkxMiwxNy4zNTI0NTM3IDcuNTU0ODM3OTMsMTguMDY3Nzg2NSBDNi40NDAzMDMxOSwxOC4zNzIzNzk5IDUuMjcwMzg3ODUsMTguNDE2MjIyOCA0LjEzNTA4NTM5LDE4LjE5NzAwNzkgQzUuMTI3MzIxMjgsMjEuMjgyMTY5MyA3Ljk3MDE5MjQ5LDIzLjM5NTg2MjUgMTEuMjEyMjY1NiwyMy40NTgxNjU3IEM4LjUyODYxMzYxLDI1LjU2NDkzNjMgNS4yMTUwMDcyNCwyNi43MDk0Njg5IDEuODA0NDg0ODEsMjYuNzA3MTYxNCBDMS4yMDIyMjA3LDI2LjcwNDg1MzggMC41OTk5NTY1ODUsMjYuNjY3OTMzNCAxLjQyMTA4NTQ3ZS0xNCwyNi41OTY0MDAxIEMzLjQ2NTkwMzA0LDI4LjgyMDg1NDYgNy40OTQ4NDIyNywzMCAxMS42MTE0Njc1LDI5Ljk5MzA3NzQgQzI1LjU0NDMwNTQsMzAgMzMuMTYzNzU0LDE4LjQ1Nzc1ODMgMzMuMTYzNzU0LDguNDQ3NzEzNDMgWiIgaWQ9IkZpbGwtMTItQ29weSI+PC9wYXRoPiAgICAgICAgICAgIDwvZz4gICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlLTMiIHg9IjAiIHk9IjAiIHdpZHRoPSI4OCIgaGVpZ2h0PSI4OCI+PC9yZWN0PiAgICAgICAgICAgIDxyZWN0IGlkPSJSZWN0YW5nbGUtMy1Db3B5IiB4PSIwIiB5PSIwIiB3aWR0aD0iODgiIGhlaWdodD0iODgiPjwvcmVjdD4gICAgICAgIDwvZz4gICAgPC9nPjwvc3ZnPg==)}amp-social-share[type=whatsapp]{display:none;background:0 0;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB3aWR0aD0iNDRweCIgaGVpZ2h0PSI0NHB4IiB2aWV3Qm94PSIwIDAgODggODgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+ICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiAgICAgICAgPGcgaWQ9IldoYXRzYXBwX2xvZ28iIGZpbGw9IiMxYmQ3NDEiPiAgICAgICAgICAgIDxnIGlkPSJ3aGF0c2FwcF9sb2dvX0ImYW1wO1ciIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1LjAwMDAwMCwgMjYuMDAwMDAwKSIgZmlsbC1ydWxlPSJub256ZXJvIj4gICAgICAgICAgICAgICAgPHBhdGggZD0iTTAuMTExODQyMTA1LDM3Ljg3NjMxNTggTDIuNzUyNjMxNTgsMjguNDg1NTI2MyBDMS4wNDczNjg0MiwyNS41OTYwNTI2IDAuMTU5MjEwNTI2LDIyLjMxNTc4OTUgMC4xNTkyMTA1MjYsMTguOTQwNzg5NSBDMC4xNTkyMTA1MjYsOC41NDM0MjEwNSA4LjYxNDQ3MzY4LDAuMDg4MTU3ODk0NyAxOS4wMTE4NDIxLDAuMDg4MTU3ODk0NyBDMjkuNDA5MjEwNSwwLjA4ODE1Nzg5NDcgMzcuODY0NDczNyw4LjU0MzQyMTA1IDM3Ljg2NDQ3MzcsMTguOTQwNzg5NSBDMzcuODY0NDczNywyOS4zMzgxNTc5IDI5LjQwOTIxMDUsMzcuNzkzNDIxMSAxOS4wMTE4NDIxLDM3Ljc5MzQyMTEgQzE1Ljc3ODk0NzQsMzcuNzkzNDIxMSAxMi42MDUyNjMyLDM2Ljk2NDQ3MzcgOS43OTg2ODQyMSwzNS4zODk0NzM3IEwwLjExMTg0MjEwNSwzNy44NzYzMTU4IFogTTEwLjI4NDIxMDUsMzEuOTU1MjYzMiBMMTAuODY0NDczNywzMi4zMTA1MjYzIEMxMy4zMTU3ODk1LDMzLjgwMjYzMTYgMTYuMTIyMzY4NCwzNC41OTYwNTI2IDE5LjAxMTg0MjEsMzQuNTk2MDUyNiBDMjcuNjQ0NzM2OCwzNC41OTYwNTI2IDM0LjY2NzEwNTMsMjcuNTczNjg0MiAzNC42NjcxMDUzLDE4Ljk0MDc4OTUgQzM0LjY2NzEwNTMsMTAuMzA3ODk0NyAyNy42MzI4OTQ3LDMuMjg1NTI2MzIgMTkuMDExODQyMSwzLjI4NTUyNjMyIEMxMC4zOTA3ODk1LDMuMjg1NTI2MzIgMy4zNTY1Nzg5NSwxMC4zMDc4OTQ3IDMuMzU2NTc4OTUsMTguOTQwNzg5NSBDMy4zNTY1Nzg5NSwyMS45NDg2ODQyIDQuMjA5MjEwNTMsMjQuODczNjg0MiA1LjgzMTU3ODk1LDI3LjM4NDIxMDUgTDYuMjIyMzY4NDIsMjcuOTg4MTU3OSBMNC42OTQ3MzY4NCwzMy40IEwxMC4yODQyMTA1LDMxLjk1NTI2MzIgWiIgaWQ9IlNoYXBlIj48L3BhdGg+ICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMy43MTg0MjExLDEwLjE2NTc4OTUgTDEyLjQ5ODY4NDIsMTAuMDk0NzM2OCBDMTIuMTE5NzM2OCwxMC4wNzEwNTI2IDExLjc0MDc4OTUsMTAuMjAxMzE1OCAxMS40NDQ3MzY4LDEwLjQ1IEMxMC44NTI2MzE2LDEwLjk1OTIxMDUgOS45MDUyNjMxNiwxMS45NjU3ODk1IDkuNjA5MjEwNTMsMTMuMjU2NTc4OSBDOS4xNzEwNTI2MywxNS4xODY4NDIxIDkuODQ2MDUyNjMsMTcuNTU1MjYzMiAxMS41ODY4NDIxLDE5LjkyMzY4NDIgQzEzLjMyNzYzMTYsMjIuMjkyMTA1MyAxNi41NjA1MjYzLDI2LjA4MTU3ODkgMjIuMjgwMjYzMiwyNy43MDM5NDc0IEMyNC4xMjc2MzE2LDI4LjIyNSAyNS41NzIzNjg0LDI3Ljg2OTczNjggMjYuNjk3MzY4NCwyNy4xNTkyMTA1IEMyNy41ODU1MjYzLDI2LjU5MDc4OTUgMjguMTg5NDczNywyNS42Nzg5NDc0IDI4LjQxNDQ3MzcsMjQuNjQ4Njg0MiBMMjguNjAzOTQ3NCwyMy43MzY4NDIxIEMyOC42NjMxNTc5LDIzLjQ1MjYzMTYgMjguNTIxMDUyNiwyMy4xNTY1Nzg5IDI4LjI0ODY4NDIsMjMuMDI2MzE1OCBMMjQuMTE1Nzg5NSwyMS4xMzE1Nzg5IEMyMy44NDM0MjExLDIxLjAxMzE1NzkgMjMuNTIzNjg0MiwyMS4wODQyMTA1IDIzLjM0NjA1MjYsMjEuMzIxMDUyNiBMMjEuNzIzNjg0MiwyMy40Mjg5NDc0IEMyMS42MDUyNjMyLDIzLjU4Mjg5NDcgMjEuMzkyMTA1MywyMy42NTM5NDc0IDIxLjIwMjYzMTYsMjMuNTgyODk0NyBDMjAuMDg5NDczNywyMy4xOTIxMDUzIDE2LjM3MTA1MjYsMjEuNjI4OTQ3NCAxNC4zMjIzNjg0LDE3LjY5NzM2ODQgQzE0LjIzOTQ3MzcsMTcuNTMxNTc4OSAxNC4yNTEzMTU4LDE3LjMxODQyMTEgMTQuMzgxNTc4OSwxNy4xNzYzMTU4IEwxNS45MzI4OTQ3LDE1LjM4ODE1NzkgQzE2LjA4Njg0MjEsMTUuMjEwNTI2MyAxNi4xMzQyMTA1LDE0Ljk1IDE2LjAzOTQ3MzcsMTQuNzI1IEwxNC4yNjMxNTc5LDEwLjU1NjU3ODkgQzE0LjE2ODQyMTEsMTAuMzMxNTc4OSAxMy45NTUyNjMyLDEwLjE3NzYzMTYgMTMuNzE4NDIxMSwxMC4xNjU3ODk1IFoiIGlkPSJTaGFwZSI+PC9wYXRoPiAgICAgICAgICAgIDwvZz4gICAgICAgIDwvZz4gICAgPC9nPjwvc3ZnPg==)}.amp-mode-touch amp-social-share[type=whatsapp]{display:inline-block}amp-social-share[type=facebook]{background:0 0;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB3aWR0aD0iNDRweCIgaGVpZ2h0PSI0NHB4IiB2aWV3Qm94PSIwIDAgODggODgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+ICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiAgICAgICAgPGcgaWQ9IkZhY2Vib29rX2xvZ28iIGZpbGw9IiMzZDVhOTgiPiAgICAgICAgICAgIDxnIGlkPSJmYi1wb3NpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNS4wMDAwMDAsIDI3LjAwMDAwMCkiPiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTEuNDYsMzQgTDExLjQ2LDE4LjQ5MiBMMTYuNjY2LDE4LjQ5MiBMMTcuNDQ2LDEyLjQ0NiBMMTEuNDYsMTIuNDQ2IEwxMS40Niw4LjU4OCBDMTEuNDYsNi44MzggMTEuOTQ2LDUuNjQ2IDE0LjQ1Niw1LjY0NiBMMTcuNjU2LDUuNjQ0IEwxNy42NTYsMC4yMzggQzE3LjEwMiwwLjE2NCAxNS4yMDIsMCAxMi45OTIsMCBDOC4zNzgsMCA1LjIxOCwyLjgxNiA1LjIxOCw3Ljk5IEw1LjIxOCwxMi40NDYgTDAsMTIuNDQ2IEwwLDE4LjQ5MiBMNS4yMTgsMTguNDkyIEw1LjIxOCwzNCBMMTEuNDYsMzQgWiIgaWQ9IkZpbGwtMzUtQ29weSI+PC9wYXRoPiAgICAgICAgICAgIDwvZz4gICAgICAgIDwvZz4gICAgPC9nPjwvc3ZnPg==)}amp-social-share[type=email]{background:0 0;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB3aWR0aD0iNDRweCIgaGVpZ2h0PSI0NHB4IiB2aWV3Qm94PSIwIDAgODggODgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+ICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiAgICAgICAgPGcgaWQ9IkVtYWlsX2xvZ28iIGZpbGw9IiM1YTVhNWEiPiAgICAgICAgICAgIDxwYXRoIGQ9Ik0yOCwzMSBMMjgsMzIuMTI1IEwyOCwzMi40MzMgTDI4LDM1LjAwMSBMMjgsNTMuMDAxIEwyOCw1NyBMMzIsNTcgTDQ0LDU3IEw1Niw1NyBMNTcuMzYyLDU3IEw2MCw1NyBMNjAsMzYgTDU2LDQwIEw1Niw1My4wMDEgTDMyLDUzLjAwMSBMMzIsMzYuMTY2IEw0NCw0Ny4zNjcgTDYwLDMyLjQzMyBMNjAsMzEgTDI4LDMxIFogTTMzLjgxMywzNS4wMDEgTDU0LjE5NCwzNS4wMDEgTDQ0LjAxLDQ0LjYyMiBMNDQsNDQuNjE0IEw0My45OSw0NC42MjIgTDMzLjgxMywzNS4wMDEgWiIgaWQ9IlBhZ2UtMSI+PC9wYXRoPiAgICAgICAgPC9nPiAgICA8L2c+PC9zdmc+)}#amp-o-user-consent{position:unset;margin-bottom:-.3em}#amp-o-user-consent-dialog{background-color:#323232;padding:16px}@media (min-width:37.5em){#amp-o-user-consent-dialog:after{content:'\0020';clear:both;display:block;height:0;overflow:hidden;visibility:hidden}}#amp-o-user-consent-dialog .amp-o-consent-title{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem;font-weight:700;color:#fff}@media (min-width:20em){#amp-o-user-consent-dialog .amp-o-consent-title{letter-spacing:-1px;letter-spacing:-.0625rem}}@media (min-width:37.5em){#amp-o-user-consent-dialog .amp-o-consent-title{font-size:21px;font-size:1.3125rem;line-height:24px;line-height:1.5rem}.amp-mode-mouse #amp-o-user-consent-dialog .amp-o-consent-title{font-size:20px;font-size:1.25rem}}@media (min-width:37.5em){#amp-o-user-consent-dialog .amp-o-consent-title{float:left;width:20%;margin-right:16px}}#amp-o-user-consent-dialog p.amp-o-paragraph{color:#bebebe}@media (min-width:37.5em){#amp-o-user-consent-dialog p.amp-o-paragraph{margin-top:0;width:50%;float:left}}#amp-o-user-consent-dialog .amp-o-consent-options{text-align:center}@media (min-width:37.5em){#amp-o-user-consent-dialog .amp-o-consent-options{width:20%;float:right}}#amp-o-user-consent-dialog .amp-o-consent-options button{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:700;background:0 0;border:none;margin:0 auto;color:#f6a21d;padding-bottom:8px}@media (min-width:20em){#amp-o-user-consent-dialog .amp-o-consent-options button{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){#amp-o-user-consent-dialog .amp-o-consent-options button{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse #amp-o-user-consent-dialog .amp-o-consent-options button{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width:37.5em){#amp-o-user-consent-dialog .amp-o-consent-options button{display:block}}@media (max-width:37.4375em){#amp-o-user-consent-dialog .amp-o-consent-options button{width:25%}}.amp-app-banner,.amp-banner-left__div{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-flex-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center}.amp-app-banner{height:55px;justify-content:space-between}.amp-app-banner .amp-banner-left__div .amp-banner-image__container{width:2.8em;height:2.8em;display:flex;align-items:center;justify-content:center;margin-left:16px}.amp-app-banner .amp-banner-left__div .amp-banner-image{border-radius:30%;width:100%;height:auto}.amp-app-banner .amp-banner-paragraph{color:gray;margin-left:8px;line-height:normal}@media (max-width:18.75em){.amp-app-banner .amp-banner-paragraph{font-size:70%}}.amp-app-banner .amp-banner-action{margin-right:8px}.amp-app-banner .amp-banner-action button{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem;display:flex;justify-content:center;align-items:center;border:none;color:#bb1919;background-color:inherit}@media (min-width:37.5em){.amp-app-banner .amp-banner-action button{font-size:21px;font-size:1.3125rem;line-height:24px;line-height:1.5rem}.amp-mode-mouse .amp-app-banner .amp-banner-action button{font-size:20px;font-size:1.25rem}}@media (max-width:18.75em){.amp-app-banner .amp-banner-action button{font-size:80%}}.amp-app-banner .amp-banner-action .amp-banner-btn--sport{color:#000}.article-image,.article-video{margin:0 0 16px 0}.article-image--has-caption,.article-video--has-caption{background:#111}.article-image__image-copyright-container{background:#111}.article-image__image,.article-video__image,.article-video__video{display:block;width:100%}.article-image__copyright{background:#404040;background:rgba(0,0,0,.6);color:#ececec;position:absolute;bottom:0;right:0;padding:5px;padding-right:8px;font-size:13px;z-index:1;text-transform:uppercase}.media-caption{padding:16px}.media-caption__text{color:#ececec;font-size:13px}.gel-wrap{max-width:1008px;margin:0 auto;padding-right:8px;padding-left:8px}@media (min-width:25em){.gel-wrap{padding-left:16px;padding-right:16px}}.gel-layout{list-style:none;direction:ltr;text-align:left;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-flex-grow:1;-ms-flex-grow:1;flex-grow:1;margin-right:0;margin-left:-8px;padding-right:0;padding-left:0}@media (min-width:37.5em){.gel-layout{margin-left:-16px}}.gel-layout__item{width:100%;display:inline-block;padding-left:8px;text-align:left;vertical-align:top}@media (min-width:37.5em){.gel-layout__item{padding-left:16px}}.gel-1\/1{width:100%}.gel-6\/10{width:60%}.gel-4\/10{width:40%}.gel-wrap{max-width:600px}body,html{height:100%;width:100%}.main-body{width:100%}.gel-brevier{font-size:14px;font-size:.875rem;line-height:16px;line-height:1rem}@media (min-width:20em){.gel-brevier{line-height:18px;line-height:1.125rem}}@media (min-width:37.5em){.amp-mode-mouse .gel-brevier{font-size:13px;font-size:.8125rem;line-height:16px;line-height:1rem}}.gel-brevier-bold{font-size:14px;font-size:.875rem;line-height:16px;line-height:1rem;font-weight:700}@media (min-width:20em){.gel-brevier-bold{line-height:18px;line-height:1.125rem}}@media (min-width:37.5em){.amp-mode-mouse .gel-brevier-bold{font-size:13px;font-size:.8125rem;line-height:16px;line-height:1rem}}.gel-trafalgar-bold{font-size:20px;font-size:1.25rem;line-height:24px;line-height:1.5rem;font-weight:700;letter-spacing:-1px;letter-spacing:-.0625rem}@media (min-width:20em){.gel-trafalgar-bold{font-size:24px;font-size:1.5rem;line-height:28px;line-height:1.75rem}}@media (min-width:37.5em){.gel-trafalgar-bold{font-size:36px;font-size:2.25rem;line-height:40px;line-height:2.5rem}.amp-mode-mouse .gel-trafalgar-bold{font-size:32px;font-size:2rem;line-height:36px;line-height:2.25rem}}.amp-u-mb\+{margin-bottom:16px}.amp-u-mt\+\+{margin-top:32px}.amp-u-mt\+{margin-top:16px}.amp-u-box-size,.amp-u-box-size *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+
+            .site-brand{background-color:#BB1919;height:56px;padding:0}.site-brand .navigation--primary{position:relative;top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);margin:0 auto;max-width:600px;max-height:30px}.site-brand .brand__svg{text-decoration:none;max-width:90%;display:inline-block}@media (max-width: 15em){.site-brand .brand__svg{max-width:85%}}.site-brand .brand__svg svg{max-height:30px;max-width:100%;fill:#fff}
+
+
+            .amp-o-mini-info-list{margin:16px 0}.amp-o-mini-info-list__item{list-style:none;display:inline-block;border-right:1px solid #dcdcdc;margin-right:4px;padding:0 8px 0 0}.amp-o-mini-info-list__item:last-child{border-right:none;margin-right:0;padding-right:0}.amp-o-mini-info-list__timestamp{font-size:14px;font-size:.875rem;line-height:16px;line-height:1rem;color:#5A5A5A}@media (min-width: 20em){.amp-o-mini-info-list__timestamp{line-height:18px;line-height:1.125rem}}@media (min-width: 37.5em){.amp-mode-mouse .amp-o-mini-info-list__timestamp{font-size:13px;font-size:.8125rem;line-height:16px;line-height:1rem}}.amp-o-mini-info-list__timestamp-icon{height:13px;width:13px;vertical-align:text-top;fill:#5A5A5A;margin-right:2px}
+
+
+
+
+
+            .related-articles{border-top:solid 8px #dcdcdc;margin-bottom:24px}.related-articles__title{font-size:20px;font-size:1.25rem;line-height:24px;line-height:1.5rem;font-weight:bold;letter-spacing:-1px;letter-spacing:-.0625rem;padding:8px 0 8px 0}@media (min-width: 37.5em){.related-articles__title{font-size:26px;font-size:1.625rem;line-height:30px;line-height:1.875rem}.amp-mode-mouse .related-articles__title{font-size:24px;font-size:1.5rem;line-height:28px;line-height:1.75rem}}.related-articles__article{margin-top:16px}.related-articles__article a{text-decoration:none}.related-articles__article-title{font-size:15px;font-size:.9375rem;line-height:20px;line-height:1.25rem;font-weight:bold}@media (min-width: 20em){.related-articles__article-title{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}@media (min-width: 37.5em){.related-articles__article-title{font-size:18px;font-size:1.125rem;line-height:22px;line-height:1.375rem}.amp-mode-mouse .related-articles__article-title{font-size:16px;font-size:1rem;line-height:20px;line-height:1.25rem}}.related-articles__article-timestamp{font-size:15px;font-size:.9375rem;line-height:18px;line-height:1.125rem}@media (min-width: 37.5em){.related-articles__article-timestamp{line-height:20px;line-height:1.25rem}.amp-mode-mouse .related-articles__article-timestamp{font-size:14px;font-size:.875rem;line-height:18px;line-height:1.125rem}}
+
+
+            .amp-o-byline{display:inline-block;margin-top:16px}.amp-o-byline__portrait-container{display:block;float:left;margin-right:12px;height:64px;width:64px}.amp-o-byline__portrait-image{-ms-interpolation-mode:bicubic;max-width:100%;-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;width:auto;background-color:#efefef;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;height:100%}.amp-o-byline__name-and-title{float:left;margin-top:16px;font-size:.875rem;line-height:1.2}.amp-o-byline__name{color:#bb1919;display:inline-block;text-decoration:none;font-style:normal;line-height:1.2}.amp-o-byline__title{margin-top:0;display:block;color:#5A5A5A;font-style:normal;line-height:1.2}
+
+
+            #service-sidebar{width:80vw;height:calc(100% - 56px);background-color:#1e1e1e;overflow:scroll;right:0;position:fixed;margin-top:56px;z-index:2;will-change:transform;transition:transform 0.3s linear}#sidebar-overlay{position:fixed;width:100vw;height:100vh;top:0;left:0;right:0;bottom:0;margin-top:56px;background-color:rgba(0,0,0,0.5);z-index:2}.sidebarShow{visibility:visible}.sidebarHide{visibility:hidden}.amp-o-sidebar{list-style:none;padding:0px 8px;margin:0}div#service-sidebar.sidebarHide{transform:translateX(100%)}div#service-sidebar.sidebarShow{transform:translateX(0%)}.amp-o-sidebar__open{z-index:2;position:relative;margin:7px 0;float:right;visibility:hidden;outline:none}@media (max-width: 37.4375em){.amp-o-sidebar__open{visibility:visible}}@media (max-height: 37.4375em) and (orientation: landscape){.amp-o-sidebar__open{visibility:visible}}@media (max-width: 15em){.amp-o-sidebar__open{max-width:10%;margin-left:5%}}.amp-o-sidebar__open .navigation__section--icon{background:#fff;height:4px;display:block;top:17px;width:20px;margin-bottom:2px}.amp-o-sidebar__open .navigation__section--icon.bar-bottom{margin-bottom:5px}div#service-sidebar.sidebarShow ~ .main-body{top:auto;left:0;position:fixed}div#service-sidebar.sidebarShow ~ .main-body .amp-o-sidebar__open{margin:13px 0}div#service-sidebar.sidebarShow ~ .main-body .amp-o-sidebar__open .navigation__section--icon.bar-middle{background:transparent}div#service-sidebar.sidebarShow ~ .main-body .amp-o-sidebar__open .navigation__section--icon.bar-top{-webkit-transform:rotate3d(0, 0, 1, -45deg);transform:rotate3d(0, 0, 1, -45deg)}div#service-sidebar.sidebarShow ~ .main-body .amp-o-sidebar__open .navigation__section--icon.bar-bottom{margin-top:-12px;-webkit-transform:rotate3d(0, 0, 1, 45deg);transform:rotate3d(0, 0, 1, 45deg)}.amp-o-sidebar-secondary__open{font-size:100%;border:0;border-radius:0;padding:0 8px;height:40px}.amp-o-sidebar-more svg{fill:#fff}.amp-o-sidebar-list-item{color:#fff;padding:8px 0px;border-bottom:1px solid #464646}.amp-o-sidebar-list-item:last-child{border-bottom:none}.amp-o-sidebar-link{text-decoration:none;display:block}#service-toolbar{background-color:#a91717;font-size:15px;display:none;border:1px solid #a91717}@media (min-width: 37.5em){#service-toolbar{display:block}}@media (max-height: 37.4375em) and (orientation: landscape){#service-toolbar{display:none}}#service-toolbar ul{list-style:none;width:600px;margin:0 auto;padding:0 8px;height:40px}#service-toolbar ul li{display:inline-block;vertical-align:middle}#service-toolbar ul li{padding:0 8px}#service-toolbar ul li:not(:last-child){border-right:1px solid #bb4545}#service-toolbar ul li a,#service-toolbar ul li button{color:#fff}#service-toolbar ul li button{background:transparent}#service-toolbar ul li button:hover,#service-toolbar ul li button:focus{background-color:#000}.default-service-toolbar-secondary{background-color:#000}@media (max-width: 37.4375em){.default-service-toolbar-secondary{display:none}}@media (max-height: 37.4375em) and (orientation: landscape){.default-service-toolbar-secondary{display:none}}.default-service-toolbar-secondary ul{list-style:none;margin:0;padding:8px 8px 0 8px;border-bottom:4px solid #bb1919;column-count:3;column-gap:30px;column-rule:1px solid #fff}.default-service-toolbar-secondary ul li{color:#fff}@media (min-width: 37.5em){div#service-toolbar.service-toolbar__news ul li:nth-child(n+8):nth-last-child(n+2){display:none}}@media (min-width: 37.5em){div#service-toolbar-secondary.service-toolbar-secondary__news ul li:nth-child(-n+7){display:none}}@media (min-width: 37.5em){div#service-toolbar-secondary.service-toolbar-secondary__news ul li:nth-child(n+8):nth-last-child(n){visibility:visible}}html[class*=iframed] div#service-sidebar.sidebarShow{height:calc(100% - 110px)}
+
+
+
+</style><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><script async custom-element="amp-geo" src="https://cdn.ampproject.org/v0/amp-geo-0.1.js"></script><script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script><script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script><script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>   <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script> <script src="https://cdn.ampproject.org/v0.js" async data-embed-ignore></script>    </head><body><amp-geo layout="nodisplay">
+    <script type="application/json">
+        {
+            "AmpBind": true,
+            "ISOCountryGroups": {
+                "eu": [
+                    "at", "be", "bg", "cy", "cz", "de", "dk", "ee", "es", "fi", "fr", "gb",
+                    "gr", "hr", "hu", "ie", "is", "it", "li", "lt", "lu", "lv", "mt", "nl",
+                    "no", "pl", "pt", "ro", "se", "si", "sl"
+                ],
+                "domestic": [ "gb", "unknown" ]
+            }
+        }
+    </script>
+</amp-geo>
+ <amp-consent id="amp-o-user-consent" layout="nodisplay">
+    <script type="application/json">
+        {
+            "consents": {
+                "user-consent": {
+                    "promptIfUnknownForGeoGroup": "eu",
+                    "promptUI": "amp-o-user-consent-dialog"
+                }
+            }
+        }
+
+    </script>
+    <div id="amp-o-user-consent-dialog">
+        <h2 class="amp-o-consent-title">
+            Let us know you agree to cookies
+        </h2>
+        <p class="amp-o-paragraph">
+            We use cookies to give you the best online experience. Please let us know if you agree to all of these cookies.
+        </p>
+        <div class="amp-o-consent-options">
+            <button on="tap:amp-o-user-consent.accept" role="button">Accept</button>
+            <button on="tap:amp-o-user-consent.reject" role="button">Reject</button>
+        </div>
+    </div>
+</amp-consent>
+       <amp-state id="sidebarStatus">
+        <script type="application/json">
+          {
+            "currentStatus": "hide",
+            "hide": {
+              "style": "sidebarHide"
+            },
+            "show": {
+              "style": "sidebarShow"
+            }
+          }
+        </script>
+    </amp-state>
+
+    <div [class]="sidebarStatus[sidebarStatus.currentStatus].style" class="sidebarHide" id="sidebar-overlay"></div>
+    <div [class]="sidebarStatus[sidebarStatus.currentStatus].style" class="sidebarHide" id="service-sidebar">
+        <ul class="amp-o-sidebar">
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news" data-vars-title="Home" data-vars-position="1" data-vars-destination="https://www.bbc.com/news">
+                        Home
+                        <span class="off-screen"> Home </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/uk" data-vars-title="UK" data-vars-position="2" data-vars-destination="https://www.bbc.com/news/uk">
+                        UK
+                        <span class="off-screen"> UK </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/world" data-vars-title="World" data-vars-position="3" data-vars-destination="https://www.bbc.com/news/world">
+                        World
+                        <span class="off-screen"> World </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/business" data-vars-title="Business" data-vars-position="4" data-vars-destination="https://www.bbc.com/news/business">
+                        Business
+                        <span class="off-screen"> Business </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/politics" data-vars-title="Politics" data-vars-position="5" data-vars-destination="https://www.bbc.com/news/politics">
+                        Politics
+                        <span class="off-screen"> Politics </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/technology" data-vars-title="Tech" data-vars-position="6" data-vars-destination="https://www.bbc.com/news/technology">
+                        Tech
+                        <span class="off-screen"> Tech </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/science_and_environment" data-vars-title="Science" data-vars-position="7" data-vars-destination="https://www.bbc.com/news/science_and_environment">
+                        Science
+                        <span class="off-screen"> Science </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/health" data-vars-title="Health" data-vars-position="8" data-vars-destination="https://www.bbc.com/news/health">
+                        Health
+                        <span class="off-screen"> Health </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/education" data-vars-title="Family & Education" data-vars-position="9" data-vars-destination="https://www.bbc.com/news/education">
+                        Family & Education
+                        <span class="off-screen"> Family & Education </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/entertainment_and_arts" data-vars-title="Entertainment & Arts" data-vars-position="10" data-vars-destination="https://www.bbc.com/news/entertainment_and_arts">
+                        Entertainment & Arts
+                        <span class="off-screen"> Entertainment & Arts </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/stories" data-vars-title="Stories" data-vars-position="11" data-vars-destination="https://www.bbc.com/news/stories">
+                        Stories
+                        <span class="off-screen"> Stories </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/video_and_audio/headlines" data-vars-title="Video & Audio" data-vars-position="12" data-vars-destination="https://www.bbc.com/news/video_and_audio/headlines">
+                        Video & Audio
+                        <span class="off-screen"> Video & Audio </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/in_pictures" data-vars-title="In Pictures" data-vars-position="13" data-vars-destination="https://www.bbc.com/news/in_pictures">
+                        In Pictures
+                        <span class="off-screen"> In Pictures </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/newsbeat" data-vars-title="Newsbeat" data-vars-position="14" data-vars-destination="https://www.bbc.com/news/newsbeat">
+                        Newsbeat
+                        <span class="off-screen"> Newsbeat </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/realitycheck" data-vars-title="Reality Check" data-vars-position="15" data-vars-destination="https://www.bbc.com/realitycheck">
+                        Reality Check
+                        <span class="off-screen"> Reality Check </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/special_reports" data-vars-title="Special Reports" data-vars-position="16" data-vars-destination="https://www.bbc.com/news/special_reports">
+                        Special Reports
+                        <span class="off-screen"> Special Reports </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/explainers" data-vars-title="Explainers" data-vars-position="17" data-vars-destination="https://www.bbc.com/news/explainers">
+                        Explainers
+                        <span class="off-screen"> Explainers </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/the_reporters" data-vars-title="The Reporters" data-vars-position="18" data-vars-destination="https://www.bbc.com/news/the_reporters">
+                        The Reporters
+                        <span class="off-screen"> The Reporters </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/have_your_say" data-vars-title="Have Your Say" data-vars-position="19" data-vars-destination="https://www.bbc.com/news/have_your_say">
+                        Have Your Say
+                        <span class="off-screen"> Have Your Say </span>
+                    </a>
+                </li>
+                <li class="amp-o-sidebar-list-item">
+                    <a class="amp-o-sidebar-link" href="/news/disability" data-vars-title="Disability" data-vars-position="20" data-vars-destination="https://www.bbc.com/news/disability">
+                        Disability
+                        <span class="off-screen"> Disability </span>
+                    </a>
+                </li>
+        </ul>
+    </div>
+<div class="main-body amp-u-box-size "><div class="gel-layout"><div class="gel-layout__item gel-1/1"><div class="site-brand news--branding" role="banner" aria-label="BBC News"><div class="navigation navigation--primary gel-wrap"><a href="/news" class="brand__svg news--branding "><svg xmlns="http://www.w3.org/2000/svg" width="137.71" height="30" viewBox="0 0 82.63 18"><path class="st0" d="M4.84 9.62v2.36h1.6c.06 0 .12 0 .21-.01.16-.01.38-.05.59-.12.19-.06.37-.16.51-.31.06-.05.1-.11.14-.17.11-.19.15-.38.15-.49v-.08-.05a.935.935 0 0 0-.21-.59c-.02-.02-.04-.05-.06-.07-.05-.04-.09-.08-.14-.11a.782.782 0 0 0-.26-.17c-.14-.05-.29-.1-.46-.13-.08-.02-.18-.03-.27-.04-.06-.01-.12-.01-.18-.02H4.84zM4.84 6.03v2.23h.84c.05 0 .11-.01.17-.01.15-.01.36-.02.57-.08.04-.01.08-.03.12-.04.16-.06.32-.15.44-.27.1-.1.16-.2.21-.31.05-.13.07-.25.08-.33.01-.08.01-.13.01-.13s.01-.04 0-.09c-.01-.1-.03-.26-.1-.41-.05-.08-.1-.15-.16-.22-.08-.08-.19-.14-.29-.19-.21-.09-.45-.13-.65-.14-.08-.01-.16-.01-.23-.01H4.84zM19.37 9.62v2.36h1.6c.05 0 .12 0 .21-.01.17-.01.38-.05.59-.12a1.206 1.206 0 0 0 .66-.48c.12-.19.15-.38.16-.49v-.08-.05c0-.05-.01-.14-.03-.23-.03-.11-.09-.24-.18-.36-.02-.02-.04-.05-.06-.07a.526.526 0 0 0-.14-.11 1 1 0 0 0-.28-.17c-.13-.05-.29-.1-.46-.13-.09-.02-.18-.03-.27-.04-.05-.01-.11-.01-.17-.02h-1.63z"/><path class="st0" d="M17.85 4.68v8.64h3.22s1.57.04 2.43-.83c.71-.71.66-1.54.66-1.54s.05-.86-.6-1.52c-.56-.56-1.27-.71-1.27-.71s.32-.15.57-.4c.12-.12.53-.49.53-1.4 0-.92-.6-1.45-.6-1.45s-.65-.79-2.15-.79h-2.79zM14.54 3h12.61v12H14.54V3zM37.01 4.67l-.17-.03-.07-.01c-.09-.02-.19-.03-.29-.04-.07 0-.13-.01-.2-.01-.12-.01-.24-.01-.35-.01h-.13c-.09 0-.19.01-.28.01-.05 0-.1 0-.15.01l-.22.03-.06.01-.07.01-.08.01c-.04 0-.07.01-.11.02l-.15.03c-.3.07-.58.15-.83.25-.13.05-.26.11-.38.17-.1.05-.2.1-.29.16-.09.05-.18.1-.26.16-.05.03-.09.07-.14.1-.04.03-.08.06-.12.08-.08.07-.15.13-.23.19-.07.06-.13.12-.2.19-.05.05-.1.11-.16.16l-.15.18c-.05.07-.1.13-.15.2-.04.05-.07.1-.11.16-.02.04-.05.07-.07.11a4.438 4.438 0 0 0-.59 1.7c0 .1-.02.21-.02.33-.01.09-.01.18-.01.27 0 .07 0 .13.01.2 0 .07.01.14.02.2v.05c0 .09.02.17.04.24 0 .03.01.06.02.09.01.06.03.13.05.19.02.08.04.16.07.24.03.1.07.19.1.29.06.15.13.29.2.42.04.08.08.15.13.23.03.06.07.11.11.17l.15.21c.05.07.11.13.16.2.07.08.14.15.2.21l.04.04c.05.06.12.11.18.17l.15.12.15.12c.06.05.13.09.2.14.08.05.15.1.24.14.17.09.35.18.55.27.07.03.15.06.23.09.08.03.16.06.25.08.14.04.3.08.46.11.13.02.26.05.4.06.14.02.28.03.43.04.07.01.15.01.22.01h.1c.27 0 .51-.01.74-.03h.04l.26-.03c.13-.02.26-.04.37-.05.08-.02.15-.03.22-.05.11-.02.21-.05.31-.07l.21-.06c.08-.02.16-.05.23-.08l.07-.02c.03-.01.09-.03.14-.05.07-.03.17-.07.27-.11.06-.03.13-.06.2-.09.06-.03.13-.06.19-.09.03-.01.05-.03.08-.04v-1.63l-.06.03-.11.07c-.11.07-.21.13-.32.19-.12.06-.23.12-.34.18-.2.09-.4.18-.58.24-.35.13-.67.21-.96.26-.03.01-.06.01-.1.02l-.23.03c-.11.01-.22.02-.31.03h-.18c-.11 0-.23 0-.35-.01a4.231 4.231 0 0 1-1.13-.23c-.03-.01-.07-.02-.1-.04l-.06-.03c-.04-.02-.08-.03-.12-.05-.08-.04-.16-.08-.23-.12-.04-.02-.07-.05-.11-.07a.444.444 0 0 1-.11-.08c-.04-.03-.09-.07-.14-.1a.628.628 0 0 1-.12-.11l-.06-.05-.03-.03-.02-.02-.02-.02c-.07-.07-.14-.15-.2-.22a.38.38 0 0 1-.09-.13l-.09-.12c-.02-.04-.05-.07-.07-.11-.03-.06-.06-.12-.09-.17-.02-.05-.04-.1-.07-.14-.04-.09-.06-.17-.09-.25-.02-.06-.03-.12-.05-.18-.04-.17-.06-.33-.08-.46-.01-.05-.01-.1-.01-.14v-.17-.1a2.944 2.944 0 0 1 .08-.61c.01-.06.03-.12.05-.19.02-.06.04-.11.06-.18.02-.04.03-.08.05-.12.02-.05.05-.11.08-.17.02-.04.04-.08.07-.13.05-.09.11-.19.18-.28.03-.03.05-.07.08-.1.03-.04.07-.08.11-.13l.06-.06c.29-.3.63-.52.97-.68.06-.02.11-.04.17-.07.06-.02.11-.04.16-.06l.18-.06c.06-.02.11-.03.17-.04.05-.01.12-.03.17-.04l.18-.03c.06-.01.13-.02.19-.02.12-.01.23-.02.35-.02H36c.08 0 .17 0 .25.01.05 0 .11.01.16.01.1.01.2.02.29.04.08.01.16.03.24.04.12.03.23.05.32.07.06.02.12.03.17.05a2.815 2.815 0 0 1 .34.11l.24.09c.1.04.2.08.29.13.08.04.15.07.23.11.06.03.11.06.16.09.09.04.16.09.22.12l.17.09V5.3l-.27-.11-.27-.1-.18-.06c-.05-.02-.1-.03-.15-.05-.06-.02-.13-.04-.19-.06-.05-.01-.09-.03-.14-.04l-.04-.01c-.05-.01-.1-.03-.14-.04-.06-.01-.12-.03-.18-.05-.04-.01-.08-.02-.11-.03-.06-.02-.12-.03-.19-.04-.07-.02-.14-.03-.21-.04zM29.07 3h12.61v12H29.07V3z"/><path class="st0" d="M19.37 6.03v2.23h.85c.05 0 .11-.01.16-.01.15-.01.36-.03.57-.09.04-.01.08-.02.12-.04.16-.06.32-.15.44-.27.1-.1.16-.2.2-.31.05-.13.07-.25.08-.34.01-.08.01-.13.01-.13v-.09c-.01-.1-.03-.26-.1-.41a.976.976 0 0 0-.16-.21.972.972 0 0 0-.29-.19c-.2-.09-.44-.13-.64-.14-.09-.01-.16-.01-.23-.01-.14.01-1.01.01-1.01.01zM3.31 4.68v8.64h3.22s1.57.04 2.43-.83c.7-.71.66-1.54.66-1.54s.05-.86-.6-1.52c-.56-.56-1.27-.71-1.27-.71s.32-.15.57-.4c.12-.12.53-.49.53-1.4 0-.92-.61-1.45-.61-1.45s-.66-.79-2.16-.79H3.31zM0 3h12.62v12H0V3z"/><g><path class="st3" d="M52.78 4.52H54v8.98h-1.1l-6.01-6.92v6.92h-1.21V4.52h1.04l6.06 6.97V4.52M56.32 4.52h5.09v1.14h-3.8V8.4h3.67v1.15h-3.67v2.79h3.92v1.15h-5.21V4.52M75.13 4.52h1.29l-3.63 9.02h-.29l-2.93-7.3-2.97 7.3h-.28L62.7 4.52H64l2.47 6.19 2.5-6.19h1.21l2.5 6.19 2.45-6.19M79.9 9.74l-.98-.59c-.61-.37-1.05-.74-1.31-1.1-.26-.36-.39-.78-.39-1.25 0-.71.25-1.28.74-1.72.49-.44 1.13-.66 1.91-.66.75 0 1.44.21 2.06.63v1.46c-.65-.62-1.34-.93-2.09-.93-.42 0-.76.1-1.04.29-.27.19-.41.44-.41.75 0 .27.1.52.3.76.2.23.52.48.96.74l.98.58c1.1.65 1.64 1.49 1.64 2.5 0 .72-.24 1.31-.72 1.76-.48.45-1.11.67-1.88.67-.89 0-1.7-.27-2.42-.82v-1.63c.69.88 1.5 1.32 2.41 1.32.4 0 .74-.11 1.01-.34.27-.22.4-.51.4-.84.01-.57-.38-1.09-1.17-1.58"/></g></svg> <span class="off-screen">BBC News </span></a> <div class="amp-o-sidebar__open default-hamburger-button" role="button" on="tap:AMP.setState({sidebarStatus: {currentStatus: sidebarStatus.currentStatus != 'show' ? 'show' : 'hide'}})" tabindex="0"><span class="navigation__section--icon bar-top"></span> <span class="navigation__section--icon bar-middle"></span> <span class="navigation__section--icon bar-bottom"></span> <span class="off-screen">menu</span></div> </div></div>     <div id="service-toolbar" class="service-toolbar__news default-service-toolbar">
+        <ul>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news" data-vars-title="Home" data-vars-position="1" data-vars-destination="https://www.bbc.com/news">
+                        Home
+                        <span class="off-screen"> Home </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/uk" data-vars-title="UK" data-vars-position="2" data-vars-destination="https://www.bbc.com/news/uk">
+                        UK
+                        <span class="off-screen"> UK </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/world" data-vars-title="World" data-vars-position="3" data-vars-destination="https://www.bbc.com/news/world">
+                        World
+                        <span class="off-screen"> World </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/business" data-vars-title="Business" data-vars-position="4" data-vars-destination="https://www.bbc.com/news/business">
+                        Business
+                        <span class="off-screen"> Business </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/politics" data-vars-title="Politics" data-vars-position="5" data-vars-destination="https://www.bbc.com/news/politics">
+                        Politics
+                        <span class="off-screen"> Politics </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/technology" data-vars-title="Tech" data-vars-position="6" data-vars-destination="https://www.bbc.com/news/technology">
+                        Tech
+                        <span class="off-screen"> Tech </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/science_and_environment" data-vars-title="Science" data-vars-position="7" data-vars-destination="https://www.bbc.com/news/science_and_environment">
+                        Science
+                        <span class="off-screen"> Science </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/health" data-vars-title="Health" data-vars-position="8" data-vars-destination="https://www.bbc.com/news/health">
+                        Health
+                        <span class="off-screen"> Health </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/education" data-vars-title="Family & Education" data-vars-position="9" data-vars-destination="https://www.bbc.com/news/education">
+                        Family & Education
+                        <span class="off-screen"> Family & Education </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/entertainment_and_arts" data-vars-title="Entertainment & Arts" data-vars-position="10" data-vars-destination="https://www.bbc.com/news/entertainment_and_arts">
+                        Entertainment & Arts
+                        <span class="off-screen"> Entertainment & Arts </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/stories" data-vars-title="Stories" data-vars-position="11" data-vars-destination="https://www.bbc.com/news/stories">
+                        Stories
+                        <span class="off-screen"> Stories </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/video_and_audio/headlines" data-vars-title="Video & Audio" data-vars-position="12" data-vars-destination="https://www.bbc.com/news/video_and_audio/headlines">
+                        Video & Audio
+                        <span class="off-screen"> Video & Audio </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/in_pictures" data-vars-title="In Pictures" data-vars-position="13" data-vars-destination="https://www.bbc.com/news/in_pictures">
+                        In Pictures
+                        <span class="off-screen"> In Pictures </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/newsbeat" data-vars-title="Newsbeat" data-vars-position="14" data-vars-destination="https://www.bbc.com/news/newsbeat">
+                        Newsbeat
+                        <span class="off-screen"> Newsbeat </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/realitycheck" data-vars-title="Reality Check" data-vars-position="15" data-vars-destination="https://www.bbc.com/realitycheck">
+                        Reality Check
+                        <span class="off-screen"> Reality Check </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/special_reports" data-vars-title="Special Reports" data-vars-position="16" data-vars-destination="https://www.bbc.com/news/special_reports">
+                        Special Reports
+                        <span class="off-screen"> Special Reports </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/explainers" data-vars-title="Explainers" data-vars-position="17" data-vars-destination="https://www.bbc.com/news/explainers">
+                        Explainers
+                        <span class="off-screen"> Explainers </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/the_reporters" data-vars-title="The Reporters" data-vars-position="18" data-vars-destination="https://www.bbc.com/news/the_reporters">
+                        The Reporters
+                        <span class="off-screen"> The Reporters </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/have_your_say" data-vars-title="Have Your Say" data-vars-position="19" data-vars-destination="https://www.bbc.com/news/have_your_say">
+                        Have Your Say
+                        <span class="off-screen"> Have Your Say </span>
+                </a>
+                </li>
+                <li>
+                <a class="amp-o-sidebar-link" href="/news/disability" data-vars-title="Disability" data-vars-position="20" data-vars-destination="https://www.bbc.com/news/disability">
+                        Disability
+                        <span class="off-screen"> Disability </span>
+                </a>
+                </li>
+                <li class="amp-o-sidebar-more amp-o-sidebar-more__news">
+                    <button class="amp-o-sidebar-secondary__open" on="tap:service-toolbar-secondary.toggleVisibility">
+                        More
+                        <svg height="7px" version="1.1" viewBox="0 0 10 7" width="10px" xmlns="http://www.w3.org/2000/svg">
+                            <g fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+                                <g id="Core" transform="translate(-469.000000, -9.000000)">
+                                    <g id="arrow-drop-down" transform="translate(469.000000, 9.500000)">
+                                        <path d="M0,0 L5,5 L10,0 L0,0 Z" id="Shape"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </li>
+        </ul>
+    </div>
+        <div id="service-toolbar-secondary" class="service-toolbar-secondary__news default-service-toolbar-secondary" hidden>
+            <ul>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news" data-vars-title="Home" data-vars-position="1" data-vars-destination="https://www.bbc.com/news">
+                            Home
+                            <span class="off-screen"> Home </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/uk" data-vars-title="UK" data-vars-position="2" data-vars-destination="https://www.bbc.com/news/uk">
+                            UK
+                            <span class="off-screen"> UK </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/world" data-vars-title="World" data-vars-position="3" data-vars-destination="https://www.bbc.com/news/world">
+                            World
+                            <span class="off-screen"> World </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/business" data-vars-title="Business" data-vars-position="4" data-vars-destination="https://www.bbc.com/news/business">
+                            Business
+                            <span class="off-screen"> Business </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/politics" data-vars-title="Politics" data-vars-position="5" data-vars-destination="https://www.bbc.com/news/politics">
+                            Politics
+                            <span class="off-screen"> Politics </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/technology" data-vars-title="Tech" data-vars-position="6" data-vars-destination="https://www.bbc.com/news/technology">
+                            Tech
+                            <span class="off-screen"> Tech </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/science_and_environment" data-vars-title="Science" data-vars-position="7" data-vars-destination="https://www.bbc.com/news/science_and_environment">
+                            Science
+                            <span class="off-screen"> Science </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/health" data-vars-title="Health" data-vars-position="8" data-vars-destination="https://www.bbc.com/news/health">
+                            Health
+                            <span class="off-screen"> Health </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/education" data-vars-title="Family & Education" data-vars-position="9" data-vars-destination="https://www.bbc.com/news/education">
+                            Family & Education
+                            <span class="off-screen"> Family & Education </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/entertainment_and_arts" data-vars-title="Entertainment & Arts" data-vars-position="10" data-vars-destination="https://www.bbc.com/news/entertainment_and_arts">
+                            Entertainment & Arts
+                            <span class="off-screen"> Entertainment & Arts </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/stories" data-vars-title="Stories" data-vars-position="11" data-vars-destination="https://www.bbc.com/news/stories">
+                            Stories
+                            <span class="off-screen"> Stories </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/video_and_audio/headlines" data-vars-title="Video & Audio" data-vars-position="12" data-vars-destination="https://www.bbc.com/news/video_and_audio/headlines">
+                            Video & Audio
+                            <span class="off-screen"> Video & Audio </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/in_pictures" data-vars-title="In Pictures" data-vars-position="13" data-vars-destination="https://www.bbc.com/news/in_pictures">
+                            In Pictures
+                            <span class="off-screen"> In Pictures </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/newsbeat" data-vars-title="Newsbeat" data-vars-position="14" data-vars-destination="https://www.bbc.com/news/newsbeat">
+                            Newsbeat
+                            <span class="off-screen"> Newsbeat </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/realitycheck" data-vars-title="Reality Check" data-vars-position="15" data-vars-destination="https://www.bbc.com/realitycheck">
+                            Reality Check
+                            <span class="off-screen"> Reality Check </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/special_reports" data-vars-title="Special Reports" data-vars-position="16" data-vars-destination="https://www.bbc.com/news/special_reports">
+                            Special Reports
+                            <span class="off-screen"> Special Reports </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/explainers" data-vars-title="Explainers" data-vars-position="17" data-vars-destination="https://www.bbc.com/news/explainers">
+                            Explainers
+                            <span class="off-screen"> Explainers </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/the_reporters" data-vars-title="The Reporters" data-vars-position="18" data-vars-destination="https://www.bbc.com/news/the_reporters">
+                            The Reporters
+                            <span class="off-screen"> The Reporters </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/have_your_say" data-vars-title="Have Your Say" data-vars-position="19" data-vars-destination="https://www.bbc.com/news/have_your_say">
+                            Have Your Say
+                            <span class="off-screen"> Have Your Say </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="amp-o-sidebar-link" href="/news/disability" data-vars-title="Disability" data-vars-position="20" data-vars-destination="https://www.bbc.com/news/disability">
+                            Disability
+                            <span class="off-screen"> Disability </span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+</div></div><div class="gel-wrap"><div class="amp-o-main-content" role="main"><div class="gel-layout"><div class="gel-layout__item gel-1/1"><h1 class="gel-trafalgar-bold amp-u-mt++">JP Morgan creates first US bank-backed crypto-currency</h1><div class="amp-o-byline">  <em class="amp-o-byline__name">By Mary-Ann Russon </em>  <em class="amp-o-byline__title">Business reporter, BBC News </em></div><ul class="amp-o-mini-info-list"><li class="amp-o-mini-info-list__item"><span class="amp-o-mini-info-list__timestamp"><svg class="amp-o-mini-info-list__timestamp-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 13"><path d="M6.5 0C2.9 0 0 2.9 0 6.5S2.9 13 6.5 13 13 10.1 13 6.5 10.1 0 6.5 0zm0 11.5c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5z"/><path d="M7 3.5H6v3.2l3.2 1.9.4-.6L7 6.1z"/></svg> <time data-time="2019-02-14T15:58:19+00:00">14 February 2019</time></span></li> <li class="amp-o-mini-info-list__item"><a href="/news/business" class="amp-o-section-link brand--news">Business</a></li> </ul><div class="amp-o-social-bar">    <div class="amp-o-share-tools">
+        <amp-social-share type="email"
+            data-param-body="https://www.bbc.com/news/business-47240760"
+            data-param-subject="JP Morgan creates first US bank-backed crypto-currency"
+            width="44"
+            height="44">
+            <span class="off-screen">Share this with Email</span>
+        </amp-social-share>
+        <amp-social-share type="facebook"
+            data-param-app_id="1609039196070050"
+            data-param-href="https://www.bbc.com/news/business-47240760"
+            width="44"
+            height="44">
+            <span class="off-screen">Share this with Facebook</span>
+        </amp-social-share>
+        <amp-social-share type="twitter"
+            data-param-text="JP Morgan creates first US bank-backed crypto-currency"
+            data-param-url="https://www.bbc.com/news/business-47240760"
+            width="44"
+            height="44">
+            <span class="off-screen">Share this with Twitter</span>
+        </amp-social-share>
+        <amp-social-share type="whatsapp"
+            data-param-text="https://www.bbc.com/news/business-47240760"
+            width="44"
+            height="44">
+            <span class="off-screen">Share this with Whatsapp</span>
+        </amp-social-share>
+    </div>
+ </div><hr class="amp-o-hr"></div></div><div class="gel-layout main-content"><div class="gel-layout__item gel-1/1">     <figure class="article-image">
+        <div class="article-image__image-copyright-container">
+            <amp-img class="article-image__image" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg" srcset="
+                    https://ichef.bbci.co.uk/news/270/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg 270w,
+                    https://ichef.bbci.co.uk/news/375/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg 375w,
+                    https://ichef.bbci.co.uk/news/485/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg 485w,
+                    https://ichef.bbci.co.uk/news/590/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg 590w,
+                    https://ichef.bbci.co.uk/news/695/cpsprodpb/13302/production/_105649587_jamie-dimon.jpg 695w" height="549" width="976" layout="responsive" alt="Jamie Dimon, Chairman and CEO of JPMorgan Chase &amp; Co">
+                <span class="off-screen">Image copyright</span>
+                <span class="article-image__copyright">
+                    Getty Images
+                </span>
+        </amp-img>
+</div>
+        <figcaption class="media-caption  article-image--has-caption">
+            <span class="off-screen">Image caption</span>
+            <span class="media-caption__text">
+                JP Morgan chief Jamie Dimon has publicly criticised Bitcoin in the past
+            </span>
+        </figcaption>
+    </figure>
+<p class="amp-o-paragraph--bold">US investment bank JP Morgan has created a crypto-currency to help settle payments between clients in its wholesale payments business.
+</p><p class="amp-o-paragraph">JPM Coin is the first digital currency to be backed by a major US bank. 
+</p><p class="amp-o-paragraph">The crypto-currency, which runs on blockchain technology, has been used successfully to move money between the bank and a client account.
+</p><p class="amp-o-paragraph">JP Morgan says it sees potential in using digital coins to reduce risk and enable instant transfers.
+</p><p class="amp-o-paragraph">Although JP Morgan's chief executive Jamie Dimon has publicly criticised Bitcoin - the first crypto-currency in existence - on several occasions, the bank says it has always "believed in the potential of blockchain technology".
+</p><p class="amp-o-paragraph">"We are supportive of crypto-currencies as long as they are properly controlled and regulated," Umar Farooq, JP Morgan's head of Digital Treasury Services and Blockchain, wrote in an 
+        <a class="amp-o-link" href="https://www.jpmorgan.com/global/news/digital-coin-payments">online Q&amp;A page</a>
+.
+</p><h2 class="amp-o-crosshead">How do crypto-currencies work?
+</h2><p class="amp-o-paragraph">Virtual currencies can be used to pay for things in the real world, such as a hotel room, food or even a house. 
+</p><p class="amp-o-paragraph">Digital tokens are held in online wallets, and can be sent anonymously between users. 
+</p><p class="amp-o-paragraph">For this reason, crypto-currencies are attractive to people who want to make illegal purchases on the Dark Web - a part of the internet that is not indexed by search engines. 
+</p>    <ul>    
+<li>        <a class="amp-o-link" href="https://www.bbc.co.uk/news/business-45919700">Is blockchain living up to the hype?</a>
+</li>
+    
+<li>        <a class="amp-o-link" href="https://www.bbc.co.uk/news/business-42150512">What is Bitcoin?</a>
+</li>
+    
+<li>        <a class="amp-o-link" href="https://www.bbc.co.uk/news/business-45245149">Bitcoin buster? The search for a more stable cryptocurrency</a>
+</li>
+  
+</ul>
+<h2 class="amp-o-crosshead">What is blockchain? 
+</h2><p class="amp-o-paragraph">A blockchain is a ledger of blocks of information, such as transactions or agreements, that are stored across a network of computers.
+</p><p class="amp-o-paragraph">This information is stored chronologically, can be viewed by a community of users, and is not usually managed by a central authority such as a bank or a government.
+</p><p class="amp-o-paragraph">The concept was designed to ensure security and anonymity for users, by preventing tampering or hijacking of the network.
+</p>    <figure class="article-image">
+        <div class="article-image__image-copyright-container">
+            <amp-img class="article-image__image" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg" srcset="
+                    https://ichef.bbci.co.uk/news/270/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg 270w,
+                    https://ichef.bbci.co.uk/news/375/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg 375w,
+                    https://ichef.bbci.co.uk/news/485/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg 485w,
+                    https://ichef.bbci.co.uk/news/590/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg 590w,
+                    https://ichef.bbci.co.uk/news/695/cpsprodpb/257A/production/_105649590_crypto-mining1.jpg 695w" height="549" width="976" layout="responsive" alt="A crypto-currency mining rig">
+                <span class="off-screen">Image copyright</span>
+                <span class="article-image__copyright">
+                    Getty Images
+                </span>
+        </amp-img>
+</div>
+        <figcaption class="media-caption  article-image--has-caption">
+            <span class="off-screen">Image caption</span>
+            <span class="media-caption__text">
+                Crypto-currencies are mined by powerful computers that solve complex maths problems
+            </span>
+        </figcaption>
+    </figure>
+<p class="amp-o-paragraph">Once published, the information in a certain block can't be changed. If people try to tamper with that information, it becomes obvious.
+</p><p class="amp-o-paragraph">This is a powerful concept. Ten years ago, blockchain was combined with other technologies to create cryptocurrencies, and the first blockchain-based cryptocurrency was Bitcoin.
+</p><h2 class="amp-o-crosshead">Can anyone use JPM Coin?
+</h2><p class="amp-o-paragraph">No. JPM Coin is not for retail customers - it will be used internally by JP Morgan to enable the instantaneous transfer of payments between institutional accounts.
+</p><p class="amp-o-paragraph">When a JP Morgan client deposits money into an account, the money is converted into an equivalent number of JPM Coins, so $1m equals one million JPM coins.
+</p><p class="amp-o-paragraph">The client can then use the coins to perform transactions over the bank's blockchain network Quorum with other clients, for example money movement or payments in securities transactions.
+</p><p class="amp-o-paragraph">Once the transactions have been performed, holders of JPM Coins can redeem them for US dollars from the bank.
+</p><h2 class="amp-o-crosshead">Does JP Morgan really need this?
+</h2><p class="amp-o-paragraph">Not everyone is convinced that JP Morgan needed to create its own digital currency.
+</p><p class="amp-o-paragraph">A blockchain is designed to be decentralised, so no one party has control over transactions being sent over the network.
+</p><p class="amp-o-paragraph">This is the opposite of the JPM Coin concept.
+</p><p class="amp-o-paragraph">"It doesn't even need a blockchain at all because JP Morgan runs it. They could do it on a website and database they run," David Gerard, author of Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum &amp; Smart Contracts, told the BBC.
+</p><p class="amp-o-paragraph">"It isn't like Bitcoin that aren't under anybody's control - it's a centrally controlled thing that sounds vaguely like crypto-currency."
+</p><p class="amp-o-paragraph">JP Morgan says that it is trialling crypto-currency and blockchain in order to speed up payment transfers, as well as reducing clients' counterparty and settlement risk, and decreasing capital requirements.
+</p><p class="amp-o-paragraph">However, Mr Gerard is sceptical and does not believe that the bank needs the technology to speed up transactions. 
+</p><h2 class="amp-o-crosshead">What about regulators?
+</h2><p class="amp-o-paragraph">JP Morgan's Umar Farooq told the BBC that JP Morgan is using blockchain because of the improvements in speeds and security that the technology offers.
+</p><p class="amp-o-paragraph">Because of the privacy that blockchain enables, the bank envisions having a network whereby clients, such as large banks, can move coins between themselves on the network, and JP Morgan does not see these transactions.
+</p>    <figure class="article-image">
+        <div class="article-image__image-copyright-container">
+            <amp-img class="article-image__image" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg" srcset="
+                    https://ichef.bbci.co.uk/news/270/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg 270w,
+                    https://ichef.bbci.co.uk/news/375/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg 375w,
+                    https://ichef.bbci.co.uk/news/485/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg 485w,
+                    https://ichef.bbci.co.uk/news/590/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg 590w,
+                    https://ichef.bbci.co.uk/news/695/cpsprodpb/AAC3/production/_105651734_secure-payments.jpg 695w" height="549" width="976" layout="responsive" alt="A laptop screen showing secure payments">
+                <span class="off-screen">Image copyright</span>
+                <span class="article-image__copyright">
+                    Getty Images
+                </span>
+        </amp-img>
+</div>
+        <figcaption class="media-caption  article-image--has-caption">
+            <span class="off-screen">Image caption</span>
+            <span class="media-caption__text">
+                JP Morgan says it is using blockchain to improve transfer speeds and security
+            </span>
+        </figcaption>
+    </figure>
+<p class="amp-o-paragraph">However, the bank stressed that all information required by regulators will continue to be tracked.
+</p><p class="amp-o-paragraph">Clients will only be able to use the blockchain network if they have been approved by regulators and have passed money laundering checks. 
+</p><p class="amp-o-paragraph">"There is a possibility in the future of a blockchain that is private, except from the regulator," said Mr Farooq. 
+</p><p class="amp-o-paragraph">"There are various ways to make the regulatory regimes across the world stronger over time."
+</p>   <div class="related-articles"><h2 class="related-articles__title">More on this story</h2><div class="related-articles__article"><a href="/news/uk-england-oxfordshire-46980658"><div class="gel-layout"><div class="gel-layout__item gel-4/10"><amp-img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg" srcset="
+                                                                https://ichef.bbci.co.uk/news/270/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg 270w,
+                                                                https://ichef.bbci.co.uk/news/375/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg 375w,
+                                                                https://ichef.bbci.co.uk/news/485/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg 485w,
+                                                                https://ichef.bbci.co.uk/news/590/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg 590w,
+                                                                https://ichef.bbci.co.uk/news/695/cpsprodpb/9075/production/_103318963_6edd0700-d570-4bb1-b5ff-e21de9adbecb.jpg 695w" height="549" width="976" layout="responsive"> </amp-img></amp-img></div><div class="gel-layout__item gel-6/10"><h3 class="related-articles__article-title">Oxford man arrested over £8.7m cryptocurrency theft</h3><p class="related-articles__article-timestamp">23 January 2019</p></div></div></a></div><div class="related-articles__article"><a href="/news/business-42809691"><div class="gel-layout"><div class="gel-layout__item gel-4/10">  <amp-img src="https://news.files.bbci.co.uk/amp/bbc-globe-640.png" height="360" width="640" layout="responsive"> </amp-img></amp-img></div><div class="gel-layout__item gel-6/10"><h3 class="related-articles__article-title">JP Morgan boss in new warning on Brexit job losses</h3><p class="related-articles__article-timestamp">25 January 2018</p></div></div></a></div></div> <hr class="amp-o-hr"></div></div><div class="gel-layout amp-u-mt++ footer" role="contentinfo"><div class="gel-layout__item gel-1/1 gel-brevier color__dark-grey"><p><span class="gel-brevier-bold">Copyright © 2019 BBC.</span> The BBC is not responsible for the content of external sites.</p></div></div></div></div>  <amp-analytics type="comscore" data-block-on-consent><script type="application/json">{
+                "vars": {
+                "c1": "2",
+                "c2": "17986528"
+                },
+                "extraUrlParams": {
+                "comscorekw": "amp"
+                }
+            }</script></amp-analytics> <amp-pixel src="https://sa.bbc.co.uk/bbc/bbc/s?name=news.business.story.47240760.page&cps_asset_id=47240760&page_type=Story&section=business%3A%3Anews.business.story.47240760.page&first_pub=2019-02-14T14%3A12%3A08%2B00%3A00&last_editorial_update=2019-02-14T15%3A58%3A19%2B00%3A00&language=en-gb&title=JP+Morgan+creates+first+US+bank-backed+crypto-currency+-+BBC+News&bbc_site=news&ml_name=amp-testpixel&app_type=amp&ml_version=none&prod_name=news&app_name=news&ns_ti=JP+Morgan+creates+first+US+bank-backed+crypto-currency+-+BBC+News&ns_jspageurl=SOURCE_URL&embed_count=0&ns_referrer=DOCUMENT_REFERRER"></amp-pixel>    <amp-analytics config="https://news.files.bbci.co.uk/ws/ati/ampAnalyticsConfig-news-domestic-AMP_STATE(ampGeo.domestic).json"><script type="application/json">{"triggers":{"trackPageview":{"on":"visible","request":"pageview"}},"vars":{"producer":"64","section":"business::news.business.story.47240760.page","contentId":"urn:bbc:cps:5c148571-6ab2-f148-8898-7c43c71895d0","contentType":"article","language":"en-gb","pageTitle":"JP_Morgan_creates_first_US_bank-backed_crypto-currency_-_BBC_News","publicationDate":"2019-02-14T14:12:08+00:00","updateDate":"2019-02-14T15:58:19+00:00","categoryName":"News"}}</script></amp-analytics>     <amp-analytics><script type="application/json">{
+  "requests": {
+    "clickEvent": "https://sa.bbc.co.uk/bbc/bbc/s?"
+  },
+  "triggers": {
+    "ampSideBarLinkClickEvent": {
+      "on": "click",
+      "request": "clickEvent",
+      "extraUrlParams": {
+        "name": "news.business.story.47240760.page",
+        "cps_asset_id": "47240760",
+        "page_type": "Story",
+        "section": "business::news.business.story.47240760.page",
+        "first_pub": "2019-02-14T14:12:08+00:00",
+        "last_editorial_update": "2019-02-14T15:58:19+00:00",
+        "language": "en-gb",
+        "title": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "bbc_site": "news",
+        "ml_name": "amp-testpixel",
+        "app_type": "amp",
+        "ml_version": "none",
+        "prod_name": "news",
+        "app_name": "news",
+        "ns_ti": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "ns_jspageurl": "SOURCE_URL",
+        "embed_list": "",
+        "embed_count": 0,
+        "action_name": "amp_nav",
+        "action_type": "click",
+        "ns_type": "hidden",
+        "link_location": "${link_location}",
+        "ns_referrer": "DOCUMENT_REFERRER"
+      },
+      "selector": ".amp-o-sidebar-link",
+      "vars": {
+        "link_location": "amp_link_nav-${position}"
+      }
+    },
+    "ampHamburgerClickEvent": {
+      "on": "click",
+      "request": "clickEvent",
+      "extraUrlParams": {
+        "name": "news.business.story.47240760.page",
+        "cps_asset_id": "47240760",
+        "page_type": "Story",
+        "section": "business::news.business.story.47240760.page",
+        "first_pub": "2019-02-14T14:12:08+00:00",
+        "last_editorial_update": "2019-02-14T15:58:19+00:00",
+        "language": "en-gb",
+        "title": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "bbc_site": "news",
+        "ml_name": "amp-testpixel",
+        "app_type": "amp",
+        "ml_version": "none",
+        "prod_name": "news",
+        "app_name": "news",
+        "ns_ti": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "ns_jspageurl": "SOURCE_URL",
+        "embed_list": "",
+        "embed_count": 0,
+        "action_name": "amp_nav",
+        "action_type": "toggle",
+        "ns_type": "hidden",
+        "ns_referrer": "DOCUMENT_REFERRER"
+      },
+      "selector": ".amp-o-sidebar__open"
+    },
+    "ampXFullNavDropdownToggleEvent": {
+      "on": "click",
+      "request": "clickEvent",
+      "extraUrlParams": {
+        "name": "news.business.story.47240760.page",
+        "cps_asset_id": "47240760",
+        "page_type": "Story",
+        "section": "business::news.business.story.47240760.page",
+        "first_pub": "2019-02-14T14:12:08+00:00",
+        "last_editorial_update": "2019-02-14T15:58:19+00:00",
+        "language": "en-gb",
+        "title": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "bbc_site": "news",
+        "ml_name": "amp-testpixel",
+        "app_type": "amp",
+        "ml_version": "none",
+        "prod_name": "news",
+        "app_name": "news",
+        "ns_ti": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "ns_jspageurl": "SOURCE_URL",
+        "embed_list": "",
+        "embed_count": 0,
+        "action_name": "amp_nav",
+        "action_type": "toggle",
+        "ns_type": "hidden",
+        "ns_referrer": "DOCUMENT_REFERRER"
+      },
+      "selector": ".amp-o-sidebar-more",
+      "vars": {
+        "link_location": "amp_link_nav-${position}"
+      }
+    },
+    "ampXMostPopularLinkClickEvent": {
+      "on": "click",
+      "request": "clickEvent",
+      "extraUrlParams": {
+        "name": "news.business.story.47240760.page",
+        "cps_asset_id": "47240760",
+        "page_type": "Story",
+        "section": "business::news.business.story.47240760.page",
+        "first_pub": "2019-02-14T14:12:08+00:00",
+        "last_editorial_update": "2019-02-14T15:58:19+00:00",
+        "language": "en-gb",
+        "title": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "bbc_site": "news",
+        "ml_name": "amp-testpixel",
+        "app_type": "amp",
+        "ml_version": "none",
+        "prod_name": "news",
+        "app_name": "news",
+        "ns_ti": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "ns_jspageurl": "SOURCE_URL",
+        "embed_list": "",
+        "embed_count": 0,
+        "action_name": "amp_nav",
+        "action_type": "click",
+        "ns_type": "hidden",
+        "ns_referrer": "DOCUMENT_REFERRER"
+      },
+      "selector": ".nav-x-most-popular"
+    },
+    "ampXFrontPageLinkClickEvent": {
+      "on": "click",
+      "request": "clickEvent",
+      "extraUrlParams": {
+        "name": "news.business.story.47240760.page",
+        "cps_asset_id": "47240760",
+        "page_type": "Story",
+        "section": "business::news.business.story.47240760.page",
+        "first_pub": "2019-02-14T14:12:08+00:00",
+        "last_editorial_update": "2019-02-14T15:58:19+00:00",
+        "language": "en-gb",
+        "title": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "bbc_site": "news",
+        "ml_name": "amp-testpixel",
+        "app_type": "amp",
+        "ml_version": "none",
+        "prod_name": "news",
+        "app_name": "news",
+        "ns_ti": "JP Morgan creates first US bank-backed crypto-currency - BBC News",
+        "ns_jspageurl": "SOURCE_URL",
+        "embed_list": "",
+        "embed_count": 0,
+        "action_name": "amp_nav",
+        "action_type": "click",
+        "ns_type": "hidden",
+        "ns_referrer": "DOCUMENT_REFERRER"
+      },
+      "selector": ".nav-x-front-page"
+    }
+  },
+  "transport": {
+    "beacon": false,
+    "xhrpost": false,
+    "image": true
+  }
+}</script></amp-analytics>  <amp-analytics type="chartbeat"><script type="application/json">{
+            "vars": {
+                "uid": "50924",
+                "domain": "bbc.co.uk",
+                "sections": "Business",
+                "canonicalPath": "bbc.co.uk/news/business-47240760"
+            }
+        }</script></amp-analytics></div></body></html>

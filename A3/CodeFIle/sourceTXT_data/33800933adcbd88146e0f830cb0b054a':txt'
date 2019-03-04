@@ -1,0 +1,43 @@
+Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal
+February 16, 2019
+By Gary McFarlane
+Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relatively little to show for it.
+That, at any rate, is the contention of Ryan Radloff, the chief executive and co-founder of CoinShares.
+And there is one technology in particular that is witnessing accelerated adoption, achieved not by inventing a “better” blockchain but simply by building on top of what already exists: it’s the Lightning Network.
+Nodes matter and bitcoin is still on top by a mile
+As of 10 February, the node counts of leading blockchains had bitcoin in first place with 10,336, Ethereum in second place on 7,574 and coming up fast, Lightning is in third place with a tally of 6,088.
+Some way behind, in fourth, fifth and sixth place are Litecoin, Bitcoin Cash and Ripple on 1,869, 1,589 and 1,047, respectively.
+At the time of writing the Lightning node count has risen to 6,293, seeing a 14.6% increase in the past 30 days, according to Lightning data site  1ML . Network capacity has jumped 30% in that same period to $2,506,102 (691.01 BTC) and the number of channels stands at 26,990.
+Going vertical with Bitcoin as new dapps launch but inactivity grows
+OK, we can have an argument about bitcoin’s listening (full nodes) and non-listening nodes (SPV) that don’t have their ports open and similar issues to take account of on the other networks, but you get the idea. Bitcoin is by far the most decentralised network, although there is the consideration of the “political” control of those nodes, given the pockets of mining control concentration that ASICs brought to the world. Perhaps we should say bitcoin is the densest (and most secure) network.
+Radloff argues that for the past three years the industry has been fixated on horizontal development by creating new “base layers” with a “’crypto Keynesian’ type spending model – raising a ton of capital & spending it on projects to promote network growth, hoping the spending would stimulate coin velocity & user growth… Now data is showing that isn’t working.”
+Although not mentioned by Radloff, it might be noted here that a recent research on Ethereum by  LongHash  found that 10% of the dapps “running” on its blockchain were inactive.
+Other data at  State of the Dapps  report in January revealed that 17% of all dapps were inactive, despite the new apps chart still trending higher.
+Radloff compares EOS and Tron to the bitcoin network in somewhat disparaging terms, bemoaning the fact that they “still can’t achieve the same network size or node count success as bitcoin or even more embarrassing, bitcoins [sic] second layer – lightning network”.
+He maintains that the approach of EOS and Tron is akin to governments implementing Keynesian-inspired public spending to manage aggregate demand in an economy with the aim of stimulating economic growth.
+The development of the Lightning Network, by contrast, according to Radloff, has proceeded along the lines of “minimalist ‘boot strap’ funding”. And in so doing it is proving through example  that there’s a different way ahead that isn’t just cheaper but arguably  more successful.
+However, critics of Lightning say its system of pre-funded channels that have to be opened between transacting parties will ultimately make it difficult to grow the network and ultimately an  unsuitable solution for payments at scale.
+Does Cash and pizza prove the point?
+Which brings us to a couple of news items on the Lightning front that perhaps go some way towards illustrating Radloff’s point.
+First, Jack Dorsey, the chief executive of both Twitter and Square, who said “it’s not an ‘if’, it’s a ‘when’” for Lightning Network integration in the Cash app, as reported earier this week by  EWN .
+Dorsey is what might be considered a bitcoin maximalist in altcoin circles, given that he has rebuffed all pleas to support top altcoins in Cash.
+In December last year Cash was the most downloaded app in the finance section of the Google Play app store. And on 8 December it was the No.1 most downloaded app in the Apple app store. No wonder people are jumping up and down about Dorsey bringing Lightning to the app.
+Now consider the launch of Lightning Pizza by the folks behind the crypto payment app Fold.
+As the name suggests, the new service enables consumers to buy pizza from Domino’s Pizza with bitcoin. A Cheese Pizza, a Pepperoni Pizza and a Classic Garden Salad purchased from  from the New York store on 181 Church Street, costs 523101 satoshis ($18.58). LN.Pizza users get a 5% reduction.
+Altcoin winter
+The reader should be aware that Radloff’s comments came a few days before news emerged that CoinShares’ XBT Provider subsidiary was shelving plans to launch a crypto basket tracker fund.
+The group already has two successful products in the crypto space – the Bitcoin and Ethereum exchanged traded note (ETN) trackers.
+An ETN is constructed as a debt security and provides the owner with exposure to the underlying asset. Although similar in appearance, ETNs are not exchanged traded funds, despite trading on a stock market. The confusion on that score led to the XBT Provider products being suspended in the US by the Securities and Exchange Commission. Bitcoin Tracker One and Ethereum Tracker One are both listed on the Swedish stock exchange.
+In a  Bloomberg  report on 13 February Laurent Kssis, the chief executive of XBT Provider, explained the reasoning behind the cancelling of the crypto basket fund as down to the company having an insufficient understanding of the situation with hard forks affecting blockchains.
+“It’s important to ask how the community is responding to the split and who’s going to support one asset versus the other. If we get it wrong, these assets will drop and if they’re part of the basket we can’t go back because it’s in the final term-sheet,” said Kssis.
+Given the mess surrounding the Bitcoin Cash hard fork that saw the creation of Bitcoin SV, which is still the subject of much controversy as seen in  Jimmy Song’s  recent accusation that it is a “scam”, the doubts about a fund tracking a basket of cryptoassets at this point could be sound, although that may not be the whole story.
+With a number of projects in danger of running out of funds as the crypto winter drags on, XBT Provider may be cooling on altcoins, with the exception of Ethereum, hence Radloff’s love of all things bitcoin.
+Lightning ‘Pass The Torch’ game lights the way
+On a seemingly more frivolous note is the progress of the Lightning Pass The Torch game on Twitter, where crypto luminaries ‘pass the torch’ by receiving a Lightning transaction and then adding 10,000 satoshi and passing on the torch, relay like, to someone else in the crypto community.
+It was recently in the hands of Changpeng Zhao, the chief executive of Binance, who in turn has past it to Justin Sun of Tron who has now entrusted the imaginary flame to the safe-keeping of Erik Voorhees of ShapeShift. Attempts to get Elon Musk onboard have so far failed. Dorsey and Elizabeth Stark have previously been torch bearers.
+If nothing else, the torch game is raising the profile of the Lightning Network on crypto twitter if not the rest of the internet.
+Lightning has seen a number development teams building rival implementations, with Elizabeth Stark’s Lightning Labs arguably leading the way. Dorsey is an investor in the company.
+Back with Radloff, how does he see Lightning and other second-layer efforts playing out over the next few years? Vertical expansion of course.
+ 
+To provide a bit of context on how Radloff’s thoughts have been evolving, back in December 2017 he saw a marketplace of competing coins as a positive “Darwinian” struggle.
+Maybe that struggle has played out and the “Bitcoin 2.0” he speaks of in the 2017  CNBC interview  turns out to be Lightning and other second-layer tech yet to come, not Ethereum, EOS, Cardano etc…

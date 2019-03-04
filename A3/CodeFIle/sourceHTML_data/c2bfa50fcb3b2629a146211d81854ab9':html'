@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="Y0l9lnFloOb3PGrMjNFqTIxxaMBOj5rw4wzza1i8">
+
+    <title>ShipsCoin.com - Play Battleships and earn Bitcoin!</title>
+
+    <meta property="fb:app_id" content="350787349038706" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://shipscoin.com/">
+    <meta property="og:site_name" content="ShipsCoin.com"/>
+    <meta property="og:title" content="ShipsCoin.com - Play Battleships and earn Bitcoin!">
+    <meta property="og:description"
+          content="Hide the ship on board and play with other users. The one who hits the ship earns Bitcoin! ShipsCoin crypto game is a combination of know well classic Battleships game with cryptocurrencies. Join now and win BTC rewards.">
+    <meta property="og:image" content="https://shipscoin.com/img/og.jpg">
+
+    <meta name="keywords"
+          content="battleships, shipscoin, bitcoin, game, ship, online game, battle, ships, ethereum, btc, eth, cryptocurrencies, cryptocapital, blockchain, coins, token, cryptocurrency, bitcoins, earn bitcoin, classic game, board game, play game">
+
+    <meta name="description"
+          content="Hide the ship on board and play with other users. The one who hits the ship earns Bitcoin! ShipsCoin crypto game is a combination of know well classic Battleships game with cryptocurrencies. Join now and win BTC rewards.">
+
+    <meta name="revisit-after" content="1 days">
+
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+    <!-- Styles -->
+    <!-- Font Awesome -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/v4-shims.css">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.css"/>
+
+
+
+    <link href="https://shipscoin.com/css/style.css?v=2" rel="stylesheet">
+
+    <link rel="shortcut icon" type="image/png" href="https://shipscoin.com/favicon.ico"/>
+    <link rel="icon" type="image/png" href="https://shipscoin.com/favicon.ico"/>
+    <meta name="csrf-token" content="Y0l9lnFloOb3PGrMjNFqTIxxaMBOj5rw4wzza1i8">
+    <style>
+        #chat-widget-container {
+            z-index: 9999999999999999999 !important;
+        }
+    </style>
+
+</head>
+<body class="">
+<div class="preloader">
+    <div class="loader">
+        <div class="loader__figure"></div>
+        <p class="loader__label">Shipscoin.com...</p>
+    </div>
+</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 pt-4 mt-4 mt-lg-0 col-9">
+                <a href="https://shipscoin.com"><img src="https://shipscoin.com/img/logo.png" class="img-fluid" style="" alt="Shipscoin logo"></a>
+            </div>
+            <div class="col-lg-10 pt-3 col-3 mt-lg-0  mt-md-5 mt-sm-4">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
+
+                    <span class="navbar-text">&nbsp;</span>
+
+                    <button class="navbar-toggler mt-sm-4 mt-1 mt-md-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="fa fa-bars text-white"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse">
+                        <ul class="navbar-nav ">
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/games/create">Create game</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/games">Play</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/demo">Demo</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/vip">VIP</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/referral">Referral</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/faq">Faq</a>
+                            </li>
+                            <li class="nav-item  ">
+                                <a class="nav-link" href="https://shipscoin.com/contact">Contact</a>
+                            </li>
+
+                            <li class="nav-item"><a class="nav-link" target="_blank"   href="https://fb.me/ShipsCoinCom"><i
+                                            class="fa fa-facebook"></i></a></li>
+                            <li class="nav-item"><a class="nav-link" target="_blank"   href="https://twitter.com/Shipscoin_com"><i
+                                            class="fa fa-twitter"></i></a></li>
+                            <li class="nav-item"><a class="nav-link" target="_blank"   href="https://t.me/ShipsCoin"><i class="fab fa-telegram-plane"></i></a>
+
+                        </ul>
+                        <ul class="navbar-nav ml-auto">
+
+                            <!-- <li class="nav-item"><a class="nav-link" href="#"><i class="icon-Phone-2 vm font-20"></i> +205 123 4567</a></li> -->
+
+
+                        </ul>
+                        <div class="rounded-button m-l-45" style="position:relative">
+                                                            <a class="nav-item" href="https://shipscoin.com/login">Login</a> - OR - <a
+                                        href="https://shipscoin.com/register">Register</a>
+                                                    </div>
+
+                    </div>
+
+                </nav>
+            </div>
+            <nav class="navbar  navbar-dark bg-transparent col-12 collapse navbar-collapse d-lg-none" id="navbarSupportedContent">
+                <ul class="navbar-nav ">
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/games/create">Create game</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/games">Play</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/demo">Demo</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/vip">VIP</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/referral">Referral</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/faq">Faq</a>
+                    </li>
+                    <li class="nav-item  ">
+                        <a class="nav-link" href="https://shipscoin.com/contact">Contact</a>
+                    </li>
+
+                    <li class="nav-item"><a class="nav-link" target="_blank"   href="https://fb.me/ShipsCoinCom"><i
+                                    class="fa fa-facebook"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank"   href="https://twitter.com/Shipscoin_com"><i
+                                    class="fa fa-twitter"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" target="_blank"   href="https://t.me/ShipsCoin"><i class="fab fa-telegram-plane"></i></a>
+
+                </ul>
+                <ul class="navbar-nav ml-auto">
+
+                    <!-- <li class="nav-item"><a class="nav-link" href="#"><i class="icon-Phone-2 vm font-20"></i> +205 123 4567</a></li> -->
+
+
+                </ul>
+                <div class="rounded-button m-l-45" style="position:relative">
+                                            <a class="nav-item" href="https://shipscoin.com/login">Login</a> - OR - <a
+                                href="https://shipscoin.com/register">Register</a>
+                                    </div>
+
+            </nav>
+        </div>
+    </div>
+
+
+<div id="particles-js" class="container-fluid pt-3 mt-3"></div>
+
+    <section id="hero">
+        <div class="container-fluid">
+            <div class="row d-flex align-items-center">
+                <div class="col-md-6 col-lg-5 offset-lg-1">
+                    <h1>Play Battleships and earn Bitcoin!</h1>
+                    <p>Hide the ship on board and play with other users. The one who hits the ship earns bitcoin!</p>
+                    <div class="col-lg-12 d-inline-flex justify-content-start align-items-center disable-mobile">
+                        <a href="https://shipscoin.com/games/create" class="btn btn-gradient btn-radius pl-4 pr-4 mr-3">Create game</a>
+                        <h2 class="mr-3 ml-3">/or</h2>
+                        <a class="" href="https://shipscoin.com/games">Search games</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5 pt-5">
+                    <a href="https://shipscoin.com/demo"><img src="./img/board-hero.png" alt="" class="img-fluid"></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="how-it-works">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-7 offset-md-1 col-lg-8 offset-lg-1">
+                    <p class="accent">let's start <img class="slash slash-1" src="./img/slash.png" alt=""></p>
+                    <h2>How it works ? </h2>
+                    <p>You only need to find where another user hides the ship or you can create own game and hide your ship. It's a fair game without any random elements! You don't play against the computer but against another user. You both have an equal chance because the board has 100 fields and shooter can only discover 50. Bigger ships means smaller reward and less available shots but it's still a mathematical 50% chance! If you hit the ship you will win reward but if not reward will be for the user who hides the ship. Chances are aligned for both sides. Let's play!</p>
+
+
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-6 mt-5 mb-1 mx-auto">
+                <div class="video-container">    <iframe width="840" height="420" src="https://www.youtube.com/embed/frw57_FpSGU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                </div>
+                <div class="w-100"></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="choice">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-5 offset-sm-1 col-md-5 offset-md-1 col-lg-4 offset-lg-2  create-own-board">
+                    <h2><a href="https://shipscoin.com/games/create">Create own board</a></h2>
+                    <img class="img-fluid" src="./img/board.png" alt="">
+                </div>
+                <div class=" col-sm-1 col-md-1 col-lg-1 d-flex align-items-center ">
+                    <h2 class="text-center">/or</h2>
+                </div>
+                <div class="col-sm-5  col-md-5  col-lg-5 d-flex align-items-center premade-lobby">
+                    <h2><a href="https://shipscoin.com/games">Play user's games</a></h2>
+                    <img class="img-fluid" src="./img/premade-lobby.png" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="w-100"></div>
+    </section>
+
+    <section id="howTo">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 mt-5">
+                    <h2 class="text-center">How to hide the ship and win the reward?</h2>
+                    <img class="slash slash-1" src="./img/slash.png" style="    left: 0;
+    bottom: 19px;
+    position: relative;
+    top: auto;" alt="">
+                    <img class="img-fluid" src="./img/howtohide.png">
+                </div>
+
+                <div class="col-lg-12 mt-5">
+                    <h2 class="text-center mt-2">How to find the ship and win the reward?</h2>
+                    <img class="slash slash-1" src="./img/slash.png" style="    left: 0;
+    bottom: 19px;
+    position: relative;
+    top: auto;" alt="">
+                    <img class="img-fluid" src="./img/howtofind.png">
+                </div>
+            </div>
+        </div>
+        <div class="w-100"></div>
+    </section>
+
+
+
+    <section id="cta">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                
+                    <h2 class="text-center mt-5">You have a 50% chance to win!</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="lobby-list">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-4 offsex-xs-5 col-sm-6 offset-sm-3 col-md-5 offset-md-6 col-lg-5 offset-lg-7 mt-5 ">
+                    <p class="accent">filters <img class="slash slash-1" src="./img/slash.png" alt=""></p>
+                    <div class="dropdown show ">
+                        <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">
+                                                            Newest
+                                                    </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="?orderBy=price#games">Most Valueable</a>
+                            <a class="dropdown-item" href="?orderBy=date#games">Newest</a>
+                            <a class="dropdown-item" href="?orderBy=open#games">Open</a>
+                            <a class="dropdown-item" href="?orderBy=popular#games">Most popular</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-100"></div>
+            </div>
+        </div>
+
+        <div class="container mt-5 pt-5">
+            <div class="row" id="games">
+                
+                    
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/lyGAh6wC" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00323077 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 12 </span> </p>
+                                    <a href="https://shipscoin.com/game/IUHWVPdx" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00300000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/RVsmTeV2" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00300000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing3.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 17 </span> </p>
+                                    <a href="https://shipscoin.com/game/fHMeQubu" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/5My8Od7w" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00476470 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing3.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 7 </span> </p>
+                                    <a href="https://shipscoin.com/game/ETEtqLba" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/SPSUiXjn" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/SkmFkJrF" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/8E5nZz3X" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/yz9F46dy" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/RyhssGxw" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="col-sm-12 col-md-6 col-lg-4 mt-4 mb-5">
+                                <p class="btn btn-radius btn-gradient btn-reward">Reward<span class="btc-price"> 0.00100000 </span></p>
+                                <img class="img-fluid" src="https://shipscoin.com/img/board-listing4.png" alt="">
+                                <div class="shots-remaining">
+                                    <p class="text-center pr-5">Shots remaining <span class="shots-remaining-number ml-3"> 13 </span> </p>
+                                    <a href="https://shipscoin.com/game/zauaaH5E" class="btn btn-gradient btn-radius btn-play-now">Play now!</a>
+                                </div>
+                            </div>
+                                            
+                
+            </div>
+                            <ul class="pagination justify-content-center" role="navigation">
+        
+        
+            <li class="page-item pagination-item-active"><a href="#" class="page-link">1</a></li>
+        
+                    <li class="page-item"><a class="page-link" href="games?page=2">2</a></li>
+            <li class="page-item page-link-next"><a href="games?page=2" class="page-link page-link-next"></a></li>
+            <li class="page-item"><a class="page-link" href="games?page=4">4</a></li>
+            </ul>
+
+                        </div>
+
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- Call to action box  -->
+    <!-- ============================================================== -->
+    <div class="call-to-act1 spacer pt-4 mt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-md-7">
+                    <h4 style="font-size:24px" class="subtitle">Are you ready ?</h4>
+                    <h2 class="font-bold">Get 5 shots for free after sign up! </h2>
+
+                </div>
+                <div class="col-lg-2 col-md-5 align-self-center">
+                    <a style="font-size:39px;" class="d-block d-sm-inline-block d-md-inline-block btn btn-gradient btn-radius btn-md btn-arrow m-t-20"  href="https://shipscoin.com/3-shots"><span>Get free! <i class="ti-arrow-right"></i></span></a>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<script src="https://shipscoin.com/admin/vendor/ios7-switch/ios7-switch.js"></script>
+    <script>
+        
+                    </script>
+
+
+<footer id="footer">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-md-12 text-center">
+                <h4 style="font-size:24px" class="subtitle"> Check our another awesome crypto project:</h4>
+
+                <a href="https://dualmine.com" target="_blank"><img src="https://shipscoin.com/img/dualmine.png" class="img-fluid"></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="d-flex flex-column flex-lg-row flex-sm-column flex-md-column flex-lg-row font-14">
+                    <div class="mb-lg-0 mb-3  col-lg-3 m-t-10 m-b-10 mb-md-3 text-center text-lg-left copyright d-lg-inline"> © 2018 shipscoin.com</div>
+                    <div class="  flex-column flex-lg-row col-lg-9 text-center text-lg-right links d-flex ml-lg-auto m-t-10 m-b-10 d-lg-inline-block" style="width:auto">
+                        <a href="https://shipscoin.com/about" class="p-10 mr-lg-4   ">About us</a>
+                        <a href="https://shipscoin.com/terms" class="p-10 mr-lg-4  ">Terms of use</a>
+                        <a href="https://shipscoin.com/disclaimer" class="p-10 mr-lg-4 ">Disclaimer</a>
+                        <a href="https://shipscoin.com/privacy" class="p-10 mr-lg-4">Privacy policy</a>
+                        <a href="https://shipscoin.com/complaints" class="p-10 mr-lg-4 ">Complaints</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+    <script src="https://shipscoin.com/js/particles.js"></script>
+    <script src="https://shipscoin.com/js/jquery.countdown.min.js"></script>
+    <script src="https://shipscoin.com/js/app.js"></script>
+    <script>
+        $(document).ready(function () {
+           
+           $('.preloader').fadeOut();
+        });
+    </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-118293007-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-118293007-2');
+</script>
+
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+    window.__lc = window.lc || {};
+    window.__lc.license = 10609637;
+    (function() {
+        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+        lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+    })();
+</script>
+<noscript>
+    <a href="https://www.livechatinc.com/chat-with/10609637/" rel="nofollow">Chat with us</a>,
+    powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+</noscript>
+<!-- End of LiveChat code -->
+</body>
+</html>

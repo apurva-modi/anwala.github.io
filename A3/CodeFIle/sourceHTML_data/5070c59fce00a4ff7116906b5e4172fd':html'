@@ -1,0 +1,573 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<BASE href="https://bitrss.com">
+
+<title>Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes</title>
+<meta name="description" content="\n 6&nbsp;total views, 6&nbsp;views today\n\nSince Bitcoin came into being, the project&#8217;s cardinal rules, block sizes, supply limits, among other pertinent values, have been kept static. Many have claimed that these values are what make BTC valuable">
+<meta name="keywords" content="shrink,expand,crypto,developer,wants,decrease,bitcoin,block,sizes">
+<meta name='robots' content='index,follow' />
+<META NAME="author" CONTENT="BitRss.com">
+<META NAME="subject" CONTENT="World wide Cryptocurrency News">
+<meta name="language" content="en-EN">
+<meta http-equiv="CACHE-CONTROL" content="CACHE">
+<meta http-equiv="PRAGMA" content="CACHE">
+<script src="/cdn-cgi/apps/head/uF-Tz1q8gnxIfoAfvAn482AjLPo.js"></script><link rel="shortcut icon" href="/favicon.ico">
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
+<meta name="DC.title" content="Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes">
+<meta name="DC.identifier" content="https://bitrss.com">
+<meta name="DC.description" content="\n 6&nbsp;total views, 6&nbsp;views today\n\nSince Bitcoin came into being, the project&#8217;s cardinal rules, block sizes, supply limits, among other pertinent values, have been kept static. Many have claimed that these values are what make BTC valuable">
+<meta name="DC.subject" content="Latest Bitcoin and Cryptocurrencies News">
+<meta name="DC.language" scheme="ISO639-1" content="en">
+<meta name="DC.creator" content="https://bitrss.com">
+<meta name="DC.publisher" content="https://www.new-web.net">
+<meta name="DC.type" scheme="DCMITYPE" content="https://purl.org/dc/dcmitype/Collection">
+<meta name="DC.relation" content="https://en.wikipedia.org/wiki/Web_feed">
+<meta name="DC.relation" content="https://en.wikipedia.org/wiki/Cryptocurrency">
+<link rel="schema.DCTERMS" href="https://purl.org/dc/terms/" />
+<meta name="DCTERMS.created" scheme="ISO8601" content="2016-11-7">
+
+<meta property="og:site_name" content="BITRSS Crypto and Bitcoin World News" />
+<meta property="og:url" content="https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes" />
+<meta property="og:title" content="Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes" />
+<meta property="og:description" content="\n 6&nbsp;total views, 6&nbsp;views today\n\nSince Bitcoin came into being, the project&#8217;s cardinal rules, block sizes, supply limits, among other pertinent values, have been kept static. Many have claimed that these values are what make BTC valuable" />
+<meta property="og:type" content="article" />
+<meta property="article:publisher" content="BITRSS Crypto and Bitcoin World News" />
+
+
+<link rel="stylesheet" href="https://res.cloudinary.com/new-web-network/raw/upload/v1533910423/cdn/Bit/bootstrap.min.css">
+<link rel="stylesheet" href="https://res.cloudinary.com/new-web-network/raw/upload/v1533910432/cdn/Bit/bootstrap-theme.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://res.cloudinary.com/new-web-network/raw/upload/v1533910453/cdn/Bit/social-buttons.css">
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="themes/default/css/style.css">
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "url": "https://bitrss.com/category/24/bitcoin-blogs-and-more"
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "BitRss Crypto World News",
+    "url": "https://bitrss.com",
+    "sameAs": [
+      "https://facebook.com/bitrss",
+      "https://www.twitter.com/RssBit",
+      "https://bitrss-news.tumblr.com/"
+    ]
+  }
+</script>
+<style type="text/css">
+@-webkit-keyframes shake {
+	0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
+	10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
+	30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
+	40% { -webkit-transform: translate(1px, -1px) rotate(1deg); }
+	50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { -webkit-transform: translate(-3px, 1px) rotate(0deg); }
+	70% { -webkit-transform: translate(2px, 1px) rotate(-1deg); }
+	80% { -webkit-transform: translate(-1px, -1px) rotate(1deg); }
+	90% { -webkit-transform: translate(2px, 2px) rotate(0deg); }
+	100% { -webkit-transform: translate(1px, -2px) rotate(-1deg); }
+}
+@keyframes shake {
+	0% { transform: translate(2px, 1px) rotate(0deg); }
+	10% { transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { transform: translate(-3px, 0px) rotate(1deg); }
+	30% { transform: translate(0px, 2px) rotate(0deg); }
+	40% { transform: translate(1px, -1px) rotate(1deg); }
+	50% { transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { transform: translate(-3px, 1px) rotate(0deg); }
+	70% { transform: translate(2px, 1px) rotate(-1deg); }
+	80% { transform: translate(-1px, -1px) rotate(1deg); }
+	90% { transform: translate(2px, 2px) rotate(0deg); }
+	100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+.shake:hover,
+.shake:focus {
+	animation-name: shake;
+	animation-duration: 0.8s;
+	transform-origin:50% 50%;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	-webkit-animation-name: shake;
+	-webkit-animation-duration: 0.8s;
+	-webkit-transform-origin:50% 50%;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+}
+</style>
+<script src="https://res.cloudinary.com/new-web-network/raw/upload/v1533910483/cdn/Bit/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+
+
+
+<script src="https://res.cloudinary.com/new-web-network/raw/upload/v1533910489/cdn/Bit/social-buttons.js" async></script>
+<script src="https://res.cloudinary.com/new-web-network/raw/upload/v1533910476/cdn/Bit/jquery.lazyloadxt.js" async></script>
+</head>
+<body>
+<div class="container">
+
+<div class="header row">
+<div class="col-md-3"><div class="logo"><a href="./" title="BitRss the latest Bitcoin and Crypto News"><img src="https://res.cloudinary.com/new-web-network/image/upload/q_100/v1518036653/bitrss.com_mygvxb.png" class="img-responsive" alt="BitRss the latest Bitcoin and Crypto News" /></a></div></div>
+<div class="col-md-9 header-ad">
+<p align="justify"><h1><strong>BitRss.com </strong>latest Crypto World News</h1></p>
+<p align="justify"><h2><small><strong>Search and discover the latest Cryptocurrency updated Stories in Categories</strong>.</small></h2></p>
+<p align="justify"><h3><small><strong>24-7 Cryptocurrency News about Blockchain, Technology and much more, only from Top Leading Sources</strong>.</small></h3></p>
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"BITRSS.COM uses some cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"https://bitrss.com/page/2/privacy-policy-and-cookies","theme":"light-floating"};
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+</div>
+</div>
+
+
+<nav class="navbar navbar-inverse" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li><a href="./">Home</a></li>
+<li><a href="./category/23/crypto-world-news">Crypto World News</a></li>
+<li><a href="./category/27/international">International</a></li>
+<li><a href="./category/25/bitcoin-technology">Bitcoin Technology</a></li>
+<li><a href="./category/26/crypto-and-laws">Crypto and Laws</a></li>
+<li><a href="./category/24/blogs-and-more">Blogs and more</a></li>
+<li><a href="./rss.xml" target="_NEW"><i class="fa fa-rss"></i> RSS</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<div class="content">
+<div class="row">
+<div class="col-md-8">
+<div class="article-page">
+
+<h1><a href="./news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes">Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes</a></h1>
+
+<div class="article-meta single-article">
+<span><i class="fa fa-clock-o"></i>2 weeks ago</span>
+<span><i class="fa fa-reorder"></i><a href="./category/23/crypto-world-news">Crypto World News</a></span>
+<span><i class="fa fa-rss"></i><a href="./source/97/todaysgazette">TodaysGazette</a></span>
+<span><i class="fa fa-bar-chart"></i> 640</span>
+<span><a href="javascript:window.print()"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Print this Page</a></span> 
+</div>
+
+
+<div class="article-content">
+<br />
+6&nbsp;total views, 6&nbsp;views today <br />
+<br />
+Since Bitcoin came into being, the project&#8217;s cardinal rules, block sizes, supply limits, among other pertinent values, have been kept static. Many have claimed that these values are what make BTC valuable, and give it long-term staying power. <br />
+Yet, some have begged to differ, leading to the creation of Bitcoin Cash, and subsequently, SV and ABC. While these moves have been centered around increasing block sizes to bolster transactional throughput, little attention has been given to the shrinking of the same value. But this changed recently. <br />
+Bitcoin Block Size Decrease Proposed <br />
+Luke Dashj, a long-time and leading developer of the Bitcoin Core client, recently took to Twitter to surprisingly remark that he is currently looking into reducing Bitcoin&#8217;s block sizes temporarily. Casting controversy aside, Luke remarked that it would be possible to reduce block sizes to 300Kb to 1Mb through a &#8220;very simple softfork,&#8221; potentially to improve network security and the number of nodes. <br />
+<br />
+Another example: This patch would enforce a very simple softfork, reducing #Bitcoin block sizes to ~300k between Aug 1 and Dec 31. It demonstrates how one can make a truly TEMPORARY softfork. https://t.co/sukdk2zJpR <br />
+(DO NOT RUN THIS IN PRODUCTION EVEN IF YOU SUPPORT A UASF) <br />
+&mdash; Luke Dashjr (@LukeDashjr) February 7, 2019 <br />
+<br />
+If such a move was pushed to production, it would cut hundreds of transactions out of each and every block, as the average Bitcoin block size currently sits at above 1.2 Mb, due to the SegWit protocol. <br />
+Yet, Luke explained to BitcoinMagazine that such a move could be deemed logical, as more nodes decrease the chance of censorship through centralization, while also increasing fees to bolster chain security. He explained that if a bad actor(s) was to attack Bitcoin, they would be able to split the network in two, with full node users and light wallet users on each side. In Luke&#8217;s eyes, this potential dichotomy could spell disaster for the network. <br />
+While the premise is there, some believe that this is a foolish idea. <br />
+Crypto Community Responds In Force <br />
+While the premise is there, some believe that this is a foolish idea. <br />
+Mike Relentless, an advocate for &#8216;big blocks&#8217; Bitcoin SV , quickly took to his Twitter soapbox to bash the idea of curbing block sizes drastically. In a comment that has become a topic of controversy, Mike noted that he&#8217;s &#8220;flabbergasted&#8221; by the &#8220;core devs'&#8221; audacity, adding that if block sizes dropped to 300 Kb, Lightning Network adoption would be killed, and few consumers could get a foothold in the ecosystem. <br />
+<br />
+I&#39;m shocked the core devs want to reduce the block size from 1MB to only 300KB. <br />
+I&#39;m flabbergasted! <br />
+Do they not understand along with killing mainnet adoption they&#39;re also killing LN adoption??? <br />
+How the fuck are you going to onboard billions of people if you shrink??? #Bitcoin <br />
+&mdash; Mike Relentless [SV] (@mikerelentless) February 13, 2019 <br />
+<br />
+CobraBitcoin, the co-owner of the Bitcoin.org domain, remarked that this is &#8220;madness,&#8221; explaining that the crypto doesn&#8217;t need more forks in a year as important as 2019, as analysts expect the following months to be rife with adoption. He added that such a move would cause unnecessary drama, damaging the public reputation of this crypto asset. <br />
+<br />
+Stop this madness! Last thing Bitcoin needs is yet more contentious forks in this key year for adoption! A soft fork to &quot;reduce the block size&quot; is a hard fork in all but name. This will split off from the established consensus, cause massive drama, and damage trust in Bitcoin. https://t.co/54tzz4UIli <br />
+&mdash; Cøbra (@CobraBitcoin) February 11, 2019 <br />
+<br />
+The post Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes appeared first on Today&#039;s Gazette - Cryptocurrency, Bitcoin, Ripple, Tron, Verge, Cardano News .
+</div>
+<style>
+/*  */
+
+#screenshot{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	}
+/*  */
+</style>
+<script src="https://bitrss.com/themes/default/js/jqueryscreen.js"></script>
+<script src="https://bitrss.com/themes/default/js/mainscreen.js"></script>
+<br><center>- - - - -</center>
+<br>
+<div class="article-share"><center><strong><h3>Thank you for Share!</h3></strong> &nbsp; &nbsp;
+<div class="social-sharing" data-permalink="https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes">
+<a target="_blank" rel="external" href="https://www.facebook.com/sharer.php?u=https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes" class="share-facebook">
+<span class="fa fa-facebook" aria-hidden="true"></span>
+<span class="share-title">Facebook</span>
+</a>
+<a target="_blank" rel="external" href="https://twitter.com/share?url=https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes&amp;text=Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes" class="share-twitter">
+<span class="fa fa-twitter" aria-hidden="true"></span>
+<span class="share-title">Twitter</span>
+</a>
+<a target="_blank" rel="external" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes&amp;text=Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes" class="share-fancy">
+<span class="fa fa-linkedin" aria-hidden="true"></span>
+<span class="share-title">Linkedin</span>
+</a>
+
+<a target="_blank" rel="external" href="whatsapp://send?text=https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes&amp;text=Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes" data-action="share/whatsapp/share" class="share-facebook">
+<span class="fa fa-whatsapp" aria-hidden="true"></span>
+<span class="share-title">WhatsApp</span>
+</a>
+</div></center>
+</div>
+</div>
+
+<div class="read-more">
+<a href="https://todaysgazette.com/bitcoin-developer-wants-decrease-block-sizes/" target="_NEW" rel="nofollow" class="btn btn-warning btn-lg btn-block" title="Read the full Article: Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes"><strong>Read the full Article <span class="hidden-xs">at : TodaysGazette</strong></span>
+<p>
+<div class="n_webthumb">
+<center><img class="n_loader" src="https://x.bitrss.com/noimage.gif" /> <img class="n_image flex shake" src="https://sneak.scriptnet.net/api.php?width=400&height=200&url=https://todaysgazette.com/bitcoin-developer-wants-decrease-block-sizes/&quality=50&output=raw" alt="Read the full Article: Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes" border="2" /> </center><script src="https://x.bitrss.com/webthumbs.js" async></script>
+</div></p>
+</a>
+<br>
+
+
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="1348422720" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+</div>
+
+<div class="related-news">
+<h4>Related News</h4>
+<ul>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/sources/23871549422490.png" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/125005/verge-xvg-ravencoin-rvn-digitex-futures-dgtx-sees-price-increment-as-bitcoin-btc-ethereum-eth-and-xrp-slump">Verge (XVG), Ravencoin (RVN), Digitex Futures (DGTX) Sees...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/noimage.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/125004/here-s-why-twitter-ceo-jack-dorsey-co-are-stacking-bitcoin">Here’s Why Twitter CEO Jack Dorsey &amp; Co. Are...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551632892_46274218.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/125002/major-us-retailer-ditches-visa-now-considering-bitcoin-s-lightning-network">Major US Retailer Ditches Visa – Now Considering...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551632882_45638339.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/125000/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3-850">Most Top Cryptos See Minor Losses as Bitcoin Hovers Over...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551625746_14092488.png" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124997/bitcoin-price-prediction-is-bitcoin-going-to-333-000-fact-or-fantacy">BITCOIN PRICE PREDICTION – Is Bitcoin going to $333,000 –...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551625719_65993348.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124996/malta-might-be-blockchain-island-but-don-t-try-opening-a-crypto-bank-account">Malta Might Be ‘Blockchain Island’ But Don’t Try Opening...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/sources/24191539995712.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124993/bitcoin-price-plunge-to-1-000-is-possible-say-traders-could-it-happen">Bitcoin Price Plunge to $1,000 is Possible, Say Traders;...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/sources/63721457686524.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124992/let-s-talk-bitcoin-390-revisiting-lightning-part-2">Let's Talk BItcoin! #390 Revisiting Lightning (Part 2)</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551618515_33352179.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124990/bitcoin-could-top-102k-during-the-next-crypto-bull-run-according-to-past-market-cycles">Bitcoin Could Top 102K During The Next Crypto Bull-Run...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+
+<div class="col-xs-3"><img data-src="upload/news/image_1551618482_30853019.jpg" class="img-responsive " /></div>
+
+<div class="col-xs-9"><a href="./news/124984/ethereum-co-founder-vitalik-buterin-eth-is-a-solution-to-bitcoin-s-limited-functionality">Ethereum Co-Founder Vitalik Buterin: ETH Is a Solution to...</a></div>
+<div class="clear"></div>
+</li>
+</ul>
+<div class="clear"><center>
+</center></div>
+<br>
+</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'bitrss';
+    var disqus_identifier = '123360';
+    var disqus_title = 'Shrink, Not Expand: Crypto Developer Wants To Decrease Bitcoin Block Sizes';
+    var disqus_url = 'https://bitrss.com/news/123360/shrink-not-expand-crypto-developer-wants-to-decrease-bitcoin-block-sizes';
+	
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+</div>
+<div class="col-md-4">
+
+<center><h3>Search Crypto News</h3></center><br>
+
+
+<div class="widget search-form">
+<form method="GET" action="./search/">
+<div class="input-group">
+<input type="text" name="q" class="form-control" placeholder="Search" />
+<span class="input-group-addon"><button type="submit" class="btn-link"><span class="fa fa-search"></span></button></span>
+</div>
+</form>
+</div>
+
+
+<div class="widget">
+<center><strong>BITRSS | CRYPTOCURRENCY WORLD NEWS</strong></center><br>
+<p style="text-align:justify">The <strong>latest Top News</strong>, from leading exponents of <strong>BlockChain, Bitcoin</strong> and Accredited <strong>Crypto Currency Sources.</strong></p>
+<p style="text-align:justify">
+<strong>Since 2015</strong>, our Mission was to Share, up-to-date, those <strong>News and Information</strong> we believe to represent in an Ethical and sincere manner the current <strong>Cypto Currencies World.</strong></p>
+<p style="text-align:justify">We have always tried to give <strong>priority to the News</strong>; for this reason we have designed <strong>BitRss.com</strong> simple and intuitive, <strong>usable by all Devices</strong>, fast and effective.</p>
+<br>
+<center><h5><strong>| LEARN MORE ABOUT |</strong></h5></center>
+<ul>
+<li><p><a href="https://en.wikipedia.org/wiki/Blockchain" rel="external" target="_blank" title="Wiki BlockChain"><strong><h5>BlockChain Knowledge Base</h5></strong></a>
+</p>
+<li><p><a href="https://en.wikipedia.org/wiki/Cryptocurrency" rel="external" target="_blank" title="Wiki Cryptocurrency"><strong><h5>Cryptocurrency Knowledge Base</h5></strong></a>
+</p>
+<li><p><a href="https://en.wikipedia.org/wiki/Bitcoin" rel="external" target="_blank" title="Wiki Bitcoin"><strong><h5>Bitcoin Knowledge Base</h5></strong></a>
+</p>
+<li><p><a href="https://pay-b.it" rel="external" target="_blank" title="CryptoCurrency Live Data"><strong><h5> CryptoCurrency Prices and Data Market (Live)</h5></strong></a>
+</p>
+<br><center><h5><strong>BITRSS | Submit Your Crypto NEWS</strong></h5></center>
+<br>
+<p style="text-align:justify">
+BitRss.com not only Update the Sources several time a day and allow Visitors to follow and comment on the latest News, but <strong><a href="https://bitrss.com/page/1/submit-your-rss" title="Submit your Bitcoin FEED">accept submissions of your own Bitcoin and related Crypto stories</a></strong>.</p>
+<p style="text-align:justify">Our Team will evaluate in depth, <strong>human touch</strong>, if the Rss and Feeds Sources, will be in line with our policy.</p>
+<p align="justify"><strong>Please support BitRss.com: if you like it, share your favorite News to your Socials!</strong></p></center>
+<br><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="1348422720" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120235612-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120235612-1');
+</script>
+</div>
+
+
+<div class="widget top-hits-news">
+<h4><strong>24h Most Popular News</strong></h4>
+<ul>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/news/image_1551568082_96910277.jpg" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124965/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses">Bitcoin Hovers Over $3,850 as Most Top Cryptos See Losses</a>
+
+<p class="visible-sm"> Bitcoin hovers near the $3,850 mark as most top cryptos see losses </p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/news/image_1551550101_8156472.png" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124964/proof-of-nothing-cryptocurrency-miners-cashed-in-5-million-per-month-for-adding-empty-blocks">Proof of… Nothing? Cryptocurrency Miners Cashed in $5 Million Per Month for Adding Empty Blocks</a>
+
+<p class="visible-sm">
+Ever since the first blockchain was launched ten years ago, cryptocurrency miners have managed to earn over $21 billion by participating in the...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/news/image_1551604083_57143676.jpg" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124967/tech-firm-plans-to-transform-advertising-on-facebook-youtube-and-twitter-via-blockchain">Tech Firm Plans to Transform Advertising on Facebook, YouTube and Twitter Via Blockchain</a>
+
+<p class="visible-sm"> Successful tech firm taps crypto as the solution to the advertising industry's woes. Its DApp compensates publishers only when the campaign’s...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/sources/23871549422490.png" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124999/bcf-extends-charity-to-1328-victims-with-bnb-donation-a-propelling-force-for-binance-coin-bnb">BCF Extends Charity To 1328 Victims With BNB Donation. A Propelling Force For Binance Coin (BNB)?</a>
+
+<p class="visible-sm">
+238&nbsp;total views, 238&nbsp;views today
+While Binance coin (BNB) jabbed a number of coins on the table with a propelling force...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/news/image_1551618482_30853019.jpg" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124984/ethereum-co-founder-vitalik-buterin-eth-is-a-solution-to-bitcoin-s-limited-functionality">Ethereum Co-Founder Vitalik Buterin: ETH Is a Solution to Bitcoin’s Limited Functionality</a>
+
+<p class="visible-sm"> Ethereum is an attempt to solve Bitcoin’s limited functionality, according to Ethereum’s co-founder Vitalik Buterin </p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/sources/23871549422490.png" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124983/away-from-suffering-verge-xvg-litecoin-ltc-tokenpay-tpay-can-solve-your-crypto-woes">Away From Suffering: Verge (XVG), Litecoin (LTC), TokenPay (TPAY) can Solve your Crypto Woes</a>
+
+<p class="visible-sm">
+2,209&nbsp;total views, 2,204&nbsp;views today
+The chances of losing investments in the crypto community in one fell swoop are high....</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+
+<img data-src="upload/sources/90601457424009.png" class="img-responsive " />
+</div>
+<div class="col-xs-9">
+
+<a href="./news/124968/ethereum-foundation-director-sets-new-vision-for-blockchain-non-profit">Ethereum Foundation Director Sets New Vision for Blockchain Non-Profit</a>
+
+<p class="visible-sm">The Ethereum Foundation may shift its role toward propelling – as opposed to creating – a larger, more decentralized ethereum ecosystem.</p>
+</div>
+</li>
+</ul>
+</div>
+
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="1348422720" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center><br>
+
+
+<div class="widget links">
+<h4>Utility</h4>
+<ul>
+<li>
+<a href="./page/10/learn-about-bitcoin"><i class="fa fa-file"></i>Learn about Bitcoin</a></li>
+<li>
+<a href="./page/8/learn-about-blockchain"><i class="fa fa-file"></i>Learn about BlockChain</a></li>
+<li>
+<a href="./page/9/learn-about-crypocurrency"><i class="fa fa-file"></i>Learn about Crypocurrency</a></li>
+<li>
+<a href="./page/2/privacy-policy-and-cookies"><i class="fa fa-file"></i>Privacy Policy and Cookies</a></li>
+<li>
+<a href="./page/1/contacts-and-submit-your-rss"><i class="fa fa-file"></i>Contacts and Submit your rss</a></li>
+<li>
+<a href="./page/11/comments-netiquette"><i class="fa fa-file"></i>Comments Netiquette</a></li>
+<li>
+<a href="./page/3/activity-links"><i class="fa fa-file"></i>Activity Links</a></li>
+</ul>
+</div>
+
+
+<div class="widget links">
+<h4>Links</h4>
+<ul>
+<li>
+<a href="https://www.twitter.com/RssBit" target="_NEW" rel="nofollow"><i class="fa fa-link"></i>Follow Us on Twitter</a></li>
+<li>
+<a href="https://bitrss-news.tumblr.com/" target="_NEW" rel="nofollow"><i class="fa fa-link"></i>Follow Us on Tumblr</a></li>
+<li>
+<a href="https://bitrss.com/categories-sitemap.xml" target="_NEW"><i class="fa fa-link"></i>BitRss Categories xml</a></li>
+<li>
+<a href="https://bitrss.com/sitemap-1.xml" target="_NEW"><i class="fa fa-link"></i>XML Sitemap</a></li>
+<li>
+<a href="https://bitrss.com/sitemap.xml" target="_NEW"><i class="fa fa-link"></i>Global XML</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer">
+<div class="col-sm-6 copyrights">All Rights Reserved <a href="https://bitrss.com">BITRSS Crypto and Bitcoin World News</a></div>
+<div class="col-sm-6 powered-by text-right">Design By <a href="https://www.new-web.net" rel="external" target="_blanc" title="Design by New Web Network">New Web Network</a> | ScreenShots by <a href="https://sneak.scriptnet.net" rel="external" target="_blanc" title="Professional Web thumbnails">SneakScript</a>&nbsp; &nbsp; <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://bitrss.com/top.js" async></script>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+

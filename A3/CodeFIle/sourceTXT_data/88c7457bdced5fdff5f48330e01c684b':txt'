@@ -1,0 +1,25 @@
+Wallet Buy Bitcoin Assets Download Support Blog
+What is Bitcoin Dust?
+Bitcoin dust is such a small amount that there is no point to send it because it's much less than the network fee for the transaction.
+The scammers are figured out that users didn't pay attention to these tiny amounts, so they began to send them a few Satoshi to increase the probability of identifying users.
+How dusting attack is performed?
+Since Bitcoin is open and decentralized, anyone can create a wallet and connect to the network without providing any personal data, but all actions are transparent and you can easily trace the whole transaction history of a certain public address. For that reason, it turns out that Bitcoin is not entirely anonymous. This feature is used by some scammers in order to track users transactions and even reveal their identities for extortion purposes.
+To fully keep their anonymity, some users utilize so-called HD (hierarchical deterministic) wallets which imply a lot of Bitcoin addresses for a certain wallet user. For example, 1 BTC can be sent and spread to 5 different addresses in different amounts, but all 5 addresses belong to the same person and he or she has 1 Bitcoin in the total amount.
+How dusting attacks work?
+Lets see how the attack works on HD wallets , as ones are hard to track. After the dust gets to one either of the addresses, HD wallets can include this dust in the next transactions as Unspent Transaction Output (UTXO). Thus scammers can track further operations, it may allow them to identify the links between addresses and ultimately companies or person behind them.
+The scammer sends the dust to some address and waits for its use in combination with other outputs, thus identify which addresses also belong to this user.
+Commonly, cryptocurrency users keep their money partly in their own wallet and on exchange accounts. In this case, ultimately their personal data on the exchange service can be associated with their personal wallets by the dust attack. Initially, dust attacks were performed for Bitcoin users. In fact, all cryptos running on the public blockchain are prone to a dusting attack.
+How can you protect yourself?
+Bitcoins balance in your wallet represents the sum of "inputs" and unspent outputs. Thus, 1 bitcoin can represent the sum of 0.3, 0.2, 0.5 BTC or other smaller amounts up to the dust like 0.00000248 BTC.
+If you can build the transaction outputs in your wallet, then this dust can be simply left and not used. But most services collect transactions from the nearest inputs and the user cannot control it. If the dust was not used as spent outputs, then the scammers cannot establish the connections between the addresses that they need to deanonymize the wallet owner.
+So its not a big problem for cryptocurrency enthusiasts who don't use they cryptos for malicious activities. But the scammers who send the dust spam across the network cause inconvenience to everyone else, because other users have to pay higher fees to avoid delays when their transactions are waiting of included in the block.
+If you see suspicious amount of received Satoshi's and get messages like I know who you are, don't respond to provocations. Frauds cant harm you if they don't have access to your seed phrase and private keys .
+Choose the right wallets
+No one will have access to your funds, if you use non-custodial wallets .
+We are happy to provide you with the most convenient way to manage all of your cryptocurrency assets in one single interface of Atomic Wallet:
+300+ coins and tokens
+Get control on your private keys
+Add custom token that you want
+Buy crypto with VISA or MasterCard
+Download the app now at AtomicWallet.io and be your own bank
+Download Atomic Wallet

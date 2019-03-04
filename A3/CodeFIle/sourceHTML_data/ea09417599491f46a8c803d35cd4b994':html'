@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-EN" data-root-version="1.13.2">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0"/>
+		<title>AmbaCoin | Ambazonia Coin</title>
+		<link rel="stylesheet" href="/assets/common.css?1550497984">
+		<link rel="stylesheet" href="/assets/template.css?1550498006">
+					<link rel="icon" type="image/ico" sizes="90x90" href="/docs/favicon_24-10_2f8e.ico">
+				<meta name="author" content="@stupidlovejoy"/>
+		<meta name="copyright" content="https://smartcontract.ru"/>
+	</head>
+	<body>
+					<div class="b-app" id="App">
+				<div class="b-app__loading" v-if="!page_loaded" style="background-image:url(/docs/200na200_24-10_bbbe.png)"></div>
+				<component v-if="page_loaded" :is="currentView"></component>
+				<div class="b-notices" style="display:none;" v-show="notices.length">
+					<div class="b-notice" v-for="(notice, key) in notices" :class="[(notice.type ? 'b-notice_' + notice.type : ' '), notice.folded ? 'b-notice_folded' : ' ']" @click="notice.folded = false">
+						<div class="b-notice__close" @click="notices.splice(key, 1)"></div>
+						<div class="b-notice__icon" v-if="notice.icon" :style="{backgroundImage: 'url(' + notice.icon + ')'}"></div>
+						<div class="b-notice__body">
+							<p v-html="notice.text"></p>
+							<div class="b-notice__buttons" v-if="notice.buttons.length">
+								<button class="i-btn" v-for="button in notice.buttons" v-text="button.label" @click="button.click(); notices.splice(key, 1)"></button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+							<div class="b-cookie-policy"><p>This website uses cookies for functionality, analytics and advertising purposes as described in our Privacy Policy. If you agree to our use of cookies, please continue to use our site.</p><button class="i-btn i-btn_red" onclick="document.cookie = 'cookie_policy=1; Max-Age=30758400; path=/'; this.parentNode.parentNode.removeChild(this.parentNode);">Ok</button></div>
+						<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131724629-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131724629-1');
+</script>
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'dvU12RRhc9';var d=document;var w=window;function l(){var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- {/literal} END JIVOSITE CODE -->						<script data-cfasync="false">
+				window.CONST = {
+					ADMIN: 0,
+					DEBUG: 0,
+					VERSION: 1550497985,
+					LANG: 'en',
+					CSRF: 'e6bd13e1c69ffe40c5822ce9b220a2696adc51b8dd35db0dd970558801c79119',
+					RECAPTCHA_KEY: '',
+				};
+			</script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.5/require.min.js" data-cfasync="false" data-main="/assets/common.js?1550497985"></script>
+			</body>
+</html>

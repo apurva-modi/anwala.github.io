@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7"  class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8"  class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9"  class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+
+<!-- This doesn't work but i prefer to leave it here... maybe in the future the MS will support it... i hope... -->
+<!--[if IE 10]>
+<html id="ie10"  class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+
+<!--[if gt IE 9]>
+<html class="ie"lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+
+<!--[if !IE]>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+
+<!-- START HEAD -->
+<head>
+ //           <meta charset="UTF-8" />
+
+                    <!-- this line will appear only if the website is visited with an iPad -->
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+        
+                <meta property="og:site_name" content="Bit In Digital"/>
+        <meta property="og:title" content="Spondoolies SPx36"/>
+        <meta property="og:url" content="https://bitindigi.com/shop/spondoolies-spx36/"/>
+
+                    <meta property="og:image" content="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png"/>
+        <meta property="og:description" content="Model SPx36 from Spondoolies mining X11 algorithm with a maximum hash rate of 540Gh/s for a power consumption of 4400W." /><meta name="keywords" content="Spondoolies SPx36" />
+        
+<!-- PINGBACK & WP STANDARDS -->
+<link rel="pingback" href="//bitindigi.com/xmlrpc.php" />
+
+
+<script type="text/javascript">
+	var yit_responsive_menu_type = "arrow";
+	var yit_responsive_menu_text = "NAVIGATE TO...";
+</script>
+
+
+    <!-- [favicon] begin -->
+    <link rel="shortcut icon" type="image/x-icon" href="//bitindigi.com/wp-content/themes/bazar/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="//bitindigi.com/wp-content/themes/bazar/favicon.ico" />
+    <!-- [favicon] end -->
+
+    <!-- Touch icons more info: http://mathiasbynens.be/notes/touch-icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//bitindigi.com/wp-content/themes/bazar/apple-touch-icon-144x.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="//bitindigi.com/wp-content/themes/bazar/apple-touch-icon-114x.png" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="//bitindigi.com/wp-content/themes/bazar/apple-touch-icon-72x.png" /><link rel="apple-touch-icon-precomposed" sizes="57x57" href="//bitindigi.com/wp-content/themes/bazar/apple-touch-icon-57x.png" />
+
+<!-- Feed RSS2 URL -->
+<link rel="alternate" type="application/rss+xml" title="Bit In Digital Feed" href="//bitindigi.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bit In Digital Comments Feed" href="//bitindigi.com/comments/feed/" /> 
+  //  <title>Spondoolies SPx36 - Bit In Digital</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://bitindigi.com/shop/spondoolies-spx36/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Spondoolies SPx36 - Bit In Digital" />
+<meta property="og:description" content="Model SPx36 from Spondoolies mining X11 algorithm with a maximum hash rate of 540Gh/s for a power consumption of 4400W." />
+<meta property="og:url" content="https://bitindigi.com/shop/spondoolies-spx36/" />
+<meta property="og:site_name" content="Bit In Digital" />
+<meta property="og:image" content="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo-1024x368.png" />
+<meta property="og:image:secure_url" content="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo-1024x368.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="368" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Model SPx36 from Spondoolies mining X11 algorithm with a maximum hash rate of 540Gh/s for a power consumption of 4400W." />
+<meta name="twitter:title" content="Spondoolies SPx36 - Bit In Digital" />
+<meta name="twitter:image" content="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/bitindigi.com\/","sameAs":[],"@id":"https:\/\/bitindigi.com\/#organization","name":"bitindigit","logo":""}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bit In Digital &raquo; Feed" href="https://bitindigi.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bit In Digital &raquo; Comments Feed" href="https://bitindigi.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bit In Digital &raquo; Spondoolies SPx36 Comments Feed" href="https://bitindigi.com/shop/spondoolies-spx36/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bitindigi.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://bitindigi.com/wp-includes/css/dashicons.min.css?ver=4.9.9' type='text/css' media='all' />
+<style id='dashicons-inline-css' type='text/css'>
+[data-font="Dashicons"]:before {font-family: 'Dashicons' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='thickbox-css'  href='https://bitindigi.com/wp-includes/js/thickbox/thickbox.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-bootstrap-css'  href='https://bitindigi.com/wp-content/themes/bazar/core/assets/css/reset-bootstrap.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://bitindigi.com/wp-content/themes/bazar/style.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Play%7COswald%7CArbutus+Slab%7COpen+Sans%7CShadows+Into+Light&#038;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-css'  href='https://bitindigi.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.css?ver=3.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css'  href='https://bitindigi.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.css?ver=3.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='yit-layout-css'  href='https://bitindigi.com/wp-content/themes/bazar/woocommerce/style.css?ver=1.0' type='text/css' media='' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='ywsl_frontend-css'  href='https://bitindigi.com/wp-content/plugins/yith-woocommerce-social-login/assets/css/frontend.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='yit-font-awesome-css'  href='//bitindigi.com/wp-content/themes/bazar/core/assets/css/font-awesome.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='//bitindigi.com/wp-content/themes/bazar/theme/assets/css/colorbox.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='comments-css'  href='//bitindigi.com/wp-content/themes/bazar/theme/templates/comments/css/style.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-minified-css'  href='//bitindigi.com/wp-content/themes/bazar/cache/style.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='//bitindigi.com/wp-content/themes/bazar/custom.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cache-custom-css'  href='//bitindigi.com/wp-content/themes/bazar/cache/custom.css?ver=4.9.9' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yit = {"isRtl":"","isBoxed":""};
+var yit_woocommerce = {"woocommerce_ship_to_billing":"1","load_gif":"https:\/\/bitindigi.com\/wp-content\/themes\/bazar\/theme\/assets\/images\/ajax-loader.gif","version":"3.5.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://bitindigi.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bitindigi.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bitindigi.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.9" />
+<meta name="generator" content="WooCommerce 3.5.5" />
+<link rel='shortlink' href='https://bitindigi.com/?p=2080' />
+<link rel="alternate" type="application/json+oembed" href="https://bitindigi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bitindigi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//bitindigi.com/?wordfence_lh=1&hid=AF9FB9C509F678AAFE4E8CED291D2DB9');
+</script>        <style type="text/css">
+            body { background-color: #ffffff; }      
+        </style>
+                <style type="text/css">
+            .blog-big .meta, .blog-small .meta { background-color: #ffffff; }
+        </style>
+        <style type="text/css">
+        ul.products li.product.list {
+            padding-left: 293px
+        }
+
+        ul.products li.product.list .product-thumbnail {
+            margin-left: -293px
+        }
+
+        .widget.widget_onsale li,
+        .widget.widget_best_sellers li,
+        .widget.widget_recent_reviews li,
+        .widget.widget_recent_products li,
+        .widget.widget_random_products li,
+        .widget.widget_featured_products li,
+        .widget.widget_top_rated_products li,
+        .widget.widget_recently_viewed_products li {
+            min-height: 100px
+        }
+
+        .widget.widget_onsale li .star-rating,
+        .widget.widget_best_sellers li .star-rating,
+        .widget.widget_recent_reviews li .star-rating,
+        .widget.widget_recent_products li .star-rating,
+        .widget.widget_random_products li .star-rating,
+        .widget.widget_featured_products li .star-rating,
+        .widget.widget_top_rated_products li .star-rating,
+        .widget.widget_recently_viewed_products li .star-rating {
+            margin-left: 115px
+        }
+
+            /* IE8, Portrait tablet to landscape and desktop till 1024px */
+        .single-product div.images {
+            width: 50.804597701149%;
+        }
+
+        .single-product div.summary {
+            width: 42.666666666667%;
+        }
+
+            /* WooCommerce standard images */
+        .single-product .images .thumbnails > a {
+            width: 80px !important;
+            height: 80px !important;
+        }
+
+            /* Slider images */
+        .single-product .images .thumbnails li img {
+            max-width: 80px !important;
+        }
+
+            /* Desktop above 1200px */
+        @media (min-width:1200px) {
+                    .single-product div.images .yith_magnifier_zoom_wrap a img,
+            .single-product div.images > a img {
+                width: 462px;
+                height: px;
+            }
+
+                    /* WooCommerce standard images */
+            .single-product .images .thumbnails > a {
+                width: 100px !important;
+                height: 100px !important;
+            }
+
+            /* Slider images */
+            .single-product .images .thumbnails li img {
+                max-width: 100px !important;
+            }
+        }
+
+            /* Desktop above 1200px */
+        @media (max-width: 979px) and (min-width: 768px) {
+            /* WooCommerce standard images */
+            .single-product .images .thumbnails > a {
+                width: 63px !important;
+                height: 63px !important;
+            }
+
+            /* Slider images */
+            .single-product .images .thumbnails li img {
+                max-width: 63px !important;
+            }
+        }
+
+                    /* Below 767px, mobiles included */
+        @media (max-width: 767px) {
+            .single-product div.images,
+            .single-product div.summary {
+                float: none;
+                margin-left: 0px !important;
+                width: 100% !important;
+            }
+
+            .single-product div.images {
+                margin-bottom: 20px;
+            }
+
+            /* WooCommerce standard images */
+            .single-product .images .thumbnails > a {
+                width: 65px !important;
+                height: 65px !important;
+            }
+
+            /* Slider images */
+            .single-product .images .thumbnails li img {
+                max-width: 65px !important;
+            }
+        }
+
+            </style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+<!-- END HEAD -->
+<!-- START BODY -->
+<body class="product-template-default single single-product postid-2080 no_js responsive stretched woocommerce woocommerce-page woocommerce-no-js">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120625751-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120625751-4');
+</script>
+
+    
+    <!-- START BG SHADOW -->
+    <div class="bg-shadow">
+    
+                <!-- START WRAPPER -->
+        <div id="wrapper" class="container group">
+        	
+              
+
+<!-- START TOP BAR -->
+<div id="topbar" class="hidden-phone">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div id="topbar-left"></div>
+				<div id="topbar-right">
+
+<div class="topbar_login widget ">
+<a href="https://bitindigi.com/my-account/">Login <span> / </span> Register</a></div>
+
+
+<div class="hide-topbar " style="display: inline;">
+    <div id="nav_menu-2" class="widget-1 widget-first widget widget_nav_menu"><div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-577"><a href="https://bitindigi.com/wishlist/">MY WISHLIST</a></li>
+<li id="menu-item-1747" class="yith-woocompare-open menu-item menu-item-type-custom menu-item-object-custom menu-item-1747"><a href="#">COMPARE</a></li>
+</ul></div></div></div>
+</div>
+			</div>
+		</div>
+
+		<div class="border"></div>
+		<div class="border"></div>
+		<div class="border"></div>
+		<div class="border borderstrong"></div>
+	</div>
+</div>
+
+
+<script>
+jQuery(function($){
+	var twitterSlider = function(){
+		$('#topbar .last-tweets ul').addClass('slides');
+		$('#topbar .last-tweets').flexslider({
+			animation: "fade",
+			slideshowSpeed: 5 * 1000,
+			animationDuration: 700,
+			directionNav: false,
+			controlNav: false,
+			keyboardNav: false
+		});
+	};
+	$('#topbar .last-tweets > div').bind('tweetable_loaded', function(){
+		twitterSlider();
+	});
+}); 
+</script>
+
+<!-- END TOP BAR -->
+            <!-- START HEADER -->
+            <div id="header" class="group margin-bottom">
+                
+<div class="group container">               
+	
+    <div class="row" id="logo-headersidebar-container">            
+    	
+        <!-- START LOGO -->
+    	<div id="logo" class="group">
+    	    
+<a id="textual" href="https://bitindigi.com" title="Bit In Digital">
+    Bit In Digital</a>
+
+ 
+    	</div>
+    	<!-- END LOGO -->
+    	<div id="header-cart-search">
+        <div class="cart-row group">
+        
+                        
+            <div class="cart-items cart-items-icon">
+                <span class="cart-items-number">0</span>
+                <span class="cart-items-label">Items</span>
+            </div>
+
+            <div class="cart-subtotal">
+                                                            <span class="cart-subtotal-currency">&#36;</span>
+                                        <span class="cart-subtotal-integer">0</span>
+                    <span class="cart-subtotal-decimal">00</span>
+                                                </div>
+
+                            <div class="widget woocommerce widget_shopping_cart"><div class="border-1 border"><div class="border-2 border"><h2 class="widgettitle">Cart</h2>				<a href="https://bitindigi.com/cart/" class="cart_control" style="display: none;">View Cart</a>
+            	<a class="cart_control cart_control_empty">Empty Cart</a>
+					<div class="cart_wrapper">
+		<div class=""><div class="widget_shopping_cart_content">
+					<ul class="cart_list product_list_widget">
+					   <li class="empty">No products in the cart.</li>
+					</ul>
+				  </div></div>			</div><!-- .cart_wrapper -->
+
+			<script type="text/javascript">
+			jQuery(document).ready(function($){
+				$(document).on('click', '.cart_control', function(e){
+					//e.preventDefault();
+				});
+
+				$(document).on('hover', '.cart_control', function(){
+					$(this).next('.cart_wrapper').slideDown();
+				}).on('mouseleave', '.cart_control', function(){
+					$(this).next('.cart_wrapper').delay(500).slideUp();
+				});
+
+
+			    $(document).on('mouseenter', '.cart_wrapper', function(){ $(this).stop(true,true).show() });
+                $(document).on('mouseleave', '.cart_wrapper', function(){ $(this).delay(500).slideUp() });
+			});
+			</script>
+			</div></div></div>                            </div>
+        					<div class="widget widget_search_mini">
+		<form action="https://bitindigi.com/" method="get" class="search_mini">
+			<input type="text" name="s" id="search_mini" value="" placeholder="search for products" />
+			<input type="hidden" name="post_type" value="product" />
+            <input type="submit" value="" id="mini-search-submit" />
+		</form>
+
+</div>			
+	</div>	<!-- START HEADER SIDEBAR -->
+	<div id="header-sidebar" class="group">                                                     
+		<div id="text-image-2" class="widget-1 widget-first widget text-image"><div class="text-image" style="text-align:left"><img src="https://bitindigi.com/wp-content/uploads/2013/01/email2.png" alt="" width="17" height="12" /></div><h3>Any Question?</h3>
+<a href="/cdn-cgi/l/email-protection#4e3d3b3e3e213c3a0e2c273a27202a272927602d21236e3a2f3c292b3a73" _top"><p><span class="__cf_email__" data-cfemail="a4f7d1d4d4cbd6d0e4c6cdd0cdcac0cdc3cd8ac7cbc9">[email&#160;protected]</span></p></a></div><div id="text-image-3" class="widget-2 widget text-image"><div class="text-image" style="text-align:left"><a href="https://twitter.com/Bitindigi"><img src="https://bitindigi.com/wp-content/uploads/2018/11/twitter-logo-transparent-small-150x150-e1543186198975.png" alt="" width="30" height="30" /></a></div><font color="red"><h3>Follow us on Twitter</h3></font>
+<p>For Discount Coupons</p></div><div id="text-2" class="widget-3 widget-last widget widget_text">			<div class="textwidget"><font color="red">Flat Rate World Wide Express Shipping </font></div>
+		</div>	</div> 
+           
+    </div>
+</div>       
+    	
+<div id="nav">
+    <div class="container">
+    	<ul id="menu-menu" class="level-1"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-children-0"><a href="https://bitindigi.com/">HOME</a></li>
+<li id="menu-item-402" class="megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current_page_parent dropdown menu-item-children-2"><a href="https://bitindigi.com/shop/">SHOP BY</a>
+<ul class="sub-menu">
+	<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-children-5"><a href="#">CATEGORY</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a title="Mining Devices" href="https://bitindigi.com/product-category/crypto-mining/">Mining Devices</a></li>
+		<li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-children-0"><a href="https://bitindigi.com/product-category/smart-phones/">Smart Phones</a></li>
+		<li id="menu-item-428" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-children-0"><a href="https://bitindigi.com/product-category/computers/">Computers</a></li>
+		<li id="menu-item-426" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-children-0"><a href="https://bitindigi.com/product-category/tablets/">Tablets</a></li>
+		<li id="menu-item-427" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-children-0"><a href="https://bitindigi.com/product-category/accessories/">Accessories</a></li>
+	</ul>
+</li>
+	<li id="menu-item-405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-children-5"><a href="#">PRICE</a>
+	<ul class="sub-menu">
+		<li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="https://bitindigi.com/shop/?max_price=200&amp;min_price=100">100 &#8211; 200 $</a></li>
+		<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="https://bitindigi.com/shop/?max_price=400&amp;min_price=200">200 &#8211; 400 $</a></li>
+		<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="https://bitindigi.com/shop/?max_price=600&amp;min_price=400">400 &#8211; 600 $</a></li>
+		<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="https://bitindigi.com/shop/?max_price=800&amp;min_price=600">600 &#8211; 800 $</a></li>
+		<li id="menu-item-417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="https://bitindigi.com/shop/?max_price=andup&amp;min_price=800">800 $ and up</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1816" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="https://bitindigi.com/blog/section/">Blog</a></li>
+<li id="menu-item-831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="https://bitindigi.com/faqs/">FAQ</a></li>
+<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="https://bitindigi.com/contact/">CONTACT</a></li>
+<li id="menu-item-1795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="https://bitindigi.com/about/">About</a></li>
+</ul>    </div>
+	<div class="border borderstrong borderpadding container"></div>
+	<div class="border container"></div>
+	<div class="border container"></div>
+	<div class="border container"></div>
+</div>
+
+            </div>
+            <!-- END HEADER -->
+              
+    	
+<div id="primary" class="sidebar-right product clearfix">
+	<div class="container group">
+		<div class="row">
+			<!-- START PAGE META -->
+<div id="page-meta" class="group span12">
+    
+	
+            <!-- BREDCRUMB -->
+        <div class="breadcrumbs">
+            <nav class="woocommerce-breadcrumb"><a href="https://bitindigi.com">Home</a>&nbsp;&#47;&nbsp;<a href="https://bitindigi.com/shop/">Shop</a>&nbsp;&#47;&nbsp;<a href="https://bitindigi.com/product-category/uncategorized/">Uncategorized</a>&nbsp;&#47;&nbsp;Spondoolies SPx36</nav>        </div>
+    
+	</div>
+<!-- END PAGE META -->			<!-- START CONTENT -->
+							<div id="content-shop" class="span9 content group">
+			    
+        <div itemscope itemtype="http://schema.org/Product" id="product-2080" class="post-2080 product type-product status-publish has-post-thumbnail product_cat-uncategorized product_tag-mining product_tag-spondoolies first instock sale taxable shipping-taxable purchasable product-type-simple">
+    		    
+    			<div class="woocommerce-notices-wrapper"></div><div id="product-2080" class="post-2080 product type-product status-publish has-post-thumbnail product_cat-uncategorized product_tag-mining product_tag-spondoolies instock sale taxable shipping-taxable purchasable product-type-simple">
+
+	<img src="https://bitindigi.com/wp-content/themes/bazar/woocommerce/images/bullets/sale.png" alt="On sale!" class="onsale yit-image" /><div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo-100x36.png" class="woocommerce-product-gallery__image"><a href="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png"><img width="462" height="166" src="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo-462x166.png" class="wp-post-image" alt="" title="QD-SPX36_with-logo" data-caption="" data-src="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png" data-large_image="https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png" data-large_image_width="3560" data-large_image_height="1278" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		
+
+<h1 itemprop="name" class="product_title entry-title">Spondoolies SPx36</h1>
+<div class="border borderstrong"></div>
+<div class="border"></div>
+<div class="border"></div>
+<div class="border"></div>
+<div class="woocommerce-product-details__short-description">
+	<p>Model <b>SPx36 </b>from <b>Spondoolies </b>mining <b>X11 algorithm </b>with a maximum hash rate of <b>540Gh/s </b>for a power consumption of <b>4400W.</b></p>
+</div>
+<div class="product_meta">
+
+	
+	
+	<span class="posted_in">Category: <a href="https://bitindigi.com/product-category/uncategorized/" rel="tag">Uncategorized</a></span>
+	<span class="tagged_as">Tags: <a href="https://bitindigi.com/product-tag/mining/" rel="tag">mining</a>, <a href="https://bitindigi.com/product-tag/spondoolies/" rel="tag">Spondoolies</a></span>
+	
+</div>
+	</div>
+
+	
+	<div class="woocommerce-tabs">
+		<ul class="tabs">
+			
+				<li class="description_tab">
+					<a href="#tab-description">Description</a>
+				</li>
+
+			
+				<li class="reviews_tab">
+					<a href="#tab-reviews">Reviews (0)</a>
+				</li>
+
+					</ul>
+		
+			<div class="panel entry-content" id="tab-description">
+				
+		
+					<h2>Product Description</h2>
+		
+		<div class="row">
+<div class="col-sm-8">
+<h2>Spondoolies SPx36 Specifications</h2>
+<table class="table table-striped">
+<tbody>
+<tr>
+<th scope="row">Manufacturer</th>
+<td>Spondoolies</td>
+</tr>
+<tr>
+<th scope="row">Model</th>
+<td>SPx36</td>
+</tr>
+<tr>
+<th scope="row">Release</th>
+<td>September 2018</td>
+</tr>
+<tr>
+<th scope="row">Size</th>
+<td>595 x 434 x 88mm</td>
+</tr>
+<tr>
+<th scope="row">Weight</th>
+<td>19500g</td>
+</tr>
+<tr>
+<th scope="row">Chip count</th>
+<td>150</td>
+</tr>
+<tr>
+<th scope="row">Noise level</th>
+<td>75db</td>
+</tr>
+<tr>
+<th scope="row">Fan(s)</th>
+<td>4</td>
+</tr>
+<tr>
+<th scope="row">Power</th>
+<td>4400W</td>
+</tr>
+<tr>
+<th scope="row">Rack format</th>
+<td>2U</td>
+</tr>
+<tr>
+<th scope="row">Interface</th>
+<td>Ethernet</td>
+</tr>
+<tr>
+<th scope="row">Temperature</th>
+<td>5 &#8211; 35 °C</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="col-sm-4">
+<div class="hidden-xs hidden-sm text-center"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<h2>Minable coins</h2>
+<div>
+<div>
+<div class="image-wrap"><img class="img-responsive" style="box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto;" title="" src="https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516919736/lvtsq7006oz4q45s22r0.png" data-toggle="tooltip" data-placement="bottom" data-html="true" data-original-title="&lt;b&gt;MonetaryUnit&lt;/b&gt; (MUE)&lt;br/&gt;&lt;i&gt;X11&lt;/i&gt;" /></div>
+</div>
+<div>
+<div class="image-wrap"><img class="img-responsive" style="box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto;" title="" src="https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516919912/gulf9wt1yqfgu5skk7re.png" data-toggle="tooltip" data-placement="bottom" data-html="true" data-original-title="&lt;b&gt;CannabisCoin&lt;/b&gt; (CANN)&lt;br/&gt;&lt;i&gt;X11&lt;/i&gt;" /></div>
+</div>
+<div>
+<div class="image-wrap"><img class="img-responsive" style="box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto;" title="" src="https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516919791/qkdhmyegotgos5er23gd.png" data-toggle="tooltip" data-placement="bottom" data-html="true" data-original-title="&lt;b&gt;Dash&lt;/b&gt; (DASH)&lt;br/&gt;&lt;i&gt;X11&lt;/i&gt;" /></div>
+</div>
+<div>
+<div class="image-wrap"><img class="img-responsive" style="box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto;" title="" src="https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516921529/kdxkyjerxq5ndma6ebsu.png" data-toggle="tooltip" data-placement="bottom" data-html="true" data-original-title="&lt;b&gt;DigitalpriceClassic&lt;/b&gt; (DPC)&lt;br/&gt;&lt;i&gt;X11&lt;/i&gt;" /></div>
+</div>
+<div>
+<div class="image-wrap"><img class="img-responsive" style="box-sizing: border-box; vertical-align: middle; border: 0px; display: block; max-width: 100%; height: auto;" title="" src="https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516921820/hgrexpevafa6vk9uqrwm.png" data-toggle="tooltip" data-placement="bottom" data-html="true" data-original-title="&lt;b&gt;Onix&lt;/b&gt; (ONX)&lt;br/&gt;&lt;i&gt;X11&lt;/i&gt;" /></div>
+</div>
+</div>
+</div>
+</div>
+
+			</div>
+
+		
+			<div class="panel entry-content" id="tab-reviews">
+				<div id="reviews"><div id="comments"><h2>Reviews</h2><p class="noreviews">There are no reviews yet</p></div><p class="add_review">Would you like to <a href="#review_form" class="inline show_review_form">submit yours</a>?</p><div id="review_form_wrapper"><div id="review_form">	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Be the first to review &ldquo;Spondoolies SPx36&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/shop/spondoolies-spx36/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://bitindigi.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<div class="row"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-rating"><label for="rating">Rating</label><select name="rating" id="rating">
+			<option value="">Rate&hellip;</option>
+			<option value="5">Perfect</option>
+			<option value="4">Good</option>
+			<option value="3">Average</option>
+			<option value="2">Not that bad</option>
+			<option value="1">Very Poor</option>
+		</select></p><p class="comment-form-comment"><label for="comment">Your Review</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="YOUR REVIEW"></textarea></p><input type="hidden" id="_wpnonce" name="_wpnonce" value="d1c29e7f79" /><input type="hidden" name="_wp_http_referer" value="/shop/spondoolies-spx36/" /><p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required="true" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required="true" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit Review" /> <input type='hidden' name='comment_post_ID' value='2080' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></div>			</form>
+			</div><!-- #respond -->
+	</div></div><div class="clear"></div></div>
+			</div>
+
+			</div>
+
+</div>
+
+    
+    		        </div><!-- #product-2080 -->
+      
+    
+    	
+</div>       
+    	    <!-- START SIDEBAR -->
+    <div id="sidebar-default-sidebar" class="span3 sidebar group">
+         
+<div class="product-box group">
+    <div class="border group">
+        
+        <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+
+	<p class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>6,000.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>4,500.00</span></ins></p>
+
+	<meta itemprop="price" content="4500" />
+	<meta itemprop="priceCurrency" content="USD" />
+	<link itemprop="availability" href="http://schema.org/InStock" />
+
+</div>
+<p class="stock in-stock">19 in stock</p>
+
+
+	
+	<form class="cart" method="post" enctype='multipart/form-data'>
+
+	 	
+	 	
+	 			<label>Quantity</label>	<div class="quantity">
+		<label class="screen-reader-text" for="quantity_5c7c161f529af">Quantity</label>
+		<input
+			type="number"
+			id="quantity_5c7c161f529af"
+			class="input-text qty text"
+			step="1"
+			min="1"
+			max="19"
+			name="quantity"
+			value="1"
+			title="Qty"
+			size="4"
+			pattern="[0-9]*"
+			inputmode="numeric"
+			aria-labelledby="Spondoolies SPx36 quantity" />
+	</div>
+	
+        <input type="hidden" name="add-to-cart" value="2080" />
+
+	 	<button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
+
+	 	
+	</form>
+
+    <div class="clear"></div>
+
+	
+        
+        <div class="border borderstrong"></div>
+        <div class="border"></div>
+        <div class="border"></div>
+        <div class="border"></div>
+        
+        <div class="buttons buttons_1 group"> 
+            
+
+<a href="#" class="yit_share share">Share</a>
+        </div>
+    
+    </div>
+</div>
+
+            <div class="product-share"><div class="socials"><h2>Share on: </h2><div class="socials-default-small facebook-small default">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F&t=Spondoolies+SPx36" class="socials-default-small default facebook" target="_blank">facebook</a>
+</div>
+<div class="socials-default-small twitter-small default">
+<a href="https://twitter.com/share?url=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F&text=Spondoolies+SPx36" class="socials-default-small default twitter" target="_blank">twitter</a>
+</div>
+<div class="socials-default-small google-small default">
+<a href="https://plusone.google.com/_/+1/confirm?hl=en&url=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F&title=Spondoolies+SPx36" class="socials-default-small default google" target="_blank">google</a>
+</div>
+<div class="socials-default-small pinterest-small default">
+<a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fbitindigi.com%2Fshop%2Fspondoolies-spx36%2F&media=https://bitindigi.com/wp-content/uploads/2018/11/QD-SPX36_with-logo.png&description=Model%C2%A0SPx36%C2%A0from%C2%A0Spondoolies%C2%A0mining%C2%A0X11+algorithm%C2%A0with+a+maximum+hash+rate+of%C2%A0540Gh%2Fs%C2%A0for+a+power+consumption+of%C2%A04400W." class="socials-default-small default pinterest" target="_blank">pinterest</a>
+</div>
+</div></div>
+    <div id="search-2" class="widget-1 widget-first widget widget_search"><form role="search" method="get" id="searchform" action="https://bitindigi.com/">
+    <div>
+        <input type="text" value="" name="s" id="s" placeholder="Search for..." />
+        <input type="submit" id="searchsubmit" value="Search" />
+                <input type="hidden" name="post_type[]" value="post" />
+            </div>
+</form></div><div id="recent-posts-2" class="widget-2 widget recent-posts">
+<div class="recent-post group">
+<div class="hentry-post group">
+    <div class="thumb-img"><img src="https://bitindigi.com/wp-content/uploads/2018/03/Pic_EV-charging-payment_Nayuta-e1520364990534-860x430-75x75.jpg" alt="Japan Lightining" title="Pic_EV-charging-payment_Nayuta-e1520364990534-860x430" class="yit-image attachment-blog_thumb" width="75" height="75" /></div>
+<div class="text"><a href="https://bitindigi.com/2018/03/13/japans-third-largest-electric-provider-is-testing-bitcoin-on-lightning/" title="Japan&#8217;s Third-Largest Electric Provider Is Testing Bitcoin On Lightning" class="title">Japan&#8217;s Third-Largest Electric Provider Is Testing Bitcoin On Lightning</a><span class="posted_by">posted by <a href="https://bitindigi.com/author/john/">john</a></span></div>
+</div>
+<div class="hentry-post group">
+    <div class="thumb-img"><img src="https://bitindigi.com/wp-content/uploads/2018/03/homepod-shot-6c-75x75.jpg" alt="Homepod review" title="homepod-shot-6c" class="yit-image attachment-blog_thumb" width="75" height="75" /></div>
+<div class="text"><a href="https://bitindigi.com/2018/03/06/homepod-review-stop-look-and-listen/" title="HomePod review: Stop, Look, and Listen" class="title">HomePod review: Stop, Look, and Listen</a><span class="posted_by">posted by <a href="https://bitindigi.com/author/john/">john</a></span></div>
+</div>
+</div></div><div id="recent-comments-2" class="widget-3 widget recent-comments"><h3 class="widget-title">Recent comments</h3><div class="recent-comments group"></div></div><div id="archives-2" class="widget-4 widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='https://bitindigi.com/2018/03/'>March 2018</a></li>
+		</ul>
+		</div><div id="categories-2" class="widget-5 widget-last widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-8"><a href="https://bitindigi.com/category/accessories/" >Accessories</a>
+</li>
+	<li class="cat-item cat-item-142"><a href="https://bitindigi.com/category/cryptocurrency/" >Cryptocurrency</a>
+</li>
+		</ul>
+</div>    </div>
+    <!-- END SIDEBAR -->
+    
+            <div class="product-extra span9">
+                 
+            </div>
+    
+        </div>    
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+			jQuery(document).ready(function($){
+					woo_update_total_compare_list = function(){
+						var data = {
+							action: 		"woocp_update_total_compare",
+							security: 		"a32b7f50e2"
+						};
+						$.post( ajax_url, data, function(response) {
+							total_compare = $.parseJSON( response );
+							$("#total_compare_product").html("("+total_compare+")");
+                            $(".woo_compare_button_go").trigger("click");
+    					});
+					};
+
+				});
+			</script>                         
+    
+            
+<!-- START COPYRIGHT -->
+<div id="copyright">
+	
+	<div class="border borderstrong borderpadding container"></div>
+	<div class="border container"></div>
+	<div class="border container"></div>
+	<div class="border container"></div>
+	
+    <div class="container">
+        <div class="row">
+                <div class="left span6">
+        <p>Copyright <a href="https://bitindigi.com"><strong>Bit In Digital</strong></a> 2018</p>
+    </div>
+        <div class="right span6">
+            </div>
+            </div>
+    </div>
+</div>
+<!-- END COPYRIGHT -->
+            
+        </div>
+        <!-- END WRAPPER -->
+                
+        
+    </div>
+    <!-- END BG SHADOW -->
+    
+        <script type="text/javascript">
+        var elastislide_defaults = {
+            imageW              : "100%",
+            border              : 0,
+            margin              : 0,
+            preventDefaultEvents: false,
+            infinite            : true,
+            slideshowSpeed      : 3500
+        };
+
+        var carouFredSelOptions_defaults = {
+            responsive: false,
+            auto      : true,
+            items     : 3,
+            circular  : true,
+            infinite  : true,
+            debug     : false,
+            prev      : '.es-nav .es-nav-prev',
+            next      : '.es-nav .es-nav-next',
+            swipe     : {
+                onTouch: false
+            },
+            scroll    : {
+                items       : 1,
+                pauseOnHover: true
+            }
+        };
+
+
+    </script>
+<!-- START GOOGLE ANALYTICS -->  <!-- END GOOGLE ANALYTICS --><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/bitindigi.com"}},{"@type":"ListItem","position":2,"item":{"name":"Shop","@id":"https:\/\/bitindigi.com\/shop\/"}},{"@type":"ListItem","position":3,"item":{"name":"Uncategorized","@id":"https:\/\/bitindigi.com\/product-category\/uncategorized\/"}},{"@type":"ListItem","position":4,"item":{"name":"Spondoolies SPx36","@id":"https:\/\/bitindigi.com\/shop\/spondoolies-spx36\/"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/bitindigi.com\/shop\/spondoolies-spx36\/#product","name":"Spondoolies SPx36","image":"https:\/\/bitindigi.com\/wp-content\/uploads\/2018\/11\/QD-SPX36_with-logo.png","description":"&lt;p&gt;Model\u00a0&lt;b&gt;SPx36\u00a0&lt;\/b&gt;from\u00a0&lt;b&gt;Spondoolies\u00a0&lt;\/b&gt;mining\u00a0&lt;b&gt;X11 algorithm\u00a0&lt;\/b&gt;with a maximum hash rate of\u00a0&lt;b&gt;540Gh\/s\u00a0&lt;\/b&gt;for a power consumption of\u00a0&lt;b&gt;4400W.&lt;\/b&gt;&lt;\/p&gt;\n","sku":"","offers":[{"@type":"Offer","price":"4500.00","priceSpecification":{"price":"4500.00","priceCurrency":"USD","valueAddedTaxIncluded":"false"},"priceCurrency":"USD","availability":"https:\/\/schema.org\/InStock","url":"https:\/\/bitindigi.com\/shop\/spondoolies-spx36\/","seller":{"@type":"Organization","name":"Bit In Digital","url":"https:\/\/bitindigi.com"}}]}]}</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<!-- CUSTOM SCRIPT --><!-- END CUSTOM SCRIPT --><script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/bitindigi.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/jquery.commonlibraries.js?ver=1.1'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/yit/jquery.layout.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var l10n_handler = {"map_close":"[x] Close","map_open":"[x] Open"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/js/jquery.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/bitindigi.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.5'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.1'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=3.5.5'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a06228cb754c12c572c09615eb64e2ab","fragment_name":"wc_fragments_a06228cb754c12c572c09615eb64e2ab"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.5'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/plugins/yith-woocommerce-social-login/assets/js/frontend.min.js?ver=1.2.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/js/responsive.js?ver=1.0'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/core/assets/js/twitter-text.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/core/assets/js/jquery.cycle.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/core/assets/js/shortcodes.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/shortcodes.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/widgets.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/core/assets/js/jq-cookie.js?ver=4.9.9'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/woocommerce_2.3.js?ver=1.0'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/theme/assets/js/woocommerce.js?ver=1.0'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//bitindigi.com/wp-content/themes/bazar/js/jquery.ui.touch-punch-min.js'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://bitindigi.com/wp-content/themes/bazar/theme/assets/js/jquery.elastislide.js?ver=4.9.9'></script>
+ 
+</body>
+<!-- END BODY -->
+</html>
+<!-- Dynamic page generated in 0.300 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-03-03 12:59:59 -->
+
+<!-- super cache -->

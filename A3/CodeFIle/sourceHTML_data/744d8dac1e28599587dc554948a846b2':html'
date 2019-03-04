@@ -1,0 +1,2082 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5QB8FZQ');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    
+    
+    
+    <!-- Required Meta Tags Always Come First -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <meta name="description" content="Details are slowly trickling out on Iran’s new, state-issued and gold-backed crypto the PayMon. The stablecoin is based on XLM and will be traded by special offices, although it is still uncertain how or if it will be redeemable for gold upon request.">
+    <meta name="keywords" content="iran, paymon, gold, sanctions, us">
+    <meta name="author" content="CryptoGlobe">
+    <title>Details Emerge on Iran’s XLM-Based Gold-Backed Crypto | CryptoGlobe</title>
+    <link rel="amphtml" href="https://www.cryptoglobe.com/latest/2019/02/details-emerge-on-irans-xlm-based-gold-backed-crypto/?amp=yes" />
+
+    <!-- Bing validation -->
+    <meta name="msvalidate.01" content="ADAB10FFFA89B679168C09C24936A027" />
+
+    <!-- Google validation -->
+    <meta name="google-site-verification" content="TEq7Cw4Sw3iJQwvS3-mkCakec4HYITEy-8_cBGmnuTA" />
+
+    <!-- canonical url -->
+    <link rel="canonical" href="//www.cryptoglobe.com/latest/2019/02/details-emerge-on-irans-xlm-based-gold-backed-crypto/">
+
+    
+    
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="CryptoGlobe.com latest articles" href="/latest/feed/" />
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.cryptoglobe.com/apple-touch-icon.9d50df8de0f6.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://static.cryptoglobe.com/favicon-32x32.3f3bec5c33c8.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://static.cryptoglobe.com/favicon-16x16.4481473359f0.png">
+    <link rel="manifest" href="https://static.cryptoglobe.com/site.3ccd3286848d.webmanifest">
+    <link rel="mask-icon" href="https://static.cryptoglobe.com/safari-pinned-tab.3a04edeb1afa.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://static.cryptoglobe.com/favicon.52b537124d4c.ico">
+    <meta name="msapplication-config" content="https://static.cryptoglobe.com/browserconfig.a493ba0aa0b8.xml">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#000000">
+
+    <!-- Open Graph tags -->
+    <meta property="og:title" content='Details Emerge on Iran’s XLM-Based Gold-Backed Crypto | CryptoGlobe ' />
+    <meta property="og:type" content='website' />
+    <meta property="og:site_name" content="CryptoGlobe" />
+    <meta property="og:description" content='Details are slowly trickling out on Iran’s new, state-issued and gold-backed crypto the PayMon. The stablecoin is based on XLM and will be traded by special offices, although it is still uncertain how or if it will be redeemable for gold upon request.' />
+    <meta property="og:url" content="https://www.cryptoglobe.com/latest/2019/02/details-emerge-on-irans-xlm-based-gold-backed-crypto/" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@CryptoGlobeNews" />
+    <meta name="twitter:title" content='Details Emerge on Iran’s XLM-Based Gold-Backed Crypto | CryptoGlobe ' />
+    <meta name="twitter:description" content='Details are slowly trickling out on Iran’s new, state-issued and gold-backed crypto the PayMon. The stablecoin is based on XLM and will be traded by special offices, although it is still uncertain how or if it will be redeemable for gold upon request.' />
+
+    
+        <meta property="og:image" content="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ed/43/ed43d958-e30e-47f5-bb8a-c6f87c18dfab/iran2.png__180x110_q85_crop_subsampling-2.jpg" /> <!-- 180x110 Image for Linkedin -->
+        <meta property="og:image:width" content="180" />
+        <meta property="og:image:height" content="110" />
+
+        <meta property="og:image" content="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ed/43/ed43d958-e30e-47f5-bb8a-c6f87c18dfab/iran2.png__1200x800_q85_crop_subsampling-2.jpg" /> <!-- 600x315 Image for Facebook -->
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="800" />
+    
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Bitter|Open+Sans" rel="stylesheet">
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/bootstrap/bootstrap.min.3ffbab350748.css">
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/font-awesome/css/fontawesome-all.min.6c50f5ec4599.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/icon-line/css/simple-line-icons.1edcd7ccb77b.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/icon-line-pro/style.f3130c5068e5.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/icon-hs/style.0f4858e9746e.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/dzsparallaxer/dzsparallaxer.c9202a5d24dd.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/dzsparallaxer/dzsscroller/scroller.fdf25730a061.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/dzsparallaxer/advancedscroller/plugin.9a5d9b64ecc8.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/animate.682576a58c48.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/hs-megamenu/src/hs.megamenu.5ee4f26b09f4.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/hamburgers/hamburgers.min.f8073e0422b1.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/slick-carousel/slick/slick.88b2daf9da57.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/fancybox/jquery.fancybox.2c2dbc5af7c8.css">
+
+    <!-- CSS Unify Theme -->
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/css/styles.bm-classic.526ad4cfa135.css">
+
+    <!-- CSS Unify -->
+    <!-- <link rel="stylesheet" href="https://static.cryptoglobe.com/css/unify-core.9788de3c5eba.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/css/unify-components.aa0891e85de6.css">
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/css/unify-globals.a927e383417d.css"> -->
+
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/cryptoglobe/css/custom.abfab61212d2.css?ve=1011"> 
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <!-- Coinzilla head tags for pre-header ad -->
+<script src="https://serve.czilladx.com/serve/jslib/header.js"></script>
+<script>window.coinzilla_header = window.coinzilla_header || [];function czilla(){coinzilla_header.push(arguments);}czilla('145495bd0449382a8b');</script>
+
+<!-- Coinzilla head tags for other ads -->
+<!--<script async src="https://serve.czilladx.com/serve/jslib/fb.js"></script>-->
+<script async src="https://coinzillatag.com/lib/display.js"></script>
+
+    <!-- Cointraffic head tags -->
+<script async src="https://appsha1.cointraffic.io/js/?wkey=IHa765"></script>
+
+
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114030304-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-114030304-1');
+    </script>
+    
+
+    
+    <!-- Google Adsense, Admanager -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+             google_ad_client: "ca-pub-7588548779094594",
+             enable_page_level_ads: true
+        });
+    </script>
+    
+
+</head>
+
+<body class=" g-bg-gray-light-v6">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QB8FZQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <main>
+        <!-- Page created at: 3rd March 2019 18:15:08 -->
+        <!--<div id="pre-header"></div>-->
+        
+<!-- Header -->
+<header id="js-header" class="u-header">
+    <!-- Top Bar -->
+    <div class="u-header__section u-header__section--dark g-bg-custom-black g-transition-0_3">
+        <nav class="js-mega-menu navbar navbar-expand-lg g-px-0">
+            <div class="container g-px-0">
+                <a href="/" class="navbar-brand">
+                    <img src="https://static.cryptoglobe.com/cryptoglobe/img/logo-dark-160.05f1fb981cdb.png" alt="CryptoGlobe" width="160px;">
+                </a>
+
+                <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg" id="navBar">
+                    <ul id="js-scroll-nav" class="navbar-nav text-uppercase g-font-weight-600">
+                        
+                            <!-- Menu links created at: 3rd March 2019 18:14:47 -->
+                            
+<li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl ">
+    <form action="/search" method="get"
+          class="input-group rounded search-box-collapsed">
+        <input class="form-control g-font-weight-400 g-font-size-13 g-px-20"
+               name="q" type="text" onfocus="this.value=''" placeholder="Type to search..." value="">
+        <span class="input-group-append g-brd-none g-py-0 g-pr-0">
+                        <button class="btn btn-search g-font-weight-600 g-font-size-13 text-uppercase g-px-20"
+                                type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        </span>
+    </form>
+    <!-- End Mega Menu -->
+</li>
+
+    
+        <li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl  active">
+            <a id="nav-link--home"
+               class="nav-link text-uppercase text-center g-color-primary--hover g-px-0 link-submenu"
+               href="/latest/" aria-haspopup="true" aria-expanded="false"
+               aria-controls="nav-submenu--home">Latest
+                <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-3"></i>
+            </a>
+            <!-- Mega Menu -->
+            <div class="hs-mega-menu g-bg-custom-black g-color-white g-text-transform-none g-left-0 g-right-0 g-font-weight-400 g-brd-top g-brd-primary g-brd-top-custom g-brd-top-2 g-pa-30 g-mt-7--lg--scrolling animated hs-position-right fadeOut"
+                 aria-labelledby="mega-menu-label-1" style="display: none;">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <ul class="list-unstyled mb-0">
+                            
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/bitcoin/">Bitcoin</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/ethereum/">Ethereum</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/altcoins/">Altcoins</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/blockchain/">Blockchain</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/business/">Business</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/regulation/">Regulation</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/ico/">ICO</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/security/">Crypto Security</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/latest/press-releases/">Press Releases</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/blockstream-release-new-lightning-network-ln-software-with-improved-performance-better-documentation/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/40/4b/404bc8be-6e9d-4425-bb36-25ab7eaf7323/lightning_network.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/blockstream-release-new-lightning-network-ln-software-with-improved-performance-better-documentation/">Blockstream Releases New Lightning Network Software with Improved Performance, Documentation</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/tron-trx-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/58/71/5871dbf2-fc3b-4b8d-91d1-2b72fd21c4d1/trx_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/tron-trx-long-term-price-analysis-march-3/">Tron (TRX) Long-term Price Analysis – March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/xrp-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/51/c9/51c9a3f9-29a2-47e5-86ed-761c63e8add1/xrp_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/xrp-long-term-price-analysis-march-3/">XRP Long-term Price Analysis - March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/bitcoin-btc-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/3c/4b/3c4b4e8c-949e-4f12-a6b2-c9dd1bdad178/bitcoin_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/bitcoin-btc-long-term-price-analysis-march-3/">Bitcoin (BTC) Long-term Price Analysis – March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/crypto-investment-firm-circle-seeking-250-million-in-additional-capital-ahead-of-possible-ipo/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/32/77/32779d67-45ab-4236-8b1b-bde784895cf8/crypto_investment.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/crypto-investment-firm-circle-seeking-250-million-in-additional-capital-ahead-of-possible-ipo/">Crypto Investment Firm Circle Seeking $250 Million Ahead of Possible IPO</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/binance-coin-bnb-becomes-8th-largest-crypto-after-gaining-75-in-a-month/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/b8/e3/b8e3afee-25e1-4fc3-99d4-4754b593e394/binance_jersey_screenshot.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/binance-coin-bnb-becomes-8th-largest-crypto-after-gaining-75-in-a-month/">Binance Coin (BNB) Becomes 8th Largest Crypto After Gaining 75% in a Month</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Mega Menu -->
+        </li>
+    
+
+    
+        <li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl ">
+            <a id="nav-link--home"
+               class="nav-link text-uppercase text-center g-color-primary--hover g-px-0 link-submenu"
+               href="/prices/" aria-haspopup="true" aria-expanded="false"
+               aria-controls="nav-submenu--home">Charts
+                <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-3"></i>
+            </a>
+            <!-- Mega Menu -->
+            <div class="hs-mega-menu g-bg-custom-black g-color-white g-text-transform-none g-left-0 g-right-0 g-font-weight-400 g-brd-top g-brd-primary g-brd-top-custom g-brd-top-2 g-pa-30 g-mt-7--lg--scrolling animated hs-position-right fadeOut"
+                 aria-labelledby="mega-menu-label-1" style="display: none;">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <ul class="list-unstyled mb-0">
+                            
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/bitcoin/">Bitcoin Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/ethereum/">Ethereum Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/ripple/">Ripple Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/litecoin/">Litecoin Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/cardano/">Cardano Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/neo/">NEO Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/eos/">EOS Price</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/prices/tronix/">Tron Price</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/tron-trx-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/58/71/5871dbf2-fc3b-4b8d-91d1-2b72fd21c4d1/trx_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/tron-trx-long-term-price-analysis-march-3/">Tron (TRX) Long-term Price Analysis – March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/xrp-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/51/c9/51c9a3f9-29a2-47e5-86ed-761c63e8add1/xrp_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/xrp-long-term-price-analysis-march-3/">XRP Long-term Price Analysis - March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/bitcoin-btc-long-term-price-analysis-march-3/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/3c/4b/3c4b4e8c-949e-4f12-a6b2-c9dd1bdad178/bitcoin_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/bitcoin-btc-long-term-price-analysis-march-3/">Bitcoin (BTC) Long-term Price Analysis – March 3</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/eos-long-term-price-analysis-march-2/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/7d/2c/7d2c1d73-b993-4bc5-8d1c-b463a09e6362/eos_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/eos-long-term-price-analysis-march-2/">EOS Long-term Price Analysis - March 2</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/ethereum-eth-long-term-price-analysis-march-2/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/e5/c2/e5c2d54f-d815-4cdc-b853-9924304b20ac/ethereum_long-term_chart.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/ethereum-eth-long-term-price-analysis-march-2/">Ethereum (ETH) Long-term Price Analysis –– March 2</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/bitcoin-btc-price-analysis-march-1/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/5f/0b/5f0bfb7e-ef2a-441b-9b5c-6ccfe06863c7/btcusd_daily_tv.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/bitcoin-btc-price-analysis-march-1/">Bitcoin (BTC) Price Analysis — March 1</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">1 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Mega Menu -->
+        </li>
+    
+
+    
+        <li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl ">
+            <a id="nav-link--home"
+               class="nav-link text-uppercase text-center g-color-primary--hover g-px-0 link-submenu"
+               href="/markets/" aria-haspopup="true" aria-expanded="false"
+               aria-controls="nav-submenu--home">Markets
+                <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-3"></i>
+            </a>
+            <!-- Mega Menu -->
+            <div class="hs-mega-menu g-bg-custom-black g-color-white g-text-transform-none g-left-0 g-right-0 g-font-weight-400 g-brd-top g-brd-primary g-brd-top-custom g-brd-top-2 g-pa-30 g-mt-7--lg--scrolling animated hs-position-right fadeOut"
+                 aria-labelledby="mega-menu-label-1" style="display: none;">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <ul class="list-unstyled mb-0">
+                            
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/markets/crypto-roundup/">Crypto Roundup</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/markets/exchanges/">Exchanges</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/markets/weekly-summary/">Weekly Roundup</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/ethereum-neo-decentralized-exchange-announces-otc-trading-desk/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/db/91/db9142c9-8e88-4e22-bafb-1975423fe766/switcheoold.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/ethereum-neo-decentralized-exchange-announces-otc-trading-desk/">Ethereum, NEO Decentralized Exchange Announces OTC Trading Desk</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/prominent-crypto-entrepreneur-reportedly-unable-to-access-his-coinbase-wallet/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/cd/d6/cdd6f4be-d2e4-430d-a409-1ad27eff025b/coinbase_buy_sell.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/prominent-crypto-entrepreneur-reportedly-unable-to-access-his-coinbase-wallet/">Coinbase Reportedly Freezes Crypto Entrepeneur&#39;s Funds Over Regular Bitcoin Purchase</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/xrp-now-supported-on-asian-crypto-exchange-coinhako/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/9a/a8/9aa8d7a5-d716-4b91-8e03-df0de7c3d31b/final_xrp_symbol.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/xrp-now-supported-on-asian-crypto-exchange-coinhako/">XRP Now Officially Supported on Tim Draper-Backed Crypto Exchange Coinhako</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/cz-giving-away-100k-as-reward-for-testing-binance-dex-bnb-surges-10-to-9th-place/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/a7/76/a7763822-9338-4cb1-9c11-4f9e9b8f3d95/binance_dex.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/cz-giving-away-100k-as-reward-for-testing-binance-dex-bnb-surges-10-to-9th-place/">CZ Giving Away $100K As Reward for Testing Binance DEX, BNB Surges 10% to 9th Place</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">1 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/crypto-roundup-01-march-2019/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/dd/cf/ddcfc6b9-8c70-468c-a397-5bd1178f524d/top_10_coins.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/crypto-roundup-01-march-2019/">Crypto Roundup – Kraken: $100K Reward for Solving QuadrigaCX &amp; Suspected Crypto-Fueled Money-Laundering Goes 10x in Japan</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">1 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/kraken-offering-100k-reward-to-crypto-detectives-for-solving-quadrigacx-mystery/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/20/21/20214935-07b6-4eac-92e5-67044d85455d/question_mark_on_blackboard.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/kraken-offering-100k-reward-to-crypto-detectives-for-solving-quadrigacx-mystery/">Kraken Offering $100K Reward to Crypto Detectives for Solving QuadrigaCX Mystery</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">1 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Mega Menu -->
+        </li>
+    
+
+    
+        <li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl ">
+            <a id="nav-link--home"
+               class="nav-link text-uppercase text-center g-color-primary--hover g-px-0 link-submenu"
+               href="/opinion/" aria-haspopup="true" aria-expanded="false"
+               aria-controls="nav-submenu--home">Opinion
+                <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-3"></i>
+            </a>
+            <!-- Mega Menu -->
+            <div class="hs-mega-menu g-bg-custom-black g-color-white g-text-transform-none g-left-0 g-right-0 g-font-weight-400 g-brd-top g-brd-primary g-brd-top-custom g-brd-top-2 g-pa-30 g-mt-7--lg--scrolling animated hs-position-right fadeOut"
+                 aria-labelledby="mega-menu-label-1" style="display: none;">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <ul class="list-unstyled mb-0">
+                            
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/opinion/crypto-twitter-blog/">CryptoTwitter Blog</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/opinion/wheres-my-money/">Wheres my Money?</a></li>
+
+    <li class="g-brd-bottom g-brd-gray-dark-v4 g-py-10">
+            <a class="g-color-white g-color-white--hover" href="/opinion/op-ed/">Op-Ed</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/researcher-claims-to-have-found-90-million-of-quadrigacx-s-missing-funds/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ea/5c/ea5ca463-a50c-4d56-888b-d6c8809dfd3e/businessresearch.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/researcher-claims-to-have-found-90-million-of-quadrigacx-s-missing-funds/">Researcher Claims to Have Found $90 Million of QuadrigaCX&#39;s Missing Funds</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">3 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/prominent-crypto-entrepreneur-reportedly-unable-to-access-his-coinbase-wallet/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/cd/d6/cdd6f4be-d2e4-430d-a409-1ad27eff025b/coinbase_buy_sell.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/prominent-crypto-entrepreneur-reportedly-unable-to-access-his-coinbase-wallet/">Coinbase Reportedly Freezes Crypto Entrepeneur&#39;s Funds Over Regular Bitcoin Purchase</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/quadrigacx-s-cold-storage-wallets-have-been-empty-since-april-report/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/a2/58/a2586632-1887-45a6-8c1a-af0ecf6cb93d/meeting.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/quadrigacx-s-cold-storage-wallets-have-been-empty-since-april-report/">QuadrigaCX&#39;s Cold Storage Wallets Have Been Empty Since April: Report</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/03/cryptocurrencies-might-be-too-technical-for-mainstream-facebook-telegram-users/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/c6/0c/c60c82f7-5dc8-4778-9213-2ec9b611360f/cryptocurrencies.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/03/cryptocurrencies-might-be-too-technical-for-mainstream-facebook-telegram-users/">Why Cryptocurrencies Might Be Too Technical for Mainstream Facebook, Telegram Users</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">2 Mar 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/crime-alert-indian-authorities-uncover-a-200000-fraudulent-crypto-scheme-investigations-underway/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/2e/2f/2e2f37fd-f9e1-4c56-a885-bdacbdefd0ef/arrested.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/crime-alert-indian-authorities-uncover-a-200000-fraudulent-crypto-scheme-investigations-underway/">Indian Authorities Uncover $230,000 Fraudulent Crypto Investment Scheme</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">28 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/cryptopia-to-reopen-4-march-in-read-only-mode/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/c8/ab/c8ab35ee-7a29-4688-89cd-5e49d78e6672/opengate.png__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/cryptopia-to-reopen-4-march-in-read-only-mode/">Cryptopia to Reopen on March 4, in Read-Only Mode</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">28 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Mega Menu -->
+        </li>
+    
+
+    
+        <li class="hs-has-mega-menu nav-item g-mx-5--lg g-mx-10--xl ">
+            <a id="nav-link--home"
+               class="nav-link text-uppercase text-center g-color-primary--hover g-px-0 link-submenu"
+               href="/latest/research/" aria-haspopup="true" aria-expanded="false"
+               aria-controls="nav-submenu--home">Research
+                <i class="hs-icon hs-icon-arrow-bottom g-font-size-11 g-ml-3"></i>
+            </a>
+            <!-- Mega Menu -->
+            <div class="hs-mega-menu g-bg-custom-black g-color-white g-text-transform-none g-left-0 g-right-0 g-font-weight-400 g-brd-top g-brd-primary g-brd-top-custom g-brd-top-2 g-pa-30 g-mt-7--lg--scrolling animated hs-position-right fadeOut"
+                 aria-labelledby="mega-menu-label-1" style="display: none;">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <ul class="list-unstyled mb-0">
+                            
+
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/blockstack-co-founder-massively-scalable-distributed-systems-are-extremely-well-studied/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/07/1d/071d6a6d-f2a1-485d-a316-db685f0b8437/book_glasses.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/blockstack-co-founder-massively-scalable-distributed-systems-are-extremely-well-studied/">Blockstack Co-Founder: &#39;Massively Scalable&#39; Distributed Systems are &#39;Extremely Well-Studied&#39;</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">26 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/stanford-s-researchers-propose-cost-effective-privacy-protocol-for-ethereum/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/d5/bd/d5bd5439-38b9-4745-b1e1-b5c2661deb33/stanford_uni.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/stanford-s-researchers-propose-cost-effective-privacy-protocol-for-ethereum/">Stanford Researchers Propose Cost-Effective Privacy Protocol for Ethereum</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">23 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/etoro-survey-over-70-of-millennials-to-invest-in-crypto-if-offered-by-institutions/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/4b/12/4b122faa-7e5e-4af0-9f82-6f85f8e62258/survey.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/etoro-survey-over-70-of-millennials-to-invest-in-crypto-if-offered-by-institutions/">eToro Survey: Over 70% of Millennials to Invest in Crypto if Offered by Institutions</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">20 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                    <div class="col-lg-5">
+                        
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/bitmex-takes-big-hit-as-bitcoin-futures-volume-drops/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/3a/da/3adaeffc-7e78-4a9c-b69c-366fe6fb1851/bitcoin_time_pb.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/bitmex-takes-big-hit-as-bitcoin-futures-volume-drops/">BitMEX Takes Big Hit as Bitcoin Futures Volume Drops</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">19 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/spain-s-central-bank-bitcoin-is-not-an-effective-payment-method/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/2d/52/2d522e2b-5a24-4855-994b-48f4d24618e3/bitcoin_3.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/spain-s-central-bank-bitcoin-is-not-an-effective-payment-method/">Spain&#39;s Central Bank: Bitcoin is Not an Effective Payment Method</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">18 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+<div class="media g-mb-20">
+    <a class="d-flex mr-3 g-color-white" href="/latest/2019/02/700-increase-in-bitcoin-adoption-worldwide-kaspersky-s-survey-reveals/">
+        <img class="g-width-120 g-height-70" 
+            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/2d/52/2d522e2b-5a24-4855-994b-48f4d24618e3/bitcoin_3.jpg__120x70_q85_crop_subsampling-2.jpg"
+            alt="">
+    </a>
+    <div class="media-body">
+        <div class="h6 nav-article-title">
+            <a class="g-color-white" href="/latest/2019/02/700-increase-in-bitcoin-adoption-worldwide-kaspersky-s-survey-reveals/">700% Increase in Bitcoin Adoption Worldwide, Kaspersky&#39;s Survey Reveals</a>
+        </div>
+        <ul class="u-list-inline g-font-size-12 g-color-gray-light-v4">
+            <li class="list-inline-item">15 Feb 2019</li>
+        </ul>
+    </div>
+</div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Mega Menu -->
+        </li>
+    
+
+
+                        
+                    </ul>
+                </div>
+
+                <div class="col-3 col-md-3 g-ml-30 search-box">
+                    <form action="/search" method="get"
+                          class="input-group rounded search-box">
+                        <input class="form-control g-font-weight-400 g-font-size-13 g-px-20"
+                               name="q" type="text" onfocus="this.value=''" placeholder="Type to search..."
+                               value="">
+                        <span class="input-group-append g-brd-none g-py-0 g-pr-0">
+                            <button class="btn btn-search g-font-weight-600 g-font-size-13 text-uppercase g-px-20"
+                                    type="submit">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            </span>
+                    </form>
+                </div>
+                <!-- Account -->
+                <div class="ml-auto">
+                    <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0"
+                            type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar"
+                            data-toggle="collapse" data-target="#navBar">
+                    <span class="hamburger hamburger--slider">
+                        <span class="hamburger-box">
+                            <span class="hamburger-inner"></span>
+                        </span>
+                    </span>
+                    </button>
+                </div>
+
+                
+                <!-- End Account -->
+            </div>
+        </nav>
+    </div>
+</header>
+
+        <section id="first-section">
+            <div class="container g-px-15">
+                <!-- News Section -->
+                <div class="row no-gutters g-brd-y">
+                    <div class="g-mb-20 widgets-border" style="width: 100%;">
+                        <script type="text/javascript">
+                            baseUrl = "https://widgets.cryptocompare.com/";
+                            var scripts = document.getElementsByTagName("script");
+                            var embedder = scripts[scripts.length - 1];
+                            (function () {
+                                var appName = encodeURIComponent(window.location.hostname);
+                                if (appName == "") {
+                                    appName = "local";
+                                }
+                                var s = document.createElement("script");
+                                s.type = "text/javascript";
+                                s.async = true;
+                                var theUrl = baseUrl +
+                                    'serve/v2/coin/header?fsyms=BTC,ETH,EOS,XRP,XMR,ZEC&tsyms=USD,EUR,JPY,GBP';
+                                s.src = theUrl + (theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+                                embedder.parentNode.appendChild(s);
+                            })();
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+        <section>
+                
+            <div class="container">
+                <!-- News Section 1 -->
+                <div class="row g-pb-10" id="content_start">
+                    <!-- Articles Content -->
+                    <div class="col-lg-9 col-xl-8 g-mb-0--lg">
+                        
+    
+
+
+
+    <article class="article-body" id="details-emerge-on-irans-xlm-based-gold-backed-crypto">
+        <div class='infinite-url' style='display:none;'>/latest/2019/02/details-emerge-on-irans-xlm-based-gold-backed-crypto/</div>
+        <div class='infinite-title' style='display:none;'>Details Emerge on Iran’s XLM-Based Gold-Backed Cryptocurrency</div>
+        <div class='infinite-slug' style='display:none;'>details-emerge-on-irans-xlm-based-gold-backed-crypto</div>
+        <header class="g-mb-10">
+            <div class="u-heading-v3-1 g-mb-10">
+                <h1 class="u-heading-v3__title">Details Emerge on Iran’s XLM-Based Gold-Backed Cryptocurrency</h1>
+            </div>
+            <div class="row">
+                <div class="media g-mb-10 col-lg-8">
+                    
+                    
+                        <img class="d-flex u-shadow-v25 g-width-45 g-height-45 rounded-circle mr-2"
+                            src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/4a/ce/4ace3054-fad3-4107-8948-9ea22caf1bbd/colin_muller.png__45x45_q85_crop_subsampling-2.jpg"
+                            alt="Colin Muller">
+                    
+                    <div class="media-body">
+                        <div>
+                            <ul class="list-inline mb-0">
+                                <li class="list-inline-item">
+                                        <a class="g-font-weight-700"
+                                        href="/contributors/colin-muller/">Colin Muller</a>
+                                    </li>
+                                
+                                
+                                    <li class="list-inline-item g-mx-2">
+                                    <a class="author-social g-bg-twitter g-color-white--hover"
+                                    href="https://twitter.com/CryptoGlobeInfo" data-toggle="tooltip" data-placement="top"
+                                    title="" target="_blank"
+                                    data-original-title="Follow Colin Muller on Twitter"><i
+                                            class="fab fa-twitter"></i>
+                                    </a>
+                                    </li>
+                                
+                                
+                                
+                            </ul>
+                        </div>
+                        <div class="d-block g-font-size-12">
+                                <ul class="list-inline d-sm-flex g-color-gray-dark-v2 mb-0">
+                                    <li class="list-inline-item">16 Feb 2019</li>
+                                    
+                                        <li class="list-inline-item">/</li>
+                                        <li class="list-inline-item">In
+                                            
+                                                <a class="u-link-v5 g-color-primary--hover"
+                                                href="/latest/category/politics/">#Politics</a>
+                                                , 
+                                            
+                                                <a class="u-link-v5 g-color-primary--hover"
+                                                href="/latest/category/stablecoins/">#Stablecoins</a>
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="col-lg-4">
+                    <div class="addthis_inline_share_toolbox"></div>
+                </div>
+            </div>
+            
+            <div class="takeaway">
+                
+            </div>
+        </header>
+        
+        <img class="img-fluid w-100 g-rounded-5 g-mb-10"
+             src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ed/43/ed43d958-e30e-47f5-bb8a-c6f87c18dfab/iran2.png__740x380_q85_crop_subsampling-2.jpg"
+             alt="">
+        
+
+        <div class="g-mb-20">
+            <!-- Coinmarketapp ad (responsive image) -->
+<div class="g-mb-10">
+    <a href="http://coinmarketapp.co.uk" target="_blank" rel="nofollow" title="CoinMarketApp"><img src="https://static.cryptoglobe.com/ads_custom/coinmarketapp.gif" class="img-fluid">
+    </a>
+</div>
+
+        </div>
+
+        <div class="g-font-size-16 g-line-height-1_8 g-mb-30">
+            
+                <p>Iran’s new gold-backed cryptocurrency “PayMon” will be technically based on the Stellar Lumens (<a href="https://www.cryptocompare.com/coins/xlm/overview">XLM</a>) network (which is an <a href="https://www.stellar.org/lumens/">open-source </a>codebase), and will trade in “special exchange offices.” These details emerged during a Sputnik <a href="https://sputniknews.com/business/201902141072386638-cryptocurrency-iran-itcoin/">interview</a> with Hamid Reza Shaabani, founder of Iranian blockchain company <a href="https://en.arzdigital.com/">ArzDigital</a>.</p>
+
+<p>As CryptoGlobe <a href="https://www.cryptoglobe.com/latest/2019/02/iran-launches-gold-backed-cryptocurrency-paymon/">reported</a> earlier this month, a company called Ghoghnoos (ققنوس - “phoenix” or “gryphon”in Persian) and four national banks are cooperating with Iranian authorities to produce the PayMon system.</p>
+
+<p>The principal aim of PayMon is to provide a way for Iran to trade around US-sponsored sanctions, which have been <a href="https://www.cryptoglobe.com/latest/2018/11/iran-national-crypto-will-go-to-commercial-banks-as-sanctions-grow/">increasing</a> under Donald Trump’s push to scuttle (and renegotiate) the Obama-era “Iran deal.”</p>
+
+<p>Commenting on the potential fulfilment of gold for tokens, Shaabani said that the “contract with [Ghoghnoos] stipulates that token holders can receive gold, but the details are not clear yet.” He also said that the crypto will be mostly traded by “special exchange offices,” adding that “It's likely that currencies will be traded in major international currency exchange points.”</p>
+
+<h2>Golden Ticket</h2>
+
+<p>Iran has been seeking to increase its <a href="https://www.rt.com/business/444378-iran-gold-rush-sanctions/">internal</a> mining production of gold and other precious metals such as copper, in the wake of sanctions which partially targeted these items. Gold has been used in past years to get around sanctions, specifically those that predated the Iran Deal. Gold has helped Iran funnel billions of dollars around sanctions, via <a href="https://www.theatlantic.com/international/archive/2018/01/iran-turkey-gold-sanctions-nuclear-zarrab-atilla/549665/">Turkey</a> and Turkish nationals.</p>
+
+<p>It is little wonder then that the Central Asian country has eventually <a href="https://www.cryptoglobe.com/latest/2018/09/bitcoin-hits-35000-in-iran-after-government-accepts-crypto-mining-as-a-legitimate-industry/">thawed</a> to the idea of a cryptocurrency, which is capable of transferring value with uncensorable impunity depending on how it is designed.</p>
+
+<p>Iran joins the <a href="https://www.cryptoglobe.com/latest/2019/01/venezuela-fights-us-sanctions-against-petro/">Venezuelan</a> government among countries to adopt a state-backed crypto, with <a href="https://www.cryptoglobe.com/latest/2018/11/russian-duma-committee-head-does-not-rule-out-emergence-of-stablecoin/">Russia</a> also playing with the idea - all for the same general purpose of skirting US-backed sanctions.</p>
+
+<p>Also in the realm of centralized, non-public stablecoins, the JPMorgan Chase mega-bank <a href="https://www.cryptoglobe.com/latest/2019/02/u-s-banking-giant-jpmorgan-chase-launches-its-own-cryptocurrency/">launched</a> its own a few days ago. The coin will not be widely available, with only entities vetted by the bank having access to the private crypto.</p>
+            
+        </div>
+
+        <!-- Sources & Tags -->
+        
+        <!-- End Sources & Tags -->
+
+        <!-- Structured Data -->
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "/latest/2019/02/details-emerge-on-irans-xlm-based-gold-backed-crypto/"
+                },
+                "headline": "Details Emerge on Iran’s XLM-Based Gold-Backed Cryptocurrency",
+                "image": [
+                    "https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ed/43/ed43d958-e30e-47f5-bb8a-c6f87c18dfab/iran2.png__740x380_q85_crop_subsampling-2.jpg"
+                ],
+                "datePublished": "2019-02-16T15:50:37+00:00",
+                "author": {
+                    "@type": "Person",
+                    "name": "Colin Muller"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "CryptoGlobe",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://static.cryptoglobe.com/filer_public/4c/a9/4ca98380-d6aa-4b5f-bbd9-5e803f907b1b/5d146935-9df7-4b32-9422-3500be2dc2f3.png",
+                        "width": "696px",
+                        "height": "323px"
+                    }
+                },
+                "description": "<p>Details are slowly trickling out on Iran’s new, state-issued and gold-backed crypto the PayMon. The stablecoin is based on XLM and will be traded by special offices, although it ...</p>"
+            }
+        </script>
+
+        <div class="g-pb-30">
+            <!-- Show ads (xs-lg screens) -->
+            <div class="d-xl-none">
+                <!-- Cointraffic 300x250 mobile -->
+<div style="width: 300px; margin: 0 auto;">
+    <span id='ct_cMUa2NL105A'></span>
+</div>
+
+            </div>
+
+            <!-- Show ads (xl screens) -->
+            <div class="d-none d-xl-block">
+                <!-- Cointraffic Banner 728x90 -->
+<span id='ct_cBP1A1HW1sM'></span>
+
+            </div>
+        </div>
+
+        <!-- Related Articles -->
+        
+            <div class="mobile-hide">
+                <div class="u-heading-v3-1 g-mb-30">
+                    <h2 class="h5 u-heading-v3__title g-color-gray-dark-v1 text-uppercase g-brd-primary">Related
+                        Articles</h2>
+                </div>
+                <div class="row">
+                    
+                        <div class="col-lg-4 col-sm-6 g-mb-10">
+                            <article>
+                                <figure class="u-shadow-v25 g-pos-rel g-mb-20">
+                                    
+                                        <img class="img-fluid w-100"
+                                             src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/22/01/2201e462-3e73-41fc-8660-cd9b518f4bb3/gold-bars-2467833_1280.jpg__400x270_q85_crop_subsampling-2.jpg"
+                                             alt="">
+                                    
+                                    
+                                        <figcaption class="g-pos-abs g-top-10 g-left-10">
+                                            
+                                                <a class="btn btn-xs u-btn-blue text-uppercase rounded-0 g-mb-6"
+                                                   href="/latest/category/altcoins/">Altcoins</a>
+                                                , 
+                                            
+                                                <a class="btn btn-xs u-btn-blue text-uppercase rounded-0 g-mb-6"
+                                                   href="/latest/category/regulation/">Regulation</a>
+                                                
+                                            
+                                        </figcaption>
+                                    
+                                </figure>
+
+                                <h3 class="g-font-size-16 g-mb-10">
+                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover"
+                                       href="/latest/2019/02/iran-launches-gold-backed-cryptocurrency-paymon/">Iran Launches Gold-Backed Cryptocurrency &#39;PayMon&#39;</a>
+                                </h3>
+                            </article>
+                        </div>
+                    
+                        <div class="col-lg-4 col-sm-6 g-mb-10">
+                            <article>
+                                <figure class="u-shadow-v25 g-pos-rel g-mb-20">
+                                    
+                                        <img class="img-fluid w-100"
+                                             src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/df/97/df97a701-d508-4c5a-903b-de8505d4e6f6/business-3159208_1920.jpg__400x270_q85_crop_subsampling-2.jpg"
+                                             alt="">
+                                    
+                                    
+                                        <figcaption class="g-pos-abs g-top-10 g-left-10">
+                                            
+                                                <a class="btn btn-xs u-btn-blue text-uppercase rounded-0 g-mb-6"
+                                                   href="/latest/category/altcoins/">Altcoins</a>
+                                                , 
+                                            
+                                                <a class="btn btn-xs u-btn-blue text-uppercase rounded-0 g-mb-6"
+                                                   href="/latest/category/regulation/">Regulation</a>
+                                                , 
+                                            
+                                                <a class="btn btn-xs u-btn-blue text-uppercase rounded-0 g-mb-6"
+                                                   href="/latest/category/politics/">Politics</a>
+                                                
+                                            
+                                        </figcaption>
+                                    
+                                </figure>
+
+                                <h3 class="g-font-size-16 g-mb-10">
+                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover"
+                                       href="/latest/2019/01/sources-iran-may-soon-launch-its-own-cryptocurrency/">Iranian Banks Banned from Using SWIFT, Government Might Launch its Own Cryptocurrency</a>
+                                </h3>
+                            </article>
+                        </div>
+                    
+                </div>
+            </div>
+        
+        
+            <script type="text/javascript">
+                var addthis_config = {
+                   data_ga_property: 'UA-114030304-1',
+                   data_ga_social : true
+                };
+            </script>
+        
+    </article>
+
+
+    
+
+    
+
+                    </div>
+                    <div class="col-lg-3 col-xl-4">
+                        <div id="stickyblock-start">
+                            
+    <div class="mobile-hide">
+                            <!-- Useful Links -->
+                            <div class="most_read">
+                                <div class="g-pt-10 g-pb-20">
+                                    <!-- Coinstats ad (responsive image) -->
+<div>
+    <a href="https://coinstats.app/portfolio?utm_source=CryptoGlobe&utm_campaign=CryptoGlobe_banner" target="_blank" rel="nofollow" title="Coinstats"><img src="https://static.cryptoglobe.com/ads_custom/coinstats.png" class="img-fluid"></a>
+</div>
+
+                                </div>
+                                
+                                    <div class="g-mb-10 g-pt-10">
+
+                                        <!-- Cointraffic Ad (You Might Like) -->
+<div class="g-mb-40" id="ct_ci5giW1XAAl" style="display: none;">
+
+    <div class="u-heading-v3-1 g-mb-10">
+        <h2 class="h5 u-heading-v3__title g-color-gray-dark-v1 text-uppercase g-brd-primary">You Might Like</h2>
+    </div>
+
+    <div class="media">
+        <a target="_blank" class="d-flex u-shadow-v25 mr-3 ct_url">
+          <img class="g-width-60 g-height-60 ct_image" alt="">
+        </a>
+
+        <div class="media-body">
+            <h3 class="h6 two-line-ellipsis">
+                <a target="_blank" class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover ct_url ct_headline"></a>
+            </h3>
+
+            <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                <li class="list-inline-item">
+                    <span class="ct_body" style="display:none;"></span>
+                    <a href="https://cointraffic.io/" target="_blank" class="you-might-like-link">Ads by Cointraffic</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End: Cointraffic Ad (You Might Like) -->
+
+                                        <div class="u-heading-v3-1 g-mb-20">
+                                            <h2 class="h5 u-heading-v3__title g-color-gray-dark-v1 text-uppercase g-brd-primary">Most Read</h2>
+                                        </div>
+
+                                         
+                                        <!-- Most read base created at: 3rd March 2019 17:13:32 -->
+                                         
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/67/27/6727962f-d46d-4c2e-982b-11343074803d/lion.png__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/03/bat-teams-up-with-amazon-starbucks-apple-partner-tap-network/">Basic Attention Token Teams Up With Amazon, Starbucks, Apple Partner TAP Network</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        1 Mar 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                        <hr class="g-brd-gray-light-v4 g-mt-10 g-mb-10">
+                                        
+                                        
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/ea/38/ea38424c-5d27-4c57-b178-e9d9abe6ef58/bitcoin_20.jpg__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/02/74-of-all-bitcoin-nodes-are-located-in-10-countries-data-shows/">74% of All Bitcoin Nodes Are Located in 10 Countries, Data Shows</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        28 Feb 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                        <hr class="g-brd-gray-light-v4 g-mt-10 g-mb-10">
+                                        
+                                        
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/36/0c/360ca626-6776-4277-a13f-b7d3a454a360/nkb_2602.png__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/02/the-week-coinbase-adds-xrp-samsung-s10-blockchain-wallet-and-bitmain-reports-losses/">The Week: Coinbase Adds XRP, Samsung S10 Blockchain Wallet and Bitmain Reports Losses</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        26 Feb 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                        <hr class="g-brd-gray-light-v4 g-mt-10 g-mb-10">
+                                        
+                                        
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/44/7b/447bcd3e-7b40-4161-b7f0-520bc7622988/taxes.jpg__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/02/5-things-to-know-about-cryptocurrency-taxes-before-tax-season/">5 Things to Know About Cryptocurrency Taxes Before Tax Season</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        24 Feb 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                        <hr class="g-brd-gray-light-v4 g-mt-10 g-mb-10">
+                                        
+                                        
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/0b/79/0b79ced0-8520-4ec0-a950-f68d2d8956ce/untitled.jpeg__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/02/binance-booted-from-top-exchange-spot-during-january-lull/">Binance Booted From Top Exchange Spot During January Lull</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        21 Feb 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                        <hr class="g-brd-gray-light-v4 g-mt-10 g-mb-10">
+                                        
+                                        
+                                        <!-- Article -->
+                                        <article class="media">
+                                            <a class="d-flex u-shadow-v25 mr-3" href="#!">
+                                                <img class="g-width-60 g-height-60" src="https://static.cryptoglobe.com/filer_public_thumbnails/filer_public/e7/66/e766aef8-fc01-496f-94d1-d8379395cf61/peter_todd.png__60x60_q85_crop_subsampling-2.jpg" alt="">
+                                            </a>
+
+                                            <div class="media-body">
+                                                <h3 class="h6 two-line-ellipsis">
+                                                    <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/latest/2019/02/bitcoin-veteran-peter-todd-reducing-bitcoins-block-size-to-300kb-is-a-dumb-idea/">Bitcoin Veteran Peter Todd: Reducing Bitcoin’s Block Size to 300KB Is a “Dumb Idea”</a>
+                                                </h3>
+
+                                                <ul class="u-list-inline g-font-size-12 g-color-gray-dark-v4">
+                                                    <li class="list-inline-item">
+                                                        20 Feb 2019
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </article>
+                                        <!-- End Article -->
+                                        
+                                          
+                                    </div>
+                                
+                                
+                            </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Infinite Content -->
+                    <div class="col-lg-9 col-xl-8 g-mb-0--lg">
+                        
+        <!-- To infinity -->
+        <div class="infinite-container">
+            
+        </div>
+        
+            <a class="infinite-more-link" href="?page=1&infinite_more=yes"></a>
+        
+
+        <div class="loading" style="display: none;">
+            <i class="fa fa-spinner fa-spin infinite-spinner" style="font-size:50px;color:#6ab977"></i>
+        </div>
+        <!-- not to infinity -->
+    
+                    </div>
+                </div>
+            </div>
+        </section>
+         
+<!-- Footer -->
+<footer class="g-bg-custom-black">
+
+
+
+
+            <!-- Footer - Popular Stories Carousel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!-- End Footer - Popular Stories Carousel -->
+
+
+
+    <div class="container g-pt-10 g-pr-0 g-pl-0">
+        <!-- Footer - Top Section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- End Footer - Top Section -->
+
+        <!-- Footer - Bottom Section -->
+        <div class="row align-items-center">
+            <div class="col-md-6 g-mb-10">
+                <!-- Links -->
+                <ul class="list-inline mb-0 g-pl-0">
+                    <li class="list-inline-item g-pl-0 g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/about-us/">About us</a>
+                    </li>
+                    <li class="list-inline-item g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/advertise/">Advertise</a>
+                    </li>
+                    <li class="list-inline-item g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/privacy-policy/">Privacy Policy</a>
+                    </li>
+                    <li class="list-inline-item g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/terms-and-conditions">Terms and Conditions</a>
+                    </li>
+                    <li class="list-inline-item g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/contact/">Contact</a>
+                    </li>
+                    <li class="list-inline-item g-pr-10">
+                        <a class="u-link-v5 g-color-secondary-light-v1 g-font-size-12 g-color-primary--hover" href="/careers/">Write for us</a>
+                    </li>
+                </ul>
+                <!-- End Links -->
+            </div>
+            <div class="col-md-3 g-mb-10 g-pl-0--sm" style="padding-right: 0;">
+                <ul class="list-inline mb-0" style="padding-left: 0; padding-right: 0;">
+                    <li class="list-inline-item g-mx-2">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded"
+                            href="/latest/feed/"
+                            data-toggle="tooltip" data-placement="top"
+                            title="RSS Feed" target="_blank"><i class="fa fa-rss"></i>
+                        </a>
+                    </li>
+                    
+                    <li class="list-inline-item g-mx-2">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded"
+                           href="https://www.facebook.com/CryptoGlobeNews/"
+                           data-toggle="tooltip" data-placement="top"
+                           title="Like us on Facebook" target="_blank"><i class="fab fa-facebook"></i>
+                        </a>
+                    </li>
+                    
+                    
+                    <li class="list-inline-item g-mx-2">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded"
+                           href="https://twitter.com/CryptoGlobeInfo"
+                           data-toggle="tooltip" data-placement="top"
+                           title="Follow us on Twitter" target="_blank"><i class="fab fa-twitter"></i>
+                        </a>
+                    </li>
+                    
+                    
+                    <li class="list-inline-item g-mx-2">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded"
+                           href="https://www.linkedin.com/company/cryptoglobe/"
+                           data-toggle="tooltip" data-placement="top"
+                           title="Follow us on LinkedIn" target="_blank"><i class="fab fa-linkedin"></i>
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    <li class="list-inline-item g-mx-2">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded"
+                           href="https://t.me/CryptoGlobeNews"
+                           data-toggle="tooltip" data-placement="top"
+                           title="Join our Telegram channel" target="_blank"><i class="fab fa-telegram"></i>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+
+            <div class="col-md-3 g-mb-10">
+                <!-- Large Button Group -->
+                <div class="btn-group dropup float-md-right">
+                    <!-- Copyright -->
+                    <span class="g-font-size-12 mb-0 g-color-secondary-light-v1">&copy; 2019 Crypto Coin Comparison Ltd</span>
+                    <!-- End Copyright -->
+                </div>
+                <!-- End Large Button Group -->
+            </div>
+        </div>
+        <!-- End Footer - Bottom Section -->
+    </div>
+</footer>
+<!-- End Footer -->
+
+        <!-- Go To -->
+        <a class="js-go-to u-go-to-v2" href="#" data-type="fixed" data-position='{
+           "bottom": 85,
+           "right": 10
+         }' data-offset-top="400" data-compensation="#js-header" data-show-effect="zoomIn">
+            <i class="hs-icon hs-icon-arrow-top"></i>
+        </a>
+        <!-- End Go To -->
+    </main>
+
+    <div class="u-outer-spaces-helper"></div>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "http://www.cryptoglobe.com",
+            "sameAs": [
+                "https://www.facebook.com/CryptoGlobeNews/",
+                "https://twitter.com/CryptoGlobeInfo",
+                "https://www.linkedin.com/company/cryptoglobe/",
+                "https://plus.google.com/116116522608840244744"
+            ],
+            "logo": "https://static.cryptoglobe.com/filer_public/4c/a9/4ca98380-d6aa-4b5f-bbd9-5e803f907b1b/5d146935-9df7-4b32-9422-3500be2dc2f3.png",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.cryptoglobe.com/search/?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+
+    <!-- JS Global Compulsory -->
+    <script src="https://static.cryptoglobe.com/vendor/jquery/jquery.min.6fc159d00dc3.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/jquery-migrate/jquery-migrate.min.7121994eec53.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/popper.min.6383a57baa14.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/bootstrap/bootstrap.min.baaadea4492b.js"></script>
+
+    <!-- JS Implementing Plugins -->
+    <script src="https://static.cryptoglobe.com/vendor/appear.33ffd10e4a4b.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/dzsparallaxer/dzsparallaxer.94ac37c21a2d.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/dzsparallaxer/dzsscroller/scroller.4d1ab59a3565.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/dzsparallaxer/advancedscroller/plugin.3d2ec0563801.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/hs-megamenu/src/hs.megamenu.faf101939fa8.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/slick-carousel/slick/slick.d6abbb7e539b.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/fancybox/jquery.fancybox.min.9cc49f793e38.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/gmaps/gmaps.min.b8b608f1809a.js"></script>
+
+    <script src="https://static.cryptoglobe.com/vendor/waypoints/jquery.waypoints.min.7d05f92297de.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/waypoints/shortcuts/infinite.min.a9e9aa085994.js"></script>
+
+    <!-- JS Unify -->
+    <script src="https://static.cryptoglobe.com/js/hs.core.632c2740d954.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.header.bfe66f7ed505.js"></script>
+    <script src="https://static.cryptoglobe.com/js/helpers/hs.hamburgers.d8c54cf78960.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.dropdown.00a663276267.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.counter.310a2f028f95.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.onscroll-animation.e73404f259b5.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.carousel.8c799dacc834.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.popup.ee1bb2e317f2.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.go-to.c894dee9c526.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/gmap/hs.map.05f399666d36.js"></script>
+
+    <!-- JS Customization -->
+    <script src="https://static.cryptoglobe.com/cryptoglobe/js/jquery.sticky-kit.min.572ffbc4923d.js"></script>
+    <script src="https://static.cryptoglobe.com/cryptoglobe/js/jquery.newsticker.min.56acaaefddec.js"></script>
+    <script src="https://static.cryptoglobe.com/cryptoglobe/js/custom.d41d8cd98f00.js"></script>
+    <script src="https://static.cryptoglobe.com/js/contact.b13a1121d0c7.js"></script>
+    <script src="https://static.cryptoglobe.com/js/live.6d410320f789.js"></script>
+
+    <!-- jvector map -->
+    <link rel="stylesheet" href="https://static.cryptoglobe.com/vendor/jvectormap/jquery-jvectormap-2.0.3.bcce7128a1b0.css">
+    <script src="https://static.cryptoglobe.com/vendor/jvectormap/jquery-jvectormap-2.0.3.min.804ac7d54063.js"></script>
+    <script src="https://static.cryptoglobe.com/vendor/jvectormap/tests/assets/jquery-jvectormap-world-mill-en.9b13fed64f6d.js"></script>
+    <script src="https://static.cryptoglobe.com/js/components/hs.map.svg.264f85392e67.js"></script>
+
+    <!-- Revcontent fix -->
+    <script>
+        $('#rcjsload_9f6d19').on("DOMSubtreeModified", function () {
+            if ($('#rcjsload_9f6d19').height() > 0) {
+                $('#rcjsload_9f6d19').off("DOMSubtreeModified");
+                $("#stickyblock-start").trigger("sticky_kit:recalc");
+            }
+        });
+        $('#js-news').ticker({
+            titleText: '', // To remove the title set this to an empty String
+        });
+    </script>
+
+    <!-- Pre-header / Js-Header logic -->
+    <!--
+    <script type="text/javascript">
+        $(function () {
+
+            function preHeaderLogic() {
+
+                // Find height for #pre-header div
+                var preHeaderHeight = 0;
+                if ($('#pre-header').length > 0) {
+                    preHeaderHeight = $('#pre-header').outerHeight();
+                }
+
+                // Find top for #js-header div
+                var jsHeaderTop = null;
+                if ($('#js-header').length > 0) {
+                    jsHeaderTop = $('#js-header').offset().top;
+                }
+
+                // If #pre-header is empty, make #js-header sticky.
+                // If #pre-header contains something (height>0), make
+                // #js-header sticky only after the user scrolls down
+                // enough to get the #pre-header out of view.
+                $('#js-header').removeClass('u-header--sticky-top');
+                $('#first-section').removeClass('g-pt-50');
+                if (preHeaderHeight == 0
+                    || (preHeaderHeight > 0 && $(window).scrollTop() > preHeaderHeight)) {
+                    $('#js-header').addClass('u-header--sticky-top');
+                    $('#first-section').addClass('g-pt-50');
+                }
+            }
+
+            // Apply logic every time the user scrolls
+            $(window).scroll(function(){
+                preHeaderLogic();
+            });
+
+            // Apply logic a few times on page load, basically
+            // to work around the external ad loading which
+            // might take a few seconds to complete
+            var intervalCount = 0;
+            preHeaderInterval = setInterval(function(){
+                preHeaderLogic();
+                if (++intervalCount > 20) {
+                    clearInterval(preHeaderInterval);
+                }
+            }, 500);
+        });
+    </script>
+    -->
+
+    <!-- JS Plugins Init. -->
+    <script>
+        $(document).on('ready', function () {
+            // initialization of header
+            $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+            // initialization of MegaMenu
+            $('.js-mega-menu').HSMegaMenu();
+
+            // initialization of HSDropdown component
+            $.HSCore.components.HSDropdown.init($('[data-dropdown-target]'), {
+                afterOpen: function () {
+                    $(this).find('input[type="search"]').focus();
+                }
+            });
+
+            // initialization of scroll animation
+            $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
+
+            // initialization of go to
+            $.HSCore.components.HSGoTo.init('.js-go-to');
+
+            $("#stickyblock-start").stick_in_parent({
+                parent: "#content_start",
+                offset_top: 72
+            });
+
+            // initialization of popups
+            $.HSCore.components.HSPopup.init('.js-fancybox');
+        });
+    </script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a6347ea9f9a0887"></script>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            addthis.layers.refresh();
+        });
+    </script>
+    <script>
+        window.twttr = (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+
+            t._e = [];
+            t.ready = function (f) {
+                t._e.push(f);
+            };
+
+            return t;
+        }(document, "script", "twitter-wjs"));
+    </script>
+    
+<!-- Open external links in new window -->
+<script>
+    $('.article-body > div a').each(function() {
+        var a = new RegExp('/' + window.location.host + '/');
+        if(!a.test(this.href)) {
+            $(this).click(function(event) {
+                event.preventDefault();
+                event.stopPropagation();
+                window.open(this.href, '_blank');
+            });
+        }
+    });
+ </script>
+
+
+ <!-- infinite scroll -->
+ <script>
+        function makewaypoints(uri, title, slug){
+        var waypoint = new Waypoint({
+            element: document.getElementById(slug),
+            handler: function(direction) {
+                window.history.replaceState('', '', uri);
+                document.title = title
+                try {
+                    addthis.layers.refresh();
+                }
+                catch (e) {
+                    console.log('add this not initilized');
+                }
+            },
+            offset: 'bottom-in-view'
+        })
+        var waypoint2 = new Waypoint({
+            element: document.getElementById(slug),
+            handler: function(direction) {
+                window.history.replaceState('', '', uri);
+                document.title = title
+                try {
+                    addthis.layers.refresh();
+                }
+                catch (e) {
+                    console.log('add this not initilized');
+                }
+            },
+        })
+    }
+    //set waypoints for initial article
+    $items = $('.article-body')[0]
+    var uri = $items.children[0].textContent
+    var title = $items.children[1].textContent
+    var slug = $items.children[2].textContent
+    makewaypoints(uri, title, slug)
+
+    //initilize infinite scroll
+    var infinite = new Waypoint.Infinite({
+            element: $('.infinite-container')[0],
+            onBeforePageLoad: function () {
+                $('.loading').show();
+            },
+            onAfterPageLoad: function ($items) {
+                $('.loading').hide();
+                var uri = $items[0].children[0].children[0].textContent
+                var title = $items[0].children[0].children[1].textContent
+                var slug = $items[0].children[0].children[2].textContent
+                makewaypoints(uri, title, slug)
+                //send ga event
+                addthis.layers.refresh();
+
+                if ("ga" in window) {
+                    tracker = ga.getAll()[0];
+                    if (tracker)
+                        tracker.set("page", uri);
+                        tracker.send("event", "Scroll Pageview", uri);
+                        tracker.send("pageview");
+                }
+            }
+        });
+</script>
+<!-- end infinite scroll -->
+
+ 
+    <script type="text/javascript">
+
+    </script>
+    
+
+</body>
+
+</html>

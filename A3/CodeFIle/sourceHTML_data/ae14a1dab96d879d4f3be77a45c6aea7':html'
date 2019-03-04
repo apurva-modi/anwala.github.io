@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta property="og:type" content="article">
+<meta property="og:description" content="チャートには、いくつかの種類がありますが、一番代表的なものが長方形の上下に線が着いた形の「ロウソク足」チャートです。見た目が、蝋燭（ろうそく）に似ていることがら、こう呼ばれています。一見すると難しそうですが、理解すると仮想通貨の将来の値動き">
+<meta property="og:title" content="仮想通貨　価格チャートの代表的存在「ロウソク足」">
+<meta property="og:url" content="http://toho-project.net/bitcoin/?p=384">
+<meta property="og:image" content="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533">
+<meta property="og:site_name" content="ビットコイン仮想通貨　用語集">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="仮想通貨　価格チャートの代表的存在「ロウソク足」">
+<meta property="og:url" content="http://toho-project.net/bitcoin/?p=384">
+<meta property="og:description" content="チャートには、いくつかの種類がありますが、一番代表的なものが長方形の上下に線が着いた形の「ロウソク足」チャート&hellip;">
+<meta property="article:published_time" content="2018-02-24T14:38:32+00:00">
+<meta property="article:modified_time" content="2018-02-24T14:38:32+00:00">
+<meta property="og:site_name" content="ビットコイン仮想通貨　用語集">
+<meta property="og:image" content="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="533">
+<meta property="og:locale" content="ja_JP">
+<meta name="description" content="チャートには、いくつかの種類がありますが、一番代表的なものが長方形の上下に線が着いた形の「ロウソク足」チャートです。見た目が、蝋燭（ろうそく）に似ていることがら、こう呼ばれています。一見すると難しそうですが、理解すると仮想通貨の将来の値動き">
+<meta name="generator" content="WordPress 5.0.3">
+<meta name="keywords" content="仮想通貨">
+<meta name="twitter:card" content="summary,summary_large_image">
+<meta name="twitter:creator" content="@f1g2h9">
+<meta name="twitter:description" content="チャートには、いくつかの種類がありますが、一番代表的なものが長方形の上下に線が着いた形の「ロウソク足」チャートです。見た目が、蝋燭（ろうそく）に似ていることがら、こう呼ばれています。一見すると難しそうですが、理解すると仮想通貨の将来の値動き">
+<meta name="twitter:domain" content="toho-project.net">
+<meta name="twitter:image" content="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533,https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533&#038;w=640">
+<meta name="twitter:text:title" content="仮想通貨　価格チャートの代表的存在「ロウソク足」">
+<meta name="twitter:title" content="仮想通貨　価格チャートの代表的存在「ロウソク足」">
+<meta name="twitter:url" content="http://toho-project.net/bitcoin/?p=384">
+<meta name="viewport" content="width=1280, maximum-scale=1, user-scalable=yes">
+<title>仮想通貨　価格チャートの代表的存在「ロウソク足」 | ビットコイン仮想通貨　用語集</title>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<link rel="dns-prefetch" href="//widgets.wp.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<link rel="alternate" type="application/rss+xml" title="ビットコイン仮想通貨　用語集 RSS Feed" href="http://toho-project.net/bitcoin/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="ビットコイン仮想通貨　用語集 &raquo; フィード" href="http://toho-project.net/bitcoin/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="ビットコイン仮想通貨　用語集 &raquo; コメントフィード" href="http://toho-project.net/bitcoin/?feed=comments-rss2">
+<link rel="alternate" type="application/rss+xml" title="ビットコイン仮想通貨　用語集 &raquo; 仮想通貨　価格チャートの代表的存在「ロウソク足」 のコメントのフィード" href="http://toho-project.net/bitcoin/?feed=rss2&#038;p=384">
+<link rel="alternate" type="application/json+oembed" href="http://toho-project.net/bitcoin/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384">
+<link rel="alternate" type="text/xml+oembed" href="http://toho-project.net/bitcoin/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384&#038;format=xml">
+<link rel="pingback" href="http://toho-project.net/bitcoin/xmlrpc.php">
+<link rel="canonical" href="http://toho-project.net/bitcoin/?p=384">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://toho-project.net/bitcoin/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://toho-project.net/bitcoin/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="https://wp.me/p9wQ9u-6c">
+<link rel="stylesheet" id="validate-engine-css-css" href="http://toho-project.net/bitcoin/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css" type="text/css" media="all">
+<link rel="stylesheet" id="simplicity-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/css/responsive-pc.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/webfonts/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="icomoon-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/webfonts/icomoon/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="extension-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/css/extension.css" type="text/css" media="all">
+<link rel="stylesheet" id="print-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" id="sns-twitter-type-style-css" href="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/css/sns-twitter-type.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://toho-project.net/bitcoin/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ez-icomoon-css" href="http://toho-project.net/bitcoin/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ez-toc-css" href="http://toho-project.net/bitcoin/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="social-logos-css" href="http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://toho-project.net/bitcoin/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all">
+<style type="text/css" media="all">/*<![CDATA[ */
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+#sharebar {
+margin-left:-120px;
+}
+@media screen and (max-width:639px){
+.article br{
+display: block;
+}
+}
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}
+img#wpstats{display:none}
+/* ]]>*/</style>
+<script type="text/javascript" src="http://toho-project.net/bitcoin/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://toho-project.net/bitcoin/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js"></script>
+<script type="text/javascript">//<![CDATA[
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/toho-project.net\/bitcoin\/wp-includes\/js\/wp-emoji-release.min.js"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+var related_posts_js_options = {"post_heading":"h4"};
+//]]></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51710134-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+  <body class="post-template-default single single-post postid-384 single-format-standard categoryid-1" itemscope itemtype="http://schema.org/WebPage">
+    <div id="container">
+
+      <!-- header -->
+      <header itemscope itemtype="http://schema.org/WPHeader">
+        <div id="header" class="clearfix">
+          <div id="header-in">
+
+                        <div id="h-top">
+              <!-- モバイルメニュー表示用のボタン -->
+<div id="mobile-menu">
+  <a id="mobile-menu-toggle" href="#"><span class="fa fa-bars fa-2x"></span></a>
+</div>
+
+              <div class="alignleft top-title-catchphrase">
+                <!-- サイトのタイトル -->
+<p id="site-title" itemscope itemtype="http://schema.org/Organization">
+  <a href="http://toho-project.net/bitcoin/">ビットコイン仮想通貨　用語集</a></p>
+<!-- サイトの概要 -->
+<p id="site-description">
+  ビットコインなどの仮想通貨について解説していきます。</p>
+              </div>
+
+              <div class="alignright top-sns-follows">
+                                <!-- SNSページ -->
+<div class="sns-pages">
+<p class="sns-follow-msg">フォローする</p>
+<ul class="snsp">
+<li class="feedly-page"><a href='//feedly.com/index.html#subscription%2Ffeed%2Fhttp%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Ffeed%3Drss2' target='blank' title="feedlyで更新情報を購読" rel="nofollow"><span class="icon-feedly-logo"></span></a></li><li class="rss-page"><a href="http://toho-project.net/bitcoin/?feed=rss2" target="_blank" title="RSSで更新情報をフォロー" rel="nofollow"><span class="icon-rss-logo"></span></a></li>  </ul>
+</div>
+                              </div>
+
+            </div><!-- /#h-top -->
+          </div><!-- /#header-in -->
+        </div><!-- /#header -->
+      </header>
+
+      <!-- Navigation -->
+<nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+  <div id="navi">
+      	<div id="navi-in">
+      <div class="menu"><ul>
+<li class="page_item page-item-934"><a href="http://toho-project.net/bitcoin/">仮想通貨　用語集</a></li>
+<li class="page_item page-item-6"><a href="http://toho-project.net/bitcoin/?page_id=6">仮想通貨（暗号通貨）とは何か？（初心者向け）</a></li>
+</ul></div>
+    </div><!-- /#navi-in -->
+  </div><!-- /#navi -->
+</nav>
+<!-- /Navigation -->
+      <!-- 本体部分 -->
+      <div id="body">
+        <div id="body-in">
+
+          
+          <!-- main -->
+          <main itemscope itemprop="mainContentOfPage">
+            <div id="main" itemscope itemtype="http://schema.org/Blog">
+
+
+  
+  <div id="breadcrumb" class="breadcrumb-category"><div itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" class="breadcrumb-home"><span class="fa fa-home fa-fw"></span><a href="http://toho-project.net/bitcoin" itemprop="url"><span itemprop="title">ホーム</span></a><span class="sp"><span class="fa fa-angle-right"></span></span></div><div itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><span class="fa fa-folder fa-fw"></span><a href="http://toho-project.net/bitcoin/?cat=1" itemprop="url"><span itemprop="title">仮想通貨</span></a></div></div><!-- /#breadcrumb -->  <div id="post-384" class="post-384 post type-post status-publish format-standard has-post-thumbnail hentry category-bitcoin tag-22 tag-153 tag-2 tag-18">
+  <article class="article">
+  
+  
+  <header>
+    <h1 class="entry-title">
+            仮想通貨　価格チャートの代表的存在「ロウソク足」          </h1>
+    <p class="post-meta">
+            <span class="post-date"><span class="fa fa-clock-o fa-fw"></span><time class="entry-date date published updated" datetime="2018-02-24T23:38:32+00:00">2018/2/24</time></span>
+                <span class="category"><span class="fa fa-folder fa-fw"></span><a href="http://toho-project.net/bitcoin/?cat=1" rel="category">仮想通貨</a></span>
+      
+      
+      
+          </p>
+
+    
+    
+    <div id="sns-group-top" class="sns-group sns-group-top">
+<div class="sns-buttons sns-buttons-pc">
+    <p class="sns-share-msg">シェアする</p>
+    <ul class="snsb clearfix">
+    <li class="balloon-btn twitter-balloon-btn twitter-balloon-btn-defalt">
+  <div class="balloon-btn-set">
+    <div class="arrow-box">
+      <a href="//twitter.com/search?q=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384" target="blank" class="arrow-box-link twitter-arrow-box-link" rel="nofollow">
+        <span class="social-count twitter-count"><span class="fa fa-comments"></span></span>
+      </a>
+    </div>
+    <a href="//twitter.com/share?text=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%80%80%E4%BE%A1%E6%A0%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%AD%98%E5%9C%A8%E3%80%8C%E3%83%AD%E3%82%A6%E3%82%BD%E3%82%AF%E8%B6%B3%E3%80%8D&amp;url=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384" target="blank" class="balloon-btn-link twitter-balloon-btn-link twitter-balloon-btn-link-default" rel="nofollow">
+      <span class="fa fa-twitter"></span>
+              <span class="tweet-label">ツイート</span>
+          </a>
+  </div>
+</li>
+        <li class="facebook-btn"><div class="fb-like" data-href="http://toho-project.net/bitcoin/?p=384" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></li>
+            <li class="google-plus-btn"><script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
+      <div class="g-plusone" data-href="http://toho-project.net/bitcoin/?p=384"></div>
+    </li>
+            <li class="hatena-btn"> <a href="//b.hatena.ne.jp/entry/http://toho-project.net/bitcoin/?p=384" class="hatena-bookmark-button" data-hatena-bookmark-title="仮想通貨　価格チャートの代表的存在「ロウソク足」｜ビットコイン仮想通貨　用語集" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" async="async"></script>
+    </li>
+            <li class="pocket-btn"><a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="//widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+    </li>
+                      </ul>
+</div>
+</div>
+<div class="clear"></div>
+
+      </header>
+
+  
+  <div id="the-content" class="entry-content">
+  <p>チャートには、いくつかの種類がありますが、一番代表的なものが長方形の上下に線が着いた形の「ロウソク足」チャートです。</p>
+<p>見た目が、蝋燭（ろうそく）に似ていることがら、こう呼ばれています。</p>
+<p>一見すると難しそうですが、理解すると仮想通貨の将来の値動きを予想するのに、とても重要で便利な投資分析手法となります。</p>
+<p>一本のロウソク足を書くには、「始値」「安値」「高値」「終値」の4つで構成されています。<br />
+始値とは、対象期間が、はじまった時の価格<br />
+安値とは、対象期間中に最も安くなった時の価格<br />
+高値とは、対象期間中に最も高くなった時の価格<br />
+終値とは、対象期間が、終わった時の価格</p>
+<p>終値が始値よりも高い（値上り）場合は、「陽線（ようせん）」といい、一般的に白抜き表示されます。<br />
+逆に終値が始値よりも安い（値下り）場合は、「陰線（いんせん）」といい、一般的に黒塗り表示されます。<br />
+これによって、仮想通貨の値動きが、見ただけで（視覚的に）把握できるようになっています。</p>
+<p>ロウソク足には、期間ごとに種類があります。<br />
+日足（ひあし）とは、１日の間の始値・安値・高値・終値の４本値を使い、１日１本のローソク足で表示し、それらを並べたチャートのことを言います。もっとも一般的に使用されるロウソク足チャートと言われています。</p>
+<p>特にデイトレーダーなどには重要なチャートとなります。</p>
+<p>週足とは、１週間の間の始値・安値・高値・終値の４本値を使い、１週間1本のローソク足で表示し、それらを並べたチャートのことを言います。</p>
+<p>中長期で取引を考えている方に適しています。</p>
+<p>1か月の間の始値・安値・高値・終値の４本値を使い、1月1本のローソク足で表示し、それらを並べたチャートのことを言います。</p>
+<p>長期の取引に使うチャートで、基本的には毎日チェックしなくても良いとされますが、株価の位置がどれくらいにあるかを確認するのに便利です。</p>
+<p>またさらに長期の1年を4本値で表して「年足（ねんあし）」や、短期の分単位の4本値を表している「分足」というものもあります。</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">共有:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-384" class="share-twitter sd-button share-icon no-text" href="http://toho-project.net/bitcoin/?p=384&amp;share=twitter" target="_blank" title="クリックして Twitter で共有"><span></span><span class="sharing-screen-reader-text">クリックして Twitter で共有 (新しいウィンドウで開きます)</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-384" class="share-facebook sd-button share-icon no-text" href="http://toho-project.net/bitcoin/?p=384&amp;share=facebook" target="_blank" title="Facebook で共有するにはクリックしてください"><span></span><span class="sharing-screen-reader-text">Facebook で共有するにはクリックしてください (新しいウィンドウで開きます)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-140813996-384-5c7c1559264b9' data-src='https://widgets.wp.com/likes/#blog_id=140813996&amp;post_id=384&amp;origin=toho-project.net&amp;obj_id=140813996-384-5c7c1559264b9' data-name='like-post-frame-140813996-384-5c7c1559264b9'><h3 class="sd-title">いいね:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>いいね</span></span> <span class="loading">読み込み中...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>関連</em></h3>
+</div>  </div>
+
+  <footer>
+    <!-- ページリンク -->
+          <div id="text-30" class="widget-under-article widget_text">			<div class="textwidget"><p><script>
+  (function() {
+    var cx = 'partner-pub-3642354032476843:3922259643';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script><br />
+<gcse:searchbox-only></gcse:searchbox-only></p>
+</div>
+		</div>    
+      <!-- 文章下広告 -->
+                     <div class="ad-article-bottom ad-space">
+          <div class="ad-label"></div>
+          <div class="ad-left ad-pc adsense-336">			<div class="textwidget"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 仮想通貨336　280 --><br />
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3642354032476843"
+     data-ad-slot="7497577573"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</div>
+          <div class="ad-right ad-pc adsense-336">			<div class="textwidget"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 仮想通貨336　280 --><br />
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-3642354032476843"
+     data-ad-slot="7497577573"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</div>
+          <div class="clear"></div>
+        </div>
+            
+
+    
+    <div id="sns-group" class="sns-group sns-group-bottom">
+    <div class="sns-buttons sns-buttons-pc">
+    <p class="sns-share-msg">シェアする</p>
+    <ul class="snsb clearfix">
+    <li class="balloon-btn twitter-balloon-btn twitter-balloon-btn-defalt">
+  <div class="balloon-btn-set">
+    <div class="arrow-box">
+      <a href="//twitter.com/search?q=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384" target="blank" class="arrow-box-link twitter-arrow-box-link" rel="nofollow">
+        <span class="social-count twitter-count"><span class="fa fa-comments"></span></span>
+      </a>
+    </div>
+    <a href="//twitter.com/share?text=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%80%80%E4%BE%A1%E6%A0%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%81%AE%E4%BB%A3%E8%A1%A8%E7%9A%84%E5%AD%98%E5%9C%A8%E3%80%8C%E3%83%AD%E3%82%A6%E3%82%BD%E3%82%AF%E8%B6%B3%E3%80%8D&amp;url=http%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Fp%3D384" target="blank" class="balloon-btn-link twitter-balloon-btn-link twitter-balloon-btn-link-default" rel="nofollow">
+      <span class="fa fa-twitter"></span>
+              <span class="tweet-label">ツイート</span>
+          </a>
+  </div>
+</li>
+        <li class="facebook-btn"><div class="fb-like" data-href="http://toho-project.net/bitcoin/?p=384" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div></li>
+            <li class="google-plus-btn"><script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
+      <div class="g-plusone" data-size="tall" data-href="http://toho-project.net/bitcoin/?p=384"></div>
+    </li>
+            <li class="hatena-btn"> <a href="//b.hatena.ne.jp/entry/http://toho-project.net/bitcoin/?p=384" class="hatena-bookmark-button" data-hatena-bookmark-title="仮想通貨　価格チャートの代表的存在「ロウソク足」｜ビットコイン仮想通貨　用語集" data-hatena-bookmark-layout="vertical-balloon" title="このエントリーをはてなブックマークに追加"><img src="//b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" async="async"></script>
+    </li>
+            <li class="pocket-btn"><a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="//widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+    </li>
+                      </ul>
+</div>
+
+    <!-- SNSページ -->
+<div class="sns-pages">
+<p class="sns-follow-msg">フォローする</p>
+<ul class="snsp">
+<li class="feedly-page"><a href='//feedly.com/index.html#subscription%2Ffeed%2Fhttp%3A%2F%2Ftoho-project.net%2Fbitcoin%2F%3Ffeed%3Drss2' target='blank' title="feedlyで更新情報を購読" rel="nofollow"><span class="icon-feedly-logo"></span></a></li><li class="rss-page"><a href="http://toho-project.net/bitcoin/?feed=rss2" target="_blank" title="RSSで更新情報をフォロー" rel="nofollow"><span class="icon-rss-logo"></span></a></li>  </ul>
+</div>
+    </div>
+
+    
+    <p class="footer-post-meta">
+
+            <span class="post-tag"><span class="fa fa-tag fa-fw"></span><a href="http://toho-project.net/bitcoin/?tag=%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88" rel="tag">チャート</a>, <a href="http://toho-project.net/bitcoin/?tag=%e3%83%ad%e3%82%a6%e3%82%bd%e3%82%af%e8%b6%b3" rel="tag">ロウソク足</a>, <a href="http://toho-project.net/bitcoin/?tag=%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8" rel="tag">仮想通貨</a>, <a href="http://toho-project.net/bitcoin/?tag=%e4%be%a1%e6%a0%bc" rel="tag">価格</a></span>
+      
+      <span class="post-author vcard author"><span class="fn"><span class="fa fa-user fa-fw"></span><a href="http://toho-project.net/bitcoin/?author=1">touhou</a>
+</span></span>
+
+      
+          </p>
+  </footer>
+  </article><!-- .article -->
+  </div><!-- .post -->
+
+      <div id="under-entry-body">
+
+            <aside id="related-entries">
+        <h2>関連記事</h2>
+                <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=1201" title="ショーター（しょーたー）">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="ショーター（しょーたー）" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=1201" class="related-entry-title-link" title="ショーター（しょーたー）">
+        ショーター（しょーたー）        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   「ショート」とは「売る」ことをいいます。
+
+ショーターとは、つまり売っている者という意味になります。
+
+具体的には、ショート（売り）...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=1201">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=356" title="仮想通貨ビットコインは１００円から買えるの？">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="仮想通貨ビットコインは１００円から買えるの？" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=356" class="related-entry-title-link" title="仮想通貨ビットコインは１００円から買えるの？">
+        仮想通貨ビットコインは１００円から買えるの？        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   2018年1月、ビットコインは過去最高の230万円ほどになりました。
+
+その後、値段が下がり、一時70万円程まで下がり、執筆時点では、1...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=356">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=285" title="仮想通貨取引（FX）　投資は必ず余裕資金で">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="仮想通貨取引（FX）　投資は必ず余裕資金で" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=285" class="related-entry-title-link" title="仮想通貨取引（FX）　投資は必ず余裕資金で">
+        仮想通貨取引（FX）　投資は必ず余裕資金で        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   個人で運用する場合は、必ず余裕資金の一部で運用するようにしましょう。
+
+投資に「絶対」や「100％」はありません。
+
+万が一、損をし...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=285">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=1380" title="モバイルウォレット（Ⅿobile Wallet）">
+        <img width="100" height="100" src="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="モバイルウォレット（Ⅿobile Wallet）" srcset="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=150%2C150 150w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100 100w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="9" data-permalink="http://toho-project.net/bitcoin/?attachment_id=9" data-orig-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533" data-orig-size="800,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ookawa1224IMGL1747_TP_V4" data-image-description="" data-medium-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=300%2C200" data-large-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=680%2C453" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=1380" class="related-entry-title-link" title="モバイルウォレット（Ⅿobile Wallet）">
+        モバイルウォレット（Ⅿobile Wallet）        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   モバイルウォレット（Ⅿobile Wallet）とは、スマートフォン（スマホ）を利用した仮想通貨ウォレットです。
+
+
+
+仮想通貨のウ...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=1380">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=421" title="仮想通貨投資用語　保証金（ほしょうきん）とは">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="仮想通貨投資用語　保証金（ほしょうきん）とは" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=421" class="related-entry-title-link" title="仮想通貨投資用語　保証金（ほしょうきん）とは">
+        仮想通貨投資用語　保証金（ほしょうきん）とは        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   仮想通貨のFXや信用取引の際に必要となる、仮想通貨取引所に預けるお金（資金）のこと。
+
+FXや信用取引では、保証金に対して、数倍（レバレ...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=421">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=1635" title="フィンテック（ふぃんてっく・FinTech）">
+        <img width="100" height="100" src="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="フィンテック（ふぃんてっく・FinTech）" srcset="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=150%2C150 150w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100 100w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="9" data-permalink="http://toho-project.net/bitcoin/?attachment_id=9" data-orig-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533" data-orig-size="800,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ookawa1224IMGL1747_TP_V4" data-image-description="" data-medium-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=300%2C200" data-large-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=680%2C453" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=1635" class="related-entry-title-link" title="フィンテック（ふぃんてっく・FinTech）">
+        フィンテック（ふぃんてっく・FinTech）        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   金融（Finance）と技術（Technology」を合せた造語です。
+
+英語では「FinTech」と書きます。
+
+ＩＴ（情報技術）...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=1635">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=71" title="仮想通貨　指値注文（さしね ちゅうもん）とは">
+        <img width="100" height="100" src="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="仮想通貨　指値注文（さしね ちゅうもん）とは" srcset="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=150%2C150 150w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?resize=100%2C100 100w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="9" data-permalink="http://toho-project.net/bitcoin/?attachment_id=9" data-orig-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=800%2C533" data-orig-size="800,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ookawa1224IMGL1747_TP_V4" data-image-description="" data-medium-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=300%2C200" data-large-file="https://i2.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/ookawa1224IMGL1747_TP_V4.jpg?fit=680%2C453" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=71" class="related-entry-title-link" title="仮想通貨　指値注文（さしね ちゅうもん）とは">
+        仮想通貨　指値注文（さしね ちゅうもん）とは        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   元々は、株式投資などで使用されて用語です。
+
+株式やFXに債券取引などで使われる「指値注文」と同じ意味です。
+
+違う点は、取引する商...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=71">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=1761" title="チャート（Chart）、罫線">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="チャート（Chart）、罫線" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=1761" class="related-entry-title-link" title="チャート（Chart）、罫線">
+        チャート（Chart）、罫線        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   株式や債券・為替などの相場値動きを、グラフ化したものです。
+
+書き方により、チャートには、いくつかの種類があります。
+
+日本で一般的...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=1761">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=1330" title="かまいたち（芸人＜仮想通貨取引をしている有名人＞）">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="かまいたち（芸人＜仮想通貨取引をしている有名人＞）" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=1330" class="related-entry-title-link" title="かまいたち（芸人＜仮想通貨取引をしている有名人＞）">
+        かまいたち（芸人＜仮想通貨取引をしている有名人＞）        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   2017年のキングオブコントで優勝した、よしもと所属ののお笑い芸人。
+
+ボケ担当の山内健司さんは、仮想通貨投資家としても有名です。
+...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=1330">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="http://toho-project.net/bitcoin/?p=741" title="仮想通貨用語　プラットフォーム">
+        <img width="100" height="100" src="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100" class="related-entry-thumb-image wp-post-image" alt="仮想通貨用語　プラットフォーム" srcset="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=150%2C150 150w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?resize=100%2C100 100w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=2&amp;resize=100%2C100 200w, https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?zoom=3&amp;resize=100%2C100 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="8" data-permalink="http://toho-project.net/bitcoin/?attachment_id=8" data-orig-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=800%2C406" data-orig-size="800,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1512661035&quot;,&quot;copyright&quot;:&quot;SUSIPAKU&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="171208bitcoinIMGL0760_TP_V4" data-image-description="" data-medium-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=300%2C152" data-large-file="https://i0.wp.com/toho-project.net/bitcoin/wp-content/uploads/sites/6/2018/01/171208bitcoinIMGL0760_TP_V4.jpg?fit=680%2C345" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="http://toho-project.net/bitcoin/?p=741" class="related-entry-title-link" title="仮想通貨用語　プラットフォーム">
+        仮想通貨用語　プラットフォーム        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   「プラットフォーム」とは、あるソフトウェアやアプリ、サービスが動作する『基盤となる環境』のことです。
+
+OAソフトの「Word」や「Ex...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="http://toho-project.net/bitcoin/?p=741">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->  
+  <br style="clear:both;">      </aside><!-- #related-entries -->
+      
+
+
+      
+      
+      <!-- post navigation -->
+<div class="navigation">
+      <div class="prev"><a href="http://toho-project.net/bitcoin/?p=381" rel="prev"><span class="fa fa-arrow-left fa-2x pull-left"></span>仮想通貨　分析手法のチャートとは？</a></div>
+      <div class="next"><a href="http://toho-project.net/bitcoin/?p=386" rel="next"><span class="fa fa-arrow-right fa-2x pull-left"></span>仮想通貨　3つのトレンド（流れ）に乗って稼ごう</a></div>
+  </div>
+<!-- /post navigation -->
+      <!-- comment area -->
+<div id="comment-area">
+	<aside>	<div id="respond" class="comment-respond">
+		<h2 id="reply-title" class="comment-reply-title">コメントをどうぞ <small><a rel="nofollow" id="cancel-comment-reply-link" href="/bitcoin/?p=384#respond" style="display:none;">コメントをキャンセル</a></small></h2>			<form action="http://toho-project.net/bitcoin/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">メールアドレスが公開されることはありません。</span> <span class="required">*</span> が付いている欄は必須項目です</p><p class="comment-form-comment"><textarea id="comment" class="expanding" name="comment" cols="45" rows="8" aria-required="true" placeholder=""></textarea></p><p class="comment-form-author"><label for="author">名前 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">メールアドレス <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">サイト</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">新しいコメントをメールで通知</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">新しい投稿をメールで受け取る</label></p><input name="submit" type="submit" id="submit" class="submit" value="コメントを送信" /> <input type='hidden' name='comment_post_ID' value='384' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7ba0fe1618" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="38"/></p>			</form>
+			</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">このサイトはスパムを低減するために Akismet を使っています。<a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">コメントデータの処理方法の詳細はこちらをご覧ください</a>。</p></aside></div>
+<!-- /comment area -->      </div>
+    
+            </div><!-- /#main -->
+          </main>
+        <!-- sidebar -->
+<div id="sidebar" role="complementary">
+              <div class="ad-space ad-space-sidebar">
+        <div class="ad-label"></div>
+        <div class="ad-sidebar adsense-300">			<div class="textwidget"><p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- ビットコイン300　250 --><br />
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3642354032476843"
+     data-ad-slot="7470405847"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</div>
+    </div>
+      
+  <div id="sidebar-widget">
+  <!-- ウイジェット -->
+  		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget_title sidebar_widget_title">最近の投稿</h3>		<ul>
+											<li>
+					<a href="http://toho-project.net/bitcoin/?p=1857">BTC/USD (ビットコイン/ 米ドル) とは？</a>
+									</li>
+											<li>
+					<a href="http://toho-project.net/bitcoin/?p=1852">CPC（Cost per click　コスト パー クリック）とは？</a>
+									</li>
+											<li>
+					<a href="http://toho-project.net/bitcoin/?p=1845">アフィリエイト（ネットビジネス）は現実の商売と本質は同じか？</a>
+									</li>
+											<li>
+					<a href="http://toho-project.net/bitcoin/?p=1839">ＦＦレート（フェデラル・ファンド・レート）</a>
+									</li>
+											<li>
+					<a href="http://toho-project.net/bitcoin/?p=1837">ECB（European Central Bank）　欧州中央銀行・ヨーロッパ中央銀行</a>
+									</li>
+					</ul>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget_title sidebar_widget_title">タグ</h3><div class="tagcloud"><a href="http://toho-project.net/bitcoin/?tag=ask" class="tag-cloud-link tag-link-274 tag-link-position-1" style="font-size: 8pt;" aria-label="Ask (3個の項目)">Ask</a>
+<a href="http://toho-project.net/bitcoin/?tag=bitcoin" class="tag-cloud-link tag-link-11 tag-link-position-2" style="font-size: 10.023121387283pt;" aria-label="Bitcoin (6個の項目)">Bitcoin</a>
+<a href="http://toho-project.net/bitcoin/?tag=btc" class="tag-cloud-link tag-link-9 tag-link-position-3" style="font-size: 9.4566473988439pt;" aria-label="BTC (5個の項目)">BTC</a>
+<a href="http://toho-project.net/bitcoin/?tag=fx" class="tag-cloud-link tag-link-97 tag-link-position-4" style="font-size: 10.42774566474pt;" aria-label="FX (7個の項目)">FX</a>
+<a href="http://toho-project.net/bitcoin/?tag=ico" class="tag-cloud-link tag-link-171 tag-link-position-5" style="font-size: 10.832369942197pt;" aria-label="ICO (8個の項目)">ICO</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3" class="tag-cloud-link tag-link-43 tag-link-position-6" style="font-size: 8.8092485549133pt;" aria-label="アルトコイン (4個の項目)">アルトコイン</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%a4%e3%83%bc%e3%82%b5%e3%83%aa%e3%82%a2%e3%83%a0" class="tag-cloud-link tag-link-25 tag-link-position-7" style="font-size: 9.4566473988439pt;" aria-label="イーサリアム (5個の項目)">イーサリアム</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%a6%e3%82%a9%e3%83%ac%e3%83%83%e3%83%88" class="tag-cloud-link tag-link-45 tag-link-position-8" style="font-size: 9.4566473988439pt;" aria-label="ウォレット (5個の項目)">ウォレット</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%b3%e3%82%a4%e3%83%b3" class="tag-cloud-link tag-link-386 tag-link-position-9" style="font-size: 8.8092485549133pt;" aria-label="コイン (4個の項目)">コイン</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%a9%e3%82%a4%e3%83%b3" class="tag-cloud-link tag-link-61 tag-link-position-10" style="font-size: 8pt;" aria-label="サポートライン (3個の項目)">サポートライン</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%a0" class="tag-cloud-link tag-link-385 tag-link-position-11" style="font-size: 8.8092485549133pt;" aria-label="スキャム (4個の項目)">スキャム</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%81%e3%83%a3%e3%83%bc%e3%83%88" class="tag-cloud-link tag-link-22 tag-link-position-12" style="font-size: 12.127167630058pt;" aria-label="チャート (12個の項目)">チャート</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%86%e3%82%af%e3%83%8b%e3%82%ab%e3%83%ab" class="tag-cloud-link tag-link-74 tag-link-position-13" style="font-size: 8.8092485549133pt;" aria-label="テクニカル (4個の項目)">テクニカル</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%89" class="tag-cloud-link tag-link-47 tag-link-position-14" style="font-size: 11.560693641618pt;" aria-label="トレンド (10個の項目)">トレンド</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%8f%e3%83%bc%e3%83%89%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af" class="tag-cloud-link tag-link-33 tag-link-position-15" style="font-size: 8pt;" aria-label="ハードフォーク (3個の項目)">ハードフォーク</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3" class="tag-cloud-link tag-link-10 tag-link-position-16" style="font-size: 15.93063583815pt;" aria-label="ビットコイン (37個の項目)">ビットコイン</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0" class="tag-cloud-link tag-link-13 tag-link-position-17" style="font-size: 10.42774566474pt;" aria-label="マイニング (7個の項目)">マイニング</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%aa%e3%82%b9%e3%82%af" class="tag-cloud-link tag-link-167 tag-link-position-18" style="font-size: 8.8092485549133pt;" aria-label="リスク (4個の項目)">リスク</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%ac%e3%82%b8%e3%82%b9%e3%82%bf%e3%83%b3%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%b3" class="tag-cloud-link tag-link-63 tag-link-position-19" style="font-size: 8pt;" aria-label="レジスタンスライン (3個の項目)">レジスタンスライン</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%ad%e3%82%b9%e3%82%ab%e3%83%83%e3%83%88" class="tag-cloud-link tag-link-99 tag-link-position-20" style="font-size: 10.023121387283pt;" aria-label="ロスカット (6個の項目)">ロスカット</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e3%83%ad%e3%83%bc%e3%82%bd%e3%82%af%e8%b6%b3" class="tag-cloud-link tag-link-189 tag-link-position-21" style="font-size: 11.884393063584pt;" aria-label="ローソク足 (11個の項目)">ローソク足</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e4%bb%ae%e6%83%b3" class="tag-cloud-link tag-link-7 tag-link-position-22" style="font-size: 8pt;" aria-label="仮想 (3個の項目)">仮想</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8" class="tag-cloud-link tag-link-2 tag-link-position-23" style="font-size: 22pt;" aria-label="仮想通貨 (213個の項目)">仮想通貨</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e4%be%a1%e6%a0%bc" class="tag-cloud-link tag-link-18 tag-link-position-24" style="font-size: 9.4566473988439pt;" aria-label="価格 (5個の項目)">価格</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%88%86%e6%9e%90" class="tag-cloud-link tag-link-82 tag-link-position-25" style="font-size: 8.8092485549133pt;" aria-label="分析 (4個の項目)">分析</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%8f%96%e5%bc%95" class="tag-cloud-link tag-link-38 tag-link-position-26" style="font-size: 16.011560693642pt;" aria-label="取引 (38個の項目)">取引</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%8f%96%e5%bc%95%e6%89%80" class="tag-cloud-link tag-link-29 tag-link-position-27" style="font-size: 11.884393063584pt;" aria-label="取引所 (11個の項目)">取引所</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%8f%a3%e5%ba%a7" class="tag-cloud-link tag-link-31 tag-link-position-28" style="font-size: 8.8092485549133pt;" aria-label="口座 (4個の項目)">口座</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%a0%b1%e9%85%ac" class="tag-cloud-link tag-link-16 tag-link-position-29" style="font-size: 8pt;" aria-label="報酬 (3個の項目)">報酬</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e5%a3%b2%e8%b2%b7" class="tag-cloud-link tag-link-140 tag-link-position-30" style="font-size: 9.4566473988439pt;" aria-label="売買 (5個の項目)">売買</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%8a%95%e8%b3%87" class="tag-cloud-link tag-link-50 tag-link-position-31" style="font-size: 16.254335260116pt;" aria-label="投資 (41個の項目)">投資</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%8c%87%e5%80%a4" class="tag-cloud-link tag-link-44 tag-link-position-32" style="font-size: 8pt;" aria-label="指値 (3個の項目)">指値</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%8e%a1%e6%8e%98" class="tag-cloud-link tag-link-15 tag-link-position-33" style="font-size: 10.023121387283pt;" aria-label="採掘 (6個の項目)">採掘</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%90%8d%e5%88%87%e3%82%8a" class="tag-cloud-link tag-link-119 tag-link-position-34" style="font-size: 8.8092485549133pt;" aria-label="損切り (4個の項目)">損切り</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%93%81%e8%ad%b7" class="tag-cloud-link tag-link-163 tag-link-position-35" style="font-size: 8.8092485549133pt;" aria-label="擁護 (4個の項目)">擁護</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%96%b9%e6%b3%95" class="tag-cloud-link tag-link-4 tag-link-position-36" style="font-size: 8.8092485549133pt;" aria-label="方法 (4個の項目)">方法</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e6%b3%a8%e6%96%87" class="tag-cloud-link tag-link-24 tag-link-position-37" style="font-size: 10.832369942197pt;" aria-label="注文 (8個の項目)">注文</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e7%85%bd%e3%82%8a" class="tag-cloud-link tag-link-317 tag-link-position-38" style="font-size: 8pt;" aria-label="煽り (3個の項目)">煽り</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e7%94%a8%e8%aa%9e" class="tag-cloud-link tag-link-39 tag-link-position-39" style="font-size: 18.682080924855pt;" aria-label="用語 (82個の項目)">用語</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e7%9b%b8%e5%a0%b4" class="tag-cloud-link tag-link-48 tag-link-position-40" style="font-size: 10.832369942197pt;" aria-label="相場 (8個の項目)">相場</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e7%a7%bb%e5%8b%95%e5%b9%b3%e5%9d%87%e7%b7%9a" class="tag-cloud-link tag-link-64 tag-link-position-41" style="font-size: 8.8092485549133pt;" aria-label="移動平均線 (4個の項目)">移動平均線</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e8%b2%a9%e5%a3%b2%e6%89%80" class="tag-cloud-link tag-link-30 tag-link-position-42" style="font-size: 8pt;" aria-label="販売所 (3個の項目)">販売所</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e9%80%9a%e8%b2%a8" class="tag-cloud-link tag-link-8 tag-link-position-43" style="font-size: 8pt;" aria-label="通貨 (3個の項目)">通貨</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e9%96%8b%e8%a8%ad" class="tag-cloud-link tag-link-32 tag-link-position-44" style="font-size: 8pt;" aria-label="開設 (3個の項目)">開設</a>
+<a href="http://toho-project.net/bitcoin/?tag=%e9%a4%8a%e5%88%86" class="tag-cloud-link tag-link-262 tag-link-position-45" style="font-size: 8pt;" aria-label="養分 (3個の項目)">養分</a></div>
+</aside><aside id="text-31" class="widget widget_text">			<div class="textwidget"><p><a href="https://zaif.jp?ac=x9b0gjtl6z" rel="nofollow"><img alt="" src="https://i1.wp.com/d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_300x250.png?w=680&#038;ssl=1" data-recalc-dims="1" /></a></p>
+</div>
+		</aside><aside id="text-16" class="widget widget_text">			<div class="textwidget"><p><a href="https://t.afi-b.com/visit.php?guid=ON&amp;a=h8870o-j302198q&amp;p=K607101e" target="_blank" rel="nofollow noopener"><img style="border: none;" src="https://i1.wp.com/www.afi-b.com/upload_image/8870-1508797004-3.jpg?resize=300%2C250&#038;ssl=1" alt="ビットコイン" width="300" height="250" data-recalc-dims="1" /></a><img alt="" style="border: none;" src="https://t.afi-b.com/lead/h8870o/K607101e/j302198q" width="1" height="1" /></p>
+</div>
+		</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><p><a href="https://bitflyer.jp?bf=2siylbi0" target="_blank" rel="noopener"><img src="https://i1.wp.com/bitflyer.jp/Images/Affiliate/affi_04_300x250.gif?w=680&#038;ssl=1" alt="bitFlyer ビットコインを始めるなら安心・安全な取引所で" data-recalc-dims="1" /></a></p>
+</div>
+		</aside><aside id="text-19" class="widget widget_text">			<div class="textwidget"><p><a href="https://t.afi-b.com/visit.php?guid=ON&#038;a=I8939V-0318092P&#038;p=6538809a" target="_blank" rel="nofollow"><img src="https://i0.wp.com/www.afi-b.com/upload_image/8939-1521716535-3.jpg?resize=300%2C250&#038;ssl=1" width="300" height="250" style="border:none;" alt="アルトコイン訴求" data-recalc-dims="1" /></a><img alt="" src="https://t.afi-b.com/lead/I8939V/6538809a/0318092P" width="1" height="1" style="border:none;" /></p>
+</div>
+		</aside><aside id="text-18" class="widget widget_text">			<div class="textwidget"><p><a href="http://h.accesstrade.net/sp/cc?rk=0100l31600huk8" rel="nofollow" target="_blank"><img src="http://h.accesstrade.net/sp/rr?rk=0100l31600huk8" alt="" border="0" /></a></p>
+</div>
+		</aside><aside id="text-15" class="widget widget_text">			<div class="textwidget"><p><a href="http://h.accesstrade.net/sp/cc?rk=0100ljfj00huk8" target="_blank" rel="nofollow noopener"><img src="http://h.accesstrade.net/sp/rr?rk=0100ljfj00huk8" alt="" border="0" /></a></p>
+</div>
+		</aside>  </div>
+
+  
+</div><!-- /#sidebar -->
+        </div><!-- /#body-in -->
+      </div><!-- /#body -->
+
+      <!-- footer -->
+      <footer itemscope itemtype="http://schema.org/WPFooter">
+        <div id="footer" class="main-footer">
+          <div id="footer-in">
+
+            
+          <div class="clear"></div>
+            <div id="copyright" class="wrapper">
+                            <div class="credit">
+                &copy; 2018  <a href="http://toho-project.net/bitcoin">ビットコイン仮想通貨　用語集</a>              </div>
+
+                          </div>
+        </div><!-- /#footer-in -->
+        </div><!-- /#footer -->
+      </footer>
+      <div id="page-top">
+      <a id="move-page-top"><span class="fa fa-angle-double-up fa-2x"></span></a>
+  
+</div>
+          </div><!-- /#container -->
+    	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/toho-project.net\/bitcoin\/?p=384":384};
+	</script>
+				<link rel='stylesheet' id='hammy-stylesheet-css'  href='http://toho-project.net/bitcoin/wp-content/plugins/hammy/css/hammy.css' type='text/css' media='all' />
+<script src="http://toho-project.net/bitcoin/wp-includes/js/comment-reply.min.js" async></script>
+<script src="http://toho-project.net/bitcoin/wp-content/themes/simplicity2/javascript.js" defer></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/hammy/js/jquery-picture.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var imageParent = null;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/hammy/js/hammy.js'></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/postmessage.min.js'></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js'></script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js'></script>
+<script async="async" type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/akismet/_inc/form.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://toho-project.net/bitcoin/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=201909#ver=201909&amp;lang=ja' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span>人のブロガーが「いいね」をつけました。</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0',blog:'140813996',post:'384',tz:'9',srv:'toho-project.net'} ]);
+	_stq.push([ 'clickTrackerInit', '140813996', '384' ]);
+</script>
+            <!-- はてブシェアボタン用スクリプト -->
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+
+    
+  </body>
+</html>

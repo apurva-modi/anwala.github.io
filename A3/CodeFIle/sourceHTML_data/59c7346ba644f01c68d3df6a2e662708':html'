@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html>
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <link rel="amphtml" href="https://cointyo.jp/article/amp/10006274">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@COIN_TOKYO_JP">
+    <meta name="twitter:creator" content="@COIN_TOKYO_JP">
+    <meta name="twitter:title" content="カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令｜仮想通貨ニュースと速報-コイン東京(cointokyo)">
+    <meta name="twitter:description" content="7日、カナダの規制当局ケベック州金融市場局（AMF）は、金融行政審判所（TMF）の判断を下に、仮想通貨のマイニング企業Technologies Crypto社への投資契約が証券規制に該当する可能性があると発表しました。">
+        <meta name="twitter:image" content="https://cointyo.jp/images/articles/10006274/big_main10006274_20190216164729903652.png">
+        <meta property="og:title" content="カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令｜仮想通貨ニュースと速報-コイン東京(cointokyo)" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://cointyo.jp/article/10006274" />
+    <meta property="fb:app_id" content="357153011466279" />
+    <meta property="og:image" content="https://cointyo.jp/images/articles/10006274/big_main10006274_20190216164729903652.png" />
+    <meta property="og:site_name" content="cointyo.jp" />
+    <meta property="og:description" content="7日、カナダの規制当局ケベック州金融市場局（AMF）は、金融行政審判所（TMF）の判断を下に、仮想通貨のマイニング企業Technologies Crypto社への投資契約が証券規制に該当する可能性があると発表しました。" />
+ <meta charset="utf-8">
+<meta name="description" content="7日、カナダの規制当局ケベック州金融市場局（AMF）は、金融行政審判所（TMF）の判断を下に、仮想通貨のマイニング企業Technologies Crypto社への投資契約が証券規制に該当する可能性があると発表しました。"/> <meta name="keywords" content="" >
+<title>カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令｜仮想通貨ニュースと速報-コイン東京(cointokyo)</title>
+<link rel="stylesheet" type="text/css" href="/css/style.css?ver1039"/><link rel="stylesheet" type="text/css" href="/css/used.css?ver1010"/><link rel="stylesheet" type="text/css" href="/css/swiper.css"/><link rel="stylesheet" type="text/css" href="/css/modal.css"/><script>
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVFVVFM');
+</script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script type="text/javascript" src="/js/modal.js"></script>
+ <script type="text/javascript">
+ $(function() {
+  $("#gNavi li").hover(function() {
+   $(this).children('ul#sub').show();
+  }, function() {
+   $(this).children('ul#sub').hide();
+  });
+  $("#gNavi li").hover(function() {
+   $(this).children('ul#sub2').show();
+  }, function() {
+   $(this).children('ul#sub2').hide();
+  });
+});
+ </script>
+ <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+ </head>
+ <body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVFVVFM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '357153011466279',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<header class="clearfix">
+    <div id="headWrapper" class="clearfix">
+                                                     <div class="flL"><h1 id="logo"><a href="/"><img src="/img/common/h_logo01.png" alt="COIN TOKYO" width="250px" height="47px"></a></h1></div>
+		 <div class="headlate_box">
+			<div class="headicon">
+				<div class="img"><img src="/img/common/BTC_logo.png"></div>
+				<div class="price">¥430,918<br>
+                                    <span class="name">BTC</span>
+                                                                            <span class="late" style="color:#006eff;">+0.10%</span>
+                                                                    </div>
+			</div><!--headicon-->
+			<div class="headicon">
+				<div class="img"><img src="/img/common/ETH_logo.png"></div>
+				<div class="price">¥14,915<br>
+                                    <span class="name">ETH</span>
+                                                                            <span class="late" style="color:#ff0000;">-0.02%</span>
+                                                                    </div>
+			</div><!--headicon-->
+			<div class="headicon">
+				<div class="img"><img src="/img/common/XRP_logo.png"></div>
+				<div class="price">¥34.99<br>
+                                    <span class="name">XRP</span>
+                                                                            <span class="late" style="color:#ff0000;">-0.05%</span>
+                                                                    </div>
+			</div><!--headicon-->
+			<div class="headicon">
+				<div class="img"><img src="/img/common/BCH_logo.png"></div>
+				<div class="price">¥14,775<br>
+                                    <span class="name">BCH</span>
+                                                                            <span class="late" style="color:#ff0000;">-0.07%</span>
+                                                                    </div>
+			</div><!--headicon-->
+		</div>
+                           <div id="rightHead" class="clearfix">
+ 
+        <dl class="search1">
+            <form action="/article/search" name="SearchForm" id="ArticleSearchFormSearchForm" method="get" accept-charset="utf-8">                <dt>
+                    <input name="keyword" placeholder="記事を検索" type="text" id="ArticleSearchFormKeyword"/>                </dt>
+                <dd>
+                     <button type="submit"><span></span></button>
+                </dd>
+             </form>
+         </dl>
+    </div>
+    </div>
+         </header>
+    
+<!--<div id="nav">
+     <nav>
+        <ul id="gNavi" class="clearfix">
+             <li>
+            <li>                 <a href="/">トップ</a>
+             </li>
+                                                        <li class="act">                 <a href="/article/category/100">ニュース</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/100/264">ビットコイン</a></li>
+                                            <li><a href="/article/category/100/265">リップル</a></li>
+                                            <li><a href="/article/category/100/266">イーサリアム</a></li>
+                                            <li><a href="/article/category/100/267">仮想通貨</a></li>
+                                            <li><a href="/article/category/100/268">ブロックチェーン</a></li>
+                                            <li><a href="/article/category/100/269">取引所</a></li>
+                                            <li><a href="/article/category/100/270">ICO</a></li>
+                                            <li><a href="/article/category/100/271">規制</a></li>
+                                            <li><a href="/article/category/100/272">リリース</a></li>
+                                            <li><a href="/article/category/100/273">イベント</a></li>
+                                     </ul>
+                            </li>
+                                            <li>                 <a href="/article/category/261">マーケット情報</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/261/274">マーケット情報</a></li>
+                                     </ul>
+                            </li>
+                                            <li>                 <a href="/article/category/236">仮想通貨</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/236/275">ビットコイン</a></li>
+                                            <li><a href="/article/category/236/278">リップル</a></li>
+                                            <li><a href="/article/category/236/279">イーサリアム</a></li>
+                                            <li><a href="/article/category/236/276">ビットコインキャッシュ</a></li>
+                                            <li><a href="/article/category/236/277">ネム</a></li>
+                                            <li><a href="/article/category/236/280">ネオ</a></li>
+                                            <li><a href="/article/category/236/281">ライトコイン</a></li>
+                                            <li><a href="/article/category/236/282">アルトコイン</a></li>
+                                     </ul>
+                            </li>
+                                            <li>                 <a href="/article/category/244">取引所</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/244/283">ビットフライヤー</a></li>
+                                            <li><a href="/article/category/244/284">バイナンス</a></li>
+                                            <li><a href="/article/category/244/285">Bitmex</a></li>
+                                            <li><a href="/article/category/244/286">quoinex</a></li>
+                                            <li><a href="/article/category/244/287">国内取引所</a></li>
+                                            <li><a href="/article/category/244/288">海外取引所</a></li>
+                                     </ul>
+                            </li>
+                                            <li>                 <a href="/article/category/262">仮想通貨知識</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/262/289">初心者向け</a></li>
+                                            <li><a href="/article/category/262/290">ICO</a></li>
+                                            <li><a href="/article/category/262/291">仮想通貨税金</a></li>
+                                            <li><a href="/article/category/262/292">ウォレット</a></li>
+                                            <li><a href="/article/category/262/293">ツール</a></li>
+                                            <li><a href="/article/category/262/294">Daaps</a></li>
+                                            <li><a href="/article/category/262/295">エアドロップ</a></li>
+                                            <li><a href="/article/category/262/296">ブロックチェーン</a></li>
+                                     </ul>
+                            </li>
+                                            <li id="gNaviLast">                 <a href="/article/category/263">取材レポート</a>
+                                <ul id="sub2">
+                                            <li><a href="/article/category/263/298">取材</a></li>
+                                            <li><a href="/article/category/263/299">カンファレンス</a></li>
+                                            <li><a href="/article/category/263/300">ミートアップ</a></li>
+                                     </ul>
+                            </li>
+                     </ul>
+    </nav>
+ </div>-->
+
+<div id="nav">
+     <nav>
+        <ul id="gNavi" class="clearfix">
+           <li>
+            <li class="act">
+              <a href="/">トップ</a>
+            </li>
+            <li>
+              <a href="/article/category/100">ニュース</a>
+              <ul id="sub2">
+                <li><a href="/article/category/100/264">ビットコイン</a></li>
+                <li><a href="/article/category/100/265">リップル</a></li>
+                <li><a href="/article/category/100/266">イーサリアム</a></li>
+                <li><a href="/article/category/100/267">仮想通貨</a></li>
+                <li><a href="/article/category/100/268">ブロックチェーン</a></li>
+                <li><a href="/article/category/100/269">取引所</a></li>
+                <li><a href="/article/category/100/270">ICO</a></li>
+                <li><a href="/article/category/100/271">規制</a></li>
+                <li><a href="/article/category/100/272">リリース</a></li>
+                <li><a href="/article/category/100/273">イベント</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="/tag/15">チャート</a>
+            </li>
+            <li>
+              <a href="/tag/34">ビットコイン</a>
+            </li>
+            <li>
+              <a href="/tag/3">リップル</a>
+            </li>
+            <li>
+              <a href="/tag/27">イーサリアム</a>
+            </li>
+            <li>
+              <a href="/tag/36">アルトコイン</a>
+            </li>
+            <li>
+              <a href="/tag/9">取引所</a>
+            </li>
+            <li>
+              <a href="/tag/46">初心者向け</a>
+            </li>
+            <li>
+              <a href="/article/category/263">特集</a>
+            </li>
+            <li id="gNaviLast">
+              <a href="/contact">CONTACT</a>
+            </li>
+			     </li>
+         </ul>
+    </nav>
+ </div>
+
+<div id="container" class="clearfix">
+     <div id="subContents">
+        <div class="pkz">
+            <a href="/">TOP</a> >
+            <a href="/article/category/100">ニュース</a> >
+            <a href="/article/category/100/271">規制</a>
+        </div>
+        <div class="contentsBox clearfix">
+             <ul class="cateName clearfix">
+                <li>
+                    2019/02/16                </li>
+                <li class="writer">
+                    コイン東京編集部                </li>
+            </ul>
+
+
+
+             <h1 class="detailTitle">カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令</h1>
+                         <div id="snsArea">
+                <div style="width:74px;height:22px;float:left;"><a href="https://twitter.com/share" class="twitter-share-button"{count} data-lang="ja" data-dnt="true">ツイート</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+                <div id="boxArea" style="display:table;padding:0 0 0 2px;">
+                     <div style="width:150px;height:22px;float:left;">
+                        <iframe src="//www.facebook.com/v2.0/plugins/like.php?href=https://cointyo.jp/article/10006274&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=90&amp;appId=" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:90px;" allowTransparency="true"></iframe>
+                    </div>
+                     <div style="width:36px;height:22px;float:left;">
+                        <div class="g-plusone" data-size="medium" data-annotation="none"></div>
+                        <script type="text/javascript">
+                            window.___gcfg = {lang: 'ja'};
+                            (function() {
+                              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                              po.src = 'https://apis.google.com/js/platform.js';
+                              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                            })();
+                        </script></div>
+                     <div style="width:82px;height:22px;float:left;"><a href="//b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></div>
+                 </div>
+            </div>
+
+            
+             <div class="clear"></div>
+             <div class="snsLine"></div>
+
+
+                                                        <figure class="bigImg">
+                        <img src="/images/articles/10006274/big_main10006274_20190216164729903652.png" alt=""/>                                           </figure>
+                                                                        <div class="leadTextTop">7日、カナダの規制当局ケベック州金融市場局（AMF）は、金融行政審判所（TMF）の判断を下に、仮想通貨のマイニング企業Technologies Crypto社への投資契約が証券規制に該当する可能性があると発表しました。</div>
+                                            </div>
+                 <div class="contentsBox clearfix">
+                                                                                                                                <h2 class="detailText">マイニング事業の資金調達が投資契約に該当</h2>
+                                                                                                    <p class="detailTextBox" style="word-break: break-all;">
+                            Technologies Crypto Inc.（テクノロジーズ・クリプト社）は、投資資金を同社のマイニングサービス“Make it Mine” に使用すると主張して、投資家から30万ドルを受け取ったと伝えられています。その後多くの投資家は投資資金の払い戻しができなくなったため、投資金の回収を求めてAMFに要請していました。AMFは、金融行政審判所（TMF）にTechnologies Cryptoの資産凍結を求めていました。<br />
+<br />
+AMFのJean-FrançoisFortin氏によると、金融行政審判所（TMF）が、「仮想通貨マイニングに関連する投資提案が、投資契約（公募が規制された証券等）を構成する可能性がある」と判断を下したのはこれが初めてです。<br />
+<br />
+進行中のこの問題は現在も当局が調査中です。AMFはアドバイスを目的に、投資家に2月末までに連絡するよう要請しています。<br />
+<br />
+2月初旬に、金融行政審判所（TMF）は、Technologies Cryptoに一連の凍結命令を下していました。同社は仮想通貨マイニング機器のカストディを解放し、証券取引とみなされる暗号活動を中止しなければならなくなっています。<br />
+<br />
+金融行政審判所（TMF）は、投資家保護と市場の促進を目的とした規制当局です。これまで仮想通貨詐欺にも対処しており、2017年にはPlexCoinの不正なICO(イニシャル・コイン・オファリング）の活動を禁止しました。PlexCoinはその後、責任者の禁固刑と罰金の支払いを言い渡されました。<br />
+<br />
+*仮想通貨マイニングは、ブロックチェーンネットワーク上のトランザクションを承認するプロセスです。マイナーは仕事の報酬として仮想通貨を受取ります。記述されていませんが、おそらくTechnologies Cryptoは投資家に対し、マイニング報酬の一部を還元する契約を結んだ可能性があります。<br />
+<br />
+<br />
+関連記事                        </p>
+                                                                                                    <p class="txtlink">
+                        <a href="https://cointyo.jp/article/10006140" target="_blank">                        <font color="blue"><span onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">                        カナダのQuadrigaCX取引所がCEO逝去によりストレージへのアクセス権を喪失、州最高裁判所へ債権者保護を申請                        </span></font>                        </a>                        </p>
+                                                                                                    <p class="txtlink">
+                        <a href="https://lautorite.qc.ca/grand-public/salle-de-presse/actualite/fiche-dactualite/appel-aux-investisseurs-relativement-au-dossier-technologies-crypto-inc-david-fortin-dominguez-et/" target="_blank">                        <font color="blue"><span onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">                        参考：AMF                        </span></font>                        </a>                        </p>
+                                                                     </div>
+
+        
+
+	<div id="fbpage_share" style="width:100%;max-width:600px;margin:30px auto 30px auto;background:#2b2b2b;">
+                                        <img src="/images/articles/10006274/big_main10006274_20190216164729903652.png" alt="" style="width:50%;max-width:300px;float:left;"/>                            <div style="width:50%;max-width:300px;text-align:center;float:left;">
+
+            <div style="margin-top:60px;transform:scale(1.3);-webkit-transform:scale(1.3);-moz-transform:scale(1.3);" class="fb-like" data-href="https://www.facebook.com/1998372317154975/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
+
+                <div style="margin-top:20px; text-align: center;"><a href="https://twitter.com/COIN_TOKYO_JP?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @COIN_TOKYO_JP</a></div>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+            	<p style="color:#fff;font-size:90%;margin-top:20px;">仮想通貨の最新情報をお届けします！</p>
+            </div>
+            <p style="clear:both;"></p>
+        </div>
+
+
+
+         <!-- <div style="text-align: center;margin: 10px auto 10px auto;"><a href="/img/ad/#"><img src="/＃" alt="#" width="728px"></a></div> -->
+
+        
+
+                <div class="contentsBox clearfix">
+             <h4 class="detailhBack">関連キーワード</h4>
+                                                 <div class="kewWord3">
+                <ul class="kewWordList3 clearfix">
+                                         <li>
+                        <div class="keyWordBox">
+                         <a href="/tag/40">
+                         マイニング                         </a>
+                        </div>
+                    </li>
+                                 </ul>
+            </div>
+                     </div>
+        
+
+                <div class="contentsBox clearfix">
+             <h4 class="detailhBack">おすすめのバックナンバー</h4>
+             <div class="detailBox clearfix">
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10006297">
+                                                                    <img class="resize2" src="/images/articles/10006297/thumb_main10006297_20190219171827252046.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10006297">
+                                    マイニング機械製造大手Bitmainが新世代ASICチップを発表｜一...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/267">仮想通貨</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2019/02/19                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005992">
+                                                                    <img class="resize2" src="/images/articles/10005992/thumb_main10005992_20190116114330004801.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005992">
+                                    ビットコイン（BTC）ハッシュレートでBitmain社のシェアが低...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/264">ビットコイン</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2019/01/16                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005929">
+                                                                    <img class="resize2" src="/images/articles/10005929/thumb_main10005929_20190109131739819464.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005929">
+                                    GMOがマイニング事業の12月度月次状況を報告。マイニング報酬...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/267">仮想通貨</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2019/01/09                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005876">
+                                                                    <img class="resize2" src="/images/articles/10005876/thumb_main10005876_20190103203013509459.png" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005876">
+                                    BTCChinaの創設者が100%自社株買い｜カナダ上場企業スクワイ...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/269">取引所</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2019/01/03                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005814">
+                                                                    <img class="resize2" src="/images/articles/10005814/thumb_main10005814_20181226083919534363.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005814">
+                                    マイニング大手Bitmainの情報筋が進行形のレイオフを認めるも...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/267">仮想通貨</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2018/12/26                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005676">
+                                                                    <img class="resize2" src="/images/articles/10005676/thumb_main10005676_20181212103338212226.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005676">
+                                    ビットコイン採掘大手Bitmainがチャイナ・モバイルとAIチップ...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/267">仮想通貨</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2018/12/12                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005659">
+                                                                    <img class="resize2" src="/images/articles/10005659/thumb_main10005659_20181210191335141926.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005659">
+                                    ビットコイン・マイニング大手BitMainがイスラエル開発センタ...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/267">仮想通貨</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2018/12/10                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                                    <dl class="clearfix">
+                         <dt>
+                            <a href="/article/10005585">
+                                                                    <img class="resize2" src="/images/articles/10005585/thumb_main10005585_20181203102405458366.jpg" width="130"  alt="">
+                                                                                           </a>
+                         </dt>
+                         <dd>
+                            <p class="cateTitle">
+                                <a href="/article/10005585">
+                                    ビットコイン・マイニングは他の大規模産業よりも環境に影響...                                </a>
+                            </p>
+                            <ul class="clearfix">
+                               <li>&nbsp;<a href="/article/category/100">ニュース</a></li>
+                               <li>&nbsp;<a href="/article/category/100/264">ビットコイン</a></li>
+                             </ul>
+                            <div class="carMainBox2 clearfix">
+                                 <p class="title2">コイン東京編集部                                        <span>&nbsp;
+                                        2018/12/03                                        </span></p>
+                             </div>
+                        </dd>
+                     </dl>
+                            </div>
+         </div>
+        
+
+<div id="_popIn_recommend"></div>
+<script type="text/javascript">
+    (function() {
+        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+        pa.src = window.location.protocol + "//api.popin.cc/searchbox/cointyo.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+    })();
+</script>
+
+
+
+
+    </div>
+     <div id="sideRight">
+
+         <div class="clear"></div>
+
+        <h4>人気記事ランキングまとめ</h4>
+<ul class="ranking">
+               <li class="clearfix">
+        <dl class="clearfix">
+           <dt>
+               <a href="/article/10006415">
+                                       <img class="sideRightThum" src="/images/articles/10006415/thumb_main10006415_20190303093545418935.jpg" alt="">
+                                   </a>
+            </dt>
+           <dd class="clearfix">
+                <div class="titleText clearfix">
+                    <a href="/article/10006415">
+                        リップル（XRP）が東南アジアのフィアット...                    </a>
+                    <span class="text2">
+                        コイン東京編集部                    </span></div>
+                <div class="rankingNo">1</div>
+                <div class="clear"></div>
+            </dd>
+       </dl>
+    </li>
+          <li class="clearfix">
+        <dl class="clearfix">
+           <dt>
+               <a href="/article/10006412">
+                                       <img class="sideRightThum" src="/images/articles/10006412/thumb_main10006412_20190302222653771735.jpg" alt="">
+                                   </a>
+            </dt>
+           <dd class="clearfix">
+                <div class="titleText clearfix">
+                    <a href="/article/10006412">
+                        リップル(XRP)は長く続く下落チャートの中...                    </a>
+                    <span class="text2">
+                        コイン東京編集部                    </span></div>
+                <div class="rankingNo">2</div>
+                <div class="clear"></div>
+            </dd>
+       </dl>
+    </li>
+          <li class="clearfix">
+        <dl class="clearfix">
+           <dt>
+               <a href="/article/10006420">
+                                       <img class="sideRightThum" src="/images/articles/10006420/thumb_main10006420_20190303171430319872.jpg" alt="">
+                                   </a>
+            </dt>
+           <dd class="clearfix">
+                <div class="titleText clearfix">
+                    <a href="/article/10006420">
+                        ビットコイン(BTC)は変わらずレンジ相場を...                    </a>
+                    <span class="text2">
+                        コイン東京編集部                    </span></div>
+                <div class="rankingNo">3</div>
+                <div class="clear"></div>
+            </dd>
+       </dl>
+    </li>
+          <li class="clearfix">
+        <dl class="clearfix">
+           <dt>
+               <a href="/article/10006419">
+                                       <img class="sideRightThum" src="/images/articles/10006419/thumb_main10006419_20190303165626412546.jpg" alt="">
+                                   </a>
+            </dt>
+           <dd class="clearfix">
+                <div class="titleText clearfix">
+                    <a href="/article/10006419">
+                        イーサリアム(ETH)はレンジ相場で上値を切...                    </a>
+                    <span class="text2">
+                        コイン東京編集部                    </span></div>
+                <div class="rankingNo2">4</div>
+                <div class="clear"></div>
+            </dd>
+       </dl>
+    </li>
+          <li class="clearfix">
+        <dl class="clearfix">
+           <dt>
+               <a href="/article/10005439">
+                                       <img class="sideRightThum" src="/images/articles/10005439/thumb_main10005439_20181119115938813301.jpg" alt="">
+                                   </a>
+            </dt>
+           <dd class="clearfix">
+                <div class="titleText clearfix">
+                    <a href="/article/10005439">
+                        仮想通貨の税金、損失が出たり損切りの場...                    </a>
+                    <span class="text2">
+                        コイン東京編集部                    </span></div>
+                <div class="rankingNo2">5</div>
+                <div class="clear"></div>
+            </dd>
+       </dl>
+    </li>
+   </ul>
+<a href="/article/ranking"><img src="/img/right/morelook.png" class="imgRight2" width="94" height="24" alt="もっと見る"></a>
+         <div class="clear" style="margin-bottom:25px;"></div>
+
+
+         <!-- TradingView Widget BEGIN -->
+         <div class="tradingview-widget-container">
+           <div class="tradingview-widget-container__widget"></div>
+           <div class="tradingview-widget-copyright">TradingView提供の<a href="https://jp.tradingview.com/symbols/BITFLYER-BTCJPY/" rel="noopener" target="_blank"><span class="blue-text">BTCJPYレート</span></a></div>
+           <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+           {
+           "symbol": "BITFLYER:BTCJPY",
+           "width": 300,
+           "height": 220,
+           "locale": "ja",
+           "dateRange": "1y",
+           "colorTheme": "light",
+           "trendLineColor": "#37a6ef",
+           "underLineColor": "#e3f2fd",
+           "isTransparent": false,
+           "autosize": false,
+           "largeChartUrl": ""
+         }
+           </script>
+         </div>
+         <!-- TradingView Widget END -->
+
+
+<!--<div style="text-align: center;margin: 10px auto 5px auto;"><a href="#"><img src="/img/ad/" alt="" ></a></div>-->
+
+     </div>
+ </div>
+<script type="text/javascript">
+function ShowMessage() {
+    alert("お気に入り登録はログインしてからご利用ください。");
+}
+ $("#bookmark").click(function() {
+  var num = $(this).data("favonum");
+  var target = $(this).data("favotarget");
+  var button = this;
+  if($(this).data('condition') == false){
+    $.ajax({
+      url: '/bookmark/add',
+      type: 'POST',
+      dataType: 'text',
+      data: {target: target,id: num},
+        success : function(data, textStatus, jqXHR){
+            $(button).text($(button).data('text-clicked'));
+            $(button).attr('onclick', 'location.href="/mypage/bookmark"');
+            $(button).data('condition',true);
+        },
+        error: function(data, textStatus, jqXHR){
+        }
+    })
+  }
+});
+</script>
+
+<script>(function(d, s, id) {
+        if (d.getElementById(id)) return;
+        var js, p = d.getElementsByTagName(s)[0];
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//s0.monipla.com/js/min/cmt_plugin.min.js?1536222110";
+        p.parentNode.insertBefore(js, p);
+    }(document, 'script', 'monipla_jsplugin'));</script>
+
+<footer>
+
+     <div id="footerContents">
+       <div id="fLogo"><a href="https://cointyo.jp/" target="_self"><img src="/img/common/logo.png" height="100" alt="コイン東京(cointokyo)"/></div>
+       <ul class="snsIcon clearfix">
+           <li><a href="https://www.facebook.com/cointyo.jp/" target="_blank"><img src="/img/footer/facebook.jpg" width="47" height="47" alt="facebook"/></a></li>
+            <li><a href="https://twitter.com/COIN_TOKYO_JP" target="_blank"><img src="/img/footer/twitter.jpg" width="47" height="47" alt="twitter"/></a></li>
+        </ul>
+     </div>
+
+
+     <div id="footerNavi">
+        <ul class="clearfix">
+            <li><a href="/company">運営会社</a><span class="stick">|</span></li>
+             <li><a href="/about">コイン東京(cointokyo)とは</a><span class="stick">|</span></li>
+             <li><a href="/contact/ad">広告掲載について</a><span class="stick">|</span></li>
+             <li><a href="/contact">CONTACT</a><span class="stick">|</span></li>
+             <li><a href="/terms">利用規約</a><!--<span class="stick">|</span>--></li>
+            <!-- <li><a href="/privacy_policy">プライバシーポリシー</a></li> -->
+         </ul>
+    </div>
+     <div id="copyright">©仮想通貨ニュースcoin tokyo 2018</div>
+ </footer>
+<div id="modal-content">
+     <div id="modal_head">ログイン</div>
+     <div id="modalFormArea">
+        <form action="/login" id="MemberIndexForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div><input type="hidden" name="data[Member][redirect_url]" value="/article/10006274" id="MemberRedirectUrl"/>            <input name="data[Member][mail_address]" class="loginText" maxlength="100" placeholder="メールアドレス" type="text" id="MemberMailAddress" required="required"/>            <input name="data[Member][password]" class="loginText" maxlength="255" placeholder="パスワード" type="password" id="MemberPassword" required="required"/>            <p style="font-size: 14px;text-align: left;vertical-align: top;">
+                <input type="hidden" name="data[Member][modal_autologin]" id="MemberModalAutologin_" value="0"/><input type="checkbox" name="data[Member][modal_autologin]" style="display:inline;font-size: 14px;" value="1" id="MemberModalAutologin"/><label for="MemberModalAutologin">&nbsp;ログインしたままにする</label>            </p><br/>
+         <span class="forgotText">ユーザー登録されていますか？ 新規登録は<a href="/register" class="kochira">こちら</a></span><br/>
+             <span class="forgotText">パスワードをお忘れの方は<a href="/accounts/forgot_pass" class="kochira">こちら</a></span>
+             <button type="submit" class="modalLogin">ログイン</button>
+         </form>
+    </div>
+ </div>
+
+ <div id="modal-content2">
+     <div id="modal_head">無料登録</div>
+     <div id="facebookLogin">
+        <p>すでに既にユーザー登録がお済みの方は<a href="" class="kochira">こちら</a></p>
+        <a href="" class="facebookBtn">Facebookで無料登録</a> </div>
+     <div id="modalFormArea">
+        <p style="text-align:left;">または</p>
+             <button type="button" class="modalLogin2">メールアドレスで登録</button>
+    </div>
+ </div>
+
+</body>
+</html>

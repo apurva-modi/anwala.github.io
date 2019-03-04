@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+
+	<head>
+	
+	<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-5957556937400954",enable_page_level_ads:true});</script>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-5957556937400954",enable_page_level_ads:true});</script>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+						 
+		<title>世界取引所の円換算ビットコイン価格をリアルタイム表示 &#8211; 24601&#039;s Blog!</title>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="24601&#039;s Blog! &raquo; フィード" href="http://24601.tokyo/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="24601&#039;s Blog! &raquo; コメントフィード" href="http://24601.tokyo/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="24601&#039;s Blog! &raquo; 世界取引所の円換算ビットコイン価格をリアルタイム表示 のコメントのフィード" href="http://24601.tokyo/2018/02/22/btc-price/feed/"/>
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/24601.tokyo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel='stylesheet' id='lightbox-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/lightbox.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='owl-theme-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/owl.theme.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='owl-carousel-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/owl.carousel.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='apif-frontend-css-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/frontend.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='apif-font-awesome-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/font-awesome.min.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='apif-gridrotator-css' href='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/css/gridrotator.css?ver=3.0.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='aptf-bxslider-css' href='http://24601.tokyo/wp-content/plugins/accesspress-twitter-feed/css/jquery.bxslider.css?ver=1.5.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='aptf-front-css-css' href='http://24601.tokyo/wp-content/plugins/accesspress-twitter-feed/css/frontend.css?ver=1.5.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='aptf-font-css-css' href='http://24601.tokyo/wp-content/plugins/accesspress-twitter-feed/css/fonts.css?ver=1.5.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='fancybox-css' href='http://24601.tokyo/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.1.3.21.min.css' type='text/css' media='screen'/>
+<link rel='stylesheet' id='baskerville_googleFonts-css' href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C700%7CRoboto%3A400%2C400italic%2C700%2C700italic%2C300%7CPacifico%3A400&#038;ver=4.9.9' type='text/css' media='all'/>
+<link rel='stylesheet' id='baskerville_style-css' href='http://24601.tokyo/wp-content/themes/baskerville/style.css?ver=4.9.9' type='text/css' media='all'/>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/owl.carousel.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-twitter-feed/js/jquery.bxslider.min.js?ver=1.5.8'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-twitter-feed/js/frontend.js?ver=1.5.8'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/themes/baskerville/js/imagesloaded.pkgd.js?ver=1'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/themes/baskerville/js/flexslider.min.js?ver=1'></script>
+<link rel='https://api.w.org/' href='http://24601.tokyo/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://24601.tokyo/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://24601.tokyo/wp-includes/wlwmanifest.xml"/> 
+<link rel='prev' title='BTC先物, USD, Tetherをグラフでリアルタイム比較' href='http://24601.tokyo/2018/02/22/btcfuture-usd-usdt-tether/'/>
+<link rel='next' title='川上量生 「鈴木さんにも分かるネットの未来」' href='http://24601.tokyo/2018/03/12/%e5%b7%9d%e4%b8%8a%e9%87%8f%e7%94%9f-%e3%80%8c%e9%88%b4%e6%9c%a8%e3%81%95%e3%82%93%e3%81%ab%e3%82%82%e5%88%86%e3%81%8b%e3%82%8b%e3%83%8d%e3%83%83%e3%83%88%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%80%8d/'/>
+<meta name="generator" content="WordPress 4.9.9"/>
+<link rel="canonical" href="http://24601.tokyo/2018/02/22/btc-price/"/>
+<link rel='shortlink' href='http://24601.tokyo/?p=102'/>
+<link rel="alternate" type="application/json+oembed" href="http://24601.tokyo/wp-json/oembed/1.0/embed?url=http%3A%2F%2F24601.tokyo%2F2018%2F02%2F22%2Fbtc-price%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://24601.tokyo/wp-json/oembed/1.0/embed?url=http%3A%2F%2F24601.tokyo%2F2018%2F02%2F22%2Fbtc-price%2F&#038;format=xml"/>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-105341496-1','24601.tokyo');ga('send','pageview');</script>
+<meta name="keywords" content="スプレッドシート,資産運用,株価,リアルタイム,自動取得,スクリプト,ビットコイン,BTC,googlefinance, impotXML"/>
+<meta name="description" content="株価の自動取得のスクリプトを作りました"/>
+		<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style>
+		
+<!-- BEGIN: WP Social Bookmarking Light HEAD -->
+
+
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+
+<style type="text/css">.wp_social_bookmarking_light{border:0!important;padding:10px 0 20px 0!important;margin:0!important}.wp_social_bookmarking_light div{float:left!important;border:0!important;padding:0!important;margin:0 5px 0px 0!important;min-height:30px!important;line-height:18px!important;text-indent:0!important}.wp_social_bookmarking_light img{border:0!important;padding:0;margin:0;vertical-align:top!important}.wp_social_bookmarking_light_clear{clear:both!important}#fb-root{display:none}.wsbl_facebook_like iframe{max-width:none!important}.wsbl_pinterest a{border:0px!important}</style>
+<!-- END: WP Social Bookmarking Light HEAD -->
+	
+	</head><amp-auto-ads type="adsense" data-ad-client="ca-pub-5957556937400954"></amp-auto-ads>
+	
+	<body class="post-template-default single single-post postid-102 single-format-standard no-featured-image single single-post">
+
+			
+		<div class="header section small-padding bg-dark bg-image" style="background-image:url(http://24601.tokyo/wp-content/themes/baskerville/images/header.jpg)">
+		
+			<div class="cover"></div>
+			
+			<div class="header-search-block bg-graphite hidden">
+			
+				<form method="get" class="searchform" action="http://24601.tokyo/">
+	<input type="search" value="" placeholder="Search form" name="s" class="s"/> 
+	<input type="submit" class="searchsubmit" value="Search">
+</form>			
+			</div><!-- .header-search-block -->
+					
+			<div class="header-inner section-inner">
+			
+												
+					<h1 class="blog-title">
+						<a href="http://24601.tokyo" title="24601&#039;s Blog! &mdash; Just another WordPress site" rel="home">24601&#039;s Blog!</a>
+					</h1>
+					
+										
+						<h3 class="blog-description">Just another WordPress site</h3>
+						
+															
+											
+			</div><!-- .header-inner -->
+						
+		</div><!-- .header -->
+		
+		<div class="navigation section no-padding bg-dark">
+		
+			<div class="navigation-inner section-inner">
+			
+				<div class="nav-toggle fleft hidden">
+					
+					<div class="bar"></div>
+					<div class="bar"></div>
+					<div class="bar"></div>
+					
+					<div class="clear"></div>
+					
+				</div>
+						
+				<ul class="main-menu">
+				
+					<li class="page_item page-item-2"><a href="http://24601.tokyo/bitcoin-future/">BTC先物, USD, Tetherをグラフでリアルタイム比較</a></li>
+											
+				 </ul><!-- .main-menu -->
+				 
+				 <a class="search-toggle fright" href="#"></a>
+				 
+				 <div class="clear"></div>
+				 
+			</div><!-- .navigation-inner -->
+			
+		</div><!-- .navigation -->
+		
+		<div class="mobile-navigation section bg-graphite no-padding hidden">
+					
+			<ul class="mobile-menu">
+			
+				<li class="page_item page-item-2"><a href="http://24601.tokyo/bitcoin-future/">BTC先物, USD, Tetherをグラフでリアルタイム比較</a></li>
+										
+			 </ul><!-- .main-menu -->
+		
+		</div><!-- .mobile-navigation -->
+<div class="wrapper section medium-padding">
+										
+	<div class="section-inner">
+	
+		<div class="content fleft">
+												        
+									
+				<div id="post-102" class="post-102 post type-post status-publish format-standard hentry category-btc">
+
+									
+					<div class="post-header">
+
+												
+						    <h1 class="post-title"><a href="http://24601.tokyo/2018/02/22/btc-price/" rel="bookmark" title="世界取引所の円換算ビットコイン価格をリアルタイム表示">世界取引所の円換算ビットコイン価格をリアルタイム表示</a></h1>
+
+											    
+					</div><!-- .post-header -->
+					
+																			                                    	    
+					<div class="post-content">
+						
+						<div class='wp_social_bookmarking_light'>
+            <div class="wsbl_hatena_button"><a href="//b.hatena.ne.jp/entry/http://24601.tokyo/2018/02/22/btc-price/" class="hatena-bookmark-button" data-hatena-bookmark-title="世界取引所の円換算ビットコイン価格をリアルタイム表示" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"> <img src="//b.hatena.ne.jp/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;"/></a><script type="text/javascript" src="//b.hatena.ne.jp/js/bookmark_button.js" charset="utf-8" async="async"></script></div>
+            <div class="wsbl_facebook_like"><div id="fb-root"></div><fb:like href="http://24601.tokyo/2018/02/22/btc-price/" layout="button_count" action="like" width="100" share="false" show_faces="false"></fb:like></div>
+            <div class="wsbl_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://24601.tokyo/2018/02/22/btc-price/" data-text="世界取引所の円換算ビットコイン価格をリアルタイム表示">Tweet</a></div>
+            <div class="wsbl_pocket"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://24601.tokyo/2018/02/22/btc-price/" data-pocket-count="none" data-pocket-align="left">Pocket</a><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></div>
+    </div>
+<br class='wp_social_bookmarking_light_clear'/>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZkgOy94a9R-E-ZV3WJzqn3tDUta-7FnV4OL5SMefbp1WAPELW3UM36WxudBXhoALe0FV7g-_Ux0v/pubchart?oid=591791972&amp;format=interactive" width="667" height="371" frameborder="0" scrolling="no" seamless=""></iframe></p>
+<p>グラフは1分おきに更新されます。<br/>
+ドル円の為替レートはgoogle financeからリアルタイムで抽出してます。<br/>
+CME, CMOE先物は近日で、アカウントなしの公式ページから価格を抽出してます。<br/>
+先物は2社の平均価格です。<br/>
+binanceはTether価格です。<br/>
+bitnance, bitfinexはAPIを叩いて抽出してます。<br/>
+coinbaseはgoogle financeから抽出してます。</p>
+<p>&nbsp;</p>
+<p>グラフが見えない方は以下にどうぞ<br/>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZkgOy94a9R-E-ZV3WJzqn3tDUta-7FnV4OL5SMefbp1WAPELW3UM36WxudBXhoALe0FV7g-_Ux0v/pubchart?oid=591791972&amp;format=interactive">https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZkgOy94a9R-E-ZV3WJzqn3tDUta-7FnV4OL5SMefbp1WAPELW3UM36WxudBXhoALe0FV7g-_Ux0v/pubchart?oid=591791972&amp;format=interactive</a></p>
+<p>&nbsp;</p>
+						
+						<div class="clear"></div>
+									        
+					</div><!-- .post-content -->
+					            					
+					<div class="post-meta-container">
+						
+						<div class="post-author">
+						
+							<div class="post-author-content">
+							
+								<h4>user</h4>
+								
+																
+								<div class="author-links">
+									
+									<a class="author-link-posts" title="Author archive" href="http://24601.tokyo/author/user/">Author archive</a>
+									
+																		
+								</div><!-- .author-links -->
+							
+							</div><!-- .post-author-content -->
+						
+						</div><!-- .post-author -->
+						
+						<div class="post-meta">
+						
+							<p class="post-date">2月 22, 2018</p>
+							
+														
+							<p class="post-categories"><a href="http://24601.tokyo/category/btc/" rel="category tag">BTC</a></p>
+							
+														
+							<div class="clear"></div>
+							
+							<div class="post-nav">
+							
+																
+									<a class="post-nav-prev" title="Previous post: BTC先物, USD, Tetherをグラフでリアルタイム比較" href="http://24601.tokyo/2018/02/22/btcfuture-usd-usdt-tether/">Previous post</a>
+							
+																	
+									<a class="post-nav-next" title="Next post: 川上量生 「鈴木さんにも分かるネットの未来」" href="http://24601.tokyo/2018/03/12/%e5%b7%9d%e4%b8%8a%e9%87%8f%e7%94%9f-%e3%80%8c%e9%88%b4%e6%9c%a8%e3%81%95%e3%82%93%e3%81%ab%e3%82%82%e5%88%86%e3%81%8b%e3%82%8b%e3%83%8d%e3%83%83%e3%83%88%e3%81%ae%e6%9c%aa%e6%9d%a5%e3%80%8d/">Next post</a>
+							
+																
+																	
+								<div class="clear"></div>
+							
+							</div>
+						
+						</div><!-- .post-meta -->
+						
+						<div class="clear"></div>
+							
+					</div><!-- .post-meta-container -->
+																		
+					
+		
+		
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">コメントを残す <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/02/22/btc-price/#respond" style="display:none;">コメントをキャンセル</a></small></h3>			<form action="http://24601.tokyo/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes">Your email address will not be published.</p><p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="6" required></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" placeholder="Name" value="" size="30"/><label for="author">Author</label> <span class="required">*</span></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" placeholder="Email" value="" size="30"/><label for="email">Email</label> <span class="required">*</span></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" placeholder="Website" value="" size="30"/><label for="url">Website</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="コメントを送信"/> <input type='hidden' name='comment_post_ID' value='102' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p>			</form>
+			</div><!-- #respond -->
+													                        
+						
+			</div><!-- .post -->
+		
+		</div><!-- .content -->
+		
+		
+	<div class="sidebar fright" role="complementary">
+	
+		<div class="widget widget_pages"><div class="widget-content"><h3 class="widget-title">固定ページ</h3>		<ul>
+			<li class="page_item page-item-2"><a href="http://24601.tokyo/bitcoin-future/">BTC先物, USD, Tetherをグラフでリアルタイム比較</a></li>
+		</ul>
+		</div><div class="clear"></div></div><div class="widget widget_categories"><div class="widget-content"><h3 class="widget-title">カテゴリー</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://24601.tokyo/category/btc/">BTC</a> (3)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://24601.tokyo/category/spreadsheet/">spreadsheet</a> (4)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://24601.tokyo/category/uncategorized/">Uncategorized</a> (3)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://24601.tokyo/category/%e3%82%a2%e3%83%bc%e3%83%88/">アート</a> (3)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://24601.tokyo/category/%e6%b1%ba%e7%ae%97%e8%aa%ac%e6%98%8e%e8%b3%87%e6%96%99/">決算説明資料</a> (2)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://24601.tokyo/category/%e8%aa%ad%e6%9b%b8/">読書</a> (7)
+</li>
+		</ul>
+</div><div class="clear"></div></div>		
+	</div><!-- .sidebar -->
+
+		
+		<div class="clear"></div>
+		
+	</div><!-- .section-inner -->
+
+</div><!-- .wrapper -->
+		
+<div class="footer section medium-padding bg-graphite">
+	
+	<div class="section-inner row">
+	
+				
+			<div class="column column-1 one-third">
+			
+				<div class="widgets">
+			
+					<div id="search" class="widget widget_search">
+					
+						<div class="widget-content">
+						
+							<h3 class="widget-title">Search form</h3>
+			                <form method="get" class="searchform" action="http://24601.tokyo/">
+	<input type="search" value="" placeholder="Search form" name="s" class="s"/> 
+	<input type="submit" class="searchsubmit" value="Search">
+</form>			                
+						</div>
+						
+	                </div>
+									
+				</div>
+				
+			</div><!-- .column-1 -->
+			
+					
+				
+			<div class="column column-2 one-third">
+			
+				<div class="widgets">
+				
+					<div class="widget widget_recent_entries">
+					
+						<div class="widget-content">
+						
+							<h3 class="widget-title">Latest posts</h3>
+							
+							<ul>
+				                <li><a href="http://24601.tokyo/2018/10/08/urabandaikougenhotel/" title="裏磐梯高原ホテルに泊まった感想">裏磐梯高原ホテルに泊まった感想</a></li><li><a href="http://24601.tokyo/2018/09/05/march/" title="最も安く、簡単に、MARCHに入学する方法">最も安く、簡単に、MARCHに入学する方法</a></li><li><a href="http://24601.tokyo/2018/08/20/saizeriya/" title="サイゼリアを100株買いました">サイゼリアを100株買いました</a></li><li><a href="http://24601.tokyo/2018/07/31/coinmama/" title="coinmamaのカスタマーサービスは意外とちゃんとしてた">coinmamaのカスタマーサービスは意外とちゃんとしてた</a></li><li><a href="http://24601.tokyo/2018/07/21/%e3%83%91%e3%83%bc%e3%82%af24-4666-%e3%81%ae%e6%b1%ba%e7%ae%97%e8%aa%ac%e6%98%8e%e8%b3%87%e6%96%99_2017%e5%b9%b410%e6%9c%88%e6%9c%9f/" title="パーク24 (4666) の決算説明資料_2017年10月期">パーク24 (4666) の決算説明資料_2017年10月期</a></li>							</ul>
+			                
+						</div>
+						
+	                </div>
+									
+				</div><!-- .widgets -->
+				
+			</div><!-- .column-2 -->
+			
+									
+				
+			<div class="column column-3 one-third">
+		
+				<div class="widgets">
+		
+					<div class="widget_text widget widget_custom_html"><div class="widget_text widget-content"><h3 class="widget-title">質問はｺﾒﾝﾄ・DMで</h3><div class="textwidget custom-html-widget"><a href="https://twitter.com/intent/tweet?screen_name=med_LinkedIn&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @med_LinkedIn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div><div class="clear"></div></div>										
+				</div><!-- .widgets -->
+				
+			</div>
+			
+		<!-- .footer-c -->
+		
+		<div class="clear"></div>
+	
+	</div><!-- .footer-inner -->
+
+</div><!-- .footer -->
+
+<div class="credits section bg-dark small-padding">
+
+	<div class="credits-inner section-inner">
+
+		<p class="credits-left fleft">
+		
+			&copy; 2019 <a href="http://24601.tokyo" title="24601&#039;s Blog!">24601&#039;s Blog!</a><span> &mdash; Powered by <a href="http://www.wordpress.org">WordPress</a></span>
+		
+		</p>
+		
+		<p class="credits-right fright">
+			
+			<span>Theme by <a href="http://www.andersnoren.se">Anders Noren</a> &mdash; </span><a class="tothetop" title="To the top" href="#">Up &uarr;</a>
+			
+		</p>
+		
+		<div class="clear"></div>
+	
+	</div><!-- .credits-inner -->
+	
+</div><!-- .credits -->
+
+
+<!-- BEGIN: WP Social Bookmarking Light FOOTER -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+
+
+<!-- END: WP Social Bookmarking Light FOOTER -->
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/lightbox.js?ver=2.8.1'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/isotope.pkgd.min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/modernizr.custom.26633.js?ver=3.0.5'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/jquery.gridrotator.js?ver=3.0.5'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/accesspress-instagram-feed/js/frontend.js?ver=3.0.5'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/themes/baskerville/js/global.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.1.3.21.min.js'></script>
+<script type='text/javascript'>var fb_timeout,fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true,'scriptPriority':10};if(typeof easy_fancybox_handler==='undefined'){var easy_fancybox_handler=function(){jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"]').addClass('nolightbox');var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';jQuery(fb_IMG_select).addClass('fancybox image');var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery');fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});jQuery('a.fancybox-iframe,area.fancybox-iframe,li.fancybox-iframe a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':'70%','height':'90%','titleShow':false,'titlePosition':'float','titleFromAlt':true,'allowfullscreen':true}))});};jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});};var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);jQuery(easy_fancybox_auto);</script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/easy-fancybox/js/jquery.easing.1.4.1.min.js'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.3.1.13.min.js'></script>
+<script type='text/javascript' src='http://24601.tokyo/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+
+  <div id="bitnami-banner" data-banner-id="994cc">  <style>#bitnami-banner{z-index:100000;height:80px;padding:0px;width:120px;background:transparent;position:fixed;right:0px;bottom:0px;border:0px solid #ededed}#bitnami-banner .bitnami-corner-image-div{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-close-banner-button{height:12px;width:12px;z-index:10000000000;position:fixed;right:5px;bottom:65px;display:none;cursor:pointer}</style>  <img id="bitnami-close-banner-button" src="/bitnami/images/xclose.png.pagespeed.ic.Zei43eohAv.png"/>  <div class="bitnami-corner-image-div">     <a href="/bitnami/index.html" target="_blank">       <img class="bitnami-corner-image" alt="Bitnami" src="/bitnami/images/xcorner-logo.png.pagespeed.ic.6TukXqDtLV.png"/>     </a>  </div>  <script type="text/javascript">//<![CDATA[
+(function(){var banner=document.getElementById("bitnami-banner");var closeButton=document.getElementById("bitnami-close-banner-button");var toggleCloseButton=function toggleCloseButton(open){if(closeButton){if(open&&banner&&banner.style.display!="none"){closeButton.style.display="block";}else{closeButton.style.display="none";}}
+return false;};var setCookie=function setCookie(cname,cvalue,exdays){var d=new Date();d.setTime(d.getTime()+(exdays*24*60*60*1000));var expires="expires="+d.toUTCString();document.cookie=cname+"="+cvalue+"; "+expires;};var closeBanner=function closeBanner(open){if(banner){var suffix=banner.getAttribute('data-banner-id')||'global';banner.style.display="none";setCookie('_bitnami_closed_banner_'+suffix,"1",30);}
+return false;};banner.onmouseover=function(){return toggleCloseButton(1);};banner.onmouseout=function(){return toggleCloseButton(0);};closeButton.onclick=closeBanner;}());
+//]]></script> </div>   </body>
+</html>

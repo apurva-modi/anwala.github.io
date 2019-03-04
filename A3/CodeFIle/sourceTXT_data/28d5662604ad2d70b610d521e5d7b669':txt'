@@ -1,0 +1,44 @@
+The Ultimate Guide on Crypto Trading Bots
+10 Feb 2019
+What Are Trading Bots?
+Simply put, a trading bot is a set of instructions that execute trades automatically without the need for human intervention.
+A trading bot has a few major components regardless of language & framework used.
+Backtesting
+Running an algorithmic trading strategy blind is the best way to lose all your money. To see if your strategy works, you must backtest it against historical market data.
+Collecting this high-quality, tick-by-tick data is usually done by tapping into exchange APIs. CCXT is a great library that enables you to interface with a bunch of exchanges in the same manner.
+In order to simulate a realistic backtest, you should take into consideration latency, slippage, and trading fees.
+Usually, you can retrieve historical price data, but you cannot retrieve historical order books. Therefore some of the data can only be collected on a forward-going basis. This makes high-quality, historical data a scarce and valuable resource.
+Strategy Implementation
+The code that implements the strategy actually makes up a tiny fraction of the whole project. But, it is where you would specify the logic & calculations which determines when to trade, and in what quantities.
+Once you’ve created a strategy, you should backtest it in order to evaluate its performance. Typically, only strategies that are very profitable make it out the backtesting phase because so much can go wrong in the real world. Be careful here of overfitting your strategy to historical data.
+The universe of possible strategies is infinite. Some strategies try to predict mean-regressing activity, others may predict momentum in a certain direction. Others try to run currency arbitrage, or act as market makers.
+Execution
+Once your strategy is determined, the next step is order execution. Consider this a bridge between your strategy and the exchange you are trading on. This code turns your strategy into API requests that the exchange can understand.
+Some bots will have a paper trading feature, which will allow you to simulate your strategy in real-time with fake money.
+Job Scheduler
+Lastly, you want to let your bot run autonomously. Leaving your computer on all day is not a good option. You want to spin up a server and set-up a job scheduler to execute live strategies automatically.
+Why Use Trading Bots?
+Save Time
+Calculating trades and executing them by hand is time-consuming and tedious work. The most difficult part is coming up with a strategy. Once you’ve done that, there’s no need to waste hours cranking repetitive work. Bots can do it for you.
+Efficient Execution
+Bots are much more efficient at placing orders than humans. You may be able to place one trade at a time by hand, but instantly be able to place fifty with a bot.
+There are a lot of strategies that are simply not possible to do by hand. Manual calculation and execution would take too long and cause the opportunity to be missed.
+Consistent Strategy
+It’s very difficult to follow a consistent strategy by hand. Emotions often get the best of us, and we make changes to the plan on the fly.
+Algorithmic trading takes the emotion out of trading and can consistently execute the same strategy over time.
+Types of Crypto Trading Bots
+Unless you’re a developer with a lot of time on your hands, you probably don’t want to program your own trading bot. Luckily there are tons of free & paid options available. I will be going over the 4 main types of crypto trading bots and provide examples for each.
+1. Arbitrage Bots
+When you buy an asset in one market and simultaneously sell it in another market at a higher price, that’s called arbitrage .
+There are two different ways to arbitrage cryptocurrencies. The first is by finding prices mismatches through different trading pairs on a single exchange. The other is by locating price differences across multiple exchanges.
+Here are a few trading bots that feature arbitrage strategies.
+Blackbird Bitcoin Arbitrage is a C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges. To run it, you’ll need to clone the repo and follow the installation instructions.
+Requires Coding: Yes
+Price: Free
+Features:
+Unlike other Bitcoin arbitrage systems, Blackbird doesn’t sell but actually short sells Bitcoin on the short exchange. This feature offers two important advantages:
+The strategy is always market-neutral: the Bitcoin market’s moves (up or down) don’t impact the strategy returns.
+The strategy doesn’t need to transfer funds (USD or BTC) between Bitcoin exchanges. The buy/sell and sell/buy trading activities are done in parallel on two different exchanges, independently. There’s no need to deal with transfer latency issues.
+This is a Github project that detects triangular arbitrage opportunities within Binance. To use it, you need to clone the repo and follow the straight-forward installation steps.
+Although it does not execute the trades automatically, it will show you the top potential arbitrage triplets.
+Requires Coding: Very little

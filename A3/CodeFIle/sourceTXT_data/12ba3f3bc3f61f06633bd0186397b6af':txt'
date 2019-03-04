@@ -1,0 +1,24 @@
+Falha no Banco Inter permitia exposição de dados de clientes desde 2017
+Por
+15 FEV, 2019 17:58
+(Foto: Shutterstock)
+Uma falha de segurança no internet banking do Banco Inter, revelada quarta-feira (13) pelo Tecnoblog , deixou informações pessoais de correntistas expostas por mais de um ano. A correção total do problema ainda não havia sido aplicada até a terça-feira (12), diz o site.
+Segundo a reportagem, uma falha na implementação na área logada do internet banking para pessoa jurídica deixava exposto o nome completo, CPF e email de qualquer cliente do banco, que negou as acusações. Essas informações são ‘prato cheio’ para golpistas que atacam por meio de phishing.
+O mesmo aconteceu com as contas de pessoas físicas, mas foi corrigido logo que descoberto em meados de 2017. Na ocasião, era possível obter informações tanto de pessoas físicas quanto jurídicas de correntistas da instituição.
+De acordo com o site, um pesquisador fez um teste com a conta jurídica e revelou ser possível acessar informações de 1,45 milhão de pessoas.
+“É uma mina de ouro para phishing. Eu entendo terem duas bases de código diferentes, mas não replicar correção de segurança não faz sentido”, disse o pesquisador, segundo a reportagem.
+De acordo com o site, a falha estava na página de transferência de recursos entre clientes da instituição — os dados dos correntistas eram preenchidos automaticamente.
+(Fonte: Tecnoblog.net)
+Procurada pelo site, a assessoria de imprensa do Banco Inter se negou a responder se tinha ciência do problema e se limitou a dizer que “possui todas as políticas de segurança necessárias e está em conformidade com as melhores práticas de mercado”.
+No entanto, após o contato, a falha foi corrigida.
+Banco já enfrentou outro vazamento
+O Ministério Público do Distrito Federal e Territórios (MPDFT) no dia 31 de Julho de 2018 publicou uma nota concluindo que o Banco Inter deixou vazar dados pessoais de 19.961 correntistas . Dessas, 13.207 continham dados bancários, como número da conta, senha, endereço, CPF e telefone.
+A falha na segurança, cujo valor de indenização poderia chegar a R$ 10 milhões, inicialmente foi negada pela instituição. No entanto, com o passar do tempo o banco confessou que sofreu o incidente e fechou um acordo extrajudicial.
+Banco alerta sobre phishing
+Curiosamente, no dia 10 de fevereiro, o Banco Inter postou no Twitter um alerta sobre golpes de phishing e convidou os usuários a acessarem um artigo sobre o tema.
+“Phishing é uma modalidade de golpe que vem sendo aplicado por criminosos que atuam no ambiente online para roubar informações e dados pessoais. Para que você fique atento e não caia nesse tipo de fraude, separamos algumas dicas em nosso blog”
+Phishing é uma modalidade de golpe que vem sendo aplicado por criminosos que atuam no ambiente online para roubar informações e dados pessoais. Para que você fique atento e não caia nesse tipo de fraude, separamos algumas dicas em nosso blog, confira: https://t.co/xAzaVetQyZ
+Clique aqui e siga o Portal do Bitcoin no Instagram
+Coinext
+Compre Bitcoin e outras criptomoedas na corretora mais segura do Brasil. Cadastre-se e veja como é simples, acesse:  https://coinext.com.br
+TAGS

@@ -1,0 +1,22 @@
+Retweet to Support IOST x NASA!
+NASA is seeking Blockchain-based solutions to manage their internal systems and space mission management: https://www.sbir.gov/sbirsearch/detail/1547975
+NASA Challenge : Model Based System Engineering (MBSE)
+A significant challenge in MBSE is knowing that the system model being used is the current (or intended) version, since various aspects evolve through the system development and operations lifecycle. Further, because systems are becoming increasingly complex, tracking the vast number of changes that occur needs to be automated and efficient.
+Blockchain solutions may enable a single, real-time source of truth for system models, to eliminate several sources of error and inefficiency in MBSE. These issues become more pronounced when considering an ecosystem involving distributed collaboration among multiple entities, a scenario that will emerge more frequently as MBSE becomes the standard of doing business.
+For example, the government has already begun moving towards model-based acquisition programs (see GBSD and SET references). In any such environment, trust and security, especially relating to intellectual property, become a significant concern. Blockchain technology may be able to play a central role in enabling such a paradigm.
+How Can IOST Solve This Problem For NASA?
+IOST’s Proposed Solution
+IOST proposes a IOST-based Product Management System (PMS) that enable permeable traceability for variants and versions in MBSE. When the product system model was defined originally, the supplier will write the initial block into the IOST Product Management System (PMS).
+The block contains (a) header with hash value, (b) unique identifier, (c) time-stamp, (d) system model (e) simulation model, (f) issuer info, (g) naming scheme and relevant info, (h) reference to the system model which is stored in other interdisciplinary system model.
+IOST PMS will fill system models quantitative information on the sub-system level and facilitate simulation.
+The supplier will add the corresponding new metadata by appending a new IOST block in the PMS containing previous information with recent IDs, generating effectivity of current version, and data for the storage location and simulation model.
+PMS will repeats itself when proceeding to the component level where domain-specific simulation models are built.
+The new block contains the reference to the domain-specific simulation model and it’s irreversible.
+IOST enables a permeable traceability of domain-specific documentation of single product entity.
+We create the supplier’s and partner’s blockchains and they are holding relevant information private in its chain’s scope. This setup addresses scenarios such as multiple parties, inter-organization processes, complex coordination, data exchange, trust issues.
+Chronologically, we start the IOST PMS process above. The PMS process is compiled in the first block created at the supplier’s blockchain.
+By consensus in IOST, cooperation partners and manufacturers are in agreement on the validity of the data in chain.
+Then, a block in suppliers’ blockchain is mirrored in the partner’s chain.
+In the product management system, users also associates the metadata and there is only a digital twin for each data record in the PMS blockchain.
+What are your thoughts on IOST’s proposal for NASA?
+Share your comments below, or reach out to us at team@iost.io to share your feedback!

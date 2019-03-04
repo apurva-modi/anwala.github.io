@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <title>Chinese Crypto Miner Predicts That Bitcoin Could Reach $740K</title>
+    <meta name="description" content="Zhu Fa, co-founder of Poolin, a Chinese-based crypto mining pool, predicted that the Bitcoin (BTC) price could hit 5 million Chinese yuan ($738,000 (USD). While Zhu noted that “it now feels more like a bear market,” he reportedly predicted that in the next bull run, prices will be 10–20 times higher than previous ones. Zhu also noted that massive prices spikes like the one that resulted in the $20,000 per BTC high in 2017, will not always exist, adding that the next bull run could be the last.">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Chinese Crypto Miner Predicts That Bitcoin Could Reach $740K" />
+    <meta property="og:description" content="Zhu Fa, co-founder of Poolin, a Chinese-based crypto mining pool, predicted that the Bitcoin (BTC) price could hit 5 million Chinese yuan ($738,000 (USD). While Zhu noted that “it now feels more like a bear market,” he reportedly predicted that in the next bull run, prices will be 10–20 times higher than previous ones. Zhu also noted that massive prices spikes like the one that resulted in the $20,000 per BTC high in 2017, will not always exist, adding that the next bull run could be the last." />
+    <meta property="og:url" content="https://cryptocrunchapp.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k" />
+    <meta property="og:site_name" content="Cryptocrunchapp" />
+    <meta property="og:image" content="https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg" />
+    <meta property="og:image:secure_url" content="https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg" />
+    
+    <meta property="article:tag" content="china" />
+    <meta property="article:tag" content="crypto" />
+    <meta property="article:section" content="Crypto" />
+    <meta property="article:published_time" content="" />
+    <meta property="article:modified_time" content="" />
+    <meta property="og:updated_time" content="" />
+    <meta property="og:image" content="https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg" />
+    <meta property="og:image:secure_url" content="https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg" />
+
+    <meta name="twitter:url" content="http://cryptocrunchapp.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Zhu Fa, co-founder of Poolin, a Chinese-based crypto mining pool, predicted that the Bitcoin (BTC) price could hit 5 million Chinese yuan ($738,000 (USD). While Zhu noted that “it now feels more like a bear market,” he reportedly predicted that in the next bull run, prices will be 10–20 times higher than previous ones. Zhu also noted that massive prices spikes like the one that resulted in the $20,000 per BTC high in 2017, will not always exist, adding that the next bull run could be the last.  #Crypto #CryptoNews #CryptoCrunchApp"/>
+    <meta name="twitter:title" content="Chinese Crypto Miner Predicts That Bitcoin Could Reach $740K" />
+    <meta name="twitter:site" content="@gocryptocrunch" />
+    <meta name="twitter:image" content="https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg" />
+    <meta name="twitter:creator" content="@gocryptocrunch" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124581663-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-124581663-1');
+    </script>
+    <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+    <script src="/js/index.js"></script>
+    <script src=https://cdnjs.cloudflare.com/ajax/libs/core-js/2.4.1/shim.min.js></script>
+
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic" rel="stylesheet">
+    <link rel="stylesheet" href="/scripts/angular-toastr/dist/angular-toastr.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="/css/app43c3.css" rel="stylesheet">
+    <link href="/css/needsharebutton.css" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.21.0/moment.js"></script>
+    <script src="/scripts/jquery/dist/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.14/moment-timezone.min.js"></script>
+    <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.js"></script>
+    <script src="/scripts/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="/scripts/angular-toastr/dist/angular-toastr.tpls.js"></script>
+    <script>
+        angular.module('cryptonews',['ui.router','ngSanitize','toastr'])
+            .config(function ($stateProvider,$locationProvider) {
+                $locationProvider.html5Mode({
+                    enabled: true,
+                    requireBase: false,
+                    rewriteLinks: false
+                });
+                $stateProvider
+                    .state('home.news', {
+                        url: '/news/:newstitle',
+                        templateUrl: './js/news/newsdetails/newsdetails.html',
+                        controller: 'newsDetailsCtrl'
+                    });
+            })
+            .controller('cryptoctrl',function($scope,$http,$stateParams,$state,$location,toastr) {
+                $("div")[0].style = undefined;
+                new ClipboardJS('.cpy-url');
+                function strip(html)
+                {
+                    let tmp = document.createElement("DIV");
+                    tmp.innerHTML = html;
+                    return tmp.textContent || tmp.innerText || "";
+                }
+                $scope.mobileDevice = false;
+                $scope.newsData = {};
+                if(screen.width < 500 ||
+                    navigator.userAgent.match(/Android/i) ||
+                    navigator.userAgent.match(/webOS/i) ||
+                    navigator.userAgent.match(/iPhone/i) ||
+                    navigator.userAgent.match(/iPod/i)) {
+                    $scope.mobileDevice = true;
+                }
+                $scope.page = 1;
+                $scope.Types = {newsType:'latest'};
+                $scope.newsDatas =[{
+                    imageUrls: ["https://i.postimg.cc/nr8jksST/131118080832-china-bitcoin-640x360.jpg"],
+                    title: "Chinese Crypto Miner Predicts That Bitcoin Could Reach $740K",
+                    feed: {link:"https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k",name: "Cointelegraph"},
+                    _id: "5c6760fcfa8d6f53ecfa13b3",
+                    tags: "china,crypto".split(','),
+                    content: "Zhu Fa, co-founder of Poolin, a Chinese-based crypto mining pool, predicted that the Bitcoin (BTC) price could hit 5 million Chinese yuan ($738,000 (USD). While Zhu noted that “it now feels more like a bear market,” he reportedly predicted that in the next bull run, prices will be 10–20 times higher than previous ones. Zhu also noted that massive prices spikes like the one that resulted in the $20,000 per BTC high in 2017, will not always exist, adding that the next bull run could be the last.",
+                    newsUrl: "chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k",
+                    toBePublishedOn:"Sat Feb 16 2019 00:49:00 GMT+0000 (UTC)",
+                    link:"https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k",
+                    Type: ""
+                }];
+                $scope.newsDatas[0].title = strip($scope.newsDatas[0].title);
+                $scope.newsDatas[0].content = strip($scope.newsDatas[0].content);
+                $http.get('/feed/banner')
+                    .then((response) => {
+                        $scope.bannerId = response.data._id;
+                        let index = Math.floor(Math.random() * (response.data.imageUrls.length));
+                        $scope.bannerUrl = response.data.imageUrls[index];
+                        $scope.bannerLink = response.data.link;
+                        return $http.get('/feed/banneri/' + response.data._id);
+                    })
+                    .catch((err) => {
+                        console.log(err);
+                    });
+                $scope.copiedUrl = function () {
+                    toastr.success('News url copied');
+                }
+
+                $scope.incrementHeaderBanner = function(id) {
+                    $http.get('/feed/bannerwc/' + id);
+                };
+
+//                $http.get('/feed/banner/header')
+//                    .then((response) => {
+//                        $scope.headerBanner = response.data;
+//                        $http.get('/feed/banneri/' + $scope.headerBanner._id);
+//                    })
+//                    .catch((err) => {
+//                        console.log(err);
+//                    });
+                $scope.incrementClick = function() {
+                    $http.get('/feed/bannerwc/' + $scope.bannerId);
+                };
+                $scope.addCount = function (id) {
+                    $http.get('/feed/impressioninc/' + id)
+                        .then(() => {
+
+                        })
+                        .catch((err) => {
+                            console.log(err);
+                        })
+                };
+                $scope.addCountClick = function (id, type) {
+                    if(type) {
+                        return $scope.addCountClickPR(id);
+                    }
+                    $http.get('/feed/clickfeedw/' + id)
+                        .then(() => {
+
+                        })
+                        .catch((err) => {
+                            console.log(err);
+                        })
+                };
+                $scope.addCountPR = function(id) {
+                    $http.get('/feed/pressreleasei/' +id)
+                        .catch((err) => {
+                            console.log(err);
+                        })
+                };
+
+                $scope.addCountClickPR = function(id) {
+                    $http.get('/feed/pressreleasec/' +id)
+                        .catch((err) => {
+                            console.log(err);
+                        })
+                };
+                $scope.addCount($scope.newsDatas[0]._id);
+                setTimeout(() => {
+                    $scope.newsDatas.forEach((data,index) => {
+                        $scope.dorpDownJs('share-button-' + index);
+                    })
+                },2000);
+                $scope.getNews = function(isRefreshed) {
+                    $scope.isNewsLoading = true;
+                    $scope.page = 1;
+                    var url = '/feed/web/feednews/' + $scope.page;
+                    if($scope.Types.newsType === 'top') {
+                        url = '/feed/web/topnews/' + $scope.page;
+                    }
+                    $http.post(url,{
+                        isMobile: $scope.mobileDevice
+                    })
+                        .then(function(response) {
+                            if(isRefreshed){
+                                $scope.newsDatas = [];
+                            }
+                            $scope.page++;
+                            $scope.newses = response.data;
+                            $scope.newses.forEach(function(news) {
+                                news.timeDiff =  $scope.getTimeDifference(news.toBePublishedOn);
+                            });
+                            if($scope.mobileDevice) {
+                                $scope.newses.forEach(function (news) {
+                                    if(!$scope.newsDatas[0] || news._id!==$scope.newsDatas[0]._id) {
+                                        $scope.addCount(news._id);
+                                        $scope.newsDatas.push(news);
+                                    }
+                                });
+                                if(!$scope.isScrolledInitiated ) {
+                                    $('#right-column').on('scroll', function() {
+                                        $scope.isScrolledInitiated = true;
+                                        if($(this).scrollTop() + $(this).innerHeight()+200 >= $(this)[0].scrollHeight) {
+                                            if(!$scope.loading){
+                                                $scope.loading = true;
+                                                $scope.loadMore();//call function to load content when scroll reachs DIV bottom
+                                            }
+                                        }
+                                    });
+                                }
+                            }
+                            setTimeout(() => {
+                                $scope.newsDatas.forEach((data,index) => {
+                                    $scope.dorpDownJs('share-button-' + index);
+                                })
+                            },2000);
+                        })
+                        .catch(function(err) {
+                            console.log(err);
+                        });
+                };
+
+
+                $scope.getCoinDetails = function(){
+                    $scope.loadingCoins = true;
+                    $http.get('/coinmarket/coinslist')
+                        .then(function(resposne) {
+                            $scope.loadingCoins = false;
+                            $scope.coinsDetails = resposne.data;
+                        })
+                        .catch(function(err) {
+                            $scope.loadingCoins = false;
+                            console.log(err);
+                        });
+                };
+                $scope.getCoinDetails();
+                $scope.getNews();
+
+                $scope.refreshNow = function() {
+                    $scope.getCoinDetails();
+                    $scope.getNews(true);
+                    $('#right-column').scrollTop(0);
+                    $('#newslist-container').scrollTop(0);
+                };
+                $scope.selectNews = function(news) {
+                    $scope.selectedNews = news;
+                    let title = news.newsUrl;
+                    $state.go('home.news', {newstitle:title});
+                };
+                $scope.goToMarket = function() {
+                    window.location.href='/market';
+                }
+                $scope.goToAbout = function() {
+                    window.location.href='/about';
+                }
+
+                $scope.searchNews = function ()
+                {
+                    if(!$scope.newsData.searchData || !$scope.newsData.searchData.length) {
+                        $scope.page = 1;
+                        $scope.newses =[];
+                        $scope.loading = true;
+                        $scope.loadMore();
+                        return;
+                    }
+                    $http.get('/feed/search?keyword=' + $scope.newsData.searchData)
+                        .then(function(response) {
+                            $scope.newses = response.data;
+                            $scope.newses.forEach(function(news) {
+                                news.timeDiff =  $scope.getTimeDifference(news.toBePublishedOn);
+                            });
+                            if($scope.mobileDevice) {
+                                $scope.newsDatas = angular.copy($scope.newses);
+                            }
+                        })
+                        .catch(function(err) {
+                            console.log(err);
+                        })
+                };
+                $scope.getTimeDifference = function(timeStamp) {
+                    let timeDiff = moment().diff(moment(timeStamp),'minutes');
+                    if (timeDiff<0) {
+                        timeDiff = timeDiff * -1;
+                        if(timeDiff<=60) {
+                            timeDiff = timeDiff + 'minutes';
+                        } else if(timeDiff > 60 && timeDiff< 1440) {
+                            timeDiff = (timeDiff/60).toFixed(0) + ' Hours';
+                        } else {
+                            timeDiff = (timeDiff/1440).toFixed(0) + ' Days';
+                        }
+                        timeDiff = 'will be published in ' + timeDiff ;
+                    } else if(timeDiff<=60) {
+                        timeDiff = timeDiff + ' minutes';
+                    } else if(timeDiff > 60 && timeDiff< 1440) {
+                        timeDiff = (timeDiff/60).toFixed(0) + ' Hours';
+                    } else {
+                        timeDiff = (timeDiff/1440).toFixed(0) + ' Days';
+                    }
+                    return timeDiff;
+                };
+                $scope.newsDatas[0].timeDiff =$scope.getTimeDifference($scope.newsDatas[0].toBePublishedOn);
+                $('#newslist-container').on('scroll', function() {
+                    if($(this).scrollTop() + $(this).innerHeight()+150 >= $(this)[0].scrollHeight) {
+                        if(!$scope.loading){
+                            $scope.loading = true;
+                            $scope.loadMore();//call function to load content when scroll reachs DIV bottom
+                        }
+                    }
+                });
+                $scope.dorpDownJs = function(id) {
+                    new needShareDropdown(document.getElementById(id));
+                };
+                $scope.loadMore = function() {
+                    let url = '/feed/web/feednews/' + $scope.page;
+                    if($scope.Types.newsType === 'top') {
+                        url = '/feed/web/topnews/' + $scope.page;
+                    }
+                    $scope.loading = true;
+                    $http.post(url,{
+                        isMobile: $scope.mobileDevice
+                    })
+                        .then(function(response) {
+                            $scope.page++;
+                            response.data.forEach(function(news) {
+                                news.timeDiff =  $scope.getTimeDifference(news.toBePublishedOn);
+                            });
+                            $scope.newses = $scope.newses.concat(response.data);
+                            $scope.loading = false;
+                            if($scope.mobileDevice) {
+                                $scope.newsDatas.splice(1);
+                                $scope.newses.forEach(function (news) {
+                                    if(news._id!==$scope.newsDatas[0]._id) {
+                                        $scope.newsDatas.push(news);
+                                    }
+                                });
+                            }
+                            setTimeout(() => {
+                                $scope.newsDatas.forEach((data,index) => {
+                                    $scope.dorpDownJs('share-button-' + index);
+                                })
+                            },2500);
+                        })
+                        .catch(function(err) {
+                            $scope.loading = false;
+                            console.log(err);
+                        });
+                };
+                setInterval(function() {
+                    $http.post('/feed/getlatest',{latestNews: $scope.newses[0].toBePublishedOn})
+                        .then((response) => {
+                            response.data.forEach(function(news) {
+                                news.timeDiff =  $scope.getTimeDifference(news.toBePublishedOn);
+                            });
+                            $scope.newses = response.data.concat($scope.newses);
+                        })
+                        .catch((err) => {
+                            console.log(err);
+                        })
+                },10000);
+
+                $scope.newsChange = function() {
+                    $scope.page = 1;
+                    $scope.newses =[];
+                    $scope.loadMore();
+                };
+                $scope.selectNews = function(news) {
+                    $scope.newsDatas = [];
+                    $scope.newsDatas.push(news);
+                    $scope.newsDatas[0].imageUrls = typeof news.imageUrls === "object"?news.imageUrls:[news.imageUrls];
+                    $location.path('/news/'+news.newsUrl);
+                    if($scope.newsDatas[0].Type) {
+                        $scope.addCountPR($scope.newsDatas[0]._id);
+                    } else {
+                        $scope.addCount($scope.newsDatas[0]._id);
+                    }
+                    setTimeout(() => {
+                        $scope.dorpDownJs('share-button-0');
+                    },1000);
+
+                };
+            })
+    </script>
+</head>
+<body ng-app="cryptonews" ng-controller="cryptoctrl">
+<div class="with-iconav spark-app" style="display: none;">
+
+    <!-- Smaller Navigation -->
+    <nav class="navbar navbar-dark pr-2 pb-0 d-block d-md-none w-100">
+        <a class="p-2 d-inline-block" href="/index.html" style="margin-bottom: -13px !important; margin-left: -22px !important;
+"><img style="width:35px;" src="/img/logo-small-01.png">
+            <h1 class="dashhead-subtitle mb-0">CryptoCrunch App</h1>
+        </a>
+
+
+    </nav>
+
+
+    <div class="fixed-bottom-div">
+
+        <ul class="nav nav-pills iconav-nav flex-md-column d-flex">
+            <li class="nav-item order-1 mg-left-13">
+                <a class="nav-link" href="index.html" title="News/Home">
+                    <span class="icon icon-news"></span>
+                    <small class="iconav-nav-label">News</small>
+                </a>
+            </li>
+
+            <li class="nav-item order-2 mg-left-13">
+                <a class="nav-link" ng-click="goToMarket()" title="All Coins prices">
+                    <i class="fa fa-bar-chart" aria-hidden="true"></i>
+                    <small class="iconav-nav-label">Market</small>
+                </a>
+            </li>
+
+            <li class="nav-item order-5 mg-left-13">
+                <a class="nav-link" ng-click="goToAbout()" title="About">
+                    <span class="icon icon-v-card"></span>
+                    <small class="iconav-nav-label">About</small>
+                </a>
+            </li>
+
+            <li class="nav-item order-5 mg-left-13">
+                <a class="nav-link" href="http://onelink.to/ax6vy2" title="app">
+                    <i class="fa fa-link" aria-hidden="true"></i>
+                    <small class="iconav-nav-label">App</small>
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+
+    <!-- Larger Navigation -->
+    <nav class="iconav mt-2 mt-sm-2 mt-md-0 mt-lg-0 mt-xl-0 mb-0 pt-md-3 border-right d-none d-md-block">
+        <div class="iconav-slider">
+            <!-- Navigation -->
+
+            <ul class="nav nav-pills iconav-nav flex-md-column d-flex">
+                <li class="nav-item mr-auto pl-2 pb-2 order-0">
+                    <a class="iconav-brand py-0" href="index.html">
+                        <span class="icon iconav-brand-icon"></span>
+                    </a>
+                </li>
+
+                <li class="nav-item order-1">
+                    <a class="nav-link" href="index.html" title="News/Home">
+                        <span class="icon icon-news"></span>
+                        <small class="iconav-nav-label">News</small>
+                    </a>
+                </li>
+                <li class="nav-item order-2">
+                    <a class="nav-link pointer" ng-click="goToMarket()" title="All coins prices">
+                        <i class="fa fa-bar-chart" aria-hidden="true"></i>
+                        <small class="iconav-nav-label">Market</small>
+                    </a>
+                </li>
+
+                <li class="nav-item order-2 d-block d-md-none">
+                    <a class="nav-link pointer" href="#" title="Contact">
+                        <span class="fa fa-envelope-o"></span>
+                        <small class="iconav-nav-label">Contact</small>
+                    </a>
+                </li>
+
+
+                <li class="nav-item order-5">
+                    <a class="nav-link pointer" ng-click="goToAbout()" title="About">
+                        <span class="icon icon-v-card"></span>
+                        <small class="iconav-nav-label">About</small>
+                    </a>
+                </li>
+
+
+                <li class="nav-item order-5">
+                    <a class="nav-link" href="http://onelink.to/ax6vy2" title="About">
+                        <i class="fa fa-link" aria-hidden="true"></i>
+
+                        <small class="iconav-nav-label">APP</small>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+
+
+    <div class="container-fluid">
+        <div class="row animated slideInDown social01">
+            <div ng-class="{'col-3': !mobileDevice,'col-4': mobileDevice}"  class="d-none d-md-flex d-lg-flex d-xl-flex">
+                <div class="dashhead mt-4">
+                    <div class="dashhead-titles">
+                        <h1 class="dashhead-subtitle mb-0">CryptoCrunch App</h1>
+
+                        <div class="tweet-container"></div>
+                    </div>
+                </div>
+            </div>
+            <!--<div ng-if="!mobileDevice && headerBanner && headerBanner.imageUrls" class="col-5 header-add">-->
+                <!--<a ng-click="incrementHeaderBanner(headerBanner._id)" target="_blank" href={{headerBanner.link}}>-->
+                    <!--<img  src={{headerBanner.imageUrls[0]}}>-->
+                <!--</a>-->
+            <!--</div>-->
+            <div ng-class="{'col-8': mobileDevice,'col-4': !mobileDevice}" class="d-md-block">
+                <div class="cs-social text-right mt-4 social002">
+                    <ul class="list-inline mb-0">
+
+                        <li class="list-inline-item">
+                            <a class="text-white mt-md-3 pr-2 border-right" target="_blank" href="https://www.twitter.com/gocryptocrunch"><span
+                                        class="icon icon-twitter"></span></a>
+                        </li>
+
+                        <li class="list-inline-item">
+                            <a class="text-white mt-md-3 pr-2 border-right" target="_blank" href="https://www.facebook.com/CryptoCrunchApp/"><i
+                                        class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+
+                        <li class="list-inline-item">
+                            <a class="text-white mt-md-3 pr-2 border-right" target="_blank" href="https://www.instagram.com/cryptocrunchapp/"><i
+                                        class="fa fa-instagram" aria-hidden="true"></i></a>
+                        </li>
+
+                        <li class="list-inline-item">
+                            <a class="text-white mt-md-3 pr-2" target="_blank" href="mailto:info@cryptocrunchapp.com"><i class="fa fa-envelope-o"
+                                                                                           aria-hidden="true"></i></a>
+                        </li>
+
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div id="home">
+            <div class="home-header">
+
+                <div class="hr-divider mt-1 mt-lg-3 mb-3">
+                    <h3 class="hr-divider-content hr-divider-heading">
+                        <button id="filter-btn" ng-click="showFilter = !showFilter" data-toggle="collapse" href="#collapseFilters" role="button"
+                                aria-expanded="false" aria-controls="collapseFilters" class="border-0 py-0 px-1"
+                                style="color: #657375;cursor: pointer;"> Search  <span class="fa fa-search text-primary"></span>
+                        </button>
+                        <span class="d-inline-block pr-1 text-muted">|</span>
+                        <span class="pointer" style="color: #657375;" ng-click="refreshNow()">
+                            <span ng-if="!loadingCoins" class="icon icon-flash text-success d-inline-block animated flash infinite"></span>
+                            <span ng-if="loadingCoins" class="icon icon-circular-graph text-info d-inline-block animated rotateIn infinite"></span>
+                        REFRESH</span>
+                    </h3>
+                </div>
+
+                <div class="pn-ProductNav_Wrapper hidden-sm">
+                    <nav id="pnProductNav" class="pn-ProductNav">
+                        <div id="pnProductNavContents" class="pn-ProductNav_Contents">
+
+
+                            <li ng-repeat="coin in coinsDetails" class="currency pn-ProductNav_Link01" aria-selected="true"><h2
+                                        class="currency-name coins01"><i class="icon icon_star-filled"></i>{{coin.symbol}}</h2>
+                                <div class="currency-valuecontainer"><span class="currency-price">${{coin.priceDetails.USD.price | number:2}}</span><span
+                                            class="currency-variation positive " ng-class="{'negative01':coin.priceDetails.percent_change_24h<0,'positive01':coin.priceDetails.percent_change_24h>=0}">({{coin.priceDetails.percent_change_24h}}%)</span></div>
+                            </li>
+
+
+
+                            <span id="pnIndicator"></span>
+                        </div>
+                    </nav>
+                    <button id="pnAdvancerLeft" class="pn-Advancer pn-Advancer_Left" type="button">
+                        <svg class="pn-Advancer_Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 1024">
+                            <path d="M445.44 38.183L-2.53 512l447.97 473.817 85.857-81.173-409.6-433.23v81.172l409.6-433.23L445.44 38.18z"/>
+                        </svg>
+                    </button>
+                    <button id="pnAdvancerRight" class="pn-Advancer pn-Advancer_Right" type="button">
+                        <svg class="pn-Advancer_Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 1024">
+                            <path d="M105.56 985.817L553.53 512 105.56 38.183l-85.857 81.173 409.6 433.23v-81.172l-409.6 433.23 85.856 81.174z"/>
+                        </svg>
+                    </button>
+                </div>
+
+                <div ng-if="showFilter" id="collapseFilters">
+                    <div class="row">
+                        <div class="col-12">
+
+                            <div class="row">
+                                <div class="col-6 col-xl-2 mb-2">
+
+                                    <div class="order-container">
+                                        <select ng-model="Types.newsType" ng-change="newsChange()"
+                                                class="custom-select form-control-sm rounded-0 border-0">
+                                            <option value="latest">Latest News</option>
+                                            <option value="top">Top news</option>
+                                        </select>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-6 col-xl-2 mb-2">
+
+                                    <div class="search-container">
+
+                                        <div id="search-by-keyword" class="input-with-icon w-100">
+                                            <form ng-submit="searchNews()">
+                                            <input name="keyword" type="text" ng-model="newsData.searchData"
+                                                   placeholder="...search" style="height: 32px;    padding: 0 10px 0 29px;"
+                                                   class="form-control form-control-sm rounded-0 border-0"/>
+                                            </form>
+                                            <span class="icon icon-magnifying-glass"></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="column-container mt-1 mb-3 mb-5">
+                <main id="newslist-container" class="left-column">
+                    <div class="entries-list pb-5 mt-2 mt-sm-0 pr-0 pr-xl-3">
+                        <div ng-repeat="news in newses track by $index" class="entry mb-1 d-flex flex-wrap flex-lg-nowrap" ng-click="selectNews(news)">
+                            <div class="mobile-source pull-left text-center order-2 py-2 pl-1 pr-2 d-block d-lg-none">
+                                <span>By {{news.feed.name}}</span></div>
+                            <div class="date pull-left text-center order-1 order-lg-1 p-2"><a ng-if="news.Type">PR</a>
+                            <a ng-if="!news.Type">{{news.timeDiff}}</a>
+                            </div>
+                            <div class="headline pull-left text-center order-0 order-lg-3">
+                                <button class="btn btn-link btn-block text-left my-0 d-none d-xl-block desktop pt-2 pl-2">
+                                    {{news.title}} <span
+                                            class="source d-none d-lg-inline-block">- <span><i aria-hidden="true"
+                                                                                               class="fa fa-link"></i>
+  {{news.feed.name}}
+</span></span>
+                                </button>
+                            </div>
+                            <div class="related-tickers text-right order-4 order-lg-4 mr-1 py-2 pr-0 pr-sm-2"><span
+                                        class="btn btn-xs btn-outline-default p-0">{{news.tags[0]| uppercase}}</span>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div ng-if="loading" class="lds-css ng-scope"><div style="width:100%;height:100%;margin-left: 36%;" class="lds-ripple"><div></div><div></div></div></div>
+                        <div class="mb-3">
+                            <button type="button" id="load-more-trigger"
+                                    class="load-more text-center btn btn-pill btn-link btn-block mb-xs-0 mb-sm-0 mb-5">
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Main Content -->
+
+                </main>
+                <aside class="right-column" id="right-column">
+                    <div class="pl-2 pl-sm-3 pr-sm-1 mr-2">
+                        <!--  single story -->
+                        <div class="expanded-entry pb-5">
+                            <div class="row">
+                                <div class="col-12"><div>
+                                        <div class="mb-3">
+                                            <div data-interval="5000" data-wrap="true" data-keyboard="false" data-ride="carousel" class="expandednews-campaigns-container carousel slide">
+                                                <div role="listbox" class="carousel-inner" style="width: 99.91%;">
+                                                    <div class="item active">
+                                                        <a rel="nofollow" ng-show="bannerUrl" ng-click="incrementClick()" target="_blank" href={{bannerLink}}>
+                                                            <img src={{bannerUrl}} alt="Top banner" class="img-responsive" style="width: 100%;"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div ng-if="newsDatas.length" class="row">
+                                <div ng-repeat="newsData in newsDatas track by $index" style="margin-top: 3% !important;">
+                                <div class="mb-2"><img
+                                            ng-src={{newsData.imageUrls[0]}}
+                                            alt={{newsData.title}} class="img-fluid rounded"
+                                            style="width: 100%;">
+                                    <div class="caption text-left01 sub-head">
+                                        <small>{{newsData.feed.name}}</small>
+                                        <small ng-show="newsData.isMeme">{{newsData.source}}</small>
+                                    </div>
+                                    <div ng-hide="newsData.isMeme" ng-if="newsData.Type!=='PR'" class="caption text-right sub-head"><span class="icon icon-clock"></span>
+                                        Published <span title="" data-toggle="tooltip" data-placement="bottom">{{newsData.timeDiff}} ago</span>
+                                    </div>
+                                    <div ng-if="newsData.Type" class="caption text-right sub-head">Press Release</div>
+                                </div>
+                                <h5 ng-hide="newsData.isMeme" class="mt-044">{{newsData.title}}<span data-toggle="tooltip" data-placement="right" title="Copy"> <img class="cpy-url" ng-click="copiedUrl();" src="https://i.imgur.com/vDFOkQk.png" style="height: 20px;" data-clipboard-text={{'cryptocrunchapp.com/news/'+newsData.newsUrl}}/> </span></h5>
+                                    <h5 ng-show="newsData.isMeme" class="mt-044">{{newsData.caption}}</h5>
+                                <hr ng-hide="newsData.isMeme"/>
+                                <div ng-hide="newsData.isMeme" class="summary sub-head"><p>{{newsData.content}}<a style="color: #55c7c7;" href={{newsData.link}}
+                                                                                        target="_blank" rel="nofollow">
+                                            Read Full on <b>{{newsData.feed.name}}</b> </a></p></div>
+                                <div class="story-tags mt-2"><span ng-repeat="tag in newsData.tags"
+                                                                   class="tag badge badge-dark p-2 mr-1 mb-1 d-inline-block mb-1">{{tag}}</span>
+                                </div>
+                                    <a ng-show="newsData.isMeme"  href={{newsData.imageUrls[0]}} target="_blank">
+                                        <span class=" need-share-button_button btn btn-block btn-primary read-full-story mt-2 mb-5 py-4s">Download</span>
+                                    </a>
+                                    <div ng-hide="newsData.isMeme" id={{'share-button-'+$index}}  data-share-icon-style="box" data-share-networks="Mailto,Twitter,Pinterest,Facebook,GooglePlus,Reddit">
+                                        <span style="display: none;">{{newsData.newsUrl}}</span>
+                                        <span style="display: none;">{{newsData.title}}</span>
+                                        <span style="display: none;">{{newsData.tags}}</span>
+                                    </div>
+                                </div>
+                                <div ng-if="loading && mobileDevice" class="lds-css ng-scope"><div style="width:100%;height:100%margin-left: 36%;" class="lds-ripple"><div></div><div></div></div></div>
+                            </div>
+                            <div ng-if="errored">
+                                <h3>No news found</h3>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                </aside>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="viewStoryModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+                 aria-hidden="true">
+                <div class="modal-dialog m-0" role="document">
+                    <div class="modal-content">
+
+                        <!-- View single news -->
+                        <div id="news-show">
+                            <div class="story p-3">
+                                <campaigns-expandednews-slot-1 inline-template>
+                                    <div>
+                                        <div class="mb-3">
+                                            <div class="expandednews-campaigns-container carousel slide"
+                                                 data-interval="5000" data-wrap="true" data-keyboard="false"
+                                                 data-ride="carousel">
+                                                <!-- Wrapper for slides -->
+                                                <div class="carousel-inner" role="listbox" style="width: 99.91%;">
+
+                                                    <div v-for="(campaign, index) in campaigns.list"
+                                                         v-bind:class="{ active: index == 0 }" class="item">
+                                                        <a rel="nofollow" target="_blank"
+                                                           :href="campaign.project.website">
+                                                            <img style="width: 100%;" class="img-responsive"
+                                                                 :src="campaign.project.bannerurl"
+                                                                 :alt="campaign.project.name">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div v-else class="mb-3">
+                                            <div class="expandednews-campaigns-container carousel slide"
+                                                 data-interval="5000" data-wrap="true" data-keyboard="false"
+                                                 data-ride="carousel">
+                                                <!-- Wrapper for slides -->
+                                                <div class="carousel-inner" role="listbox" style="width: 99.91%;">
+
+                                                    <div class="item active">
+                                                        <a rel="nofollow" target="_blank" ng-click="goToAbout()">
+                                                            <img style="width: 100%;" class="img-responsive"
+                                                                 src="img/banner-advertise-placeholder.png"
+                                                                 alt="Banner Advertising">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </campaigns-expandednews-slot-1>
+                                <div v-if="$store.state.news.expanded">
+                                    <div class="row story-actions">
+                                        <div class="col-12">
+                                            <div class="hr-divider mt-0 mb-3">
+                                                <h3 class="hr-divider-content hr-divider-heading">Community
+                                                    Sentiment <span class="icon icon icon-line-graph"></span></h3>
+                                            </div>
+                                        </div>
+
+                                        <div class="col px-1">
+
+                                            <div
+                                                    :class="{'bg-success': $store.state.news.expanded.bullishcount}"
+                                                    class="bullish p-2 text-white">
+                                                    <span>Bullish <small>- {{ $root.abbreviateNumber($store.state.news.expanded.bullishcount) }}</small> <span
+                                                                class="pull-right icon icon-rocket"></span></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col px-1">
+                                            <div
+                                                    :class="{'bg-danger': $store.state.news.expanded.bearishcount}"
+                                                    class="bearish p-2 text-white">
+
+                                                    <span>Bearish <small>- {{ $root.abbreviateNumber($store.state.news.expanded.bearishcount) }}</small><span
+                                                                class="pull-right icon icon icon-baidu"></span></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col px-1">
+
+                                            <div v-on:click.stop.prevent="shillingStory($store.state.news.expanded, $store.state.news.expanded.index)"
+                                                 :class="{'bg-primary': $store.state.news.expanded.shillingcount}"
+                                                 class="shilling p-2 text-white">
+                                                    <span>Shilling <small>- {{ $root.abbreviateNumber($store.state.news.expanded.shillingcount) }}</small><span
+                                                                class="pull-right icon icon-mask"></span></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col pl-1">
+                                            <div v-on:click.stop.prevent="fudStory($store.state.news.expanded, $store.state.news.expanded.index)"
+                                                 :class="{'bg-warning': $store.state.news.expanded.fudcount}"
+                                                 class="fud p-2 text-white">
+
+                                                    <span>Fud <small>- {{ $root.abbreviateNumber($store.state.news.expanded.fudcount) }}</small><span
+                                                                class="pull-right icon icon-warning"></span></span>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="text-left my-3">
+                                        <h4>{{ $store.state.news.expanded.headline }}</h4>
+                                        <span class="icon icon-clock"></span> Published <span
+                                                :title="$root.longDate($store.state.news.expanded.published_at)">{{ $root.humanDate($store.state.news.expanded.published_at) }}</span><span
+                                                v-if="$store.state.news.expanded.author">, by {{ $store.state.news.expanded.author }}</span>
+                                        @ {{ $store.state.news.expanded.source.domain }} <img
+                                                v-if="$store.state.news.expanded.source.favicon"
+                                                class="rounded-circle ml-1"
+                                                :src="$store.state.news.expanded.source.favicon">
+
+                                        <div v-show="$store.state.news.expanded.primaryimage" class="story-media">
+                                            <img style="width: 100%;" class="rounded img-fluid"
+                                                 :src="$store.state.news.expanded.primaryimage"
+                                                 :alt="$store.state.news.expanded.headline">
+                                            <div class="caption text-right">
+                                                <p>{{ $store.state.news.expanded.source.name }} via {{
+                                                    $store.state.news.expanded.source.domain }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div v-if="tweetWidget && tweetWidget.html" v-html="tweetWidget.html"
+                                         class="tweet-container"></div>
+
+                                    <div v-else-if="$store.state.news.expanded.description_short"
+                                         v-html="$store.state.news.expanded.description_short"
+                                         class="summary"></div>
+                                    <div v-else>
+                                        <p>Read the full story at {{ $store.state.news.expanded.source.domain
+                                            }}.</p>
+                                    </div>
+
+                                    <div v-if="$store.state.news.expanded.tags" class="story-tags mt-2">
+                                            <span v-for="(tag, index) in $store.state.news.expanded.tags"
+                                                  class="tag badge badge-dark p-2 mr-1 mb-1 d-inline-block">{{ tag }}</span>
+                                    </div>
+
+                                    <small style="font-style: italic; font-size: 12px;">CoinSpectator is an
+                                        automated aggregation service. All copyrights belong to their respective
+                                        owners. You can read the full story at {{
+                                        $store.state.news.expanded.source.domain }}.
+                                    </small>
+
+                                    <hr/>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <button type="button" class="btn btn-block btn-danger rounded-0 p-3"
+                                                    data-dismiss="modal"><i class="fa fa-chevron-left"
+                                                                            aria-hidden="true"></i> Back
+                                            </button>
+                                        </div>
+                                        <div class="col-6">
+                                            <a :href="$store.state.news.expanded.permalink"
+                                               class="btn btn-block btn-primary rounded-0 p-3" target="_blank"
+                                               rel="nofollow">Read Full Story <i class="fa fa-chevron-right"
+                                                                                 aria-hidden="true"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="loginFirstModal" tabindex="-1" role="dialog" aria-labelledby="loginFirstModal"
+         aria-hidden="true">
+        <div class="modal-dialog m-0" role="document">
+            <div class="modal-content opacity">
+
+                <div class="px-3 pb-3" style="padding-top: 20%;">
+                    <div class="row">
+                        <div class="col-lg-4 offset-lg-4">
+
+                            <h3 class="text-uppercase text-white text-center">Login to contribute</h3>
+
+                            <hr/>
+                            <div class="row">
+                                <div class="col-6">
+                                    <button type="button" class="btn btn-block btn-danger rounded-0 p-3"
+                                            data-dismiss="modal"><i class="fa fa-chevron-left" aria-hidden="true"></i>
+                                        Back
+                                    </button>
+                                </div>
+                                <div class="col-6">
+                                    <a href="login.html" class="btn btn-block btn-primary rounded-0 p-3" rel="nofollow">Login
+                                        <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Application Level Modals -->
+    <script src="/js/needsharebutton.js">
+
+    </script>
+</div>
+
+<!-- JavaScript -->
+
+<!-- Scripts -->
+<!-- End Alexa Certify Javascript -->
+
+</body>
+</html>

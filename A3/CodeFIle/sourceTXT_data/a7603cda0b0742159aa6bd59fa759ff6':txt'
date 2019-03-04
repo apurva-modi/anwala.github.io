@@ -1,0 +1,20 @@
+Bitcoin Core Developer Proposes Reducing Block Sizes to 300 KB
+Bitcoin Core Developer Proposes Reducing Block Sizes to 300 KB
+Luke Dashjr, an independent Bitcoin Core developer, recently proposed that Bitcoin’s block sizes should be reduced from 1 MB (1,024 KB) to 300 KB.
+Dashjr, the co-founder of Blockstream, the “first ever Bitcoin-compatible sidechain which includes “confidential transactions integration”, has argued that a smaller block size could potentially make it easier for more users to operate a full node on the Bitcoin (BTC) network.
+Currently, users who want to run a full node on the Bitcoin network must download more than 200 GB of data. This is a requirement because a BTC block validator must have access to the complete transaction log of all BTC transfers conducted after Bitcoin’s genesis block was mined around 10 years back. As more transactions are registered on the Bitcoin blockchain , the size of the transaction log increases – meaning users will have to download even more data before being able to operate a full node.
+According to Dashjr’s assessment, reducing block sizes on the Bitcoin network by (approximately) three times will also reduce the growth of the network’s transaction data log by a factor of three. In order to introduce smaller block sizes, Dashjr has already written the code needed to initiate the proposed change – which will essentially be a soft fork of the Bitcoin protocol.
+Mixed Reactions To Reduced Block Size Proposal
+Expressing his approval of Dashjr’s proposal to reduce Bitcoin’s block sizes, John Carvalho, the chief compliance officer at BitRefill, (a service that allows users to buy vouchers and gift cards with BTC) remarked via Twitter:
+I agree with @LukeDashjr that the block size should be smaller. I feel more confidence to say it now that we have (Lightning Network) LN making strides. I’ll run the soft fork.
+Other Bitcoin full-node operators did not seem to like the idea of reduced block sizes. Twitter user Mr Bitcoin commented: “I’m not updating my node with software that reduces effective block size, ever.”
+Meanwhile, Twitter user viajero argued:
+Since it would be a softfork, your node can do jack shit. Soft forks without consensus can only be enforced by a hashpower majority. I very much doubt, miners would wanna reduce the block size… So far only lots of talk.
+In response to viajero’s comments, Carvalho said that he thinks miners would “love” smaller block sizes. However, Litecoin Foundation volunteer and partnership coordinator, ecurrencyhodler wrote that people might throw a “hissy fit” if block sizes were “artificially” made smaller while fees remained relatively high.
+Lightning Network Growing Faster Than Users Can Keep Track
+Although the Lightning Network (LN) is still in its preliminary stages of development, the layer-two payment solution for cryptocurrency payments appears to be growing steadily. Presumably because developments may be occurring faster than users can keep track, viajero questioned LN’s ability to route payments: “Have you been using LN lately? Do you know how many channels you have to open to reliably route your payments?”
+Responding to viajero’s concern, Carvalho revealed:
+LN is more well-connected than you realize. Grab a Thor channel from @bitrefill … [Moroever,] the routing and top-up options for LN are getting better with new tech too. It’s gonna be SICK.
+Block Size Debate 
+Notably, the size of the blocks on the Bitcoin network has been a hot topic in the cryptocurrency community for years. Back in 2017, several companies representing the majority of the hashrate on the network agreed to implement SegWit and double the block size to 2 MB later on to help the flagship cryptocurrency scale.
+The plan went south, however, and soon in August of 2017 those advocating for bigger blocks forked the network to create Bitcoin Cash (BCH). The cryptocurrency itself notably saw a group separate from it to create Bitcoin Satoshi’s Vision through a hard fork , with even bigger blocks.

@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script src="/cdn-cgi/apps/head/Kvi3-W4DJwWKFTpqFfaGXJqEiZI.js"></script><script data-cfasync="false" id="ao_optimized_gfonts_config" type="text/javascript">WebFontConfig={google:{families:["Libre Franklin:300,300i,400,400i,600,600i,800,800i:latin,latin-ext","Libre Franklin:300,300i,400,400i,600,600i,800,800i:latin,latin-ext","Open Sans:300,300i,400,400i,700","Roboto:100,300,300i,400,500,700,900","Open Sans:300,300i,400,400i,700","Roboto:100,300,300i,400,500,700,900"] },classes:false, events:false, timeout:1500};</script><link rel="shortcut icon" href="https://btcmanager.com/wp-content/themes/btcmana/assets/img/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="p:domain_verify" content="715caf17c3df43f0a4445eb8d28fe13c" />
+<meta name="theme-color" content="#e5a651">
+<meta property="fb:pages" content="105887859764084" />
+<!--[if lte IE 8]>
+		<link rel="stylesheet"  href="css/ie7-8.css">
+	<![endif]-->
+<script>
+		var e = ("article,aside,figcaption,figure,footer,header,hgroup,nav,section,time").split(',');
+		for (var i = 0; i < e.length; i++) {
+			document.createElement(e[i]);
+		}
+	</script>
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<style type="text/css" id="aoatfcss" media="all">.wp-block-media-text .wp-block-media-text__media{grid-area:media-text-media;margin:0}.wp-block-media-text .wp-block-media-text__content{word-break:break-word;grid-area:media-text-content;padding:0 8%}#catapult-cookie-bar{box-sizing:border-box;max-height:0;opacity:0;direction:ltr;padding:0 20px;z-index:99999;overflow:hidden;text-align:left}button#catapultCookie{margin:0 20px 0 0}@media screen and (max-width:991px){.ctcc-left-side{margin-right:1em}}.ctcc-right-side{-webkit-flex-shrink:0;flex-shrink:0}.ez-toc-widget-container{position:relative;white-space:nowrap}.ez-toc-widget-container ul.ez-toc-list{padding:0 10px}.ez-toc-widget-container,.ez-toc-widget-container li{background:0 0;list-style:none;line-height:1.6;margin:10px 0;overflow:hidden;z-index:1 width:100%}.guide section.widget{width:100%}.ez-toc-widget-container.counter-hierarchy ul{counter-reset:item}.ez-toc-widget-container.counter-decimal ul.ez-toc-list li a::before{content:counters(item,".") ". ";counter-increment:item}.ez-toc-widget-container ul.ez-toc-list li::before{content:' ';position:absolute;left:0;right:0;height:30px;line-height:30px;z-index:-1}*{padding:0;margin:0}body,html{height:100%}a,body,div,form,h1,h2,html,img,label,li,span,ul{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}ul{list-style:none}.is-single-news-post ul{padding-bottom:10px;font:14px/20px 'Open Sans',sans-serif}.is-single-news-post ul.nav{padding-bottom:0}a{color:#e0a34d;outline:0;text-decoration:none;display:inline-block}img{border:none;outline:0;max-width:100%;height:auto}button{line-height:normal;border:0;outline:0}input[type=email],input[type=text]{outline:0}.blocks,.btn,.i,.i:before,.int,img{display:inline-block;display:-moz-inline-block;vertical-align:top}.clearfix{clear:both;font-size:0}header,nav{display:inline-block}.guide#sidebarR nav{width:100%;display:block}header{width:100%}body{overflow-y:auto!important;height:auto;font:14px 'Open Sans',sans-serif;background:#fff;color:#555;display:inline-block;width:100%}#page{min-width:1200px;min-height:100%;position:relative;overflow-x:hidden;height:auto}.container{width:1120px;margin:0 auto;height:auto}.left{float:left}.right{float:right}h1{padding-bottom:30px;font:500 48px/50px Roboto,sans-serif;letter-spacing:-.05em;color:#e0a34d}h2{padding-bottom:9px;font:500 24px/26px Roboto,sans-serif;letter-spacing:-.05em;color:#555}.int{width:234px;height:28px;padding:19px 23px 13px;margin-bottom:10px;border:0;background:#f9f9f9;font:300 24px/28px Roboto,sans-serif;letter-spacing:-.05em;color:#000}.box{display:inline-block;width:100%;box-sizing:border-box}.i:before{content:"";background:url(https://btcmanager.com/wp-content/themes/btcmana/assets/img/ico.png) no-repeat}.i_search{background:0 0}.i_search:before{width:25px;height:25px;background-position:0 -105px}.i_search_white{background:0 0}.i_search_white:before{width:25px;height:25px;background-position:0 -270px}.i_email:before{width:18px;height:14px;background-position:0 -220px}.i_btc:before{width:20px;height:31px;background-position:0 -325px}.i_eth:before{width:21px;height:34px;background-position:0 -370px}.btn{height:36px;padding:0 24px;border:1px solid #e0a34d;background:0 0;font:14px/38px Roboto,sans-serif;text-decoration:none;text-align:center;color:#e0a34d;position:relative}button.btn{height:38px}.btn_arrow_right{padding-right:35px;float:left;margin-right:7px}.btn_arrow_right:after{content:"";width:7px;height:13px;background:url(https://btcmanager.com/wp-content/themes/btcmana/assets/img/ico.png) 0 -155px no-repeat;position:absolute;top:13px;right:12px}.btn_white{border-color:#fff;color:#fff}.btn_white.btn_arrow_right:after{background-position:0 -30px}.btns{padding:0 10px;border-color:#636363;background:#7aa662;color:#fff}#bar{padding:15px 0 9px;background:#555;color:#fff}#bar .left{max-width:40%}#bar .txt{padding-top:9px;font:italic 300 14px/16px 'Open Sans',sans-serif}#bar .right{max-width:40%;padding:7px 0 0}#bar .boxs{margin:0 auto;width:120px}header #bar .boxs{width:auto;text-align:center}#nav{height:24px;padding:5px 4px 0 0}#nav li{float:left;margin-right:8px;padding-right:21px;font:300 12px/14px 'Open Sans',sans-serif;position:relative}#nav li:after{content:"*";font:22px/24px Roboto,sans-serif;color:#e0a34d;position:absolute;top:-2px;right:0}#nav li a{color:#fff}.social a{display:inline-block;display:-moz-inline-block;vertical-align:top;width:30px;height:30px;margin:0 5px 0 0;background:url(https://btcmanager.com/wp-content/themes/btcmana/assets/img/social.png) no-repeat}.social .fb{background-position:0 0}.social .tw{background-position:-35px 0}.social .in{background-position:-70px 0}.social .telegram{background-position:-245px 0}.social .rss{background-position:-280px 0}#course{padding:5px 0;background:#e0a34d;color:#fff}#course .container{padding:7px 0 5px}#course .name{padding:7px 0 0;font:300 20px/26px Roboto,sans-serif;letter-spacing:-.05em;color:#555}#course .percent{width:auto;padding:11px 10px 7px;background:0 0;font:300 18px/20px Roboto,sans-serif;text-align:center;letter-spacing:-.05em}#course .percent:before{margin:7px 7px 0 0}#course .sum{padding:7px 0 0 10px;font:bold 20px/26px Roboto,sans-serif;letter-spacing:-.05em}#course .btn_white{padding-right:49px;border-color:#efd0a5}#course .btn_hide{display:none}.course_b{display:none;padding:0 0 5px 9px}#course .container .course_b{padding:0 0 5px}header #course .container .course_b{padding:11px 0 5px}#course .course_b .sum{padding:11px 0;font:bold 48px/50px Roboto,sans-serif}#course .course_b .boxs{margin-left:-30px;padding-right:20px}.course_b .row{padding-bottom:16px}header .course_b .row{padding-bottom:16px;height:100%;display:inline-block;width:100%}.course_b .box1{width:60px;padding-top:3px}.course_b .ico{width:45px;height:38px;padding-top:6px;background:#555;text-align:center}.course_b .i_XRP:before,.course_b .i_btc:before{margin-top:1px}.course_b .box2{width:135px}header .course_b .box2{max-width:120px;width:100%;height:100%;display:inline-block}.course_b .txt1{padding-bottom:3px;font:300 12px/15px 'Open Sans',sans-serif;color:#595959}.course_b .txt2{font:bold 14px/16px Roboto,sans-serif}.course_b .txt3{padding-top:2px;font:300 10px/12px 'Open Sans',sans-serif;color:#595959}.course_b .txt4{font:bold 10px/12px Roboto,sans-serif}div#course{display:none}</style><link rel="preload" as="style" media="all" href="https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_9517b7c6f12a56cd717826050e1c7e0e.css" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" as="style" media="screen" href="https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_54115c67129fcb72c36995b552cda4f8.css" onload="this.onload=null;this.rel='stylesheet'" /><noscript id="aonoscrcss"><link type="text/css" media="all" href="https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_9517b7c6f12a56cd717826050e1c7e0e.css" rel="stylesheet" /><link type="text/css" media="screen" href="https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_54115c67129fcb72c36995b552cda4f8.css" rel="stylesheet" /></noscript><title>American Wholesaler H&amp;M Distributors Now Accepts Crypto &#8211; BTCMANAGER</title>
+<link rel="amphtml" href="https://btcmanager.com/american-wholesaler-hm-distributors-now-accepts-crypto/amp/" /><meta name="dc.relation" content="https://btcmanager.com/american-wholesaler-hm-distributors-now-accepts-crypto/" />
+<meta name="dc.source" content="https://btcmanager.com/" />
+<meta name="dc.language" content="en_US" />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link href='https://fonts.gstatic.com' crossorigin='anonymous' rel='preconnect' />
+<link href='https://ajax.googleapis.com' rel='preconnect' />
+<link href='https://fonts.googleapis.com' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="BTCMANAGER &raquo; Feed" href="https://btcmanager.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BTCMANAGER &raquo; American Wholesaler H&amp;M Distributors Now Accepts Crypto Comments Feed" href="https://btcmanager.com/american-wholesaler-hm-distributors-now-accepts-crypto/feed/" />
+<noscript><link rel='stylesheet' id='ajax-load-more-layouts-css'  href='https://btcmanager.com/wp-content/plugins/var/www.btcmanager/www/wp-content/plugins/ajax-load-more-layouts/core/css/ajax-load-more-layouts.min.css?ver=458285f57685b45363428b568ae345fe' type='text/css' media='all' /></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ajax-load-more-layouts-css' href='https://btcmanager.com/wp-content/plugins/var/www.btcmanager/www/wp-content/plugins/ajax-load-more-layouts/core/css/ajax-load-more-layouts.min.css?ver=458285f57685b45363428b568ae345fe' type='text/css' media='all' />
+<noscript></noscript>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='btcmanagertheme2018-ie8-css'  href='https://btcmanager.com/wp-content/themes/btcmana/assets/css/ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<noscript></noscript>
+<noscript><link rel='stylesheet' id='responsive-menu-css'  href='https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_single_53a91156379af6497bd8669766c86d6b.css?ver=458285f57685b45363428b568ae345fe' type='text/css' media='all' /></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='responsive-menu-css' href='https://btcmanager.com/wp-content/cache/autoptimize/css/autoptimize_single_53a91156379af6497bd8669766c86d6b.css?ver=458285f57685b45363428b568ae345fe' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR","visible":"VISIBLE","hidden":"HIDDEN"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://btcmanager.com/wp-content/cache/autoptimize/js/autoptimize_single_c7118e30e58e22e72a0eca8ec9336599.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"1","sampling_rate":"100","ajax_url":"https:\/\/btcmanager.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"86640","token":"f19da3bb3f","debug":""};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='https://btcmanager.com/wp-json/' />
+<link rel='prev' title='Blockchain Detective Startup Chainalysis Collects $30 Million Funding' href='https://btcmanager.com/blockchain-detective-startup-chainalysis-collects-30-million-funding/' />
+<link rel='next' title='Israeli NGO Accuses Hamas of Using Coinbase to Raise Funds' href='https://btcmanager.com/israeli-ngo-accuses-hamas-using-coinbase-raise-funds/' />
+<link rel="alternate" type="application/json+oembed" href="https://btcmanager.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtcmanager.com%2Famerican-wholesaler-hm-distributors-now-accepts-crypto%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://btcmanager.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtcmanager.com%2Famerican-wholesaler-hm-distributors-now-accepts-crypto%2F&#038;format=xml" />
+
+<script type="text/javascript">
+  var clicky_custom = clicky_custom || {};
+  clicky_custom.outbound_pattern = ['/go/','/out/'];
+</script>
+<script type="text/javascript">var clicky_site_ids = clicky_site_ids || [];clicky_site_ids.push(101079796);</script><script async src="//static.getclicky.com/js"></script>
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//btcmanager.com/?wordfence_lh=1&hid=1F6DC8DF9BAEA70F0F34B0F8C05CC672');
+</script><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://btcmanager.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--> <meta name="onesignal" content="wordpress-plugin" />
+<link rel="manifest" href="https://btcmanager.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://btcmanager.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '883d3892-f264-4b91-921b-07dd9eb093c4';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing! If you don&#039;t like these please just click on the little bell icon in the bottom right corner at anytime.";
+oneSignal_options['path'] = "https://btcmanager.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.0908e376-c893-48cd-92f7-007572df5c49";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'large';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://btcmanager.com/wp-content/uploads/2017/09/cropped-btcmanagerlogo-800x800-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://btcmanager.com/wp-content/uploads/2017/09/cropped-btcmanagerlogo-800x800-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://btcmanager.com/wp-content/uploads/2017/09/cropped-btcmanagerlogo-800x800-180x180.png" />
+<meta name="msapplication-TileImage" content="https://btcmanager.com/wp-content/uploads/2017/09/cropped-btcmanagerlogo-800x800-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script data-cfasync="false" id="ao_optimized_gfonts_webfontloader" type="text/javascript">(function() {var wf = document.createElement('script');wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';wf.type='text/javascript';wf.async='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf, s);})();</script></head>
+<body id="page" class=" is-single-news-post">
+<header>
+<div class="top-header-for-mobile-main">
+<div class="top-header-for-mobile-top">
+<div class="top-header-for-mobile">
+<div class="mobile">
+<a href="https://btcmanager.com" style="height: 90%;" data-wpel-link="internal">
+<img alt="btcmanager header square logo" style="height: 110%; width: auto; margin-top: 2%;" src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo-square-orange-150x150.png"><noscript><img alt="btcmanager header square logo" style="height: 110%; width: auto; margin-top: 2%;" src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo-square-orange-150x150.png" ></noscript>
+</a>
+<form method="get" action="https://btcmanager.com/">
+<div class="search">
+<div class="search_b">
+<input type="text" class="int" placeholder="Search" value="" name="s" autocomplete="off" />
+</div>
+<div class="i i_search"></div>
+<button type="submit" class=" i i_search_white"></button>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="top-header-for-mobile-bottom">
+<div class="MobileSubscribe">
+<script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-16174" method="post" data-id="16174" data-name="Subscribe form"><div class="mc4wp-form-fields"><div class="block">
+<div class="es_textbox">
+<input type="email" name="EMAIL" class="int" placeholder="ex: johndoe@gmail.com" required="">
+</div>
+<div class="es_button">
+<button type="submit" value="" id="es_txt_button" class="btn btns"><i class="i i_email"></i> Subscribe</button>
+</div>
+</div>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1551556180" /><input type="hidden" name="_mc4wp_form_id" value="16174" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form> </div>
+</div>
+</div>
+<div id="bar">
+<div class="container">
+<div class="left">
+<div class="txt">
+<h2 class='description'>Bitcoin, Blockchain &amp; Cryptocurrency News</h2> </div>
+</div>
+<div class="right">
+<ul id="nav" class=" blocks"><li id="menu-item-80464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80464 dropdown"><a href="https://btcmanager.com/advertisement/" data-wpel-link="internal">Advertisement</a></li>
+<li id="menu-item-80446" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80446 dropdown"><a href="https://btcmanager.com/news/news/" data-wpel-link="internal">BTCm News</a></li>
+</ul> </div>
+<div class="boxs">
+<div class="social">
+<a href="https://facebook.com/btcmanager" target="_blank" class="fb" data-wpel-link="external" rel="external noopener"></a>
+<a href="https://twitter.com/btc_manager" target="_blank" class="tw" data-wpel-link="external" rel="external noopener"></a>
+<a href="https://www.linkedin.com/company/btcmanager" target="_blank" class="in" data-wpel-link="external" rel="external noopener"></a>
+<a href="https://t.me/btcmanagernews" target="_blank" class="telegram" data-wpel-link="external" rel="external noopener"></a>
+<a href="https://btcmanager.com/feed/" target="_blank" class="rss" data-wpel-link="internal"></a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div id="course">
+<div class="container thing-1">
+<div class="" ID="Bitcoin">
+<div class="box blocks one-fourth">
+<div class="name blocks">Bitcoin</div>
+<div id="btcpercent" class="i  percent btcpercent"> </div>
+<div class="sum sum1 blocks BTCprice"></div>
+</div>
+<div class="box blocks one-fourth">
+<div class="name blocks">Ripple</div>
+<div id="XRPpercent" class='i  percent XRPpercent'> </div>
+<div class="sum sum1 blocks XRPprice"></div>
+</div>
+<div class="box blocks one-fourth">
+<div class="name blocks">Ethereum</div>
+<div id="ethpercent" class="i  percent ethpercent"> </div>
+<div class="sum  sum1 blocks ETHprice"></div>
+</div>
+<div class="box blocks one-fourth fourth right">
+<div class="btn btn_white btn_arrow_right btn_show">Show details</div>
+<div class="btn btn_white btn_arrow_right btn_hide">Hide details</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="course_b">
+<div class="box blocks one-fourth">
+<div class="sum sum2 blocks BTCprice"></div>
+<div class="boxs">
+<div id="BTC" style="height: 150px; margin: 0 auto"></div>
+</div>
+</div>
+<div class="box blocks one-fourth">
+<div class="sum sum2 blocks XRPprice"></div>
+<div class="boxs">
+<div id="XRP" style="height: 150px; margin: 0 auto"></div>
+</div>
+</div>
+<div class="box blocks one-fourth">
+<div class="sum sum2 blocks ETHprice"></div>
+<div class="boxs">
+<div id="ETH" style="height: 150px; margin: 0 auto"></div>
+</div>
+</div> <div class="box blocks one-fourth fourth right">
+<div class="row">
+<div class="box1 blocks">
+<i class="ico i i_btc"></i>
+</div>
+<div class="box2 blocks">
+<div class="txt1">Market Cap</div>
+<div class="txt2">$67,400,874,847</div>
+<div class="txt3">Volume (24h)</div>
+<div class="txt4">$1,187,099,369</div>
+</div>
+</div>
+<div class="row">
+<div class="box1 blocks">
+<i class="ico i i_XRP"></i>
+</div>
+<div class="box2 blocks">
+<div class="txt1">Market Cap</div>
+<div class="txt2">$31,477,434,630</div>
+<div class="txt3">Volume (24h)</div>
+<div class="txt4">$266,734,023</div>
+</div>
+</div>
+<div class="row">
+<div class="box1 blocks">
+<i class="ico i i_eth"></i>
+</div>
+<div class="box2 blocks">
+<div class="txt1">Market Cap</div>
+<div class="txt2">$14,048,809,460</div>
+<div class="txt3">Volume (24h)</div>
+<div class="txt4">$1,087,678,354</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="header">
+<div class="container">
+<div class="left">
+<a href="https://btcmanager.com" class="custom-logo-link" rel="home" data-wpel-link="internal">
+<img width="130" height="106" src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo.png" class="custom-logo" alt="BTCMANAGER logo, outline of orange man"><noscript><img width="130" height="106" src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo.png" class="custom-logo" alt="BTCMANAGER logo, outline of orange man"></noscript></a>
+</div>
+<div class="right">
+<form method="get" action="https://btcmanager.com/">
+<div class="search">
+<div class="search_b">
+<input type="text" class="int" placeholder="Search" value="" name="s" autocomplete="off" /></div>
+<div class="i i_search"></div>
+<button type="submit" class=" i i_search_white"></button>
+</div>
+</form>
+</div>
+<div class="boxs">
+<nav>
+<ul class="nav"><li id="menu-item-80437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80437 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Bitcoin</a>
+<ul class="sub-menu">
+<li id="menu-item-80477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80477 dropdown"><a href="https://btcmanager.com/news/bitcoin/" data-wpel-link="internal">Bitcoin News</a></li>
+<li id="menu-item-80438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80438 dropdown"><a href="https://btcmanager.com/bitcoin-price/" data-wpel-link="internal">Bitcoin Price</a></li>
+<li id="menu-item-80439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80439 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+<li id="menu-item-80460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80460 dropdown"><a href="https://btcmanager.com/bitcoin-widget/" data-wpel-link="internal">Bitcoin Widgets</a></li>
+</ul>
+</li>
+<li id="menu-item-80440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80440 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Blockchain</a>
+<ul class="sub-menu">
+<li id="menu-item-80442" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80442 dropdown"><a href="https://btcmanager.com/news/blockchain/" data-wpel-link="internal">Blockchain News</a></li>
+</ul>
+</li>
+<li id="menu-item-80441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80441 dropdown"><a href="https://btcmanager.com/news/ethereum/" data-wpel-link="internal">Ethereum</a>
+<ul class="sub-menu">
+<li id="menu-item-80461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80461 dropdown"><a href="https://btcmanager.com/news/ethereum/" data-wpel-link="internal">Ethereum News</a></li>
+<li id="menu-item-80462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80462 dropdown"><a href="https://btcmanager.com/ethereum-price/" data-wpel-link="internal">Ethereum Price</a></li>
+<li id="menu-item-80463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80463 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis News</a></li>
+<li id="menu-item-80511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80511 dropdown"><a href="https://btcmanager.com/ethereum-widget/" data-wpel-link="internal">Ethereum Widgets</a></li>
+</ul>
+</li>
+<li id="menu-item-80498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80498 dropdown"><a href="https://btcmanager.com/news/ico-news/" data-wpel-link="internal">ICO</a>
+<ul class="sub-menu">
+<li id="menu-item-80465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80465 dropdown"><a href="https://btcmanager.com/news/ico-news/" data-wpel-link="internal">ICO News</a></li>
+<li id="menu-item-80466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80466 dropdown"><a href="https://btcmanager.com/ico-calendar/" data-wpel-link="internal">ICO Calendar</a></li>
+</ul>
+</li>
+<li id="menu-item-80443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80443 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Altcoins</a>
+<ul class="sub-menu">
+<li id="menu-item-80444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80444 dropdown"><a href="https://btcmanager.com/news/altcoins/" data-wpel-link="internal">Altcoins News</a></li>
+<li id="menu-item-80445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80445 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+</ul>
+</li>
+</ul><ul class="nav nav_small home"><li id="menu-item-80447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80447 dropdown"><a href="https://btcmanager.com/free-bitcoins/" data-wpel-link="internal">Free Bitcoins</a></li>
+<li id="menu-item-80554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-80554 dropdown"><a href="https://btcmanager.com/news/guides/" data-wpel-link="internal">Guides</a>
+<ul class="sub-menu">
+<li id="menu-item-80448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80448 dropdown"><a href="https://btcmanager.com/glossary-of-terms/" data-wpel-link="internal">Glossary of Terms</a></li>
+<li id="menu-item-80449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80449 dropdown"><a href="https://btcmanager.com/news/trading-strategies/" data-wpel-link="internal">Trading Strategies</a></li>
+<li id="menu-item-80450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80450 dropdown"><a href="https://btcmanager.com/news/bitcoin-travel-guide/" data-wpel-link="internal">Bitcoin Travel Guide</a></li>
+<li id="menu-item-80451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80451 dropdown"><a href="https://btcmanager.com/news/cryptocyclopedia/" data-wpel-link="internal">Cryptocyclopedia</a></li>
+</ul>
+</li>
+<li id="menu-item-80452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80452 dropdown"><a href="https://btcmanager.com/buy-bitcoin/" data-wpel-link="internal">Buy Bitcoins</a></li>
+<li id="menu-item-80453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80453 dropdown"><a href="https://btcmanager.com/events-list/" data-wpel-link="internal">Events</a></li>
+</ul> </nav>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div id="header2">
+<div class="container">
+<nav>
+<div class="box blocks">
+<a href="/" data-wpel-link="internal"></a>
+</div>
+<ul class="nav nav_small blocks"><li id="menu-item-80478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80478 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Bitcoin</a>
+<ul class="sub-menu">
+<li id="menu-item-80485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80485 dropdown"><a href="https://btcmanager.com/news/bitcoin/" data-wpel-link="internal">Bitcoin News</a></li>
+<li id="menu-item-80486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80486 dropdown"><a href="https://btcmanager.com/bitcoin-price/" data-wpel-link="internal">Bitcoin Price</a></li>
+<li id="menu-item-80487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80487 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+<li id="menu-item-80488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80488 dropdown"><a href="https://btcmanager.com/bitcoin-widget/" data-wpel-link="internal">Bitcoin Widgets</a></li>
+</ul>
+</li>
+<li id="menu-item-80479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80479 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Blockchain</a>
+<ul class="sub-menu">
+<li id="menu-item-80489" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80489 dropdown"><a href="https://btcmanager.com/news/blockchain/" data-wpel-link="internal">Blockchain</a></li>
+<li id="menu-item-80559" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-80559 dropdown"><a href="https://btcmanager.com/what-is-a-blockchain/" data-wpel-link="internal">What is a Blockchain?</a></li>
+</ul>
+</li>
+<li id="menu-item-80480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80480 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Ethereum</a>
+<ul class="sub-menu">
+<li id="menu-item-80490" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80490 dropdown"><a href="https://btcmanager.com/news/ethereum/" data-wpel-link="internal">Ethereum News</a></li>
+<li id="menu-item-80491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80491 dropdown"><a href="https://btcmanager.com/ethereum-price/" data-wpel-link="internal">Ethereum Price</a></li>
+<li id="menu-item-80492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80492 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis News</a></li>
+<li id="menu-item-80510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80510 dropdown"><a href="https://btcmanager.com/ethereum-widget/" data-wpel-link="internal">Ethereum Widgets</a></li>
+</ul>
+</li>
+<li id="menu-item-80497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80497 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">ICO</a>
+<ul class="sub-menu">
+<li id="menu-item-80561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80561 dropdown"><a href="https://btcmanager.com/news/ico-news/" data-wpel-link="internal">ICO News</a></li>
+<li id="menu-item-80493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80493 dropdown"><a href="https://btcmanager.com/ico-calendar/" data-wpel-link="internal">ICO Calendar</a></li>
+<li id="menu-item-80557" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-80557 dropdown"><a href="https://btcmanager.com/guide-initial-coin-offerings-icos/" data-wpel-link="internal">A Guide to Initial Coin Offerings (ICOs)</a></li>
+</ul>
+</li>
+<li id="menu-item-80481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80481 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Altcoins</a>
+<ul class="sub-menu">
+<li id="menu-item-80494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80494 dropdown"><a href="https://btcmanager.com/news/altcoins/" data-wpel-link="internal">Altcoins News</a></li>
+<li id="menu-item-80495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80495 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+</ul>
+</li>
+<li id="menu-item-80482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80482 dropdown"><a href="https://btcmanager.com/free-bitcoins/" data-wpel-link="internal">Free Bitcoins</a></li>
+<li id="menu-item-80556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-80556 dropdown"><a href="https://btcmanager.com/news/guides/" data-wpel-link="internal">Guides</a>
+<ul class="sub-menu">
+<li id="menu-item-80496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80496 dropdown"><a href="https://btcmanager.com/glossary-of-terms/" data-wpel-link="internal">Glossary of Terms</a></li>
+<li id="menu-item-80562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80562 dropdown"><a href="https://btcmanager.com/news/trading-strategies/" data-wpel-link="internal">Trading Strategies</a></li>
+<li id="menu-item-80560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80560 dropdown"><a href="https://btcmanager.com/news/bitcoin-travel-guide/" data-wpel-link="internal">Bitcoin Travel Guide</a></li>
+<li id="menu-item-80563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80563 dropdown"><a href="https://btcmanager.com/news/cryptocyclopedia/" data-wpel-link="internal">Cryptocyclopedia</a></li>
+</ul>
+</li>
+<li id="menu-item-80483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80483 dropdown"><a href="https://btcmanager.com/buy-bitcoin/" data-wpel-link="internal">Buy Bitcoins</a></li>
+<li id="menu-item-80484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80484 dropdown"><a href="https://btcmanager.com/events-list/" data-wpel-link="internal">Events</a></li>
+</ul> </nav>
+</div>
+</div>
+</header>
+<div id="wrapper" class="content-area post-86640 post type-post status-publish format-standard has-post-thumbnail hentry category-adoption category-blockchain category-business category-news tag-bitcoin tag-bitcoin-cash tag-commercial tag-cryptocurrency-adoption tag-ethereum tag-retail tag-wholesale"> <main id="main" class="site-main container"><div id="ajax-load-more" class="ajax-load-more-wrap blue alm-layouts" data-alm-id="" data-canonical-url="https://btcmanager.com/american-wholesaler-hm-distributors-now-accepts-crypto/" data-slug="american-wholesaler-hm-distributors-now-accepts-crypto" data-post-id="86640"><div class="alm-listing alm-ajax article_list" data-single-post="true" data-single-post-id="86640" data-single-post-order="previous" data-single-post-title-template="{post-title} | {site-title}" data-single-post-site-title="BTCMANAGER" data-single-post-site-tagline="Bitcoin, Blockchain &amp; Cryptocurrency News" data-single-post-scroll="false" data-single-post-scroll-speed="500" data-single-post-scrolltop="30" data-single-post-controls="0" data-single-post-pageview="true" data-repeater="default" data-theme-repeater="single-post.php" data-post-type="post" data-post-format="standard" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="10" data-scroll="true" data-scroll-distance="100" data-max-pages="0" data-pause-override="false" data-pause="false" data-button-label="Previous Post" data-transition="fade" data-images-loaded="false"><div class="alm-reveal alm-single-post post-86640" data-url="https://btcmanager.com/american-wholesaler-hm-distributors-now-accepts-crypto/?q=/american-wholesaler-hm-distributors-now-accepts-crypto/&q=/american-wholesaler-hm-distributors-now-accepts-crypto/" data-title="American Wholesaler H&amp;M Distributors Now Accepts Crypto" data-id="86640" data-page="0"><article id="post-86640" class="post-86640 post type-post status-publish format-standard has-post-thumbnail hentry category-adoption category-blockchain category-business category-news tag-bitcoin tag-bitcoin-cash tag-commercial tag-cryptocurrency-adoption tag-ethereum tag-retail tag-wholesale">
+<div class="post_first"><img width="1300" height="776" src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto.jpg" class="attachment-full size-full wp-post-image" alt="Bitcoin Lightbulb H&amp;M Blockchain Yellow" data-lazy-srcset="https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto.jpg 1300w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-350x209.jpg 350w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-768x458.jpg 768w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-1120x669.jpg 1120w" data-lazy-sizes="100vw" /><noscript><img width="1300" height="776" src="https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto.jpg" class="attachment-full size-full wp-post-image" alt="Bitcoin Lightbulb H&amp;M Blockchain Yellow" srcset="https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto.jpg 1300w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-350x209.jpg 350w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-768x458.jpg 768w, https://btcmanager.com/wp-content/uploads/2019/02/American-Wholesaler-HM-Distributors-Now-Accepts-Crypto-1120x669.jpg 1120w" sizes="100vw" /></noscript></div> <div id="midle" class="">
+<div id="post" class="post post-image entry-content">
+<h1>
+American Wholesaler H&amp;M Distributors Now Accepts Crypto </h1>
+<div class="date">
+<span class="span-reading-time rt-reading-time"><span class="rt-label">Reading Time:</span> <span class="rt-time"> 2</span> <span class="rt-label rt-postfix">minutes</span></span>
+by
+<a href="https://btcmanager.com/author/neil-matthew/" title="Posts by Neil Matthew" rel="author" data-wpel-link="internal">Neil Matthew</a>
+on
+February 14, 2019&nbsp<span class="cat"><a href="https://btcmanager.com/news/adoption/" data-wpel-link="internal">Adoption</a></span>, <span class="cat"><a href="https://btcmanager.com/news/blockchain/" data-wpel-link="internal">Blockchain</a></span>, <span class="cat"><a href="https://btcmanager.com/news/business/" data-wpel-link="internal">Business</a></span>, <span class="cat"><a href="https://btcmanager.com/news/news/" data-wpel-link="internal">News</a></span> </div>
+<p><strong>Thanks to a new partnership with Chimpion, respected lampholder wholesaler H&amp;M Distributors will accept major cryptocurrencies, and hopes to pass on these savings to its network of retailers. The </strong><a href="https://www.prnewswire.com/news-releases/hm-distributors-inc-to-accept-cryptocurrency-payments-including-bitcoin-diamond-300791997.html" data-wpel-link="external" target="_blank" rel="external noopener"><strong>announcement</strong></a><strong> was made on February 8, 2019.</strong></p>
+<h2><span class="ez-toc-section" id="bullish_in_the_face_of_the_bear"><strong>Bullish in the Face of the Bear</strong></span></h2>
+<p>One of the ways that cryptocurrency investors and advocates have managed to maintain their enthusiasm, despite the fact that the cryptocurrency markets are clearly bearish, are through the new announcements and partnerships that many blockchain startups and cryptocurrency projects are making. In addition, there are more companies that are now announcing that they are accepting cryptocurrency than ever. One of those companies is none other than H&amp;M Distributors.</p>
+<h3><span class="ez-toc-section" id="about_the_company">About The Company</span></h3>
+<p style="text-align: left">It is important to note that the company is American wholesaler, not to be confused with the Swedish clothing brand “<a href="https://en.wikipedia.org/wiki/H%26M" data-wpel-link="external" target="_blank" rel="external noopener">H&amp;M</a>”. H&amp;M Distributors specializes in the lighting industry, and offers a variety of lampholders and lampholder accessories. The business has now been in business for over 20 years, as it was founded in 1997. The company <a href="https://www.hmlighting.com/" data-wpel-link="external" target="_blank" rel="external noopener">markets itself</a> as your “one-stop lighting shop”.</p>
+<p>The company clearly sees value in the speed and efficiency of <a href="https://btcmanager.com/beyond-transactions-the-vision-for-cryptocurrencies-as-a-tool-for-social-cohesion/" target="_blank" rel="noopener" data-wpel-link="internal">cryptocurrency </a>transactions, and hopes that the partnership will improve its relationship with its retailers. In addition, the company also believes that accepting cryptocurrency will allow H&amp;M Distributors to pass on added savings to retailers, which means that accepting cryptocurrency might provide for a unique advantage over the competition. In order to accept cryptocurrency, H&amp;M Distributors has established a partnership with Chimpion.</p>
+<h2><span class="ez-toc-section" id="more_details">More Details</span></h2>
+<p>For those that are unaware, <a href="https://www.chimpion.io/" data-wpel-link="external" target="_blank" rel="external noopener">Chimpion</a> aims to be a cryptocurrency point-of-sale platforms for companies of all kinds, and even boasts a mobile app for increased convenience. The idea of Chimpion is to make it as easy as possible for businesses and storefronts of all kinds to accept cryptocurrency.</p>
+<p>Thanks to the partnership, the wholesaler will now accept <a href="https://btcmanager.com/?s=bitcoin" rel="" data-wpel-link="internal">Bitcoin</a> (BTC), Bitcoin Cash (BCH), Bitcoin Diamond (BCD), Dash (DASH), Ethereum (ETH), Zcoin (XZC), and other cryptocurrencies, as well. The transaction fees involved will amount to less than a penny, and this will also help the company avoid inconvenient chargebacks, as well.</p>
+<div class="post_b">
+<div class="send">
+
+<div class="box blocks">
+<div class="txt">Like BTCMANAGER? Send us a tip!</div>
+<div class="text">Our Bitcoin Address: <strong id="address">3AbQrAyRsdM5NX5BQh8qWYePEpGjCYLCy4</strong> <i class="i i_copy copy" data-clipboard-target="#address"></i>
+</div>
+</div>
+</div> <div class="tags">
+<a href="https://btcmanager.com/tag/bitcoin/ " rel="tag" data-wpel-link="internal">bitcoin</a>
+<a href="https://btcmanager.com/tag/bitcoin-cash/ " rel="tag" data-wpel-link="internal">Bitcoin Cash</a>
+<a href="https://btcmanager.com/tag/commercial/ " rel="tag" data-wpel-link="internal">Commercial</a>
+<a href="https://btcmanager.com/tag/cryptocurrency-adoption/ " rel="tag" data-wpel-link="internal">Cryptocurrency Adoption</a>
+<a href="https://btcmanager.com/tag/ethereum/ " rel="tag" data-wpel-link="internal">Ethereum</a>
+<a href="https://btcmanager.com/tag/retail/ " rel="tag" data-wpel-link="internal">retail</a>
+<a href="https://btcmanager.com/tag/wholesale/ " rel="tag" data-wpel-link="internal">Wholesale</a>
+</div>
+</div>
+</div>
+<div class="alm-disqus" data-disqus-shortname="btcmanager"></div>
+<div class="clearfix"></div>
+</div>
+</article>
+<script type='text/javascript'>
+jQuery(document).ready(function($) {
+
+	DISQUSWIDGETS.getCount({reset: true});
+} )
+</script></div></div><div class="alm-btn-wrap" style="visibility: hidden;"><button class="alm-load-more-btn more btn btn_big btn_arrow_right homereadmore" rel="next">Previous Post</button></div></div>
+<div id="sidebarR">
+<div class="sidebar-spacer-posts">
+</div>
+<div class="trend">
+<div class="title">
+<span>#</span> Trending stories
+</div>
+<section id="wpp-4" class="widget featured-posts popular-posts">
+<script type="text/javascript">
+                document.addEventListener('DOMContentLoaded', function() {
+                    var wpp_widget_container = document.getElementById('wpp-4');
+
+                    if ( 'undefined' != typeof WordPressPopularPosts ) {
+                        WordPressPopularPosts.get(
+                            wpp_params.ajax_url + 'widget',
+                            'id=4',
+                            function( response ){
+                                wpp_widget_container.innerHTML += JSON.parse( response ).widget;
+
+                                var event = null;
+
+                                if ( 'function' === typeof(Event) ) {
+                                    event = new Event( "wpp-onload", {"bubbles": true, "cancelable": false} );
+                                } /* Fallback for older browsers */
+                                else {
+                                    if ( document.createEvent ) {
+                                        event = document.createEvent('Event');
+                                        event.initEvent( "wpp-onload", true, false );
+                                    }
+                                }
+
+                                if ( event ) {
+                                    wpp_widget_container.dispatchEvent( event );
+                                }
+                            }
+                        );
+                    }
+                });
+            </script>
+</section>
+</div>
+<div class="tw_b">
+<div class="title">
+<span>#</span> BTCmanager in Twitter
+</div>
+<div class="box">
+<ul>
+<li>
+<span class="blocks">Total tweets:</span>
+<strong>
+</strong>
+</li>
+<li>
+<span class="blocks">Total followers:</span>
+<strong>
+</strong>
+</li>
+<li>
+<span class="blocks">Official hashtag:</span>
+<strong>#btcmanager</strong>
+</li>
+</ul>
+<div class="center">
+<a href="https://twitter.com/btc_manager" target="_blank" data-wpel-link="external" rel="external noopener">
+<img src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/follow.png" alt="twitter bird logo, follow us on twitter"><noscript><img src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/follow.png" alt="twitter bird logo, follow us on twitter"></noscript>
+</a>
+</div>
+</div>
+</div>
+<div class="fb_b">
+<div class="title">
+<span>#</span> BTCmanager in Facebook
+</div>
+<div class="box">
+<section id="facebook_page_plugin_widget-2" class="widget facebook-sidebar widget_facebook_page_plugin_widget"><div class="cameronjonesweb_facebook_page_plugin" data-version="1.6.3" data-implementation="widget" id="lJSiZRCVjvGRwFh"><div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=846690882110183";fjs.parentNode.insertBefore(js, fjs);	}(document, 'script', 'facebook-jssdk'));</script><div class="fb-page" data-href="https://facebook.com/btcmanager" data-width="340" data-max-width="340" data-height="130" data-hide-cover="false" data-show-facepile="true" data-tabs="timeline" data-hide-cta="false" data-small-header="false" data-adapt-container-width="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/btcmanager"><a href="https://www.facebook.com/btcmanager" data-wpel-link="external" target="_blank" rel="external noopener">https://www.facebook.com/btcmanager</a></blockquote></div></div></div></section> </div>
+</div>
+</div></main> </div><div id="height"></div>
+<footer id="footer">
+<div class="container">
+<div class="nav2 box">
+<ul id="menu-footer_first" class="box1"><li id="menu-item-80547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80547 dropdown"><a href="https://btcmanager.com/news/bitcoin/" data-wpel-link="internal">Bitcoin</a></li>
+<li id="menu-item-80459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80459 dropdown"><a href="https://btcmanager.com/news/bitcoin/" data-wpel-link="internal">Bitcoin News</a></li>
+<li id="menu-item-80501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80501 dropdown"><a href="https://btcmanager.com/bitcoin-price/" data-wpel-link="internal">Bitcoin Price</a></li>
+<li id="menu-item-80467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80467 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+<li id="menu-item-80468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80468 dropdown"><a href="https://btcmanager.com/bitcoin-calculator/" data-wpel-link="internal">Currency Converter</a></li>
+<li id="menu-item-80469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80469 dropdown"><a href="https://btcmanager.com/bitcoin-widget/" data-wpel-link="internal">BTCmanager Widgets</a></li>
+</ul><ul id="menu-footer_second" class="box2"><li id="menu-item-80548" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80548 dropdown"><a href="https://btcmanager.com/news/blockchain/" data-wpel-link="internal">Blockchain</a></li>
+<li id="menu-item-80470" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-80470 dropdown"><a href="https://btcmanager.com/news/blockchain/" data-wpel-link="internal">Blockchain News</a></li>
+</ul><ul id="menu-footer_third" class="box3"><li id="menu-item-80549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80549 dropdown"><a href="https://btcmanager.com/news/ethereum/" data-wpel-link="internal">Ethereum</a></li>
+<li id="menu-item-80471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80471 dropdown"><a href="https://btcmanager.com/news/ethereum/" data-wpel-link="internal">Ethereum News</a></li>
+<li id="menu-item-80472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80472 dropdown"><a href="https://btcmanager.com/ethereum-price/" data-wpel-link="internal">Ethereum Price</a></li>
+<li id="menu-item-80473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80473 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis</a></li>
+<li id="menu-item-80512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80512 dropdown"><a href="https://btcmanager.com/ethereum-widget/" data-wpel-link="internal">BTCmanager Ethereum Widgets</a></li>
+</ul><ul id="menu-footer_four" class="box4"><li id="menu-item-80550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80550 dropdown"><a href="https://btcmanager.com/news/ico-news/" data-wpel-link="internal">ICO</a></li>
+<li id="menu-item-80499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80499 dropdown"><a href="https://btcmanager.com/ico-calendar/" data-wpel-link="internal">ICO Calendar</a></li>
+<li id="menu-item-80474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80474 dropdown"><a href="https://btcmanager.com/news/ico-news/" data-wpel-link="internal">ICO News</a></li>
+<li id="menu-item-80553" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-80553 dropdown"><a href="https://btcmanager.com/guide-initial-coin-offerings-icos/" data-wpel-link="internal">ICO Guide</a></li>
+</ul><ul id="menu-footer_fifth" class="box5"><li id="menu-item-80551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80551 dropdown"><a href="https://btcmanager.com/news/altcoins/" data-wpel-link="internal">Altcoins</a></li>
+<li id="menu-item-80457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80457 dropdown"><a href="https://btcmanager.com/news/altcoins/" data-wpel-link="internal">Altcoins News</a></li>
+<li id="menu-item-80458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80458 dropdown"><a href="https://btcmanager.com/news/price-pages/price-analysis/" data-wpel-link="internal">Price Analysis News</a></li>
+</ul><ul id="menu-footer_sixth" class="box6"><li id="menu-item-80552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-80552 dropdown"><a href="javascript:void(0);" data-wpel-link="internal">Investments</a></li>
+<li id="menu-item-80475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80475 dropdown"><a href="https://btcmanager.com/hyip/" data-wpel-link="internal">HYIP</a></li>
+</ul><ul id="menu-footer_seven" class="box7"><li id="menu-item-80476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80476 dropdown"><a href="https://btcmanager.com/glossary-of-terms/" data-wpel-link="internal">Glossary of Terms</a></li>
+<li id="menu-item-80543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80543 dropdown"><a href="https://btcmanager.com/news/bitcoin-travel-guide/" data-wpel-link="internal">Bitcoin Travel Guide</a></li>
+<li id="menu-item-80545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80545 dropdown"><a href="https://btcmanager.com/news/cryptocyclopedia/" data-wpel-link="internal">Cryptocyclopedia</a></li>
+</ul><ul id="menu-footer_eigth" class="box8"><li id="menu-item-80454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80454 dropdown"><a href="https://btcmanager.com/free-bitcoins/" data-wpel-link="internal">Free Bitcoins</a></li>
+<li id="menu-item-80455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80455 dropdown"><a href="https://btcmanager.com/buy-bitcoin/" data-wpel-link="internal">Buy Bitcoins</a></li>
+<li id="menu-item-80456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80456 dropdown"><a href="https://btcmanager.com/events-list/" data-wpel-link="internal">Events</a></li>
+<li id="menu-item-80502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80502 dropdown"><a href="https://btcmanager.com/jobs-at-btcmanager/" data-wpel-link="internal">Jobs at Btcmanager</a></li>
+</ul>
+</div>
+<div class="box">
+<div class="left">
+<a href="/" data-wpel-link="internal"><img class="image" src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo3.png" alt="btcmanager logo white" width="130" height="106"><noscript><img class="image" src="https://btcmanager.com/wp-content/themes/btcmana/assets/img/logo3.png" alt="btcmanager logo white" width="130" height="106"></noscript></a>
+</div>
+<div class="right">
+<div class="text"><span>#</span> Follow the news</div>
+<div class="block">
+<script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-16174" method="post" data-id="16174" data-name="Subscribe form"><div class="mc4wp-form-fields"><div class="block">
+<div class="es_textbox">
+<input type="email" name="EMAIL" class="int" placeholder="ex: johndoe@gmail.com" required="">
+</div>
+<div class="es_button">
+<button type="submit" value="" id="es_txt_button" class="btn btns"><i class="i i_email"></i> Subscribe</button>
+</div>
+</div>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1551556184" /><input type="hidden" name="_mc4wp_form_id" value="16174" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form> </div>
+</div>
+<div class="boxs">
+<div class="txt">
+<section id="text-3" class="widget widget_text dis textwidget">
+<h2>DISCLAIMER:</h2>
+<p>
+BTCMANAGER.COM IS NOT A FINANCIAL PROJECT AND DOES NOT PROVIDE ANY INVESTMENT SERVICES OR REPRESENT ANYONE'S INTERESTS OTHER THAN ITS OWN. FOR BASIC INFORMATION ON THIS WEBSITE WE PUT OUR OWN KNOWLEDGE ABOUT ONLINE PAYMENT METHODS, PRACTICAL SKILLS AND YEARS OF EXPERIENCE. BTCMANAGER WEBSITE IS OFFERED TO WIDE RANGE OF READERS AS A DAILY DIGEST THAT FOCUSES ON ISSUES AND MODERN SOLUTIONS IN THE PRACTICAL APPLICATION THE MAIN CRYPTOCURRENCY AND ITS DERIVATIVES. AMONG OUR MAIN OBJECTIVES IS TO POPULARIZE THE USE OF CRYPTOCURRENCY, EXPLANATION WHAT CRYPTOCURRENCIES ARE AND HOW THEY PLAY THE ROLE OF PAYMENT INSTRUMENT AND MEANS FOR SAFE STORING AND EARNINGS, AS WELL AS PROVIDING THE NECESSARY KNOWLEDGE, EDUCATIONAL ARTICLES, INFORMATION ABOUT UPCOMING EVENTS AND CONFERENCES DEDICATED TO THE DEVELOPMENT OF CRYPTOCURRENCY. BTC MANAGER IS NOT RESPONSIBLE FOR ANY RESULTS OF YOUR USING THE INFORMATION FROM OUR WEBSITE
+</p>
+</section>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</footer>
+<a href="https://t.me/btcmanagernews" class="join_telegramm" data-wpel-link="external" target="_blank" rel="external noopener">
+<i class="i i_telegramm"></i>
+<span class="txt1"><strong>Join</strong> our</span>
+<span class="txt2">telegram channel</span>
+</a>
+<script>
+		// $( window ).on( "load", function()	{	
+/* 		window.onload = function() {
+			$('.twitter-tweet').parent().addClass('twitter-tweet-frame');
+			jQuery(".box1 li:first").addClass('name');
+			jQuery(".box1 li:first").removeClass('dropdown');
+			jQuery(".box2 li:first").removeClass('dropdown');jQuery(".box4 li:first").removeClass('dropdown');jQuery(".box3 li:first").removeClass('dropdown');jQuery(".box5 li:first").removeClass('dropdown');jQuery(".box6 li:first").removeClass('dropdown');jQuery(".box7 li:first").removeClass('dropdown');
+			jQuery(".box2 li:first").addClass('name');
+			jQuery(".box3 li:first").addClass('name');
+			jQuery(".box4 li:first").addClass('name');
+			jQuery(".box5 li:first").addClass('name');
+			jQuery(".box6 li:first").addClass('name');
+			jQuery(".box7 li:first").addClass('name');
+			jQuery(".home li:first").removeClass('dropdown');
+			jQuery(".home li:nth-child(4)").removeClass('dropdown');
+			jQuery(".home li:nth-child(5)").removeClass('dropdown');
+			jQuery(".alm-listing:nth-child(2)").addClass("news");
+			jQuery(".box li:first").removeClass('name');
+			jQuery(".alm-btn-wrap").addClass('center');
+			jQuery(".nav_small li:nth-child(6)").removeClass('dropdown');			
+			jQuery(".nav_small li:nth-child(9)").removeClass('dropdown');
+			jQuery(".nav_small li:nth-child(10)").removeClass('dropdown');
+			jQuery('.toggle clickable').prop('disabled', false);
+			jQuery( ".click_toggle" ).click(function() {
+				jQuery( ".click_change" ).slideToggle();
+			});
+		};
+ *//* 		$('.VIPW_new').on('click',
+			function() {
+				$('.homepage-toggle').toggle(1000);
+				$('.homepage-toggle-hide').toggle(1000);
+				var element = document.getElementById("VIPW_new");
+				element.classList.toggle("active");
+			}
+		);
+ */				//Course show/hide
+/* 		$("#course .btn_show").click(function(){
+			$("#course .btn_show").hide();
+			$("#course .btn_hide").show();
+			$("#course .sum1").hide();
+			// document.getElementById("sum1").classList.toggle("big");
+			$(".course_b").slideToggle(400);
+		});
+		$("#course .btn_hide").click(function(){
+			$("#course .btn_hide").hide();
+			$("#course .btn_show").show();
+			$("#course .sum1").show();
+			// document.getElementById("sum1").classList.toggle("big");
+			$(".course_b").slideToggle(400);
+		});
+ */
+	</script>
+<script type="text/javascript" src="https://btcmanager.com/?smpushprofile=load_frontend_push_js&local=1547527594&version=8.33"></script>
+
+<noscript><p><img alt="Clicky" width="1" height="1" src="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 1 1\'%3E%3C/svg%3E" data-lazy-src="//in.getclicky.com/100669114ns.gif" /><noscript><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100669114ns.gif" /></noscript></p></noscript>
+
+<script>
+		jQuery("li.responsive-menu-item").click(function($){
+			$(this).children("ul").toggle();
+		});
+	</script><script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><button id="responsive-menu-button" class="responsive-menu-button responsive-menu-boring
+         responsive-menu-accessible" type="button" aria-label="Menu">
+<span class="responsive-menu-box">
+<span class="responsive-menu-inner"></span>
+</span>
+</button><div id="responsive-menu-container" class="slide-left">
+<div id="responsive-menu-wrapper">
+<ul id="responsive-menu" class=""><li id="responsive-menu-item-80513" class="Bitcoin menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="javascript:void(0);" class="responsive-menu-item-link" data-wpel-link="internal">Bitcoin<div class="responsive-menu-subarrow">▼</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1'><li id="responsive-menu-item-80514" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/bitcoin/" class="responsive-menu-item-link" data-wpel-link="internal">Bitcoin News</a></li><li id="responsive-menu-item-80515" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/bitcoin-price/" class="responsive-menu-item-link" data-wpel-link="internal">Bitcoin Price</a></li><li id="responsive-menu-item-80516" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/price-pages/price-analysis/" class="responsive-menu-item-link" data-wpel-link="internal">Price Analysis</a></li><li id="responsive-menu-item-80517" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/bitcoin-calculator/" class="responsive-menu-item-link" data-wpel-link="internal">Currency Converter</a></li><li id="responsive-menu-item-80518" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/bitcoin-widget/" class="responsive-menu-item-link" data-wpel-link="internal">BTCmanager Widgets</a></li></ul></li><li id="responsive-menu-item-80519" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="javascript:void(0);" class="responsive-menu-item-link" data-wpel-link="internal">Blockchain<div class="responsive-menu-subarrow">▼</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1'><li id="responsive-menu-item-80520" class=" menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent responsive-menu-item responsive-menu-item-current-parent"><a href="https://btcmanager.com/news/blockchain/" class="responsive-menu-item-link" data-wpel-link="internal">Blockchain News</a></li></ul></li><li id="responsive-menu-item-80521" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="javascript:void(0);" class="responsive-menu-item-link" data-wpel-link="internal">Ethereum<div class="responsive-menu-subarrow">▼</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1'><li id="responsive-menu-item-80522" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/ethereum/" class="responsive-menu-item-link" data-wpel-link="internal">Ethereum News</a></li><li id="responsive-menu-item-80523" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/ethereum-price/" class="responsive-menu-item-link" data-wpel-link="internal">Ethereum Price</a></li><li id="responsive-menu-item-80524" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/price-pages/price-analysis/" class="responsive-menu-item-link" data-wpel-link="internal">Price Analysis News</a></li><li id="responsive-menu-item-80525" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/ethereum-widget/" class="responsive-menu-item-link" data-wpel-link="internal">BTCmanager Ethereum Widgets</a></li></ul></li><li id="responsive-menu-item-80526" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="javascript:void(0);" class="responsive-menu-item-link" data-wpel-link="internal">ICO<div class="responsive-menu-subarrow">▼</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1'><li id="responsive-menu-item-80527" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/ico-news/" class="responsive-menu-item-link" data-wpel-link="internal">ICO News</a></li><li id="responsive-menu-item-80528" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/ico-calendar/" class="responsive-menu-item-link" data-wpel-link="internal">ICO Calendar</a></li></ul></li><li id="responsive-menu-item-80529" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children"><a href="javascript:void(0);" class="responsive-menu-item-link" data-wpel-link="internal">Altcoins<div class="responsive-menu-subarrow">▼</div></a><ul class='responsive-menu-submenu responsive-menu-submenu-depth-1'><li id="responsive-menu-item-80530" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/altcoins/" class="responsive-menu-item-link" data-wpel-link="internal">Altcoins News</a></li></ul></li><li id="responsive-menu-item-80531" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/free-bitcoins/" class="responsive-menu-item-link" data-wpel-link="internal">Free Bitcoins</a></li><li id="responsive-menu-item-80532" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/glossary-of-terms/" class="responsive-menu-item-link" data-wpel-link="internal">Glossary of Terms</a></li><li id="responsive-menu-item-80533" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/trading-strategies/" class="responsive-menu-item-link" data-wpel-link="internal">Trading Strategies</a></li><li id="responsive-menu-item-80535" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/bitcoin-travel-guide/" class="responsive-menu-item-link" data-wpel-link="internal">Bitcoin Travel Guide</a></li><li id="responsive-menu-item-80537" class=" menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item"><a href="https://btcmanager.com/news/cryptocyclopedia/" class="responsive-menu-item-link" data-wpel-link="internal">Cryptocyclopedia</a></li><li id="responsive-menu-item-80539" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/buy-bitcoin/" class="responsive-menu-item-link" data-wpel-link="internal">Buy Bitcoins</a></li><li id="responsive-menu-item-80541" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item"><a href="https://btcmanager.com/events-list/" class="responsive-menu-item-link" data-wpel-link="internal">Events</a></li></ul> <div id="responsive-menu-search-box">
+<form action="https://btcmanager.com" class="responsive-menu-search-form" role="search">
+<input type="search" name="s" title="Search" placeholder="Search" class="responsive-menu-search-box">
+</form>
+</div> <div id="responsive-menu-additional-content"></div> </div>
+</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"btcmanager"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"86640 https:\/\/btcmanager.com\/?p=86640","disqusShortname":"btcmanager","disqusTitle":"American Wholesaler H&M Distributors Now Accepts Crypto","disqusUrl":"https:\/\/btcmanager.com\/american-wholesaler-hm-distributors-now-accepts-crypto\/","postId":"86640"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://btcmanager.com/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.j'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.1.1/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mystickyside_name = {"mystickyside_string":"#sidebarR","mystickyside_content_string":"#main","mystickyside_margin_top_string":"90","mystickyside_margin_bot_string":"0","mystickyside_update_sidebar_height_string":"","mystickyside_min_width_string":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/btcmanager.com\/wp-admin\/admin-ajax.php","alm_nonce":"c855fead54","pluginurl":"https:\/\/btcmanager.com\/wp-content\/plugins\/ajax-load-more","scrolltop":"true","display_results":"Showing {num} of {total} results","ajax_object":{"is_single":true,"is_singular":true}};
+var ajax_load_more_vars = {"id":"ajax-load-more"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+window.paceOptions = {restartOnPushState: false};
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","scroll_offset":"30"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var facebook_page_plugin_language = {"language":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://btcmanager.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script>
+<![endif]-->
+<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-top-bar");
+							$("html").addClass("cookie-bar-bar");
+															// Wait for the animation on the html to end before recalculating the required top margin
+								$("html").on('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
+									// code to execute after transition ends
+									var barHeight = $('#catapult-cookie-bar').outerHeight();
+									$("html").css("margin-top",barHeight);
+									$("body.admin-bar").css("margin-top",barHeight-32); // Push the body down if the admin bar is active
+								});
+													}
+																			ctccFirstPage();
+											});
+				</script>
+<div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This site uses cookies: <a class="ctcc-more-info-link" tabindex="0" target="_blank" href="https://btcmanager.com/privacy-policy-2018/" data-wpel-link="internal">Find out more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">Okay, thanks</button></span></div></div><script>(function(w, d){
+            var b = d.getElementsByTagName("body")[0];
+            var s = d.createElement("script"); s.async = true;
+            s.src = !("IntersectionObserver" in w) ? "https://btcmanager.com/wp-content/plugins/rocket-lazy-load/assets/js/lazyload-8.17.min.js" : "https://btcmanager.com/wp-content/plugins/rocket-lazy-load/assets/js/lazyload-10.19.min.js";
+            w.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload-bg,iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                skip_invisible: false,
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_load: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }
+            }; // Your options here. See "recipes" for more information about async.
+            b.appendChild(s);
+        }(window, document));
+        
+        // Listen to the Initialized event
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            // Get the instance and puts it in the lazyLoadInstance variable
+            var lazyLoadInstance = e.detail.instance;
+        
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    mutations.forEach(function(mutation) {
+                        lazyLoadInstance.update();
+                    } );
+                } );
+                
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+                
+                observer.observe(b, config);
+            }
+        }, false);
+        </script> <script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="https://www.youtube.com/embed/ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.id)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script><script id="dsq-count-scr" src="//btcmanager.disqus.com/count.js" async></script>
+<script type="text/javascript" defer src="https://btcmanager.com/wp-content/cache/autoptimize/js/autoptimize_d3914bbda921486bee9d64e297b42339.js"></script><script data-cfasync='false'>!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){function e(){t.media=a}var a=t.media||"all";t.addEventListener?t.addEventListener("load",e):t.attachEvent&&t.attachEvent("onload",e),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(e,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);</script></body>
+</html>

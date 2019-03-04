@@ -1,0 +1,767 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html class="ie6 ie"><![endif]-->
+<!--[if IE 7 ]><html class="ie7 ie"><![endif]-->
+<!--[if IE 8 ]><html class="ie8 ie"><![endif]-->
+<!--[if IE 9 ]><html class="ie9 ie"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="ja"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MDQWTJK');</script>
+<!-- End Google Tag Manager -->  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="content-language" content="ja">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる</title>
+  <meta name="keywords" content="ビットコイン,仮想通貨,とは,解説">  <meta name="description" content="ビットコイン(Bitcoin)は、数ある仮想通貨の中で一番はじめに生まれた通貨です。2009年頃にサトシ・ナカモトという人物が発表したネット論文をもとに開発されています。">  <meta name="author" content="Mofpure">
+  <meta name="copyright" content="Copyright Mofpure">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta property="og:title" content="ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる" >
+<meta property="og:type" content="article" />
+<meta property="og:description" content="ビットコイン(Bitcoin)は、数ある仮想通貨の中で一番はじめに生まれた通貨です。2009年頃にサトシ・ナカモトという人物が発表したネット論文をもとに開発されています。">
+<meta property="og:url" content="https://portal-bitcoin.jp/crypto-currency/bitcoin/" >
+<meta property="og:image" content="https://portal-bitcoin.jp/image/ogp.png" >
+<meta property="og:site_name" content="仮想通貨コインぽーたる" >
+<meta name="twitter:card" content="summary_large_image">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon180.png">
+<link rel="apple-touch-icon" sizes="192x192" href="/apple-touch-icon192.png">
+  <link href="/css/reset.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/flexslider.css?20180312" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/pc.css?20180312" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/newsearch.css?20180312" media="screen" rel="stylesheet" type="text/css" >  <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/js/pull.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollUp.min.js"></script>
+<script type="text/javascript" src="/js/jquery.animateNumber.min.js"></script>
+<script type="text/javascript" src="/js/jsset.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script><!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="/js/respond.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/js/jquery.touchSwipe.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui.min.css">
+<link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
+<script type="text/javascript">
+$(document).ready(function() {
+  var onBeforeunloadHandler = function(e) {
+    $.cookie("position", "-1", { path: '/' });
+  };
+  $(window).on('beforeunload', onBeforeunloadHandler);
+  $("a:not(.through)").each(function(){
+    var href = $(this).prop("href"),
+        hrefPageUrl = href.split("#")[0];
+    if (hrefPageUrl.match(/trader/)) {
+      var index = $('a:not(.through)').index(this) + 1;
+      $(this).attr("href", href + "?i=" + index);
+    }
+  });
+  $('a:not([href^=#]):not(.through)').click(function(e) {
+    e.preventDefault();
+    var href = $(this).attr("href"),
+        hrefPageUrl = href.split("#")[0],
+        index = $('a:not([href^=#]):not(.through)').index(this) + 1;
+    $(window).off('beforeunload', onBeforeunloadHandler);
+    $.cookie("position", index, { path: '/' });
+    if (hrefPageUrl.match(/trader/)) {
+      window.open(href)
+    }else{
+      location.href = href;
+    }
+  });
+  $('.flexslider').flexslider({
+    animation: "slide",
+    animationLoop: false,
+    slideshow: false
+  });
+});
+</script>
+<link rel="alternate" media="handheld" href="/crypto-currency/bitcoin/" /></head>
+<body id="backpc" class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDQWTJK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="back" class="back crypto-currency_bitcoin">
+
+
+<header>
+<div class="header text-center">
+<h2><a href="/"><img src="/image/header/portal-bitcoin-header.png" class="img-responsive center-block" alt="仮想通貨コインぽーたる"></a></h2>
+<span class="bold">仮想通貨の知識や取引についての情報をわかりやすく発信する<br class="smart-off">初心者向けの仮想通貨ポータルサイト！</span>
+</div>
+</header>
+<div class="main">
+<nav class="navbar">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-nav">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a href="/" class="navbar-brand smart-on"><img src="/image/nav/portal-bitcoin-logo.png" class="img-responsive" alt="仮想通貨コインぽーたる"></a>
+</div>
+
+<div class="collapse navbar-collapse" id="top-nav">
+<ul class="nav navbar-nav">
+
+
+<li class="top-navbar-menu dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-shield margin5r smart-off"></i>初心者向け<span class="smart-off">BEGGINER</span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/how-to/crypto-currency/">仮想通貨とは？</a></li>
+<li><a href="/how-to/multiple-accounts/">取引所は複数登録しよう</a></li>
+<li><a href="/information/tax-return/">仮想通貨の確定申告</a></li>
+<li><a href="/how-to/spot-or-fx/">現物取引と仮想通貨FX</a></li>
+<li><a href="/how-to/index/">初心者向けの記事一覧</a></li>
+</ul>
+</li>
+<li class="top-navbar-menu dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-btc margin5r smart-off"></i>仮想通貨<span class="smart-off">CRYPTO CURRENCY</span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/crypto-currency/bitcoin">ビットコインとは？</a></li>
+<li><a href="/crypto-currency/ethereum/">イーサリアムとは？</a></li>
+<li><a href="/crypto-currency/ripple/">リップルとは？</a></li>
+<li><a href="/crypto-currency/monacoin/">モナコインとは？</a></li>
+<li><a href="/crypto-currency/index/">仮想通貨の記事一覧</a></li>
+</ul>
+</li>
+
+<li class="top-navbar-menu dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-unlock-alt margin5r smart-off"></i>口座開設<span class="smart-off">OPEN ACCOUNT</span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/merchant/account-bit-trade/">ビットトレードの登録方法</a></li>
+<li><a href="/merchant/account-gmo-coin/">GMOコインの登録方法</a></li>
+<li><a href="/merchant/account-dmm-bitcoin/">DMM Bitcoinの登録方法</a></li>
+<li><a href="/merchant/account-bitflyer/">ビットフライヤーの登録方法</a></li>
+<li><a href="/merchant/account-quoinex/">QUOINEXの登録方法</a></li>
+<li><a href="/merchant/index/#account">口座開設の記事一覧</a></li>
+</ul>
+</li>
+
+<li class="top-navbar-menu dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" role="button"><i class="fa fa-university margin5r smart-off"></i>取引所<span class="smart-off">TRADER</span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/merchant/merchant-list/">仮想通貨取引所一覧</a></li>
+<li><a href="/merchant/bit-trade/">ビットトレード</a></li>
+<li><a href="/merchant/gmo-coin/">GMOコイン</a></li>
+<li><a href="/merchant/dmm-bitcoin/">DMM Bitcoin</a></li>
+<li><a href="/merchant/bitflyer/">ビットフライヤー</a></li>
+<li><a href="/merchant/quoinex/">コインエクスチェンジ</a></li>
+<li><a href="/merchant/minna-bitcoin/">みんなのビットコイン</a></li>
+<li><a href="/merchant/index/">取引所の記事一覧</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+</nav>
+
+<div class="container main-contents">
+<div class="row"><div class="crumb-box">
+<ol class="breadcrumb">
+<li><a href="/"><i class="fa fa-home margin5r"></i>トップ</a></li>
+<li><a href="/crypto-currency/index/">仮想通貨</a></li>
+<li class="active">ビットコインとは？人気の仮想通貨を解説</li>
+</ol>
+</div>
+<div class="col-md-8 col-sm-8 col-xs-12">
+
+<section class="entry">
+<h1>ビットコインとは？人気の仮想通貨を解説</h1>
+<p><img src="/image/entry/cryptocurrency_bitcoin1.png" class="img-responsive" alt="ビットコインとは？人気の仮想通貨を解説"></p>
+<div class="share padding20b clearfix">
+<ul>
+<li class="facebook">
+<a onclick="javascript:window.open('https://www.facebook.com/sharer.php?src=bm&u=https://portal-bitcoin.jp/crypto-currency/bitcoin/&t=ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+<i class="fa fa-facebook fa-lg"></i><span class="sns-name">シェア</span></a>
+</li>
+<li class="twitter">
+<a onclick="javascript:window.open('https://twitter.com/intent/tweet?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/&text=ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる&tw_p=tweetbutton', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+<i class="fa fa-twitter fa-lg"></i><span class="sns-name"Twitter>ツイート</span></a>
+</li>
+<li class="googleplus">
+<a onclick="javascript:window.open('https://plus.google.com/share?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=500');return false;">
+<i class="fa fa-google-plus"></i><span class="sns-name">Google+</span></a>
+</li>
+<li class="hatena">
+<a onclick="javascript:window.open('https://b.hatena.ne.jp/entry/https://portal-bitcoin.jp/crypto-currency/bitcoin/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=510');return false;"><span class="bold">B!</span><span class="sns-name">はてブ</span></a>
+</li>
+<li class="line">
+<a href="https://timeline.line.me/social-plugin/share?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/"><i class="fa fa-comment"></i><span class="sns-name">LINE</span></a>
+</li>
+</ul>
+</div><div class="panel panel-default">
+<div class="panel-heading bold text_ll"><i class="btc margin5r"></i>ビットコイン</div>
+<div class="panel-body">
+<table class="table table-striped">
+<tbody>
+<tr><th><span class="bold">通貨単位</span></th><td>BTC (1 satoshi＝0.00000001BTC)</td></tr>
+<tr><th><span class="bold">時価総額</span></th><td>約27兆1,326億円（第1位）</td></tr>
+<tr><th><span class="bold">価格</span></th><td>1,616,403円前後（1BTC）</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="text_ss">参考：<br class="smart-on">https://coinmarketcap.com/&nbsp;(2018年1月現在)</p>
+<p>今回は、<span class="bold ul">仮想通貨の代表とも言えるビットコイン</span>について解説していきます。</p>
+<hr>
+<div class="toc-box">
+<p class="toc-box-title">目次</p>
+<a href="#1">1.ビットコインとは？その成り立ち</a>
+<a href="#2">2.ビットコインの価値を支える新技術</a>
+<a href="#3">3.どうやってビットコインは価値を持ったか</a>
+<a href="#4">4.ビットコインにはどんなメリットがあるのか</a>
+<a href="#5">5.ビットコイン投資に注目が集まる</a>
+<a href="#6">6.ビットコインの取引をするなら？</a>
+</div>
+
+<h2 id="1">話題のビットコインとは どうやって生まれたの？</h2>
+<p>ビットコイン(Bitcoin)は、数ある仮想通貨の中で<span class="em">一番はじめに生まれた通貨</span>です。<br class="smart-off">
+2009年頃にサトシ・ナカモトという人物が発表したネット論文をもとに開発されています。</p>
+<p>論文には、<span class="bold">「1つの管理元が存在しない、新しい技術を用いた通貨」</span>についてが記されていました。</p>
+<p>これに目を付けた開発者たちが、<br class="smart-off">
+サトシ・ナカモトと共にビットコインのプロジェクトを立ち上げたのでした。</p>
+<p>しかし彼は徐々に姿を消し、今ではサトシ・ナカモトが誰で、<br class="smart-off">
+どんな人物なのか知る人はいないと言われています。<br class="smart-off">
+開発者チームにも、プライベートなことはなにも話さなかったという徹底ぶりです。</p>
+<p>ただ、この技術自体は大変よく出来たものだったため、サトシ・ナカモトの離脱後もプロジェクトは進められ続けました。その結果、今のビットコインの形が出来上がりました。</p>
+<p>では、その新しい技術とはどんなものだったのでしょうか？</p>
+<hr>
+<h2 id="2">ビットコインの価値を支える新技術</h2>
+<p><img src="/image/entry/how-to_cryptocrrency2.png" class="img-responsive" alt="ビットコインの価値を支える新技術ブロックチェーン"></p>
+<h3>ブロックチェーン</h3>
+<p>私たちが普段使っている通貨は、<span class="bold">法定通貨</span>と呼ばれています。<br class="smart-off">
+国・日本銀行が発行し、管理している通貨です。<br class="smart-off">
+これは国という管理元があるがために、その価値が保証される仕組みになっています。</p>
+<p class="em">しかしビットコインの場合では、この管理元が存在しません。</p>
+<p>誰か一人や、どこかひとつの団体によって発行・管理されている通貨ではないということです。<br>
+ただ、それでは価値の保証が出来なくなってしまいます。</p>
+<p>そのため、ビットコインに価値を持たせるために、<br class="smart-off">
+サトシ・ナカモトの唱えた新技術「<span class="em">ブロックチェーン</span>」が用いられています。</p>
+<p>ブロックチェーンは分散型台帳とも呼ばれています。<br class="smart-off">
+ビットコインのやり取りを、全てブロックごとに分けて台帳に記録するシステムです。</p>
+<p>インターネット上なのでもちろん匿名ですが、<span class="bold">「誰が何ビットコイン所持している」とか、<br class="smart-off">
+「どこに送金されたか」などの記録が全て残っている</span>ということです。</p>
+<p>この記録されたブロック同士をチェーンのように結びつけて管理していることから、<br class="smart-off">
+ブロックチェーンという名が付きました。</p>
+<p>しかも、記録は常に誰にでも見れる状態で公開されています。</p>
+<p>例えばどこかでデータを書き換えるなどの不正が起こったとしても、<br class="smart-off">
+さかのぼって参照することがです。</p>
+<p>法定通貨の場合だと滅多にないケースではありますが、<br class="smart-off">
+国が崩壊すれば、その国の通貨価値はなくなってしまいます。</p>
+<p>日本なら「まさか日本がなくならないだろう」という信頼で通貨の価値が保たれていると言っても良いでしょう。</p>
+<p>一方のビットコインではひとつの管理元が存在せず、<span class="em">世界中のネットワークで管理され続ける</span>ため価値がなくなりにくいのです。</p>
+<p>流石に、全世界で一斉にインターネットが使えなくなるという事態は考えにくいです。</p>
+<p>ブロックチェーン技術はビットコインでは主にお金のやり取りに使われますが、<br class="smart-off">
+アプリ開発や公共サービスに利用する動きもあります。</p>
+<hr>
+<h2 id="3">どうやってビットコインは価値を持ったか</h2>
+<p><img src="/image/entry/cryptocurrency_bitcoin2.png" class="img-responsive" alt="どうやってビットコインは価値を持ったか"></p>
+<p>優れた技術が使用されているビットコインも、出来たばかりの頃は価値が認められませんでした。</p>
+<p>日本でも消失や盗難などについての報道が多く、<br class="smart-off">
+<span class="bold">怪しいというイメージを持っている方がまだまだ多い</span>です。</p>
+<p>当初はおもちゃの子供紙幣を持っている状態に近く、<br class="smart-off">
+たとえ1万ビットコインを持っていたとしても価値はゼロでした。</p>
+<p>そんな状態で、ある一人のエンジニアが冗談で<span class="bold">「誰か、1万ビットコインとピザを交換しない？」</span>と投稿をしました。</p>
+<p>この発言を面白いと思った別のプログラマーが相手の家にピザを配達し、ピザを1万ビットコインを交換します。</p>
+<p>これがビットコインで初めての取引だったと言われています。</p>
+<p>冗談がきっかけではありますが、<span class="em">ビットコインが確かに価値を持った瞬間</span>とも言えるでしょう。</p>
+<p>この後もゲーム感覚のように「ビットコインが面白そうだ」「将来、通貨として使えそう」と広まりを見せ、だんだんを価値を持つようになってきました。</p>
+<p>今では<span class="em">1ビットコイン(1BTC)＝170万円前後</span>(※2018年1月)と、当時では考えられないほどの高値で取引されています。</p>
+<p>またビットコインは発行枚数が2100万までと、上限が決まっていますので開発当時に比べて、手に入れるのが難しくなっていることへの懸念もあります。</p>
+<p><span class="bold ul">仮想通貨に興味があり、自分も今すぐビットコインを購入したい！</span>と思った場合、<br class="smart-off">
+手っ取り早いのは仮想通貨取引所に登録してしまうことです。</p>
+<p><a href="/trader/bit-trade/" target="_blank">ビットトレード</a>であれば<span class="em">数百円程度</span>からビットコインが購入できるので、今のうちに少しでも買っておきたい！という方は登録してみるのもいいかもしれませんね。</p>
+<div class="trader">
+<a href="/trader/bit-trade/" target="_blank">ビットトレード公式サイト</a>
+</div>
+<hr>
+<h2 id="4">ビットコインにはどんなメリットがあるのか</h2>
+<p><img src="/image/entry/cryptocurrency_bitcoin3.png" class="img-responsive" alt="ビットコインにはどんなメリットがあるのか"></p>
+<p>既に私たちはドルや円と言った通貨を使用しています。<br class="smart-off">
+では、新しくビットコインを使うと何か良いことがあるのでしょうか？</p>
+<h3>電子マネーとして使う</h3>
+<p>1つは電子マネーとしての扱い方です。<br class="smart-off">
+ビットコインはなくとも、電子マネーは使用したことがある場合が多く、より身近に感じられそうです。</p>
+<p>日本では大手企業でのビットコイン決済が、一部認められています。</p>
+<p>従来の電子マネーとビットコインが異なる点は、使っている通貨の主体が何であるかです。</p>
+<p>電子マネーでは日本円をチャージし、そのまま日本円として使います。</p>
+<p>ビットコインの場合では、ビットコインをチャージすることはありません。<br class="smart-off">
+ビットコインそのままの形で使うことが出来るのです。</p>
+<p>まだまだ実装している店舗は少ないですが、海外では気軽に使えるレベルにまで広がってきているようです。</p>
+<h3>コストの少ない送金手段として使う</h3>
+<p>2つ目は、送金の早さ・費用に関してです。<br>
+ビットコインはデータなので、海外への送金がネット上のやり取りだけの数秒で済みます。</p>
+<p>銀行を介した送金だと4、5日かかるのが通常で、手数料も発生してしまいます。</p>
+<p>この手数料にも差があり、<span class="em">仲介業者を挟まないビットコインは無料か、もしくはかなり格安まで費用を抑えられる</span>のです。</p>
+<p>また、24時間世界にいる誰とでも取引が可能なのもメリットにあげられるでしょう。</p>
+<hr>
+<h2 id="5">ビットコイン投資に注目が集まる</h2>
+<p>ビットコインの価格が上昇してきた中で、ビットコイン投資への関心も高まってきています。</p>
+<p>ビットコインの仕組みを理解して、<span class="em">将来もっと大幅に使われることを見越して買う人や、資産を分散して持つ</span>為にも利用されているようです。</p>
+<p>今では世界中どこにいても、パソコン・スマートフォンのインターネットに繋がる環境があればビットコインの購入が可能です。</p>
+<p>ビットコインの取引所では、1枚以下の0.1枚や0.01枚などの細かい枚数での購入が出来ます。</p>
+<p>そのため数百万といった資金を必要とせず、<br class="smart-off">
+<span class="bold">数百～数千円程度の少額から始めている</span>方が多いようです。</p>
+<p>もはや身近になってきたビットコインを始めるなら、少額から無理のない資金管理のなかでビットコインを保有してみましょう。</p>
+</section>
+
+<h2 id="6" class="index-title">ビットコインを取引するなら</h2>
+<section class="entry">
+<h2 id="gmo-coin">GMOコイン</h2>
+<div class="row">
+<div class="col-md-5 col-sm-5 col-xs-12">
+<a href="/trader/gmo-coin/" target="_blank"><img src="/image/banner/gmo-coin134.jpg" alt="GMOコイン" class="center-block"></a>
+</div>
+<div class="col-md-7 col-sm-7 col-xs-12 merchant-table">
+<p>GMOコインの基本情報</p>
+<table class="table table-striped">
+<tbody>
+<tr><th>手数料</th><td>無料</td></tr>
+<tr><th>取扱コイン</th><td>5種</td></tr>
+<tr><th>最小販売単位</th><td>0.0001 BTC</td></tr>
+<tr><th>レバレッジ(最大)</th><td>5倍</td></tr>
+</tbody>
+</table>
+<div class="trader">
+<a href="/merchant/gmo-coin/">GMOコインについて詳しくみる</a>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading bold">GMOコインの取扱コイン</div>
+<div class="panel-body">
+<ul class="panel-coin-list">
+<li><i class="btc margin5r"></i>ビットコイン</li>
+<li><i class="eth margin5r"></i>イーサ（イーサリアム）</li>
+<li><i class="xrp margin5r"></i>リップル</li>
+<li><i class="ltc margin5r"></i>ライトコイン</li>
+<li><i class="bch margin5r"></i>ビットコインキャッシュ</li>
+</ul>
+</div>
+</div>
+
+<h3>販売所だから狙った価格で売買しやすい</h3>
+<p>GMOコインは<span class="bold ul">FXでも有名なGMOインターネットグループ</span>が運営する仮想通貨販売所です。</p>
+<p>FXなどさまざまな金融サービスを提供していることもあり、<br class="smart-off">
+仮想通貨取引においても管理体制やセキュリティ面がしっかりしている販売所です。</p>
+<p>GMOコインは仮想通貨「販売所」であり、常に価格が変動している取引所と違って、<br class="smart-off">
+<span class="em">提示された価格で取り引きしやすい</span>といったメリットがあります。</p>
+<p>取引に慣れていない初心者の方には、価格の流れが速い取引所よりも、<br class="smart-off">
+<span class="bold">決まった価格で売買できる「販売所」の方が取引しやすいと思います。</span></p>
+<p>仮想通貨を持ちたい、取引は慣れてからにしたい、と考えている方は、<br class="smart-off">
+まずは販売所であるGMOコインに登録しておくのがおすすめです。</p>
+
+<h3>仮想通貨取引専用アプリ</h3>
+<p>GMOが提供している<span class="em">仮想通貨FX専用アプリ『ビットレ君』</span>では、<br class="smart-off">
+ワンタップで注文可能な『スピード注文』やテクニカルツールなどの機能が充実しています。</p>
+<p>専用アプリだからできる、スマホでの快適な取引環境が整っています。</p>
+
+<div class="campaign">
+<h3>GMOコインキャンペーン情報</h3>
+<p><img src="/image/merchant/gmo-campaign1.png" class="img-responsive center-block" alt="GMOコインキャンペーン情報"></p>
+<p class="bold pink text-center">新規口座開設でビットコイン(20000satoshi)がもらえるキャンペーン実施中！</p>
+</div>
+
+<div class="trader">
+<a href="/trader/gmo-coin/" target="_blank">GMOコイン公式サイト</a>
+</div>
+</section><section class="entry">
+<h2 id="bit-trade">ビットトレード</h2>
+<div class="row">
+<div class="col-md-5 col-sm-5 col-xs-12">
+<a href="/trader/bit-trade/" target="_blank"><img src="/image/banner/bit-trade132.gif" alt="ビットトレード" class="center-block"></a>
+</div>
+<div class="col-md-7 col-sm-7 col-xs-12 merchant-table">
+<p>ビットトレードの基本情報</p>
+<table class="table table-striped">
+<tbody>
+<tr><th>手数料</th><td>0.2％</td></tr>
+<tr><th>取扱コイン</th><td>6種</td></tr>
+<tr><th>最小販売単位</th><td>0.0001 BTC</td></tr>
+<tr><th>レバレッジ(最大)</th><td>なし</td></tr>
+</tbody>
+</table>
+<div class="trader">
+<a href="/merchant/bit-trade/">ビットトレードについて詳しくみる</a>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading bold">ビットトレードの取扱コイン</div>
+<div class="panel-body">
+<ul class="panel-coin-list">
+<li><i class="btc margin5r"></i>ビットコイン</li>
+<li><i class="eth margin5r"></i>イーサ（イーサリアム）</li>
+<li><i class="xrp margin5r"></i>リップル</li>
+<li><i class="ltc margin5r"></i>ライトコイン</li>
+<li><i class="mona margin5r"></i>モナコイン</li>
+<li><i class="bch margin5r"></i>ビットコインキャッシュ</li>
+</ul>
+</div>
+</div>
+
+<h3>ワンコインから取引できる取引所</h3>
+<p>ビットトレードは、FXトレード・フィナンシャルグループが運営する仮想通貨取引所です。</p>
+<p>FXトレード・フィナンシャルといえば、FX取引でも有名な会社で金融サービス面での信頼感もあり、初心者でも安心して使える取引所です。</p>
+<p>ビットトレードでは取引最小単位が<span class="bold">0.0001BTC</span>のため、<br class="smart-off">
+<span class="em">わずか数百円程度から仮想通貨取引をスタートできるのがポイント</span>です！</p>
+<p>※1BTCの<span class="bold ul">10000分の1</span>の値段から購入可能なので、<br class="smart-off">
+現在の値段ならワンコインの<span class="em">500円</span>から取引が始められます。(2018年1月現在)</p>
+<p>初めての取引で、<span class="bold ul">最初はあまりお金をかけたくない</span>と思う初心者でも、<br class="smart-off">
+ワンコインから始められるので、まずはお試しで取引したい場合に便利な取引所です。</p>
+<p>ビットトレードでは、仮想通貨取引が初めての方向けに「スタートガイド」が用意されています。<br class="smart-off">
+登録方法から取引ツールの操作方法まで、スマホとPCでそれぞれ詳しく説明されているため、<br class="smart-off">
+これから始めようと思っている方も安心です。</p>
+<p><span class="em">ビットトレードの取引ツールはスマホ取引にも完全対応！</span><br class="smart-off">
+PCと変わらない取引環境を、スマホでも快適に利用できるようになっています。</p>
+<div class="trader">
+<a href="/trader/bit-trade/" target="_blank">ビットトレード公式サイト</a>
+</div>
+</section>
+<div class="share padding20b clearfix">
+<ul>
+<li class="facebook">
+<a onclick="javascript:window.open('https://www.facebook.com/sharer.php?src=bm&u=https://portal-bitcoin.jp/crypto-currency/bitcoin/&t=ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+<i class="fa fa-facebook fa-lg"></i><span class="sns-name">シェア</span></a>
+</li>
+<li class="twitter">
+<a onclick="javascript:window.open('https://twitter.com/intent/tweet?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/&text=ビットコインとは？人気の仮想通貨を解説-仮想通貨コインぽーたる&tw_p=tweetbutton', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+<i class="fa fa-twitter fa-lg"></i><span class="sns-name"Twitter>ツイート</span></a>
+</li>
+<li class="googleplus">
+<a onclick="javascript:window.open('https://plus.google.com/share?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=500');return false;">
+<i class="fa fa-google-plus"></i><span class="sns-name">Google+</span></a>
+</li>
+<li class="hatena">
+<a onclick="javascript:window.open('https://b.hatena.ne.jp/entry/https://portal-bitcoin.jp/crypto-currency/bitcoin/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=510');return false;"><span class="bold">B!</span><span class="sns-name">はてブ</span></a>
+</li>
+<li class="line">
+<a href="https://timeline.line.me/social-plugin/share?url=https://portal-bitcoin.jp/crypto-currency/bitcoin/"><i class="fa fa-comment"></i><span class="sns-name">LINE</span></a>
+</li>
+</ul>
+</div><div class="panel panel-default panel-body text-center margin20t margin2emb">
+<p style="margin-bottom:5px" class="bold">Twitterはじめました！</p>
+<p style="margin-bottom:15px">サイトの更新情報や<br class="smart-on">仮想通貨のニュースを配信中！</p>
+<div class="follow twitter" onclick="window.open('https://twitter.com/intent/follow?screen_name=portal_bitcoin', 'tweetwindow', 'width=650, height=600, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;" style="cursor:pointer"><i class="fa fa-twitter fa-lg margin5r"></i><span class="bold">フォローする</span></div>
+</div><section class="pickup-list row">
+<h2 class="index-title">注目の記事</h2>
+<div class="clearfix">
+<div class="col-md-3 col-sm-3 col-xs-6 entry-box">
+<div class="entry-post">
+<a href="/merchant/dmm-bitcoin/">
+<img src="/image/entry/merchant_dmm-bitcoin1.png" class="img-responsive" alt="口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは">
+<div class="post-text">
+<span class="ct">取引所</span>
+<h3>口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 entry-box">
+<div class="entry-post">
+<a href="/information/tax-return/">
+<img src="/image/entry/information_tax-return1.png" class="img-responsive" alt="仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは">
+<div class="post-text">
+<span class="ct">もっと知る</span>
+<h3>仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 entry-box">
+<div class="entry-post">
+<a href="/merchant/bit-trade/">
+<img src="/image/entry/merchant_bit-trade1.png" class="img-responsive" alt="仮想通貨取引所 ビットトレード(BitTrade)とは　ワンコインからビットコインを始めよう">
+<div class="post-text">
+<span class="ct">取引所</span>
+<h3>仮想通貨取引所 ビットトレード(BitTrade)とは　ワンコインからビットコインを始めよう</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-6 entry-box">
+<div class="entry-post">
+<a href="/merchant/gmo-coin/">
+<img src="/image/entry/merchant_gmo-coin1.png" class="img-responsive" alt="GMOコインとは？高性能なスマホアプリの「ビットレ君」が評判">
+<div class="post-text">
+<span class="ct">取引所</span>
+<h3>GMOコインとは？高性能なスマホアプリの「ビットレ君」が評判</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+</section></div>
+<div id="side" class="col-md-4 col-sm-4 col-xs-12">
+
+<div class="side-menu">
+<ul><h4>初心者向け</h4>
+<li><a href="/how-to/crypto-currency/">仮想通貨とは</a></li>
+<li><a href="/how-to/multiple-accounts/">取引所に複数登録すべき理由とは</a></li>
+<li><a href="/how-to/spot-or-fx/">現物取引と仮想通貨FX(レバレッジ取引)</a></li>
+</ul>
+
+<ul><h4>仮想通貨</h4>
+<li><a href="/crypto-currency/bitcoin/">ビットコイン</a></li>
+<li><a href="/crypto-currency/ethereum/">イーサリアム</a></li>
+<li><a href="/crypto-currency/ripple/">リップル</a></li>
+<li><a href="/crypto-currency/monacoin/">モナコイン</a></li>
+</ul>
+
+<ul><h4>口座開設</h4>
+<li><a href="/merchant/account-bit-trade/">ビットトレードの登録から購入まで</a></li>
+<li><a href="/merchant/account-gmo-coin/">GMOコインの登録から購入まで</a></li>
+<li><a href="/merchant/account-dmm-bitcoin/">DMM Bitcoinの登録から購入まで</a></li>
+<li><a href="/merchant/account-bitflyer/">ビットフライヤーの登録から購入まで</a></li>
+<li><a href="/merchant/account-quoinex/">QUOINEXの登録から購入まで</a></li>
+</ul>
+
+<ul><h4>もっと知る</h4>
+<li><a href="/information/tax-return/">仮想通貨の確定申告のやり方</a></li>
+</ul>
+
+<ul><h4>取引所</h4>
+<li><a href="/merchant/merchant-list/">仮想通貨取引所一覧</a></li>
+<li><a href="/merchant/bit-trade/">ビットトレード</a></li>
+<li><a href="/merchant/gmo-coin/">GMOコイン</a></li>
+<li><a href="/merchant/dmm-bitcoin/">DMM Bitcoin</a></li>
+<li><a href="/merchant/bitflyer/">ビットフライヤー</a></li>
+<li><a href="/merchant/quoinex/">コインエクスチェンジ</a></li>
+<li><a href="/merchant/minna-bitcoin/">みんなのビットコイン</a></li>
+</ul>
+<div class="smart-on">
+<div class="side-pickup-list">
+<h4>
+<span class="fa-stack margin5r">
+<i class="fa fa-certificate fa-stack-2x"></i>
+<i class="fa fa-bitcoin fa-stack-1x mc"></i>
+</span>注目の記事</h4>
+
+<div class="entry-post">
+<a href="/information/tax-return/">
+<img src="/image/entry/information_tax-return1.png" class="img-responsive" alt="仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは">
+<div class="post-text">
+<span class="ct">もっと知る</span>
+<h3>仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/account-bit-trade/">
+<img src="/image/entry/merchant_account-bit-trade1.png" class="img-responsive" alt="ワンコインからでOK！ビットトレードへの登録方法・口座開設から取引開始までを解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>ワンコインからでOK！ビットトレードへの登録方法を解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/account-gmo-coin/">
+<img src="/image/entry/merchant_account-gmo-coin1.png" class="img-responsive" alt="GMOコイン登録から購入まで初心者にも分かりやすく解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>GMOコインへの登録方法・口座開設から取引開始までを解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/dmm-bitcoin/">
+<img src="/image/entry/merchant_dmm-bitcoin1.png" class="img-responsive" alt="口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは">
+<div class="post-text">
+<span class="ct">取引所</span>
+<h3>口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post smart-on">
+<a href="/merchant/account-dmm-bitcoin/">
+<img src="/image/entry/merchant_account-dmm-bitcoin1.png" class="img-responsive" alt="DMM Bitcoinへの登録方法・口座開設から取引開始までを解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>DMM Bitcoinへの登録方法・口座開設から取引開始までを解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post smart-on">
+<a href="/how-to/multiple-accounts/">
+<img src="/image/entry/how-to_multiple-accounts1.png" class="img-responsive" alt="仮想通貨取引所に複数登録しておくべき理由とは？複数の取引所をつかう5つのメリット">
+<div class="post-text">
+<span class="ct">初心者向け</span>
+<h3>仮想通貨取引所に複数登録しておくべき理由とは？複数の取引所をつかう5つのメリット</h3>
+</div>
+</a>
+</div>
+
+</div><div class="sub-merchant">
+<h4><i class="fa fa-thumb-tack fa-lg margin5r"></i>ワンコインで始められる</h4>
+<img src="/image/banner/bit-trade132.gif" alt="ビットトレード" class="img-responsive center-block margin20t margin20b">
+<p class="smart-on text-center">これから仮想通貨を始めるなら、<br>
+<span class="bold ul">ワンコインで取引できるビットトレード</span><br>
+がオススメ！</p>
+<div class="trader">
+<a href="/merchant/bit-trade/">ビットトレードの記事をよむ</a>
+</div>
+</div>
+</div>
+</div>
+
+<div id="side-affix-box" class="smart-off">
+<div id="side-menu-affix" class="side-menu" data-spy="affix" data-offset-top="1800" data-offset-bottom="700">
+<div class="side-pickup-list">
+<h4>
+<span class="fa-stack margin5r">
+<i class="fa fa-certificate fa-stack-2x"></i>
+<i class="fa fa-bitcoin fa-stack-1x mc"></i>
+</span>注目の記事</h4>
+
+<div class="entry-post">
+<a href="/information/tax-return/">
+<img src="/image/entry/information_tax-return1.png" class="img-responsive" alt="仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは">
+<div class="post-text">
+<span class="ct">もっと知る</span>
+<h3>仮想通貨の確定申告!確定申告が必要な条件と簡単なやり方とは</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/account-bit-trade/">
+<img src="/image/entry/merchant_account-bit-trade1.png" class="img-responsive" alt="ワンコインからでOK！ビットトレードへの登録方法・口座開設から取引開始までを解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>ワンコインからでOK！ビットトレードへの登録方法を解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/account-gmo-coin/">
+<img src="/image/entry/merchant_account-gmo-coin1.png" class="img-responsive" alt="GMOコイン登録から購入まで初心者にも分かりやすく解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>GMOコインへの登録方法・口座開設から取引開始までを解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post">
+<a href="/merchant/dmm-bitcoin/">
+<img src="/image/entry/merchant_dmm-bitcoin1.png" class="img-responsive" alt="口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは">
+<div class="post-text">
+<span class="ct">取引所</span>
+<h3>口座開設で1000円もらえる！DMM Bitcoinが初心者にもおすすめの理由とは</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post smart-on">
+<a href="/merchant/account-dmm-bitcoin/">
+<img src="/image/entry/merchant_account-dmm-bitcoin1.png" class="img-responsive" alt="DMM Bitcoinへの登録方法・口座開設から取引開始までを解説">
+<div class="post-text">
+<span class="ct">口座開設</span>
+<h3>DMM Bitcoinへの登録方法・口座開設から取引開始までを解説</h3>
+</div>
+</a>
+</div>
+
+<div class="entry-post smart-on">
+<a href="/how-to/multiple-accounts/">
+<img src="/image/entry/how-to_multiple-accounts1.png" class="img-responsive" alt="仮想通貨取引所に複数登録しておくべき理由とは？複数の取引所をつかう5つのメリット">
+<div class="post-text">
+<span class="ct">初心者向け</span>
+<h3>仮想通貨取引所に複数登録しておくべき理由とは？複数の取引所をつかう5つのメリット</h3>
+</div>
+</a>
+</div>
+
+</div><div class="sub-merchant">
+<h4><i class="fa fa-thumb-tack fa-lg margin5r"></i>ワンコインで始められる</h4>
+<img src="/image/banner/bit-trade132.gif" alt="ビットトレード" class="img-responsive center-block margin20t margin20b">
+<p class="smart-on text-center">これから仮想通貨を始めるなら、<br>
+<span class="bold ul">ワンコインで取引できるビットトレード</span><br>
+がオススメ！</p>
+<div class="trader">
+<a href="/merchant/bit-trade/">ビットトレードの記事をよむ</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div><!-- container -->
+</div><!-- main -->
+</div><!-- back -->
+<footer>
+<div class="container">
+<ul class="margin20b">
+<h4 class="margin5l margin10b">SNS</h4>
+<a onclick="window.open('https://twitter.com/intent/follow?screen_name=portal_bitcoin', 'tweetwindow', 'width=650, height=600, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;" style="cursor:pointer"><i class="fa fa-twitter fa-2x twitter sns-icon"></i></a>
+<a href="https://www.facebook.com/coinportal.jp/"><i class="fa fa-facebook fa-2x facebook sns-icon"></i></a>
+</ul>
+<div class="footer-menu clearfix">
+<ul><h4>初心者向け</h4>
+<li><a href="/how-to/crypto-currency/">仮想通貨とは</a></li>
+<li><a href="/how-to/multiple-accounts/">取引所に複数登録すべき理由とは</a></li>
+<li><a href="/how-to/spot-or-fx/">現物取引と仮想通貨FX(レバレッジ取引)</a></li>
+</ul>
+
+<ul><h4>仮想通貨</h4>
+<li><a href="/crypto-currency/bitcoin/">ビットコイン</a></li>
+<li><a href="/crypto-currency/ethereum/">イーサリアム</a></li>
+<li><a href="/crypto-currency/ripple/">リップル</a></li>
+<li><a href="/crypto-currency/monacoin/">モナコイン</a></li>
+</ul>
+
+<ul><h4>口座開設</h4>
+<li><a href="/merchant/account-bit-trade/">ビットトレードの登録から購入まで</a></li>
+<li><a href="/merchant/account-gmo-coin/">GMOコインの登録から購入まで</a></li>
+<li><a href="/merchant/account-dmm-bitcoin/">DMM Bitcoinの登録から購入まで</a></li>
+<li><a href="/merchant/account-bitflyer/">ビットフライヤーの登録から購入まで</a></li>
+<li><a href="/merchant/account-quoinex/">QUOINEXの登録から購入まで</a></li>
+</ul>
+
+<ul><h4>もっと知る</h4>
+<li><a href="/information/tax-return/">仮想通貨の確定申告のやり方</a></li>
+</ul>
+
+<ul><h4>取引所</h4>
+<li><a href="/merchant/merchant-list/">仮想通貨取引所一覧</a></li>
+<li><a href="/merchant/bit-trade/">ビットトレード</a></li>
+<li><a href="/merchant/gmo-coin/">GMOコイン</a></li>
+<li><a href="/merchant/dmm-bitcoin/">DMM Bitcoin</a></li>
+<li><a href="/merchant/bitflyer/">ビットフライヤー</a></li>
+<li><a href="/merchant/quoinex/">コインエクスチェンジ</a></li>
+<li><a href="/merchant/minna-bitcoin/">みんなのビットコイン</a></li>
+</ul>
+</div>
+
+<ul class="footer text-center">
+<li><a href="/agreement/">利用規約</a></li>
+<li><a href="/privacy/">プライバシーポリシー</a></li>
+<li><a href="/tokusho/">特定商取引法に基づく表記</a></li>
+<li><a href="/disclaimer/">免責事項</a></li>
+</ul>
+<p class="text-center">Copyright 仮想通貨コインぽーたる all rights reserved.</p>
+</div>
+</footer>
+
+</body>
+</html>

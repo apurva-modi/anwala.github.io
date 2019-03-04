@@ -1,0 +1,1903 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="imagetoolbar" content="no">
+    <meta name="msthemecompatible" content="no">
+    <meta name="cleartype" content="on">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="google" value="notranslate">
+    <meta name="theme-color" content="#F7931A">
+    <title>CryptoTab Browser - Easy way for Bitcoin Mining</title>
+    <meta name="description" content="CryptoTab Browser is the world’s first web browser with built-in mining features. Familiar Chrome user interface is perfectly combined with extremely fast mining speed. Mine and browse at the same time!">
+    <meta name="keywords" content="bitcoin, free bitcoin, get free bitcoins, earn bitcoin,  bitcoin mining, chrome mining, cryptotab, bitcoin cash, referral network">
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://get.cryptobrowser.site/en/"/>
+    <meta property="og:title" content="CryptoTab Browser - Lightweight, fast, and ready to mine!"/>
+    <meta property="og:image" content="https://get.cryptobrowser.site/static/django-cryptotab-sharing/cryptotab_sharing/images/message_images/cryptotab-browser_social-post_23_fullsize.jpg"/>
+    <meta property="og:description" content="CryptoTab Browser is the world’s first web browser with built-in mining features. Familiar Chrome user interface is perfectly combined with extremely fast mining speed. Mine and browse at the same time!"/>
+    <meta property="og:site_name" content="CryptoTab Browser"/>
+    <link href="/static/styles/animate.css" rel="stylesheet">
+    <link href="/static/styles/style.css?t=1545814989" rel="stylesheet">
+    <link href="/static/django-cryptotab-sharing/cryptotab_sharing/styles/sharing.css?t=1544180176" rel="stylesheet">
+    <link href="/static/favicon.ico" rel="icon" type="image/x-icon">
+    <link id="manifest-placeholder" rel="manifest">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "CryptoTab",
+      "url": "https://cryptobrowser.site",
+      "logo":  "https://cryptobrowser.site/static/browser_site/images/cryptotab_icon-a@2x.png",
+      "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "url": "https://cryptobrowser.site/feedback/",
+            "contactType": "customer service"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/cryptotabextension/",
+        "https://vk.com/public162654141",
+        "https://t.me/CryptoTabChannel",
+        "https://twitter.com/CryptoTabnet",
+        "https://www.youtube.com/channel/UCHeEoD-Vag9EyZfZ7G8MByA"
+      ]
+    }
+</script>
+
+    <link rel="canonical" href="https://get.cryptobrowser.site/en/" />
+    
+    
+<script src="https://browser.sentry-cdn.com/4.5.2/bundle.min.js" crossorigin="anonymous"></script>
+<script>
+  try {
+    Sentry.init({ dsn: 'https://fcada901621b4b479cfb36cd4c8a78bd@raven.cryptotab.net/23', attachStacktrace: true, })
+    Sentry.configureScope((scope) => {
+      scope.setTag('version', '0.0.1')
+    })
+
+    self.addEventListener('error', (error) => {
+      Sentry.captureException(error)
+    })
+  } catch (e) {}
+</script>
+<script src="/static/scripts/promise.min.js"></script>
+<script src="/static/scripts/fetch.umd.js"></script>
+<script src="/static/scripts/url-search-params.js"></script>
+<script>
+  var browserName = detectBrowser()
+
+  function detectBrowser () {
+    if (navigator.userAgent.indexOf('Edge') > -1) {
+      return 'edge'
+    } else if ((navigator.userAgent.indexOf('Opera') != -1 || navigator.userAgent.indexOf('OPR')) != -1) {
+      return 'opera'
+    } else if (navigator.userAgent.indexOf('Chrome') != -1) {
+      return 'chrome'
+    } else if (navigator.userAgent.indexOf('Safari') != -1) {
+      return 'safari'
+    } else if (navigator.userAgent.indexOf('Firefox') != -1) {
+      return 'firefox'
+    } else if ((navigator.userAgent.indexOf('MSIE') != -1) || (!!document.documentMode == true)) {
+      return 'ie'
+    } else {
+      return 'chrome'
+    }
+  }
+
+  var downloadSelector
+
+  if (browserName === 'chrome') {
+    downloadSelector = '.js-accept'
+  } else {
+    downloadSelector = '.js-download'
+  }
+
+  var id
+
+  window.dataLayer = window.dataLayer || []
+
+  function gtag () {dataLayer.push(arguments)}
+
+  gtag('js', new Date())
+
+  function an_cid () {
+    if (id) {
+      gtag('config', 'UA-117769860-4', {
+        client_id: id
+      })
+    }
+  }
+
+  var args = new URLSearchParams(window.location.search)
+
+  var dpr = window.devicePixelRatio ? window.devicePixelRatio : 1
+  var width = screen.width !== undefined ? Math.floor(screen.width * dpr) : 0
+  if (width % 2) width++
+  var height = screen.height !== undefined ? Math.floor(screen.height * dpr) : 0
+  if (height % 2) height++
+  var tz = new Date().getTimezoneOffset()
+
+  var track_data = {
+    ref: document.referrer,
+    parent_id: 199125,
+    land_id: 8,
+    popup: !!window.opener,
+    frame: window.top !== window.self,
+    history: window.history.length && parseInt(window.history.length),
+    skip_short: true,
+    
+    
+    args: {},
+    width: width,
+    height: height,
+    tz: tz,
+  }
+
+  if (args.get('s')) {
+    track_data.args.social = args.get('s')
+  }
+
+  if (args.get('f')) {
+    track_data.args.from = args.get('f')
+  }
+
+  if (args.get('b')) {
+    track_data.args.banner = args.get('b')
+  }
+
+  fetch('https://cryptobrowser.site/api/v2/track/', {
+    method: 'POST',
+    credentials: 'include',
+    body: JSON.stringify(track_data)
+  }).then(function (response) {
+    return response.json()
+  }).then(function (data) {
+    if (data.track_id) {
+      id = data.track_id
+      track_data.id = data.track_id
+    }
+
+    try {
+      window.addEventListener('load', function (event) {
+          updateGooglePlayLinks(track_data.id)
+        loadPix(track_data.id)
+      })
+    } catch (e) {
+    }
+
+    an_cid()
+  }).catch(function (e) {
+    an_cid()
+  })
+
+</script>
+
+</head>
+<body class="page page_en page_browser" id="top">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+
+<div class="notification" id="headerNotification" style="display: none;">
+    <div class="notification__row notification__row_bg_chinese">
+        <div class="notification__col">
+            <div class="notification__title"></div>
+        </div>
+        <div class="notification__col">
+            <button type="button" class="notification__btn">Learn More</button>
+        </div>
+    </div>
+    <span class="close"></span>
+</div>
+<div class="popup popup_action_required" id="promoSharingPopup">
+    <div class="popup__handler">
+        <div class="popup__header">
+            <div class="popup__label"><span>Congratulations!</span> Get your welcome bonus</div>
+            <div class="btc-bonus">
+                <img src="/static/images/btc-bonus.png" srcset="/static/images/btc-bonus%402x.png 2x" /><span><i></i>&nbsp;BTC</span>
+            </div>
+        </div>
+        <div class="popup__body"></div>
+        <div class="popup__footer">
+            <button type="button" class="button button_secondary" id="closePromoSharingPopup">Cancel</button>
+            <div class="popup__btn">
+                <a href="https://cryptobrowser.site/en/promo/sharing/199125/?l=8" class="button button_primary button_size_l" id="getBonus">GET BONUS</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/static/scripts/countUp.min.js"></script>
+<script type="text/javascript">
+    // Header notification
+    var hideHeaderNotification;
+    var headerNotification = document.getElementById('headerNotification');
+    var page = document.querySelector('.page');
+    var hidePromoSharingPopup;
+    var promoSharingPopup = document.getElementById('promoSharingPopup');
+    var allow = false;
+    var easyMode = false;
+    var bonusMultiplier = 1;
+    var bonusAmount = 0.00001;
+    var bonusAmountSatoshi = 1000;
+    var userTz = new Date().getTimezoneOffset()
+    
+    try {
+        hideHeaderNotification = sessionStorage.getItem('hideHeaderNotification');
+        hidePromoSharingPopup = localStorage.getItem('hidePromoSharingPopup');
+    } catch (e) {
+        
+    }
+
+    function checkPromoSharing(trackId, isLogin) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', 'https://cryptobrowser.site/promo/sharing/check/', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.withCredentials = true;
+        xhr.send(JSON.stringify({tz:userTz, track_id: trackId, login: isLogin}));
+        xhr.onreadystatechange = function() {
+            try {
+                if (xhr.readyState != 4) return;
+
+                if (xhr.status == 200) {
+                    var data = JSON.parse(xhr.responseText);
+                    allow = data.allow;
+
+                    if (data.em) {
+                        easyMode = data.em;
+                    }
+
+                    if (data.amount && data.amount != 0.00001) {
+                        bonusAmount = (data.amount).toFixed(8);
+                        bonusMultiplier = Math.round(data.amount/0.00001*100)/100;
+                        bonusAmountSatoshi = Math.round(data.amount/0.00000001);
+                    }
+
+                    if (easyMode) {
+                        if (bonusMultiplier > 1) {
+                            //promoSharingPopup.querySelector('.popup__header .btc-bonus i').innerHTML = bonusAmount;
+                            promoSharingPopup.querySelector('.popup__body').innerHTML = createStringFromTemplate('<h2>Your personal bonus is 0.00001 x {js_bonus_multiplier} = {js_bonus_amount} BTC.</h2><p><b>You’re the lucky one – <span class="orange">your bonus multiplier is x{js_bonus_multiplier}</span></b>. Regular bonus for repost is 0.00001000 BTC (1000 Satoshi), your personal bonus – {js_bonus_amount} BTC (<b>{js_bonus_satoshi} Satoshi</b>)! Support the mining community by making a repost and get a bonus on your account balance.</p>', {js_bonus_amount: bonusAmount, js_bonus_multiplier: bonusMultiplier, js_bonus_satoshi: bonusAmountSatoshi});
+                            headerNotification.querySelector('.notification__title').innerHTML = createStringFromTemplate('Grab your personal repost bonus of <b>{js_bonus_amount} BTC for free</b>', {js_bonus_amount: bonusAmount});
+                        } else {
+                            //promoSharingPopup.querySelector('.popup__header .btc-bonus i').innerHTML = bonusAmount.toFixed(8);
+                            promoSharingPopup.querySelector('.popup__body').innerHTML = '<h2>Support the mining community by making a repost and get a bonus!</h2><p>Support the mining community by making a repost and get a bonus of 0.00001000 BTC (1000 Satoshi) on your account.</p>';
+                            headerNotification.querySelector('.notification__title').innerHTML = 'Grab your personal bonus of up to <b>0.00001000 BTC for free</b>';
+                        }
+                    } else {
+                        if (bonusMultiplier > 1) {
+                            //promoSharingPopup.querySelector('.popup__header .btc-bonus i').innerHTML = bonusAmount;
+                            promoSharingPopup.querySelector('.popup__body').innerHTML = createStringFromTemplate('<h2>Your personal bonus is 0.00001 x {js_bonus_multiplier} = {js_bonus_amount} BTC.</h2><p><b>You’re the lucky one – <span class="orange">your bonus multiplier is x{js_bonus_multiplier}</span></b>. Regular bonus for repost is 0.00001000 BTC (1000 Satoshi), your personal bonus – {js_bonus_amount} BTC (<b>{js_bonus_satoshi} Satoshi</b>)! Support the mining community by making a repost to Facebook and get a bonus on your account balance.</p>', {js_bonus_amount: bonusAmount, js_bonus_multiplier: bonusMultiplier, js_bonus_satoshi: bonusAmountSatoshi});
+                            headerNotification.querySelector('.notification__title').innerHTML = createStringFromTemplate('Grab your personal repost bonus of <b>{js_bonus_amount} BTC for free</b>', {js_bonus_amount: bonusAmount});
+                        } else {
+                            //promoSharingPopup.querySelector('.popup__header .btc-bonus i').innerHTML = bonusAmount.toFixed(8);
+                            promoSharingPopup.querySelector('.popup__body').innerHTML = '<h2>Support the mining community by making a repost to Facebook and get a bonus!</h2><p>Support the mining community by making a repost to Facebook and get a bonus of 0.00001000 BTC (1000 Satoshi) on your account.</p>';
+                            headerNotification.querySelector('.notification__title').innerHTML = 'Grab your personal bonus of up to <b>0.00001000 BTC for free</b>';
+                        }
+                    }
+
+                    if (hideHeaderNotification === null && allow) {
+                        hideHeaderNotification = false;
+                        headerNotification.style.display = 'block';
+                    } else {
+                        hideHeaderNotification = true;
+                    }
+
+                    if (hidePromoSharingPopup === null && allow) {
+                        hidePromoSharingPopup = false;
+                        promoSharingPopup.classList.add('active');
+                        amountAnimation(document.querySelector('.popup__header .btc-bonus i'), 0, bonusAmount);
+                    } else {
+                        hidePromoSharingPopup = true;
+                    }
+
+                } else {
+                    throw new Error();
+                }
+            } catch (error) {
+                console.log(error)
+            }
+        }
+    }
+
+    function createStringFromTemplate(template, variables) {
+        return template.replace(new RegExp("\{([^\{]+)\}", "g"), function(_unused, varName){
+            return variables[varName];
+        });
+    }
+
+    window.addEventListener('scroll', function(e) {
+        if ( !hideHeaderNotification && (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) && window.innerWidth > 768 ) {
+            page.classList.add('page_sticky-notification');
+            page.style.paddingTop = headerNotification.offsetHeight+'px';
+        } else {
+            page.classList.remove('page_sticky-notification');
+            page.style.paddingTop = '0'
+        }
+    });
+
+    headerNotification.addEventListener('click', function(event) {
+        window.location.href = 'https://cryptobrowser.site/en/promo/sharing/199125/?l=8';
+    });
+
+    document.querySelector('#headerNotification .close').addEventListener('click', function(event) {
+        event.stopPropagation();
+        closeHeaderNotification();
+    });
+
+    function closeHeaderNotification(event) {
+        headerNotification.style.display = 'none';
+        hideHeaderNotification = true;
+        try {
+            sessionStorage.setItem('hideHeaderNotification', hideHeaderNotification);
+        } catch (e) {
+
+        }
+    }
+
+    // Popup
+    document.querySelector('#closePromoSharingPopup').addEventListener('click', function(event) {
+        event.stopPropagation();
+        closePromoSharingPopup();
+    });
+
+    document.querySelector('#getBonus').addEventListener('click', function(event) {
+        hidePromoSharingPopup = true;
+        try {
+            localStorage.setItem('hidePromoSharingPopup', hidePromoSharingPopup);
+        } catch (e) {
+            
+        }
+    });
+
+    function closePromoSharingPopup(event) {
+        promoSharingPopup.classList.remove('active');
+        hidePromoSharingPopup = true;
+        try {
+            localStorage.setItem('hidePromoSharingPopup', hidePromoSharingPopup);
+        } catch (e) {
+            
+        }
+    }
+
+    function amountAnimation(element, startValue, endValue) {
+        var numAnim = new CountUp(element, startValue, endValue, 8, 2);
+        if (!numAnim.error) {
+            numAnim.start();
+        }
+    }
+</script>
+
+    <div class="first">
+        <div class="header" id="header">
+            <div class="burger"><span></span></div>
+            <div class="header__logo">
+                <div class="logo">
+                    <img src="/static/images/logo.png" srcset="/static/images/logo%402x.png 2x" alt="CryptoTab Browser"/>
+                </div>
+            </div>
+            <div class="header__navbar">
+                <nav class="header__menu">
+                    <a href="#!" class="js-accept">Download</a>
+                    <a href="https://cryptobrowser.site/en/faq/">FAQ</a>
+                    <a href="https://cryptobrowser.site/en/cryptotab/">CryptoTab</a>
+                    <a href="https://cryptobrowser.site/en/affiliate/">Affiliate</a>
+                    
+                </nav>
+                <div class="header__socials">
+                    <div class="social-links">
+    <a href="https://www.facebook.com/cryptotabextension/" target="_blank" class="social-link social-link_fb">
+        <i></i>
+        <svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-696.000000, -48.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <g id="fb" transform="translate(70.000000, 0.000000)">
+                                <path d="M12.3012002,18 L12.3012002,10.9391073 L14.6355781,10.9391073 L15.0245147,8.43200174 L12.3278999,8.43200174 L12.3279,6.52624516 C12.34125,5.26018819 13.56795,5.32675175 13.56795,5.32675175 L15.23475,5.32675175 L15.2347501,2.77237173 L12.5597652,2.77237173 C9.25286517,2.77237173 9.41578948,6.59362492 9.41578948,6.59362492 L9.41578946,8.43200174 L7.15086624,8.43200174 L7.15086624,10.9391073 L9.41578948,10.9391073 L9.41578948,17.9109725 L9.41578948,18 L2.625,18 C1.17525253,18 1.06572128e-15,16.8247475 8.8817842e-16,15.375 L0,2.625 C-1.7754286e-16,1.17525253 1.17525253,1.15449271e-15 2.625,8.8817842e-16 L15.375,0 C16.8247475,-2.66314289e-16 18,1.17525253 18,2.625 L18,15.375 C18,16.8247475 16.8247475,18 15.375,18 L12.3012002,18 Z" id="fb-small-up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    
+    <a href="https://t.me/CryptoTabChannel" target="_blank" class="social-link social-link_telegram">
+        <svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-771.000000, -49.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <path d="M161.907864,16.9314884 L164.926378,2.58440214 C165.073622,1.98970427 165,1.54368086 164.705511,1.24633193 C164.411022,0.948982988 164.116533,0.948982988 163.674799,1.09765746 L145.931827,8.01102025 C145.563715,8.15969472 145.269226,8.30836919 145.121981,8.53138089 C144.974737,8.7543926 144.974737,8.90306707 145.048359,9.05174153 C145.121981,9.200416 145.342848,9.34909047 145.71096,9.42342771 L150.275542,10.8358352 L160.803529,4.14548407 C161.098019,3.92247236 161.318885,3.92247236 161.46613,3.9968096 C161.539752,4.07114683 161.539752,4.14548407 161.392508,4.29415853 L152.852322,12.1739054 L152.484211,16.9314884 C152.7787,16.9314884 153.073189,16.7828139 153.4413,16.485465 L155.649969,14.3296852 L160.214551,17.749198 C161.171641,18.2695586 161.686997,17.9722097 161.907864,16.9314884 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://twitter.com/CryptoTabnet" target="_blank" class="social-link social-link_twitter">
+        <svg width="18" height="15" xmlns="http://www.w3.org/2000/svg">
+            <path id="getcryptotab--chat-icons" d="M1.057.644s3.077 3.86 7.765 4.092c0 0-.957-2.56 1.903-4.315 0 0 2.324-1.378 4.566.853 0 0 1.012-.05 2.23-.955 0 0 .18.833-1.41 2.172 0 0 .885-.072 1.889-.736 0 0-.191 1.146-1.829 1.979 0 0 .498 9.068-8.27 11.053 0 0-4.636 1.056-7.901-1.53 0 0 3.464.364 5.304-1.584 0 0-2.31.218-3.446-2.531 0 0 1.155.2 1.624-.182 0 0-2.436.018-2.977-3.66 0 0 .992.51 1.642.418 0 0-2.757-1.718-1.09-5.074" fill="#FFF" fill-rule="evenodd"/>
+        </svg>
+    </a>
+    <a href="https://www.instagram.com/officialcryptotab/" target="_blank" class="social-link social-link_instagram">
+        <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="ctb_instagram-youtube" transform="translate(-1110.000000, -51.000000)" fill="#494949" fill-rule="nonzero">
+                    <g id="head" transform="translate(40.000000, 30.000000)">
+                        <g id="social" transform="translate(882.000000, 20.000000)">
+                            <g id="instagram" transform="translate(188.000000, 1.000000)">
+                                <path d="M1.91145833,5.79828774 L1.91145833,14.1841341 C1.91145833,16.3253435 3.62515745,18.0595703 5.74047844,18.0595703 L14.1241049,18.0595703 C16.2379466,18.0595703 17.953125,16.3238517 17.953125,14.1841341 L17.953125,5.79828774 C17.953125,3.65707835 16.2394259,1.92285156 14.1241049,1.92285156 L5.74047844,1.92285156 C3.62663676,1.92285156 1.91145833,3.65857021 1.91145833,5.79828774 Z M0.0885416667,5.79828774 C0.0885416667,2.6390024 2.62007905,0.0771484375 5.74047844,0.0771484375 L14.1241049,0.0771484375 C17.2459848,0.0771484375 19.7760417,2.63751176 19.7760417,5.79828774 L19.7760417,14.1841341 C19.7760417,17.3434195 17.2445043,19.9052734 14.1241049,19.9052734 L5.74047844,19.9052734 C2.61859853,19.9052734 0.0885416667,17.3449101 0.0885416667,14.1841341 L0.0885416667,5.79828774 Z M9.95833333,15.3173828 C7.09623268,15.3173828 4.77604167,12.9681894 4.77604167,10.0703125 C4.77604167,7.17243559 7.09623268,4.82324219 9.95833333,4.82324219 C12.820434,4.82324219 15.140625,7.17243559 15.140625,10.0703125 C15.140625,12.9681894 12.820434,15.3173828 9.95833333,15.3173828 Z M9.95833333,13.4716797 C11.8136649,13.4716797 13.3177083,11.9488357 13.3177083,10.0703125 C13.3177083,8.19178927 11.8136649,6.66894531 9.95833333,6.66894531 C8.10300175,6.66894531 6.59895833,8.19178927 6.59895833,10.0703125 C6.59895833,11.9488357 8.10300175,13.4716797 9.95833333,13.4716797 Z M15.1927083,5.95703125 C14.5023524,5.95703125 13.9427083,5.39039164 13.9427083,4.69140625 C13.9427083,3.99242086 14.5023524,3.42578125 15.1927083,3.42578125 C15.8830643,3.42578125 16.4427083,3.99242086 16.4427083,4.69140625 C16.4427083,5.39039164 15.8830643,5.95703125 15.1927083,5.95703125 Z" id="instagram_up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://www.youtube.com/channel/UCHeEoD-Vag9EyZfZ7G8MByA" target="_blank" class="social-link social-link_youtube">
+        <svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="ctb_instagram-youtube" transform="translate(-1038.000000, -702.000000)" fill="#FFFFFF">
+                    <g id="footer" transform="translate(0.000000, 570.000000)">
+                        <g id="Group" transform="translate(897.000000, 95.000000)">
+                            <g id="social" transform="translate(3.000000, 34.000000)">
+                                <g id="youtube_icon" transform="translate(138.000000, 3.000000)">
+                                    <path d="M9.98451161,0 C14.7021717,0 16.9409606,0.2252828 16.9409606,0.2252828 C16.9409606,0.2252828 18.6569011,0.284647225 19.3276204,1.56051046 C19.3276204,1.56051046 19.9983397,2.48627459 19.9983397,7 C19.9983397,7 20.0387416,9.79432782 19.7209449,11.2799013 C19.4031007,12.7654276 18.7012957,13.1992881 18.7012957,13.1992881 C18.7012957,13.1992881 18.2510758,13.6331014 17.2579492,13.7514056 C16.2648227,13.8697569 13.0446,14 9.98451161,14 C9.98451161,14 4.38247739,13.9968383 2.49551791,13.6871806 C0.608558439,13.3775701 0.343474356,11.6280656 0.343474356,11.6280656 C0.343474356,11.6280656 -0.429342946,7.19932856 0.343474356,2.37688927 C0.343474356,2.37688927 0.567158361,0.45061279 2.82177524,0.2252828 C2.82177524,0.2252828 5.26680397,0 9.98451161,0 Z M13.4065934,6.890625 L7.91208791,4.15625 L7.91208791,9.625 L13.4065934,6.890625 Z" id="youtube_icon-up"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://vk.com/public162654141" target=_blank class="social-link social-link_vk">
+        <svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-812.000000, -52.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <g id="vk" transform="translate(186.000000, 4.000000)">
+                                <path d="M9.78529411,11.9499839 L10.9811655,11.9499839 C10.9811655,11.9499839 11.341858,11.9079886 11.526687,11.6987621 C11.6963435,11.5067837 11.6908262,11.1475741 11.6908262,11.1475741 C11.6908262,11.1475741 11.6673778,9.45951375 12.4115215,9.21129164 C13.1453203,8.96606919 14.0880863,10.8416084 15.0867148,11.5622775 C15.8418931,12.1082161 16.4163803,11.9889795 16.4163803,11.9889795 L19.086746,11.9499839 C19.086746,11.9499839 20.4839983,11.8592441 19.8219242,10.703624 C19.767441,10.6091346 19.4357143,9.84946993 17.8357018,8.28739545 C16.1612059,6.65182924 16.3853456,6.91654949 18.4026027,4.08861725 C19.6315779,2.36681073 20.1226162,1.31467895 19.9688219,0.864729508 C19.8226138,0.435777707 18.9191585,0.549764899 18.9191585,0.549764899 L15.9115488,0.568512792 C15.9115488,0.568512792 15.6887885,0.537016332 15.5232699,0.640504703 C15.3618894,0.742493243 15.2577506,0.980216531 15.2577506,0.980216531 C15.2577506,0.980216531 14.7818848,2.31281679 14.1473971,3.44668938 C12.8080763,5.83742075 12.2728997,5.96415651 12.0535877,5.81567319 C11.5446182,5.46921212 11.6722054,4.42532942 11.6722054,3.68366276 C11.6722054,1.36567322 12.0060011,0.399781752 11.0211658,0.149309897 C10.6942667,0.06606925 10.4535752,0.0105754856 9.6177066,0.00307632828 C8.54459478,-0.00967223922 7.63631183,0.00607599122 7.12182505,0.270796246 C6.77975342,0.447026443 6.51630309,0.839982289 6.67699399,0.862479761 C6.87561623,0.890226643 7.32596458,0.989965436 7.56389747,1.3311771 C7.8728654,1.77212755 7.86183083,2.76276623 7.86183083,2.76276623 C7.86183083,2.76276623 8.03907359,5.49095968 7.44803449,5.82992159 C7.04251409,6.06164555 6.48664768,5.58769881 5.29284526,3.41744267 C4.68111635,2.30606755 4.21904378,1.07845549 4.21904378,1.07845549 C4.21904378,1.07845549 4.13076723,0.848231362 3.97145564,0.725245181 C3.77904034,0.57601195 3.50938307,0.529517174 3.50938307,0.529517174 L0.65211939,0.549764899 C0.65211939,0.549764899 0.223150525,0.561763551 0.0652182581,0.758241473 C-0.0747828345,0.93297184 0.0541836892,1.29293139 0.0541836892,1.29293139 C0.0541836892,1.29293139 2.29144253,6.7980628 4.82456575,9.57275102 C7.14803215,12.1164652 9.78529411,11.9499839 9.78529411,11.9499839" id="vk-small-up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+</div>
+
+                </div>
+                <div class="header__lang">
+                    
+
+
+
+
+<div class="lang">
+    <div class="lang__current"><img src="/static/images/lang/en.png" srcset="/static/images/lang/en@2x.png 2x"/>en</div>
+    <div class="lang__list">
+        
+            
+        
+            
+                
+                    <a class="lang__item" href="/de/199125/">
+                        <img src="/static/images/lang/de.png" srcset="/static/images/lang/de@2x.png 2x"/>de
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/fr/199125/">
+                        <img src="/static/images/lang/fr.png" srcset="/static/images/lang/fr@2x.png 2x"/>fr
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/es/199125/">
+                        <img src="/static/images/lang/es.png" srcset="/static/images/lang/es@2x.png 2x"/>es
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/it/199125/">
+                        <img src="/static/images/lang/it.png" srcset="/static/images/lang/it@2x.png 2x"/>it
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/ru/199125/">
+                        <img src="/static/images/lang/ru.png" srcset="/static/images/lang/ru@2x.png 2x"/>ru
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/pt/199125/">
+                        <img src="/static/images/lang/pt.png" srcset="/static/images/lang/pt@2x.png 2x"/>pt
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/tr/199125/">
+                        <img src="/static/images/lang/tr.png" srcset="/static/images/lang/tr@2x.png 2x"/>tr
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/hi/199125/">
+                        <img src="/static/images/lang/hi.png" srcset="/static/images/lang/hi@2x.png 2x"/>hi
+                    </a>
+                
+            
+        
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="first__description">
+            <img class="first__icon" width="90" height="90" src="/static/images/bitcoin_360-loop.gif" srcset="/static/images/bitcoin_360-loop%402x.gif 2x" />
+            <div class="rotator">
+                <div class="rotator__item rotator__item_1"><div class="title">Upgrade your web browser</div></div>
+                <div class="rotator__item rotator__item_2"><div class="title">Lightweight, fast, and ready to mine!</div></div>
+                <div class="rotator__item rotator__item_3"><div class="title">Get free Bitcoins everyday</div></div>
+            </div>
+            <h2>
+                Try the new CryptoTab browser featuring a built-in mining algorithm and achieve up to eight times faster speed compared to Google Chrome. Lightweight, fast, and ready to mine!
+            </h2>
+        </div>
+        <div class="first__img mobile-only">
+            <img width="300" height="173" src="/static/images/macbook.png" srcset="/static/images/macbook%402x.png 2x" />
+        </div>
+        <div class="first__screen">
+            <p>
+                Install the <strong>CryptoTab browser<sup>®️</sup></strong> and take advantage of increased mining speed combined with the familiar interface and functionality of Chrome.
+            </p>
+            <div class="first__group">
+                <a href="#!" class="btn btn_download js-accept">Download <span>CryptoTab Browser</span></a>
+                <div class="note">
+                    It takes less than a minute to download and set up.
+                </div>
+                <a class="more-link" href="https://cryptobrowser.site/en/faq/"><b>Have questions?</b> <span>Read FAQ</span></a>
+            </div>
+        </div>
+        <div class="features">
+            <div class="features__item">
+                <img width="40" height="40" src="/static/images/features_1.png" srcset="/static/images/features_1%402x.png 2x" />
+                Familiar user<br />interface
+            </div>
+            <div class="features__item">
+                <img width="40" height="40" src="/static/images/features_2.png" srcset="/static/images/features_2%402x.png 2x" />
+                Built-in mining features <a href="https://cryptobrowser.site/en/cryptotab/">CryptoTab</a>
+            </div>
+            <div class="features__item">
+                <img width="38" height="40" src="/static/images/features_3.png" srcset="/static/images/features_3%402x.png 2x" />
+                Support for synchronization on multiple devices
+            </div>
+            <div class="features__item">
+                <img width="30" height="40" src="/static/images/features_4.png" srcset="/static/images/features_4%402x.png 2x" />
+                It is an incredibly lightweight and fast browser
+            </div>
+        </div>
+    </div>
+    <div class="why why_no-border">
+        <div class="wrapper">
+            <h1 class="why__title">Why use the CryptoTab browser?</h1>
+            <div class="why__text">We have created a fast and lightweight web browser with built-in mining functionality. The familiar user experience of Chrome is combined with extremely high mining speed.</div>
+            <div class="why__upto">Up to <b>+800%</b></div>
+            
+        </div>
+        <div class="why__list">
+            <div class="why__item why__item_browser">
+                <div class="why__row">
+                    <div class="why__img">
+                        <div class="why__label">Import<br />data</div>
+                        <div class="browser-icon"></div>
+                        <img width="283" height="190" src="/static/images/why-icon-1-nobrowser.png" srcset="/static/images/why-icon-1-nobrowser%402x.png 2x" />
+                    </div>
+                    <div class="why__body">
+                        <h2 class="why__subtitle">Effortlessly import your data from another browser and synchronize across multiple devices.</h2>
+                        <div class="why__text">Import your bookmarks, list of favorites, history, and extensions from any other browser, and keep browsing through the same user interface with additional mining features.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="why__item">
+                <div class="why__row">
+                    <div class="why__img why__img_exp">
+                        <img width="311" height="180" src="/static/images/why-icon-2.png" srcset="/static/images/why-icon-2%402x.png 2x" />
+                    </div>
+                    <div class="why__body">
+                        <h2 class="why__subtitle">Enhance your browser with over 150 thousand extensions</h2>
+                        <div class="why__text">Set up your browser by adding extensions that suit your needs. Add an ad blocker and tools for security, enhance performance, install your own design themes, and enjoy many other possibilities.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="why__item">
+                <div class="why__row">
+                    <div class="why__img why__img_earn">
+                        <img width="230" height="217" src="/static/images/why-icon-3.png" srcset="/static/images/why-icon-3%402x.png 2x" />
+                    </div>
+                    <div class="why__body">
+                        <h2 class="why__subtitle">Mine Bitcoins yourself and invite friends so you can earn even more!</h2>
+                        <div class="why__text">
+                            <p>As you invite friends, explain that they should regularly use the browser for visiting websites and social networks, watching online videos, etc. Mining speed is higher when the browser window is active. <strong>This way, they make more money while your income from your referrals increases, too!</strong></p>
+                            <div class="why__btn">
+                                <a class="more-link" data-scroll href="#calculate"><span>More about Earnings</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="why__item">
+                <div class="why__row">
+                    <div class="why__img why__img_speed">
+                        <img width="230" height="130" src="/static/images/why-icon-4.png" srcset="/static/images/why-icon-4%402x.png 2x" />
+                        <div class="why-speed">
+                            <div class="why-speed__item">
+                                <div class="why-speed__label"><b>CryptoTab Browser</b> mining speed</div>
+                                <div class="why-speed__line why-speed__line_high"></div>
+                            </div>
+                            <div class="why-speed__item">
+                                <div class="why-speed__label"><b>Google Chrome</b> mining speed</div>
+                                <div class="why-speed__line why-speed__line_low"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="why__body">
+                        <h2 class="why__subtitle">Browser with built-in mining</h2>
+                        <div class="why__text">
+                            <p>CryptoTab Browser includes built-in mining algorithm that allows using your computer resources more effectively than in extension format. It boosts your mining speed up to 8 times and increases BTC earnings.</p>
+                            <div class="why__btn">
+                                <a href="https://cryptobrowser.site/en/cryptotab/" class="more-link"><span>More about CryptoTab</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="why__item">
+                <div class="why__row">
+                    <div class="why__img why__img_boost">
+                        <img width="348" height="220" src="/static/images/why-icon-5.png" srcset="/static/images/why-icon-5%402x.png 2x" />
+                    </div>
+                    <div class="why__body">
+                        <h2 class="why__subtitle">Use CryptoTab as your default browser to maximize your revenue</h2>
+                        <div class="why__text">
+                            <p>Mining speed increases when your browser is active. Use CryptoTab browser for your everyday activities, visit your favorite sites, watch movies online, and take advantage of maximum mining power.</p>
+                            <p class="small">CryptoTab browser utilizes processor resources more efficiently when the browser window is active. This way, you can make more money.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="why__footer">
+            <a href="#!" class="btn btn_download js-accept">Download <span>CryptoTab Browser</span></a>
+            <div class="note">
+                It takes less than a minute to download and set up.
+            </div>
+        </div>
+    </div>
+    <div class="video-block">
+        <div class="video-block__content">
+            <h2 class="subtitle">Brief explanation video about CryptoTab</h2>
+            <div class="video-block__text">Watch this short promo video to understand more about how CryptoTab works</div>
+        </div>
+        <div class="video-block__video">
+            <div class="video-block__video-wrap">
+                <iframe src="https://www.youtube.com/embed/YzqCO-sg7_U?autoplay=0&mute=0&rel=0&controls=1&showinfo=0&rel=0&loop=1&playlist=XqwaHWawdAA,c4lvBHSOdwQ,5r69hh6ARvA,omzb6X8VeOM,teNy-fYIP84,yAUrzAyOCnw,xN0IdF4ILp0,VBLeFwaShjA,h0kDkWjAdFw" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+    <div class="testimonials">
+        <div class="testimonials__title">See <b>recommendations</b> and <b>reviews</b> from users of CryptoTab browser:</div>
+        <div class="testimonials__list">
+            <a class="testimonials__item testimonials__item_youtube wow jackInTheBox" data-wow-duration="1s" data-wow-offset="100" target="_blank" href="https://www.youtube.com/results?search_query=cryptotab"><i></i><span>On <b>YouTube</b></span></a>
+            <a class="testimonials__item testimonials__item_fb wow jackInTheBox" data-wow-duration="1s" data-wow-offset="100" target="_blank" href="https://www.facebook.com/cryptotabextension/"><i></i><span>On <b>Facebook</b></span></a>
+            <a class="testimonials__item testimonials__item_twitter wow jackInTheBox" data-wow-duration="1s" data-wow-offset="100" target="_blank" href="https://twitter.com/search?q=cryptotab"><i></i><span>On <b>Twitter</b></span></a>
+            <a class="testimonials__item testimonials__item_journal wow jackInTheBox" data-wow-duration="1s" data-wow-offset="100" href="https://cryptobrowser.site/journal/"><i></i><span>Payments Journal</span></a>
+        </div>
+    </div>
+    <div class="levels-scheme" id="levels-scheme">
+        <h2 class="subtitle">Let's assemble a huge mining pool together!</h2>
+        <p class="description">You will get percentage of the revenue from every active user of CryptoTab browser that followed your link to register. Your mining network will spread to encompass up to ten levels of friends. Estimate how large your network can get and how much you will be able to earn by using the <a href="#calculate" data-scroll class="link">income calculator</a>.</p>
+        <img class="levels-scheme__img" width="1055" height="310" src="/static/images/scheme.png" srcset="/static/images/scheme%402x.png 2x" />
+        <div class="levels-scheme__scheme-m mobile-only">
+            <img src="/static/images/scheme-m.png" srcset="/static/images/scheme-m%402x.png 2x" />
+        </div>
+        <div class="levels-scheme__footer">...and we a going to pay you % of all their minings.</div>
+    </div>
+    <div class="calculate" id="calculate">
+        <h2 class="subtitle">Calculate how much you will be able to earn</h2>
+        <div class="calc" data-btcrate="">
+            <div class="calc__row">
+                <div class="calc__item">
+                    <div class="calc__label">
+                        <p class="calc__label-text">Number of new users invited by you</p>
+                        <span class="calc__label-num">5</span>
+                    </div>
+                    <input type="range" value="5" min="0" max="10" step="1" id="friends" data-rangeSlider/>
+                </div>
+                <div class="calc__item">
+                    <div class="calc__label">
+                        <p class="calc__label-text">How many friends they lead</p>
+                        <span class="calc__label-num">5</span>
+                    </div>
+                    <input type="range" value="5" min="0" max="10" step="1" id="friendsOfFriends" data-rangeSlider/>
+                </div>
+            </div>
+        </div>
+        <div class="btn btn_calc">
+            <strong>Calculate</strong> My Income
+        </div>
+    </div>
+    <div class="results">
+        <table class="results__table">
+            <thead>
+            <tr>
+                <th class="results__friends-h">
+                    Your <b>Friends</b>
+                </th>
+                <th class="results__ound-h"></th>
+                <th class="results__income-h">
+                    Your <b>Income</b>
+                    <div class="small">Monthly income in USD (approx.)</div>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr data-rate="15">
+                <td></td>
+                <td class="results__round">
+                    <b>1st</b> Round
+                    <span class="percent">15%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="10">
+                <td></td>
+                <td class="results__round">
+                    <b>2nd</b> Round
+                    <span class="percent">10%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="5">
+                <td></td>
+                <td class="results__round">
+                    <b>3rd</b> Round
+                    <span class="percent">5%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="3">
+                <td></td>
+                <td class="results__round">
+                    <b>4th</b> Round
+                    <span class="percent">3%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="2">
+                <td></td>
+                <td class="results__round">
+                    <b>5th</b> Round
+                    <span class="percent">2%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="1">
+                <td></td>
+                <td class="results__round">
+                    <b>6th</b> Round
+                    <span class="percent">1%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="0.5">
+                <td></td>
+                <td class="results__round">
+                    <b>7th</b> Round
+                    <span class="percent">0.5%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="0.25">
+                <td></td>
+                <td class="results__round">
+                    <b>8th</b> Round
+                    <span class="percent">0.25%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="0.125">
+                <td></td>
+                <td class="results__round">
+                    <b>9th</b> Round
+                    <span class="percent">0.125%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            <tr data-rate="0.0625">
+                <td></td>
+                <td class="results__round">
+                    <b>10th</b> Round
+                    <span class="percent">0.0625%</span>
+                </td>
+                <td>$
+                    <span></span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div class="total">
+            <div class="total__title">Total</div>
+            <div class="total__friends">
+                <span class="total__label">Your friends and friends of your friends</span>
+                <span class="total__value total__value_friends"></span>
+            </div>
+            <div class="total__label">Your potential income:</div>
+            <div class="total__value">
+                <div class="total__value total__value_income">$
+                    <span></span>
+                </div>
+            </div>
+            <div class="total__btc">
+                <span></span> BTC
+            </div>
+        </div>
+        <div class="link link_info" onclick="showPopup('howPopup')">How we calculate your income</div>
+    </div>
+    <div class="startearning startearning_border_top">
+        <h2 class="subtitle">Start right away!</h2>
+        <p class="description">Invite as many new users as you can. You will receive a percentage from the earnings of all users who joined using your personal link.</p>
+        <div class="steps">
+            <div class="steps__item">
+                <div class="steps__icon steps__icon_1">
+                    <img src="/static/images/icon-step1.png" srcset="/static/images/icon-step1%402x.png 2x" />
+                </div>
+                <div class="steps__text">Share your personal link and motivate people to actively use the CryptoTab browser</div>
+            </div>
+            <div class="steps__arrow"></div>
+            <div class="steps__item">
+                <div class="steps__icon steps__icon_2">
+                    <img src="/static/images/icon-step2.png" srcset="/static/images/icon-step2%402x.png 2x" />
+                </div>
+                <div class="steps__text">People follow your link and install the CryptoTab browser</div>
+            </div>
+            <div class="steps__arrow"></div>
+            <div class="steps__item">
+                <div class="steps__icon steps__icon_3">
+                    <img src="/static/images/icon-step3.png" srcset="/static/images/icon-step3%402x.png 2x" />
+                </div>
+                <div class="steps__text">They start to use CryptoTab browser and mine</div>
+            </div>
+            <div class="steps__arrow"></div>
+            <div class="steps__item">
+                <div class="steps__icon steps__icon_4">
+                    <img src="/static/images/icon-step4.png" srcset="/static/images/icon-step4%402x.png 2x" />
+                </div>
+                <div class="steps__text">You receive a percentage from the earnings of each user you have invited, up to the tenth level</div>
+            </div>
+        </div>
+    </div>
+    <div class="howto">
+        <ul class="list">
+            <li class="list__item">
+                Two in one: use the browser and earn Bitcoins at the same time
+            </li>
+            <li class="list__item">
+                Synchronize your browser data across multiple devices
+            </li>
+            <li class="list__item">
+                Built-in algorithm increases your mining speed up to eight times compared with using an extension
+            </li>
+            <li class="list__item">
+                10-level referral system
+            </li>
+            <li class="list__item">
+                Payouts to your BTC wallet at any time
+            </li>
+            <li class="list__item">
+                Earn more than 1 BTC! Build up your network and reap the rewards!
+            </li>
+        </ul>
+    </div>
+    <div class="join join_black">
+        <div class="join__content">
+            <img class="join__icon" width="60" height="60" src="/static/images/browser-icon.svg" />
+            <div class="join__description">Try <strong>CryptoTab browser</strong> and enjoy extremely fast web surfing combined with powerful mining</div>
+            <div class="join__img mobile-only">
+                <img width="320" height="312" src="/static/images/macbook-black-sm.png" srcset="/static/images/macbook-black-sm%402x.png 2x" />
+            </div>
+            <a href="#!" class="btn btn_download js-accept">Download <span>CryptoTab Browser</span></a>
+            <div class="note">
+                It takes less than a minute to download and set up.
+            </div>
+        </div>
+        <div class="coins">
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+</div>
+
+    </div>
+    <div class="mobile-version">
+        <div class="mobile-version__content">
+            <h2 class="mobile-version__title">Get access to CryptoTab right from your mobile device</h2>
+            <div class="mobile-version__text">We have created a fast and lightweight mobile browser with user friendly interface and incredible built-in features. Manage your CryptoTab account right from your mobile device - check your balance, make withdrawals anytime you want, invite new users to your network, etc.</div>
+            <a href="https://play.google.com/store/apps/details?id=com.cryptotab.android&amp;referrer=utm_source%3Dlanding%26utm_medium%3Dandroid" class="google-play-btn js-gplay"></a>
+        </div>
+    </div>
+    
+    <div class="sharing-section">
+        <div class="coins">
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+    <div class="coin"></div>
+</div>
+
+        <div class="sharing-section__pretitle">The world’s first browser with mining features</div>
+        <div class="sharing-section__title">Be in trend and share the link with your friends</div>
+        <div class="sharing-section__label">share in a click into</div>
+        <div class="social-btns" data-msg="" data-linkid="" data-currenturl="">
+            <div class="social-btn social-btn_fb" data-target="fb" title="Share on Facebook"></div>
+            <div class="social-btn social-btn_tw" data-target="tw" title="Share on Twitter"></div>
+            <div class="social-btn social-btn_wa" data-target="wa" title="Share on WhatsApp"></div>
+            <div class="social-btn social-btn_tg" data-target="tg" title="Share on Telegram"></div>
+            <div class="social-btn social-btn_rd" data-target="rd" title="Share on Reddit"></div>
+            <div class="social-btn social-btn_vk" data-target="vk" title="Share on VK"></div>
+            <div class="social-btns__more"><span></span></div>
+            <div class="social-btns__list">
+                <div class="social-btn social-btn_pt" data-target="pt" title="Share on Pinterest"></div>
+                <div class="social-btn social-btn_li" data-target="li" title="Share on Linkedin"></div>
+                <div class="social-btn social-btn_flb" data-target="flb" title="Share on Flipboard"></div>
+                <div class="social-btn social-btn_mail" data-target="eml" title="Share by email"></div>
+                <div class="social-btn social-btn_th" data-target="th" title="Share on Tumblr"></div>
+                <div class="social-btn social-btn_ln" data-target="ln" title="Share on LINE"></div>
+                <div class="social-btn social-btn_vb" data-target="vb" title="Share on Viber"></div>
+            </div>
+        </div>
+    </div>
+    <div class="extensions">
+        <div class="wrapper">
+            <a href="https://cryptotab.net/webapp/" class="clickzone"></a>
+            <div class="extensions__text">
+                <p><strong>Don't feel like installing another browser?</strong> Try the CryptoTab <a href="https://cryptotab.net/webapp/">web application</a> to get an idea about the mining features that come with the CryptoTab browser.</p>
+                <div class="extensions__warning"><strong>Attention!</strong> Mining using the browser is up to eight times more profitable than using the web application!</div>
+                <div class="extensions__btn">
+                    <a href="https://cryptotab.net/webapp/" class="btn btn_web-version">Try web application</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="getaccess">
+        <img class="getaccess__icon" width="80" height="68" src="/static/images/getaccess-icon.png" srcset="/static/images/getaccess-icon%402x.png 2x" />
+        <h2 class="title">Get access to thousands of promo materials</h2>
+        <p class="description">Easily start your promotion with thousands of high quality promo materials - banners, promo landings, images for posts in social and more.</p>
+        <a href="https://cryptobrowser.site/en/affiliate/dashboard/" class="btn btn_activate">Activate Affiliate Account</a>
+        <div class="note">Use one of your social accounts to sign in</div>
+    </div>
+    
+
+<div class="download-tip">
+    <div class="download-tip__handler">
+        <div class="download-tip__title _below">Please click on <strong>CryptoTab Browser</strong> file below after downloading to install the browser.</div>
+        <div class="download-tip__title _above">Open downloads list from above and click on <strong>CryptoTab Browser</strong> to install it on your computer</div>
+        <img src="/static/images/download-arrow.svg" />
+    </div>
+</div>
+
+    
+
+
+<div class="popup  popup--terms" id="termsPopup">
+    <div class="popup__handler">
+        <div class="popup__header">
+            <div class="logo">
+                <img width="231" height="40" src="/static/images/logo.png" srcset="/static/images/logo%402x.png 2x" alt="CryptoTab Browser"/>
+            </div>
+        </div>
+        <div class="popup__body">
+            <iframe></iframe>
+        </div>
+        <div class="popup__footer">
+            <a href="#!" class="btn btn_default js-download">Accept and Install</a>
+            <button type="button" class="btn btn_link popup__cancel">Cancel</button>
+        </div>
+    </div>
+</div>
+
+    
+    <div class="sticky-sharing">
+        <div class="social-btns social-btns_size_s" data-msg="" data-src="8" data-linkid="" data-currenturl="">
+            <div class="social-btn social-btn_fb" data-target="fb" title="Share on Facebook"></div>
+            <div class="social-btn social-btn_tw" data-target="tw" title="Share on Twitter"></div>
+            <div class="social-btn social-btn_wa" data-target="wa" title="Share on WhatsApp"></div>
+            <div class="social-btn social-btn_tg" data-target="tg" title="Share on Telegram"></div>
+            <div class="social-btn social-btn_rd" data-target="rd" title="Share on Reddit"></div>
+            <div class="social-btns__more"><span></span></div>
+            <div class="social-btns__list">
+                <div class="social-btn social-btn_vk" data-target="vk" title="Share on VK"></div>
+                <div class="social-btn social-btn_pt" data-target="pt" title="Share on Pinterest"></div>
+                <div class="social-btn social-btn_li" data-target="li" title="Share on Linkedin"></div>
+                <div class="social-btn social-btn_flb" data-target="flb" title="Share on Flipboard"></div>
+                <div class="social-btn social-btn_mail" data-target="eml" title="Share by email"></div>
+                <div class="social-btn social-btn_th" data-target="th" title="Share on Tumblr"></div>
+                <div class="social-btn social-btn_ln" data-target="ln" title="Share on LINE"></div>
+                <div class="social-btn social-btn_vb" data-target="vb" title="Share on Viber"></div>
+            </div>
+        </div>
+    </div>
+    
+
+<div class="footer">
+    <div class="footer__content">
+        <div class="footer__logo">
+            <img src="/static/images/logo-footer.png" srcset="/static/images/logo-footer%402x.png 2x" alt="Cryptotab Logo"/>
+        </div>
+        <div class="footer__menu">
+            <div class="menu">
+                <div class="menu__label">General</div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/">Overview</a></div>
+                <div class="menu__item"><a href="#!" class="js-accept">Download Browser</a></div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/faq/">FAQ</a></div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/cryptotab/">CryptoTab</a></div>
+
+            </div>
+            <div class="menu">
+                <div class="menu__label">Additional</div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/terms/">Terms of Use</a></div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/privacy/">Privacy Policy</a></div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/journal/">Payments Journal</a></div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/affiliate/">Affiliate Program</a></div>
+            </div>
+            <div class="menu">
+                <div class="menu__label">CryptoTab Family</div>
+                <div class="menu__item"><a href="https://cryptobrowser.site/en/">CryptoTab <b>Browser</b></a></div>
+                
+                <div class="menu__item"><a href="https://getcryptotab.com/static/cryptotab-ff%40cryptotab.net.xpi">CryptoTab <b>for Firefox</b></a></div>
+                <div class="menu__item"><a class="js-gplay" href="https://play.google.com/store/apps/details?id=com.cryptotab.android&referrer=utm_source%3Dlanding%26utm_medium%3Dfooter">CryptoTab <b>for Android</b></a></div>
+                <div class="menu__item"><a href="https://start.cryptobrowser.site/en/">CryptoTab <b>START</b></a><span class="bonus bonus_orange">Bonus</span></div>
+                
+                
+            </div>
+            <div class="menu">
+                <div class="menu__label">Stay Connected</div>
+                <div class="menu__item menu__item_join">
+                    <div class="social-links">
+    <a href="https://www.facebook.com/cryptotabextension/" target="_blank" class="social-link social-link_fb">
+        <i></i>
+        <svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-696.000000, -48.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <g id="fb" transform="translate(70.000000, 0.000000)">
+                                <path d="M12.3012002,18 L12.3012002,10.9391073 L14.6355781,10.9391073 L15.0245147,8.43200174 L12.3278999,8.43200174 L12.3279,6.52624516 C12.34125,5.26018819 13.56795,5.32675175 13.56795,5.32675175 L15.23475,5.32675175 L15.2347501,2.77237173 L12.5597652,2.77237173 C9.25286517,2.77237173 9.41578948,6.59362492 9.41578948,6.59362492 L9.41578946,8.43200174 L7.15086624,8.43200174 L7.15086624,10.9391073 L9.41578948,10.9391073 L9.41578948,17.9109725 L9.41578948,18 L2.625,18 C1.17525253,18 1.06572128e-15,16.8247475 8.8817842e-16,15.375 L0,2.625 C-1.7754286e-16,1.17525253 1.17525253,1.15449271e-15 2.625,8.8817842e-16 L15.375,0 C16.8247475,-2.66314289e-16 18,1.17525253 18,2.625 L18,15.375 C18,16.8247475 16.8247475,18 15.375,18 L12.3012002,18 Z" id="fb-small-up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    
+    <a href="https://t.me/CryptoTabChannel" target="_blank" class="social-link social-link_telegram">
+        <svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-771.000000, -49.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <path d="M161.907864,16.9314884 L164.926378,2.58440214 C165.073622,1.98970427 165,1.54368086 164.705511,1.24633193 C164.411022,0.948982988 164.116533,0.948982988 163.674799,1.09765746 L145.931827,8.01102025 C145.563715,8.15969472 145.269226,8.30836919 145.121981,8.53138089 C144.974737,8.7543926 144.974737,8.90306707 145.048359,9.05174153 C145.121981,9.200416 145.342848,9.34909047 145.71096,9.42342771 L150.275542,10.8358352 L160.803529,4.14548407 C161.098019,3.92247236 161.318885,3.92247236 161.46613,3.9968096 C161.539752,4.07114683 161.539752,4.14548407 161.392508,4.29415853 L152.852322,12.1739054 L152.484211,16.9314884 C152.7787,16.9314884 153.073189,16.7828139 153.4413,16.485465 L155.649969,14.3296852 L160.214551,17.749198 C161.171641,18.2695586 161.686997,17.9722097 161.907864,16.9314884 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://twitter.com/CryptoTabnet" target="_blank" class="social-link social-link_twitter">
+        <svg width="18" height="15" xmlns="http://www.w3.org/2000/svg">
+            <path id="getcryptotab--chat-icons" d="M1.057.644s3.077 3.86 7.765 4.092c0 0-.957-2.56 1.903-4.315 0 0 2.324-1.378 4.566.853 0 0 1.012-.05 2.23-.955 0 0 .18.833-1.41 2.172 0 0 .885-.072 1.889-.736 0 0-.191 1.146-1.829 1.979 0 0 .498 9.068-8.27 11.053 0 0-4.636 1.056-7.901-1.53 0 0 3.464.364 5.304-1.584 0 0-2.31.218-3.446-2.531 0 0 1.155.2 1.624-.182 0 0-2.436.018-2.977-3.66 0 0 .992.51 1.642.418 0 0-2.757-1.718-1.09-5.074" fill="#FFF" fill-rule="evenodd"/>
+        </svg>
+    </a>
+    <a href="https://www.instagram.com/officialcryptotab/" target="_blank" class="social-link social-link_instagram">
+        <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="ctb_instagram-youtube" transform="translate(-1110.000000, -51.000000)" fill="#494949" fill-rule="nonzero">
+                    <g id="head" transform="translate(40.000000, 30.000000)">
+                        <g id="social" transform="translate(882.000000, 20.000000)">
+                            <g id="instagram" transform="translate(188.000000, 1.000000)">
+                                <path d="M1.91145833,5.79828774 L1.91145833,14.1841341 C1.91145833,16.3253435 3.62515745,18.0595703 5.74047844,18.0595703 L14.1241049,18.0595703 C16.2379466,18.0595703 17.953125,16.3238517 17.953125,14.1841341 L17.953125,5.79828774 C17.953125,3.65707835 16.2394259,1.92285156 14.1241049,1.92285156 L5.74047844,1.92285156 C3.62663676,1.92285156 1.91145833,3.65857021 1.91145833,5.79828774 Z M0.0885416667,5.79828774 C0.0885416667,2.6390024 2.62007905,0.0771484375 5.74047844,0.0771484375 L14.1241049,0.0771484375 C17.2459848,0.0771484375 19.7760417,2.63751176 19.7760417,5.79828774 L19.7760417,14.1841341 C19.7760417,17.3434195 17.2445043,19.9052734 14.1241049,19.9052734 L5.74047844,19.9052734 C2.61859853,19.9052734 0.0885416667,17.3449101 0.0885416667,14.1841341 L0.0885416667,5.79828774 Z M9.95833333,15.3173828 C7.09623268,15.3173828 4.77604167,12.9681894 4.77604167,10.0703125 C4.77604167,7.17243559 7.09623268,4.82324219 9.95833333,4.82324219 C12.820434,4.82324219 15.140625,7.17243559 15.140625,10.0703125 C15.140625,12.9681894 12.820434,15.3173828 9.95833333,15.3173828 Z M9.95833333,13.4716797 C11.8136649,13.4716797 13.3177083,11.9488357 13.3177083,10.0703125 C13.3177083,8.19178927 11.8136649,6.66894531 9.95833333,6.66894531 C8.10300175,6.66894531 6.59895833,8.19178927 6.59895833,10.0703125 C6.59895833,11.9488357 8.10300175,13.4716797 9.95833333,13.4716797 Z M15.1927083,5.95703125 C14.5023524,5.95703125 13.9427083,5.39039164 13.9427083,4.69140625 C13.9427083,3.99242086 14.5023524,3.42578125 15.1927083,3.42578125 C15.8830643,3.42578125 16.4427083,3.99242086 16.4427083,4.69140625 C16.4427083,5.39039164 15.8830643,5.95703125 15.1927083,5.95703125 Z" id="instagram_up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://www.youtube.com/channel/UCHeEoD-Vag9EyZfZ7G8MByA" target="_blank" class="social-link social-link_youtube">
+        <svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="ctb_instagram-youtube" transform="translate(-1038.000000, -702.000000)" fill="#FFFFFF">
+                    <g id="footer" transform="translate(0.000000, 570.000000)">
+                        <g id="Group" transform="translate(897.000000, 95.000000)">
+                            <g id="social" transform="translate(3.000000, 34.000000)">
+                                <g id="youtube_icon" transform="translate(138.000000, 3.000000)">
+                                    <path d="M9.98451161,0 C14.7021717,0 16.9409606,0.2252828 16.9409606,0.2252828 C16.9409606,0.2252828 18.6569011,0.284647225 19.3276204,1.56051046 C19.3276204,1.56051046 19.9983397,2.48627459 19.9983397,7 C19.9983397,7 20.0387416,9.79432782 19.7209449,11.2799013 C19.4031007,12.7654276 18.7012957,13.1992881 18.7012957,13.1992881 C18.7012957,13.1992881 18.2510758,13.6331014 17.2579492,13.7514056 C16.2648227,13.8697569 13.0446,14 9.98451161,14 C9.98451161,14 4.38247739,13.9968383 2.49551791,13.6871806 C0.608558439,13.3775701 0.343474356,11.6280656 0.343474356,11.6280656 C0.343474356,11.6280656 -0.429342946,7.19932856 0.343474356,2.37688927 C0.343474356,2.37688927 0.567158361,0.45061279 2.82177524,0.2252828 C2.82177524,0.2252828 5.26680397,0 9.98451161,0 Z M13.4065934,6.890625 L7.91208791,4.15625 L7.91208791,9.625 L13.4065934,6.890625 Z" id="youtube_icon-up"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <a href="https://vk.com/public162654141" target=_blank class="social-link social-link_vk">
+        <svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs></defs>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="getcryptotab--chat-icons" transform="translate(-812.000000, -52.000000)">
+                    <g id="first" transform="translate(-100.000000, -61.000000)">
+                        <g id="social" transform="translate(726.000000, 109.000000)">
+                            <g id="vk" transform="translate(186.000000, 4.000000)">
+                                <path d="M9.78529411,11.9499839 L10.9811655,11.9499839 C10.9811655,11.9499839 11.341858,11.9079886 11.526687,11.6987621 C11.6963435,11.5067837 11.6908262,11.1475741 11.6908262,11.1475741 C11.6908262,11.1475741 11.6673778,9.45951375 12.4115215,9.21129164 C13.1453203,8.96606919 14.0880863,10.8416084 15.0867148,11.5622775 C15.8418931,12.1082161 16.4163803,11.9889795 16.4163803,11.9889795 L19.086746,11.9499839 C19.086746,11.9499839 20.4839983,11.8592441 19.8219242,10.703624 C19.767441,10.6091346 19.4357143,9.84946993 17.8357018,8.28739545 C16.1612059,6.65182924 16.3853456,6.91654949 18.4026027,4.08861725 C19.6315779,2.36681073 20.1226162,1.31467895 19.9688219,0.864729508 C19.8226138,0.435777707 18.9191585,0.549764899 18.9191585,0.549764899 L15.9115488,0.568512792 C15.9115488,0.568512792 15.6887885,0.537016332 15.5232699,0.640504703 C15.3618894,0.742493243 15.2577506,0.980216531 15.2577506,0.980216531 C15.2577506,0.980216531 14.7818848,2.31281679 14.1473971,3.44668938 C12.8080763,5.83742075 12.2728997,5.96415651 12.0535877,5.81567319 C11.5446182,5.46921212 11.6722054,4.42532942 11.6722054,3.68366276 C11.6722054,1.36567322 12.0060011,0.399781752 11.0211658,0.149309897 C10.6942667,0.06606925 10.4535752,0.0105754856 9.6177066,0.00307632828 C8.54459478,-0.00967223922 7.63631183,0.00607599122 7.12182505,0.270796246 C6.77975342,0.447026443 6.51630309,0.839982289 6.67699399,0.862479761 C6.87561623,0.890226643 7.32596458,0.989965436 7.56389747,1.3311771 C7.8728654,1.77212755 7.86183083,2.76276623 7.86183083,2.76276623 C7.86183083,2.76276623 8.03907359,5.49095968 7.44803449,5.82992159 C7.04251409,6.06164555 6.48664768,5.58769881 5.29284526,3.41744267 C4.68111635,2.30606755 4.21904378,1.07845549 4.21904378,1.07845549 C4.21904378,1.07845549 4.13076723,0.848231362 3.97145564,0.725245181 C3.77904034,0.57601195 3.50938307,0.529517174 3.50938307,0.529517174 L0.65211939,0.549764899 C0.65211939,0.549764899 0.223150525,0.561763551 0.0652182581,0.758241473 C-0.0747828345,0.93297184 0.0541836892,1.29293139 0.0541836892,1.29293139 C0.0541836892,1.29293139 2.29144253,6.7980628 4.82456575,9.57275102 C7.14803215,12.1164652 9.78529411,11.9499839 9.78529411,11.9499839" id="vk-small-up"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+</div>
+
+                    <span>–&nbsp;&nbsp;join us</span>
+                </div>
+                <div class="fb-like" data-href="https://www.facebook.com/cryptotabextension/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+                <li class="menu__item" style="margin-top: 20px"><div class="feedback-link">Contact Support <a href="https://cryptobrowser.site/en/feedback/">Here</a></div></li>
+                <li class="menu__item"><div class="other-inquiries">Other Inquiries: <a href="mailto:contactus@cryptobrowser.site">contactus@cryptobrowser.site</a></div></li>
+            </div>
+        </div>
+        
+    </div>
+    <div class="footer__bottom">
+        <div class="footer__content">
+            <div class="footer__copyright">
+                &copy; 2019. <span>All rights reserved.</span>
+            </div>
+            
+
+
+
+
+<div class="lang">
+    <div class="lang__current"><img src="/static/images/lang/en.png" srcset="/static/images/lang/en@2x.png 2x"/>en</div>
+    <div class="lang__list">
+        
+            
+        
+            
+                
+                    <a class="lang__item" href="/de/199125/">
+                        <img src="/static/images/lang/de.png" srcset="/static/images/lang/de@2x.png 2x"/>de
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/fr/199125/">
+                        <img src="/static/images/lang/fr.png" srcset="/static/images/lang/fr@2x.png 2x"/>fr
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/es/199125/">
+                        <img src="/static/images/lang/es.png" srcset="/static/images/lang/es@2x.png 2x"/>es
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/it/199125/">
+                        <img src="/static/images/lang/it.png" srcset="/static/images/lang/it@2x.png 2x"/>it
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/ru/199125/">
+                        <img src="/static/images/lang/ru.png" srcset="/static/images/lang/ru@2x.png 2x"/>ru
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/pt/199125/">
+                        <img src="/static/images/lang/pt.png" srcset="/static/images/lang/pt@2x.png 2x"/>pt
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/tr/199125/">
+                        <img src="/static/images/lang/tr.png" srcset="/static/images/lang/tr@2x.png 2x"/>tr
+                    </a>
+                
+            
+        
+            
+                
+                    <a class="lang__item" href="/hi/199125/">
+                        <img src="/static/images/lang/hi.png" srcset="/static/images/lang/hi@2x.png 2x"/>hi
+                    </a>
+                
+            
+        
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    <div class="popup" id="howPopup">
+        <div class="popup__handler">
+            <div class="popup__header">
+                <h3>Income for installing CryptoTab Browser</h3>
+            </div>
+            <div class="popup__body">
+                <p>We are going to pay you 15% bonus of your friend's earnings from our own funds as soon as they will install CryptoTab Browser with your personal link.</p>
+                <p>Also, we are going to pay you 10% bonus from our own funds when your friends will lead their friends through their own links.</p>
+                <p>And so on...</p>
+                <ul>
+                    <li>
+                        <b>Rewards Table for friends inviting:</b>
+                    </li>
+                    <li>
+                        <b>1st</b> circle of friends - 15%
+                    </li>
+                    <li>
+                        <b>2nd</b> circle of friends - 10%
+                    </li>
+                    <li>
+                        <b>3rd</b> circle of friends - 5%
+                    </li>
+                    <li>
+                        <b>4th</b> circle of friends - 3%
+                    </li>
+                    <li>
+                        <b>5th</b> circle of friends - 2%
+                    </li>
+                    <li>
+                        <b>6th</b> circle of friends - 1%
+                    </li>
+                    <li>
+                        <b>7th</b> circle of friends - 0.5%
+                    </li>
+                    <li>
+                        <b>8th</b> circle of friends - 0.25%
+                    </li>
+                    <li>
+                        <b>9th</b> circle of friends - 0.125%
+                    </li>
+                    <li>
+                        <b>10th</b> circle of friends - 0.0625%
+                    </li>
+                </ul>
+                <p>The income is being calculated as in average CryptoTab Browser user is mining Bitcoin worth an equivalent of 4$ monthly.</p>
+                <p>You will be getting income on every user in you mining network for as long as they are active CryptoTab Browser users.</p>
+            </div>
+            <div class="popup__footer">
+                <div class="btn btn_link popup__cancel">Ok</div>
+            </div>
+        </div>
+    </div>
+    <a data-scroll href="#top" class="scroll2top"></a>
+    <script src="/static/scripts/countUp.min.js"></script>
+    <script src="/static/scripts/wow.min.js"></script>
+    <script src="/static/scripts/smooth-scroll.min.js"></script>
+    <script src="/static/scripts/clipboard.min.js"></script>
+    <script src="/static/scripts/range-slider.min.js"></script>
+    <script>
+        var scroll = new SmoothScroll('a[data-scroll]');
+    </script>
+    <script type="text/javascript" src="/en/jsi18n/"></script>
+    <script src="/static/scripts/index_v2.js?t=1545816078"></script>
+    <script src="/static/scripts/components/navbar.js"></script>
+    <script type="text/javascript">
+        document.querySelector('.rotator__item_2').addEventListener('animationend', function() {
+            document.querySelector('.rotator__item_3').classList.add('show');
+            document.querySelector('.page').classList.remove('page_loaded');
+            // restart animation after 10 sec
+            setTimeout(function() {
+                document.querySelector('.rotator__item_3').classList.remove('show');
+                document.querySelector('.page').classList.add('page_loaded');
+            }, 10000);
+        });
+    </script>
+    <script>
+window.DjangoCryptotabSharing = {};
+
+window.DjangoCryptotabSharing.lang ='en';
+
+window.DjangoCryptotabSharing.host = 'https://cryptobrowser.site';
+
+window.DjangoCryptotabSharing.from = '8';
+
+window.DjangoCryptotabSharing.disableVkApi = true
+
+window.DjangoCryptotabSharing.setLinkId = function(linkId) {
+  var buttonContainers = document.getElementsByClassName('social-btns');
+  for (var i = 0; i < buttonContainers.length; i++) {
+      buttonContainers[i].setAttribute('data-linkid', linkId);
+  }
+};
+
+var Sharing = function() {
+
+    init();
+
+    function init() {
+        initMoreEscapeHandler();
+        initMoreClickHandler();
+        initSocialButtonsHandlers();
+    }
+
+    function initMoreEscapeHandler() {
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                hide();
+            }
+        });
+    }
+
+    function initSocialButtonsHandlers() {
+        document.addEventListener('click', function(event) {
+            var handlers = {
+                eml: clientRedirectHandler,
+                vb: clientRedirectHandler,
+                vk: window.DjangoCryptotabSharing.disableVkApi ? false : vkHandler
+            };
+            var btn = closest(event.target, '.social-btn');
+            if (btn) {
+                var target = btn.getAttribute('data-target');
+                var handler = handlers[target] || serverRedirectHandler;
+                handler(event);
+            }
+        });
+    }
+
+    function serverRedirectHandler(event) {
+        var params = getSharingParams(event.target);
+        var url = getSharingURLPath() + '?' + dictToURI(params);
+        openPopup(url, params['t']);
+    }
+
+    function clientRedirectHandler(event) {
+        var params = getSharingParams(event.target);
+        params['technique'] = 'client_redirect';
+        var url = getSharingURLPath() + '?' + dictToURI(params);
+        callApi(url, function(data) {
+            var oldUnload = window.onbeforeunload;
+            window.onbeforeunload = null;  // Prevent webapp confirmation window
+            window.location = data['redirect_url'];
+            setTimeout(function(){
+                window.onbeforeunload = oldUnload;
+            }, 0);
+        });
+    }
+
+    function vkHandler(event) {
+        var params = getSharingParams(event.target);
+        params['technique'] = 'client_api';
+        var url = getSharingURLPath() + '?' + dictToURI(params);
+        callApi(url, function(data) {
+            VK.api(
+                'wall.post',
+                {
+                    'message': data.message.body + ' ' + data.message.hashtag,
+                    'attachments': data.message.image.vk_id + ',' + data.preview_url,
+                    'v':'5.85'
+                },
+                function (data) {}
+            );
+        });
+    }
+
+    function callApi(url, cb) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url);
+        xhr.send();
+        xhr.onreadystatechange = function(data) {
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                try {
+                    var parsedData = JSON.parse(xhr.responseText);
+                } catch (e) {
+                    console.log(xhr.responseText);
+                    return;
+                }
+                cb(parsedData);
+            }
+        }
+    }
+
+    function getSharingParams(btn) {
+        var container = closest(btn, '.social-btns');
+        var params = {
+            current_url: container.getAttribute('data-currenturl'),
+            msg: container.getAttribute('data-msg'),
+            link_id: container.getAttribute('data-linkid'),
+            t: btn.getAttribute('data-target')
+        };
+        for (var key in params) {
+            if (!params[key]) {
+                delete params[key];
+            }
+        }
+        if (window.DjangoCryptotabSharing.from) {
+            params['src']= window.DjangoCryptotabSharing.from;
+        }
+        if (window.DjangoCryptotabSharing.blank) {
+            params['blank'] = window.DjangoCryptotabSharing.blank;
+        }
+        return params;
+    }
+
+    function initMoreClickHandler() {
+        document.addEventListener('click', function(event) {
+            if ( !closest(event.target, '.social-btns') ) {
+                hide();
+            }
+            if ( closest(event.target, '.social-btns__more') ) {
+                toggle(event.target);
+            }
+        });
+    }
+
+    function toggle(el) {
+        var list = el.parentNode.querySelector('.social-btns__list') || el.parentNode.parentNode.querySelector('.social-btns__list');
+        if ( list.classList.contains('active') ) {
+            list.classList.remove('active');
+        } else {
+            list.classList.add('active');
+        }
+    }
+
+    function hide() {
+        var lists = document.querySelectorAll('.social-btns__list');
+        for (var i=0; i < lists.length; i++) {
+            lists[i].classList.remove('active');
+        }
+    }
+
+    function openPopup(url, target) {
+        if (window.DjangoCryptotabSharing.blank) {
+            window.open(url, '_blank');
+        } else {
+            var height = target === 'wa' ? 600 : 500;
+            var width = target === 'wa' ? 800 : 400;
+            var y = window.outerHeight / 2 + window.screenY - ( height / 2);
+            var x = window.outerWidth / 2 + window.screenX - ( width / 2);
+            window.open(url, '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+ width +', height='+ height +', top='+y+', left='+x);
+        }
+        return false;
+    }
+
+    function closest(el, selector) {
+        var matches = el.webkitMatchesSelector ? 'webkitMatchesSelector' : (el.msMatchesSelector ? 'msMatchesSelector' : 'matches');
+        while (el.parentElement) {
+            if (el[matches](selector)) return el;
+            el = el.parentElement;
+        }
+        return null;
+    }
+
+    function debounce(func, wait, immediate) {
+        var timeout;
+        return function() {
+            var context = this, args = arguments;
+            var later = function() {
+                timeout = null;
+                if (!immediate) func.apply(context, args);
+            };
+            var callNow = immediate && !timeout;
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+            if (callNow) func.apply(context, args);
+        };
+    }
+
+    function dictToURI(dict) {
+        var str = [];
+        for(var p in dict){
+            str.push(encodeURIComponent(p) + "=" + encodeURIComponent(dict[p]));
+        }
+        return str.join("&");
+    }
+
+    function getSharingURLPath() {
+        return window.DjangoCryptotabSharing.host + '/' + window.DjangoCryptotabSharing.lang + '/cryptotab_sharing/';
+    }
+}();
+</script>
+
+    
+
+
+
+
+<script>
+  try {
+    !function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.firebase=e()}(this,function(){"use strict";!function(t){if(!t.fetch){var e={searchParams:"URLSearchParams"in t,iterable:"Symbol"in t&&"iterator"in Symbol,blob:"FileReader"in t&&"Blob"in t&&function(){try{return new Blob,!0}catch(t){return!1}}(),formData:"FormData"in t,arrayBuffer:"ArrayBuffer"in t};if(e.arrayBuffer)var r=["[object Int8Array]","[object Uint8Array]","[object Uint8ClampedArray]","[object Int16Array]","[object Uint16Array]","[object Int32Array]","[object Uint32Array]","[object Float32Array]","[object Float64Array]"],n=function(t){return t&&DataView.prototype.isPrototypeOf(t)},o=ArrayBuffer.isView||function(t){return t&&r.indexOf(Object.prototype.toString.call(t))>-1};f.prototype.append=function(t,e){t=a(t),e=u(e);var r=this.map[t];this.map[t]=r?r+","+e:e},f.prototype.delete=function(t){delete this.map[a(t)]},f.prototype.get=function(t){return t=a(t),this.has(t)?this.map[t]:null},f.prototype.has=function(t){return this.map.hasOwnProperty(a(t))},f.prototype.set=function(t,e){this.map[a(t)]=u(e)},f.prototype.forEach=function(t,e){for(var r in this.map)this.map.hasOwnProperty(r)&&t.call(e,this.map[r],r,this)},f.prototype.keys=function(){var t=[];return this.forEach(function(e,r){t.push(r)}),c(t)},f.prototype.values=function(){var t=[];return this.forEach(function(e){t.push(e)}),c(t)},f.prototype.entries=function(){var t=[];return this.forEach(function(e,r){t.push([r,e])}),c(t)},e.iterable&&(f.prototype[Symbol.iterator]=f.prototype.entries);var i=["DELETE","GET","HEAD","OPTIONS","POST","PUT"];v.prototype.clone=function(){return new v(this,{body:this._bodyInit})},y.call(v.prototype),y.call(m.prototype),m.prototype.clone=function(){return new m(this._bodyInit,{status:this.status,statusText:this.statusText,headers:new f(this.headers),url:this.url})},m.error=function(){var t=new m(null,{status:0,statusText:""});return t.type="error",t};var s=[301,302,303,307,308];m.redirect=function(t,e){if(-1===s.indexOf(e))throw new RangeError("Invalid status code");return new m(null,{status:e,headers:{location:t}})},t.Headers=f,t.Request=v,t.Response=m,t.fetch=function(t,r){return new Promise(function(n,o){var i=new v(t,r),s=new XMLHttpRequest;s.onload=function(){var t,e,r={status:s.status,statusText:s.statusText,headers:(t=s.getAllResponseHeaders()||"",e=new f,t.replace(/\r?\n[\t ]+/g," ").split(/\r?\n/).forEach(function(t){var r=t.split(":"),n=r.shift().trim();if(n){var o=r.join(":").trim();e.append(n,o)}}),e)};r.url="responseURL"in s?s.responseURL:r.headers.get("X-Request-URL");var o="response"in s?s.response:s.responseText;n(new m(o,r))},s.onerror=function(){o(new TypeError("Network request failed"))},s.ontimeout=function(){o(new TypeError("Network request failed"))},s.open(i.method,i.url,!0),"include"===i.credentials?s.withCredentials=!0:"omit"===i.credentials&&(s.withCredentials=!1),"responseType"in s&&e.blob&&(s.responseType="blob"),i.headers.forEach(function(t,e){s.setRequestHeader(e,t)}),s.send(void 0===i._bodyInit?null:i._bodyInit)})},t.fetch.polyfill=!0}function a(t){if("string"!=typeof t&&(t=String(t)),/[^a-z0-9\-#$%&'*+.\^_`|~]/i.test(t))throw new TypeError("Invalid character in header field name");return t.toLowerCase()}function u(t){return"string"!=typeof t&&(t=String(t)),t}function c(t){var r={next:function(){var e=t.shift();return{done:void 0===e,value:e}}};return e.iterable&&(r[Symbol.iterator]=function(){return r}),r}function f(t){this.map={},t instanceof f?t.forEach(function(t,e){this.append(e,t)},this):Array.isArray(t)?t.forEach(function(t){this.append(t[0],t[1])},this):t&&Object.getOwnPropertyNames(t).forEach(function(e){this.append(e,t[e])},this)}function h(t){if(t.bodyUsed)return Promise.reject(new TypeError("Already read"));t.bodyUsed=!0}function l(t){return new Promise(function(e,r){t.onload=function(){e(t.result)},t.onerror=function(){r(t.error)}})}function p(t){var e=new FileReader,r=l(e);return e.readAsArrayBuffer(t),r}function d(t){if(t.slice)return t.slice(0);var e=new Uint8Array(t.byteLength);return e.set(new Uint8Array(t)),e.buffer}function y(){return this.bodyUsed=!1,this._initBody=function(t){if(this._bodyInit=t,t)if("string"==typeof t)this._bodyText=t;else if(e.blob&&Blob.prototype.isPrototypeOf(t))this._bodyBlob=t;else if(e.formData&&FormData.prototype.isPrototypeOf(t))this._bodyFormData=t;else if(e.searchParams&&URLSearchParams.prototype.isPrototypeOf(t))this._bodyText=t.toString();else if(e.arrayBuffer&&e.blob&&n(t))this._bodyArrayBuffer=d(t.buffer),this._bodyInit=new Blob([this._bodyArrayBuffer]);else{if(!e.arrayBuffer||!ArrayBuffer.prototype.isPrototypeOf(t)&&!o(t))throw new Error("unsupported BodyInit type");this._bodyArrayBuffer=d(t)}else this._bodyText="";this.headers.get("content-type")||("string"==typeof t?this.headers.set("content-type","text/plain;charset=UTF-8"):this._bodyBlob&&this._bodyBlob.type?this.headers.set("content-type",this._bodyBlob.type):e.searchParams&&URLSearchParams.prototype.isPrototypeOf(t)&&this.headers.set("content-type","application/x-www-form-urlencoded;charset=UTF-8"))},e.blob&&(this.blob=function(){var t=h(this);if(t)return t;if(this._bodyBlob)return Promise.resolve(this._bodyBlob);if(this._bodyArrayBuffer)return Promise.resolve(new Blob([this._bodyArrayBuffer]));if(this._bodyFormData)throw new Error("could not read FormData body as blob");return Promise.resolve(new Blob([this._bodyText]))},this.arrayBuffer=function(){return this._bodyArrayBuffer?h(this)||Promise.resolve(this._bodyArrayBuffer):this.blob().then(p)}),this.text=function(){var t,e,r,n=h(this);if(n)return n;if(this._bodyBlob)return t=this._bodyBlob,e=new FileReader,r=l(e),e.readAsText(t),r;if(this._bodyArrayBuffer)return Promise.resolve(function(t){for(var e=new Uint8Array(t),r=new Array(e.length),n=0;n<e.length;n++)r[n]=String.fromCharCode(e[n]);return r.join("")}(this._bodyArrayBuffer));if(this._bodyFormData)throw new Error("could not read FormData body as text");return Promise.resolve(this._bodyText)},e.formData&&(this.formData=function(){return this.text().then(b)}),this.json=function(){return this.text().then(JSON.parse)},this}function v(t,e){var r,n,o=(e=e||{}).body;if(t instanceof v){if(t.bodyUsed)throw new TypeError("Already read");this.url=t.url,this.credentials=t.credentials,e.headers||(this.headers=new f(t.headers)),this.method=t.method,this.mode=t.mode,o||null==t._bodyInit||(o=t._bodyInit,t.bodyUsed=!0)}else this.url=String(t);if(this.credentials=e.credentials||this.credentials||"omit",!e.headers&&this.headers||(this.headers=new f(e.headers)),this.method=(r=e.method||this.method||"GET",n=r.toUpperCase(),i.indexOf(n)>-1?n:r),this.mode=e.mode||this.mode||null,this.referrer=null,("GET"===this.method||"HEAD"===this.method)&&o)throw new TypeError("Body not allowed for GET or HEAD requests");this._initBody(o)}function b(t){var e=new FormData;return t.trim().split("&").forEach(function(t){if(t){var r=t.split("="),n=r.shift().replace(/\+/g," "),o=r.join("=").replace(/\+/g," ");e.append(decodeURIComponent(n),decodeURIComponent(o))}}),e}function m(t,e){e||(e={}),this.type="default",this.status=void 0===e.status?200:e.status,this.ok=this.status>=200&&this.status<300,this.statusText="statusText"in e?e.statusText:"OK",this.headers=new f(e.headers),this.url=e.url||"",this._initBody(t)}}("undefined"!=typeof self?self:void 0);var t="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{};function e(t,e){return t(e={exports:{}},e.exports),e.exports}var r=setTimeout;function n(){}function o(t){if(!(this instanceof o))throw new TypeError("Promises must be constructed via new");if("function"!=typeof t)throw new TypeError("not a function");this._state=0,this._handled=!1,this._value=void 0,this._deferreds=[],c(t,this)}function i(t,e){for(;3===t._state;)t=t._value;0!==t._state?(t._handled=!0,o._immediateFn(function(){var r=1===t._state?e.onFulfilled:e.onRejected;if(null!==r){var n;try{n=r(t._value)}catch(t){return void a(e.promise,t)}s(e.promise,n)}else(1===t._state?s:a)(e.promise,t._value)})):t._deferreds.push(e)}function s(t,e){try{if(e===t)throw new TypeError("A promise cannot be resolved with itself.");if(e&&("object"==typeof e||"function"==typeof e)){var r=e.then;if(e instanceof o)return t._state=3,t._value=e,void u(t);if("function"==typeof r)return void c((n=r,i=e,function(){n.apply(i,arguments)}),t)}t._state=1,t._value=e,u(t)}catch(e){a(t,e)}var n,i}function a(t,e){t._state=2,t._value=e,u(t)}function u(t){2===t._state&&0===t._deferreds.length&&o._immediateFn(function(){t._handled||o._unhandledRejectionFn(t._value)});for(var e=0,r=t._deferreds.length;e<r;e++)i(t,t._deferreds[e]);t._deferreds=null}function c(t,e){var r=!1;try{t(function(t){r||(r=!0,s(e,t))},function(t){r||(r=!0,a(e,t))})}catch(t){if(r)return;r=!0,a(e,t)}}o.prototype.catch=function(t){return this.then(null,t)},o.prototype.then=function(t,e){var r=new this.constructor(n);return i(this,new function(t,e,r){this.onFulfilled="function"==typeof t?t:null,this.onRejected="function"==typeof e?e:null,this.promise=r}(t,e,r)),r},o.prototype.finally=function(t){var e=this.constructor;return this.then(function(r){return e.resolve(t()).then(function(){return r})},function(r){return e.resolve(t()).then(function(){return e.reject(r)})})},o.all=function(t){return new o(function(e,r){if(!t||void 0===t.length)throw new TypeError("Promise.all accepts an array");var n=Array.prototype.slice.call(t);if(0===n.length)return e([]);var o=n.length;function i(t,s){try{if(s&&("object"==typeof s||"function"==typeof s)){var a=s.then;if("function"==typeof a)return void a.call(s,function(e){i(t,e)},r)}n[t]=s,0==--o&&e(n)}catch(t){r(t)}}for(var s=0;s<n.length;s++)i(s,n[s])})},o.resolve=function(t){return t&&"object"==typeof t&&t.constructor===o?t:new o(function(e){e(t)})},o.reject=function(t){return new o(function(e,r){r(t)})},o.race=function(t){return new o(function(e,r){for(var n=0,o=t.length;n<o;n++)t[n].then(e,r)})},o._immediateFn="function"==typeof setImmediate&&function(t){setImmediate(t)}||function(t){r(t,0)},o._unhandledRejectionFn=function(t){"undefined"!=typeof console&&console&&console.warn("Possible Unhandled Promise Rejection:",t)};var f=function(){if("undefined"!=typeof self)return self;if("undefined"!=typeof window)return window;if(void 0!==t)return t;throw new Error("unable to locate global object")}();f.Promise||(f.Promise=o);var h=e(function(t){var e=t.exports="undefined"!=typeof window&&window.Math==Math?window:"undefined"!=typeof self&&self.Math==Math?self:Function("return this")();"number"==typeof __g&&(__g=e)}),l=e(function(t){var e=t.exports={version:"2.5.5"};"number"==typeof __e&&(__e=e)}),p=(l.version,function(t){return"object"==typeof t?null!==t:"function"==typeof t}),d=function(t){if(!p(t))throw TypeError(t+" is not an object!");return t},y=function(t){try{return!!t()}catch(t){return!0}},v=!y(function(){return 7!=Object.defineProperty({},"a",{get:function(){return 7}}).a}),b=h.document,m=p(b)&&p(b.createElement),_=function(t){return m?b.createElement(t):{}},g=!v&&!y(function(){return 7!=Object.defineProperty(_("div"),"a",{get:function(){return 7}}).a}),w=function(t,e){if(!p(t))return t;var r,n;if(e&&"function"==typeof(r=t.toString)&&!p(n=r.call(t)))return n;if("function"==typeof(r=t.valueOf)&&!p(n=r.call(t)))return n;if(!e&&"function"==typeof(r=t.toString)&&!p(n=r.call(t)))return n;throw TypeError("Can't convert object to primitive value")},O=Object.defineProperty,S={f:v?Object.defineProperty:function(t,e,r){if(d(t),e=w(e,!0),d(r),g)try{return O(t,e,r)}catch(t){}if("get"in r||"set"in r)throw TypeError("Accessors not supported!");return"value"in r&&(t[e]=r.value),t}},E=function(t,e){return{enumerable:!(1&t),configurable:!(2&t),writable:!(4&t),value:e}},A=v?function(t,e,r){return S.f(t,e,E(1,r))}:function(t,e,r){return t[e]=r,t},j={}.hasOwnProperty,P=function(t,e){return j.call(t,e)},T=0,k=Math.random(),x=function(t){return"Symbol(".concat(void 0===t?"":t,")_",(++T+k).toString(36))},F=e(function(t){var e=x("src"),r=Function.toString,n=(""+r).split("toString");l.inspectSource=function(t){return r.call(t)},(t.exports=function(t,r,o,i){var s="function"==typeof o;s&&(P(o,"name")||A(o,"name",r)),t[r]!==o&&(s&&(P(o,e)||A(o,e,t[r]?""+t[r]:n.join(String(r)))),t===h?t[r]=o:i?t[r]?t[r]=o:A(t,r,o):(delete t[r],A(t,r,o)))})(Function.prototype,"toString",function(){return"function"==typeof this&&this[e]||r.call(this)})}),L=function(t,e,r){if(function(t){if("function"!=typeof t)throw TypeError(t+" is not a function!")}(t),void 0===e)return t;switch(r){case 1:return function(r){return t.call(e,r)};case 2:return function(r,n){return t.call(e,r,n)};case 3:return function(r,n,o){return t.call(e,r,n,o)}}return function(){return t.apply(e,arguments)}},N=function(t,e,r){var n,o,i,s,a=t&N.F,u=t&N.G,c=t&N.S,f=t&N.P,p=t&N.B,d=u?h:c?h[e]||(h[e]={}):(h[e]||{}).prototype,y=u?l:l[e]||(l[e]={}),v=y.prototype||(y.prototype={});for(n in u&&(r=e),r)i=((o=!a&&d&&void 0!==d[n])?d:r)[n],s=p&&o?L(i,h):f&&"function"==typeof i?L(Function.call,i):i,d&&F(d,n,i,t&N.U),y[n]!=i&&A(y,n,s),f&&v[n]!=i&&(v[n]=i)};h.core=l,N.F=1,N.G=2,N.S=4,N.P=8,N.B=16,N.W=32,N.U=64,N.R=128;var D=N,I={}.toString,R=function(t){return I.call(t).slice(8,-1)},B=Object("z").propertyIsEnumerable(0)?Object:function(t){return"String"==R(t)?t.split(""):Object(t)},C=function(t){if(void 0==t)throw TypeError("Can't call method on  "+t);return t},U=function(t){return Object(C(t))},M=Math.ceil,z=Math.floor,G=function(t){return isNaN(t=+t)?0:(t>0?z:M)(t)},W=Math.min,H=function(t){return t>0?W(G(t),9007199254740991):0},V=Array.isArray||function(t){return"Array"==R(t)},q=h["__core-js_shared__"]||(h["__core-js_shared__"]={}),K=function(t){return q[t]||(q[t]={})},$=e(function(t){var e=K("wks"),r=h.Symbol,n="function"==typeof r;(t.exports=function(t){return e[t]||(e[t]=n&&r[t]||(n?r:x)("Symbol."+t))}).store=e}),J=$("species"),Y=function(t,e){return new(function(t){var e;return V(t)&&("function"!=typeof(e=t.constructor)||e!==Array&&!V(e.prototype)||(e=void 0),p(e)&&null===(e=e[J])&&(e=void 0)),void 0===e?Array:e}(t))(e)},X=function(t,e){var r=1==t,n=2==t,o=3==t,i=4==t,s=6==t,a=5==t||s,u=e||Y;return function(e,c,f){for(var h,l,p=U(e),d=B(p),y=L(c,f,3),v=H(d.length),b=0,m=r?u(e,v):n?u(e,0):void 0;v>b;b++)if((a||b in d)&&(l=y(h=d[b],b,p),t))if(r)m[b]=l;else if(l)switch(t){case 3:return!0;case 5:return h;case 6:return b;case 2:m.push(h)}else if(i)return!1;return s?-1:o||i?i:m}},Q=$("unscopables"),Z=Array.prototype;void 0==Z[Q]&&A(Z,Q,{});var tt=function(t){Z[Q][t]=!0},et=X(5),rt=!0;"find"in[]&&Array(1).find(function(){rt=!1}),D(D.P+D.F*rt,"Array",{find:function(t){return et(this,t,arguments.length>1?arguments[1]:void 0)}}),tt("find");l.Array.find;var nt=X(6),ot=!0;"findIndex"in[]&&Array(1).findIndex(function(){ot=!1}),D(D.P+D.F*ot,"Array",{findIndex:function(t){return nt(this,t,arguments.length>1?arguments[1]:void 0)}}),tt("findIndex");l.Array.findIndex;var it,st=function(t){return B(C(t))},at=Math.max,ut=Math.min,ct=K("keys"),ft=function(t){return ct[t]||(ct[t]=x(t))},ht=(it=!1,function(t,e,r){var n,o=st(t),i=H(o.length),s=function(t,e){return(t=G(t))<0?at(t+e,0):ut(t,e)}(r,i);if(it&&e!=e){for(;i>s;)if((n=o[s++])!=n)return!0}else for(;i>s;s++)if((it||s in o)&&o[s]===e)return it||s||0;return!it&&-1}),lt=ft("IE_PROTO"),pt=function(t,e){var r,n=st(t),o=0,i=[];for(r in n)r!=lt&&P(n,r)&&i.push(r);for(;e.length>o;)P(n,r=e[o++])&&(~ht(i,r)||i.push(r));return i},dt="constructor,hasOwnProperty,isPrototypeOf,propertyIsEnumerable,toLocaleString,toString,valueOf".split(","),yt=Object.keys||function(t){return pt(t,dt)},vt={f:Object.getOwnPropertySymbols},bt={f:{}.propertyIsEnumerable},mt=Object.assign,_t=!mt||y(function(){var t={},e={},r=Symbol(),n="abcdefghijklmnopqrst";return t[r]=7,n.split("").forEach(function(t){e[t]=t}),7!=mt({},t)[r]||Object.keys(mt({},e)).join("")!=n})?function(t,e){for(var r=U(t),n=arguments.length,o=1,i=vt.f,s=bt.f;n>o;)for(var a,u=B(arguments[o++]),c=i?yt(u).concat(i(u)):yt(u),f=c.length,h=0;f>h;)s.call(u,a=c[h++])&&(r[a]=u[a]);return r}:mt;D(D.S+D.F,"Object",{assign:_t});l.Object.assign;var gt=$("match"),wt=function(t,e,r){if(p(n=e)&&(void 0!==(o=n[gt])?o:"RegExp"==R(n)))throw TypeError("String#"+r+" doesn't accept regex!");var n,o;return String(C(t))},Ot=$("match"),St="".startsWith;D(D.P+D.F*function(t){var e=/./;try{"/./"[t](e)}catch(r){try{return e[Ot]=!1,!"/./"[t](e)}catch(t){}}return!0}("startsWith"),"String",{startsWith:function(t){var e=wt(this,t,"startsWith"),r=H(Math.min(arguments.length>1?arguments[1]:void 0,e.length)),n=String(t);return St?St.call(e,n,r):e.slice(r,r+n.length)===n}});l.String.startsWith;D(D.P,"String",{repeat:function(t){var e=String(C(this)),r="",n=G(t);if(n<0||n==1/0)throw RangeError("Count can't be negative");for(;n>0;(n>>>=1)&&(e+=e))1&n&&(r+=e);return r}});l.String.repeat;var Et=e(function(t){var e=x("meta"),r=S.f,n=0,o=Object.isExtensible||function(){return!0},i=!y(function(){return o(Object.preventExtensions({}))}),s=function(t){r(t,e,{value:{i:"O"+ ++n,w:{}}})},a=t.exports={KEY:e,NEED:!1,fastKey:function(t,r){if(!p(t))return"symbol"==typeof t?t:("string"==typeof t?"S":"P")+t;if(!P(t,e)){if(!o(t))return"F";if(!r)return"E";s(t)}return t[e].i},getWeak:function(t,r){if(!P(t,e)){if(!o(t))return!0;if(!r)return!1;s(t)}return t[e].w},onFreeze:function(t){return i&&a.NEED&&o(t)&&!P(t,e)&&s(t),t}}}),At=(Et.KEY,Et.NEED,Et.fastKey,Et.getWeak,Et.onFreeze,S.f),jt=$("toStringTag"),Pt=function(t,e,r){t&&!P(t=r?t:t.prototype,jt)&&At(t,jt,{configurable:!0,value:e})},Tt={f:$},kt=S.f,xt=function(t){var e=l.Symbol||(l.Symbol=h.Symbol||{});"_"==t.charAt(0)||t in e||kt(e,t,{value:Tt.f(t)})},Ft=v?Object.defineProperties:function(t,e){d(t);for(var r,n=yt(e),o=n.length,i=0;o>i;)S.f(t,r=n[i++],e[r]);return t},Lt=h.document,Nt=Lt&&Lt.documentElement,Dt=ft("IE_PROTO"),It=function(){},Rt=function(){var t,e=_("iframe"),r=dt.length;for(e.style.display="none",Nt.appendChild(e),e.src="javascript:",(t=e.contentWindow.document).open(),t.write("<script>document.F=Object<\/script>"),t.close(),Rt=t.F;r--;)delete Rt.prototype[dt[r]];return Rt()},Bt=Object.create||function(t,e){var r;return null!==t?(It.prototype=d(t),r=new It,It.prototype=null,r[Dt]=t):r=Rt(),void 0===e?r:Ft(r,e)},Ct=dt.concat("length","prototype"),Ut={f:Object.getOwnPropertyNames||function(t){return pt(t,Ct)}},Mt=Ut.f,zt={}.toString,Gt="object"==typeof window&&window&&Object.getOwnPropertyNames?Object.getOwnPropertyNames(window):[],Wt={f:function(t){return Gt&&"[object Window]"==zt.call(t)?function(t){try{return Mt(t)}catch(t){return Gt.slice()}}(t):Mt(st(t))}},Ht=Object.getOwnPropertyDescriptor,Vt={f:v?Ht:function(t,e){if(t=st(t),e=w(e,!0),g)try{return Ht(t,e)}catch(t){}if(P(t,e))return E(!bt.f.call(t,e),t[e])}},qt=Et.KEY,Kt=Vt.f,$t=S.f,Jt=Wt.f,Yt=h.Symbol,Xt=h.JSON,Qt=Xt&&Xt.stringify,Zt=$("_hidden"),te=$("toPrimitive"),ee={}.propertyIsEnumerable,re=K("symbol-registry"),ne=K("symbols"),oe=K("op-symbols"),ie=Object.prototype,se="function"==typeof Yt,ae=h.QObject,ue=!ae||!ae.prototype||!ae.prototype.findChild,ce=v&&y(function(){return 7!=Bt($t({},"a",{get:function(){return $t(this,"a",{value:7}).a}})).a})?function(t,e,r){var n=Kt(ie,e);n&&delete ie[e],$t(t,e,r),n&&t!==ie&&$t(ie,e,n)}:$t,fe=function(t){var e=ne[t]=Bt(Yt.prototype);return e._k=t,e},he=se&&"symbol"==typeof Yt.iterator?function(t){return"symbol"==typeof t}:function(t){return t instanceof Yt},le=function(t,e,r){return t===ie&&le(oe,e,r),d(t),e=w(e,!0),d(r),P(ne,e)?(r.enumerable?(P(t,Zt)&&t[Zt][e]&&(t[Zt][e]=!1),r=Bt(r,{enumerable:E(0,!1)})):(P(t,Zt)||$t(t,Zt,E(1,{})),t[Zt][e]=!0),ce(t,e,r)):$t(t,e,r)},pe=function(t,e){d(t);for(var r,n=function(t){var e=yt(t),r=vt.f;if(r)for(var n,o=r(t),i=bt.f,s=0;o.length>s;)i.call(t,n=o[s++])&&e.push(n);return e}(e=st(e)),o=0,i=n.length;i>o;)le(t,r=n[o++],e[r]);return t},de=function(t){var e=ee.call(this,t=w(t,!0));return!(this===ie&&P(ne,t)&&!P(oe,t))&&(!(e||!P(this,t)||!P(ne,t)||P(this,Zt)&&this[Zt][t])||e)},ye=function(t,e){if(t=st(t),e=w(e,!0),t!==ie||!P(ne,e)||P(oe,e)){var r=Kt(t,e);return!r||!P(ne,e)||P(t,Zt)&&t[Zt][e]||(r.enumerable=!0),r}},ve=function(t){for(var e,r=Jt(st(t)),n=[],o=0;r.length>o;)P(ne,e=r[o++])||e==Zt||e==qt||n.push(e);return n},be=function(t){for(var e,r=t===ie,n=Jt(r?oe:st(t)),o=[],i=0;n.length>i;)!P(ne,e=n[i++])||r&&!P(ie,e)||o.push(ne[e]);return o};se||(F((Yt=function(){if(this instanceof Yt)throw TypeError("Symbol is not a constructor!");var t=x(arguments.length>0?arguments[0]:void 0),e=function(r){this===ie&&e.call(oe,r),P(this,Zt)&&P(this[Zt],t)&&(this[Zt][t]=!1),ce(this,t,E(1,r))};return v&&ue&&ce(ie,t,{configurable:!0,set:e}),fe(t)}).prototype,"toString",function(){return this._k}),Vt.f=ye,S.f=le,Ut.f=Wt.f=ve,bt.f=de,vt.f=be,v&&F(ie,"propertyIsEnumerable",de,!0),Tt.f=function(t){return fe($(t))}),D(D.G+D.W+D.F*!se,{Symbol:Yt});for(var me="hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables".split(","),_e=0;me.length>_e;)$(me[_e++]);for(var ge=yt($.store),we=0;ge.length>we;)xt(ge[we++]);D(D.S+D.F*!se,"Symbol",{for:function(t){return P(re,t+="")?re[t]:re[t]=Yt(t)},keyFor:function(t){if(!he(t))throw TypeError(t+" is not a symbol!");for(var e in re)if(re[e]===t)return e},useSetter:function(){ue=!0},useSimple:function(){ue=!1}}),D(D.S+D.F*!se,"Object",{create:function(t,e){return void 0===e?Bt(t):pe(Bt(t),e)},defineProperty:le,defineProperties:pe,getOwnPropertyDescriptor:ye,getOwnPropertyNames:ve,getOwnPropertySymbols:be}),Xt&&D(D.S+D.F*(!se||y(function(){var t=Yt();return"[null]"!=Qt([t])||"{}"!=Qt({a:t})||"{}"!=Qt(Object(t))})),"JSON",{stringify:function(t){for(var e,r,n=[t],o=1;arguments.length>o;)n.push(arguments[o++]);if(r=e=n[1],(p(e)||void 0!==t)&&!he(t))return V(e)||(e=function(t,e){if("function"==typeof r&&(e=r.call(this,t,e)),!he(e))return e}),n[1]=e,Qt.apply(Xt,n)}}),Yt.prototype[te]||A(Yt.prototype,te,Yt.prototype.valueOf),Pt(Yt,"Symbol"),Pt(Math,"Math",!0),Pt(h.JSON,"JSON",!0);var Oe=$("toStringTag"),Se="Arguments"==R(function(){return arguments}()),Ee={};Ee[$("toStringTag")]="z",Ee+""!="[object z]"&&F(Object.prototype,"toString",function(){return"[object "+(void 0===(t=this)?"Undefined":null===t?"Null":"string"==typeof(r=function(t,e){try{return t[e]}catch(t){}}(e=Object(t),Oe))?r:Se?R(e):"Object"==(n=R(e))&&"function"==typeof e.callee?"Arguments":n)+"]";var t,e,r,n},!0),xt("asyncIterator"),xt("observable");l.Symbol;var Ae={},je={};A(je,$("iterator"),function(){return this});var Pe,Te=function(t,e,r){t.prototype=Bt(je,{next:E(1,r)}),Pt(t,e+" Iterator")},ke=ft("IE_PROTO"),xe=Object.prototype,Fe=Object.getPrototypeOf||function(t){return t=U(t),P(t,ke)?t[ke]:"function"==typeof t.constructor&&t instanceof t.constructor?t.constructor.prototype:t instanceof Object?xe:null},Le=$("iterator"),Ne=!([].keys&&"next"in[].keys()),De=function(){return this},Ie=function(t,e,r,n,o,i,s){Te(r,e,n);var a,u,c,f=function(t){if(!Ne&&t in d)return d[t];switch(t){case"keys":case"values":return function(){return new r(this,t)}}return function(){return new r(this,t)}},h=e+" Iterator",l="values"==o,p=!1,d=t.prototype,y=d[Le]||d["@@iterator"]||o&&d[o],v=y||f(o),b=o?l?f("entries"):v:void 0,m="Array"==e&&d.entries||y;if(m&&(c=Fe(m.call(new t)))!==Object.prototype&&c.next&&(Pt(c,h,!0),"function"!=typeof c[Le]&&A(c,Le,De)),l&&y&&"values"!==y.name&&(p=!0,v=function(){return y.call(this)}),(Ne||p||!d[Le])&&A(d,Le,v),Ae[e]=v,Ae[h]=De,o)if(a={values:l?v:f("values"),keys:i?v:f("keys"),entries:b},s)for(u in a)u in d||F(d,u,a[u]);else D(D.P+D.F*(Ne||p),e,a);return a},Re=(Pe=!0,function(t,e){var r,n,o=String(C(t)),i=G(e),s=o.length;return i<0||i>=s?Pe?"":void 0:(r=o.charCodeAt(i))<55296||r>56319||i+1===s||(n=o.charCodeAt(i+1))<56320||n>57343?Pe?o.charAt(i):r:Pe?o.slice(i,i+2):n-56320+(r-55296<<10)+65536});Ie(String,"String",function(t){this._t=String(t),this._i=0},function(){var t,e=this._t,r=this._i;return r>=e.length?{value:void 0,done:!0}:(t=Re(e,r),this._i+=t.length,{value:t,done:!1})});var Be=function(t,e){return{value:e,done:!!t}},Ce=Ie(Array,"Array",function(t,e){this._t=st(t),this._i=0,this._k=e},function(){var t=this._t,e=this._k,r=this._i++;return!t||r>=t.length?(this._t=void 0,Be(1)):Be(0,"keys"==e?r:"values"==e?t[r]:[r,t[r]])},"values");Ae.Arguments=Ae.Array,tt("keys"),tt("values"),tt("entries");for(var Ue=$("iterator"),Me=$("toStringTag"),ze=Ae.Array,Ge={CSSRuleList:!0,CSSStyleDeclaration:!1,CSSValueList:!1,ClientRectList:!1,DOMRectList:!1,DOMStringList:!1,DOMTokenList:!0,DataTransferItemList:!1,FileList:!1,HTMLAllCollection:!1,HTMLCollection:!1,HTMLFormElement:!1,HTMLSelectElement:!1,MediaList:!0,MimeTypeArray:!1,NamedNodeMap:!1,NodeList:!0,PaintRequestList:!1,Plugin:!1,PluginArray:!1,SVGLengthList:!1,SVGNumberList:!1,SVGPathSegList:!1,SVGPointList:!1,SVGStringList:!1,SVGTransformList:!1,SourceBufferList:!1,StyleSheetList:!0,TextTrackCueList:!1,TextTrackList:!1,TouchList:!1},We=yt(Ge),He=0;He<We.length;He++){var Ve,qe=We[He],Ke=Ge[qe],$e=h[qe],Je=$e&&$e.prototype;if(Je&&(Je[Ue]||A(Je,Ue,ze),Je[Me]||A(Je,Me,qe),Ae[qe]=ze,Ke))for(Ve in Ce)Je[Ve]||F(Je,Ve,Ce[Ve],!0)}Tt.f("iterator");var Ye=Object.setPrototypeOf||{__proto__:[]}instanceof Array&&function(t,e){t.__proto__=e}||function(t,e){for(var r in e)e.hasOwnProperty(r)&&(t[r]=e[r])};function Xe(t,e){if(!(e instanceof Object))return e;switch(e.constructor){case Date:return new Date(e.getTime());case Object:void 0===t&&(t={});break;case Array:t=[];break;default:return e}for(var r in e)e.hasOwnProperty(r)&&(t[r]=Xe(t[r],e[r]));return t}function Qe(t,e,r){t[e]=r}var Ze="FirebaseError",tr=Error.captureStackTrace,er=function(){return function(t,e){if(this.code=t,this.message=e,tr)tr(this,rr.prototype.create);else try{throw Error.apply(this,arguments)}catch(t){this.name=Ze,Object.defineProperty(this,"stack",{get:function(){return t.stack}})}}}();er.prototype=Object.create(Error.prototype),er.prototype.constructor=er,er.prototype.name=Ze;var rr=function(){function t(t,e,r){this.service=t,this.serviceName=e,this.errors=r,this.pattern=/\{\$([^}]+)}/g}return t.prototype.create=function(t,e){void 0===e&&(e={});var r,n=this.errors[t],o=this.service+"/"+t;r=void 0===n?"Error":n.replace(this.pattern,function(t,r){var n=e[r];return void 0!==n?n.toString():"<"+r+"?>"}),r=this.serviceName+": "+r+" ("+o+").";var i=new er(o,r);for(var s in e)e.hasOwnProperty(s)&&"_"!==s.slice(-1)&&(i[s]=e[s]);return i},t}();!function(t){function e(){var e=t.call(this)||this;e.chain_=[],e.buf_=[],e.W_=[],e.pad_=[],e.inbuf_=0,e.total_=0,e.blockSize=64,e.pad_[0]=128;for(var r=1;r<e.blockSize;++r)e.pad_[r]=0;return e.reset(),e}(function(t,e){function r(){this.constructor=t}Ye(t,e),t.prototype=null===e?Object.create(e):(r.prototype=e.prototype,new r)})(e,t),e.prototype.reset=function(){this.chain_[0]=1732584193,this.chain_[1]=4023233417,this.chain_[2]=2562383102,this.chain_[3]=271733878,this.chain_[4]=3285377520,this.inbuf_=0,this.total_=0},e.prototype.compress_=function(t,e){e||(e=0);var r=this.W_;if("string"==typeof t)for(var n=0;n<16;n++)r[n]=t.charCodeAt(e)<<24|t.charCodeAt(e+1)<<16|t.charCodeAt(e+2)<<8|t.charCodeAt(e+3),e+=4;else for(n=0;n<16;n++)r[n]=t[e]<<24|t[e+1]<<16|t[e+2]<<8|t[e+3],e+=4;for(n=16;n<80;n++){var o=r[n-3]^r[n-8]^r[n-14]^r[n-16];r[n]=4294967295&(o<<1|o>>>31)}var i,s,a=this.chain_[0],u=this.chain_[1],c=this.chain_[2],f=this.chain_[3],h=this.chain_[4];for(n=0;n<80;n++){n<40?n<20?(i=f^u&(c^f),s=1518500249):(i=u^c^f,s=1859775393):n<60?(i=u&c|f&(u|c),s=2400959708):(i=u^c^f,s=3395469782);o=(a<<5|a>>>27)+i+h+s+r[n]&4294967295;h=f,f=c,c=4294967295&(u<<30|u>>>2),u=a,a=o}this.chain_[0]=this.chain_[0]+a&4294967295,this.chain_[1]=this.chain_[1]+u&4294967295,this.chain_[2]=this.chain_[2]+c&4294967295,this.chain_[3]=this.chain_[3]+f&4294967295,this.chain_[4]=this.chain_[4]+h&4294967295},e.prototype.update=function(t,e){if(null!=t){void 0===e&&(e=t.length);for(var r=e-this.blockSize,n=0,o=this.buf_,i=this.inbuf_;n<e;){if(0==i)for(;n<=r;)this.compress_(t,n),n+=this.blockSize;if("string"==typeof t){for(;n<e;)if(o[i]=t.charCodeAt(n),++n,++i==this.blockSize){this.compress_(o),i=0;break}}else for(;n<e;)if(o[i]=t[n],++n,++i==this.blockSize){this.compress_(o),i=0;break}}this.inbuf_=i,this.total_+=e}},e.prototype.digest=function(){var t=[],e=8*this.total_;this.inbuf_<56?this.update(this.pad_,56-this.inbuf_):this.update(this.pad_,this.blockSize-(this.inbuf_-56));for(var r=this.blockSize-1;r>=56;r--)this.buf_[r]=255&e,e/=256;this.compress_(this.buf_);var n=0;for(r=0;r<5;r++)for(var o=24;o>=0;o-=8)t[n]=this.chain_[r]>>o&255,++n;return t}}(function(){return function(){this.blockSize=-1}}());function nr(t,e){var r=new or(t,e);return r.subscribe.bind(r)}var or=function(){function t(t,e){var r=this;this.observers=[],this.unsubscribes=[],this.observerCount=0,this.task=Promise.resolve(),this.finalized=!1,this.onNoObservers=e,this.task.then(function(){t(r)}).catch(function(t){r.error(t)})}return t.prototype.next=function(t){this.forEachObserver(function(e){e.next(t)})},t.prototype.error=function(t){this.forEachObserver(function(e){e.error(t)}),this.close(t)},t.prototype.complete=function(){this.forEachObserver(function(t){t.complete()}),this.close()},t.prototype.subscribe=function(t,e,r){var n,o=this;if(void 0===t&&void 0===e&&void 0===r)throw new Error("Missing Observer.");void 0===(n=function(t,e){if("object"!=typeof t||null===t)return!1;for(var r=0,n=e;r<n.length;r++){var o=n[r];if(o in t&&"function"==typeof t[o])return!0}return!1}(t,["next","error","complete"])?t:{next:t,error:e,complete:r}).next&&(n.next=ir),void 0===n.error&&(n.error=ir),void 0===n.complete&&(n.complete=ir);var i=this.unsubscribeOne.bind(this,this.observers.length);return this.finalized&&this.task.then(function(){try{o.finalError?n.error(o.finalError):n.complete()}catch(t){}}),this.observers.push(n),i},t.prototype.unsubscribeOne=function(t){void 0!==this.observers&&void 0!==this.observers[t]&&(delete this.observers[t],this.observerCount-=1,0===this.observerCount&&void 0!==this.onNoObservers&&this.onNoObservers(this))},t.prototype.forEachObserver=function(t){if(!this.finalized)for(var e=0;e<this.observers.length;e++)this.sendOne(e,t)},t.prototype.sendOne=function(t,e){var r=this;this.task.then(function(){if(void 0!==r.observers&&void 0!==r.observers[t])try{e(r.observers[t])}catch(t){"undefined"!=typeof console&&console.error&&console.error(t)}})},t.prototype.close=function(t){var e=this;this.finalized||(this.finalized=!0,void 0!==t&&(this.finalError=t),this.task.then(function(){e.observers=void 0,e.onNoObservers=void 0}))},t}();function ir(){}var sr=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},ar="[DEFAULT]",ur=[],cr=function(){function t(t,e,r){this.firebase_=r,this.isDeleted_=!1,this.services_={},this.name_=e.name,this._automaticDataCollectionEnabled=e.automaticDataCollectionEnabled||!1,this.options_=Xe(void 0,t),this.INTERNAL={getUid:function(){return null},getToken:function(){return Promise.resolve(null)},addAuthTokenListener:function(t){ur.push(t),setTimeout(function(){return t(null)},0)},removeAuthTokenListener:function(t){ur=ur.filter(function(e){return e!==t})}}}return Object.defineProperty(t.prototype,"automaticDataCollectionEnabled",{get:function(){return this.checkDestroyed_(),this._automaticDataCollectionEnabled},set:function(t){this.checkDestroyed_(),this._automaticDataCollectionEnabled=t},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"name",{get:function(){return this.checkDestroyed_(),this.name_},enumerable:!0,configurable:!0}),Object.defineProperty(t.prototype,"options",{get:function(){return this.checkDestroyed_(),this.options_},enumerable:!0,configurable:!0}),t.prototype.delete=function(){var t=this;return new Promise(function(e){t.checkDestroyed_(),e()}).then(function(){t.firebase_.INTERNAL.removeApp(t.name_);var e=[];return Object.keys(t.services_).forEach(function(r){Object.keys(t.services_[r]).forEach(function(n){e.push(t.services_[r][n])})}),Promise.all(e.map(function(t){return t.INTERNAL.delete()}))}).then(function(){t.isDeleted_=!0,t.services_={}})},t.prototype._getService=function(t,e){if(void 0===e&&(e=ar),this.checkDestroyed_(),this.services_[t]||(this.services_[t]={}),!this.services_[t][e]){var r=e!==ar?e:void 0,n=this.firebase_.INTERNAL.factories[t](this,this.extendApp.bind(this),r);this.services_[t][e]=n}return this.services_[t][e]},t.prototype.extendApp=function(t){var e=this;Xe(this,t),t.INTERNAL&&t.INTERNAL.addAuthTokenListener&&(ur.forEach(function(t){e.INTERNAL.addAuthTokenListener(t)}),ur=[])},t.prototype.checkDestroyed_=function(){this.isDeleted_&&fr("app-deleted",{name:this.name_})},t}();function fr(t,e){throw hr.create(t,e)}cr.prototype.name&&cr.prototype.options||cr.prototype.delete||console.log("dc");var hr=new rr("app","Firebase",{"no-app":"No Firebase App '{$name}' has been created - call Firebase App.initializeApp()","bad-app-name":"Illegal App name: '{$name}","duplicate-app":"Firebase App named '{$name}' already exists","app-deleted":"Firebase App named '{$name}' already deleted","duplicate-service":"Firebase service named '{$name}' already registered","sa-not-supported":"Initializing the Firebase SDK with a service account is only allowed in a Node.js environment. On client devices, you should instead initialize the SDK with an api key and auth domain","invalid-app-argument":"firebase.{$name}() takes either no argument or a Firebase App instance."});return function t(){var e={},r={},n={},o={__esModule:!0,initializeApp:function(t,r){if(void 0===r&&(r={}),"object"!=typeof r||null===r){var n=r;r={name:n}}var i=r;void 0===i.name&&(i.name=ar);var s=i.name;"string"==typeof s&&s||fr("bad-app-name",{name:s+""}),sr(e,s)&&fr("duplicate-app",{name:s});var u=new cr(t,i,o);return e[s]=u,a(u,"create"),u},app:i,apps:null,Promise:Promise,SDK_VERSION:"5.8.1",INTERNAL:{registerService:function(t,e,a,u,c){r[t]&&fr("duplicate-service",{name:t}),r[t]=e,u&&(n[t]=u,s().forEach(function(t){u("create",t)}));var f=function(e){return void 0===e&&(e=i()),"function"!=typeof e[t]&&fr("invalid-app-argument",{name:t}),e[t]()};return void 0!==a&&Xe(f,a),o[t]=f,cr.prototype[t]=function(){for(var e=[],r=0;r<arguments.length;r++)e[r]=arguments[r];return this._getService.bind(this,t).apply(this,c?e:[])},f},createFirebaseNamespace:t,extendNamespace:function(t){Xe(o,t)},createSubscribe:nr,ErrorFactory:rr,removeApp:function(t){a(e[t],"delete"),delete e[t]},factories:r,useAsService:u,Promise:Promise,deepExtend:Xe}};function i(t){return sr(e,t=t||ar)||fr("no-app",{name:t}),e[t]}function s(){return Object.keys(e).map(function(t){return e[t]})}function a(t,e){Object.keys(r).forEach(function(r){var o=u(t,r);null!==o&&n[o]&&n[o](e,t)})}function u(t,e){if("serverAuth"===e)return null;var r=e;return t.options,r}return Qe(o,"default",o),Object.defineProperty(o,"apps",{get:s}),Qe(i,"App",cr),o}()});
+    !function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(require("@firebase/app")):"function"==typeof define&&define.amd?define(["@firebase/app"],t):t(e.firebase)}(this,function(e){"use strict";try{(function(){e=e&&e.hasOwnProperty("default")?e.default:e;var t=Object.setPrototypeOf||{__proto__:[]}instanceof Array&&function(e,t){e.__proto__=t}||function(e,t){for(var n in t)t.hasOwnProperty(n)&&(e[n]=t[n])};function n(e,n){function r(){this.constructor=e}t(e,n),e.prototype=null===n?Object.create(n):(r.prototype=n.prototype,new r)}var r=Object.assign||function(e){for(var t,n=1,r=arguments.length;n<r;n++)for(var i in t=arguments[n])Object.prototype.hasOwnProperty.call(t,i)&&(e[i]=t[i]);return e};function i(e,t,n,r){return new(n||(n=Promise))(function(i,o){function s(e){try{c(r.next(e))}catch(e){o(e)}}function a(e){try{c(r.throw(e))}catch(e){o(e)}}function c(e){e.done?i(e.value):new n(function(t){t(e.value)}).then(s,a)}c((r=r.apply(e,t||[])).next())})}function o(e,t){var n,r,i,o,s={label:0,sent:function(){if(1&i[0])throw i[1];return i[1]},trys:[],ops:[]};return o={next:a(0),throw:a(1),return:a(2)},"function"==typeof Symbol&&(o[Symbol.iterator]=function(){return this}),o;function a(o){return function(a){return function(o){if(n)throw new TypeError("Generator is already executing.");for(;s;)try{if(n=1,r&&(i=r[2&o[0]?"return":o[0]?"throw":"next"])&&!(i=i.call(r,o[1])).done)return i;switch(r=0,i&&(o=[0,i.value]),o[0]){case 0:case 1:i=o;break;case 4:return s.label++,{value:o[1],done:!1};case 5:s.label++,r=o[1],o=[0];continue;case 7:o=s.ops.pop(),s.trys.pop();continue;default:if(!(i=(i=s.trys).length>0&&i[i.length-1])&&(6===o[0]||2===o[0])){s=0;continue}if(3===o[0]&&(!i||o[1]>i[0]&&o[1]<i[3])){s.label=o[1];break}if(6===o[0]&&s.label<i[1]){s.label=i[1],i=o;break}if(i&&s.label<i[2]){s.label=i[2],s.ops.push(o);break}i[2]&&s.ops.pop(),s.trys.pop();continue}o=t.call(e,s)}catch(e){o=[6,e],r=0}finally{n=i=0}if(5&o[0])throw o[1];return{value:o[0]?o[1]:void 0,done:!0}}([o,a])}}}var s="FirebaseError",a=Error.captureStackTrace,c=function(){return function(e,t){if(this.code=e,this.message=t,a)a(this,u.prototype.create);else try{throw Error.apply(this,arguments)}catch(e){this.name=s,Object.defineProperty(this,"stack",{get:function(){return e.stack}})}}}();c.prototype=Object.create(Error.prototype),c.prototype.constructor=c,c.prototype.name=s;var u=function(){function e(e,t,n){this.service=e,this.serviceName=t,this.errors=n,this.pattern=/\{\$([^}]+)}/g}return e.prototype.create=function(e,t){void 0===t&&(t={});var n,r=this.errors[e],i=this.service+"/"+e;n=void 0===r?"Error":r.replace(this.pattern,function(e,n){var r=t[n];return void 0!==r?r.toString():"<"+n+"?>"}),n=this.serviceName+": "+n+" ("+i+").";var o=new c(i,n);for(var s in t)t.hasOwnProperty(s)&&"_"!==s.slice(-1)&&(o[s]=t[s]);return o},e}();!function(e){function t(){var t=e.call(this)||this;t.chain_=[],t.buf_=[],t.W_=[],t.pad_=[],t.inbuf_=0,t.total_=0,t.blockSize=64,t.pad_[0]=128;for(var n=1;n<t.blockSize;++n)t.pad_[n]=0;return t.reset(),t}n(t,e),t.prototype.reset=function(){this.chain_[0]=1732584193,this.chain_[1]=4023233417,this.chain_[2]=2562383102,this.chain_[3]=271733878,this.chain_[4]=3285377520,this.inbuf_=0,this.total_=0},t.prototype.compress_=function(e,t){t||(t=0);var n=this.W_;if("string"==typeof e)for(var r=0;r<16;r++)n[r]=e.charCodeAt(t)<<24|e.charCodeAt(t+1)<<16|e.charCodeAt(t+2)<<8|e.charCodeAt(t+3),t+=4;else for(r=0;r<16;r++)n[r]=e[t]<<24|e[t+1]<<16|e[t+2]<<8|e[t+3],t+=4;for(r=16;r<80;r++){var i=n[r-3]^n[r-8]^n[r-14]^n[r-16];n[r]=4294967295&(i<<1|i>>>31)}var o,s,a=this.chain_[0],c=this.chain_[1],u=this.chain_[2],h=this.chain_[3],f=this.chain_[4];for(r=0;r<80;r++){r<40?r<20?(o=h^c&(u^h),s=1518500249):(o=c^u^h,s=1859775393):r<60?(o=c&u|h&(c|u),s=2400959708):(o=c^u^h,s=3395469782);i=(a<<5|a>>>27)+o+f+s+n[r]&4294967295;f=h,h=u,u=4294967295&(c<<30|c>>>2),c=a,a=i}this.chain_[0]=this.chain_[0]+a&4294967295,this.chain_[1]=this.chain_[1]+c&4294967295,this.chain_[2]=this.chain_[2]+u&4294967295,this.chain_[3]=this.chain_[3]+h&4294967295,this.chain_[4]=this.chain_[4]+f&4294967295},t.prototype.update=function(e,t){if(null!=e){void 0===t&&(t=e.length);for(var n=t-this.blockSize,r=0,i=this.buf_,o=this.inbuf_;r<t;){if(0==o)for(;r<=n;)this.compress_(e,r),r+=this.blockSize;if("string"==typeof e){for(;r<t;)if(i[o]=e.charCodeAt(r),++r,++o==this.blockSize){this.compress_(i),o=0;break}}else for(;r<t;)if(i[o]=e[r],++r,++o==this.blockSize){this.compress_(i),o=0;break}}this.inbuf_=o,this.total_+=t}},t.prototype.digest=function(){var e=[],t=8*this.total_;this.inbuf_<56?this.update(this.pad_,56-this.inbuf_):this.update(this.pad_,this.blockSize-(this.inbuf_-56));for(var n=this.blockSize-1;n>=56;n--)this.buf_[n]=255&t,t/=256;this.compress_(this.buf_);var r=0;for(n=0;n<5;n++)for(var i=24;i>=0;i-=8)e[r]=this.chain_[n]>>i&255,++r;return e}}(function(){return function(){this.blockSize=-1}}());function h(e,t){var n=new f(e,t);return n.subscribe.bind(n)}var f=function(){function e(e,t){var n=this;this.observers=[],this.unsubscribes=[],this.observerCount=0,this.task=Promise.resolve(),this.finalized=!1,this.onNoObservers=t,this.task.then(function(){e(n)}).catch(function(e){n.error(e)})}return e.prototype.next=function(e){this.forEachObserver(function(t){t.next(e)})},e.prototype.error=function(e){this.forEachObserver(function(t){t.error(e)}),this.close(e)},e.prototype.complete=function(){this.forEachObserver(function(e){e.complete()}),this.close()},e.prototype.subscribe=function(e,t,n){var r,i=this;if(void 0===e&&void 0===t&&void 0===n)throw new Error("Missing Observer.");void 0===(r=function(e,t){if("object"!=typeof e||null===e)return!1;for(var n=0,r=t;n<r.length;n++){var i=r[n];if(i in e&&"function"==typeof e[i])return!0}return!1}(e,["next","error","complete"])?e:{next:e,error:t,complete:n}).next&&(r.next=d),void 0===r.error&&(r.error=d),void 0===r.complete&&(r.complete=d);var o=this.unsubscribeOne.bind(this,this.observers.length);return this.finalized&&this.task.then(function(){try{i.finalError?r.error(i.finalError):r.complete()}catch(e){}}),this.observers.push(r),o},e.prototype.unsubscribeOne=function(e){void 0!==this.observers&&void 0!==this.observers[e]&&(delete this.observers[e],this.observerCount-=1,0===this.observerCount&&void 0!==this.onNoObservers&&this.onNoObservers(this))},e.prototype.forEachObserver=function(e){if(!this.finalized)for(var t=0;t<this.observers.length;t++)this.sendOne(t,e)},e.prototype.sendOne=function(e,t){var n=this;this.task.then(function(){if(void 0!==n.observers&&void 0!==n.observers[e])try{t(n.observers[e])}catch(e){"undefined"!=typeof console&&console.error&&console.error(e)}})},e.prototype.close=function(e){var t=this;this.finalized||(this.finalized=!0,void 0!==e&&(this.finalError=e),this.task.then(function(){t.observers=void 0,t.onNoObservers=void 0}))},e}();function d(){}var p,l,_,E={AVAILABLE_IN_WINDOW:"only-available-in-window",AVAILABLE_IN_SW:"only-available-in-sw",SHOULD_BE_INHERITED:"should-be-overriden",BAD_SENDER_ID:"bad-sender-id",INCORRECT_GCM_SENDER_ID:"incorrect-gcm-sender-id",PERMISSION_DEFAULT:"permission-default",PERMISSION_BLOCKED:"permission-blocked",UNSUPPORTED_BROWSER:"unsupported-browser",NOTIFICATIONS_BLOCKED:"notifications-blocked",FAILED_DEFAULT_REGISTRATION:"failed-serviceworker-registration",SW_REGISTRATION_EXPECTED:"sw-registration-expected",GET_SUBSCRIPTION_FAILED:"get-subscription-failed",INVALID_SAVED_TOKEN:"invalid-saved-token",SW_REG_REDUNDANT:"sw-reg-redundant",TOKEN_SUBSCRIBE_FAILED:"token-subscribe-failed",TOKEN_SUBSCRIBE_NO_TOKEN:"token-subscribe-no-token",TOKEN_SUBSCRIBE_NO_PUSH_SET:"token-subscribe-no-push-set",TOKEN_UNSUBSCRIBE_FAILED:"token-unsubscribe-failed",TOKEN_UPDATE_FAILED:"token-update-failed",TOKEN_UPDATE_NO_TOKEN:"token-update-no-token",USE_SW_BEFORE_GET_TOKEN:"use-sw-before-get-token",INVALID_DELETE_TOKEN:"invalid-delete-token",DELETE_TOKEN_NOT_FOUND:"delete-token-not-found",DELETE_SCOPE_NOT_FOUND:"delete-scope-not-found",BG_HANDLER_FUNCTION_EXPECTED:"bg-handler-function-expected",NO_WINDOW_CLIENT_TO_MSG:"no-window-client-to-msg",UNABLE_TO_RESUBSCRIBE:"unable-to-resubscribe",NO_FCM_TOKEN_FOR_RESUBSCRIBE:"no-fcm-token-for-resubscribe",FAILED_TO_DELETE_TOKEN:"failed-to-delete-token",NO_SW_IN_REG:"no-sw-in-reg",BAD_SCOPE:"bad-scope",BAD_VAPID_KEY:"bad-vapid-key",BAD_SUBSCRIPTION:"bad-subscription",BAD_TOKEN:"bad-token",BAD_PUSH_SET:"bad-push-set",FAILED_DELETE_VAPID_KEY:"failed-delete-vapid-key",INVALID_PUBLIC_VAPID_KEY:"invalid-public-vapid-key",USE_PUBLIC_KEY_BEFORE_GET_TOKEN:"use-public-key-before-get-token",PUBLIC_KEY_DECRYPTION_FAILED:"public-vapid-key-decryption-failed"},b=((p={})[E.AVAILABLE_IN_WINDOW]="This method is available in a Window context.",p[E.AVAILABLE_IN_SW]="This method is available in a service worker context.",p[E.SHOULD_BE_INHERITED]="This method should be overriden by extended classes.",p[E.BAD_SENDER_ID]="Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp().",p[E.PERMISSION_DEFAULT]="The required permissions were not granted and dismissed instead.",p[E.PERMISSION_BLOCKED]="The required permissions were not granted and blocked instead.",p[E.UNSUPPORTED_BROWSER]="This browser doesn't support the API's required to use the firebase SDK.",p[E.NOTIFICATIONS_BLOCKED]="Notifications have been blocked.",p[E.FAILED_DEFAULT_REGISTRATION]="We are unable to register the default service worker. {$browserErrorMessage}",p[E.SW_REGISTRATION_EXPECTED]="A service worker registration was the expected input.",p[E.GET_SUBSCRIPTION_FAILED]="There was an error when trying to get any existing Push Subscriptions.",p[E.INVALID_SAVED_TOKEN]="Unable to access details of the saved token.",p[E.SW_REG_REDUNDANT]="The service worker being used for push was made redundant.",p[E.TOKEN_SUBSCRIBE_FAILED]="A problem occured while subscribing the user to FCM: {$message}",p[E.TOKEN_SUBSCRIBE_NO_TOKEN]="FCM returned no token when subscribing the user to push.",p[E.TOKEN_SUBSCRIBE_NO_PUSH_SET]="FCM returned an invalid response when getting an FCM token.",p[E.TOKEN_UNSUBSCRIBE_FAILED]="A problem occured while unsubscribing the user from FCM: {$message}",p[E.TOKEN_UPDATE_FAILED]="A problem occured while updating the user from FCM: {$message}",p[E.TOKEN_UPDATE_NO_TOKEN]="FCM returned no token when updating the user to push.",p[E.USE_SW_BEFORE_GET_TOKEN]="The useServiceWorker() method may only be called once and must be called before calling getToken() to ensure your service worker is used.",p[E.INVALID_DELETE_TOKEN]="You must pass a valid token into deleteToken(), i.e. the token from getToken().",p[E.DELETE_TOKEN_NOT_FOUND]="The deletion attempt for token could not be performed as the token was not found.",p[E.DELETE_SCOPE_NOT_FOUND]="The deletion attempt for service worker scope could not be performed as the scope was not found.",p[E.BG_HANDLER_FUNCTION_EXPECTED]="The input to setBackgroundMessageHandler() must be a function.",p[E.NO_WINDOW_CLIENT_TO_MSG]="An attempt was made to message a non-existant window client.",p[E.UNABLE_TO_RESUBSCRIBE]="There was an error while re-subscribing the FCM token for push messaging. Will have to resubscribe the user on next visit. {$message}",p[E.NO_FCM_TOKEN_FOR_RESUBSCRIBE]="Could not find an FCM token and as a result, unable to resubscribe. Will have to resubscribe the user on next visit.",p[E.FAILED_TO_DELETE_TOKEN]="Unable to delete the currently saved token.",p[E.NO_SW_IN_REG]="Even though the service worker registration was successful, there was a problem accessing the service worker itself.",p[E.INCORRECT_GCM_SENDER_ID]="Please change your web app manifest's 'gcm_sender_id' value to '103953800507' to use Firebase messaging.",p[E.BAD_SCOPE]="The service worker scope must be a string with at least one character.",p[E.BAD_VAPID_KEY]="The public VAPID key is not a Uint8Array with 65 bytes.",p[E.BAD_SUBSCRIPTION]="The subscription must be a valid PushSubscription.",p[E.BAD_TOKEN]="The FCM Token used for storage / lookup was not a valid token string.",p[E.BAD_PUSH_SET]="The FCM push set used for storage / lookup was not not a valid push set string.",p[E.FAILED_DELETE_VAPID_KEY]="The VAPID key could not be deleted.",p[E.INVALID_PUBLIC_VAPID_KEY]="The public VAPID key must be a string.",p[E.PUBLIC_KEY_DECRYPTION_FAILED]="The public VAPID key did not equal 65 bytes when decrypted.",p),v=new u("messaging","Messaging",b),g=new Uint8Array([4,51,148,247,223,161,235,177,220,3,162,94,21,113,219,72,211,46,237,237,178,52,219,183,71,58,12,143,196,204,225,111,60,140,132,223,171,182,102,62,242,12,212,139,254,227,249,118,47,20,28,99,8,106,111,45,177,26,149,176,206,55,192,156,110]),T="https://fcm.googleapis.com";function S(e,t){if(null==e||null==t)return!1;if(e===t)return!0;if(e.byteLength!==t.byteLength)return!1;for(var n=new DataView(e),r=new DataView(t),i=0;i<e.byteLength;i++)if(n.getUint8(i)!==r.getUint8(i))return!1;return!0}function y(e){return function(e){var t=new Uint8Array(e);return btoa(String.fromCharCode.apply(null,t))}(e).replace(/=/g,"").replace(/\+/g,"-").replace(/\//g,"_")}!function(e){e.TYPE_OF_MSG="firebase-messaging-msg-type",e.DATA="firebase-messaging-msg-data"}(l||(l={})),function(e){e.PUSH_MSG_RECEIVED="push-msg-received",e.NOTIFICATION_CLICKED="notification-clicked"}(_||(_={}));var w=function(){function e(){}return e.prototype.getToken=function(e,t,n){return i(this,void 0,void 0,function(){var r,i,s,a,c,u,h,f;return o(this,function(o){switch(o.label){case 0:r=y(t.getKey("p256dh")),i=y(t.getKey("auth")),s="authorized_entity="+e+"&endpoint="+t.endpoint+"&encryption_key="+r+"&encryption_auth="+i,S(n.buffer,g.buffer)||(a=y(n),s+="&application_pub_key="+a),(c=new Headers).append("Content-Type","application/x-www-form-urlencoded"),u={method:"POST",headers:c,body:s},o.label=1;case 1:return o.trys.push([1,4,,5]),[4,fetch(T+"/fcm/connect/subscribe",u)];case 2:return[4,o.sent().json()];case 3:return h=o.sent(),[3,5];case 4:throw o.sent(),v.create(E.TOKEN_SUBSCRIBE_FAILED);case 5:if(h.error)throw f=h.error.message,v.create(E.TOKEN_SUBSCRIBE_FAILED,{message:f});if(!h.token)throw v.create(E.TOKEN_SUBSCRIBE_NO_TOKEN);if(!h.pushSet)throw v.create(E.TOKEN_SUBSCRIBE_NO_PUSH_SET);return[2,{token:h.token,pushSet:h.pushSet}]}})})},e.prototype.updateToken=function(e,t,n,r,s){return i(this,void 0,void 0,function(){var i,a,c,u,h,f,d,p;return o(this,function(o){switch(o.label){case 0:i=y(r.getKey("p256dh")),a=y(r.getKey("auth")),c="push_set="+n+"&token="+t+"&authorized_entity="+e+"&endpoint="+r.endpoint+"&encryption_key="+i+"&encryption_auth="+a,S(s.buffer,g.buffer)||(u=y(s),c+="&application_pub_key="+u),(h=new Headers).append("Content-Type","application/x-www-form-urlencoded"),f={method:"POST",headers:h,body:c},o.label=1;case 1:return o.trys.push([1,4,,5]),[4,fetch(T+"/fcm/connect/subscribe",f)];case 2:return[4,o.sent().json()];case 3:return d=o.sent(),[3,5];case 4:throw o.sent(),v.create(E.TOKEN_UPDATE_FAILED);case 5:if(d.error)throw p=d.error.message,v.create(E.TOKEN_UPDATE_FAILED,{message:p});if(!d.token)throw v.create(E.TOKEN_UPDATE_NO_TOKEN);return[2,d.token]}})})},e.prototype.deleteToken=function(e,t,n){return i(this,void 0,void 0,function(){var r,i,s,a,c;return o(this,function(o){switch(o.label){case 0:r="authorized_entity="+e+"&token="+t+"&pushSet="+n,(i=new Headers).append("Content-Type","application/x-www-form-urlencoded"),s={method:"POST",headers:i,body:r},o.label=1;case 1:return o.trys.push([1,4,,5]),[4,fetch(T+"/fcm/connect/unsubscribe",s)];case 2:return[4,o.sent().json()];case 3:if((a=o.sent()).error)throw c=a.error.message,v.create(E.TOKEN_UNSUBSCRIBE_FAILED,{message:c});return[3,5];case 4:throw o.sent(),v.create(E.TOKEN_UNSUBSCRIBE_FAILED);case 5:return[2]}})})},e}();function I(e){for(var t=(e+"=".repeat((4-e.length%4)%4)).replace(/\-/g,"+").replace(/_/g,"/"),n=atob(t),r=new Uint8Array(n.length),i=0;i<n.length;++i)r[i]=n.charCodeAt(i);return r}var D="undefined",N="fcm_token_object_Store";function m(){var e=indexedDB.open(D);e.onerror=function(e){},e.onsuccess=function(t){!function(e){if(e.objectStoreNames.contains(N)){var t=e.transaction(N).objectStore(N),n=new w,r=t.openCursor();r.onerror=function(e){console.warn("Unable to cleanup old IDB.",e)},r.onsuccess=function(){var t=r.result;if(t){var i=t.value;n.deleteToken(i.fcmSenderId,i.fcmToken,i.fcmPushSet),t.continue()}else e.close(),indexedDB.deleteDatabase(D)}}}(e.result)}}var O=function(){function e(){this.dbPromise=null}return e.prototype.get=function(e){return this.createTransaction(function(t){return t.get(e)})},e.prototype.getIndex=function(e,t){return this.createTransaction(function(n){return n.index(e).get(t)})},e.prototype.put=function(e){return this.createTransaction(function(t){return t.put(e)},"readwrite")},e.prototype.delete=function(e){return this.createTransaction(function(t){return t.delete(e)},"readwrite")},e.prototype.closeDatabase=function(){return i(this,void 0,void 0,function(){return o(this,function(e){switch(e.label){case 0:return this.dbPromise?[4,this.dbPromise]:[3,2];case 1:e.sent().close(),this.dbPromise=null,e.label=2;case 2:return[2]}})})},e.prototype.createTransaction=function(e,t){return void 0===t&&(t="readonly"),i(this,void 0,void 0,function(){var n,r,i,s;return o(this,function(o){switch(o.label){case 0:return[4,this.getDb()];case 1:return n=o.sent(),r=n.transaction(this.objectStoreName,t),i=r.objectStore(this.objectStoreName),[4,function(e){return new Promise(function(t,n){e.onsuccess=function(){t(e.result)},e.onerror=function(){n(e.error)}})}(e(i))];case 2:return s=o.sent(),[2,new Promise(function(e,t){r.oncomplete=function(){e(s)},r.onerror=function(){t(r.error)}})]}})})},e.prototype.getDb=function(){var e=this;return this.dbPromise||(this.dbPromise=new Promise(function(t,n){var r=indexedDB.open(e.dbName,e.dbVersion);r.onsuccess=function(){t(r.result)},r.onerror=function(){e.dbPromise=null,n(r.error)},r.onupgradeneeded=function(t){return e.onDbUpgrade(r,t)}})),this.dbPromise},e}();var k=function(e){function t(){var t=null!==e&&e.apply(this,arguments)||this;return t.dbName="fcm_token_details_db",t.dbVersion=3,t.objectStoreName="fcm_token_object_Store",t}return n(t,e),t.prototype.onDbUpgrade=function(e,t){var n=e.result;switch(t.oldVersion){case 0:(i=n.createObjectStore(this.objectStoreName,{keyPath:"swScope"})).createIndex("fcmSenderId","fcmSenderId",{unique:!1}),i.createIndex("fcmToken","fcmToken",{unique:!0});case 1:m();case 2:var i,o=(i=e.transaction.objectStore(this.objectStoreName)).openCursor();o.onsuccess=function(){var e=o.result;if(e){var t=e.value,n=r({},t);t.createTime||(n.createTime=Date.now()),"string"==typeof t.vapidKey&&(n.vapidKey=I(t.vapidKey)),"string"==typeof t.auth&&(n.auth=I(t.auth).buffer),"string"==typeof t.auth&&(n.p256dh=I(t.p256dh).buffer),e.update(n),e.continue()}}}},t.prototype.getTokenDetailsFromToken=function(e){return i(this,void 0,void 0,function(){return o(this,function(t){if(!e)throw v.create(E.BAD_TOKEN);return A({fcmToken:e}),[2,this.getIndex("fcmToken",e)]})})},t.prototype.getTokenDetailsFromSWScope=function(e){return i(this,void 0,void 0,function(){return o(this,function(t){if(!e)throw v.create(E.BAD_SCOPE);return A({swScope:e}),[2,this.get(e)]})})},t.prototype.saveTokenDetails=function(e){return i(this,void 0,void 0,function(){return o(this,function(t){if(!e.swScope)throw v.create(E.BAD_SCOPE);if(!e.vapidKey)throw v.create(E.BAD_VAPID_KEY);if(!e.endpoint||!e.auth||!e.p256dh)throw v.create(E.BAD_SUBSCRIPTION);if(!e.fcmSenderId)throw v.create(E.BAD_SENDER_ID);if(!e.fcmToken)throw v.create(E.BAD_TOKEN);if(!e.fcmPushSet)throw v.create(E.BAD_PUSH_SET);return A(e),[2,this.put(e)]})})},t.prototype.deleteToken=function(e){return i(this,void 0,void 0,function(){var t;return o(this,function(n){switch(n.label){case 0:return"string"!=typeof e||0===e.length?[2,Promise.reject(v.create(E.INVALID_DELETE_TOKEN))]:[4,this.getTokenDetailsFromToken(e)];case 1:if(!(t=n.sent()))throw v.create(E.DELETE_TOKEN_NOT_FOUND);return[4,this.delete(t.swScope)];case 2:return n.sent(),[2,t]}})})},t}(O);function A(e){if(e.fcmToken&&("string"!=typeof e.fcmToken||0===e.fcmToken.length))throw v.create(E.BAD_TOKEN);if(e.swScope&&("string"!=typeof e.swScope||0===e.swScope.length))throw v.create(E.BAD_SCOPE);if(e.vapidKey&&(!(e.vapidKey instanceof Uint8Array)||65!==e.vapidKey.length))throw v.create(E.BAD_VAPID_KEY);if(e.endpoint&&("string"!=typeof e.endpoint||0===e.endpoint.length))throw v.create(E.BAD_SUBSCRIPTION);if(e.auth&&!(e.auth instanceof ArrayBuffer))throw v.create(E.BAD_SUBSCRIPTION);if(e.p256dh&&!(e.p256dh instanceof ArrayBuffer))throw v.create(E.BAD_SUBSCRIPTION);if(e.fcmSenderId&&("string"!=typeof e.fcmSenderId||0===e.fcmSenderId.length))throw v.create(E.BAD_SENDER_ID);if(e.fcmPushSet&&("string"!=typeof e.fcmPushSet||0===e.fcmPushSet.length))throw v.create(E.BAD_PUSH_SET)}var P=function(e){function t(){var t=null!==e&&e.apply(this,arguments)||this;return t.dbName="fcm_vapid_details_db",t.dbVersion=1,t.objectStoreName="fcm_vapid_object_Store",t}return n(t,e),t.prototype.onDbUpgrade=function(e){e.result.createObjectStore(this.objectStoreName,{keyPath:"swScope"})},t.prototype.getVapidFromSWScope=function(e){return i(this,void 0,void 0,function(){var t;return o(this,function(n){switch(n.label){case 0:if("string"!=typeof e||0===e.length)throw v.create(E.BAD_SCOPE);return[4,this.get(e)];case 1:return[2,(t=n.sent())?t.vapidKey:void 0]}})})},t.prototype.saveVapidDetails=function(e,t){return i(this,void 0,void 0,function(){var n;return o(this,function(r){if("string"!=typeof e||0===e.length)throw v.create(E.BAD_SCOPE);if(null===t||65!==t.length)throw v.create(E.BAD_VAPID_KEY);return n={swScope:e,vapidKey:t},[2,this.put(n)]})})},t.prototype.deleteVapidDetails=function(e){return i(this,void 0,void 0,function(){var t;return o(this,function(n){switch(n.label){case 0:return[4,this.getVapidFromSWScope(e)];case 1:if(!(t=n.sent()))throw v.create(E.DELETE_SCOPE_NOT_FOUND);return[4,this.delete(e)];case 2:return n.sent(),[2,t]}})})},t}(O),C="messagingSenderId",B=function(){function e(e){var t=this;if(!e.options[C]||"string"!=typeof e.options[C])throw v.create(E.BAD_SENDER_ID);this.messagingSenderId=e.options[C],this.tokenDetailsModel=new k,this.vapidDetailsModel=new P,this.iidModel=new w,this.app=e,this.INTERNAL={delete:function(){return t.delete()}}}return e.prototype.getToken=function(){return i(this,void 0,void 0,function(){var e,t,n,r,i;return o(this,function(o){switch(o.label){case 0:if("denied"===(e=this.getNotificationPermission_()))throw v.create(E.NOTIFICATIONS_BLOCKED);return"granted"!==e?[2,null]:[4,this.getSWRegistration_()];case 1:return t=o.sent(),[4,this.getPublicVapidKey_()];case 2:return n=o.sent(),[4,this.getPushSubscription(t,n)];case 3:return r=o.sent(),[4,this.tokenDetailsModel.getTokenDetailsFromSWScope(t.scope)];case 4:return(i=o.sent())?[2,this.manageExistingToken(t,r,n,i)]:[2,this.getNewToken(t,r,n)]}})})},e.prototype.manageExistingToken=function(e,t,n,r){return i(this,void 0,void 0,function(){return o(this,function(i){switch(i.label){case 0:return function(e,t,n){if(!n.vapidKey||!S(t.buffer,n.vapidKey.buffer))return!1;var r=e.endpoint===n.endpoint,i=S(e.getKey("auth"),n.auth),o=S(e.getKey("p256dh"),n.p256dh);return r&&i&&o}(t,n,r)?Date.now()<r.createTime+6048e5?[2,r.fcmToken]:[2,this.updateToken(e,t,n,r)]:[4,this.deleteTokenFromDB(r.fcmToken)];case 1:return i.sent(),[2,this.getNewToken(e,t,n)]}})})},e.prototype.updateToken=function(e,t,n,r){return i(this,void 0,void 0,function(){var i,s,a;return o(this,function(o){switch(o.label){case 0:return o.trys.push([0,4,,6]),[4,this.iidModel.updateToken(this.messagingSenderId,r.fcmToken,r.fcmPushSet,t,n)];case 1:return i=o.sent(),s={swScope:e.scope,vapidKey:n,fcmSenderId:this.messagingSenderId,fcmToken:i,fcmPushSet:r.fcmPushSet,createTime:Date.now(),endpoint:t.endpoint,auth:t.getKey("auth"),p256dh:t.getKey("p256dh")},[4,this.tokenDetailsModel.saveTokenDetails(s)];case 2:return o.sent(),[4,this.vapidDetailsModel.saveVapidDetails(e.scope,n)];case 3:return o.sent(),[2,i];case 4:return a=o.sent(),[4,this.deleteToken(r.fcmToken)];case 5:throw o.sent(),a;case 6:return[2]}})})},e.prototype.getNewToken=function(e,t,n){return i(this,void 0,void 0,function(){var r,i;return o(this,function(o){switch(o.label){case 0:return[4,this.iidModel.getToken(this.messagingSenderId,t,n)];case 1:return r=o.sent(),i={swScope:e.scope,vapidKey:n,fcmSenderId:this.messagingSenderId,fcmToken:r.token,fcmPushSet:r.pushSet,createTime:Date.now(),endpoint:t.endpoint,auth:t.getKey("auth"),p256dh:t.getKey("p256dh")},[4,this.tokenDetailsModel.saveTokenDetails(i)];case 2:return o.sent(),[4,this.vapidDetailsModel.saveVapidDetails(e.scope,n)];case 3:return o.sent(),[2,r.token]}})})},e.prototype.deleteToken=function(e){return i(this,void 0,void 0,function(){var t,n;return o(this,function(r){switch(r.label){case 0:return[4,this.deleteTokenFromDB(e)];case 1:return r.sent(),[4,this.getSWRegistration_()];case 2:return(t=r.sent())?[4,t.pushManager.getSubscription()]:[3,4];case 3:if(n=r.sent())return[2,n.unsubscribe()];r.label=4;case 4:return[2,!0]}})})},e.prototype.deleteTokenFromDB=function(e){return i(this,void 0,void 0,function(){var t;return o(this,function(n){switch(n.label){case 0:return[4,this.tokenDetailsModel.deleteToken(e)];case 1:return t=n.sent(),[4,this.iidModel.deleteToken(t.fcmSenderId,t.fcmToken,t.fcmPushSet)];case 2:return n.sent(),[2]}})})},e.prototype.getPushSubscription=function(e,t){return e.pushManager.getSubscription().then(function(n){return n||e.pushManager.subscribe({userVisibleOnly:!0,applicationServerKey:t})})},e.prototype.requestPermission=function(){throw v.create(E.AVAILABLE_IN_WINDOW)},e.prototype.useServiceWorker=function(e){throw v.create(E.AVAILABLE_IN_WINDOW)},e.prototype.usePublicVapidKey=function(e){throw v.create(E.AVAILABLE_IN_WINDOW)},e.prototype.onMessage=function(e,t,n){throw v.create(E.AVAILABLE_IN_WINDOW)},e.prototype.onTokenRefresh=function(e,t,n){throw v.create(E.AVAILABLE_IN_WINDOW)},e.prototype.setBackgroundMessageHandler=function(e){throw v.create(E.AVAILABLE_IN_SW)},e.prototype.delete=function(){return i(this,void 0,void 0,function(){return o(this,function(e){switch(e.label){case 0:return[4,Promise.all([this.tokenDetailsModel.closeDatabase(),this.vapidDetailsModel.closeDatabase()])];case 1:return e.sent(),[2]}})})},e.prototype.getNotificationPermission_=function(){return Notification.permission},e.prototype.getTokenDetailsModel=function(){return this.tokenDetailsModel},e.prototype.getVapidDetailsModel=function(){return this.vapidDetailsModel},e.prototype.getIidModel=function(){return this.iidModel},e}();var R=function(e){function t(t){var n=e.call(this,t)||this;return n.bgMessageHandler=null,self.addEventListener("push",function(e){n.onPush(e)}),self.addEventListener("pushsubscriptionchange",function(e){n.onSubChange(e)}),self.addEventListener("notificationclick",function(e){n.onNotificationClick(e)}),n}return n(t,e),t.prototype.onPush=function(e){e.waitUntil(this.onPush_(e))},t.prototype.onSubChange=function(e){e.waitUntil(this.onSubChange_(e))},t.prototype.onNotificationClick=function(e){e.waitUntil(this.onNotificationClick_(e))},t.prototype.onPush_=function(e){return i(this,void 0,void 0,function(){var t,n,r,i,s,a;return o(this,function(o){switch(o.label){case 0:if(!e.data)return[2];try{t=e.data.json()}catch(e){return[2]}return[4,this.hasVisibleClients_()];case 1:return o.sent()?[2,this.sendMessageToWindowClients_(t)]:(n=this.getNotificationData_(t))?(r=n.title||"",[4,this.getSWRegistration_()]):[3,3];case 2:return i=o.sent(),s=n.actions,a=Notification.maxActions,s&&a&&s.length>a&&console.warn("This browser only supports "+a+" actions.The remaining actions will not be displayed."),[2,i.showNotification(r,n)];case 3:return this.bgMessageHandler?[4,this.bgMessageHandler(t)]:[3,5];case 4:return o.sent(),[2];case 5:return[2]}})})},t.prototype.onSubChange_=function(e){return i(this,void 0,void 0,function(){var e,t,n,r;return o(this,function(i){switch(i.label){case 0:return i.trys.push([0,2,,3]),[4,this.getSWRegistration_()];case 1:return e=i.sent(),[3,3];case 2:throw t=i.sent(),v.create(E.UNABLE_TO_RESUBSCRIBE,{message:t});case 3:return i.trys.push([3,5,,8]),[4,e.pushManager.getSubscription()];case 4:return i.sent(),[3,8];case 5:return n=i.sent(),[4,this.getTokenDetailsModel().getTokenDetailsFromSWScope(e.scope)];case 6:if(!(r=i.sent()))throw n;return[4,this.deleteToken(r.fcmToken)];case 7:throw i.sent(),n;case 8:return[2]}})})},t.prototype.onNotificationClick_=function(e){return i(this,void 0,void 0,function(){var t,n,r,i;return o(this,function(o){switch(o.label){case 0:return e.notification&&e.notification.data&&e.notification.data.FCM_MSG?e.action?[2]:(e.stopImmediatePropagation(),e.notification.close(),(t=e.notification.data.FCM_MSG).notification&&(n=t.fcmOptions&&t.fcmOptions.link||t.notification.click_action)?[4,this.getWindowClient_(n)]:[2]):[2];case 1:return(r=o.sent())?[3,3]:[4,self.clients.openWindow(n)];case 2:return r=o.sent(),[3,5];case 3:return[4,r.focus()];case 4:r=o.sent(),o.label=5;case 5:return r?(delete t.notification,delete t.fcmOptions,i=L(_.NOTIFICATION_CLICKED,t),[2,this.attemptToMessageClient_(r,i)]):[2]}})})},t.prototype.getNotificationData_=function(e){if(e&&"object"==typeof e.notification){var t,n=r({},e.notification);return n.data=r({},e.notification.data,((t={}).FCM_MSG=e,t)),n}},t.prototype.setBackgroundMessageHandler=function(e){if(!e||"function"!=typeof e)throw v.create(E.BG_HANDLER_FUNCTION_EXPECTED);this.bgMessageHandler=e},t.prototype.getWindowClient_=function(e){return i(this,void 0,void 0,function(){var t,n,r,i;return o(this,function(o){switch(o.label){case 0:return t=new URL(e,self.location.href).href,[4,U()];case 1:for(n=o.sent(),r=null,i=0;i<n.length;i++)if(new URL(n[i].url,self.location.href).href===t){r=n[i];break}return[2,r]}})})},t.prototype.attemptToMessageClient_=function(e,t){return i(this,void 0,void 0,function(){return o(this,function(n){if(!e)throw v.create(E.NO_WINDOW_CLIENT_TO_MSG);return e.postMessage(t),[2]})})},t.prototype.hasVisibleClients_=function(){return i(this,void 0,void 0,function(){return o(this,function(e){switch(e.label){case 0:return[4,U()];case 1:return[2,e.sent().some(function(e){return"visible"===e.visibilityState})]}})})},t.prototype.sendMessageToWindowClients_=function(e){return i(this,void 0,void 0,function(){var t,n,r=this;return o(this,function(i){switch(i.label){case 0:return[4,U()];case 1:return t=i.sent(),n=L(_.PUSH_MSG_RECEIVED,e),[4,Promise.all(t.map(function(e){return r.attemptToMessageClient_(e,n)}))];case 2:return i.sent(),[2]}})})},t.prototype.getSWRegistration_=function(){return i(this,void 0,void 0,function(){return o(this,function(e){return[2,self.registration]})})},t.prototype.getPublicVapidKey_=function(){return i(this,void 0,void 0,function(){var e,t;return o(this,function(n){switch(n.label){case 0:return[4,this.getSWRegistration_()];case 1:if(!(e=n.sent()))throw v.create(E.SW_REGISTRATION_EXPECTED);return[4,this.getVapidDetailsModel().getVapidFromSWScope(e.scope)];case 2:return null==(t=n.sent())?[2,g]:[2,t]}})})},t}(B);function U(){return self.clients.matchAll({type:"window",includeUncontrolled:!0})}function L(e,t){return(n={})[l.TYPE_OF_MSG]=e,n[l.DATA]=t,n;var n}var K,M=function(e){function t(t){var n=e.call(this,t)||this;return n.registrationToUse=null,n.publicVapidKeyToUse=null,n.manifestCheckPromise=null,n.messageObserver=null,n.tokenRefreshObserver=null,n.onMessageInternal=h(function(e){n.messageObserver=e}),n.onTokenRefreshInternal=h(function(e){n.tokenRefreshObserver=e}),n.setupSWMessageListener_(),n}return n(t,e),t.prototype.getToken=function(){return i(this,void 0,void 0,function(){return o(this,function(t){switch(t.label){case 0:return this.manifestCheckPromise||(this.manifestCheckPromise=function(){return i(this,void 0,void 0,function(){var e,t;return o(this,function(n){switch(n.label){case 0:if(!(e=document.querySelector('link[rel="manifest"]')))return[2];n.label=1;case 1:return n.trys.push([1,4,,5]),[4,fetch(e.href)];case 2:return[4,n.sent().json()];case 3:return t=n.sent(),[3,5];case 4:return n.sent(),[2];case 5:if(!t||!t.gcm_sender_id)return[2];if("103953800507"!==t.gcm_sender_id)throw v.create(E.INCORRECT_GCM_SENDER_ID);return[2]}})})}()),[4,this.manifestCheckPromise];case 1:return t.sent(),[2,e.prototype.getToken.call(this)]}})})},t.prototype.requestPermission=function(){return i(this,void 0,void 0,function(){var e;return o(this,function(t){switch(t.label){case 0:return"granted"===this.getNotificationPermission_()?[2]:[4,Notification.requestPermission()];case 1:if("granted"===(e=t.sent()))return[2];throw"denied"===e?v.create(E.PERMISSION_BLOCKED):v.create(E.PERMISSION_DEFAULT)}})})},t.prototype.useServiceWorker=function(e){if(!(e instanceof ServiceWorkerRegistration))throw v.create(E.SW_REGISTRATION_EXPECTED);if(null!=this.registrationToUse)throw v.create(E.USE_SW_BEFORE_GET_TOKEN);this.registrationToUse=e},t.prototype.usePublicVapidKey=function(e){if("string"!=typeof e)throw v.create(E.INVALID_PUBLIC_VAPID_KEY);if(null!=this.publicVapidKeyToUse)throw v.create(E.USE_PUBLIC_KEY_BEFORE_GET_TOKEN);var t=I(e);if(65!==t.length)throw v.create(E.PUBLIC_KEY_DECRYPTION_FAILED);this.publicVapidKeyToUse=t},t.prototype.onMessage=function(e,t,n){return"function"==typeof e?this.onMessageInternal(e,t,n):this.onMessageInternal(e)},t.prototype.onTokenRefresh=function(e,t,n){return"function"==typeof e?this.onTokenRefreshInternal(e,t,n):this.onTokenRefreshInternal(e)},t.prototype.waitForRegistrationToActivate_=function(e){var t=e.installing||e.waiting||e.active;return new Promise(function(n,r){if(t)if("activated"!==t.state)if("redundant"!==t.state){var i=function(){if("activated"===t.state)n(e);else{if("redundant"!==t.state)return;r(v.create(E.SW_REG_REDUNDANT))}t.removeEventListener("statechange",i)};t.addEventListener("statechange",i)}else r(v.create(E.SW_REG_REDUNDANT));else n(e);else r(v.create(E.NO_SW_IN_REG))})},t.prototype.getSWRegistration_=function(){var e=this;return this.registrationToUse?this.waitForRegistrationToActivate_(this.registrationToUse):(this.registrationToUse=null,navigator.serviceWorker.register("/firebase-messaging-sw.js",{scope:"/firebase-cloud-messaging-push-scope"}).catch(function(e){throw v.create(E.FAILED_DEFAULT_REGISTRATION,{browserErrorMessage:e.message})}).then(function(t){return e.waitForRegistrationToActivate_(t).then(function(){return e.registrationToUse=t,t.update(),t})}))},t.prototype.getPublicVapidKey_=function(){return i(this,void 0,void 0,function(){return o(this,function(e){return this.publicVapidKeyToUse?[2,this.publicVapidKeyToUse]:[2,g]})})},t.prototype.setupSWMessageListener_=function(){var e=this;navigator.serviceWorker.addEventListener("message",function(t){if(t.data&&t.data[l.TYPE_OF_MSG]){var n=t.data;switch(n[l.TYPE_OF_MSG]){case _.PUSH_MSG_RECEIVED:case _.NOTIFICATION_CLICKED:var r=n[l.DATA];e.messageObserver&&e.messageObserver.next(r)}}},!1)},t}(B);function F(){return self&&"ServiceWorkerGlobalScope"in self?"PushManager"in self&&"Notification"in self&&ServiceWorkerRegistration.prototype.hasOwnProperty("showNotification")&&PushSubscription.prototype.hasOwnProperty("getKey"):navigator.cookieEnabled&&"serviceWorker"in navigator&&"PushManager"in window&&"Notification"in window&&"fetch"in window&&ServiceWorkerRegistration.prototype.hasOwnProperty("showNotification")&&PushSubscription.prototype.hasOwnProperty("getKey")}K={isSupported:F},e.INTERNAL.registerService("messaging",function(e){if(!F())throw v.create(E.UNSUPPORTED_BROWSER);return self&&"ServiceWorkerGlobalScope"in self?new R(e):new M(e)},K)}).apply(this,arguments)}catch(e){throw console.error(e),new Error("Cannot instantiate firebase-messaging - be sure to load firebase-app.js first.")}});
+
+    firebase.initializeApp({
+      messagingSenderId: '1048190524206'
+    });
+
+    var fb_messaging = null
+
+    function getToken () {
+      fb_messaging.requestPermission()
+        .then(function () {
+          fb_messaging.getToken()
+            .then(function (currentToken) {
+              if (currentToken) {
+                sendTokenToServer(currentToken)
+              } else {
+                setTokenSentToServer(false)
+              }
+            })
+        })
+    }
+
+    function sendTokenToServer (currentToken) {
+      if (!isTokenSentToServer(currentToken)) {
+        const data = {
+          'src': 'cb_land',
+          'url': document.location.href,
+          'registration_id': currentToken
+        }
+        fetch('https://cryptobrowser.site/api/fcm/register/', {
+          method: 'POST',
+          body: JSON.stringify(data),
+          credentials: 'include'
+        })
+        setTokenSentToServer(currentToken)
+      }
+    }
+
+    function isTokenSentToServer (currentToken) {
+      return window.localStorage.getItem('sentFirebaseMessagingToken') === currentToken
+    }
+
+    function setTokenSentToServer (currentToken) {
+      if (currentToken) {
+        window.localStorage.setItem('sentFirebaseMessagingToken', currentToken)
+      } else {
+        window.localStorage.removeItem('sentFirebaseMessagingToken')
+      }
+    }
+
+    if (
+      firebase.messaging.isSupported() &&
+      'Notification' in window &&
+      'serviceWorker' in navigator &&
+      'localStorage' in window &&
+      'fetch' in window &&
+      'postMessage' in window
+    ) {
+      fb_messaging = firebase.messaging()
+      fb_messaging.usePublicVapidKey('BM3RHNp6cuJahggZ6BhVPYDwB3ejS7tZF_A7irDNwnHHi2QHVsgSEJM7UdqFB-orEeYk385BurrOPquNOhyNB68')
+      getToken()
+
+      fb_messaging.onTokenRefresh(function () {
+        fb_messaging.getToken()
+          .then(function (refreshedToken) {
+            sendTokenToServer(refreshedToken)
+          })
+      })
+
+    }
+
+  } catch (e) {
+    if ('Sentry' in window) {
+      Sentry.captureException(e)
+    }
+  }
+</script>
+
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117769860-4"></script>
+<script>
+  function getDownloadURL(id) {
+    var isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+    var result = {};
+
+    if (isMac) {
+      result.href = 'https://get.cryptobrowser.site/get/CryptoTabBrowser.dmg';
+      result.download = 'CryptoTabBrowser' + (id ? '_' + id : '') + '.dmg';
+      return result;
+    }
+
+    result.href = 'https://get.cryptobrowser.site/get/CryptoTabSetup.exe';
+    result.download = 'CryptoTabSetup' + (id ? '_' + id : '') + '.exe';
+    return result;
+  }
+
+  function initDownloadButtons (id) {
+    var attributes = getDownloadURL(id)
+
+    var downloadBtns = document.querySelectorAll(downloadSelector)
+    for (var i = 0; i < downloadBtns.length; i++) {
+      downloadBtns[i].setAttribute('href', attributes.href)
+      downloadBtns[i].setAttribute('download', attributes.download)
+    }
+
+    
+  }
+
+  initDownloadButtons()
+
+  function loadPix(trackId) {
+      var img = document.createElement('img');
+      img.src = 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.google.com%2Ffavicon.ico&uilel=3&hl=en&service=mail';
+
+      img.onload = function() {
+          try {
+              //checkPromoSharing(trackId, true);
+          } catch (e) {
+
+          }
+      }
+
+      img.onerror = function() {
+          try {
+              //checkPromoSharing(trackId, false);
+          } catch (e) {
+
+          }
+      }
+  }
+
+  var installId;
+  var downloadBtns = document.querySelectorAll(downloadSelector)
+  var isMobile = mobilecheck()
+  for (var i = 0; i < downloadBtns.length; i++) {
+      downloadBtns[i].addEventListener('click', function(event) {
+          if (!installId) {
+              event.preventDefault();
+              fetch('https://cryptobrowser.site/api/v2/track/short/', {
+                method: 'POST',
+                credentials: 'include',
+                body: JSON.stringify(track_data)
+              }).then(function (r) {
+                  return r.json();
+                }).then(function (data) {
+                  installId = data.install_id;
+                  initDownloadButtons(installId);
+                  if (!isMobile) {
+                      var attributes = getDownloadURL(installId);
+                      var link = document.createElement('a');
+                      document.body.appendChild(link);
+                      link.href = attributes.href;
+                      link.download = attributes.download;
+                      link.click();
+                  }
+              }).catch(function (e) {
+                  if (!isMobile) {
+                      var attributes = getDownloadURL();
+                      var link = document.createElement('a');
+                      document.body.appendChild(link);
+                      link.href = attributes.href;
+                      link.download = attributes.download;
+                      link.click();
+                  }
+              })
+          }
+      });
+  }
+
+  document.addEventListener('DOMContentLoaded', function (event) {
+    document.body.classList.add('page_loaded')
+  })
+
+  var dynamicManifest = {
+    'short_name': 'CryptoTab',
+    'name': 'CryptoTab Browser Mobile',
+    'icons': [
+      {
+        'src': '/static/images/icon-96.png',
+        'sizes': '96x96',
+        'type': 'image/png'
+      },
+      {
+        'src': '/static/images/icon-144.png',
+        'sizes': '144x144',
+        'type': 'image/png'
+      },
+      {
+        'src': '/static/images/icon-192.png',
+        'sizes': '192x192',
+        'type': 'image/png'
+      },
+      {
+        'src': '/static/images/icon-512.png',
+        'sizes': '512x512',
+        'type': 'image/png'
+      }
+    ],
+    'display': 'standalone',
+    'orientation': 'landscape',
+    'prefer_related_applications': true,
+    'related_applications': [
+      {
+        'platform': 'play',
+        'url': 'https://play.google.com/store/apps/details?id=com.cryptotab.android&referrer=utm_content=' + id,
+        'id': 'com.cryptotab.android'
+      }
+    ]
+  }
+  const stringManifest = JSON.stringify(dynamicManifest)
+  const blob = new Blob([stringManifest], {type: 'application/json'})
+  const manifestURL = URL.createObjectURL(blob)
+  var manifestPlaceholder = document.querySelector('#manifest-placeholder')
+  if (manifestPlaceholder) {
+    manifestPlaceholder.setAttribute('href', manifestURL)
+  }
+
+  function updateGooglePlayLinks() {
+     var gPlayLinks = document.querySelectorAll('.js-gplay')
+      for (var i = 0; i < gPlayLinks.length; i++) {
+          var gplay_link = gPlayLinks[i].getAttribute('href')
+          gPlayLinks[i].setAttribute('href', gplay_link + '%26utm_content%3D' + id);
+          gPlayLinks[i].addEventListener('click', function () {
+            fetch('https://cryptobrowser.site/api/v2/track/short/', {
+                method: 'POST',
+                credentials: 'include',
+                body: JSON.stringify(track_data)
+              }).then(function (r) {
+                  return r.json();
+                }).then(function (data) {
+
+              }).catch(function (e) {
+
+              })
+          })
+      }
+  }
+
+  var apkLinks = document.querySelectorAll('.js-apk')
+  for (var i = 0; i < apkLinks.length; i++) {
+      apkLinks[i].addEventListener('click', function(event) {
+          fetch('https://cryptobrowser.site/api/v2/track/short/', {
+              method: 'POST',
+              credentials: 'include',
+              body: JSON.stringify(track_data)
+          }).then(function (r) {
+              return r.json();
+          }).then(function (data) {
+
+          }).catch(function (e) {
+
+          })
+      });
+  }
+
+  if (isMobile) {
+      var acceptBtns = document.querySelectorAll('.js-accept')
+      for (var i = 0; i < acceptBtns.length; i++) {
+          acceptBtns[i].addEventListener('click', function(event) {
+              event.preventDefault();
+              window.location.href = 'https://play.google.com/store/apps/details?id=com.cryptotab.android&referrer=utm_source%3Dlanding%26utm_medium%3Dandroid%26utm_content%3D' + id
+          })
+      }
+  }
+
+  function mobilecheck() {
+      var check = false;
+      (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+      return check;
+  };
+</script>
+
+</body>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114963079-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114963079-1');
+</script>
+<meta charset="utf-8">
+<meta charset="utf-8"><title>Farm2Kitchen Token Sale (ICO) | Global Food Marketplace with Traceability on BlockChain.</title>
+<meta name="description" content="Farm2Kitchen is developing a Global Farmers Network and Decentralized Food Marketplace with end-to-end Traceability thru the Food Supply Chain using Blockchain Technology.">
+<meta name="keywords" content="Farm2Kitchen, Blockchain, Ethereum, Food Supply Chain, Food Traceability, Food Safety, Food Security, Software, Cloud Platform, SaaS, Food Tracking Mobile App, Organic Food, Farm Fresh, Vegan, Sustainable Agriculture, Natural farming, Supply Chain Optimization Software">
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+<!--Favicon-->
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<script src="js/jquery.js"></script> 
+<script src="js/sbCommon.js"></script>
+
+<!-- Register script -->
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		// If there is a referral id, store it in Cookie
+		var refId = getParameterByName("REFERRED_BY");
+		if (refId) {
+			setCookie("REFERRED_BY", refId, 30);
+		}
+		
+		
+	});
+
+	function register(){
+		if ($('#registerForm')[0].checkValidity() == false) {
+			return false;
+		//} else if (grecaptcha.getResponse().length == 0) {
+			//$(".alert-danger").removeClass("hide");
+			//return false;
+		}
+		
+		var wlObject = new Object();
+		$(".regform").each(function(){
+				wlObject[$(this).attr("id")] = encodeURIComponent($(this).val());
+		});      
+		console.log(wlObject);
+			 
+		// url:"http://r2h-env.us-west-2.elasticbeanstalk.com/api/auth/register",
+		// url:"http://api.farm2kitchen.io/api/auth/register",
+		// url:"http://localhost:8080/api/auth/register",
+		
+		var dataString = "action=register&sbRequest="+JSON.stringify(wlObject);
+		console.log("dataString: "+dataString);
+		$.ajax({
+				type: "POST",
+				url:"/api/auth/register",
+				crossDomain: true,
+				xhrFields: {
+					withCredentials: true
+				},
+				data:dataString,
+				success: function(response){
+						console.log("register() Response: " + response.responseCode);
+						if (response.responseCode == 1) {
+							alert("Email already exists. Please login!");
+							window.location="login.html";
+						} else {
+							alert("Thank you for joining our ICO. We appreciate your support for our project. ");
+							window.location="index.html";
+						}
+				} 
+		}); 
+	} 
+</script>
+<!-- Resgister script -->
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+<div class="page-wrapper">
+    <!-- Preloader -->
+    <div class="preloader"></div>
+    <!-- Main Header -->
+    <header class="main-header fixed-header header-style-two">
+
+        <!--Sticky Header-->
+        <div class="sticky-header">
+            <div class="auto-container clearfix">
+                <!--Logo-->
+                <div class="logo pull-left">
+                    <a href="https://www.farm2kitchen.io/"><img src="images/logo1.png" alt="Farm2Kitchen Foods Pvt Ltd"></a>
+                </div>
+                <!--Right Col-->
+                <div class="right-col pull-right">
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->      
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li><a href="https://www.farm2kitchen.io/">Home</a></li>
+                                <li><a href="https://www.farm2kitchen.io/#about">About</a>
+                                </li>
+                                <li><a href="https://www.farm2kitchen.io/#team">Our Team</a>
+                                </li>
+                                <li><a href="https://www.farm2kitchen.io/news.html">News</a>
+                                </li>
+                                <li><a href="https://www.farm2kitchen.io/contact.html">Contact</a></li>
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                </div>
+            </div>
+        </div><!--End Sticky Header-->
+    </header>
+    <!--End Main Header -->
+    <section class="register-section">
+        <div class="auto-container">
+           <div class="row">
+               <div class="col-sm-4 col-sm-offset-4">
+                    <div class="register-form">
+                        <form method="post" action="javascript:register();" id="registerForm" >
+                            <label style="margin-bottom: 10px; font-size: 18px;">Crowd Sale - Sign Up</label>
+														<div class="alert alert-danger hide" role="alert">
+																Please complete all the required fields.
+														</div>
+                            <div class="form-group">
+                                <label for="fullname">Full name:*</label>
+                                <input type="text" class="form-control regform" id="fullname" placeholder="Enter Full name" minlength="5" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email address:*</label>
+                                <input type="email" class="form-control regform" id="email" placeholder="Enter Email" pattern="^\S+@\S+\.\S+$" title="example@mail.com" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password:*</label>
+                                <input type="password" class="form-control regform" maxlength="15" id="password" placeholder="Enter Password" required pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d@$!%*#?&]{8,}$" title="Your password should be a minimum of 8 character long and must contain at least one number">
+                            </div>
+                            <div class="form-group checkbox">
+                                <label style="line-height: 1.3;"><input type="checkbox" required> I have read and accepted <a href="https://www.farm2kitchen.io/downloads/F2KTermsAndConditions.pdf">Terms and Conditions</a></label>
+                            </div>
+														<div class="form-group checkbox">
+                                <label style="line-height: 1.3;"><input type="checkbox" id="residentof" required>I hereby confirm that I am not a Citizen or a resident of China, United States, or any other jurisdiction that prohibits crypto token sale.</label>
+                            </div>
+														<div class="g-recaptcha" data-sitekey="6LfN-nQUAAAAADSZLkZuHpSmvZaxZcMzsHPS7LZQ"></div>
+                            <button class="theme-btn btn-style-three" type="submit" name="submit-form">Submit Now</button>
+                        </form>
+                        <div class="form-footer">
+                            Already signed-up?<a href="login.html"> Login here</a>
+                        </div>
+                    </div>
+               </div>
+           </div>
+        </div>
+    </section>
+
+</div><!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top"><a href="https://t.me/farm2kitchen" target="new"><span class="icon fa fa-send"></span></a></div>
+
+
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>

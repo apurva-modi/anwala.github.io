@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IQ Finex, Bitcoin Exchange, Bitcoin, BTC, Bitcoin Price, Bitcoin Quotes, USDT, Litecoin, BCH, Ethereum, ETH, Ethereum Classic, iqfinex.com"
+          name="keywords">
+    <meta content="iqfinex.com is a world famous Cryptocurrencies exchange. On iqfinex, you can trade Litecoin (LTC), Ethereum (ETH), Bitcoin Cash (BCH), Ethereum Classic (ETC), DASH, etc, using Bitcoin (BTC) and USDT. We provide real-time BTC price, Bitcoin markets."
+          name="description">
+    <meta content="telephone=no,email=info@iqfinex.com,address=no" name="format-detection">
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <meta property="og:title" content="Iqfinex">
+    <meta property="og:description" content="The most advanced cryptocurrencies exchange">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@IQFinexcom">
+    <meta name="twitter:title" content="IQFinexcom">
+    <meta name="twitter:description" content="The most advanced cryptocurrencies exchange">
+    <meta name="referrer" content="origin">
+    <meta name="api_url" content="api.iqfinex.com">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <title>IQFinex - The Global Cryptocurrencies Asset Exchange - Iqfinex.com</title>
+    <!--[if lt IE 11]>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <![endif]-->
+
+    <link rel="favicon" href="/favicon.ico"/>
+
+    <link rel="manifest" href="/manifest.json">
+
+    <script type="text/javascript">
+        const PAGES_TITLE = "";
+        const BUILD_TIMESTAMP = parseInt("1551271644980");
+        const CDN_PATH = "";
+        const APP_CONFIG = JSON.parse('{"brandName":"IQ Finex","publicPath":"/","connection":{"CDN":{"protocol":"https","host":"www.iqfinex.com","port":"443","type":"REST"},"PLATFORM":{"protocol":"https","host":"datacenter.iqfinex.com","port":"8085","type":"REST"},"AUTH":{"protocol":"https","host":"auth.iqfinex.com","port":"8091","type":"REST"},"PAYMENT":{"protocol":"https","host":"scheduler.iqfinex.com","port":"8091","type":"REST"},"ASSETS":{"protocol":"https","host":"quotes.iqfinex.com","port":"8091","type":"REST"},"FEED":{"host":"http://quotes.iqfinex.com"},"SCHEDULER":{"protocol":"https","host":"scheduler.iqfinex.com","port":"8095","type":"REST"},"ORDERS":{"protocol":"https","host":"datacenter.iqfinex.com","port":"8086"},"FEED_SOCKET":{"protocol":"https","host":"feeder.iqfinex.com","port":"8081"},"FEED_REST":{"protocol":"https","host":"feeder.iqfinex.com","port":"8085"},"CHAT":{"protocol":"https","host":"chat-backend.iqfinex.com","port":"8080"},"NOTIFY":{"protocol":"https","host":"sender.iqfinex.com","port":"8096"},"NEWS":{"protocol":"https","host":"news-datacenter.iqfinex.com","port":"8095"},"AIRDROP":{"protocol":"https","host":"airdrop-datacenter.iqfinex.com","port":"8085"},"CROWDSALE":{"protocol":"https","host":"crowdsale-datacenter.iqfinex.com","port":"8085"},"EXCHANGE":{"protocol":"https","host":"exchange-datacenter.iqfinex.com","port":"8095"},"COMMUNICATION":{"protocol":"https","host":"communication.iqfinex.com","port":"8090"}},"theme":{"wrapClassName":"dark-theme"},"recaptcha_key":"6Le6q0cUAAAAANdUTXExzpbtDi9QPUuS4iCDYjRn","defaultLocale":"en-US","dateTimeFormat":"YYYY-MM-DD hh:mm:ss","timeFormat":"hh:mm:ss","dateFormat":"YYYY-MM-DD"}');
+        const APP_TOKENS = JSON.parse('""');
+        const ENV = "production";
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "Organization",
+      "name" : "IQFinex",
+      "url" : "https://www.iqfinex.com",
+      "sameAs" : [
+        "https://www.facebook.com/iqfinexcom",
+        "https://twitter.com/IQFinexcom"
+      ]
+    }
+    </script>
+
+    <style>
+        html, body, .background, #root {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            overflow: auto !important;
+            background-color: #1a1d23;
+            transition: all 0.2s ease-in-out;
+            font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        }
+
+        .background {
+            position: fixed;
+            left: 0;
+            top: 0;
+            z-index: -1;
+            opacity: 0.03;
+            background: url('https://iqfinex.com/assets/images/map.png') #101318;
+            background-size: 90%;
+            background-repeat: no-repeat;
+            background-position: center, center;
+        }
+
+        @keyframes download {
+            0% {
+                content: ''
+            }
+            25% {
+                content: '.'
+            }
+            50% {
+                content: '..'
+            }
+            75% {
+                content: '...'
+            }
+        }
+
+        #root {
+            display: none;
+        }
+
+        #preloader {
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            position: fixed;
+            left: 0;
+            top: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        #preloader p {
+            margin-top: 10px;
+            position: relative;
+            color: #fff;
+            font-size: 12px;
+        }
+
+        #preloader p:after {
+            position: absolute;
+            display: block;
+            left: 100%;
+            bottom: 0;
+            color: #fff;
+            content: '...';
+            animation: download 2s linear infinite;
+        }
+    </style>
+<meta name="mobile-web-app-capable" content="yes"><meta name="theme-color" content="#fff"><meta name="application-name" content="iqFinex"><link rel="apple-touch-icon" sizes="57x57" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-icon-180x180.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="iqFinex"><link rel="icon" type="image/png" sizes="32x32" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/favicon-16x16.png"><link rel="shortcut icon" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/favicon.ico"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-320x460.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-640x920.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-640x1096.png"><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-750x1294.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-1182x2208.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-1242x2148.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-748x1024.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-768x1004.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-1496x2048.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/icons-b6ec58a9bf32c753ac4a8178ba9a4c3f/apple-touch-startup-image-1536x2008.png"><link href="/style.22a182a30d8d8f0ad660.css" rel="stylesheet"></head>
+<body class="theme_dark">
+<div class="background"></div>
+
+<div id="root">
+    <h1>IQ Finex - The Leading Global Cryptocurrencies Asset Exchange</h1>
+    <p>IQ Finex is a global leader in the blockchain revolution. We operate the premier trading platform, which is
+        designed for customers who demand lightning-fast trade execution, dependable digital wallets, and
+        industry-leading security practices.</p>
+</div>
+<div id="preloader">
+    <div>
+        <img width="190" height="67px"
+             src="data:image/svg+xml;base64,PHN2ZyAKIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIgogd2lkdGg9IjE2NjRweCIgaGVpZ2h0PSI1ODRweCI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIKIGQ9Ik0xNjYzLjY3MiwzNzkuNTAwIEwxNjE1LjgyNCwzNzkuNTAwIEwxNTgzLjY0OSwzMjguNjI2IEwxNTUxLjQ3NSwzNzkuNTAwIEwxNTAzLjYyNiwzNzkuNTAwIEwxNTYxLjEwMCwyOTMuOTc3IEwxNTA3LjQ3NiwyMTQuNTA0IEwxNTU1LjMyNSwyMTQuNTA0IEwxNTgzLjY0OSwyNTkuMDUzIEwxNjExLjk3NCwyMTQuNTA0IEwxNjU5LjgyMywyMTQuNTA0IEwxNjA2LjE5OSwyOTMuOTc3IEwxNjYzLjY3MiwzNzkuNTAwIFpNMTM1OS4yNTMsMjE0LjUwNCBMMTQ2MS41NTEsMjE0LjUwNCBMMTQ2MS41NTEsMjUxLjA3OCBMMTQwMS4zMjcsMjUxLjA3OCBMMTQwMS4zMjcsMjc4Ljg1MiBMMTQ1Mi4yMDEsMjc4Ljg1MiBMMTQ1Mi4yMDEsMzE1LjE1MSBMMTQwMS4zMjcsMzE1LjE1MSBMMTQwMS4zMjcsMzQyLjkyNiBMMTQ2MS41NTEsMzQyLjkyNiBMMTQ2MS41NTEsMzc5LjUwMCBMMTM1OS4yNTMsMzc5LjUwMCBMMTM1OS4yNTMsMjE0LjUwNCBaTTExNzEuNzA0LDI3OC4zMDIgTDExNzEuNzA0LDM3OS41MDAgTDExMjkuNjMwLDM3OS41MDAgTDExMjkuNjMwLDIxNC41MDQgTDExNzMuNjI5LDIxNC41MDQgTDEyNDguMTUyLDMxNS40MjYgTDEyNDguMTUyLDIxNC41MDQgTDEyOTAuMjI2LDIxNC41MDQgTDEyOTAuMjI2LDM3OS41MDAgTDEyNDUuOTUyLDM3OS41MDAgTDExNzEuNzA0LDI3OC4zMDIgWk0xMDE4LjgwNSwyMTQuNTA0IEwxMDYwLjg4MCwyMTQuNTA0IEwxMDYwLjg4MCwzNzkuNTAwIEwxMDE4LjgwNSwzNzkuNTAwIEwxMDE4LjgwNSwyMTQuNTA0IFpNOTAyLjc1NywyNzguODUyIEw5NTMuNjMxLDI3OC44NTIgTDk1My42MzEsMzE1LjE1MSBMOTAyLjc1NywzMTUuMTUxIEw5MDIuNzU3LDM3OS41MDAgTDg2MC42ODMsMzc5LjUwMCBMODYwLjY4MywyMTQuNTA0IEw5NjIuOTgxLDIxNC41MDQgTDk2Mi45ODEsMjUxLjA3OCBMOTAyLjc1NywyNTEuMDc4IEw5MDIuNzU3LDI3OC44NTIgWk04MDMuNzU2LDM4MS41MDAgTDcxMy4wMDgsMzgxLjcwMCBDNjY1Ljk4NCwzODEuNzAwIDYyOC4zMTAsMzQzLjc1MSA2MjguMzEwLDI5Ny4wMDIgQzYyOC4zMTAsMjUwLjI1MyA2NjUuOTg0LDIxMi4zMDQgNzEzLjAwOCwyMTIuMzA0IEM3NTkuNzU3LDIxMi4zMDQgNzk3LjcwNiwyNTAuMjUzIDc5Ny43MDYsMjk3LjAwMiBDNzk3LjcwNiwzMTcuNTI3IDc5MC4zMDIsMzM2LjM4NCA3NzguMjMzLDM1MS4wMDAgTDgwNC4wMDAsMzUxLjAwMCBMODAzLjc1NiwzODEuNTAwIFpNNzU2LjQ1NywyOTcuMDAyIEM3NTYuNDU3LDI3MS45NzcgNzM3Ljc1NywyNTMuNTUzIDcxMy4wMDgsMjUzLjU1MyBDNjg3Ljk4MywyNTMuNTUzIDY2OS4yODQsMjcxLjk3NyA2NjkuMjg0LDI5Ny4wMDIgQzY2OS4yODQsMzIyLjAyNiA2ODcuOTgzLDM0MC40NTEgNzEzLjAwOCwzNDAuNDUxIEM3MzcuNzU3LDM0MC40NTEgNzU2LjQ1NywzMjIuMDI2IDc1Ni40NTcsMjk3LjAwMiBaTTUyMy4yNjAsMjE0LjUwNCBMNTY1LjMzNCwyMTQuNTA0IEw1NjUuMzM0LDM3OS41MDAgTDUyMy4yNjAsMzc5LjUwMCBMNTIzLjI2MCwyMTQuNTA0IFoiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiAgZmlsbD0icmdiKDI1NSwgMTQxLCA4KSIKIGQ9Ik0xODAuNTAyLDQyLjcwMyBMMjQ4LjI4OSwzLjU2MiBDMjU5LjQ2NCwtMi44OTEgMjY4LjUyNCwwLjkzOCAyNjguNTI0LDEyLjExNSBMMjY4LjUyNCw1MDguOTQxIEMyNjguNTI0LDUyMC4xMTcgMjY4LjQ2NCw1MzAuNDA5IDI0OC4yODksNTQwLjg2MiBMMTgwLjUwMiw1ODAuMDAzIEMxNjkuMzI2LDU4Ni40NTYgMTYwLjI2Nyw1ODIuNjI3IDE2MC4yNjcsNTcxLjQ1MCBMMTYwLjI2Nyw3NC42MjQgQzE2MC4yNjcsNjMuNDQ4IDE2Mi4zMjYsNTMuMTU2IDE4MC41MDIsNDIuNzAzIFoiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiAgZmlsbD0icmdiKDI1NSwgMTQxLCA4KSIKIGQ9Ik00MjcuMzY3LDM5OC42NDcgQzQyNy4zNjcsNDA5LjgyNCA0MTguMzA4LDQyNC4xMTYgNDA3LjEzMiw0MzAuNTY5IEwzMzkuMzQ2LDQ2OS43MTAgQzMyOC4xNzAsNDc2LjE2MyAzMTkuMTExLDQ3Mi4zMzQgMzE5LjExMSw0NjEuMTU3IEwzMTkuMTExLDMyNi42OTIgTDMxOS4xMTEsMzI2LjY5MiBMMzE5LjExMSwzMjYuNjkyIEwzMTkuMTExLDE5NC4xMzggQzMxOS4xMTEsMTgyLjk2MSAzMjguMTcwLDE3My45MDAgMzM5LjM0NiwxNzMuOTAwIEw0MDcuMTMyLDE3My45MDAgQzQxOC4zMDgsMTczLjkwMCA0MjcuMzY3LDE4Mi45NjEgNDI3LjM2NywxOTQuMTM4IEw0MjcuMzY3LDMyNi42OTIgTDQyNy4zNjcsMzI2LjY5MiBMNDI3LjM2NywzMjYuNjkyIEw0MjcuMzY3LDM5OC42NDcgWiIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiICBmaWxsPSJyZ2IoMjU1LCAxNDEsIDgpIgogZD0iTTEwOS4zODQsMzkyLjQwNiBDMTA5LjQyNSw0MDMuNTc2IDEwMC40MDAsNDEyLjY2NSA4OS4yMjQsNDEyLjcwNiBMMjEuNDM4LDQxMi45NTcgQzEwLjI2Miw0MTIuOTk4IDEuMTY5LDQwMy45NzcgMS4xMjgsMzkyLjgwNyBMMC42MzgsMjYwLjMzNiBDMC42MzgsMjYwLjMzNSAwLjYzOCwyNjAuMzM1IDAuNjM4LDI2MC4zMzQgTDAuMzcxLDE4OC40MjUgQzAuMzMwLDE3Ny4yNTUgOS4zMzcsMTYyLjkzOSAyMC40ODgsMTU2LjQ0OSBMODguMTMwLDExNy4wODEgQzk5LjI4MSwxMTAuNTkxIDEwOC4zNTUsMTE0LjM4NCAxMDguMzk2LDEyNS41NTQgTDEwOC44OTcsMjYwLjg1NyBMMTA4Ljg5NywyNjAuODU3IEwxMDkuMzg0LDM5Mi40MDYgWiIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiICBmaWxsPSJub25lIgogZD0iTTAuMDAwLDAuMDAwIEwxNjY0LjAwMCwwLjAwMCBMMTY2NC4wMDAsNTg0LjAwMCBMMC4wMDAsNTg0LjAwMCBMMC4wMDAsMC4wMDAgWiIvPgo8L3N2Zz4="
+             alt="IQ Finex">
+    </div>
+    <p>Download</p>
+</div>
+<div id="modals-root"></div>
+<div id="chat-root"></div>
+<div id="dropdowns-root"></div>
+<div id="tooltips-root"></div>
+<div id="portal"></div>
+
+<div style="display:none">
+    am2ema2h53
+</div>
+
+
+<script>
+    var preloader = document.getElementById("preloader");
+    var root = document.getElementById("root");
+
+    function fadeOut(el) {
+        el.style.opacity = 1;
+        var interPreloader = setInterval(function () {
+            el.style.opacity = el.style.opacity - 0.05;
+            if (el.style.opacity <= 0.05) {
+                clearInterval(interPreloader);
+                el.style.display = "none";
+                root.style.display = "block";
+            }
+        }, 1);
+    }
+
+    window.onload = function () {
+        setTimeout(function () {
+            fadeOut(preloader);
+        }, 100);
+    };
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<script>-->
+    <!--window._grecaptcha_callback = function(){-->
+        <!--window.grecaptcha.render({-->
+            <!--sitekey: '6LdwPHkUAAAAABUS2cxzbedBVYkz0JFhnhv9BPo_',-->
+            <!--badge: 'bottomleft',-->
+            <!--// theme: 'dark'-->
+        <!--})-->
+    <!--}-->
+<!--</script>-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119744639-1"></script>
+<!--<script src='https://www.google.com/recaptcha/api.js?onload=_grecaptcha_callback'></script>-->
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-119744639-1');
+</script>
+
+<script type="text/javascript" src="/bundle.ee56204e070b617fc7fb.js"></script></body>
+</html>

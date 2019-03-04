@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+<!-- jsn_epic_pro 6.2.3 -->
+<html lang="" dir="ltr">
+<head>
+	<base href="http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="La Blockchain" />
+	<meta name="rights" content="Copyright 2018" />
+	<meta name="description" content="Publié dans Bitcoin , écrit par La rédaction Le samedi 16 février 2019, 0:01 « Le rapport de la mission d’information sur les monnaies virtuelles préconise un statut législatif et fiscal inédit en Europe. Si certaines propositions viennent d’être ado" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Fiscalité des cryptoactif : « sans droit au compte, ce sont des conversations de salon » - Synthèse Informatique</title>
+	<link href="/Synthese/le-blog/derniers-articles-publies?view=rsd&amp;tmpl=component" rel="EditURI" type="application/rsd+xml" />
+	<link href="http://sla.lu/Synthese/components/com_easyblog/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml" />
+	<link href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon" rel="canonical" />
+	<link href="/Synthese/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/Synthese/components/com_easyblog/themes/bluedream/styles/style-5.1.8.min.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/html/com_easyblog/styles/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/components/com_imageshow/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/media/jui/css/bootstrap.min.css?fed1903007de28bced7e04b67f8d849e" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/media/jui/css/bootstrap-responsive.min.css?fed1903007de28bced7e04b67f8d849e" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/media/jui/css/bootstrap-extended.css?fed1903007de28bced7e04b67f8d849e" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/plugins/system/jsntplframework/assets/3rd-party/bootstrap/css/bootstrap-responsive-frontend.min.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/print.css" rel="stylesheet" type="text/css" media="Print" />
+	<link href="/Synthese/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/template_pro.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/colors/blue.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/styles/business.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/jsn_iconlinks.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/layouts/jsn_wide.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/layouts/jsn_mobile.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Nobile:regular,bold" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/font-icons/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/templates/jsn_epic_pro/css/jsn_social_icons.css" rel="stylesheet" type="text/css" />
+	<link href="/Synthese/media/system/css/modal.css?fed1903007de28bced7e04b67f8d849e" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	div.jsn-modulecontainer ul.menu-mainmenu ul,
+	div.jsn-modulecontainer ul.menu-mainmenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-left: 199px;
+	}
+	#jsn-pos-toolbar div.jsn-modulecontainer ul.menu-mainmenu ul ul {
+		margin-right: 199px;
+		margin-left : auto
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul,
+	div.jsn-modulecontainer ul.menu-sidemenu ul li {
+		width: 200px;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		right: -200px;
+	}
+	body.jsn-direction-rtl div.jsn-modulecontainer ul.menu-sidemenu li ul {
+		left: -200px;
+		right: auto;
+	}
+	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
+		margin-left: 199px;
+	}
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {text-decoration:none;}
+        a.flag img {vertical-align:middle;padding:0;margin:0;border:0;display:inline;height:16px;opacity:0.8;}
+        a.flag:hover img {opacity:1;}
+        a.flag span {margin-right:5px;font-size:15px;vertical-align:middle;}
+    
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"system.paths":{"root":"\/Synthese","base":"\/Synthese"}}</script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+	<script src="/Synthese/media/jui/js/jquery.min.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/jui/js/jquery-noconflict.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/jui/js/jquery-migrate.min.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/system/js/mootools-core.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/system/js/core.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/system/js/mootools-more.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+	<script src="/Synthese/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+	<script src="/Synthese/templates/jsn_epic_pro/js/jsn_template.js" type="text/javascript"></script>
+	<script src="/Synthese/media/system/js/modal.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script src="/Synthese/media/jui/js/bootstrap.min.js?fed1903007de28bced7e04b67f8d849e" type="text/javascript"></script>
+	<script type="text/javascript">
+
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_epic_pro_",
+					templatePath			: "/Synthese/templates/jsn_epic_pro",
+					enableRTL				: 0,
+					enableGotopLink			: 1,
+					enableMobile			: 1,
+					enableMobileMenuSticky	: 1,
+					enableDesktopMenuSticky	: 0,
+					responsiveLayout		: ["mobile","wide"],
+					mobileMenuEffect		: "default"
+				});
+			
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+	<meta property="og:image" content="https://bitcoin.fr/wp-content/uploads/2016/04/sputnik.jpg"/>
+	<meta property="og:title" content="Fiscalité des cryptoactif : « sans droit au compte, ce sont des conversations de salon »" />
+	<meta property="og:description" content="Publié dans Bitcoin , écrit par La rédaction Le samedi 16 février 2019, 0:01 « Le rapport de la mission d’information sur les monnaies virtuelles préconise un statut législatif et fiscal inédit en Europe. Si certaines propositions viennent d’être adoptées, celles-ci seront-elles suffisantes pour faire de la France un des leaders..." />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon" />
+	<meta name="twitter:image" content="https://bitcoin.fr/wp-content/uploads/2016/04/sputnik.jpg"/>
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon" />
+	<meta name="twitter:title" content="Fiscalité des cryptoactif : « sans droit au compte, ce sont des conversations de salon »" />
+	<meta property="twitter:description" content="Publié dans Bitcoin , écrit par La rédaction Le samedi 16 février 2019, 0:01 « Le rapport de la mission d’information sur les monnaies vi..." />
+	<script type="text/javascript">
+window.eb = {
+	"environment": "production",
+	"rootUrl": "http://sla.lu/Synthese",
+	"ajaxUrl": "http://sla.lu/Synthese/?option=com_easyblog&lang=&Itemid=208",
+	"baseUrl": "http://sla.lu/Synthese/?option=com_easyblog&lang=none&Itemid=208",
+	"token": "a8da8f755f64ea070f4b79ace5430240",
+	"mobile": false,
+	"ios": false,
+	"locale": "fr-FR",
+	"momentLang": "fr",
+	"direction": "ltr"
+};
+</script>
+	<script src="/Synthese/media/com_easyblog/scripts/site-5.1.8-basic.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
+
+	<!-- html5.js and respond.min.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="/Synthese/plugins/system/jsntplframework/assets/3rd-party/respond/respond.min.js"></script>
+	<![endif]-->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30966929-3', 'synthese-informatique.com');
+  ga('send', 'pageview');
+
+</script></head>
+<body id="jsn-master" class="jsn-textstyle-business jsn-color-blue jsn-direction-ltr jsn-responsive jsn-mobile jsn-joomla-30  jsn-com-easyblog jsn-view-entry jsn-itemid-208">
+	<a name="top" id="top"></a>
+		<div id="jsn-page" class="container">
+		<div id="jsn-page-inner">
+					<div id="jsn-header">
+				<div id="jsn-logo" class="pull-left">
+				<a href="/Synthese/index.php" title="Les tendances de l'informatique le séminaire de référence sur les NTIC"><img src="/Synthese/images/imgs/logo_fond_blanc.jpg" alt="Les tendances de l'informatique le séminaire de référence sur les NTIC" id="jsn-logo-desktop" /></a>				</div>
+				<div id="jsn-headerright" class="pull-right">
+									<div id="jsn-pos-top" class="pull-left">
+						<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p><strong style="color: #22427c; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 27.2000007629395px;"><em>Éclairer le futur est notre métier</em></strong></p></div><div class="clearbreak"></div></div></div></div>
+						<div class="clearbreak"></div>
+					</div>
+									<div id="jsn-social-icons" class="pull-right">
+						<ul>
+												<li class="facebook">
+								<a href="http://www.facebook.com/SyntheseInformatique" title="Facebook" target="_blank">
+									Facebook</a>
+							</li>
+												<li class="twitter">
+								<a href="http://twitter.com/hgilabert" title="Twitter" target="_blank">
+									Twitter</a>
+							</li>
+												<li class="googleplus">
+								<a href="https://plus.google.com/u/0/b/103458361153143252884/103458361153143252884/posts" title="Google+" target="_blank">
+									Google+</a>
+							</li>
+												<li class="linkedin">
+								<a href="https://www.linkedin.com/company/2872580" title="LinkedIn" target="_blank">
+									LinkedIn</a>
+							</li>
+											</ul>
+					</div>
+								</div>
+				<div class="clearbreak"></div>
+			</div>
+			<div id="jsn-body">
+							<div id="jsn-menu">
+									<div id="jsn-pos-mainmenu" >
+						<div class="menu-iconmenu jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><span id="jsn-menu-toggle-parent" class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span>
+<ul class="menu-mainmenu">
+	<li class="jsn-menu-mobile-control"><span class="close-menu"><i class="fa fa-times"></i></span></li> 
+	<li  class="first jsn-icon-home"><a class="clearfix" href="/Synthese/" >
+	 <i class="jsn-icon-home "></i>	<span>
+		<span class="jsn-menutitle">Home</span>	</span>
+</a></li><li  class="parent">	<a class="clearfix" href="/Synthese/qui-sommes-nous/notre-cabinet" >
+				<span>
+		<span class="jsn-menutitle">Qui sommes nous ?</span>		</span>
+	</a>
+	<span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/Synthese/qui-sommes-nous/notre-cabinet" >
+		<span>
+		<span class="jsn-menutitle">Notre cabinet</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/qui-sommes-nous/nos-animateurs" >
+		<span>
+		<span class="jsn-menutitle">Nos animateurs</span>	</span>
+</a></li><li  class="last"><a class="clearfix" href="/Synthese/qui-sommes-nous/nos-references" >
+		<span>
+		<span class="jsn-menutitle">Nos références</span>	</span>
+</a></li></ul></li><li  class="parent">	<a class="clearfix" href="/Synthese/notre-offre/presentation" >
+				<span>
+		<span class="jsn-menutitle">Notre offre</span>		</span>
+	</a>
+	<span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/Synthese/notre-offre/presentation" >
+		<span>
+		<span class="jsn-menutitle">Présentation</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/le-seminaire-tendances" >
+		<span>
+		<span class="jsn-menutitle">Le séminaire TENDANCES</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/dix-tendances-en-un-jour" >
+		<span>
+		<span class="jsn-menutitle">Dix tendances en un jour</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/disruption-numerique" >
+		<span>
+		<span class="jsn-menutitle">Disruption numérique</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/reussir-sa-transformation-digitale" >
+		<span>
+		<span class="jsn-menutitle">Réussir sa transformation digitale</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/nos-interventions-sur-mesure" >
+		<span>
+		<span class="jsn-menutitle">Nos interventions sur mesure</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/nos-seminaires-en-inter-entreprises" >
+		<span>
+		<span class="jsn-menutitle">Nos séminaires en inter entreprises</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/notre-offre/le-coaching" >
+		<span>
+		<span class="jsn-menutitle">Le coaching</span>	</span>
+</a></li><li  class="last"><a class="clearfix" href="/Synthese/notre-offre/temoignages-clients" >
+		<span>
+		<span class="jsn-menutitle">Témoignages clients</span>	</span>
+</a></li></ul></li><li  class="parent">	<a class="clearfix" href="/Synthese/la-revolution-numerique/qu-est-ce-que-la-revolution-numerique" >
+				<span>
+		<span class="jsn-menutitle">La révolution numérique</span>		</span>
+	</a>
+	<span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/Synthese/la-revolution-numerique/qu-est-ce-que-la-revolution-numerique" >
+		<span>
+		<span class="jsn-menutitle">Qu'est-ce que la révolution numérique ?</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/les-cylces-de-carlota-perez" >
+		<span>
+		<span class="jsn-menutitle">Les cylces de Carlota Pérez</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/l-economie-numerique" >
+		<span>
+		<span class="jsn-menutitle">L'économie numérique</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/innovation-disruption" >
+		<span>
+		<span class="jsn-menutitle">Innovation & disruption</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/la-re-presentation-du-monde" >
+		<span>
+		<span class="jsn-menutitle">La « re-présentation » du monde</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/la-rationalisation-du-monde" >
+		<span>
+		<span class="jsn-menutitle">La rationalisation du monde</span>	</span>
+</a></li><li  class="parent"><a class="clearfix" href="/Synthese/la-revolution-numerique/regards-sur-le-ces" >
+		<span>
+		<span class="jsn-menutitle">Regards sur le CES</span>	</span>
+</a><span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="first"><a class="clearfix" href="/Synthese/la-revolution-numerique/regards-sur-le-ces/ces-2018" >
+		<span>
+		<span class="jsn-menutitle">CES 2018</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/la-revolution-numerique/regards-sur-le-ces/ces-2017" >
+		<span>
+		<span class="jsn-menutitle">CES 2017</span>	</span>
+</a></li><li  class="last"><a class="clearfix" href="/Synthese/la-revolution-numerique/regards-sur-le-ces/ces-2016" >
+		<span>
+		<span class="jsn-menutitle">CES 2016</span>	</span>
+</a></li></ul></li><li  class="last"><a class="clearfix" href="/Synthese/la-revolution-numerique/infomous" >
+		<span>
+		<span class="jsn-menutitle">Infomous</span>	</span>
+</a></li></ul></li><li  class="active parent">	<a class="clearfix" href="/Synthese/le-blog/derniers-articles-publies" >
+				<span>
+		<span class="jsn-menutitle">Le Blog</span>		</span>
+	</a>
+	<span class="jsn-menu-toggle"><i class="fa fa-navicon"></i></span><ul><li  class="current active first"><a class="current clearfix" href="/Synthese/le-blog/derniers-articles-publies" >
+		<span>
+		<span class="jsn-menutitle">Derniers articles publiés</span>	</span>
+</a></li><li  class="last"><a class="clearfix" href="/Synthese/le-blog/les-articles-par-categories" >
+		<span>
+		<span class="jsn-menutitle">Les articles par catégories</span>	</span>
+</a></li></ul></li><li  class="jsn-icon-mail"><a class="clearfix" href="/Synthese/nous-contacter" >
+	 <i class="jsn-icon-mail "></i>	<span>
+		<span class="jsn-menutitle">Nous contacter</span>	</span>
+</a></li><li  class=""><a class="clearfix" href="/Synthese/plan-du-site" >
+		<span>
+		<span class="jsn-menutitle">Plan du site</span>	</span>
+</a></li><li  class="last jsn-icon-search"><a class="clearfix" href="/Synthese/rechercher-sur-le-site" >
+	 <i class="jsn-icon-search "></i>	<span>
+		<span class="jsn-menutitle">Rechercher sur le site</span>	</span>
+</a></li></ul><div class="clearbreak"></div></div></div></div>
+											</div>
+												<div id="jsn-sitetoolspanel" class="jsn-include-color pull-right">
+					<ul id="jsn-sitetools-menu">
+						<li class="jsn-sitetool-control">
+						<a href="javascript:void(0)"></a>
+							<ul>
+								<li class="clearafter jsn-selector-color jsn-color1">
+														<a id="jsn-selector-blue" title="Choisir une couleur: Bleu" href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_epic_pro_','color','blue'); return false;"  class="current"></a>
+													</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+								<span id="jsn-desktopswitch">
+						<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_epic_pro_','mobile','no'); return false;"></a>
+					</span>
+					<span id="jsn-mobileswitch">
+						<a href="#" onclick="javascript: JSNUtils.setTemplateAttribute('jsn_epic_pro_','mobile','yes'); return false;"></a>
+					</span>
+					            <div class="clearbreak"></div>
+				</div>
+			
+				<div id="jsn-content" class="jsn-hasleft jsn-hasright ">
+					<div id="jsn-content_inner"><div id="jsn-content_inner1"><div id="jsn-content_inner2"><div id="jsn-content_inner3"><div id="jsn-content_inner4"><div id="jsn-content_inner5"><div id="jsn-content_inner6"><div id="jsn-content_inner7" class="row-fluid">
+								<div id="jsn-maincontent" class="span6 order2 offset3 row-fluid">
+						<div id="jsn-maincontent_inner"><div id="jsn-maincontent_inner1"><div id="jsn-maincontent_inner2"><div id="jsn-maincontent_inner3"><div id="jsn-maincontent_inner4">
+										<div id="jsn-centercol" class="span12 order1 "><div id="jsn-centercol_inner">
+											<div id="jsn-breadcrumbs">
+									<div id="jsn-pos-breadcrumbs" class="">
+<ul class="breadcrumb ">
+<li class="active"><span class="divider"><i class="icon-location" class="hasTooltip" title="Vous êtes ici : "></i></span></li><li><a href="/Synthese/" class="pathway">Accueil</a><span class="divider"></span></li><li><a href="/Synthese/le-blog/derniers-articles-publies" class="pathway">Le Blog</a><span class="divider"></span></li><li><a href="/Synthese/le-blog/derniers-articles-publies" class="pathway">Derniers articles publiés</a></li><li><span class="divider"></span><span>Le design thinking pour réconcilier Digital et SI</span></li></ul>	
+</div>
+								</div>
+											<div id="jsn-mainbody-content" class=" jsn-hasmainbody">
+													<div id="jsn-mainbody">
+											<div id="system-message-container">
+	</div>
+
+											<div id="eb" class="eb-component eb-bluedream eb-view-entry eb-layout-default  
+			"
+>
+	
+	
+	
+<div class="eb-header">
+		<div class="eb-brand">
+					<h2 class="eb-brand-name reset-heading">L'Observeur</h2>
+		
+		
+					<div class="eb-brand-bio">Le blog de Synthèse Informatique</div>
+		
+	</div>
+	
+		<div class="eb-navbar has-footer" data-es-toolbar="">
+		<div class="eb-navbar__body">
+			<a class="eb-navbar__footer-toggle" href="javascript:void(0);" data-eb-toolbar-toggle>
+				<i class="fa fa-bars"></i>
+			</a>
+
+			<div class="hide" data-eb-mobile-toolbar>
+				<div class="o-row">
+					<ol class="g-list-inline eb-navbar__footer-submenu">
+						<li class="">
+							<a href="/Synthese/le-blog/derniers-articles-publies" class="eb-navbar__footer-link">
+								<i class="fa fa-home"></i>
+								<span>Accueil</span>
+							</a>
+						</li>
+												<li class="">
+							<a href="/Synthese/le-blog/les-articles-par-categories" class="eb-navbar__footer-link">
+							<i class="fa fa-folder-open"></i>
+							<span>Catégories</span>
+							</a>
+						</li>
+						
+												<li class="">
+							<a href="/Synthese/le-blog/derniers-articles-publies/tags" class="eb-navbar__footer-link">
+								<i class="fa fa-tags"></i>
+								<span>Mots clés</span>
+							</a>
+						</li>
+						
+						
+						
+												<li class="">
+							<a href="/Synthese/le-blog/derniers-articles-publies/archive" class="eb-navbar__footer-link">
+								<i class="fa fa-archive"></i>
+								<span>Archives</span>
+							</a>
+						</li>
+						
+												<li class="">
+							<a href="/Synthese/le-blog/derniers-articles-publies/calendar" class="eb-navbar__footer-link">
+								<i class="fa fa-calendar"></i>
+								<span>Calendar</span>
+							</a>
+						</li>
+												
+												<li class="">
+							<a href="/Synthese/le-blog/derniers-articles-publies?format=feed&type=rss" class="eb-navbar__footer-link">
+								<i class="fa fa-rss-square"></i>
+								<span>Feeds</span>
+							</a>
+						</li>
+					</ol>
+				</div>
+			</div>
+
+			<nav class="o-nav eb-navbar__o-nav">
+
+				
+				
+
+				
+
+				
+				
+								<div class="o-nav__item dropdown_">
+					<a href="javascript:void(0);" class="o-nav__link eb-navbar__icon-link dropdown-toggle_" data-bp-toggle="dropdown" role="button" aria-expanded="false">
+						<i class="fa fa-lock"></i>
+						<span class="eb-navbar__link-text">Paramètres</span>
+					</a>
+					 <div id="eb-navbar-signin" role="menu" class="eb-navbar__dropdown-menu eb-navbar__dropdown-menu--signin dropdown-menu bottom-right">
+						<div class="eb-arrow"></div>
+						<div class="popbox-dropdown">
+							<div class="popbox-dropdown__hd">
+								<div class="o-flag o-flag--rev">
+									<div class="o-flag__body">
+										<div class="popbox-dropdown__title">Sign In</div>
+																			</div>
+								</div>
+							</div>
+							<div class="popbox-dropdown__bd">
+								<form class="popbox-dropdown-signin" action="/Synthese/le-blog/derniers-articles-publies" method="post">
+									<div class="form-group">
+										<input name="username" autocomplete="off" class="form-control" id="es-username" placeholder="Identifiant" type="text" tabindex="31">
+									</div>
+									<div class="form-group">
+										<input name="password" class="form-control" id="passwd" autocomplete="off" placeholder="Mot de passe" type="password" tabindex="32">
+									</div>
+									<div class="popbox-dropdown-signin__action">
+										<div class="popbox-dropdown-signin__action-col">
+																							<div class="eb-checkbox">
+													<input id="remember-me" type="checkbox" name="remember" value="1" class="rip" tabindex="33"/>
+													<label for="remember-me">
+														Mémoriser													</label>
+												</div>
+																					</div>
+										<div class="popbox-dropdown-signin__action-col">
+											<button class="btn btn-primary" tabindex="34">Connexion</button>
+										</div>
+									</div>
+									<input type="hidden" value="com_users"  name="option">
+									<input type="hidden" value="user.login" name="task">
+									<input type="hidden" name="return" value="aHR0cDovL3NsYS5sdS9TeW50aGVzZS9sZS1ibG9nL2Rlcm5pZXJzLWFydGljbGVzLXB1YmxpZXMvZW50cnkvbGEtYmxvY2tjaGFpbi9maXNjYWxpdGUtZGVzLWNyeXB0b2FjdGlmLXNhbnMtZHJvaXQtYXUtY29tcHRlLWNlLXNvbnQtZGVzLWNvbnZlcnNhdGlvbnMtZGUtc2Fsb24=" />
+									<input type="hidden" name="d29486b1d262f1dad9ad3a2585365d7d" value="1" />
+
+																	</form>
+							</div>
+							<div class="popbox-dropdown__ft">
+								<ul class=" popbox-dropdown-signin__ft-list g-list-inline g-list-inline--dashed t-text--center">
+									<li>
+										<a href="/Synthese/component/users/?view=remind&amp;Itemid=133">I forgot my username</a>
+									</li>
+									<li>
+										<a href="/Synthese/component/users/?view=reset&amp;Itemid=133" class="">Mot de passe oublié ?</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				
+				
+							</nav>
+
+						<div id="eb-toolbar-search" class="eb-navbar__search " data-eb-mobile-search>
+				<form class="eb-navbar__search-form" method="post" action="/Synthese/le-blog/derniers-articles-publies">
+
+					<input type="text" name="query" class="eb-navbar__search-input" autocomplete="off" placeholder="Rechercher…" />
+					<input type="hidden" name="option" value="com_easyblog" />
+<input type="hidden" name="task" value="search.query"  data-table-grid-task />
+<input type="hidden" name="d29486b1d262f1dad9ad3a2585365d7d" value="1" />
+<input type="hidden" name="boxchecked" value="0" data-table-grid-box-checked />
+				</form>
+			</div>
+			
+			<form action="/Synthese/le-blog/derniers-articles-publies" method="post" data-blog-logout-form class="hide">
+				<input type="hidden" value="com_users"  name="option" />
+				<input type="hidden" value="user.logout" name="task" />
+				<input type="hidden" value="aHR0cDovL3NsYS5sdS9TeW50aGVzZS9sZS1ibG9nL2Rlcm5pZXJzLWFydGljbGVzLXB1YmxpZXMvZW50cnkvbGEtYmxvY2tjaGFpbi9maXNjYWxpdGUtZGVzLWNyeXB0b2FjdGlmLXNhbnMtZHJvaXQtYXUtY29tcHRlLWNlLXNvbnQtZGVzLWNvbnZlcnNhdGlvbnMtZGUtc2Fsb24=" name="return" />
+				<input type="hidden" name="d29486b1d262f1dad9ad3a2585365d7d" value="1" />
+			</form>
+		</div>
+
+				<div class="eb-navbar__footer">
+			<div class="o-row">
+				<ol class="g-list-inline g-list-inline--dashed eb-navbar__footer-submenu">
+					
+										<li class="">
+						<a href="/Synthese/le-blog/les-articles-par-categories" class="eb-navbar__footer-link">
+							<span>Catégories</span>
+						</a>
+					</li>
+					
+										<li class="">
+						<a href="/Synthese/le-blog/derniers-articles-publies/tags" class="eb-navbar__footer-link">
+							<span>Mots clés</span>
+						</a>
+					</li>
+					
+					
+					
+										<li class="">
+						<a href="/Synthese/le-blog/derniers-articles-publies/archive" class="eb-navbar__footer-link">
+							<span>Archives</span>
+						</a>
+					</li>
+					
+										<li class="">
+						<a href="/Synthese/le-blog/derniers-articles-publies/calendar" class="eb-navbar__footer-link">
+							<span>Calendar</span>
+						</a>
+					</li>
+									</ol>
+			</div>
+		</div>
+			</div>
+	</div>
+
+
+	
+			<div class="eb-template" data-name="site/layout/image/popup">
+	<div id="eb" class="eb-image-popup">
+		<div class="eb-image-popup-header">
+			<div class="eb-image-popup-close-button"><i class="fa fa-close"></i></div>
+		</div>
+		<div class="eb-image-popup-container"></div>
+		<div class="eb-image-popup-footer">
+			<div class="eb-image-popup-thumbs"></div>
+		</div>
+		<div class="eb-loader-o size-lg"></div>
+	</div>
+</div>
+<div class="eb-template" data-name="site/layout/image/popup/thumb">
+	<div class="eb-image-popup-thumb"><div><img /></div></div>
+</div>		<div class="eb-template" data-name="site/layout/image/container">
+	<div class="eb-image">
+		<div class="eb-image-figure">
+			<a class="eb-image-viewport"></a>
+		</div>
+		<div class="eb-image-caption"><span></span></div>
+	</div>
+</div>	
+	<div class="eb-adsense-head clearfix">
+	</div>
+
+<div itemscope itemtype="http://schema.org/BlogPosting" data-blog-post>
+	<div id="entry-56979" class="eb-entry fd-cf" data-blog-posts-item data-id="56979" data-uid="56979.91431">
+
+		
+		
+		
+				<div class="eb-entry-tools row-table">
+			<div class="col-cell">
+				<div class="eb-entry-helper">
+	<div class="eb-help-resize">
+	<span>Taille du texte:</span>
+	<a href="javascript:void(0);" data-font-resize data-operation="increase" data-eb-provide="tooltip" data-original-title="Agrandir">
+		&plus;
+	</a>
+	<a href="javascript:void(0);" data-font-resize data-operation="decrease" data-eb-provide="tooltip" data-original-title="Réduire">
+		&ndash;
+	</a>
+</div>
+
+	
+				
+	
+			<div class="eb-help-print">
+    <i class="fa fa-print"></i>
+    <a rel="nofollow" title="Imprimer" href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon?tmpl=component&print=1&format=print" data-post-print>
+        Imprimer    </a>
+</div>
+
+	</div>
+			</div>
+
+						<div class="col-cell cell-tight">
+							</div>
+					</div>
+				
+		
+		<div class="eb-entry-head">
+
+			
+			
+			
+							<h1 itemprop="name headline" id="title-56979" class="eb-entry-title reset-heading  ">Fiscalité des cryptoactif : « sans droit au compte, ce sont des conversations de salon »</h1>
+			
+
+			
+			<div class="eb-entry-meta text-muted">
+				
+								<div class="eb-entry-date">
+					<i class="fa fa-clock-o"></i>
+					<time class="eb-meta-date" itemprop="datePublished" content="16/02/19">
+						samedi 16 février 2019						<meta itemprop="dateModified" content="16/02/19"/>
+						<meta itemprop="mainEntityOfPage" content="http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon"/>
+					</time>
+				</div>
+				
+								<div class="eb-meta-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+					<i class="fa fa-pencil"></i>
+					<span itemprop="name">
+						<a href="/Synthese/le-blog/derniers-articles-publies/blogger/observeur" itemprop="url" rel="author">L'Observeur</a>
+					</span>
+				</div>
+				
+									<div class="eb-meta-category comma-seperator">
+						<i class="fa fa-folder-open"></i>
+												<span><a href="/Synthese/le-blog/les-articles-par-categories/la-blockchain">La Blockchain</a></span>
+											</div>
+				
+								<div class="eb-meta-views">
+					<i class="fa fa-eye"></i>
+					32 Hits				</div>
+				
+								<div class="eb-meta-comments">
+											<i class="fa fa-comments"></i>
+						<a href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon#comments">0 commentaires</a>
+									</div>
+							</div>
+		</div>
+
+		<div class="eb-entry-body type-standard clearfix">
+			<div class="eb-entry-article clearfix" itemprop="articleBody" data-blog-content>
+
+				
+				
+				
+
+									
+					<!--LINK TYPE FOR ENTRY VIEW-->
+					
+					<div id="post-38891">
+	
+		<div class="blog-post-published-by">Publié dans <span class="category"><a href="https://bitcoin.fr/category/bitcoin/" rel="nofollow category tag">Bitcoin</a></span>, écrit par <a href="https://bitcoin.fr/author/redaction/" rel="nofollow author" class="autor">La rédaction</a></div>
+	<p><span class="glyphicon glyphicon-time">Le samedi 16 février 2019, 0:01</span></p>
+
+	<div class="blog-post-content">
+		<div class="thumbnail"><img width="200" height="200" src="https://bitcoin.fr/wp-content/uploads/2016/04/sputnik.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></div>		<p style="text-align: justify;">« Le rapport de la mission d’information sur les monnaies virtuelles préconise un statut législatif et fiscal inédit en Europe. Si certaines propositions viennent d’être adoptées, celles-ci seront-elles suffisantes pour faire de la France un des leaders en matière de blockchain, comme le souhaite le gouvernement? Certains en doutent… analyse. ».</p>
+<h4 style="text-align: justify;">A lire sur <a href="https://fr.sputniknews.com/economie/201902151040041540-impots-cryptoactifs-blockchain-compte-banque/" target="_blank" rel="nofollow noopener">sputniknews.com</a> </h4>
+
+<p>
+	</p><h3 class="jp-relatedposts-headline">Articles similaires</h3>
+	</div>
+	
+</div><div><a rel="nofollow" href="https://bitcoin.fr/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon/" target="_blank">Lien d'origine</a></div>				
+				
+							</div>
+
+							<div class="eb-share">
+	<div class="eb-share-buttons is-large ">
+
+				<div class="eb-share-facebook">
+			<script type="text/javascript">
+EasyBlog.require()
+.script("site/bookmarklet")
+.done(function($) {
+
+	$('#sb-1634417952').bookmarklet('facebook', {
+		"url": "http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon",
+		"send": "1",
+		"size": "large",
+		"verb": "like",
+		"locale": "fr_FR",
+		"theme": "light",
+		"tracking" : false	});
+});
+</script>
+<div class="eb-facebook-like like has-sendbtn">
+	<span id="sb-1634417952"></span>
+</div>		</div>		
+				<div class="eb-share-twitter">
+			<div class="eb-social-button retweet">
+	<a href="https://twitter.com/intent/tweet?url=http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon&amp;text=Fiscalit%C3%A9+des+cryptoactif+%3A+%C2%AB%C2%A0sans+droit+au+compte%2C+ce+sont+des+conversations+de+salon%C2%A0%C2%BB" target="_blank" alt ="Tweet Fiscalité des cryptoactif : « sans droit au compte, ce sont des conversations de salon »" class="eb-share-twitter-btn">
+		<i class="fa fa-twitter"></i>
+		<span class="btn-text">Tweet</span>
+	</a>
+</div>		</div>		
+				<div class="eb-share-linkedin">
+			<script type="text/javascript">
+EasyBlog.require()
+.script("site/bookmarklet")
+.done(function($) {	
+	$('#sb-674825729').bookmarklet('linkedin', {
+		"url": "http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon",
+		"size": "large"
+	});
+});
+</script>
+<div class="eb-social-button linkedin-share">
+	<span id="sb-674825729"></span>
+</div>		</div>		
+				<div class="eb-share-google">
+			<script type="text/javascript">
+EasyBlog.require()
+.script("site/bookmarklet")
+.done(function($) {
+	$('#sb-283523117').bookmarklet('google', {
+		"href": "http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon",
+		"size": "large"
+	});
+});
+</script>
+<div class="eb-social-button google-plusone">
+	<span id="sb-283523117"></span>
+</div>		</div>		
+			</div>
+</div>			
+			
+			
+						<div class="eb-entry-ratings">
+				<div class="eb-rating">
+    <form id="blog-56979-ratings-form" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"	class="eb-rating-form"
+	data-locked="1"
+	data-id="56979"
+	data-type="entry"
+	data-rating-form
+	data-score="0"
+>
+		<meta itemprop="ratingValue" content="0" />
+	<meta itemprop="worstRating" content="1">
+	<meta itemprop="bestRating" content="5">
+	
+	
+	
+	<div data-rating-form-element></div>
+
+	<div class="col-cell eb-rating-voters">
+				<a class="eb-rating-link" href="javascript:void(0);" data-rating-voters>
+		
+			<b class="eb-ratings-value" title="0 votes" data-rating-value>
+				<span data-rating-total  itemprop="ratingCount">0</span>
+				<b title="Vous avez déjà voté pour cet article">
+					<i class="fa fa-check"></i>
+				</b>
+			</b>
+
+				</a>
+			</div>
+</form>
+</div>			</div>
+			
+			
+						<div class="eb-entry-tags">
+							</div>
+			
+										
+			<div class="eb-entry-nav fd-cf">
+		<div class="eb-entry-nav-prev">
+		<a href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactifs-sans-droit-au-compte-ce-sont-des-conversations-de-salon"> 
+			<i class="fa fa-angle-left pull-left"></i>
+			Fiscalité des cryptoactifs : « sans droit au compt...		</a>
+	</div>
+	
+		<div class="eb-entry-nav-next">
+		<a href="/Synthese/le-blog/derniers-articles-publies/entry/ZDNet/les-americains-et-facebook">
+			<i class="fa fa-angle-right pull-right"></i>
+			Les Américains et Facebook		</a>
+	</div>
+	</div>
+		</div>
+
+					<div class="eb-entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <h4 class="eb-section-heading reset-heading">À propos de l'auteur</h4>
+
+    <div class="eb-entry-author-bio media">
+                <div class="col-cell">
+            <a href="/Synthese/le-blog/derniers-articles-publies/blogger/observeur" class="eb-entry-author-avatar eb-avatar col-cell">
+                <img itemprop="image" src="http://sla.lu/Synthese/images/easyblog_avatar/1040_detective.jpg" width="50" height="50" alt="L'Observeur" />
+            </a>
+        </div>
+        
+        <div class="col-cell">
+                        <h3 itemprop="name" class="eb-author-name reset-heading">
+                <a href="/Synthese/le-blog/derniers-articles-publies/blogger/observeur">L'Observeur</a>
+            </h3>
+            
+            
+            
+            <div class="eb-entry-author-meta muted">
+                                <span>
+                    <a href="/Synthese/le-blog/derniers-articles-publies/blogger/observeur">Voir le profil de l'auteur</a>
+                </span>
+                
+                                <span>
+                    <a href="/Synthese/le-blog/derniers-articles-publies/blogger/observeur">Plus d'articles de cet auteur</a>
+                </span>
+                
+                
+                
+                            </div>
+        </div>
+
+        
+                <div class="eb-entry-author-details" itemprop="description">
+            Comme son nom l'indique, l'Observeur est en charge de suivre ce qui est publi&eacute; sur un certains nombre de sites que nous suivons.        </div>
+            </div>
+
+        <div class="eb-entry-author-recents">
+        <h5 class="reset-heading">Voici les derniers articles de cet utilisateur:</h5>
+
+                <div>
+            <a href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/le-cercle-du-coin-a-lausanne">
+                <i class="fa fa-file-o pull-left mr-10"></i>
+                <time class="pull-right">dimanche 3 mars 2019</time>
+                <span>Le Cercle du Coin à Lausanne</span>
+            </a>
+        </div>
+                <div>
+            <a href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/rouen-bitcoin-workshop-2-comment-fonctionne-bitcoin">
+                <i class="fa fa-file-o pull-left mr-10"></i>
+                <time class="pull-right">dimanche 3 mars 2019</time>
+                <span>Rouen : Bitcoin Workshop #2 – Comment fonctionne Bitcoin ?</span>
+            </a>
+        </div>
+                <div>
+            <a href="/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/video-atelier-d-installation-de-noeud-lightning">
+                <i class="fa fa-file-o pull-left mr-10"></i>
+                <time class="pull-right">dimanche 3 mars 2019</time>
+                <span>Vidéo : Atelier d’installation de nœud Lightning</span>
+            </a>
+        </div>
+            </div>
+    </div>
+		
+			</div>
+
+	
+	
+			<a class="eb-anchor-link" name="comments" id="comments">&nbsp;</a>
+		<div class="eb-comments" data-eb-comments>
+	<h4 class="eb-section-heading reset-heading">
+		Commentaires 
+			</h4>
+
+						<div data-comment-list>
+									<div class="eb-comments-empty" data-comment-empty>
+						<i class="fa fa-info-circle"></i>
+						Pas encore de commentaire					</div>
+							</div>
+			
+	
+	<div data-comment-form-wrapper>
+		<form class="eb-comment-form reset-form" method="post" action="/Synthese/le-blog/derniers-articles-publies" data-comment-form data-captcha="builtin">
+
+	<div class="eb-composer-author row-table">
+				<span class="col-cell cell-tight">
+			<b class="eb-avatar">
+				<img src="http://sla.lu/Synthese/components/com_easyblog/assets/images/default_blogger.png" width="50" height="50" />
+			</b>
+		</span>
+		
+		<div class="col-cell">
+
+						<div class="pull-right">
+				Already Registered?				<a href="/Synthese/component/users/?view=login&amp;return=L1N5bnRoZXNlL2xlLWJsb2cvZGVybmllcnMtYXJ0aWNsZXMtcHVibGllcy9lbnRyeS9sYS1ibG9ja2NoYWluL2Zpc2NhbGl0ZS1kZXMtY3J5cHRvYWN0aWYtc2Fucy1kcm9pdC1hdS1jb21wdGUtY2Utc29udC1kZXMtY29udmVyc2F0aW9ucy1kZS1zYWxvbg==&amp;Itemid=133">Login Here</a>
+			</div>
+			
+			<strong>Guest</strong>
+			<div class="text-small text-muted">dimanche 3 mars 2019</div>
+		</div>
+	</div>
+
+	<div class="eb-comment-notice" data-comment-notice></div>
+
+		<div class="eb-comment-editor">
+
+					<input type="hidden" id="title" name="title" value="" data-comment-title/>
+		
+		<div class="form-group">
+			<textarea id="comment" name="comment" class="form-control textarea" rows="5" data-comment-editor data-comment-bbcode="1"></textarea>
+		</div>
+
+					
+			<div class="form-group">
+				<input type="text" class="form-control" id="esname" name="esname" placeholder="Nom" data-comment-name/>
+			</div>
+
+						<div class="form-group">
+								<div class="col-cell cell-half">
+					<input type="text" class="form-control" name="esemail" id="esemail" placeholder="E-mail" data-comment-email/>
+				</div>
+				
+								<div class="col-cell cell-half">
+					<input type="text" class="form-control" name="url" id="url" placeholder="Site web" data-comment-website/>
+				</div>
+							</div>
+			
+					
+				
+				<div class="eb-checkbox">
+			<input type="checkbox" name="subscribe-to-blog" id="subscribe-to-blog" value="1" data-comment-subscribe />
+			<label for="subscribe-to-blog">
+				Subscribe to this blog post
+									(Veuillez indiquer votre adresse email pour vous abonner aux mises à jour du blog.)
+							</label>
+		</div>
+		
+		
+		<div class="eb-comment-captcha" data-comment-captcha>
+    <p class="hide">
+        <b>Image Captcha</b>
+    </p>
+    
+    <div class="eb-comment-captcha-form">
+        <div class="eb-comment-captcha-img">
+            <img src="/Synthese/le-blog/derniers-articles-publies?task=captcha.generate&amp;no_html=1&amp;tmpl=component&amp;id=7123885" width="100" height="20" data-captcha-image style="max-width: none;" />
+        </div>
+
+        <div class="eb-comment-captcha-reload"><a href="javascript:void(0);" data-captcha-reload class="btn btn-default"><i class="fa fa-refresh"></i></a></div>
+    </div>
+
+    <input type="text" name="captcha-response" id="captcha-response" class="eb-comment-captcha-input form-control text-center" maxlength="5" data-captcha-input />
+
+    <input type="hidden" name="captcha-id" id="captcha-id" value="7123885" data-captcha-id/>
+</div>		
+		<div class="form-action">
+			<button class="btn btn-primary" data-comment-submit>Envoyer votre commentaire</button>
+		</div>
+	</div>
+	
+	<input type="hidden" name="id" value="56979" data-comment-blog-id />
+	<input type="hidden" name="parent_id" id="parent_id" value="0" data-comment-parent-id />
+	<input type="hidden" name="comment_depth" id="comment_depth" value="0" data-comment-depth />
+	<input type="hidden" name="email" id="email" value="" data-comment-email />
+</form>
+	</div>
+</div>
+	</div>
+
+<div class="eb-adsense-foot clearfix">
+	</div>
+
+		<div>
+		<script type="text/javascript">EasyBlog.ready(function($){
+
+	// Bind event's on the font size changer.
+	$('[data-font-resize]').on('click', function() {
+
+		// General font size
+		var content = $('[data-blog-content]'),
+			current = content.css('font-size'),
+			num = parseFloat(current, 10),
+			unit = current.slice(-2),
+			operation = $(this).data('operation');
+
+		// <p> tag size
+		var pTag = content.find('p'),
+			pNum = parseFloat(pTag.css('font-size'), 10);
+
+		// <span> size
+		var spanTag = content.find('span'),
+			spanNum = parseFloat(spanTag.css('font-size'), 10);
+
+		// <h> header tag
+		var header = content.find(':header'),
+			headerNum = parseFloat(header.css('font-size'), 10);
+
+		// block link description text
+		var linksBlock = $('[data-type="links"]'),
+			linksDesc = linksBlock.find('.media-content');
+
+		if (operation == 'increase') {
+			num = num * 1.4;
+			pNum = pNum * 1.4;
+			spanNum = spanNum * 1.4;
+			headerNum = headerNum * 1.4;
+		}
+
+		if (operation == 'decrease') {
+			num = num / 1.4;
+			pNum = pNum / 1.4;
+			spanNum = spanNum / 1.4;
+			headerNum = headerNum / 1.4;
+		}
+
+		content.css('font-size', num + unit);
+		pTag.css('font-size', pNum + unit);
+		spanTag.css('font-size', spanNum + unit);
+		header.css('font-size', headerNum + unit);
+		linksDesc.css('font-size', num + unit);
+	});
+});</script><script type="text/javascript">
+EasyBlog.ready(function($) {
+
+    $('[data-post-print]').on('click', function(event) {
+        var el = $(this),
+            url = el.attr('href');
+
+
+        window.open(url, 'win2', 'status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');
+
+        // Prevent bubbling up.
+        event.preventDefault();
+    });
+});</script><script type="text/javascript">
+EasyBlog.require()
+.script('site/comments/comments')
+.done(function($) {
+
+	window.EasyBlogBBCodeSettings = {
+
+		previewParserVar: 'data',
+		markupSet: [
+			{name:'Gras', key:'B', openWith:'[b]', closeWith:'[/b]', className:'markitup-bold'},
+			{name:'Italique', key:'I', openWith:'[i]', closeWith:'[/i]', className:'markitup-italic'},
+			{name:'Souligné', key:'U', openWith:'[u]', closeWith:'[/u]', className:'markitup-underline'},
+			{separator:'---------------' },
+			{name:'Hyperlink', key: 'L', openWith: '[url=[![Link:]!]]', closeWith: '[/url]', beforeInsert: function(h ) {},className: 'markitup-url'},
+			{name:'Image', key:'P', replaceWith:'[img][![Url]!][/img]', className:'markitup-picture'},
+			{separator:'---------------' },
+			{name:'Liste à puces', openWith:'[list]\\n', closeWith:'\\n[/list]', className:'markitup-bullet'},
+			{name:'Liste numérique', openWith:'[list=[![Starting number]!]]\\n', closeWith:'\\n[/list]', className:'markitup-numeric'},
+			{name:'Élément de liste', openWith:'[*] ', className:'markitup-list'},
+			{separator:'---------------' },
+			{name:'Citations', openWith:'[quote]', closeWith:'[/quote]', className:'markitup-quote'},
+			{name:'Sans balises html', className:"clean", replaceWith:function(markitup) { return markitup.selection.replace(/\[(.*?)\]/g, "") } , className:'markitup-clean'},
+			{separator:'---------------' },
+			{name:'Heureux', openWith:':D', className:'markitup-happy'},
+			{name:'Sourire', openWith:':)', className:'markitup-smile'},
+			{name:'Surpris', openWith:':o', className:'markitup-surprised'},
+			{name:'Moqueur', openWith:':p', className:'markitup-tongue'},
+			{name:'Malheureux', openWith:':(', className:'markitup-unhappy'},
+			{name:'Clin d\'œil', openWith:';)', className:'markitup-wink'}
+		]
+	};
+
+	$('[data-eb-comments]').implement(EasyBlog.Controller.Comments);
+})</script><script type="text/javascript">EasyBlog.require()
+.script('site/posts/posts')
+.done(function($) {
+
+	
+	// Implement post library
+	$('[data-blog-post]').implement(EasyBlog.Controller.Posts, {
+		"ratings": true	});
+});
+</script><script type="text/javascript">
+EasyBlog.ready(function($){
+
+    if ($('#more-settings li').length == 0) {
+        $('#more-settings').parent('li').addClass('hide');
+    }
+
+	$(document).on('click', '[data-blog-toolbar-logout]', function(event) {
+		$('[data-blog-logout-form]').submit();
+	});
+
+    $('.btn-eb-navbar').click(function() {
+        $('.eb-navbar-collapse').toggleClass("in");
+        return false;
+    });
+
+	$('#ezblog-head #ezblog-search').bind('focus', function(){
+
+        $(this).animate({
+            width: '170'
+        });
+	});
+
+	$('#ezblog-head #ezblog-search').bind( 'blur' , function(){
+		$(this).animate({ width: '120'});
+	});
+
+    });
+</script>	</div>
+	</div>
+										</div>
+												</div>
+											<div id="jsn-usermodules2" class="jsn-modulescontainer jsn-modulescontainer1">
+										<div id="jsn-usermodules2_inner_grid1" class="row-fluid">
+															<div id="jsn-pos-user3" class="span12">
+												<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
+<div  >
+	<p style="line-height: 20.3999996185303px;"><span style="color: #595959; font-size: 10.4000015258789px; line-height: 12.8000020980835px; text-align: right;">Copyright © 2018 SLA<br />167 Chemin des Combes 74110 Essert-Romand - tel : 04.50.83.06.79 - Mobile : 06.75.23.84.11</span></p>
+<p style="margin-bottom: 10px; line-height: 20.3999996185303px;"><span style="color: #595959; font-size: 10.4000015258789px; line-height: 12.8000020980835px; text-align: right;"><a href="/Synthese/17-la-societe-synthese/4-mentions-legales">Mentions légales</a>&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp;<a href="/Synthese/17-la-societe-synthese/3-politique-de-confidentialite">Politique de confidentialité</a>&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp;<a href="/Synthese/plan-du-site">Plan du site</a></span></p></div><div class="clearbreak"></div></div></div></div></div></div>
+											</div>
+															<div class="clearbreak"></div>
+										</div>
+									</div>
+				        				</div></div> <!-- end centercol -->
+	        					</div></div></div></div></div></div> <!-- end jsn-maincontent -->
+									<div id="jsn-leftsidecontent" class="span3 order1 offset-9">
+							<div id="jsn-leftsidecontent_inner">
+								<div id="jsn-pos-left">
+									<div class="box-blue jsn-icon-online jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
+<div  >
+	<address style="line-height: 20.3999996185303px; text-align: center;"><span style="font-size: 1.6em; line-height: 1.5;">IMPORTANT</span></address>
+<p style="line-height: 20.3999996185303px;"><span style="font-size: 11pt; line-height: 15.6933336257935px; font-family: Calibri, sans-serif;"><img src="/Synthese/images/imgs/copyright.jpg" alt="copyright" width="73" height="73" style="margin-right: 6px; float: left;" /></span></p>
+<p style="line-height: 20.3999996185303px;">&nbsp;Notre blog est un blog de Curation, aussi l<span style="font-size: 11pt; line-height: 15.6933336257935px; font-family: Calibri, sans-serif;">es articles publi&eacute;s proviennent-ils de diff&eacute;rents flux RSS et nous ne pr&eacute;tendons, en aucune mani&egrave;re, nous en attribuer la paternit&eacute;. Si vous souhaitez lire l'article original sur le site d'origine, il vous suffit de cliquer sur "<em>Lien d'origine</em>&nbsp;" qu se trouve &agrave; la fin de l'article.</span></p></div><div class="clearbreak"></div></div></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
+<div  >
+	<p style="line-height: 20.3999996185303px;"><img style="display: block; margin-right: auto; margin-left: auto;" src="/Synthese/images/imgs/at_symbol_locked_400_clr_5838.png" alt="at symbol locked 400 clr 5838" width="75" height="75" /></p>
+<p style="margin-bottom: 10px; line-height: 20.3999996185303px; text-align: center;"><a class="link-button button-blue" href="/Synthese/17-la-societe-synthese/3-politique-de-confidentialite"><span style="font-size: 7pt;">Politique de confidentialité</span></a></p></div><div class="clearbreak"></div></div></div></div></div></div>
+								</div>
+							</div>
+						</div>
+									<div id="jsn-rightsidecontent" class="span3 order3 ">
+							<div id="jsn-rightsidecontent_inner">
+								<div id="jsn-pos-right">
+									<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Traduire</span></h3><div class="jsn-modulecontent">
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function GTranslateGetCurrentLang() {var keyValue = document.cookie.match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className=='goog-te-combo')teCombo=sel[i];if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+/* ]]> */
+</script>
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'fr', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('fr|fr');return false;" title="French" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/fr.png" height="16" width="16" alt="fr" /></a><a href="#" onclick="doGTranslate('fr|en');return false;" title="English" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/en.png" height="16" width="16" alt="en" /></a><a href="#" onclick="doGTranslate('fr|de');return false;" title="German" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/de.png" height="16" width="16" alt="de" /></a><a href="#" onclick="doGTranslate('fr|it');return false;" title="Italian" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/it.png" height="16" width="16" alt="it" /></a><a href="#" onclick="doGTranslate('fr|pt');return false;" title="Portuguese" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/pt.png" height="16" width="16" alt="pt" /></a><a href="#" onclick="doGTranslate('fr|ru');return false;" title="Russian" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/ru.png" height="16" width="16" alt="ru" /></a><a href="#" onclick="doGTranslate('fr|es');return false;" title="Spanish" class="flag nturl notranslate"><img src="/Synthese/modules/mod_gtranslate/tmpl/lang/16/es.png" height="16" width="16" alt="es" /></a><br/><select onchange="doGTranslate(this);" class="notranslate"><option value="">Select Language</option><option style="font-weight:bold;" value="fr|fr">French</option><option  value="fr|af">Afrikaans</option><option  value="fr|sq">Albanian</option><option  value="fr|ar">Arabic</option><option  value="fr|hy">Armenian</option><option  value="fr|az">Azerbaijani</option><option  value="fr|eu">Basque</option><option  value="fr|be">Belarusian</option><option  value="fr|bg">Bulgarian</option><option  value="fr|ca">Catalan</option><option  value="fr|zh-CN">Chinese (Simplified)</option><option  value="fr|zh-TW">Chinese (Traditional)</option><option  value="fr|hr">Croatian</option><option  value="fr|cs">Czech</option><option  value="fr|da">Danish</option><option  value="fr|nl">Dutch</option><option  value="fr|en">English</option><option  value="fr|et">Estonian</option><option  value="fr|tl">Filipino</option><option  value="fr|fi">Finnish</option><option  value="fr|gl">Galician</option><option  value="fr|ka">Georgian</option><option  value="fr|de">German</option><option  value="fr|el">Greek</option><option  value="fr|ht">Haitian Creole</option><option  value="fr|iw">Hebrew</option><option  value="fr|hi">Hindi</option><option  value="fr|hu">Hungarian</option><option  value="fr|is">Icelandic</option><option  value="fr|id">Indonesian</option><option  value="fr|ga">Irish</option><option  value="fr|it">Italian</option><option  value="fr|ja">Japanese</option><option  value="fr|ko">Korean</option><option  value="fr|lv">Latvian</option><option  value="fr|lt">Lithuanian</option><option  value="fr|mk">Macedonian</option><option  value="fr|ms">Malay</option><option  value="fr|mt">Maltese</option><option  value="fr|no">Norwegian</option><option  value="fr|fa">Persian</option><option  value="fr|pl">Polish</option><option  value="fr|pt">Portuguese</option><option  value="fr|ro">Romanian</option><option  value="fr|ru">Russian</option><option  value="fr|sr">Serbian</option><option  value="fr|sk">Slovak</option><option  value="fr|sl">Slovenian</option><option  value="fr|es">Spanish</option><option  value="fr|sw">Swahili</option><option  value="fr|sv">Swedish</option><option  value="fr|th">Thai</option><option  value="fr|tr">Turkish</option><option  value="fr|uk">Ukrainian</option><option  value="fr|ur">Urdu</option><option  value="fr|vi">Vietnamese</option><option  value="fr|cy">Welsh</option><option  value="fr|yi">Yiddish</option></select><div class="clearbreak"></div></div></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Rechercher</span></h3><div class="jsn-modulecontent">	<div class="search">
+		<form action="/Synthese/le-blog/derniers-articles-publies" method="post" class="form-inline">
+			<label for="mod-search-searchword" class="element-invisible">Rechercher</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="0" value="Recherche..."  onblur="if (this.value=='') this.value='Recherche...';" onfocus="if (this.value=='Recherche...') this.value='';" />			<input type="hidden" name="task" value="search" />
+			<input type="hidden" name="option" value="com_search" />
+			<input type="hidden" name="Itemid" value="208" />
+		</form>
+	</div>
+
+<div class="clearbreak"></div></div></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
+<div  >
+	<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/Synthese/images/veille/annonce-transformation-digitale.gif" alt="annonce transformation digitale" width="364" height="500" /></p>
+<p style="margin-bottom: 10px; line-height: 20.3999996185303px; text-align: center;"><a class="link-button button-orange" href="/Synthese/notre-offre/reussir-sa-transformation-digitale"><span class="link-icon jsn-icon-star" style="font-size: 10pt;">En savoir plus...</span></a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="box-blue jsn-icon-user jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">CES 2018</span></h3><div class="jsn-modulecontent">
+<div  >
+	<h3 style="line-height: 20.3999996185303px; text-align: center;">Un CES qui fait whoa !</h3>
+<p style="line-height: 20.3999996185303px; text-align: center;"><a href="/Synthese/la-revolution-numerique/regards-sur-le-ces/ces-2018" class="link-button button-blue">Regard sur le CES 2018</a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="box-blue jsn-icon-user jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Témoignages</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p style="line-height: 20.3999996185303px; text-align: center;">Ils ont assisté à nos séminaires et ils donnent leurs avis.</p>
+<p style="line-height: 20.3999996185303px; text-align: center;"><a class="link-button button-blue" href="/Synthese/notre-offre/temoignages-clients"><span class="link-icon jsn-icon-statistics">Ce que les participants en pensent</span></a></p></div><div class="clearbreak"></div></div></div></div></div></div><div class="box-blue jsn-icon-folder jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Programme 2018 - 2019</span></h3><div class="jsn-modulecontent">
+<div  >
+	<p style="line-height: 20.3999996185303px;"><em style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; color: #0000ff;"><img style="display: block; margin-right: auto; margin-left: auto;" src="/Synthese/images/imgs/programme-octobre-2018.PNG" alt="programme octobre 2018" width="207" height="280" /></span></em></p>
+<p style="text-align: center;"><a class="link-button button-light" style="line-height: 1.5;" href="/Synthese/images/pdf/programme-web-octobre--2018.pdf" target="_blank" rel="noreferrer"><span class="link-icon jsn-icon-download">Chargement</span></a></p></div><div class="clearbreak"></div></div></div></div></div></div>
+								</div>
+							</div>
+						</div>
+				                </div></div></div></div></div></div></div></div>
+	            </div>
+						</div>
+					</div>
+	</div>
+			<a id="jsn-gotoplink" href="http://sla.lu/Synthese/le-blog/derniers-articles-publies/entry/la-blockchain/fiscalite-des-cryptoactif-sans-droit-au-compte-ce-sont-des-conversations-de-salon#top">
+			<span>Aller au haut</span>
+		</a>
+	
+</body>
+</html>

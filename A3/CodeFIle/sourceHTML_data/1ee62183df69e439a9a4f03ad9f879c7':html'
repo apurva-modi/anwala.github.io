@@ -1,0 +1,700 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang=""><![endif]-->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang=""><![endif]-->
+<!--[if gt IE 8]><html class="no-js" lang=""><![endif]-->
+<head>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N24X87P');</script>
+
+
+<script data-cfasync='false'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TFWPFBN');</script>
+
+<script src="//cdn-s2s.buysellads.net/pub/bitcoinmagazine.js" data-cfasync="false"></script>
+<meta name="google-site-verification" content="QnuSHe7YlKnMLT0TreHLL6X5ZzyxIUv4RuX2Uw70hPo" />
+<link rel="manifest" href="/manifest.json" />
+<link rel="amphtml" href="https://bitcoinmagazine.com/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/amp/" />
+<link rel="canonical" href="https://bitcoinmagazine.com/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/" />
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="shortcut icon" href="https://fs.bitcoinmagazine.com/ico/favicon.ico">
+<meta name="application-name" content="Bitcoin Magazine">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Bitcoin Magazine" />
+
+<meta name="apple-mobile-web-app-title" content="Bitcoin Magazine">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-startup-image" href="/img/bitcoin-mag-sq.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://fs.bitcoinmagazine.com/ico/apple-touch-icon-180x180.png">
+<link rel="mask-icon" href="https://fs.bitcoinmagazine.com/ico/safari-pinned-tab.svg" color="#343434">
+
+<meta name="msapplication-TileColor" content="#343434" />
+<meta name="msapplication-TileImage" content="https://fs.bitcoinmagazine.com/ico/mstile-144x144.png">
+<meta name="msapplication-config" content="https://fs.bitcoinmagazine.com/ico/browserconfig.xml">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<!--[if lte IE 9]> <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script> <![endif]-->
+
+<meta name="theme-color" content="#343434">
+
+<meta property="fb:app_id" content="875084465904764" />
+<meta name="pocket-site-verification" content="3dd59a007024cd1df41c32f8c82df0" />
+<meta name="alexaVerifyID" content="sNEKy71py3FDJmnBnmEqBJbPU9Q" />
+
+<html prefix="og: http://ogp.me/ns#">
+<title data-test-attr="seo_title">Report: Crypto Exchanges Saw Trading Volumes Plummet in January | Bitcoin Magazine</title>
+<meta property="og:title" content="Report: Crypto Exchanges Saw Trading Volumes Plummet in January" />
+
+<meta name="description" content="Blockchain and cryptocurrency research firm Diar has released a report that reveals a sizeable drop in crypto trade volumes in January 2019 for popular crypto exchanges Binance, Gemini, OKEx and Coinbase." />
+<meta property="og:description" content="Blockchain and cryptocurrency research firm Diar has released a report that reveals a sizeable drop in crypto trade volumes in January 2019 for popular crypto exchanges Binance, Gemini, OKEx and Coinbase." />
+
+<meta property="og:url" content="https://bitcoinmagazine.com/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/" />
+
+<meta property="og:image" content="https://fs.bitcoinmagazine.com/img/images/trading_plummets.max-800x800.jpg" />
+<meta property="og:image:alt" content="trading plummets.jpg" />
+
+<meta name="author" content="Jimmy Aki" />
+<meta property="og:author" content="Jimmy Aki" />
+<meta name="twitter:creator" content="@BitcoinMagazine" />
+
+<meta name="twitter:site" content="@BitcoinMagazine" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta property="og:publisher" content="Bitcoin Magazine" />
+
+<meta name="keywords" content=" Bitcoin,  volumes,  bear,  trading, ">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Inconsolata|Roboto" />
+<link rel="stylesheet" type="text/css" href="/static/main.98a41891961b.css" />
+
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a95c7a5e28d380013fe53cd&product=inline-share-buttons"></script>
+
+<script data-cfasync='false' type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+</head>
+<body class="article-layout" id="articleBody">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N24X87P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFWPFBN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript>&lt;img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qmvEl1aAFUE06C" style="display:none" height="1" width="1" alt="" /&gt;</noscript>
+<div id="top_ad_header" style="display: none;">
+<span id="top_ad_header_close">x</span>
+<div id="bsa-zone_1546629010139-0_123456"></div>
+</div>
+
+<nav class="navbar container navbar-inverse navbar-toggleable-md" id="stickyNav">
+<div class="row mobile-logo-button hidden-lg-up">
+<div class="col-10">
+<a class="navbar-logo" href="/">
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 455 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<g transform="matrix(1,0,0,1,-134.835,-2645.38)">
+<g transform="matrix(1,0,0,1,0,432.551)">
+<g transform="matrix(0.976968,0,0,0.969503,1.763,69.3723)">
+<g transform="matrix(0.267419,0,0,0.267419,136.209,2223.5)">
+<path d="M195.225,195.184L156.637,214.269L156.637,70.906L195.225,51.821L195.225,195.184ZM247.612,169.273L209.025,188.359L209.025,44.996L247.585,25.924L247.612,25.924L247.612,169.273ZM261.412,162.448L261.412,19.085L300,0L300,143.363L261.412,162.448Z" style="fill:rgb(22,22,22);" />
+</g>
+<g transform="matrix(0.267419,0,0,0.267419,136.209,2223.5)">
+<path d="M143.184,175.593L143.184,214.18L0,143.363L0,104.775L143.184,175.593ZM143.184,123.205L143.184,161.793L0,90.975L0,52.388L143.184,123.205ZM143.184,70.817L143.184,109.405L0,38.588L0,0L143.184,70.817Z" style="fill:rgb(255,162,8);" />
+</g>
+</g>
+<g>
+<g transform="matrix(1.26258,0,0,1.26258,-294.674,502.516)">
+<path d="M421.064,1355.01L421.064,1400.44L444.332,1400.44C455.22,1400.44 462.22,1395.52 462.22,1387.74C462.22,1381.97 458.655,1377.43 453.081,1376.27C457.813,1374.91 460.794,1371.08 460.794,1366.48C460.794,1359.48 453.989,1355.01 443.359,1355.01L421.064,1355.01ZM434.48,1365.12L442.646,1365.12C445.304,1365.12 446.989,1366.55 446.989,1368.88C446.989,1371.28 445.304,1372.83 442.646,1372.83L434.48,1372.83L434.48,1365.12ZM434.48,1382.04L442.646,1382.04C446.082,1382.04 448.22,1383.59 448.22,1386.05C448.22,1388.71 446.082,1390.4 442.646,1390.4L434.48,1390.4L434.48,1382.04Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-294.674,502.516)">
+<rect x="470.322" y="1355.01" width="13.481" height="45.434" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-297.825,502.516)">
+<path d="M529.399,1365.77L529.399,1355.01L494.465,1355.01L494.465,1365.77L505.127,1365.77L505.127,1400.44L518.673,1400.44L518.673,1365.77L529.399,1365.77Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1,0,0,1,-3.62618,0)">
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<path d="M559.764,1354.62C545.7,1354.62 535.33,1364.41 535.33,1377.63C535.33,1391.05 545.505,1401.03 559.31,1401.03C566.181,1401.03 573.634,1397.59 578.56,1392.28L570.782,1383.98C567.671,1387.16 563.459,1389.23 559.959,1389.23C553.801,1389.23 549.135,1384.17 549.135,1377.5C549.135,1370.82 553.801,1365.83 559.959,1365.83C563.718,1365.83 567.931,1368.23 570.782,1371.86L578.56,1362.66C573.958,1357.73 566.634,1354.62 559.764,1354.62Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<path d="M606.689,1354.62C592.43,1354.62 581.93,1364.34 581.93,1377.69C581.93,1391.11 592.43,1401.03 606.689,1401.03C620.948,1401.03 631.448,1391.05 631.448,1377.69C631.448,1364.41 620.948,1354.62 606.689,1354.62ZM606.883,1365.9C612.846,1365.9 617.642,1370.89 617.642,1377.76C617.642,1384.63 612.846,1389.75 606.883,1389.75C600.921,1389.75 595.736,1384.63 595.736,1377.76C595.736,1370.89 600.856,1365.9 606.883,1365.9Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<rect x="639.096" y="1355.01" width="13.481" height="45.434" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.985,502.516)">
+<path d="M704.103,1400.44L704.103,1355.01L691.789,1355.01L691.789,1380.42L672.539,1355.01L661.003,1355.01L661.003,1400.44L673.382,1400.44L673.382,1375.17L692.632,1400.44L704.103,1400.44Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+</g>
+</g>
+<g transform="matrix(0.728286,0,0,0.728286,-67.9073,1275.13)">
+<path d="M440.928,1400.44L440.928,1380.82L434.068,1380.82L429.784,1391.06L425.5,1380.82L418.64,1380.82L418.64,1400.44L424.296,1400.44L424.296,1389.69L427.656,1398.54L431.912,1398.54L435.272,1389.69L435.272,1400.44L440.928,1400.44Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M458.204,1397.67L459.184,1400.44L466.1,1400.44L458.12,1380.82L451.456,1380.82L443.168,1400.44L449.832,1400.44L450.84,1397.67L458.204,1397.67ZM456.608,1393.02L452.52,1393.02L454.592,1387.28L456.608,1393.02Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M480.464,1390.11L480.464,1394.67C479.512,1395.07 478.56,1395.32 477.888,1395.32C475.34,1395.32 473.464,1393.36 473.464,1390.64C473.464,1387.98 475.312,1386.02 477.832,1386.02C479.456,1386.02 481.36,1386.84 482.676,1388.1L486.344,1383.64C484.244,1381.8 480.912,1380.62 477.86,1380.62C471.448,1380.62 466.8,1384.85 466.8,1390.64C466.8,1396.47 471.28,1400.72 477.44,1400.72C480.24,1400.72 483.852,1399.66 486.036,1398.2L486.036,1390.11L480.464,1390.11Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M502.92,1397.67L503.9,1400.44L510.816,1400.44L502.836,1380.82L496.172,1380.82L487.884,1400.44L494.548,1400.44L495.556,1397.67L502.92,1397.67ZM501.324,1393.02L497.236,1393.02L499.308,1387.28L501.324,1393.02Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M530.024,1384.88L530.024,1380.82L512.552,1380.82L512.552,1385.8L521.372,1385.8L512.216,1396.38L512.216,1400.44L530.22,1400.44L530.22,1395.46L520.868,1395.46L530.024,1384.88Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<rect x="533.3" y="1380.82" width="6.496" height="19.628" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M562.784,1400.44L562.784,1380.82L556.904,1380.82L556.904,1390.89L549.148,1380.82L543.716,1380.82L543.716,1400.44L549.624,1400.44L549.624,1390.42L557.352,1400.44L562.784,1400.44Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M583.308,1385.74L583.308,1380.82L566.704,1380.82L566.704,1400.44L583.56,1400.44L583.56,1395.52L573.2,1395.52L573.2,1393.08L582.384,1393.08L582.384,1388.15L573.2,1388.15L573.2,1385.74L583.308,1385.74Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1,0,0,1,0,-0.739906)">
+<path d="M205.641,2229.55L236.952,2214.06" style="fill:rgb(22,22,22);" />
+</g>
+</g>
+</g>
+</svg>
+</a>
+</div>
+<div class="col-5">
+<button class="navbar-toggler navbar-inverse navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
+<span class="navbar-toggler-icon"></span>
+</button>
+</div>
+</div>
+<div class="navbar-collapse collapse mx-auto navbar-main navbar-main-wrapper row" id="collapsingNavbar">
+<div class="col-lg-3 hidden-md-down navbar-logo-box">
+<a class="navbar-logo " href="/">
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 455 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<g transform="matrix(1,0,0,1,-134.835,-2645.38)">
+<g transform="matrix(1,0,0,1,0,432.551)">
+<g transform="matrix(0.976968,0,0,0.969503,1.763,69.3723)">
+<g transform="matrix(0.267419,0,0,0.267419,136.209,2223.5)">
+<path d="M195.225,195.184L156.637,214.269L156.637,70.906L195.225,51.821L195.225,195.184ZM247.612,169.273L209.025,188.359L209.025,44.996L247.585,25.924L247.612,25.924L247.612,169.273ZM261.412,162.448L261.412,19.085L300,0L300,143.363L261.412,162.448Z" style="fill:rgb(22,22,22);" />
+</g>
+<g transform="matrix(0.267419,0,0,0.267419,136.209,2223.5)">
+<path d="M143.184,175.593L143.184,214.18L0,143.363L0,104.775L143.184,175.593ZM143.184,123.205L143.184,161.793L0,90.975L0,52.388L143.184,123.205ZM143.184,70.817L143.184,109.405L0,38.588L0,0L143.184,70.817Z" style="fill:rgb(255,162,8);" />
+</g>
+</g>
+<g>
+<g transform="matrix(1.26258,0,0,1.26258,-294.674,502.516)">
+<path d="M421.064,1355.01L421.064,1400.44L444.332,1400.44C455.22,1400.44 462.22,1395.52 462.22,1387.74C462.22,1381.97 458.655,1377.43 453.081,1376.27C457.813,1374.91 460.794,1371.08 460.794,1366.48C460.794,1359.48 453.989,1355.01 443.359,1355.01L421.064,1355.01ZM434.48,1365.12L442.646,1365.12C445.304,1365.12 446.989,1366.55 446.989,1368.88C446.989,1371.28 445.304,1372.83 442.646,1372.83L434.48,1372.83L434.48,1365.12ZM434.48,1382.04L442.646,1382.04C446.082,1382.04 448.22,1383.59 448.22,1386.05C448.22,1388.71 446.082,1390.4 442.646,1390.4L434.48,1390.4L434.48,1382.04Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-294.674,502.516)">
+<rect x="470.322" y="1355.01" width="13.481" height="45.434" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-297.825,502.516)">
+<path d="M529.399,1365.77L529.399,1355.01L494.465,1355.01L494.465,1365.77L505.127,1365.77L505.127,1400.44L518.673,1400.44L518.673,1365.77L529.399,1365.77Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1,0,0,1,-3.62618,0)">
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<path d="M559.764,1354.62C545.7,1354.62 535.33,1364.41 535.33,1377.63C535.33,1391.05 545.505,1401.03 559.31,1401.03C566.181,1401.03 573.634,1397.59 578.56,1392.28L570.782,1383.98C567.671,1387.16 563.459,1389.23 559.959,1389.23C553.801,1389.23 549.135,1384.17 549.135,1377.5C549.135,1370.82 553.801,1365.83 559.959,1365.83C563.718,1365.83 567.931,1368.23 570.782,1371.86L578.56,1362.66C573.958,1357.73 566.634,1354.62 559.764,1354.62Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<path d="M606.689,1354.62C592.43,1354.62 581.93,1364.34 581.93,1377.69C581.93,1391.11 592.43,1401.03 606.689,1401.03C620.948,1401.03 631.448,1391.05 631.448,1377.69C631.448,1364.41 620.948,1354.62 606.689,1354.62ZM606.883,1365.9C612.846,1365.9 617.642,1370.89 617.642,1377.76C617.642,1384.63 612.846,1389.75 606.883,1389.75C600.921,1389.75 595.736,1384.63 595.736,1377.76C595.736,1370.89 600.856,1365.9 606.883,1365.9Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.657,502.516)">
+<rect x="639.096" y="1355.01" width="13.481" height="45.434" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1.26258,0,0,1.26258,-295.985,502.516)">
+<path d="M704.103,1400.44L704.103,1355.01L691.789,1355.01L691.789,1380.42L672.539,1355.01L661.003,1355.01L661.003,1400.44L673.382,1400.44L673.382,1375.17L692.632,1400.44L704.103,1400.44Z" style="fill:rgb(255,162,8);fill-rule:nonzero;" />
+</g>
+</g>
+</g>
+<g transform="matrix(0.728286,0,0,0.728286,-67.9073,1275.13)">
+<path d="M440.928,1400.44L440.928,1380.82L434.068,1380.82L429.784,1391.06L425.5,1380.82L418.64,1380.82L418.64,1400.44L424.296,1400.44L424.296,1389.69L427.656,1398.54L431.912,1398.54L435.272,1389.69L435.272,1400.44L440.928,1400.44Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M458.204,1397.67L459.184,1400.44L466.1,1400.44L458.12,1380.82L451.456,1380.82L443.168,1400.44L449.832,1400.44L450.84,1397.67L458.204,1397.67ZM456.608,1393.02L452.52,1393.02L454.592,1387.28L456.608,1393.02Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M480.464,1390.11L480.464,1394.67C479.512,1395.07 478.56,1395.32 477.888,1395.32C475.34,1395.32 473.464,1393.36 473.464,1390.64C473.464,1387.98 475.312,1386.02 477.832,1386.02C479.456,1386.02 481.36,1386.84 482.676,1388.1L486.344,1383.64C484.244,1381.8 480.912,1380.62 477.86,1380.62C471.448,1380.62 466.8,1384.85 466.8,1390.64C466.8,1396.47 471.28,1400.72 477.44,1400.72C480.24,1400.72 483.852,1399.66 486.036,1398.2L486.036,1390.11L480.464,1390.11Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M502.92,1397.67L503.9,1400.44L510.816,1400.44L502.836,1380.82L496.172,1380.82L487.884,1400.44L494.548,1400.44L495.556,1397.67L502.92,1397.67ZM501.324,1393.02L497.236,1393.02L499.308,1387.28L501.324,1393.02Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M530.024,1384.88L530.024,1380.82L512.552,1380.82L512.552,1385.8L521.372,1385.8L512.216,1396.38L512.216,1400.44L530.22,1400.44L530.22,1395.46L520.868,1395.46L530.024,1384.88Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<rect x="533.3" y="1380.82" width="6.496" height="19.628" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M562.784,1400.44L562.784,1380.82L556.904,1380.82L556.904,1390.89L549.148,1380.82L543.716,1380.82L543.716,1400.44L549.624,1400.44L549.624,1390.42L557.352,1400.44L562.784,1400.44Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+<path d="M583.308,1385.74L583.308,1380.82L566.704,1380.82L566.704,1400.44L583.56,1400.44L583.56,1395.52L573.2,1395.52L573.2,1393.08L582.384,1393.08L582.384,1388.15L573.2,1388.15L573.2,1385.74L583.308,1385.74Z" style="fill:rgb(22,22,22);fill-rule:nonzero;" />
+</g>
+<g transform="matrix(1,0,0,1,0,-0.739906)">
+<path d="M205.641,2229.55L236.952,2214.06" style="fill:rgb(22,22,22);" />
+</g>
+</g>
+</g>
+</svg>
+</a>
+</div>
+<div class="col-lg-9 col-md-15 col-sm-15 navbar-menu-box">
+<ul class="navbar-main-container">
+<li class="nav-item navdropdown">
+<a href="/articles/" class="nav-link mobile-toggle main-menu-href dropdown-toggle active" id="dropdownNews" aria-expanded="false">News <span class="hidden-lg-up rotate-arrow-reset mobile-arrow"></span> <span class="sr-only">(current)</span></a>
+
+<div class="mobile-submenu hidden-lg-up">
+<a class="subnav-link" href="/articles/">All</a>
+<a class="subnav-link" href="/sections/adoption-community/">Adoption &amp; Community</a>
+<a class="subnav-link" href="/sections/blockchain/">Blockchain</a>
+<a class="subnav-link" href="/sections/dark-web/">Dark Web</a>
+<a class="subnav-link" href="/sections/digital-assets/">Digital Assets</a>
+<a class="subnav-link" href="/sections/ethereum/">Ethereum</a>
+<a class="subnav-link" href="/sections/investing/">Investing</a>
+<a class="subnav-link" href="/sections/politics-law/">Law &amp; Justice</a>
+<a class="subnav-link" href="/sections/mining/">Mining</a>
+<a class="subnav-link" href="/sections/payments/">Payments</a>
+<a class="subnav-link" href="/sections/privacy-security/">Privacy &amp; Security</a>
+<a class="subnav-link" href="/sections/regulation/">Regulation</a>
+<a class="subnav-link" href="/sections/scams/">Scams</a>
+<a class="subnav-link" href="/sections/startups/">Startups</a>
+<a class="subnav-link" href="/sections/technical/">Technical</a>
+</div>
+
+
+<div class="dropdown-menu submenu-item hidden-sm-down" id="dropdownNews_block" aria-labelledby="dropdownNews">
+<div class="row justify-content-start w-100">
+<div class="col-3 subnav-col">
+<a class="subnav-link" href="/sections/adoption-community/">Adoption &amp; Community</a>
+<a class="subnav-link" href="/sections/blockchain/">Blockchain</a>
+<a class="subnav-link" href="/sections/dark-web/">Dark Web</a>
+<a class="subnav-link" href="/sections/digital-assets/">Digital Assets</a>
+</div>
+<div class="col-3 subnav-col">
+<a class="subnav-link" href="/sections/ethereum/">Ethereum</a>
+<a class="subnav-link" href="/sections/investing/">Investing</a>
+<a class="subnav-link" href="/sections/politics-law/">Law &amp; Justice</a>
+<a class="subnav-link" href="/sections/mining/">Mining</a>
+</div>
+<div class="col-3 subnav-col">
+<a class="subnav-link" href="/sections/payments/">Payments</a>
+<a class="subnav-link" href="/sections/privacy-security/">Privacy &amp; Security</a>
+<a class="subnav-link" href="/sections/regulation/">Regulation</a>
+<a class="subnav-link" href="/sections/scams/">Scams</a>
+</div>
+<div class="col-3 subnav-col">
+<a class="subnav-link" href="/sections/startups/">Startups</a>
+<a class="subnav-link" href="/sections/technical/">Technical</a>
+</div>
+<div class="col-6 subnav-col">
+</div>
+</div>
+</div>
+
+</li>
+<li class="nav-item">
+<a href="/guides/" class="nav-link main-menu-href None">Guides</a>
+</li>
+<li class="nav-item">
+<a href="/price/?utm_source=navbar" class="nav-link main-menu-href None">Price</a>
+</li>
+<li class="nav-item">
+<a href="https://explorer.bitcoinmagazine.com" class="nav-link main-menu-href">Explorer</a>
+</li>
+<li class="nav-item">
+<a href="/events/" class="nav-link main-menu-href None">Events</a>
+</li>
+<li class="nav-item">
+<a href="https://store.b.tc" target="_blank" class="nav-link main-menu-href ">Store</a>
+</li>
+
+</ul>
+</div>
+<div class="col-lg-3 hidden-md-down navbar-subscribe-box">
+<a href="#" class="btn subscribe-click" data-target="#signupModal" data-toggle="modal">SUBSCRIBE</a>
+</div>
+</div>
+</nav>
+<div id="stickySuspension"></div>
+<div class="row mx-auto">
+<div class="col-14">
+<div id="bsa-zone_1543955793008-0_123456"></div>
+</div>
+</div>
+<article class="container mx-auto row article pt-4 1550164623" data-url="/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/" id="1550164623">
+
+<div class="col-lg-3 hidden-md-down article-meta pt-2 pr-4">
+<div class="author-sticky-sidebar" id="authorSidebar">
+<div class="acticle--current-swction-cont">
+<div class="acticle--current-swction  mb-3"><a href="/sections/investing/">/
+INVESTING</a></div>
+<div class="article--author p-l-sm-all  mb-3" rel="author">
+<div class="col-xs-6">
+<a href="/authors/jimmy-aki/" rel="author">
+<img alt="Jimmy Aki" class="img-rounded article--author-box-img
+                js-article--author-box-img" height="150" src="https://fs.bitcoinmagazine.com/img/images/Jimmy_Aki.2e16d0ba.fill-150x150.jpg" width="150">
+</a>
+</div>
+<p class="mt-3">
+<a href="/authors/jimmy-aki/" rel="author">Jimmy Aki</a>
+</p>
+<p class="author-role  pb-0">Staff Writer</p>
+<span class="article--author-bio">
+<div class="rich-text"><p>Jimmy has been following the development of blockchain for several years, and he is optimistic about its potential to democratize the financial system.</p><p><br /></p></div>
+</span>
+</div>
+<time class="article--time" datetime="1550164623">Feb 14, 2019 <span class="p-l-sm-all"> 12:14 PM EST</span>
+</time>
+<div class="sharethis-inline-share-buttons share-this"></div>
+<div class="subscribe-button">
+<img src="/img/svg/bm-subscribe.svg" type="image/svg+xml" href="#" class="btn-action subscribe-click" data-target="#signupModal" data-toggle="modal" alt="Subscribe">
+</img>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-7 article-content-wrapper">
+
+<div class="row hidden-md-down">
+<ol vocab="http://schema.org/" typeof="BreadcrumbList" class="breadcrumb">
+<li property="itemListElement" typeof="ListItem">
+<a property="item" typeof="WebPage" href="/">Home</span></a> ›
+<meta property="position" content="1" />
+</li>
+<li property="itemListElement" typeof="ListItem">
+<a property="item" typeof="WebPage" href="/articles/"><span property="name">Articles</span></a> ›
+<meta property="position" content="2" />
+</li>
+<li property="itemListElement" typeof="ListItem">
+<a property="item" typeof="WebPage" href="/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/"><span property="name">Report: Crypto Exchanges Saw Trading Volumes Plummet in January</span></a>
+<meta property="position" content="3" />
+</li>
+</ol>
+</div>
+<div class="row hidden-lg-up">
+<div class="bm-card">
+<div class="card-content">
+<a class="section-title-holder hidden-md-down" href="/sections/investing/">
+<span class="section-title investing">Investing</span>
+</a>
+</div>
+</div>
+</div>
+<div class="row">
+<h1 class="article--view--headline" itemprop="name headline">Report: Crypto Exchanges Saw Trading Volumes Plummet in January</h1>
+<div class="article--mobile--author hidden-lg-up mb-3">
+by <a href="/authors/jimmy-aki/" rel="author"><b>Jimmy Aki</b> </a>
+<time class="mobiletime" datetime=""> &nbsp;
+02.14.19 <span class="p-l-sm-all"> 12:14 PM</span></time>
+</div>
+</div>
+<div class="row">
+<figure class="article--image m-t-md-all">
+<img class="lightbox" itemprop="image" itemtype="ImageObject" itemprop="contentUrl" src="https://fs.bitcoinmagazine.com/img/images/trading_plummets.original.jpg" alt="
+        Report: Crypto Exchanges Saw Trading Volumes Plummet in January
+        ">
+<figcaption>Report: Crypto Exchanges Saw Trading Volumes Plummet in January</figcaption>
+</figure>
+</div>
+<div class="row m-t-all">
+<section class="article--content" itemprop="articleBody">
+<div class="rich-text"><p>The crypto winter that started toward the end of last year doesn’t appear to be showing signs of slowing down. Digital assets like bitcoin lost more than 80 percent of their value while the overall crypto market cap shrunk from over $600 billion in January 2018 to less than $138 billion in December 2018.</p><p>Now, blockchain and cryptocurrency <a href="https://diar.co/volume-3-issue-4/">research firm Diar</a> has released a report that reveals a sizeable drop in crypto trade volumes in January 2019 for popular crypto exchanges Binance, Gemini, OKEx and Coinbase.</p><h4>Popular Exchanges Affected</h4><p>The report from Diar notes that the plunge in trading volumes affected most crypto exchanges irrespective of their scale.</p><p><a href="https://bitcoinmagazine.com/articles/binance-expands-fiat-crypto-exchange-europe-jersey/">Malta-based Binance</a>, the largest cryptocurrency exchange by 24-hour trading volume, endured one of its worst periods in January 2019, where its popular BTC/USD market saw trading volumes fall by over 40 percent in January compared to December where it traded above $5 billion.</p><p>U.S.-based <a href="https://bitcoinmagazine.com/articles/coinbase-might-be-behind-those-856000-btc-worth-transactions/">Coinbase</a>, which has been on a downtrend since the beginning of last year for its BTC/USD market, saw trading volumes rally above $2 billion in November. However, while December saw figures recede by a small margin, the trading volumes on the exchange fell even further and sat firmly on the $1 billion mark in January.</p><p>It is worth noting that January’s trading volume levels for Coinbase are the lowest that the exchange has recorded since May 2017.</p><p>Hong Kong-based <a href="https://bitcoinmagazine.com/articles/okex-lists-four-new-stablecoins/">OKEx</a> had seen its volumes for the BTC/USD market growing from October all through December before plummeting 30 percent from around $5.5 billion to below $4 billion.</p><p>Cameron and Tyler Winklevoss&#x27; Gemini exchange also had an underwhelming year with trade volumes falling below $500 million.</p><p>Binance CEO Changpeng Zhao made an effort to calm fears in November, <a href="https://www.youtube.com/watch?v=wdNWUQyouXM">telling CNBC Africa</a> that business was going well despite the crypto winter. According to Zhao, the exchange was trading one-tenth of the volumes it did in January 2018, but it was still way above what it was trading “two or three years ago.”</p><p>Despite the low trading volumes registered on popular crypto exchanges, the number of crypto <a href="https://bitcoinmagazine.com/articles/despite-slump-crypto-prices-bitcoin-atms-more-doubled-2018/">ATMs</a> installed continued on its ascent despite the market crash. Per data from <a href="https://coinatmradar.com/blog/bitcoin-atm-market-dynamics-january-2019/">Coin ATM Radar</a>, there were 149 new Bitcoin ATMs installed across the world in January 2019. The U.S. had a whopping 107 new Bitcoin ATMs installed, while Canada and Spain came in second and third.</p></div>
+<div class="category-list--keywords" itemprop="keywords">
+<hr />
+<a class="keyword-tags" href="/tags/bitcoin_1/">#Bitcoin</a>
+<a class="keyword-tags" href="/tags/volumes/">#volumes</a>
+<a class="keyword-tags" href="/tags/bear/">#bear</a>
+<a class="keyword-tags" href="/tags/trading/">#trading</a>
+<hr />
+</div>
+</section>
+</div>
+<div class="row hidden-lg-up mb-3">
+<div class="sharethis-inline-share-buttons"></div>
+</div>
+</div>
+<div class="col-lg-4 offset-lg-1 hidden-md-down pl-4">
+<aside class="article--sidebar latest">
+<div class="">
+<div class="cer-da mx-auto">
+
+<div id="bsa-zone_1543955833203-0_123456"></div>
+</div>
+</div>
+<div class="popular-list essential-list sidebar-list">
+<div class="sidebar-list-header">
+<span class="">Trending Now</span>
+</div>
+<ul class="list-group list-group-flush">
+<li class="list-group-item">
+<a class="headline-holder" href="/articles/op-ed-defining-decentralization-how-ambiguity-continues-divide-crypto/">
+<h5 class="headline">Op Ed: Defining Decentralization: How Ambiguity Continues to Divide Crypto</h5>
+</a>
+</li>
+<li class="list-group-item">
+<a class="headline-holder" href="/articles/report-claims-that-sextortionists-absconded-with-over-300000-in-crypto-in-2018/">
+<h5 class="headline">Report Claims That “Sextortionists” Absconded With Over $300,000 in Crypto in 2018</h5>
+</a>
+</li>
+<li class="list-group-item">
+<a class="headline-holder" href="/articles/bitcoin-price-analysis-keep-eye-out-close-above-current-high/">
+<h5 class="headline">Bitcoin Price Analysis: Keep an Eye Out for a Close Above the Current High</h5>
+</a>
+</li>
+<li class="list-group-item">
+<a class="headline-holder" href="/articles/stanford-student-calls-out-crypto-professor-inaccurate-bitcoin-lecture/">
+<h5 class="headline">Stanford Student Calls Out Crypto Professor for Inaccurate Bitcoin Lecture</h5>
+</a>
+</li>
+<li class="list-group-item">
+<a class="headline-holder" href="/articles/blockchain-advocacy-coalition-sponsors-bill-allow-crypto-legal-cannabis-tax/">
+<h5 class="headline">Blockchain Advocacy Coalition Sponsors Bill to Allow Crypto for Legal Cannabis Tax</h5>
+</a>
+</li>
+</ul>
+</div>
+</aside>
+<div class="previous-story-nav" id="previousArticle">
+<a href="/articles/freelancers-traditional-platforms-can-now-invoice-bitcoin-bitwage/" class="main-link">
+<div class="label-data">PREVIOUS STORY ></div>
+<img class="fixed-nav-nav" src="https://fs.bitcoinmagazine.com/img/images/bitwage_fl.max-300x300.jpg" alt="Freelancers on Traditional Platforms Can Now Invoice in Bitcoin Via Bitwage">
+<div class="meta-data">
+<h5>Freelancers on Traditional Platforms Can Now Invoice in Bitcoin Via Bitwage</h5>
+<div class="author-data"><img src="https://fs.bitcoinmagazine.com/img/images/Landon_Manning.max-30x30.jpg" alt="Landon Manning">by Landon Manning</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div style="margin-bottom:10px">
+<div class="article_related">
+<h4>Recommended</h4>
+<div class="row justify-content-center">
+<div class="col-sm-15 col-md-7 col-lg">
+<div class="article_card">
+<a href="/articles/bitcoin-price-analysis-consolidation-breaks-out-macro-resistance-test/" class="article_card_image" style="background-image:url('https://fs.bitcoinmagazine.com/img/images/234rt.original.jpg');"></a>
+<h3><a href="/articles/bitcoin-price-analysis-consolidation-breaks-out-macro-resistance-test/">Bitcoin Price Analysis: Consolidation Breaks Out Into Macro Resistance Test</a></h3>
+<p>Over the course of the last 10 days, bitcoin has managed to rally nearly 20% in value as it burst through two major resistance levels and is now beginning the test of a major macro level:</p>
+<a class="article_card_author" href="/authors/bitcoin-schmitcoin/">Bitcoin Schmitcoin</a>
+</div>
+</div>
+<div class="col-sm-15 col-md-7 col-lg">
+<div class="article_card">
+<a href="/articles/bitcoin-price-analysis-after-sudden-upswing-bitcoin-price-drifts-downward/" class="article_card_image" style="background-image:url('https://fs.bitcoinmagazine.com/img/images/234rt.original.jpg');"></a>
+<h3><a href="/articles/bitcoin-price-analysis-after-sudden-upswing-bitcoin-price-drifts-downward/">Bitcoin Price Analysis: After Sudden Upswing, Bitcoin Price Drifts Downward</a></h3>
+<p>It’s entirely possible we rally to new highs from here, but for now the bitcoin market structure is bearish as we have failed to break resistance, push new highs and break out of the supply-and-demand channel.</p>
+<a class="article_card_author" href="/authors/bitcoin-schmitcoin/">Bitcoin Schmitcoin</a>
+</div>
+</div>
+<div class="col-sm-15 col-md-7 col-lg">
+<div class="article_card">
+<a href="/articles/nasdaq-add-liquid-indices-tracking-value-btc-and-eth/" class="article_card_image" style="background-image:url('https://fs.bitcoinmagazine.com/img/images/Nasdaq_indices.original.jpg');"></a>
+<h3><a href="/articles/nasdaq-add-liquid-indices-tracking-value-btc-and-eth/">NASDAQ to Add Liquid Indices Tracking Value of BTC and ETH</a></h3>
+<p>NASDAQ is planning to add new, third-party liquid indices, specifically tied to the value of bitcoin and ether.</p>
+<a class="article_card_author" href="/authors/landon-manning/">Landon Manning</a>
+</div>
+</div>
+<div class="col-sm-15 col-md-7 col-lg">
+<div class="article_card">
+<a href="/articles/morgan-creek-bags-40m-raise-attracts-industry-first-funding-pensions/" class="article_card_image" style="background-image:url('https://fs.bitcoinmagazine.com/img/images/Morgan_Creek.original.jpg');"></a>
+<h3><a href="/articles/morgan-creek-bags-40m-raise-attracts-industry-first-funding-pensions/">Morgan Creek Bags $40M Raise, Attracts Industry First Funding From Pensions</a></h3>
+<p>Two pension plans from Fairfax County, Virginia, the $1.43 billion Police Officer’s Retirement System and the $3.9 billion Employee’s Retirement System, were the lead investors.</p>
+<a class="article_card_author" href="/authors/colin-harper/">Colin Harper</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+
+<div id="bsa-zone_1543955739624-0_123456"></div>
+<footer class=" footer-main">
+<div class="container">
+<div class="row">
+<div class="mx-auto">
+<a class="footer_logo" href="/">
+<img src="https://fs.bitcoinmagazine.com/img/svg/bitcoin-magazine-full-color-dark.svg" style="width: 300px">
+</a>
+</div>
+</div>
+<div class="row">
+<div class="mx-auto">
+<nav class="nav justify-content-center">
+<a href="/about/">About</a>
+<a href="/tos/">Terms of use</a>
+<a href="/advertise/">Advertise</a>
+<a href="https://store.btcmedia.org">Store</a>
+<a href="/archives/">Archives</a>
+<a href="https://btcmedia.org">Contact</a>
+</nav>
+</div>
+</div>
+<div class="row">
+<div class="mx-auto">
+
+<a href="https://btcmedia.org/" class="btc_footer_small_logo">
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1071 1071" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<g transform="matrix(1,0,0,1,-744.602,-1025.6)">
+<g transform="matrix(1,0,0,1,0,841)">
+<g transform="matrix(1,0,0,1,0,-841)">
+<path d="M1280.87,1025.6C1284.61,1025.61 1288.35,1025.65 1292.09,1025.74C1299.52,1025.9 1306.95,1026.22 1314.36,1026.69C1334.6,1027.97 1354.76,1030.4 1374.72,1033.97C1395.68,1037.72 1416.42,1042.73 1436.78,1048.96C1457.38,1055.27 1477.6,1062.84 1497.28,1071.6C1524.4,1083.66 1550.5,1098.01 1575.24,1114.4C1600.49,1131.14 1624.32,1150.01 1646.4,1170.75C1668.65,1191.66 1689.13,1214.45 1707.53,1238.82C1725.84,1263.08 1742.1,1288.89 1756.05,1315.9C1767.76,1338.59 1777.85,1362.12 1786.18,1386.25C1794.38,1409.96 1800.89,1434.25 1805.65,1458.88C1812.16,1492.51 1815.4,1526.75 1815.4,1561C1815.4,1585.46 1813.75,1609.93 1810.43,1634.16C1806.78,1660.84 1801.11,1687.23 1793.46,1713.05C1785.49,1739.96 1775.39,1766.24 1763.27,1791.57C1749.55,1820.24 1733.27,1847.68 1714.69,1873.47C1695.9,1899.55 1674.77,1923.94 1651.63,1946.26C1627.52,1969.53 1601.24,1990.54 1573.22,2008.93C1545.68,2027.01 1516.46,2042.54 1486.06,2055.24C1452.61,2069.22 1417.72,2079.76 1382.12,2086.65C1348.78,2093.1 1314.82,2096.34 1280.87,2096.4C1246.89,2096.45 1212.9,2093.32 1179.52,2086.97C1143.89,2080.19 1108.95,2069.75 1075.44,2055.87C1045,2043.26 1015.73,2027.81 988.128,2009.81C960.057,1991.51 933.708,1970.57 909.523,1947.38C886.325,1925.12 865.121,1900.8 846.253,1874.77C827.6,1849.04 811.234,1821.66 797.432,1793.03C785.244,1767.75 775.057,1741.51 767.007,1714.62C759.287,1688.85 753.534,1662.48 749.801,1635.83C746.328,1611.05 744.602,1586.03 744.602,1561C744.602,1527.31 747.738,1493.62 754.033,1460.52C758.722,1435.87 765.158,1411.55 773.282,1387.81C781.549,1363.64 791.563,1340.08 803.211,1317.35C817.078,1290.29 833.26,1264.42 851.508,1240.1C869.994,1215.47 890.598,1192.42 913.016,1171.3C935.064,1150.53 958.864,1131.62 984.088,1114.85C1008.8,1098.41 1034.88,1084.04 1061.97,1071.93C1081.64,1063.14 1101.85,1055.54 1122.43,1049.2C1142.78,1042.94 1163.5,1037.9 1184.45,1034.12C1204.4,1030.52 1224.56,1028.06 1244.79,1026.74C1252.2,1026.26 1259.62,1025.93 1267.05,1025.76C1270.79,1025.67 1274.53,1025.62 1278.27,1025.61C1279.13,1025.6 1280,1025.6 1280.87,1025.6ZM1279.24,1093.91C1269.23,1093.94 1259.21,1094.26 1249.22,1094.91C1231.57,1096.06 1213.99,1098.2 1196.59,1101.34C1178.33,1104.64 1160.27,1109.03 1142.54,1114.49C1124.59,1120.01 1106.99,1126.63 1089.85,1134.29C1065.14,1145.33 1041.41,1158.54 1018.99,1173.69C998.63,1187.45 979.355,1202.82 961.392,1219.59C941.049,1238.58 922.396,1259.38 905.724,1281.67C891.102,1301.21 878.009,1321.9 866.612,1343.49C855.56,1364.42 846.111,1386.2 838.379,1408.57C831.554,1428.31 826.074,1448.52 821.976,1469.01C815.971,1499.02 812.962,1529.63 812.914,1560.24C812.88,1582.35 814.386,1604.46 817.452,1626.36C820.903,1651.01 826.339,1675.37 833.7,1699.14C840.442,1720.92 848.794,1742.18 858.66,1762.73C871.27,1788.99 886.358,1814.06 903.632,1837.51C919.582,1859.17 937.396,1879.46 956.808,1898.08C977.925,1918.33 1000.93,1936.61 1025.44,1952.59C1049.51,1968.29 1075.04,1981.76 1101.59,1992.76C1130.34,2004.67 1160.3,2013.67 1190.86,2019.58C1220.46,2025.31 1250.61,2028.13 1280.76,2028.09C1310.4,2028.04 1340.04,2025.21 1369.14,2019.58C1400.17,2013.58 1430.57,2004.4 1459.73,1992.21C1486.67,1980.95 1512.55,1967.14 1536.92,1951.04C1560.94,1935.18 1583.49,1917.09 1604.2,1897.1C1624.07,1877.94 1642.24,1857.02 1658.44,1834.67C1675.13,1811.66 1689.72,1787.12 1701.95,1761.45C1712.07,1740.22 1720.57,1718.23 1727.35,1695.72C1734.32,1672.56 1739.47,1648.86 1742.75,1624.9C1745.72,1603.23 1747.15,1581.36 1747.08,1559.49C1747.04,1544.53 1746.29,1529.57 1744.82,1514.68C1743.26,1498.87 1740.9,1483.14 1737.74,1467.58C1733.34,1445.94 1727.39,1424.63 1719.96,1403.85C1712.39,1382.69 1703.28,1362.08 1692.73,1342.24C1680.61,1319.45 1666.59,1297.67 1650.88,1277.18C1634.94,1256.4 1617.26,1236.95 1598.09,1219.11C1579.08,1201.4 1558.6,1185.28 1536.92,1170.95C1515.31,1156.68 1492.53,1144.21 1468.86,1133.72C1451.69,1126.11 1434.06,1119.54 1416.09,1114.07C1398.34,1108.66 1380.26,1104.33 1361.98,1101.09C1344.31,1097.96 1326.46,1095.85 1308.55,1094.77C1298.79,1094.18 1289.02,1093.91 1279.24,1093.91ZM1367.14,1431.19L1367.14,1498.94L1314.52,1498.94L1314.52,1690.81L1246.41,1690.81L1246.41,1498.94L1192.86,1498.94L1192.86,1431.19L1367.14,1431.19ZM1082.36,1431.53C1123.84,1431.53 1159.1,1467.14 1159.1,1508.62C1159.1,1526.26 1156.43,1542.5 1146.41,1555.3C1164.04,1569.47 1175.79,1591.25 1175.79,1614.76C1175.79,1655.9 1140.88,1690.81 1099.74,1690.81L963.013,1690.81L963.013,1431.53L1082.36,1431.53ZM1606.7,1652.77C1583.2,1676.27 1550.75,1690.81 1514.92,1690.81C1443.28,1690.81 1385.11,1632.65 1385.11,1561C1385.11,1489.35 1443.28,1431.19 1514.92,1431.19C1550.75,1431.19 1583.2,1445.73 1606.7,1469.23L1558.04,1517.88C1547,1506.84 1531.76,1500.01 1514.92,1500.01C1481.26,1500.01 1453.93,1527.34 1453.93,1561C1453.93,1594.66 1481.26,1621.99 1514.92,1621.99C1531.76,1621.99 1547,1615.16 1558.04,1604.12L1606.7,1652.77ZM1085.56,1634.81C1098.01,1634.81 1108.03,1624.78 1108.03,1612.34C1108.03,1599.89 1097.32,1589.87 1085.56,1589.87L1031.12,1589.87L1031.12,1634.81L1085.56,1634.81ZM1068.87,1532.82C1081.32,1532.82 1091.35,1522.8 1091.35,1510.35C1091.35,1497.91 1081.32,1487.88 1068.87,1487.88L1031.12,1487.88L1031.12,1532.82L1068.87,1532.82Z" style="fill:white;" />
+</g>
+</g>
+</g>
+</svg>
+</a>
+<span>2019 BTC Inc.</span>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync='false' type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 59698; //CHANGE THIS
+    _sf_async_config.domain = "bitcoinmagazine.com"; //CHANGE THIS
+    _sf_async_config.useCanonical = true;
+    
+    _sf_async_config.authors = "Jimmy Aki"; //CHANGE THIS
+    
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+    })();
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bitcoinmagazine.com/articles/report-crypto-exchanges-saw-trading-volumes-plummet-january/"
+  },
+  "headline": "Report: Crypto Exchanges Saw Trading Volumes Plummet in January",
+  
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://fs.bitcoinmagazine.com/img/images/trading_plummets.original.jpg",
+      
+        "caption": "trading plummets.jpg"
+      
+    },
+  
+  "datePublished": "2019-02-14 17:14:00+00:00",
+  "dateModified": "2019-02-14 17:14:00+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Jimmy Aki"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Bitcoin Magazine",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://fs.bitcoinmagazine.com/img/square_logo.png"
+    },
+    
+    "url": "https://bitcoinmagazine.com",
+    "sameAs" : ["https://www.facebook.com/BitcoinMagazine/",
+                "https://www.twitter.com/bitcoinmagazine" ]
+  }
+}
+</script>
+<script type="text/javascript">
+    bsa_targeting.push(["bitcoinmagazine_author", [ "jimmy-aki" ]]);
+  </script>
+</body>
+<div class="signup-modal js-signup-modal modal fade" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="signupModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="hidden center">
+<h2 class="signup-modal--overlay-text">Thank you!</h2>
+</div>
+<div id="mc_embed_signup">
+<h3>Be the first to know with bitcoin news delivered to your inbox</h3>
+<form data-subscribe-klaviyo id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
+<div id="mc_embed_signup_scroll">
+<input type="hidden" name="token" value="jS497G">
+<input type="hidden" name="listid" value="JacRvB">
+<input type="hidden" name="event" value="BitcoinMagazine Subscriber Segment">
+<input type="hidden" name="source" value="Modal Subscribe Form">
+<input type="hidden" name="customer_properties[origin]" value="btcmag">
+<div class="mc-field-group input-group">
+<ul>
+<li>
+<input type="checkbox" class="channel-checkbox" value="bmnewsletter" name="customer_properties[channels][3]" id="bmnewsletter" checked>
+<label for="bmnewsletter"></label>
+<span class="signup-modal--check-label"><em>Bitcoin Magazine</em> Weekly Bits (Tuesdays)</span>
+</li>
+<li>
+<input type="checkbox" class="channel-checkbox" value="distledger" name="customer_properties[channels][2]" id="distledger" checked>
+<label for="distledger"></label>
+<span class="signup-modal--check-label"> <em>The Distributed Weekly Ledger</em> Blockchain News (Thursdays)</span>
+</li>
+</ul>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>
+<div class="mc-field-group">
+<input type="email" name="customer_properties[$email]" placeholder="Email Address..." class="required email signup-modal--input">
+</div>
+<div class="signup-modal--error">Invalid email address</div>
+<div style="position: absolute; left: -5000px;" aria-hidden="true">
+<input type="text" name="b_507eeacc70b9c89cdf4617cd5_6432072913" tabindex="-1" value=""></div>
+<div class="clear">
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="signup-modal--input button signup-modal--button">
+</div>
+</div>
+</form>
+</div>
+<p class="modal-body--subtext">No spam, we promise - unsubscribe anytime</p><hr>
+<p class="modal-body--subtext">You can also follow us on Twitter <a href="https://twitter.com/intent/follow?screen_name=BitcoinMagazine" target="_blank">@Bitcoinmagazine</a><br>
+Or discuss our content with other readers in our <a href="https://t.me/joinchat/F17yx0-7Jb23HWylVPSvAQ" target="_blank">Telegram channel</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<script src="/static/build.c8c887115911.js" type="application/javascript" async></script>
+<script type="application/ld+json">
+  {"@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://bitcoinmagazine.com",
+  "name" : "Bitcoin Magazine",
+  "logo": {
+    "@type": "ImageObject",s
+    "url": "https://fs.bitcoinmagazine.com/img/square_logo.png"
+  },
+  "founders": [
+   {
+   "@type": "Person",
+   "name": "Vitalik Buterin"
+   },
+   {
+   "@type": "Person",
+   "name": "Mihai Alisie"
+   } ],
+  "sameAs" : ["https://www.facebook.com/BitcoinMagazine/",
+    "https://www.twitter.com/bitcoinmagazine" ]
+  }</script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</html>

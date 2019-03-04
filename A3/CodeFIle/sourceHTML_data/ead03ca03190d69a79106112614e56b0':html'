@@ -1,0 +1,1380 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent - Fintech News</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://www.fintechnews.org/xmlrpc.php" />
+    <meta property="og:image" content="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg" /><meta name="author" content="admin2">
+
+<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Ethereum: The first to unleash the potential for blockchain applications may well become the computing platform of the future."/>
+<link rel="canonical" href="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent - Fintech News" />
+<meta property="og:description" content="Ethereum: The first to unleash the potential for blockchain applications may well become the computing platform of the future." />
+<meta property="og:url" content="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/" />
+<meta property="og:site_name" content="Fintech News" />
+<meta property="article:tag" content="Cryptocurrency" />
+<meta property="article:tag" content="Ethereum" />
+<meta property="article:section" content="Blockchain" />
+<meta property="article:published_time" content="2019-02-16T06:51:30+00:00" />
+<meta property="article:modified_time" content="2019-02-15T15:49:42+00:00" />
+<meta property="og:updated_time" content="2019-02-15T15:49:42+00:00" />
+<meta property="og:image" content="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg" />
+<meta property="og:image:secure_url" content="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg" />
+<meta property="og:image:width" content="1240" />
+<meta property="og:image:height" content="930" />
+<meta property="og:image:alt" content="Ethereum Plans" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ethereum: The first to unleash the potential for blockchain applications may well become the computing platform of the future." />
+<meta name="twitter:title" content="Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent - Fintech News" />
+<meta name="twitter:image" content="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://www.fintechnews.org/","sameAs":[],"@id":"https://www.fintechnews.org/#organization","name":"FintechNews","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fintech News &raquo; Feed" href="https://www.fintechnews.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fintech News &raquo; Comments Feed" href="https://www.fintechnews.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fintech News &raquo; Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent Comments Feed" href="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.fintechnews.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.fintechnews.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='CbCss-css'  href='https://www.fintechnews.org/wp-content/plugins/responsive-cookie-banner/css/rcb.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.fintechnews.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='google_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.fintechnews.org/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://www.fintechnews.org/wp-content/themes/Newspaper/style.css?ver=7.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.fintechnews.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-content/plugins/responsive-cookie-banner/js/jquery.rcb.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.1'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.1'></script>
+<link rel='https://api.w.org/' href='https://www.fintechnews.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fintechnews.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fintechnews.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.9" />
+<link rel='shortlink' href='https://www.fintechnews.org/?p=6953' />
+<link rel="alternate" type="application/json+oembed" href="https://www.fintechnews.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.fintechnews.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F&#038;format=xml" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" /><link rel='canonical' href='https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/' />
+<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.fintechnews.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.fintechnews.org/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var tds_login_sing_in_widget="show";
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="https:\/\/www.fintechnews.org\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.4";
+var td_get_template_directory_uri="https:\/\/www.fintechnews.org\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="smart_snap_always";
+var tds_logo_on_sticky="show_header_logo";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.block-title > span,
+    .block-title > span > a,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2,
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before {
+        background-color: #222222;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #222222 !important;
+    }
+
+    .block-title,
+    .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #222222;
+    }
+</style>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112773357-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112773357-2');
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="post-template-default single single-post postid-6953 single-format-standard ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent wpb-js-composer js-comp-ver-4.12.1 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Linkedin">
+                <i class="td-icon-font td-icon-linkedin"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Pinterest">
+                <i class="td-icon-font td-icon-pinterest"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/FintechOne" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+                    <div class="td-menu-login-section">
+                
+    <div class="td-guest-wrap">
+        <div class="td-menu-avatar"><div class="td-avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' /></div></div>
+        <div class="td-menu-login"><a id="login-link-mob">Sign in</a></div>
+    </div>
+            </div>
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu" class="td-mobile-main-menu"><li id="menu-item-2200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-2200"><a href="https://www.fintechnews.org/">News</a></li>
+<li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2201"><a href="#">Business<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="https://www.fintechnews.org/category/fashion/biz3/">Case Studies</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/fashion/biz4/">More Stories</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/fashion/biz_2/">New Business</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/fashion/repts/">Reports</a></li>
+</ul>
+</li>
+<li id="menu-item-2202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2202"><a href="#">Finance</a></li>
+<li id="menu-item-2203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2203"><a href="#">Technology<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/tech/anals/">Analysis</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/tech/docs/">Documents</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/tech/ht/">HighTech</a></li>
+	<li class="menu-item-0"><a href="https://www.fintechnews.org/category/tech/trend/">Trends</a></li>
+</ul>
+</li>
+<li id="menu-item-2204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2204"><a href="#">Video</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+            <div id="login-form-mobile" class="td-register-section">
+            
+            <div id="td-login-mob" class="td-login-animation td-login-hide-mob">
+            	<!-- close button -->
+	            <div class="td-login-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Sign in</div>
+	                <!-- close button -->
+		            <div class="td-mobile-close">
+		                <a href="#"><i class="td-icon-close-mobile"></i></a>
+		            </div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
+	                <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
+	                <div class="td-login-info-text"><a href="#" id="forgot-pass-link-mob">Forgot your password?</a></div>
+                </div>
+            </div>
+
+            
+
+            <div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
+                <!-- close button -->
+	            <div class="td-forgot-pass-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Password recovery</div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title">Recover your password</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
+	                <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
+                </div>
+            </div>
+        </div>
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://www.fintechnews.org/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap">
+    
+        <!--
+Header style 1
+-->
+
+<div class="td-header-wrap td-header-style-1">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<!-- td weather source: cache -->		<div class="td-weather-top-widget" id="td_top_weather_uid">
+			<i class="td-icons clear-sky-d"></i>
+			<div class="td-weather-now" data-block-uid="td_top_weather_uid">
+				<span class="td-big-degrees">25.6</span>
+				<span class="td-weather-unit">C</span>
+			</div>
+			<div class="td-weather-header">
+				<div class="td-weather-city">Valencia</div>
+			</div>
+		</div>
+		        <div class="td_data_time">
+            <div >
+
+                Sunday, March 3, 2019
+            </div>
+        </div>
+    <ul class="top-header-menu td_ul_login"><li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul><div class="menu-top-container"><ul id="menu-td-demo-top-menu" class="top-header-menu"><li id="menu-item-2178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-2178"><a href="#">Blog</a></li>
+<li id="menu-item-2179" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2179"><a href="#">Forums</a></li>
+<li id="menu-item-2180" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-2180"><a href="https://www.fintechnews.org/contact/">Contact</a></li>
+</ul></div></div>
+        <div class="td-header-sp-top-widget">
+    
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Linkedin">
+                <i class="td-icon-font td-icon-linkedin"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Pinterest">
+                <i class="td-icon-font td-icon-pinterest"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/FintechOne" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span></div>
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <div class="td-login-wrap">
+                        <a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+                        <div id="td-login-div" class="td-login-form-div td-display-block">
+                            <div class="td-login-panel-title">Sign in</div>
+                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
+                            <div class="td_display_err"></div>
+                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>your username</label></div>
+	                        <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>your password</label></div>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+                            
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+                            <div class="td-login-panel-title">Password recovery</div>
+                            <div class="td-login-panel-descr">Recover your password</div>
+                            <div class="td_display_err"></div>
+                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>your email</label></div>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full">
+        <div class="td-container td-header-row td-header-header">
+            <div class="td-header-sp-logo">
+                        <a class="td-main-logo" href="https://www.fintechnews.org/">
+            <img class="td-retina-data" data-retina="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-header-1.png" src="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-header-1.png" alt="Fintech logo"/>
+            <span class="td-visual-hidden">Fintech News</span>
+        </a>
+                </div>
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    <div class="td-a-rec td-a-rec-id-header  "><div class="td-all-devices"><a href="https://www.thefintechconference.com"><img src="https://www.fintechnews.org/wp-content/uploads/2019/01/rec729_5.jpg" target="_blank" ></a></div></div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap td-header-gradient">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-header" href="https://www.fintechnews.org/">
+			<img src="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-white_ios.png" alt="Fintech logo"/>
+		</a>
+			<a class="td-header-logo td-sticky-header" href="https://www.fintechnews.org/">
+			<img class="td-retina-data" data-retina="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-header-1.png" src="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-header-1.png" alt="Fintech logo"/>
+		</a>
+	    </div>
+    <div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-2200"><a href="https://www.fintechnews.org/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-mega-menu menu-item-2201"><a href="#">Business</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_2_5c7c1a1c6dcb8_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_2_5c7c1a1c6dcb8" ><script>var block_td_uid_2_5c7c1a1c6dcb8 = new tdBlock();
+block_td_uid_2_5c7c1a1c6dcb8.id = "td_uid_2_5c7c1a1c6dcb8";
+block_td_uid_2_5c7c1a1c6dcb8.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"186","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_2_5c7c1a1c6dcb8_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_2_5c7c1a1c6dcb8.td_column_number = "3";
+block_td_uid_2_5c7c1a1c6dcb8.block_type = "td_block_mega_menu";
+block_td_uid_2_5c7c1a1c6dcb8.post_count = "4";
+block_td_uid_2_5c7c1a1c6dcb8.found_posts = "763";
+block_td_uid_2_5c7c1a1c6dcb8.header_color = "";
+block_td_uid_2_5c7c1a1c6dcb8.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5c7c1a1c6dcb8.max_num_pages = "191";
+tdBlocksArray.push(block_td_uid_2_5c7c1a1c6dcb8);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_2_5c7c1a1c6dcb8" id="td_uid_3_5c7c1a1c701fa" data-td_block_id="td_uid_2_5c7c1a1c6dcb8" data-td_filter_value="" href="https://www.fintechnews.org/category/fashion/">All</a><a class="mega-menu-sub-cat-td_uid_2_5c7c1a1c6dcb8"  id="td_uid_4_5c7c1a1c70331" data-td_block_id="td_uid_2_5c7c1a1c6dcb8" data-td_filter_value="189" href="https://www.fintechnews.org/category/fashion/biz3/">Case Studies</a><a class="mega-menu-sub-cat-td_uid_2_5c7c1a1c6dcb8"  id="td_uid_5_5c7c1a1c7044f" data-td_block_id="td_uid_2_5c7c1a1c6dcb8" data-td_filter_value="190" href="https://www.fintechnews.org/category/fashion/biz4/">More Stories</a><a class="mega-menu-sub-cat-td_uid_2_5c7c1a1c6dcb8"  id="td_uid_6_5c7c1a1c70588" data-td_block_id="td_uid_2_5c7c1a1c6dcb8" data-td_filter_value="188" href="https://www.fintechnews.org/category/fashion/biz_2/">New Business</a><a class="mega-menu-sub-cat-td_uid_2_5c7c1a1c6dcb8"  id="td_uid_7_5c7c1a1c706d4" data-td_block_id="td_uid_2_5c7c1a1c6dcb8" data-td_filter_value="187" href="https://www.fintechnews.org/category/fashion/repts/">Reports</a></div></div><div id=td_uid_2_5c7c1a1c6dcb8 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Fórum" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"/></a></div>                <a href="https://www.fintechnews.org/category/blockchain/" class="td-post-category">Blockchain</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos">El Fintech Fórum vuelve a Forinvest después de haber estado de&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/machine-learning-innovations-for-fighting-financial-crime-in-an-open-banking-era/" rel="bookmark" title="Machine learning innovations for fighting financial crime in an Open Banking era"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="ML Innovations" title="Machine learning innovations for fighting financial crime in an Open Banking era"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/machine-learning-innovations-for-fighting-financial-crime-in-an-open-banking-era/" rel="bookmark" title="Machine learning innovations for fighting financial crime in an Open Banking era">Machine learning innovations for fighting financial crime in an Open Banking&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/artificial-intelligence-innovation-steered-by-u-s-and-china/" rel="bookmark" title="Artificial Intelligence Innovation Steered By U.S. and China"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-700x486.jpg 700w" sizes="(max-width: 218px) 100vw, 218px" alt="AI Innovation" title="Artificial Intelligence Innovation Steered By U.S. and China"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/artificial-intelligence-innovation-steered-by-u-s-and-china/" rel="bookmark" title="Artificial Intelligence Innovation Steered By U.S. and China">Artificial Intelligence Innovation Steered By U.S. and China</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/how-artificial-intelligence-is-fighting-financial-crime/" rel="bookmark" title="How artificial intelligence is fighting financial crime"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="AI FInancial" title="How artificial intelligence is fighting financial crime"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/how-artificial-intelligence-is-fighting-financial-crime/" rel="bookmark" title="How artificial intelligence is fighting financial crime">How artificial intelligence is fighting financial crime</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_5c7c1a1c6dcb8" data-td_block_id="td_uid_2_5c7c1a1c6dcb8"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_2_5c7c1a1c6dcb8" data-td_block_id="td_uid_2_5c7c1a1c6dcb8"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-mega-menu menu-item-2202"><a href="#">Finance</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_8_5c7c1a1c74ccb_rand td-no-subcats td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_8_5c7c1a1c74ccb" ><script>var block_td_uid_8_5c7c1a1c74ccb = new tdBlock();
+block_td_uid_8_5c7c1a1c74ccb.id = "td_uid_8_5c7c1a1c74ccb";
+block_td_uid_8_5c7c1a1c74ccb.atts = '{"limit":"5","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"191","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_8_5c7c1a1c74ccb_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_8_5c7c1a1c74ccb.td_column_number = "3";
+block_td_uid_8_5c7c1a1c74ccb.block_type = "td_block_mega_menu";
+block_td_uid_8_5c7c1a1c74ccb.post_count = "5";
+block_td_uid_8_5c7c1a1c74ccb.found_posts = "615";
+block_td_uid_8_5c7c1a1c74ccb.header_color = "";
+block_td_uid_8_5c7c1a1c74ccb.ajax_pagination_infinite_stop = "";
+block_td_uid_8_5c7c1a1c74ccb.max_num_pages = "123";
+tdBlocksArray.push(block_td_uid_8_5c7c1a1c74ccb);
+</script><div id=td_uid_8_5c7c1a1c74ccb class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Advanced Program" title="Ping Identity CTO’s cybersecurity predictions for 2019"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019">Ping Identity CTO’s cybersecurity predictions for 2019</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Digital Banks" title="Digital banks must find balance between cloud, cost and customer experience"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience">Digital banks must find balance between cloud, cost and customer experience</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/artificial-intelligence-innovation-steered-by-u-s-and-china/" rel="bookmark" title="Artificial Intelligence Innovation Steered By U.S. and China"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-1-700x486.jpg 700w" sizes="(max-width: 218px) 100vw, 218px" alt="AI Innovation" title="Artificial Intelligence Innovation Steered By U.S. and China"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/artificial-intelligence-innovation-steered-by-u-s-and-china/" rel="bookmark" title="Artificial Intelligence Innovation Steered By U.S. and China">Artificial Intelligence Innovation Steered By U.S. and China</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/looking-ahead-setting-expectations-for-banking-and-mobile-payments-in-2019/" rel="bookmark" title="Looking ahead: Setting expectations for banking and mobile payments in 2019"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-6-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-6-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-6-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Expectations Banking" title="Looking ahead: Setting expectations for banking and mobile payments in 2019"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/looking-ahead-setting-expectations-for-banking-and-mobile-payments-in-2019/" rel="bookmark" title="Looking ahead: Setting expectations for banking and mobile payments in 2019">Looking ahead: Setting expectations for banking and mobile payments in 2019</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/how-artificial-intelligence-is-fighting-financial-crime/" rel="bookmark" title="How artificial intelligence is fighting financial crime"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-5-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="AI FInancial" title="How artificial intelligence is fighting financial crime"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/how-artificial-intelligence-is-fighting-financial-crime/" rel="bookmark" title="How artificial intelligence is fighting financial crime">How artificial intelligence is fighting financial crime</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_8_5c7c1a1c74ccb" data-td_block_id="td_uid_8_5c7c1a1c74ccb"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_8_5c7c1a1c74ccb" data-td_block_id="td_uid_8_5c7c1a1c74ccb"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-mega-menu menu-item-2203"><a href="#">Technology</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_9_5c7c1a1c7b4f1_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_9_5c7c1a1c7b4f1" ><script>var block_td_uid_9_5c7c1a1c7b4f1 = new tdBlock();
+block_td_uid_9_5c7c1a1c7b4f1.id = "td_uid_9_5c7c1a1c7b4f1";
+block_td_uid_9_5c7c1a1c7b4f1.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"192","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_9_5c7c1a1c7b4f1_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_9_5c7c1a1c7b4f1.td_column_number = "3";
+block_td_uid_9_5c7c1a1c7b4f1.block_type = "td_block_mega_menu";
+block_td_uid_9_5c7c1a1c7b4f1.post_count = "4";
+block_td_uid_9_5c7c1a1c7b4f1.found_posts = "680";
+block_td_uid_9_5c7c1a1c7b4f1.header_color = "";
+block_td_uid_9_5c7c1a1c7b4f1.ajax_pagination_infinite_stop = "";
+block_td_uid_9_5c7c1a1c7b4f1.max_num_pages = "170";
+tdBlocksArray.push(block_td_uid_9_5c7c1a1c7b4f1);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_9_5c7c1a1c7b4f1" id="td_uid_10_5c7c1a1c7d121" data-td_block_id="td_uid_9_5c7c1a1c7b4f1" data-td_filter_value="" href="https://www.fintechnews.org/category/tech/">All</a><a class="mega-menu-sub-cat-td_uid_9_5c7c1a1c7b4f1"  id="td_uid_11_5c7c1a1c7d248" data-td_block_id="td_uid_9_5c7c1a1c7b4f1" data-td_filter_value="193" href="https://www.fintechnews.org/category/tech/anals/">Analysis</a><a class="mega-menu-sub-cat-td_uid_9_5c7c1a1c7b4f1"  id="td_uid_12_5c7c1a1c7d360" data-td_block_id="td_uid_9_5c7c1a1c7b4f1" data-td_filter_value="194" href="https://www.fintechnews.org/category/tech/docs/">Documents</a><a class="mega-menu-sub-cat-td_uid_9_5c7c1a1c7b4f1"  id="td_uid_13_5c7c1a1c7d4a0" data-td_block_id="td_uid_9_5c7c1a1c7b4f1" data-td_filter_value="196" href="https://www.fintechnews.org/category/tech/ht/">HighTech</a><a class="mega-menu-sub-cat-td_uid_9_5c7c1a1c7b4f1"  id="td_uid_14_5c7c1a1c7d5df" data-td_block_id="td_uid_9_5c7c1a1c7b4f1" data-td_filter_value="195" href="https://www.fintechnews.org/category/tech/trend/">Trends</a></div></div><div id=td_uid_9_5c7c1a1c7b4f1 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Advanced Program" title="Ping Identity CTO’s cybersecurity predictions for 2019"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019">Ping Identity CTO’s cybersecurity predictions for 2019</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/machine-learning-innovations-for-fighting-financial-crime-in-an-open-banking-era/" rel="bookmark" title="Machine learning innovations for fighting financial crime in an Open Banking era"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/f122-28-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="ML Innovations" title="Machine learning innovations for fighting financial crime in an Open Banking era"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/machine-learning-innovations-for-fighting-financial-crime-in-an-open-banking-era/" rel="bookmark" title="Machine learning innovations for fighting financial crime in an Open Banking era">Machine learning innovations for fighting financial crime in an Open Banking&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/chicago-becomes-crypto-kiosk-battleground/" rel="bookmark" title="Chicago becomes crypto kiosk battleground"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/09/f122-21-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/09/f122-21-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/09/f122-21-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Chicago Crypto" title="Chicago becomes crypto kiosk battleground"/></a></div>                <a href="https://www.fintechnews.org/category/fina/" class="td-post-category">Finance</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/chicago-becomes-crypto-kiosk-battleground/" rel="bookmark" title="Chicago becomes crypto kiosk battleground">Chicago becomes crypto kiosk battleground</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/how-data-analytics-backed-by-ai-and-ml-is-transforming-the-bfsi-sector/" rel="bookmark" title="How Data Analytics Backed By AI And ML Is Transforming The BFSI Sector"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/10/f122-11-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/10/f122-11-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/10/f122-11-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Data Analytics" title="How Data Analytics Backed By AI And ML Is Transforming The BFSI Sector"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/how-data-analytics-backed-by-ai-and-ml-is-transforming-the-bfsi-sector/" rel="bookmark" title="How Data Analytics Backed By AI And ML Is Transforming The BFSI Sector">How Data Analytics Backed By AI And ML Is Transforming The&#8230;</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_9_5c7c1a1c7b4f1" data-td_block_id="td_uid_9_5c7c1a1c7b4f1"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_9_5c7c1a1c7b4f1" data-td_block_id="td_uid_9_5c7c1a1c7b4f1"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-mega-menu menu-item-2204"><a href="#">Video</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_15_5c7c1a1c81025_rand td-no-subcats td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_15_5c7c1a1c81025" ><script>var block_td_uid_15_5c7c1a1c81025 = new tdBlock();
+block_td_uid_15_5c7c1a1c81025.id = "td_uid_15_5c7c1a1c81025";
+block_td_uid_15_5c7c1a1c81025.atts = '{"limit":"5","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"197","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_15_5c7c1a1c81025_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_15_5c7c1a1c81025.td_column_number = "3";
+block_td_uid_15_5c7c1a1c81025.block_type = "td_block_mega_menu";
+block_td_uid_15_5c7c1a1c81025.post_count = "5";
+block_td_uid_15_5c7c1a1c81025.found_posts = "8";
+block_td_uid_15_5c7c1a1c81025.header_color = "";
+block_td_uid_15_5c7c1a1c81025.ajax_pagination_infinite_stop = "";
+block_td_uid_15_5c7c1a1c81025.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_15_5c7c1a1c81025);
+</script><div id=td_uid_15_5c7c1a1c81025 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/springfest-one-fashion-show-at-the-university-of-michigan/" rel="bookmark" title="The Transformation of Finance. Fintech @ Davos World Economic Forum"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2016/11/Video-218x150.png" srcset="https://www.fintechnews.org/wp-content/uploads/2016/11/Video-218x150.png 218w, https://www.fintechnews.org/wp-content/uploads/2016/11/Video-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="The Transformation of Finance. Fintech @ Davos World Economic Forum"/></a></div>                <a href="https://www.fintechnews.org/category/video/" class="td-post-category">Video</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/springfest-one-fashion-show-at-the-university-of-michigan/" rel="bookmark" title="The Transformation of Finance. Fintech @ Davos World Economic Forum">The Transformation of Finance. Fintech @ Davos World Economic Forum</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/creative-decorating-with-houseplants-from-floor-to-ceiling/" rel="bookmark" title="London fintech comes under pressure"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2016/11/London-Fintech-218x150.png" srcset="https://www.fintechnews.org/wp-content/uploads/2016/11/London-Fintech-218x150.png 218w, https://www.fintechnews.org/wp-content/uploads/2016/11/London-Fintech-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="London fintech comes under pressure"/></a></div>                <a href="https://www.fintechnews.org/category/video/" class="td-post-category">Video</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/creative-decorating-with-houseplants-from-floor-to-ceiling/" rel="bookmark" title="London fintech comes under pressure">London fintech comes under pressure</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/how-to-use-basic-design-principles-to-decorate-your-home/" rel="bookmark" title="How To Start A FinTech Company"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2016/11/Video-2-218x150.png" srcset="https://www.fintechnews.org/wp-content/uploads/2016/11/Video-2-218x150.png 218w, https://www.fintechnews.org/wp-content/uploads/2016/11/Video-2-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="How To Start A FinTech Company"/></a></div>                <a href="https://www.fintechnews.org/category/video/" class="td-post-category">Video</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/how-to-use-basic-design-principles-to-decorate-your-home/" rel="bookmark" title="How To Start A FinTech Company">How To Start A FinTech Company</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/7-unique-egg-decorating-ideas-for-you-to-try-this-easter/" rel="bookmark" title="Singapore, South Korea regulators sign fintech agreement"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2016/11/MAS-218x150.png" srcset="https://www.fintechnews.org/wp-content/uploads/2016/11/MAS-218x150.png 218w, https://www.fintechnews.org/wp-content/uploads/2016/11/MAS-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Singapore, South Korea regulators sign fintech agreement"/></a></div>                <a href="https://www.fintechnews.org/category/video/" class="td-post-category">Video</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/7-unique-egg-decorating-ideas-for-you-to-try-this-easter/" rel="bookmark" title="Singapore, South Korea regulators sign fintech agreement">Singapore, South Korea regulators sign fintech agreement</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/mit-announces-the-engine-a-150m-venture-fund-accelerator/" rel="bookmark" title="MIT Announces &#8216;The Engine,&#8217; a $150M Venture Fund &#038; Accelerator"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2016/11/maxresdefault-4-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2016/11/maxresdefault-4-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2016/11/maxresdefault-4-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="MIT Announces &#8216;The Engine,&#8217; a $150M Venture Fund &#038; Accelerator"/><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://www.fintechnews.org/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></span></a></div>                <a href="https://www.fintechnews.org/category/video/" class="td-post-category">Video</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/mit-announces-the-engine-a-150m-venture-fund-accelerator/" rel="bookmark" title="MIT Announces &#8216;The Engine,&#8217; a $150M Venture Fund &#038; Accelerator">MIT Announces &#8216;The Engine,&#8217; a $150M Venture Fund &#038; Accelerator</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_15_5c7c1a1c81025" data-td_block_id="td_uid_15_5c7c1a1c81025"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_15_5c7c1a1c81025" data-td_block_id="td_uid_15_5c7c1a1c81025"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="https://www.fintechnews.org/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+</div><div class="td-main-content-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="https://www.fintechnews.org/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Blockchain" class="entry-crumb" itemprop="url" href="https://www.fintechnews.org/category/blockchain/"><span itemprop="title">Blockchain</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent"><meta itemprop="url" content = "https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/">Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-6953" class="post-6953 post type-post status-publish format-standard has-post-thumbnail hentry category-blockchain category-fashion category-fina category-fintech tag-cryptocurrency tag-ethereum" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="https://www.fintechnews.org/category/blockchain/">Blockchain</a></li><li class="entry-category"><a  style="background-color:#e33a77; color:#fff; border-color:#e33a77;" href="https://www.fintechnews.org/category/fashion/">Business</a></li><li class="entry-category"><a  style="background-color:#5c69c1; color:#fff; border-color:#5c69c1;" href="https://www.fintechnews.org/category/fina/">Finance</a></li><li class="entry-category"><a  href="https://www.fintechnews.org/category/fintech/">fintech;</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent</h1>
+
+                                    <p class="td-post-sub-title">The cryptocurrency is going on an energy diet to compete with more efficient blockchains</p>
+                
+
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name"><div class="td-author-by">By</div> <a href="https://www.fintechnews.org/author/horacio/">admin2</a><div class="td-author-line"> - </div> </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-02-16T07:51:30+00:00" >16th February 2019</time></span>                    <div class="td-post-comments"><a href="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/#respond"><i class="td-icon-comments"></i>0</a></div>                    <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-6953">1100</span></div>                </div>
+
+            </header>
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top ">				<div class="td-default-sharing">		            <a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Share on Facebook</div></a>		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent&url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F&via=Fintech+News"  ><i class="td-icon-twitter"></i><div class="td-social-but-text">Tweet on Twitter</div></a>		            <a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>		            <a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/&amp;media=https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg&description=Ethereum: The first to unleash the potential for blockchain applications may well become the computing platform of the future." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>                    					<a class="td-social-sharing-buttons td-social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F&title=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent&source=Fintech+News" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-linkedin"></div></a>					 		            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent%20-%20https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F" ><i class="td-icon-whatsapp"></i></a>	            </div></div>
+
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><a href="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg" data-caption=""><img width="696" height="522" class="entry-thumb td-modal-image" src="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-696x522.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-696x522.jpg 696w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-300x225.jpg 300w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-768x576.jpg 768w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-1024x768.jpg 1024w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-80x60.jpg 80w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-265x198.jpg 265w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-1068x801.jpg 1068w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1-560x420.jpg 560w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg 1240w" sizes="(max-width: 696px) 100vw, 696px" alt="Ethereum Plans" title="Ethereum v1"/></a></div>
+        <p>By Peter Fairley</p>
+<p><strong>Bitcoin soaks up</strong> most of the hype and the opprobrium heaped on cryptocurrencies, leaving its younger and smaller sibling <a href="https://www.ethereum.org/">Ethereum</a> in the shadows. But Ethereum is anything but small. Its market capitalization was roughly <a href="https://etherscan.io/chart/etherprice">US $10 billion at press time</a>, and it has an equally whopping energy footprint.</p>
+<p>Ethereum mining consumes a quarter to half of what <a href="https://spectrum.ieee.org/tag/Bitcoin">Bitcoin</a> mining does, but that still means that for most of 2018 it was <a href="https://digiconomist.net/ethereum-energy-consumption">using roughly as much electricity as Iceland</a>. Indeed, the typical Ethereum transaction gobbles more power than an average U.S. household uses in a day.</p>
+<p>“That’s just a <a href="https://spectrum.ieee.org/energy/policy/the-ridiculous-amount-of-energy-it-takes-to-run-bitcoin">huge waste of resources</a>, even if you don’t believe that pollution and carbon dioxide are an issue. There are real consumers—real people—whose need for electricity is being displaced by this stuff,” says <a href="https://vitalik.ca/">Vitalik Buterin</a>, the 24-year-old Russian-Canadian computer scientist who invented Ethereum when he was just 18.</p>
+<p>Buterin plans to finally start undoing his brainchild’s energy waste in 2019. This year Buterin, the <a href="https://www.ethereum.org/foundation">Ethereum Foundation</a> he cofounded, and the broader open-source movement advancing the cryptocurrency all plan to field-test a long-promised overhaul of Ethereum’s code. If these developers are right, by the end of 2019 Ethereum’s new code could complete transactions using just 1 percent of the energy consumed today.</p>
+<figure class="xlrg" role="img"><img src="https://spectrum.ieee.org/image/MzE5ODE4OA.jpeg" alt="img" /></p>
+<div class="ai">
+<div class="ai"></div>
+</div><figcaption class="hi-cap">   Photo: Gordon Welters/laif/Redux</figcaption><div class="ai">
+<div class="ai"></div>
+</div><figcaption><strong>Ether Evangelist: </strong>Vitalik Buterin, inventor of Ethereum, hopes to finally  demonstrate the blockchain platform’s low-power format in 2019.</figcaption></figure>
+<p>Ethereum’s attempted rebirth will be one of the year’s “most fascinating technologies to watch,” says <a href="https://zaki.manian.org/">Zaki Manian</a>, who is advising the cryptocurrency upstart Cosmos. Manian says Ethereum’s development process means that multiple coders and organizations must collaborate in the open, converge on specifications, invent all of the technology to implement them, and make them work together seamlessly. “It is by far the most technically ambitious open community project that has ever been attempted,” says Manian.</p>
+<p><strong>Like <a href="http://sp.fintechnews.org/5945-2/" target="_blank" rel="noopener">Bitcoin,</a></strong> Ethereum relies on a <a href="https://spectrum.ieee.org/static/special-report-blockchain-world">blockchain</a>, which is a digital ledger of transactions maintained by a community of users. (It’s called a blockchain because new transactions are bundled into “blocks” of data and written onto the end of a “chain” of existing blocks that describe all prior transactions.) However, Buterin designed Ethereum to do more than securely maintain a ledger without a central authority. His vision was for Ethereum to become a global computer—one that’s decentralized, accessible to all, and essentially immune to downtime, censorship, and fraud.</p>
+<p>What gives the Ethereum blockchain such potential is its ability to store data, support decisions, and automate the distribution of value. It manages these tasks through <a href="https://spectrum.ieee.org/computing/networks/how-smart-contracts-work">smart contracts</a>, programs written by users or developers in Ethereum’s custom coding language. Smart contracts have obvious business applications, but the long-term hope is that apps built from them will eventually make Ethereum the ultimate cloud- computing platform.</p>
+<p>That lofty vision clashes with Ethereum’s current reality. While there are some multimillion-dollar apps running on it, even Buterin says he suspects that Ethereum is consuming more resources than it returns in societal benefits.</p>
+<p>The problem is all that mining. Like most cryptocurrencies, Ethereum relies on a computational competition called <a href="https://spectrum.ieee.org/computing/networks/how-blockchains-work">proof of work (PoW)</a> . In PoW, all participants race to cryptographically secure transactions and add them to the blockchain’s globally distributed ledger. It’s a winner-takes-all contest, rewarded with newly minted cryptocoins. So the more computational firepower you have, the better your chances to profit.</p>
+<p>PoW mining is difficult by design. The idea is to prevent any one entity from controlling the blockchain. For example, if a bitcoin miner’s computer system had more than half of all the mining power on the network, that miner could perpetrate frauds, such as revising long- completed transactions. Bitcoin users would have little recourse because miners are anonymous.</p>
+<p>In theory, PoW keeps mining a distributed affair. In practice, however, the development of <a href="https://spectrum.ieee.org/computing/networks/why-the-biggest-bitcoin-mines-are-in-china">application-specific ICs (ASICs)</a> that accelerate mining, produced by a handful of chip fabs in China, has concentrated power over many cryptocurrencies.</p>
+<p>Ethereum took the fight against concentrated power one step further by selecting a memory-intensive PoW algorithm for mining “ether,” as its value token is known. This ether-mining algorithm penalizes the use of ASICs.</p>
+<p>What Ethereum’s PoW algorithm has not prevented, however, is explosive growth in the computing resources devoted to ether mining. The computational power directed at that task grew more than 25-fold in 2017, as the token’s value surged from $8 to $862 and mining firms built dedicated data centers full of general-purpose graphics processing units, which are well-suited to ether mining.</p>
+<p>The resultant energy demand has created a backlash from environmentalists. Utilities and communities, meanwhile, see financial risk and opportunity costs if they cater to cryptocurrency miners that gobble up cheap electricity while creating few jobs. Serving miners may require utilities to make equipment upgrades, which could become superfluous if cryptocurrency prices crash and mining operations shut down.</p>
+<p>Recent market dynamics support the utilities’ concerns. The value of ether peaked at $1,385 last January and then began a downward slide. In November it crashed below $120—low enough to erase miners’ profit margin and to prompt some to slow down or turn off mining rigs. According to a projection by the Digiconomist—a site created by Alex de Vries, a senior associate and blockchain specialist at PricewaterhouseCoopers —Ethereum’s miners likely cut their total energy consumption by more than half in less than 20 days.</p>
+<p><img class="wp-image-6711 aligncenter" src="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-300x150.jpg" alt="Crypto Leaders" width="662" height="331" srcset="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-300x150.jpg 300w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-768x384.jpg 768w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-1024x512.jpg 1024w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-696x348.jpg 696w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-1068x534.jpg 1068w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17-840x420.jpg 840w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-17.jpg 1140w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p>No surprise then that some utilities, such as Montreal-based Hydro-Québec , are setting higher electricity rates for miners. Such pushback from utilities and their regulators may further erode the security of PoW-based cryptocurrencies. Restricted access to power and rising energy costs will hinder new miners from joining the game, accelerating the concentration of mining power. As it concentrates, the risk of collusion and fraud increases.</p>
+<p><strong>For Buterin,</strong> slashing energy use has been part of the vision from Ethereum’s beginning. Most of Ethereum’s other proponents agree. “It’s widely accepted in the Ethereum community that PoW uses far too much energy. For me it is the No. 1 priority,” says Ethereum contributor Paul Hauner, a cofounder of Australian cybersecurity and blockchain-development firm Sigma Prime.</p>
+<p>Ethereum’s plan is to replace PoW with <a href="https://spectrum.ieee.org/computing/networks/how-blockchains-work">proof of stake (PoS)</a>—an alternative mechanism for distributed consensus that was first applied to a cryptocurrency with the launch of Peercoin in 2012. Instead of millions of processors simultaneously processing the same transactions, PoS randomly picks one to do the job.</p>
+<p>In PoS, the participants are called validators instead of miners, and the key is keeping them honest. PoS does this by requiring each validator to put up a stake—a pile of ether in Ethereum’s case—as collateral. A bigger stake earns a validator proportionately more chances at a turn, but it also means that a validator caught cheating has lots to lose.</p>
+<p>Moving to PoS will cut the energy consumed per Ethereum transaction more than a hundredfold, according to Buterin: “The PoW part is the one that’s consuming these huge amounts of electricity. The blockchain transactions themselves are not super computationally intensive. It’s just verifying digital signatures. It’s not some kind of heavy 3D-matrix map or machine learning on gigabytes of data,” he says.</p>
+<p>Slashing computational power and energy use is not just an ecological move. It also has a financial benefit, because it should reduce the rate at which fresh ether is issued to encourage validators—extra money that dilutes a currency’s value. “Because PoS validators aren’t expending all of this energy, we don’t have to reward them as much,” says <a href="https://medium.com/@darrenlangley">Darren Langley</a>, a senior blockchain developer with <a href="https://www.rocketpool.net/">Rocket Pool</a>, in Brisbane, Australia, which is developing an app that will assemble staking pools, paying interest to ether owners who join the pool.</p>
+<p>Moving to PoS could also boost security. Under PoS, the location of each validator’s account is known and can be destroyed if that validator breaks the rules. <a href="https://twitter.com/VladZamfir?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Vlad Zamfir</a>, Ethereum Foundation’s lead PoS developer, likens this to the Bitcoin community gaining the power to incinerate the data centers of a miner who abuses his power.</p>
+<p>By 2015, the advantages of PoS had already convinced the Ethereum community to make the shift, and leaders such as Buterin had expected to do so in just a year or two. To make their intentions clear, Ethereum’s core developers reprogrammed their PoW code to create an exponential rise in mining difficulty. Known as the “Difficulty Bomb,” it began slowing the creation of new transaction blocks in late 2016 and was expected to bring ether mining to a grinding halt a few years thereafter.</p>
+<p><img class="wp-image-5985 aligncenter" src="https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16-300x200.jpg" alt="What Blockchain" width="637" height="424" srcset="https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16-300x200.jpg 300w, https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16-768x512.jpg 768w, https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16-696x464.jpg 696w, https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16-630x420.jpg 630w, https://www.fintechnews.org/wp-content/uploads/2018/07/f122-16.jpg 800w" sizes="(max-width: 637px) 100vw, 637px" /></p>
+<p>This time bomb has, however, functioned more like an alarm clock with a snooze button. In October 2017, when mining time had already nearly doubled to 30 seconds, the Ethereum team reset the clock, delaying PoW’s doomsday by about 12 months. And they will likely hit snooze again shortly.</p>
+<p>It’s not that Team Ethereum is sleeping in. In fact, Buterin says, Ethereum’s developers have already slain most of the theoretical dragons associated with PoS. But the process of turning those theoretical solutions into efficient software has been moving slower than expected.</p>
+<p><strong>What provides hope</strong> for 2019 is a radical new plan adopted by Ethereum’s leaders in June 2018. Before then, they had anticipated building PoS into the existing Ethereum blockchain. In June, they decided to make a clean break and to build an entirely new blockchain—one that operates solely via PoS.</p>
+<p>The two-chain solution—dubbed Ethereum 2.0—makes a world of difference for Ethereum’s programmers because continuing on the original chain would have meant writing the machinery of PoS as a sophisticated set of smart contracts. Hauner, who is leading an effort called Lighthouse to build an Ethereum 2.0 software client, says Ethereum’s smart-contract language is a tough medium for writing complex code. “Writing smart contracts is a very constrained environment for computing. You can’t do complicated things on it,” he says.</p>
+<p>Just a few months after the decision to shift to Ethereum 2.0, its PoS specifications had been sketched out and over half a dozen teams were already working on software implementations using a variety of programming languages. Hauner’s group at Sigma Prime is developing its Ethereum 2.0 client using Rust, for example. He expects this app and others to be running PoS on beta networks, or “testnets,” early in 2019.</p>
+<p>Buterin says public testnets could be handling another Ethereum 2.0 innovation—chains with multiple branches to boost transaction throughput—by the end of 2019. But he warns that there could still be “unknown unknowns” lurking that could set their timeline back.</p>
+<p>As a multibillion-dollar network, Ethereum obviously has a lot to lose if it launches glitchy or insecure technology. To play on Ethereum’s PoS chain, holders of ether will have to deposit a smart contract on the original Ethereum chain that irreversibly transfers ether to the new chain. Any missteps could jeopardize the entire ecosystem of developers and projects that use Ethereum’s smart contracts.</p>
+<p>But Ethereum also has a lot to lose if it delays much longer. An array of well-capitalized projects—<a href="https://www.cardano.org/en/home/">Cardano</a>, <a href="https://dfinity.org/">Dfinity</a>, <a href="https://eos.io/">Eosio</a>, and Manian’s <a href="https://cosmos.network/">Cosmos</a>, to name just a few—are hatching their own PoS-based blockchains. Like Ethereum, they seek to prove that high security and high efficiency are not at odds.</p>
+<p>The first to unleash the potential for blockchain applications may well become the computing platform of the future. The others will probably wither away. “This environment is naturally quite predatory,” Manian says. “There will be a single platform that survives.”</p>
+<div class="td-a-rec td-a-rec-id-content_bottom  "><div class="td-all-devices"><a href="https://www.thefintechconference.com"><img src="https://www.fintechnews.org/wp-content/uploads/2019/01/rec729_5.jpg" target="_blank" ></a></div></div>        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                <div class="td-post-source-via "><div class="td-post-small-box"><span>SOURCE</span><a rel="nofollow" href="https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent">https://spectrum.ieee.org</a></div></div>                <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="https://www.fintechnews.org/tag/cryptocurrency/">Cryptocurrency</a></li><li><a href="https://www.fintechnews.org/tag/ethereum/">Ethereum</a></li></ul>            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom td-with-like"><span class="td-post-share-title">SHARE</span>            <div class="td-default-sharing">	            <a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent&url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F&via=Fintech+News"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>	            <a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>	            <a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/&amp;media=https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg&description=Ethereum: The first to unleash the potential for blockchain applications may well become the computing platform of the future." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>				<a class="td-social-sharing-buttons td-social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F&title=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent&source=Fintech+News" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><div class="td-sp td-sp-linkedin"></div></a>					            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Ethereum+Plans+to+Cut+Its+Absurd+Energy+Consumption+by+99+Percent%20-%20https%3A%2F%2Fwww.fintechnews.org%2Fethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent%2F" ><i class="td-icon-whatsapp"></i></a>            </div><div class="td-classic-sharing"><ul><li class="td-classic-facebook"><iframe frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></li><li class="td-classic-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/" data-text="Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li></ul></div></div>            <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="https://www.fintechnews.org/implementations-of-artificial-intelligence-in-2019/">Implementations of Artificial Intelligence in 2019</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="https://www.fintechnews.org/automakers-expand-connected-car-ecosystem-with-payment-technologies/">Automakers expand connected car ecosystem with payment technologies</a></div></div></div>            <div class="author-box-wrap"><a href="https://www.fintechnews.org/author/horacio/"><img alt='' src='https://secure.gravatar.com/avatar/61617e2bea64062e7bb83c7443ceef93?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/61617e2bea64062e7bb83c7443ceef93?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://www.fintechnews.org/author/horacio/">admin2</a></span></div><div class="td-author-description"></div><div class="td-author-social"></div><div class="clearfix"></div></div></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="admin2"></span><meta itemprop="datePublished" content="2019-02-16T07:51:30+00:00"><meta itemprop="dateModified" content="2019-02-15T16:49:42+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://www.fintechnews.org/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-header-1.png"></span><meta itemprop="name" content="Fintech News"></span><meta itemprop="headline " content="Ethereum Plans to Cut Its Absurd Energy Consumption by 99 Percent"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-1.jpg"><meta itemprop="width" content="1240"><meta itemprop="height" content="930"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_17_5c7c1a1c915da_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_17_5c7c1a1c915da" ><script>var block_td_uid_17_5c7c1a1c915da = new tdBlock();
+block_td_uid_17_5c7c1a1c915da.id = "td_uid_17_5c7c1a1c915da";
+block_td_uid_17_5c7c1a1c915da.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_17_5c7c1a1c915da_rand","el_class":"","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":6953,"live_filter_cur_post_author":"2"}';
+block_td_uid_17_5c7c1a1c915da.td_column_number = "3";
+block_td_uid_17_5c7c1a1c915da.block_type = "td_block_related_posts";
+block_td_uid_17_5c7c1a1c915da.post_count = "3";
+block_td_uid_17_5c7c1a1c915da.found_posts = "700";
+block_td_uid_17_5c7c1a1c915da.header_color = "";
+block_td_uid_17_5c7c1a1c915da.ajax_pagination_infinite_stop = "";
+block_td_uid_17_5c7c1a1c915da.max_num_pages = "234";
+tdBlocksArray.push(block_td_uid_17_5c7c1a1c915da);
+</script><h4 class="td-related-title"><a id="td_uid_18_5c7c1a1c92570" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_17_5c7c1a1c915da" href="#">RELATED ARTICLES</a><a id="td_uid_19_5c7c1a1c925ad" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_17_5c7c1a1c915da" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_17_5c7c1a1c915da class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Fórum" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"/></a></div>                <a href="https://www.fintechnews.org/category/blockchain/" class="td-post-category">Blockchain</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos">El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Advanced Program" title="Ping Identity CTO’s cybersecurity predictions for 2019"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019">Ping Identity CTO’s cybersecurity predictions for 2019</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Digital Banks" title="Digital banks must find balance between cloud, cost and customer experience"/></a></div>                <a href="https://www.fintechnews.org/category/digital-bank/" class="td-post-category">Digital bank</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience">Digital banks must find balance between cloud, cost and customer experience</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_17_5c7c1a1c915da" data-td_block_id="td_uid_17_5c7c1a1c915da"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_17_5c7c1a1c915da" data-td_block_id="td_uid_17_5c7c1a1c915da"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+
+	<div class="comments" id="comments">
+            </div> <!-- /.content -->
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <div class="td-a-rec td-a-rec-id-sidebar  "><span class="td-adspot-title">- Advertisement -</span><div class="td-all-devices"><a href="https://www.thefintechconference.com"><img src="https://www.fintechnews.org/wp-content/uploads/2019/01/rec301_5.jpg" target="_blank" ></a></div></div><div class="td_block_wrap td_block_7 td_block_widget td_uid_21_5c7c1a1c9610b_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_21_5c7c1a1c9610b" ><script>var block_td_uid_21_5c7c1a1c9610b = new tdBlock();
+block_td_uid_21_5c7c1a1c9610b.id = "td_uid_21_5c7c1a1c9610b";
+block_td_uid_21_5c7c1a1c9610b.atts = '{"limit":"4","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"MOST POPULAR","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"load_more","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_21_5c7c1a1c9610b_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_21_5c7c1a1c9610b.td_column_number = "1";
+block_td_uid_21_5c7c1a1c9610b.block_type = "td_block_7";
+block_td_uid_21_5c7c1a1c9610b.post_count = "4";
+block_td_uid_21_5c7c1a1c9610b.found_posts = "919";
+block_td_uid_21_5c7c1a1c9610b.header_color = "";
+block_td_uid_21_5c7c1a1c9610b.ajax_pagination_infinite_stop = "";
+block_td_uid_21_5c7c1a1c9610b.max_num_pages = "230";
+tdBlocksArray.push(block_td_uid_21_5c7c1a1c9610b);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>MOST POPULAR</span></h4></div><div id=td_uid_21_5c7c1a1c9610b class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/goldman-sachs-robo-adviser-to-give-investment-advice-to-its-affluent-customers/" rel="bookmark" title="Goldman Sachs’ Robo-Adviser to Give Investment Advice to Its Affluent Customers"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2017/03/Robo-Advisor_1-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2017/03/Robo-Advisor_1-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2017/03/Robo-Advisor_1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Goldman Sachs’ Robo-Adviser to Give Investment Advice to Its Affluent Customers"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/goldman-sachs-robo-adviser-to-give-investment-advice-to-its-affluent-customers/" rel="bookmark" title="Goldman Sachs’ Robo-Adviser to Give Investment Advice to Its Affluent Customers">Goldman Sachs’ Robo-Adviser to Give Investment Advice to Its Affluent Customers</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-03-24T08:05:32+00:00" >24th March 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/banking-on-artificial-intelligence/" rel="bookmark" title="Banking on artificial intelligence"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/10/f122-12-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/10/f122-12-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/10/f122-12-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Banking AI" title="Banking on artificial intelligence"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/banking-on-artificial-intelligence/" rel="bookmark" title="Banking on artificial intelligence">Banking on artificial intelligence</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-11-29T08:05:13+00:00" >29th November 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/11-of-the-biggest-ico-rois-of-2018-the-coins-you-will-cry-about-not-investing-in-sooner/" rel="bookmark" title="11 Of The Biggest ICO ROIs Of 2018 (The Coins You Will Cry About Not Investing In Sooner!)"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/09/food-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/09/food-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/09/food-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="ICOs" title="11 Of The Biggest ICO ROIs Of 2018 (The Coins You Will Cry About Not Investing In Sooner!)"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/11-of-the-biggest-ico-rois-of-2018-the-coins-you-will-cry-about-not-investing-in-sooner/" rel="bookmark" title="11 Of The Biggest ICO ROIs Of 2018 (The Coins You Will Cry About Not Investing In Sooner!)">11 Of The Biggest ICO ROIs Of 2018 (The Coins You...</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-09-14T17:44:38+00:00" >14th September 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/seven-keys-to-success-for-private-banker-4-0/" rel="bookmark" title="«Seven Keys to Success For Private Banker 4.0»"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/03/f122-13-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/03/f122-13-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/03/f122-13-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Private Banker" title="«Seven Keys to Success For Private Banker 4.0»"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/seven-keys-to-success-for-private-banker-4-0/" rel="bookmark" title="«Seven Keys to Success For Private Banker 4.0»">«Seven Keys to Success For Private Banker 4.0»</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-11-20T14:30:22+00:00" >20th November 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-load-more-wrap"><a href="#" class="td_ajax_load_more td_ajax_load_more_js" id="next-page-td_uid_21_5c7c1a1c9610b" data-td_block_id="td_uid_21_5c7c1a1c9610b">Load more<i class="td-icon-font td-icon-menu-down"></i></a></div></div> <!-- ./block --><div class="td_block_wrap td_block_15 td_block_widget td_uid_22_5c7c1a1c9fa51_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_22_5c7c1a1c9fa51" ><script>var block_td_uid_22_5c7c1a1c9fa51 = new tdBlock();
+block_td_uid_22_5c7c1a1c9fa51.id = "td_uid_22_5c7c1a1c9fa51";
+block_td_uid_22_5c7c1a1c9fa51.atts = '{"limit":"4","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"HOT NEWS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_22_5c7c1a1c9fa51_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_22_5c7c1a1c9fa51.td_column_number = "1";
+block_td_uid_22_5c7c1a1c9fa51.block_type = "td_block_15";
+block_td_uid_22_5c7c1a1c9fa51.post_count = "4";
+block_td_uid_22_5c7c1a1c9fa51.found_posts = "919";
+block_td_uid_22_5c7c1a1c9fa51.header_color = "";
+block_td_uid_22_5c7c1a1c9fa51.ajax_pagination_infinite_stop = "";
+block_td_uid_22_5c7c1a1c9fa51.max_num_pages = "230";
+tdBlocksArray.push(block_td_uid_22_5c7c1a1c9fa51);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>HOT NEWS</span></h4></div><div id=td_uid_22_5c7c1a1c9fa51 class="td_block_inner td-column-1">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_mx4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/fintech100-2017/" rel="bookmark" title="The Fintech100 &#8211; Announcing the world&#8217;s leading fintech innovators for 2017"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2017/11/China-3-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2017/11/China-3-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2017/11/China-3-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech100" title="The Fintech100 &#8211; Announcing the world&#8217;s leading fintech innovators for 2017"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/biz_2/" class="td-post-category">New Business</a>            </div>
+
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/fintech100-2017/" rel="bookmark" title="The Fintech100 &#8211; Announcing the world&#8217;s leading fintech innovators for 2017">The Fintech100 &#8211; Announcing the world&#8217;s leading fintech innovators for 2017</a></h3>
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_mx4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/france-to-turn-into-blockchain-nation-by-investing-500m-euros-in-the-technology/" rel="bookmark" title="France to Turn into ‘Blockchain Nation’ by Investing 500M Euros in the Technology"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/12/f122-11-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/12/f122-11-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/12/f122-11-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Blockchain Nation" title="France to Turn into ‘Blockchain Nation’ by Investing 500M Euros in the Technology"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/france-to-turn-into-blockchain-nation-by-investing-500m-euros-in-the-technology/" rel="bookmark" title="France to Turn into ‘Blockchain Nation’ by Investing 500M Euros in the Technology">France to Turn into ‘Blockchain Nation’ by Investing 500M Euros in...</a></h3>
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_mx4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/taiwans-fsc-mulls-establishment-pure-digital-banks/" rel="bookmark" title="Taiwan&#8217;s FSC mulls establishment of pure digital banks"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/02/f122-2-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/02/f122-2-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/02/f122-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Taiwan Banks" title="Taiwan&#8217;s FSC mulls establishment of pure digital banks"/></a></div>                <a href="https://www.fintechnews.org/category/fashion/" class="td-post-category">Business</a>            </div>
+
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/taiwans-fsc-mulls-establishment-pure-digital-banks/" rel="bookmark" title="Taiwan&#8217;s FSC mulls establishment of pure digital banks">Taiwan&#8217;s FSC mulls establishment of pure digital banks</a></h3>
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_mx4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.fintechnews.org/81-financial/" rel="bookmark" title="81% OF FINANCIAL INSTITUTIONS TO PARTNER WITH FINTECH: SURVEY"><img width="218" height="150" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2017/12/f122-16-218x150.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2017/12/f122-16-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2017/12/f122-16-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Fintech Financial" title="81% OF FINANCIAL INSTITUTIONS TO PARTNER WITH FINTECH: SURVEY"/></a></div>                <a href="https://www.fintechnews.org/category/tech/anals/" class="td-post-category">Analysis</a>            </div>
+
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/81-financial/" rel="bookmark" title="81% OF FINANCIAL INSTITUTIONS TO PARTNER WITH FINTECH: SURVEY">81% OF FINANCIAL INSTITUTIONS TO PARTNER WITH FINTECH: SURVEY</a></h3>
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_22_5c7c1a1c9fa51" data-td_block_id="td_uid_22_5c7c1a1c9fa51"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_22_5c7c1a1c9fa51" data-td_block_id="td_uid_22_5c7c1a1c9fa51"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+<div class="td-footer-wrapper">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+			    		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 td_uid_24_5c7c1a1ca762f_rand td-pb-border-top"  data-td-block-uid="td_uid_24_5c7c1a1ca762f" ><script>var block_td_uid_24_5c7c1a1ca762f = new tdBlock();
+block_td_uid_24_5c7c1a1ca762f.id = "td_uid_24_5c7c1a1ca762f";
+block_td_uid_24_5c7c1a1ca762f.atts = '{"limit":3,"sort":"featured","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"EDITOR PICKS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_24_5c7c1a1ca762f_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_24_5c7c1a1ca762f.td_column_number = "1";
+block_td_uid_24_5c7c1a1ca762f.block_type = "td_block_7";
+block_td_uid_24_5c7c1a1ca762f.post_count = "3";
+block_td_uid_24_5c7c1a1ca762f.found_posts = "919";
+block_td_uid_24_5c7c1a1ca762f.header_color = "";
+block_td_uid_24_5c7c1a1ca762f.ajax_pagination_infinite_stop = "";
+block_td_uid_24_5c7c1a1ca762f.max_num_pages = "307";
+tdBlocksArray.push(block_td_uid_24_5c7c1a1ca762f);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>EDITOR PICKS</span></h4></div><div id=td_uid_24_5c7c1a1ca762f class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/03/Feria-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Fintech Fórum" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/el-fintech-forum-vuelve-a-forinvest-despues-de-haber-estado-de-gira-en-ee-uu/" rel="bookmark" title="El Fintech Fórum vuelve a Forinvest después de haber estado de gira en Estados Unidos">El Fintech Fórum vuelve a Forinvest después de haber estado de...</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-03-03T00:45:15+00:00" >3rd March 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2019/02/Construction-4-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Fintech Advanced Program" title="Ping Identity CTO’s cybersecurity predictions for 2019"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/ping-identity-ctos-cybersecurity-predictions-for-2019/" rel="bookmark" title="Ping Identity CTO’s cybersecurity predictions for 2019">Ping Identity CTO’s cybersecurity predictions for 2019</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-03-02T08:13:54+00:00" >2nd March 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/11/f122-15-534x375.jpg 534w" sizes="(max-width: 100px) 100vw, 100px" alt="Digital Banks" title="Digital banks must find balance between cloud, cost and customer experience"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/digital-banks-must-find-balance-between-cloud-cost-and-customer-experience/" rel="bookmark" title="Digital banks must find balance between cloud, cost and customer experience">Digital banks must find balance between cloud, cost and customer experience</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-03-01T10:35:27+00:00" >1st March 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 td_uid_25_5c7c1a1caa135_rand td-pb-border-top"  data-td-block-uid="td_uid_25_5c7c1a1caa135" ><script>var block_td_uid_25_5c7c1a1caa135 = new tdBlock();
+block_td_uid_25_5c7c1a1caa135.id = "td_uid_25_5c7c1a1caa135";
+block_td_uid_25_5c7c1a1caa135.atts = '{"limit":3,"sort":"popular","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"POPULAR POSTS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_25_5c7c1a1caa135_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_25_5c7c1a1caa135.td_column_number = "1";
+block_td_uid_25_5c7c1a1caa135.block_type = "td_block_7";
+block_td_uid_25_5c7c1a1caa135.post_count = "3";
+block_td_uid_25_5c7c1a1caa135.found_posts = "919";
+block_td_uid_25_5c7c1a1caa135.header_color = "";
+block_td_uid_25_5c7c1a1caa135.ajax_pagination_infinite_stop = "";
+block_td_uid_25_5c7c1a1caa135.max_num_pages = "307";
+tdBlocksArray.push(block_td_uid_25_5c7c1a1caa135);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>POPULAR POSTS</span></h4></div><div id=td_uid_25_5c7c1a1caa135 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/fintech-y-bancos-aliados-o-enemigos/" rel="bookmark" title="Fintech y bancos: ¿aliados o enemigos?"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2017/05/fintech61-1-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2017/05/fintech61-1-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2017/05/fintech61-1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Fintech Bancos" title="Fintech y bancos: ¿aliados o enemigos?"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/fintech-y-bancos-aliados-o-enemigos/" rel="bookmark" title="Fintech y bancos: ¿aliados o enemigos?">Fintech y bancos: ¿aliados o enemigos?</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-10-24T18:24:54+00:00" >24th October 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/new-banking-models-at-fintech-age/" rel="bookmark" title="New banking models at Fintech age"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2017/05/Tom-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2017/05/Tom-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2017/05/Tom-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="New banking models at Fintech age"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/new-banking-models-at-fintech-age/" rel="bookmark" title="New banking models at Fintech age">New banking models at Fintech age</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-05-10T16:25:45+00:00" >10th May 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/cryptocurrency-could-help-save-100billion-of-forgotten-wealth-in-the-form-of-unused-loyalty-points-in-the-us-and-canada-according-to-a-new-study/" rel="bookmark" title="CRYPTOCURRENCY could help save $100billion of ‘forgotten wealth’ in the form of unused loyalty points in the US and Canada, according to a new study."><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/08/loyal-1-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/08/loyal-1-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/08/loyal-1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Loyalty" title="CRYPTOCURRENCY could help save $100billion of ‘forgotten wealth’ in the form of unused loyalty points in the US and Canada, according to a new study."/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/cryptocurrency-could-help-save-100billion-of-forgotten-wealth-in-the-form-of-unused-loyalty-points-in-the-us-and-canada-according-to-a-new-study/" rel="bookmark" title="CRYPTOCURRENCY could help save $100billion of ‘forgotten wealth’ in the form of unused loyalty points in the US and Canada, according to a new study.">CRYPTOCURRENCY could help save $100billion of ‘forgotten wealth’ in the form...</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-08-29T17:56:07+00:00" >29th August 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_popular_categories td_uid_26_5c7c1a1cb3529_rand widget widget_categories td-pb-border-top"  data-td-block-uid="td_uid_26_5c7c1a1cb3529" ><h4 class="block-title"><span>POPULAR CATEGORY</span></h4><ul class="td-pb-padding-side"><li><a href="https://www.fintechnews.org/category/fashion/">Business<span class="td-cat-no">629</span></a></li><li><a href="https://www.fintechnews.org/category/tech/">Technology<span class="td-cat-no">621</span></a></li><li><a href="https://www.fintechnews.org/category/fina/">Finance<span class="td-cat-no">615</span></a></li><li><a href="https://www.fintechnews.org/category/fashion/biz_2/">New Business<span class="td-cat-no">104</span></a></li><li><a href="https://www.fintechnews.org/category/fintech/">fintech;<span class="td-cat-no">55</span></a></li><li><a href="https://www.fintechnews.org/category/tech/anals/">Analysis<span class="td-cat-no">51</span></a></li><li><a href="https://www.fintechnews.org/category/fashion/biz3/">Case Studies<span class="td-cat-no">44</span></a></li><li><a href="https://www.fintechnews.org/category/uncategorised/">Uncategorised<span class="td-cat-no">23</span></a></li><li><a href="https://www.fintechnews.org/category/digital-bank/">Digital bank<span class="td-cat-no">20</span></a></li></ul></div> <!-- ./block -->                            </div>
+        </div>
+    </div>
+    <div class="td-footer-bottom-full">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://www.fintechnews.org/"><img class="td-retina-data" src="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-white-1.png" data-retina="https://www.fintechnews.org/wp-content/uploads/2016/11/logo-white-1.png" alt="Fintech logo" title=""/></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>We provide you with the latest breaking news and videos straight from the business.<div class="footer-email-wrap">Contact us: <a href="mailto:info@fintechnews.org">info@fintechnews.org</a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Linkedin">
+                <i class="td-icon-font td-icon-linkedin"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Pinterest">
+                <i class="td-icon-font td-icon-pinterest"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/FintechOne" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span></aside></div>            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                        <div class="menu-td-demo-footer-menu-container"><ul id="menu-td-demo-footer-menu" class="td-subfooter-menu"><li id="menu-item-2182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-2182"><a href="#">Disclaimer</a></li>
+<li id="menu-item-2183" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2183"><a href="#">Privacy</a></li>
+<li id="menu-item-2184" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2184"><a href="#">Advertisement</a></li>
+<li id="menu-item-2185" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2185"><a href="#">Contact Us</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy; WordPress Theme                </div>
+            </div>
+        </div>
+    </div>
+</div><!--close td-outer-wrap-->
+
+
+<div id="cookie-banner">
+	<div id="cookie-banner-container">
+
+		<div class="left">
+				Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies.		</div>
+
+		<div class="right">
+
+				<a class="accept" href="#">ACCEPT</a>
+
+				<a class="more-info" href="http://"
+					
+					
+					>
+
+									</a>
+		</div>
+
+	</div>
+</div>
+
+                <div class="td-more-articles-box">
+                    <i class="td-icon-close td-close-more-articles-box"></i>
+                    <span class="td-more-articles-box-title">MORE STORIES</span>
+                    <div class="td-content-more-articles-box">
+
+                    
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/blockchain-2019-fintech-predictions/" rel="bookmark" title="Blockchain 2019 – FinTech Predictions"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2019/01/f122-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2019/01/f122-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Fintech Predictions" title="Blockchain 2019 – FinTech Predictions"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/blockchain-2019-fintech-predictions/" rel="bookmark" title="Blockchain 2019 – FinTech Predictions">Blockchain 2019 – FinTech Predictions</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-02-21T07:54:09+00:00" >21st February 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.fintechnews.org/blockchain-beyond-finance-a-look-at-the-technologys-implementation-in-rewards-and-loyalty-programs/" rel="bookmark" title="Blockchain Beyond Finance: A look at the technology’s implementation in rewards and loyalty programs"><img width="100" height="70" class="entry-thumb" src="https://www.fintechnews.org/wp-content/uploads/2018/12/f122-21-100x70.jpg" srcset="https://www.fintechnews.org/wp-content/uploads/2018/12/f122-21-100x70.jpg 100w, https://www.fintechnews.org/wp-content/uploads/2018/12/f122-21-218x150.jpg 218w, https://www.fintechnews.org/wp-content/uploads/2018/12/f122-21-534x373.jpg 534w" sizes="(max-width: 100px) 100vw, 100px" alt="Blockchain Technology" title="Blockchain Beyond Finance: A look at the technology’s implementation in rewards and loyalty programs"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.fintechnews.org/blockchain-beyond-finance-a-look-at-the-technologys-implementation-in-rewards-and-loyalty-programs/" rel="bookmark" title="Blockchain Beyond Finance: A look at the technology’s implementation in rewards and loyalty programs">Blockchain Beyond Finance: A look at the technology’s implementation in rewards...</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-01-24T09:30:13+00:00" >24th January 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+                            </div>
+                </div>
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 7.4 (rara)
+        Deploy mode: deploy
+        
+        uid: 5c7c1a1cbb673
+    -->
+
+    
+<!-- Custom css form theme panel -->
+<style type="text/css" media="screen">
+/* custom css theme panel */
+.td-social-linkedin{ 
+    background-color: #006699; 
+} 
+.td-sp-linkedin{ 
+    width: 32px; 
+    height: 32px; 
+    background-position: -30px -810px; 
+}
+</style>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.fintechnews.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.4'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.fintechnews.org/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+			
+				jQuery().ready(function () {
+					tdWeather.addItem({"block_uid":"td_top_weather_uid","location":"Valencia","api_location":"Valencia","api_language":"en","today_icon":"clear-sky-d","today_icon_text":"clear sky","today_temp":[25.6,78],"today_humidity":13,"today_wind_speed":[5.1,3.2],"today_min":[21.1,70],"today_max":[29,84.2],"today_clouds":0,"current_unit":0,"forecast":[{"timestamp":1551700800,"day_temp":[21,70],"day_name":"Mon","owm_day_index":1},{"timestamp":1551787200,"day_temp":[19,66],"day_name":"Tue","owm_day_index":2},{"timestamp":1551873600,"day_temp":[22,71],"day_name":"Wed","owm_day_index":3},{"timestamp":1551960000,"day_temp":[16,62],"day_name":"Thu","owm_day_index":4},{"timestamp":1552046400,"day_temp":[17,63],"day_name":"Fri","owm_day_index":5}],"api_key":"e5342a41a77f36d7802f350362aa6725"});
+				});
+			
+			
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://www.fintechnews.org/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://www.fintechnews.org/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+</body>
+</html>

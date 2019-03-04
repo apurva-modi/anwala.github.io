@@ -1,0 +1,2113 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued - Crypto Alpha News</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://www.cryptoalphanews.com/xmlrpc.php" />
+    <meta property="og:image" content="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg" /><link rel="icon" type="image/png" href="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/icon-1.jpg">
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued - Crypto Alpha News" />
+<meta property="og:description" content="This interview has been edited and condensed. The author of the &#8220;The Bitcoin Big Bang &mdash; How Alternative Currencies Are About to Change the World,&#8221; Brian Kelly calls himself an optimist when it comes to the future of the cryptocurrencies. CNBC&rsquo;s prominent commentator, who is also the founder and CEO of digital currency investment firm &hellip;" />
+<meta property="og:url" content="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" />
+<meta property="og:site_name" content="Crypto Alpha News" />
+<meta property="article:publisher" content="https://www.facebook.com/CryptoMirrorNews/" />
+<meta property="article:tag" content="Bitcoin" />
+<meta property="article:section" content="News" />
+<meta property="article:published_time" content="2019-02-16T21:52:00+00:00" />
+<meta property="article:modified_time" content="2019-02-16T21:52:02+00:00" />
+<meta property="og:updated_time" content="2019-02-16T21:52:02+00:00" />
+<meta property="og:image" content="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg" />
+<meta property="og:image:secure_url" content="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg" />
+<meta property="og:image:width" content="1450" />
+<meta property="og:image:height" content="650" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="This interview has been edited and condensed. The author of the &#8220;The Bitcoin Big Bang &mdash; How Alternative Currencies Are About to Change the World,&#8221; Brian Kelly calls himself an optimist when it comes to the future of the cryptocurrencies. CNBC&rsquo;s prominent commentator, who is also the founder and CEO of digital currency investment firm [&hellip;]" />
+<meta name="twitter:title" content="Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued - Crypto Alpha News" />
+<meta name="twitter:site" content="@Crypto_Mirror" />
+<meta name="twitter:image" content="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg" />
+<meta name="twitter:creator" content="@Crypto_Mirror" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://www.cryptoalphanews.com/","sameAs":["https://www.facebook.com/CryptoMirrorNews/","https://twitter.com/Crypto_Mirror"],"@id":"https://www.cryptoalphanews.com/#organization","name":"Crypto Mirror","logo":"https://www.cryptoalphanews.com/wp-content/uploads/2018/05/logox2.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Crypto Alpha News &raquo; Feed" href="https://www.cryptoalphanews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Crypto Alpha News &raquo; Comments Feed" href="https://www.cryptoalphanews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Crypto Alpha News &raquo; Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued Comments Feed" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cryptoalphanews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kades-crypto-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/kades-crypto-widgets/css/kades-crypto.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='td-plugin-multi-purpose-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/td-multi-purpose/style.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%7CRoboto+Slab%3A400%2C600%7COpen+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900%2C600&#038;ver=8.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://www.cryptoalphanews.com/wp-content/themes/Newspaper/style.css?ver=8.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-demo-style-css'  href='https://www.cryptoalphanews.com/wp-content/themes/Newspaper/includes/demos/crypto/demo_style.css?ver=8.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20150408'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/build/postmessage.min.js?ver=6.8.1'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js?ver=6.8.1'></script>
+<link rel='https://api.w.org/' href='https://www.cryptoalphanews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cryptoalphanews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cryptoalphanews.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.9" />
+<link rel='shortlink' href='https://wp.me/pajnS2-1xc' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cryptoalphanews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cryptoalphanews.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cryptoalphanews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cryptoalphanews.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>			<script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/www.cryptoalphanews.com\/wp-admin\/","wpRestNonce":"9b054362d2","wpRestUrl":"https:\/\/www.cryptoalphanews.com\/wp-json\/","permalinkStructure":"\/%year%\/%monthnum%\/%day%\/%postname%\/"};
+			</script>
+			<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    <meta name="generator" content="Feed to Post 3.7.5" />
+      <meta name="onesignal" content="wordpress-plugin"/>
+          <link rel="manifest"
+            href="https://www.cryptoalphanews.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="/>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.cryptoalphanews.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'e546cd28-2645-44ca-8048-9d2efb404ab4';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.cryptoalphanews.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+			<style type="text/css">
+				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="amphtml" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/amp/"><link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "e546cd28-2645-44ca-8048-9d2efb404ab4",
+    });
+  });
+</script>
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
+var td_ajax_url="https:\/\/www.cryptoalphanews.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.7.4";
+var td_get_template_directory_uri="https:\/\/www.cryptoalphanews.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="tdm_header_style_3";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#ffd800";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before,
+    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
+        background-color: #ffd800;
+    }
+
+    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #ffd800 transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #ffd800 !important;
+    }
+    
+    
+    .td_block_template_4 .td-related-title .td-cur-simple-item,
+    .td_block_template_3 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title:after {
+        background-color: #ffd800;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #ffd800;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #ffd800 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
+    .td-header-top-menu .td-icon-search:hover,
+    .td-header-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .td_block_template_2 .td-related-title .td-cur-simple-item,
+    .td_block_template_5 .td-related-title .td-cur-simple-item,
+    .td_block_template_6 .td-related-title .td-cur-simple-item,
+    .td_block_template_7 .td-related-title .td-cur-simple-item,
+    .td_block_template_8 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title .td-cur-simple-item,
+    .td_block_template_10 .td-related-title .td-cur-simple-item,
+    .td_block_template_11 .td-related-title .td-cur-simple-item,
+    .td_block_template_12 .td-related-title .td-cur-simple-item,
+    .td_block_template_13 .td-related-title .td-cur-simple-item,
+    .td_block_template_14 .td-related-title .td-cur-simple-item,
+    .td_block_template_15 .td-related-title .td-cur-simple-item,
+    .td_block_template_16 .td-related-title .td-cur-simple-item,
+    .td_block_template_17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .td_outlined_btn {
+        color: #ffd800;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #ffd800 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+    .td_outlined_btn {
+        border-color: #ffd800;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #ffd800 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #ffd800 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+    .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #ffd800;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #ffd800 !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #ffd800;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #ffd800;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(255, 216, 0, 0.7);
+    }
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #000000;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #000000;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #000000;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #000000 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+    
+    
+    
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
+        background-color: #ffd800;
+    }
+
+
+    .td_block_mega_menu .td-next-prev-wrap a:hover {
+        border-color: #ffd800;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #ffd800 transparent;
+    }
+
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a {
+        color: #ffd800;
+    }
+    
+    
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
+    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+        color: #ffffff;
+    }
+    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
+      background-color: #ffffff;
+    }
+    
+    
+    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
+        color: #5b5b5b;
+    }
+
+    
+    .td-theme-wrap .header-search-wrap .td-drop-down-search .btn:hover {
+        background-color: #f2d621;
+    }
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #f2d621 !important;
+    }
+
+    
+    @media (max-width: 767px) {
+        body .td-header-wrap .td-header-main-menu {
+            background-color: #111111 !important;
+        }
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(0,0,0,0.8);
+        background: -moz-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.8)), color-stop(100%, rgba(0,0,0,0.7)));
+        background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: -o-linear-gradient(top, rgba(0,0,0,0.8) 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.8)', endColorstr='rgba(0,0,0,0.7)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #fbb03b;
+    }
+
+    
+    .td-header-bg:before {
+        background-position: center top;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #000000;
+    }
+
+    
+    .td-sub-footer-container {
+        background-color: #fbb03b;
+    }
+
+    
+    .td-sub-footer-container,
+    .td-subfooter-menu li a {
+        color: #ffffff;
+    }
+
+    
+    .td-subfooter-menu li a:hover {
+        color: rgba(255,255,255,0.8);
+    }
+
+
+    
+    .td-footer-wrapper::before {
+        background-image: url('https://www.cryptoalphanews.com/wp-content/uploads/2018/05/6.jpg');
+    }
+
+    
+    .td-footer-wrapper::before {
+        background-position: center center;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: 0.2;
+    }
+
+
+
+    
+    .td-menu-background,
+    .td-search-background {
+        background-image: url('https://www.cryptoalphanews.com/wp-content/uploads/2018/05/1.jpg');
+    }
+
+    
+    .white-popup-block:before {
+        background-image: url('https://www.cryptoalphanews.com/wp-content/uploads/2018/05/2.jpg');
+    }
+
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        font-size:14px;
+	line-height:42px;
+	
+    }
+    
+    ul.sf-menu > .td-menu-item > a,
+    .td-theme-wrap .td-header-menu-social {
+        font-family:Poppins;
+	font-size:18px;
+	line-height:90px;
+	font-weight:normal;
+	text-transform:capitalize;
+	
+    }
+    
+    .sf-menu ul .td-menu-item a {
+        font-family:Poppins;
+	font-size:16px;
+	
+    }
+	
+    .td_mod_mega_menu .item-details a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:22px;
+	font-weight:600;
+	
+    }
+    
+    .td_mega_menu_sub_cats .block-mega-child-cats a {
+        font-weight:600;
+	text-transform:uppercase;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:Poppins;
+	font-weight:600;
+	
+    }
+    
+	.td_module_wrap .td-module-title {
+		font-family:Poppins;
+	
+	}
+     
+    .td_module_11 .td-module-title {
+    	font-weight:600;
+	
+    }
+    
+	.td_block_trending_now .entry-title,
+	.td-theme-slider .td-module-title,
+    .td-big-grid-post .entry-title {
+		font-family:Poppins;
+	
+	}
+    
+    .td_module_mx5 .td-module-title {
+    	font-weight:600;
+	
+    }
+    
+	#td-mobile-nav,
+	#td-mobile-nav .wpb_button,
+	.td-search-wrap-mob {
+		font-family:Poppins;
+	
+	}
+
+
+	
+	.post .td-post-header .entry-title {
+		font-family:Poppins;
+	
+	}
+    
+    .td-post-template-3 .td-post-header .entry-title {
+        font-weight:600;
+	
+    }
+    
+    .post blockquote p,
+    .page blockquote p,
+    .td-post-text-content blockquote p {
+        font-family:"Roboto Slab";
+	
+    }
+    
+    .post header .td-post-author-name,
+    .post header .td-post-author-name a {
+        font-family:Poppins;
+	font-weight:600;
+	
+    }
+    
+    .post .td-post-next-prev-content a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:22px;
+	font-weight:600;
+	
+    }
+    
+    .td_block_related_posts .entry-title a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:20px;
+	font-weight:600;
+	
+    }
+    
+    .top-header-menu > li,
+    .td-header-sp-top-menu,
+    #td-outer-wrap .td-header-sp-top-widget {
+        line-height: 42px;
+    }
+
+    
+    @media (min-width: 768px) {
+        .td-header-style-4 .td-main-menu-logo img,
+        .td-header-style-5 .td-main-menu-logo img,
+        .td-header-style-6 .td-main-menu-logo img,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-12 .td-main-menu-logo img {
+            max-height: 90px;
+        }
+        .td-header-style-4 .td-main-menu-logo,
+        .td-header-style-5 .td-main-menu-logo,
+        .td-header-style-6 .td-main-menu-logo,
+        .td-header-style-7 .td-header-sp-logo,
+        .td-header-style-12 .td-main-menu-logo {
+            height: 90px;
+        }
+        .td-header-style-4 .td-main-menu-logo a,
+        .td-header-style-5 .td-main-menu-logo a,
+        .td-header-style-6 .td-main-menu-logo a,
+        .td-header-style-7 .td-header-sp-logo a,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-7 .header-search-wrap #td-header-search-button .td-icon-search,
+        .td-header-style-12 .td-main-menu-logo a,
+        .td-header-style-12 .td-header-menu-wrap .sf-menu > li > a {
+            line-height: 90px;
+        }
+        .td-header-style-7 .sf-menu,
+        .td-header-style-7 .td-header-menu-social {
+            margin-top: 0;
+        }
+        .td-header-style-7 #td-top-search {
+            top: 0;
+            bottom: 0;
+        }
+        .header-search-wrap #td-header-search-button .td-icon-search,
+        .header-search-wrap #td-header-search-button .td-icon-search:before {
+            line-height: 90px;
+        }
+    }
+
+
+
+/* Style generated by theme for demo: crypto */
+
+.td-crypto .td_module_11 .td-read-more a:hover {
+            background-color: #ffd800 !important;
+        }
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96378723-19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-96378723-19');
+</script>
+<script type="application/ld+json">
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "BreadcrumbList",
+                            "itemListElement": [{
+                            "@type": "ListItem",
+                            "position": 1,
+                                "item": {
+                                "@type": "WebSite",
+                                "@id": "https://www.cryptoalphanews.com/",
+                                "name": "Home"                                               
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 2,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://www.cryptoalphanews.com/category/news/",
+                                "name": "News"
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 3,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/",
+                                "name": "Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued"                                
+                            }
+                        }    ]
+                        }
+                       </script><link rel="icon" href="https://www.cryptoalphanews.com/wp-content/uploads/2018/05/cropped-logo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.cryptoalphanews.com/wp-content/uploads/2018/05/cropped-logo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.cryptoalphanews.com/wp-content/uploads/2018/05/cropped-logo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.cryptoalphanews.com/wp-content/uploads/2018/05/cropped-logo-270x270.jpg" />
+			<style type="text/css" id="wp-custom-css">
+				.td-scroll-up {
+   
+    bottom: 48px !important;
+	  position:fixed;
+
+}
+
+.entry-crumbs a {
+    color: #777;
+}
+
+.entry-crumbs a:hover {
+    
+	text-decoration:underline;
+}
+
+.entry-crumbs {
+    color: #777;
+}
+
+
+.td-sub-footer-container {
+    background-color: #ffd800;
+	 color:#000;
+	padding-bottom: 40px !important;
+	
+}
+
+.td-subfooter-menu li:last-child a {
+    margin-right: 0;
+    color: #000;
+	  
+}
+
+			</style>
+		
+<!-- Button style compiled by theme -->
+
+<style>
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+                .tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,
+                .tds-button2 .tdm-btn-text,
+                .tds-button2 i,
+                .tds-button5:hover .tdm-btn-text,
+                .tds-button5:hover i,
+                .tds-button6 .tdm-btn-text,
+                .tds-button6 i,
+                .tdm_block_list .tdm-list-item i,
+                .tdm_block_pricing .tdm-pricing-feature i,
+                .tdm-social-item i {
+                  color: #ffd800;
+                }
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a,
+                .tds-button1,
+                .tds-button6:after,
+                .tds-title2 .tdm-title-line:after,
+                .tds-title3 .tdm-title-line:after,
+                .tdm_block_pricing.tdm-pricing-featured:before,
+                .tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,
+                .tds-progress-bar1 .tdm-progress-bar:after,
+                .tds-progress-bar2 .tdm-progress-bar:after,
+                .tds-social3 .tdm-social-item {
+                  background-color: #ffd800;
+                }
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a,
+                .tds-button2:before,
+                .tds-button6:before,
+                .tds-progress-bar3 .tdm-progress-bar:after {
+                  border-color: #ffd800;
+                }
+                .tdm-btn-style1 {
+					background-color: #ffd800;
+				}
+				.tdm-btn-style2:before {
+				    border-color: #ffd800;
+				}
+				.tdm-btn-style2 {
+				    color: #ffd800;
+				}
+				.tdm-btn-style3 {
+				    -webkit-box-shadow: 0 2px 16px #ffd800;
+                    -moz-box-shadow: 0 2px 16px #ffd800;
+                    box-shadow: 0 2px 16px #ffd800;
+				}
+				.tdm-btn-style3:hover {
+				    -webkit-box-shadow: 0 4px 26px #ffd800;
+                    -moz-box-shadow: 0 4px 26px #ffd800;
+                    box-shadow: 0 4px 26px #ffd800;
+				}
+				
+				
+                .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu{
+                    background-color: #000000;
+                }
+				
+				
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
+                  color: #ffd800;
+                }
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
+                  border-color: #ffd800;
+                }
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style5 .tdm-header .td-header-menu-wrap .sf-menu > .sfHover > a {
+                  background-color: #ffd800;
+                }
+				
+				
+                .tdm-menu-active-style2 .tdm-header ul.sf-menu > .td-menu-item,
+                .tdm-menu-active-style4 .tdm-header ul.sf-menu > .td-menu-item,
+                .tdm-header .tdm-header-menu-btns,
+                .tdm-header-style-1 .td-main-menu-logo a,
+                .tdm-header-style-2 .td-main-menu-logo a,
+                .tdm-header-style-3 .td-main-menu-logo a,
+                .tdm-header-style-1 .td-header-menu-wrap-full #td-header-search-button .td-icon-search,
+                .tdm-header-style-2 .td-header-menu-wrap-full #td-header-search-button .td-icon-search,
+                .tdm-header-style-3 .td-header-menu-wrap-full #td-header-search-button .td-icon-search {
+                    line-height: 90px;
+                }
+                .tdm-header-style-1 .td-main-menu-logo,
+                .tdm-header-style-2 .td-main-menu-logo,
+                .tdm-header-style-3 .td-main-menu-logo {
+                    height: 90px;
+                }
+                @media (min-width: 767px) {
+                    .tdm-header-style-1 .td-main-menu-logo img, 
+                    .tdm-header-style-2 .td-main-menu-logo img, 
+                    .tdm-header-style-3 .td-main-menu-logo img {
+                        max-height: 90px;
+                    }
+                }
+</style>
+
+	<style id="tdw-css-placeholder">.top_banner {
+  display: none;
+}
+.center_banner {
+  display: none;
+}
+</style></head>
+
+<body class="post-template-default single single-post postid-5902 single-format-standard tdm-menu-active-style3 interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued global-block-template-1 td-crypto td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/cryptoalphanews/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/cryptoalphanews" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-header-menu-container"><ul id="menu-header-menu" class="td-mobile-main-menu"><li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-171"><a href="https://www.cryptoalphanews.com/">Home</a></li>
+<li id="menu-item-402" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-402"><a href="https://www.cryptoalphanews.com/category/news/">News<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-407"><a href="https://www.cryptoalphanews.com/category/news/breaking-news/">Breaking News</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403"><a href="https://www.cryptoalphanews.com/category/news/featured-news/">Featured News</a></li>
+	<li id="menu-item-406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406"><a href="https://www.cryptoalphanews.com/category/news/altcoin-news/">Altcoin News</a></li>
+	<li id="menu-item-404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404"><a href="https://www.cryptoalphanews.com/category/news/exchange-news/">Exchange News</a></li>
+	<li id="menu-item-405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405"><a href="https://www.cryptoalphanews.com/category/news/crypto-social/">Crypto Social</a></li>
+</ul>
+</li>
+<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://www.cryptoalphanews.com/trade-now/">Trade Now</a></li>
+<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="https://www.cryptoalphanews.com/market-cap/">Market Cap</a></li>
+<li id="menu-item-1273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1273"><a href="https://www.cryptoalphanews.com/ico/">ICO</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-408"><a>Tools<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://www.cryptoalphanews.com/charts/">Charts</a></li>
+	<li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.cryptoalphanews.com/economic-calendar/">Economic Calendar</a></li>
+	<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="https://www.cryptoalphanews.com/wallets/">Wallets</a></li>
+</ul>
+</li>
+<li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-457"><a href="https://www.cryptoalphanews.com/education/">Education<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462"><a href="https://www.cryptoalphanews.com/education/what-is-blockchain/">What is blockchain</a></li>
+	<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="https://www.cryptoalphanews.com/education/what-is-bitcoin/">What is bitcoin</a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://www.cryptoalphanews.com/education/crypto-wallets/">The How-To Guide to Cryptocurrency Wallets</a></li>
+	<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="https://www.cryptoalphanews.com/education/how-to-trade/">How to trade?</a></li>
+</ul>
+</li>
+<li id="menu-item-463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-463"><a>Advertise<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://www.cryptoalphanews.com/banner-space/">Banner Space</a></li>
+	<li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://www.cryptoalphanews.com/submit-a-press-release/">Submit a Press Release</a></li>
+</ul>
+</li>
+<li id="menu-item-470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-470"><a href="https://www.cryptoalphanews.com/contact-us/">Contact Us</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://www.cryptoalphanews.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        <!--
+Header style multipurpose 3
+-->
+
+
+<div class="td-header-wrap tdm-header tdm-header-style-3 ">
+    
+    <div class="td-header-top-menu-full td-container-wrap td_stretch_container td_stretch_content_1400">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-4">
+        <div class="td-header-sp-top-widget">
+    
+    
+        
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/cryptoalphanews/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/cryptoalphanews" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>    </div>        
+<div class="td-header-sp-top-menu">
+
+
+	        <div class="td_data_time">
+            <div >
+
+                Sunday, March 3, 2019
+            </div>
+        </div>
+    </div>
+    </div>
+
+<!-- LOGIN MODAL -->
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap td_stretch_container td_stretch_content_1400">
+        <div class="td-header-menu-wrap td-header-gradient td-header-menu-no-search">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div class="tdm-menu-btns-socials">
+            <div class="header-search-wrap">
+            <div class="td-search-btns-wrap">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+
+            <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+                <form method="get" class="td-search-form" action="https://www.cryptoalphanews.com/">
+                    <div role="search" class="td-head-form-search-wrap">
+                        <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                    </div>
+                </form>
+                <div id="td-aj-search"></div>
+            </div>
+        </div>
+    
+    
+    </div>
+
+<div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-menu">
+        		<a class="td-mobile-logo td-sticky-disable" href="https://www.cryptoalphanews.com/">
+			<img class="td-retina-data" data-retina="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1-300x113.jpg" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1-300x113.jpg" alt=""/>
+		</a>
+			<a class="td-header-logo td-sticky-disable" href="https://www.cryptoalphanews.com/">
+			<img class="td-retina-data" data-retina="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1.jpg" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1.jpg" alt=""/>
+			<span class="td-visual-hidden">Crypto Alpha News</span>
+		</a>
+	    </div>
+    <div class="menu-header-menu-container"><ul id="menu-header-menu-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-171"><a href="https://www.cryptoalphanews.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children td-menu-item td-normal-menu menu-item-402"><a href="https://www.cryptoalphanews.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-407"><a href="https://www.cryptoalphanews.com/category/news/breaking-news/">Breaking News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-403"><a href="https://www.cryptoalphanews.com/category/news/featured-news/">Featured News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-406"><a href="https://www.cryptoalphanews.com/category/news/altcoin-news/">Altcoin News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-404"><a href="https://www.cryptoalphanews.com/category/news/exchange-news/">Exchange News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-405"><a href="https://www.cryptoalphanews.com/category/news/crypto-social/">Crypto Social</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-827"><a href="https://www.cryptoalphanews.com/trade-now/">Trade Now</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-414"><a href="https://www.cryptoalphanews.com/market-cap/">Market Cap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1273"><a href="https://www.cryptoalphanews.com/ico/">ICO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-408"><a>Tools</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-425"><a href="https://www.cryptoalphanews.com/charts/">Charts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-751"><a href="https://www.cryptoalphanews.com/economic-calendar/">Economic Calendar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-438"><a href="https://www.cryptoalphanews.com/wallets/">Wallets</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-457"><a href="https://www.cryptoalphanews.com/education/">Education</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-462"><a href="https://www.cryptoalphanews.com/education/what-is-blockchain/">What is blockchain</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-461"><a href="https://www.cryptoalphanews.com/education/what-is-bitcoin/">What is bitcoin</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-460"><a href="https://www.cryptoalphanews.com/education/crypto-wallets/">The How-To Guide to Cryptocurrency Wallets</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-459"><a href="https://www.cryptoalphanews.com/education/how-to-trade/">How to trade?</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-463"><a>Advertise</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-469"><a href="https://www.cryptoalphanews.com/banner-space/">Banner Space</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-468"><a href="https://www.cryptoalphanews.com/submit-a-press-release/">Submit a Press Release</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-470"><a href="https://www.cryptoalphanews.com/contact-us/">Contact Us</a></li>
+</ul></div></div>
+            </div>
+        </div>
+    </div>
+
+    </div><div class="td-main-content-wrap td-container-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://www.cryptoalphanews.com/">Home</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="View all posts in News" class="entry-crumb" href="https://www.cryptoalphanews.com/category/news/">News</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-5902" class="post-5902 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-bitcoin" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="https://www.cryptoalphanews.com/category/news/">News</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                                        <span class="td-post-date td-post-date-no-dot"><time class="entry-date updated td-module-date" datetime="2019-02-16T20:52:00+00:00" >February 16, 2019</time></span>                                                        </div>
+
+            </header>
+
+        </div>
+
+        
+
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><a href="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg" data-caption=""><img width="696" height="312" class="entry-thumb td-modal-image" src="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-696x312.jpg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-696x312.jpg 696w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-300x134.jpg 300w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-768x344.jpg 768w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-1024x459.jpg 1024w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-1068x479.jpg 1068w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3-937x420.jpg 937w, https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg 1450w" sizes="(max-width: 696px) 100vw, 696px" alt="" title="bcad7ca97b43c799cd30f9b174029fe3.jpg"/></a></div>
+        <p dir="ltr"><span><span><em>This interview has been edited and condensed.</em></span></span></p>
+<p>The author of the &#8220;The Bitcoin Big Bang &mdash; How Alternative Currencies Are About to Change the World,&#8221; Brian Kelly calls himself an optimist when it comes to the future of the cryptocurrencies. CNBC&rsquo;s prominent commentator, who is also the founder and CEO of digital currency investment firm BKCM LLC, analyzes markets on an everyday basis and tends to be 50 percent right &ldquo;trading-wise.&rdquo;</p>
+<p>We met with Brian Kelly at the Crypto Finance Conference in Switzerland and talked about Bitcoin ETFs, the next financial crisis, and the best and worst jobs at the same time.</p>
+<p><strong>Catherine Ross: The most obvious question to you is, what is 2019 going to look like for the crypto industry?</strong></p>
+<p><strong>Brian Kelly:</strong> That&#8217;s a great question! The trillion dollar question. I think it&#8217;s going to be better than 2018, which is a pretty low bar.</p>
+<p><strong>CR: In terms of what?</strong></p>
+<p><strong>BK:</strong> As an investor, my number one concern is price. I look at the price and I say that we&#8217;ve seen three or four of these kind of boom-and-bust cycles in Bitcoin. If you look at the most recent two or so, we&#8217;re following roughly the same path as we&rsquo;ve had, which means we&#8217;re somewhere closer to the end. We might have another dip lower &mdash; it wouldn&#8217;t surprise me at all.</p>
+<p><strong>CR: Lower that $3,000?</strong></p>
+<p><strong>BK:</strong> Sure.</p>
+<p dir="ltr"><em>It wouldn&#8217;t surprise me if it [Bitcoin&rsquo;s price] went to $1,500.</em></p>
+<p><strong>CR: And you feel it&#8217;s going to be short term?</strong></p>
+<p><strong>BK:</strong> I think very short term. And I think we&#8217;re coming to an end. Here&#8217;s the thing, the sellers that we&#8217;ve seen recently are almost forced sellers. Some CEOs had to raise cash because they say they &ldquo;can&#8217;t hold it in crypto all the time.&rdquo; These are signs of the end. I don&#8217;t know if it [the end of the cycle] is here or it&#8217;s a little bit lower, but those are the signs of the end.</p>
+<p>In 2019, if I&#8217;m looking at it, the focus will be on the currency &mdash; Bitcoin, Litecoin, some of those &mdash; because we have quite a bit of geopolitical tension in the world.</p>
+<p><strong>CR: And you feel it is contributing to the price?</strong></p>
+<p><strong>BK:</strong> Yes. We&#8217;re starting to see some global macro players use Bitcoin as an alternative to their gold position or as a way to hedge against fiat currency fluctuations and volatility.</p>
+<p><strong>CR: Using Bitcoin instead of gold?</strong></p>
+<p><strong>BK:</strong> Yeah.</p>
+<p><strong>CR: But is it stable enough?</strong></p>
+<p><strong>BK:</strong> No (laughs).</p>
+<p>But they&#8217;re not looking for stability, right? They&#8217;re looking for a safe haven that&#8217;s uncorrelated to every other asset. So, for an investor and a speculator, the stability is actually not what you want.</p>
+<p>You want that volatility because you&#8217;re trying to get good returns. You&#8217;re trying to get something that&#8217;s uncorrelated to everything else. And that persists through 2019, and it starts to get to be more of a quote-unquote mainstream asset within the investment community.</p>
+<p><img alt="BKCM" src="https://s3.cointelegraph.com/storage/uploads/view/c710d69a39cc9ec5692d7dc679df6793.jpg" title="BKCM" data-lazy-src="https://s3.cointelegraph.com/storage/uploads/view/c710d69a39cc9ec5692d7dc679df6793.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img alt="BKCM" src="https://s3.cointelegraph.com/storage/uploads/view/c710d69a39cc9ec5692d7dc679df6793.jpg" title="BKCM" /></noscript></p>
+<p dir="ltr">One of the most anticipated events in the crypto industry is the approval of a Bitcoin ETF, which hasn&rsquo;t happened yet, despite the numerous attempts. Last year alone, companies and institutions like the NYSE, VanEck, SolidX, Proshares and internet entrepreneurs the Winklevoss brothers (whose first attempt in 2017 failed) all filed with the United States Securities and Exchange Commision (SEC), but were rejected or are awaiting a decision.</p>
+<p>The most recent development on the matter is the SEC&rsquo;s review of a NYSE Arca&rsquo;s Bitcoin ETF rule change proposal on Feb. 11. The proposal suggests &ldquo;to list and trade shares of the Bitwise Bitcoin ETF Trust under NYSE Arca Rule 8.201-E.&rdquo; This might end up being positive for the market, given the latest statement from SEC Commissioner Robert J. Jackson Jr. Speaking to Washington D.C.-based publication Roll Call on Feb. 6, he said, &ldquo;Eventually, do I think someone will satisfy the standards that we&rsquo;ve laid out there? I hope so, yes, and I think so.&rdquo;</p>
+<p><strong>CR: One more very important question for you &mdash; will there be an ETF in 2019?</strong></p>
+<p dir="ltr"><strong>BK:</strong> No shot.</p>
+<p><strong>CR: I&rsquo;m going to put that in the headline! &ldquo;No shot for an ETF in 2019,&rdquo; says Brian Kelly.</strong></p>
+<p><strong>BK:</strong> That&rsquo;s fine! I would bet against it. I don&#8217;t think it&rsquo;s going to happen this year. There&#8217;s too much unresolved that is going to take longer than a year to resolve and before the SEC gets comfortable with what&#8217;s going on.</p>
+<p><strong>CR: What kind of time frame are we talking about?</strong></p>
+<p dir="ltr"><strong>BK:</strong> I think 2020 is a very good shot.</p>
+<p><strong>CR: Sounds promising! But major companies, like ShapeShift and Consensys had to lay off a lot of employees recently. What does this indicate?</strong></p>
+<p><strong>BK:</strong> This is a part of the maturation process. We all got caught up in the big bubble. That being said, this is just a very natural part of the process. There are, unfortunately, some very good people that had to be laid off just because of market circumstances.</p>
+<p dir="ltr">It doesn&#8217;t feel great right now, but it will make the industry stronger.</p>
+<p><strong>CR: From the trading point of view, what are the major signs or indicators of bullish and bearish markets?</strong></p>
+<p><strong>BK:</strong> You look at the bottoms and the tops.</p>
+<p>I can remember in November and December &mdash; and even frankly in January, a year ago &mdash; I was getting phone calls daily like &ldquo;How can I get into your fund?&rdquo; &ldquo;I need to get into that.&rdquo; And we [at BKCM LLC] do a monthly entry and it&#8217;s not something that you get into every day.</p>
+<p>That was happening at the peak. At the bottom, the phone does not ring. It&#8217;s the exact opposite. The euphoria that we saw last year is a mirror image of the pessimism we&#8217;re seeing now. And so, what you want to look for at bottoms are extreme pessimism.</p>
+<p><strong>CR: Are you&rsquo;re talking about technical analysis?</strong></p>
+<p><strong>BK:</strong> Sentiment, really.</p>
+<p><strong>CR: And what about fundamental analysis? How does it look for the crypto industry?</strong></p>
+<p dir="ltr"><strong>BK:</strong> It&#8217;s interesting! We have a proprietary model that gives the fair value for people.</p>
+<p dir="ltr"><em>Right now Bitcoin is about 50 percent undervalued.</em></p>
+<p>So, you could have a significant upside. That being said, we&#8217;ve seen that a couple of times in the last year. We saw that in April of 2018 &mdash; a huge run in Bitcoin.</p>
+<p>And that&#8217;s what I&#8217;m talking about sentiment. So, the sentiment in the market has pushed the price of Bitcoin well below what you would consider a fair value &mdash; or at least, what I would consider fair. And that&#8217;s another sign that we&#8217;re near a bottom.</p>
+<p><strong>CR: How does analyzing crypto markets differ from analyzing traditional financial markets?</strong></p>
+<p dir="ltr"><strong>BK:</strong> Sentiment wise, no difference. Human beings are human beings. Fear and greed, booms and busts. In terms of how people trade markets, how people react to price movements &mdash; also no difference.</p>
+<p>But on the fundamental side, there is a very big difference. It&#8217;s probably closer to foreign currency analysis, where you analyze supply and demand, and what&#8217;s going to affect the supply and demand factors.</p>
+<p>In the traditional currency world, supply and demand might be impacted by central banks. In the crypto world, the supply-demand being impacted by the miner-supply versus the investor-demand at this point in time. So, it&#8217;s a little different.</p>
+<p>There&#8217;s a big learning curve to getting into analyzing cryptocurrencies. It&#8217;s not like if you were analyzing airlines or the auto industry and you could immediately jump over and apply the same tools &mdash; these are very different tools.</p>
+<p><strong>CR: And how did you start in the financial world?</strong></p>
+<p><strong>BK:</strong> I started as one of those annoying cold callers back in the 1990s. And I&#8217;d describe it as the best job on the worst job I&#8217;ve ever had in my life.</p>
+<p><strong>CR: Can you elaborate?</strong></p>
+<p><strong>BK:</strong> It was the worst job because every day I would come into the office. I worked at Lehman Brothers [Eds: Lehman Brothers was the fourth-largest investment bank and global financial services firm in the United States. In September 2008, it filed for bankruptcy, which, many believed, started a global economic crisis]. They would hand me a stack of 700 phone numbers &mdash; I was supposed to dial two phones at once. My only job was &mdash; I wasn&#8217;t allowed to pick stocks or anything like that &mdash; to connect the person on the other end with the broker.</p>
+<p dir="ltr">I did that all day long as a summer internship, and then I did it a little bit after I graduated. But despite it being mind-numbingly boring, it taught me a lot about sales and human interaction. It didn&#8217;t teach me too much about the stock market. But it did give me a really good foundation in how people think about the stock market and investing. That&#8217;s where I started.</p>
+<p>Then, I was an equity sales trader. Then, I started a company called MKM Partners, which is an institutional broker dealer. After that, I started a global macro fund, trading foreign currency &mdash; and that got me into the Bitcoin world.</p>
+<p><strong>CR: How many times were you right in your analysis or predictions?</strong></p>
+<p><strong>BK:</strong> Generally speaking, if I&#8217;m right slightly more than 50 percent of the time, I consider that good. On a longer-term basis, trading-wise, I&#8217;m generally right about 60 percent of the time &mdash; there&#8217;s some good periods and some bad periods. But it&#8217;s important for people to understand that&#8230;</p>
+<p dir="ltr">It doesn&#8217;t matter how many times you&#8217;re right and how many times you&#8217;re wrong; it matters how much you make when you&#8217;re right and how much you lose when you&#8217;re wrong.</p>
+<p dir="ltr">You have to have that ratio right. You could be right only 30 percent of the time and still make a lot of money as long as you make three times more on your right predictions as you do on your losses.</p>
+<p dir="ltr"><strong>CR: You&rsquo;ve mentioned that you started at Lehman Brothers. Can I ask you how many years ago it was?</strong></p>
+<p><strong>BK:</strong> In 1991 &mdash; 28 years ago. Long time!</p>
+<p><strong>CR: So, 17 years before the 2008 financial crisis, right? Did you see any signs of it coming?</strong></p>
+<p><strong>BK:</strong> I wish I could say I saw that. I knew something was wrong, but I can&rsquo;t say that I predicted that.</p>
+<p><strong>CR: Have you seen any indicators of the real estate bubble [Eds: the housing and credit bubble most analysts call the reason for the 2008 financial crisis] back then?</strong></p>
+<p><strong>BK:</strong> Without question &mdash; the real estate looked like a bubble! Not too dissimilar from what we saw with the crypto ICOs bubble. So yes, you could see the signs of trouble. The problem with seeing them is that it&rsquo;s very hard to predict when they&#8217;re going to end.</p>
+<p><strong>CR: And the real consequences, probably.</strong></p>
+<p><strong>BK:</strong> Yeah, the real cost. For me, in 2007, when Bear Stearns [Eds: the now defunct New York-based investment bank, securities trading and brokerage firm] got bailed out by the Federal Reserve, that was the first signal for me that something was very, very wrong.</p>
+<p><strong>CR: Is it at all possible to predict the next financial crisis? There are a lot of headlines about the looming recession and upcoming financial crisis. Should we prepare ourselves for the worst?</strong></p>
+<p><strong>BK:</strong> I can almost guarantee you we&#8217;ll head to another recession. There&#8217;s never been a period of time where we don&#8217;t have a recession &mdash; it&#8217;s just the business cycle. You know the Federal Reserve sometimes thinks that they can short-circuit the business cycle. But eventually, you will have another recession.</p>
+<p><strong>CR: It&#8217;s just the way the market works, right?</strong></p>
+<p><strong>BK:</strong> Yes, but this one is going be a little different than the other ones we&#8217;ve had.</p>
+<p><strong>CR: How so?</strong></p>
+<p>Because what we&#8217;ve done lately is taken all the risk off of the private balance sheets and put them onto the government balance sheets. And so that&#8217;s a very different scenario. And that&#8217;s very positive for crypto. If you think about what backs a fiat currency &mdash; [it&rsquo;s the] full faith and credit of the government.</p>
+<p><em>If the government debts are to a point where they can&#8217;t pay it, then the credit of the government is in question. You may want to look for an alternative type of currency.</em></p>
+<p>And so I don&#8217;t know when we&#8217;re going to have that [recession] &mdash; in 2016, I thought that was going to be the beginning of it.</p>
+<p><strong>CR: Do you see the signs of the start of the recession right now?</strong></p>
+<p><strong>BK:</strong> There are some signs.</p>
+<p><strong>CR: Not major, I assume?</strong></p>
+<p><strong>BK:</strong> There are some signs &mdash; but no, not major. My hesitation is that I still think the Federal Reserve has some leverage to pull, before we go into a full-blown recession. So, I think there&rsquo;s still time &mdash; and I don&#8217;t know if it&#8217;s going to be a year or three years &mdash; where the Federal Reserve will be trying a bunch of things to make sure we don&#8217;t go into recession, and that could prolong this period.</p>
+<p><strong>CR: And it really does look positive for the crypto industry!</strong></p>
+<p><strong>BK:</strong> Absolutely! I mean, you know, call me an optimist, but this looks very positive.</p>
+<p dir="ltr">Even though there are signs of the bottom &mdash; when everybody says it&#8217;s going away &mdash; that&#8217;s what I love to hear.</p>
+<p dir="ltr"><em>If everybody agrees that crypto is going away &mdash; that&#8217;s the time I want to buy.</em></p>
+<p dir="ltr">I don&#8217;t think crypto is going away. In fact, I see it becoming much more of a mainstream asset. I think the next two years could see Bitcoin &mdash; and I what I would call the other currencies, probably five or six of kind of &ldquo;pure currencies&rdquo; &mdash; I think you could see those play a major role in investors portfolio over the next two years.</p>
+<p><span><em><span>Cointelegraph editorial team thanks Brian Kelly and the</span> Crypto Finance Conference &nbsp;<span>for the interview.</span></em></span></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5902" class="share-twitter sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5902" class="share-facebook sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow noopener noreferrer" data-shared="sharing-google-5902" class="share-google-plus-1 sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-5902" class="share-linkedin sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://api.whatsapp.com/send?text=Interview%20With%20Crypto%20%E2%80%98Optimist%E2%80%99%20Brian%20Kelly%3A%20Bitcoin%20Is%20Still%2050%20Percent%20Undervalued%20https%3A%2F%2Fwww.cryptoalphanews.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li><li class="share-skype"><a rel="nofollow noopener noreferrer" data-shared="sharing-skype-5902" class="share-skype sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=skype" target="_blank" title="Click to share on Skype"><span>Skype</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><p>This post was originally published on <a href="https://cointelegraph.com/news/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued">www.cointelegraph.com</a></p>
+        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                            </div>
+
+                        <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="https://www.cryptoalphanews.com/2019/02/16/how-the-marshall-islands-envisions-its-national-digital-currency-dubbed-sovereign/">How the Marshall Islands Envisions Its National Digital Currency Dubbed ‘Sovereign’</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="https://www.cryptoalphanews.com/2019/02/17/coinbase-wallet-users-can-now-back-up-their-private-keys-on-google-drive-and-icloud-how-safe-is-it/">Coinbase Wallet Users Can Now Back Up Their Private Keys on Google Drive and iCloud. How Safe Is It?</a></div></div></div>            <div class="author-box-wrap"><a href="https://www.cryptoalphanews.com/author/cm_team/"><img alt src="https://secure.gravatar.com/avatar/a41ee9d57bb2e3f384c72385f9b8fc43?s=96&#038;d=mm&#038;r=g" class="avatar avatar-96 photo jetpack-lazy-image" height="96" width="96" data-lazy-srcset="https://secure.gravatar.com/avatar/a41ee9d57bb2e3f384c72385f9b8fc43?s=192&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/a41ee9d57bb2e3f384c72385f9b8fc43?s=96&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/a41ee9d57bb2e3f384c72385f9b8fc43?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a41ee9d57bb2e3f384c72385f9b8fc43?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></noscript></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://www.cryptoalphanews.com/author/cm_team/">cm_team</a></span></div><div class="td-author-description"></div><div class="td-author-social"></div><div class="clearfix"></div></div></div>	        <span class="td-page-meta" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="cm_team"></span><meta itemprop="datePublished" content="2019-02-16T20:52:00+00:00"><meta itemprop="dateModified" content="2019-02-16T21:52:02+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/"/><span class="td-page-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span class="td-page-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1.jpg"></span><meta itemprop="name" content="Crypto Alpha News"></span><meta itemprop="headline " content="Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued"><span class="td-page-meta" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://www.cryptoalphanews.com/wp-content/uploads/2019/02/bcad7ca97b43c799cd30f9b174029fe3.jpg"><meta itemprop="width" content="1450"><meta itemprop="height" content="650"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_2_5c7c1b9392e44_rand td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_2_5c7c1b9392e44" ><script>var block_td_uid_2_5c7c1b9392e44 = new tdBlock();
+block_td_uid_2_5c7c1b9392e44.id = "td_uid_2_5c7c1b9392e44";
+block_td_uid_2_5c7c1b9392e44.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"td_uid_2_5c7c1b9392e44_rand","td_column_number":3,"live_filter_cur_post_id":5902,"live_filter_cur_post_author":"1","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"td_uid_2_5c7c1b9392e44_rand","tdc_css_class_style":"td_uid_2_5c7c1b9392e44_rand_style"}';
+block_td_uid_2_5c7c1b9392e44.td_column_number = "3";
+block_td_uid_2_5c7c1b9392e44.block_type = "td_block_related_posts";
+block_td_uid_2_5c7c1b9392e44.post_count = "3";
+block_td_uid_2_5c7c1b9392e44.found_posts = "1470";
+block_td_uid_2_5c7c1b9392e44.header_color = "";
+block_td_uid_2_5c7c1b9392e44.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5c7c1b9392e44.max_num_pages = "490";
+tdBlocksArray.push(block_td_uid_2_5c7c1b9392e44);
+</script><h4 class="td-related-title td-block-title"><a id="td_uid_3_5c7c1b9393f97" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_2_5c7c1b9392e44" href="#">RELATED ARTICLES</a><a id="td_uid_4_5c7c1b9393fcf" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_2_5c7c1b9392e44" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_2_5c7c1b9392e44 class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2019/03/03/hodlers-digest-feb-25-march-3-top-stories-price-movements-quotes-and-fud-of-the-week/" rel="bookmark" class="td-image-wrap" title="Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week"><img width="218" height="150" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/156d0dc44d639f309f8344e023c3ed9f-218x150.jpg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/156d0dc44d639f309f8344e023c3ed9f-218x150.jpg 218w, https://www.cryptoalphanews.com/wp-content/uploads/2019/03/156d0dc44d639f309f8344e023c3ed9f-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2019/03/03/hodlers-digest-feb-25-march-3-top-stories-price-movements-quotes-and-fud-of-the-week/" rel="bookmark" title="Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week">Hodler’s Digest, Feb. 25–March 3: Top Stories, Price Movements, Quotes and FUD of the Week</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2019/03/03/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3850/" rel="bookmark" class="td-image-wrap" title="Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850"><img width="218" height="150" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/046be17be660a87e172b347f3b73d8be-218x150.png" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/046be17be660a87e172b347f3b73d8be-218x150.png 218w, https://www.cryptoalphanews.com/wp-content/uploads/2019/03/046be17be660a87e172b347f3b73d8be-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2019/03/03/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3850/" rel="bookmark" title="Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850">Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2019/03/03/scammers-satoshi-and-tesla-miners-elon-musks-complex-relationship-with-crypto/" rel="bookmark" class="td-image-wrap" title="Scammers, Satoshi and Tesla Miners: Elon Musk’s Complex Relationship With Crypto"><img width="218" height="150" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/f191d70dc961c9b160c9737b084a4979-218x150.jpg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2019/03/f191d70dc961c9b160c9737b084a4979-218x150.jpg 218w, https://www.cryptoalphanews.com/wp-content/uploads/2019/03/f191d70dc961c9b160c9737b084a4979-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Scammers, Satoshi and Tesla Miners: Elon Musk’s Complex Relationship With Crypto"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2019/03/03/scammers-satoshi-and-tesla-miners-elon-musks-complex-relationship-with-crypto/" rel="bookmark" title="Scammers, Satoshi and Tesla Miners: Elon Musk’s Complex Relationship With Crypto">Scammers, Satoshi and Tesla Miners: Elon Musk’s Complex Relationship With Crypto</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_5c7c1b9392e44" data-td_block_id="td_uid_2_5c7c1b9392e44"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_2_5c7c1b9392e44" data-td_block_id="td_uid_2_5c7c1b9392e44"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe frameborder="0" width="210" height="390" src="https://www.mql5.com/en/signals/widget/top/3ciy?c=1&t=green"></iframe></div></aside><aside class="td_block_template_1 widget kades_crypto_converter"><div id="kadescrypto-converter"></div></aside>                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+
+
+
+	<!-- Footer -->
+	<div class="td-footer-wrapper td-container-wrap td-footer-template-2 td_stretch_container td_stretch_content_1400">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+			    		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span4">
+                <div class="td-footer-info"><div class="footer-logo-wrap"><a href="https://www.cryptoalphanews.com/"><img class="td-retina-data" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1-300x113.jpg" data-retina="https://www.cryptoalphanews.com/wp-content/uploads/2018/09/logo-1-300x113.jpg" alt="" title="" width="" /></a></div><div class="footer-text-wrap">Crypto Alpha News promises to be an objective Website, in order to help readers find the most recent Digital currency and Crypto Technology news. <div class="footer-email-wrap">Contact us: <a href="/cdn-cgi/l/email-protection#99f0f7fff6d9faebe0e9edf6f8f5e9f1f8f7fceeeab7faf6f4"><span class="__cf_email__" data-cfemail="b2dbdcd4ddf2d1c0cbc2c6ddd3dec2dad3dcd7c5c19cd1dddf">[email&#160;protected]</span></a></div></div><div class="footer-social-wrap td-social-style-2">
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/cryptoalphanews/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/cryptoalphanews" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></div></div>                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 td_uid_7_5c7c1b9395f44_rand td-pb-border-top td_block_template_1 td-column-1 td_block_padding"  data-td-block-uid="td_uid_7_5c7c1b9395f44" ><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var block_td_uid_7_5c7c1b9395f44 = new tdBlock();
+block_td_uid_7_5c7c1b9395f44.id = "td_uid_7_5c7c1b9395f44";
+block_td_uid_7_5c7c1b9395f44.atts = '{"custom_title":"POPULAR POSTS","limit":3,"sort":"popular","separator":"","custom_url":"","block_template_id":"","m6_tl":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","offset":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"td_uid_7_5c7c1b9395f44_rand","tdc_css_class":"td_uid_7_5c7c1b9395f44_rand","tdc_css_class_style":"td_uid_7_5c7c1b9395f44_rand_style"}';
+block_td_uid_7_5c7c1b9395f44.td_column_number = "1";
+block_td_uid_7_5c7c1b9395f44.block_type = "td_block_7";
+block_td_uid_7_5c7c1b9395f44.post_count = "3";
+block_td_uid_7_5c7c1b9395f44.found_posts = "1308";
+block_td_uid_7_5c7c1b9395f44.header_color = "";
+block_td_uid_7_5c7c1b9395f44.ajax_pagination_infinite_stop = "";
+block_td_uid_7_5c7c1b9395f44.max_num_pages = "436";
+tdBlocksArray.push(block_td_uid_7_5c7c1b9395f44);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">POPULAR POSTS</span></h4></div><div id=td_uid_7_5c7c1b9395f44 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2018/09/17/largest-bitcoin-wallet-moves-380-million-in-only-4-days/" rel="bookmark" class="td-image-wrap" title="Largest Bitcoin Wallet Moves $380 Million In Only 4 Days"><img width="100" height="70" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/07/money-coin-investment-businessmen-business-bitcoin-1419843-pxhere.com_-100x70.jpg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2018/07/money-coin-investment-businessmen-business-bitcoin-1419843-pxhere.com_-100x70.jpg 100w, https://www.cryptoalphanews.com/wp-content/uploads/2018/07/money-coin-investment-businessmen-business-bitcoin-1419843-pxhere.com_-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Largest Bitcoin Wallet Moves $380 Million In Only 4 Days"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2018/09/17/largest-bitcoin-wallet-moves-380-million-in-only-4-days/" rel="bookmark" title="Largest Bitcoin Wallet Moves $380 Million In Only 4 Days">Largest Bitcoin Wallet Moves $380 Million In Only 4 Days</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-09-17T12:23:06+00:00" >September 17, 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2018/09/17/brazilian-fintech-association-will-adopt-blockchain-in-an-electoral-process/" rel="bookmark" class="td-image-wrap" title="Brazilian Fintech Association will Adopt Blockchain in an Electoral Process "><img width="100" height="70" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Blockchain-Technology-is-Projected-to-Have-a-Value-of-2-Trillion-by-2030-100x70.jpeg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Blockchain-Technology-is-Projected-to-Have-a-Value-of-2-Trillion-by-2030-100x70.jpeg 100w, https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Blockchain-Technology-is-Projected-to-Have-a-Value-of-2-Trillion-by-2030-218x150.jpeg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Brazilian Fintech Association will Adopt Blockchain in an Electoral Process "/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2018/09/17/brazilian-fintech-association-will-adopt-blockchain-in-an-electoral-process/" rel="bookmark" title="Brazilian Fintech Association will Adopt Blockchain in an Electoral Process ">Brazilian Fintech Association will Adopt Blockchain in an Electoral Process </a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-09-17T19:07:24+00:00" >September 17, 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://www.cryptoalphanews.com/2018/09/17/fifth-batch-for-tron-to-burn-4-9-billion-erc20-old-tokens/" rel="bookmark" class="td-image-wrap" title="Fifth Batch for Tron to Burn 4.9 Billion ERC20 Old Tokens"><img width="100" height="70" class="entry-thumb" src="https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Justin-Sun-of-Tron-Says-Satoshi-Showed-Interest-in-Project-Atlas-100x70.jpg" srcset="https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Justin-Sun-of-Tron-Says-Satoshi-Showed-Interest-in-Project-Atlas-100x70.jpg 100w, https://www.cryptoalphanews.com/wp-content/uploads/2018/08/Justin-Sun-of-Tron-Says-Satoshi-Showed-Interest-in-Project-Atlas-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Fifth Batch for Tron to Burn 4.9 Billion ERC20 Old Tokens"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://www.cryptoalphanews.com/2018/09/17/fifth-batch-for-tron-to-burn-4-9-billion-erc20-old-tokens/" rel="bookmark" title="Fifth Batch for Tron to Burn 4.9 Billion ERC20 Old Tokens">Fifth Batch for Tron to Burn 4.9 Billion ERC20 Old Tokens</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-09-17T13:02:31+00:00" >September 17, 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_popular_categories td_uid_8_5c7c1b939979e_rand widget widget_categories td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_8_5c7c1b939979e" ><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">POPULAR CATEGORY</span></h4></div><ul class="td-pb-padding-side"><li><a href="https://www.cryptoalphanews.com/category/news/"><span class="td-cat-name">News</span><span class="td-cat-no">1471</span></a></li><li><a href="https://www.cryptoalphanews.com/category/news/crypto-social/"><span class="td-cat-name">Crypto Social</span><span class="td-cat-no">166</span></a></li><li><a href="https://www.cryptoalphanews.com/category/news/breaking-news/"><span class="td-cat-name">Breaking News</span><span class="td-cat-no">84</span></a></li><li><a href="https://www.cryptoalphanews.com/category/regulation/"><span class="td-cat-name">Regulation</span><span class="td-cat-no">84</span></a></li><li><a href="https://www.cryptoalphanews.com/category/news/featured-news/"><span class="td-cat-name">Featured News</span><span class="td-cat-no">70</span></a></li><li><a href="https://www.cryptoalphanews.com/category/news/exchange-news/"><span class="td-cat-name">Exchange News</span><span class="td-cat-no">57</span></a></li><li><a href="https://www.cryptoalphanews.com/category/prices/"><span class="td-cat-name">Prices</span><span class="td-cat-no">46</span></a></li><li><a href="https://www.cryptoalphanews.com/category/market-cap/"><span class="td-cat-name">Market Cap</span><span class="td-cat-no">37</span></a></li><li><a href="https://www.cryptoalphanews.com/category/guides/"><span class="td-cat-name">Guides</span><span class="td-cat-no">28</span></a></li></ul></div> <!-- ./block -->                            </div>
+        </div>
+    </div>
+</div>
+
+	<!-- Sub Footer -->
+	    <div class="td-sub-footer-container td-container-wrap td_stretch_container td_stretch_content_1400">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span td-sub-footer-menu">
+                    <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="td-subfooter-menu"><li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-mega-menu td-mega-menu-page menu-item-308"><a href="https://www.cryptoalphanews.com/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a><div class="td-container-border"><div class="td-mega-grid"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5902" class="share-twitter sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5902" class="share-facebook sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow noopener noreferrer" data-shared="sharing-google-5902" class="share-google-plus-1 sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-5902" class="share-linkedin sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://api.whatsapp.com/send?text=Interview%20With%20Crypto%20%E2%80%98Optimist%E2%80%99%20Brian%20Kelly%3A%20Bitcoin%20Is%20Still%2050%20Percent%20Undervalued%20https%3A%2F%2Fwww.cryptoalphanews.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li><li class="share-skype"><a rel="nofollow noopener noreferrer" data-shared="sharing-skype-5902" class="share-skype sd-button share-icon" href="https://www.cryptoalphanews.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/?share=skype" target="_blank" title="Click to share on Skype"><span>Skype</span></a></li><li class="share-end"></li></ul></div></div></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div><p>This post was originally published on <a href="https://cointelegraph.com/news/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued">www.cointelegraph.com</a></p>
+</div></div></a></li>
+</ul>
+</li>
+</ul></div>                </div>
+
+                <div class="td-pb-span td-sub-footer-copy">
+                    &copy; 2018 Cryptoalphanews.com. All Rights Reserved.                 </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><!--close td-outer-wrap-->
+
+<!-- Cryptocurrency Widgets Using CoinExchangePrice.com API - Version:- https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/ By Cool Plugins (CoolPlugins.net) --><div style="display:none" class="ccpw-container ccpw-ticker-cont ccpw-footer-ticker-fixedbar"><div  class="tickercontainer" style="height: auto; overflow: hidden;">
+				<ul   data-tickerspeed="30" id="ccpw-ticker-widget-241"><li id="bitcoin"><div class="coin-container"><span class="ccpw_icon"><img id="bitcoin" alt="bitcoin" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg"></span><span class="name">Bitcoin(BTC)</span><span class="price">&euro;3,348.06</span><span class="changes up"><i class="ccpw_icon-up" aria-hidden="true"></i>0.20%</span></div></li><li id="ripple"><div class="coin-container"><span class="ccpw_icon"><img id="ripple" alt="ripple" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/ripple.svg"></span><span class="name">XRP(XRP)</span><span class="price">&euro;0.273772</span><span class="changes down"><i class="ccpw_icon-down" aria-hidden="true"></i>-0.07%</span></div></li><li id="ethereum"><div class="coin-container"><span class="ccpw_icon"><img id="ethereum" alt="ethereum" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/ethereum.svg"></span><span class="name">Ethereum(ETH)</span><span class="price">&euro;115.81</span><span class="changes up"><i class="ccpw_icon-up" aria-hidden="true"></i>0.77%</span></div></li><li id="bitcoin-cash"><div class="coin-container"><span class="ccpw_icon"><img id="bitcoin-cash" alt="bitcoin-cash" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin-cash.svg"></span><span class="name">Bitcoin Cash(BCH)</span><span class="price">&euro;114.39</span><span class="changes up"><i class="ccpw_icon-up" aria-hidden="true"></i>0.46%</span></div></li><li id="litecoin"><div class="coin-container"><span class="ccpw_icon"><img id="litecoin" alt="litecoin" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/litecoin.svg"></span><span class="name">Litecoin(LTC)</span><span class="price">&euro;42.13</span><span class="changes down"><i class="ccpw_icon-down" aria-hidden="true"></i>-0.28%</span></div></li><li id="tron"><div class="coin-container"><span class="ccpw_icon"><img id="tron" alt="tron" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/tron.svg"></span><span class="name">TRON(TRX)</span><span class="price">&euro;0.019909</span><span class="changes up"><i class="ccpw_icon-up" aria-hidden="true"></i>0.57%</span></div></li><li id="bitcoin-gold"><div class="coin-container"><span class="ccpw_icon"><img id="bitcoin-gold" alt="bitcoin-gold" src="https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin-gold.png"></span><span class="name">Bitcoin Gold(BTG)</span><span class="price">&euro;10.86</span><span class="changes up"><i class="ccpw_icon-up" aria-hidden="true"></i>0.04%</span></div></li></ul></div></div><script type="text/javascript">
+		jQuery(document).ready(function($){
+			$(".ccpw-ticker-cont").fadeIn();     
+		});
+		</script>	<div style="display:none">
+	<div class="grofile-hash-map-a41ee9d57bb2e3f384c72385f9b8fc43">
+	</div>
+	</div>
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2017
+        Version: 8.7.4 (rara)
+        Deploy mode: deploy
+        
+        uid: 5c7c1b939b48d
+    -->
+
+    
+<!-- Custom css form theme panel -->
+<style type="text/css" media="screen">
+/* custom css theme panel */
+.tdc-content-wrap .td_module_wrap:hover .entry-title a {
+color: #4e4e4d;
+}
+
+
+.author-box-wrap {
+  
+    display: none;
+}
+
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-title a {
+    color: #000;
+}
+
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post:hover .jp-relatedposts-post-title a {
+    color: #4e4e4d;
+}
+
+.td_block_related_posts .entry-title a:hover {color:#4e4e4d;}
+
+
+.td-related-row .td-related-span4:hover {color:#4e4e4d;}
+
+.td-related-span4 .td_module_related_posts:hover .td-module-title a {
+    color: #4e4e4d !important;
+}
+
+.td-post-next-prev-content:hover a{
+    color: #4e4e4d !important;
+}
+</style>
+
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.cryptoalphanews.com\/2019\/02\/16\/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued\/":5902};
+	</script>
+				<link rel='stylesheet' id='ccpw-bootstrap-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/css/bootstrap.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ccpw-custom-icons-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/css/ccpw-icons.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ccpw-styles-css'  href='https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/css/ccpw-styles.css' type='text/css' media='all' />
+<style id='ccpw-styles-inline-css' type='text/css'>
+.tickercontainer #ccpw-ticker-widget-241{background-color:#eee;}
+			.tickercontainer #ccpw-ticker-widget-241 span.name,
+			.tickercontainer #ccpw-ticker-widget-241 .ccpw-credits a {color:#000;}	
+			.tickercontainer #ccpw-ticker-widget-241 span.coin_symbol {color:#000;}			
+			.tickercontainer #ccpw-ticker-widget-241 span.price {color:#000;} .tickercontainer .price-value{color:#000;}
+			.ccpw-header-ticker-fixedbar{top:33px !important;}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.cryptoalphanews.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/kades-crypto-widgets/js/kades-crypto.js?ver=31217'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=8.7.4'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/modules/likes/queuehandler.js?ver=6.8.1'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.8.1'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/js/jquery.marquee.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+		$(".ccpw-ticker-cont #ccpw-ticker-widget-241").each(function(index){
+			var tickerCon=$(this);
+			var ispeed=Number(tickerCon.attr("data-tickerspeed"));
+			$(this).marquee({
+				allowCss3Support: true,
+				speed: ispeed-ispeed * 60/100,
+				pauseOnHover: true,
+				gap: 0,
+				delayBeforeStart: 0,
+				direction: "left",
+				duplicated: true,
+			startVisible: true,
+			});
+		});
+
+	});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cryptoalphanews.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.8.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-linkedin', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-skype', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomskype', 'menubar=1,resizable=1,width=305,height=665' );
+				return false;
+			});
+</script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://www.cryptoalphanews.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://www.cryptoalphanews.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'152383354',post:'5902',tz:'0',srv:'www.cryptoalphanews.com'} ]);
+	_stq.push([ 'clickTrackerInit', '152383354', '5902' ]);
+</script>
+
+
+			<div id="tdw-css-writer" style="display: none" class="tdw-drag-dialog tdc-window-sidebar">
+				<header>
+
+				
+					<a title="Editor" class="tdw-tab tdc-tab-active" href="#" data-tab-content="tdw-tab-editor">Edit with Live CSS</a>
+					<div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div>
+				
+				</header>
+				<div class="tdw-content">
+
+					
+					<div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
+
+
+						<script>
+
+							(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);
+
+						</script>
+
+
+						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5c7c1b939b7e3">.top_banner {display:none;}
+
+.center_banner {display:none;}
+
+</textarea>
+						<div id="td_live_css_uid_1_5c7c1b939b7e3" class="td-code-editor"></div>
+
+
+						<script>
+							jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_5c7c1b939b7e3');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_5c7c1b939b7e3");
+
+									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});
+						</script>
+
+					</div>
+				</div>
+
+				<footer>
+
+					
+						<a href="#" class="tdw-save-css">Save</a>
+						<div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div>
+
+					
+					<div class="tdw-resize"></div>
+				</footer>
+			</div>
+			
+</body>
+</html>

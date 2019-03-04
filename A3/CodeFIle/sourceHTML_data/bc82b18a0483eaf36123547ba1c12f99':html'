@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Enjin Crypto Wallet - Ethereum, Bitcoin, Litecoin & Tokens</title>
+<meta charset="UTF-8">
+<meta name="description" content="The most secure mobile cryptocurrency wallet in the world, supporting Bitcoin, Ethereum, Litecoin, ERC20, ERC721 AND ERC1155 tokens. Available for Android and iOS.">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-itunes-app" content="app-id=1349078375">
+<meta name="google-play-app" content="app-id=com.enjin.mobile.wallet">
+<meta name="theme-color" content="#3bb5d5">
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://enjinwallet.io/" />
+<meta property="og:title" content="Enjin Crypto Wallet - Ethereum, Bitcoin, Litecoin & Tokens" />
+<meta property="og:description" content="The most secure mobile cryptocurrency wallet in the world, supporting Bitcoin, Ethereum, Litecoin, ERC20, ERC721 AND ERC1155 tokens. Available for Android and iOS." />
+<meta property="og:image" content="https://cdn-images-1.medium.com/max/2000/1*R400PXTRwEFa_OvDd0-nDw.png" />
+<meta property="og:image:width" content="1600">
+<meta property="og:image:height" content="838">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@enjin" />
+<meta name="twitter:title" content="Enjin Wallet" />
+<meta name="twitter:description" content="The most secure mobile cryptocurrency wallet in the world, supporting Bitcoin, Ethereum, Litecoin, ERC20, ERC721 AND ERC1155 tokens. Available for Android and iOS." />
+<meta name="twitter:image" content="https://www.enjinwallet.io/images/enjin-coin-logo.png" />
+<link rel="icon" href="./favicon.ico" type="image/x-icon" />
+<link href="https://fonts.googleapis.com/css?family=Muli:100,200,300,400,400i,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="./css/plugins/material.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.4.9/dialog-polyfill.min.css" integrity="sha256-qVjBFbunjrWQ4IikV5dkK1ziW9XKskisX1rUbCIJEhk=" crossorigin="anonymous">
+<link rel="stylesheet" href="./css/base.css?9">
+</head>
+<body>
+<div class="main">
+<section class="top" data-background="teal-purple" id="particles">
+<div class="center">
+<div class="top-menu">
+<div class="language-selector" id="language-selector">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+<title></title>
+<g id="icomoon-ignore">
+</g>
+<path d="M632.096 349.088c-19.968-54.624-75.712-87.232-149.152-87.232-2.88 0-5.632 0.064-8.384 0.192l-0.512-66.016c0 0 109.12-18.816 112.8-19.424s4.256-3.808 3.488-7.392c-0.736-3.552-5.344-28.256-6.016-31.232-0.864-4.192-3.264-4.064-6.624-3.488-3.328 0.576-104 14.752-104 14.752s-0.384-62.496-0.416-66.496c-0.032-4-2.208-5.056-6.208-4.992s-29.44 0.448-32.8 0.512c-3.36 0.064-5.248 1.568-5.184 4.736 0.064 3.2 1.056 73.824 1.056 73.824s-97.952 16.864-100.608 17.376c-2.688 0.448-5.44 1.696-4.832 4.576s6.080 35.008 6.656 37.504c0.576 2.56 2.304 4.128 6.016 3.424 3.68-0.608 93.568-16.128 93.568-16.128l1.12 64.576c-34.464 8.992-57.632 26.368-72.192 41.696-24.576 25.824-38.624 60.384-38.624 94.816 0 50.752 31.072 80.928 74.496 86.24 101.184 12.384 163.808-97.92 184.608-150.88 35.104 48.192 8.192 139.328-67.008 191.36-1.376 0.928-3.136 4.128-1.056 6.624s17.312 21.184 19.808 24.192c2.56 3.072 6.592 1.888 8.192 0.736 80.32-55.36 117.152-144.48 91.808-213.856zM395.744 451.104c-30.912-3.872-30.208-29.248-30.208-46.496 0-24.736 10.464-50.56 28.032-68.992 10.72-11.328 24-19.872 39.328-25.568l2.624 136.864c-12.32 4.192-25.568 5.92-39.776 4.192zM473.408 433.408l1.472-131.488c2.688-0.128 5.312-0.32 8.064-0.32 24.736 0 47.808 4.64 60.32 11.552 12.512 6.944-32.736 86.816-69.856 120.256zM187.008 188.032c-0.96-3.008-3.296-4.64-6.272-4.64h-62.4c-2.976 0-5.28 1.632-6.208 4.608-13.184 41.568-111.36 351.68-111.872 353.312-0.544 1.632-0.352 2.432 1.984 2.432h55.456c2.4 0 3.168-0.736 3.648-2.304 0.48-1.632 32.256-106.176 32.256-106.176h111.872c0 0 31.744 104.576 32.256 106.176 0.512 1.568 1.248 2.304 3.616 2.304h55.488c2.304 0 2.496-0.8 1.984-2.432-0.448-1.6-98.656-311.712-111.808-353.28zM103.232 390.208l46.304-168 46.304 168h-92.608z"></path>
+</svg>
+<i class="fa fa-caret-down"></i>
+</div>
+<ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect language-select-dropdown" for="language-selector">
+
+<li class="mdl-menu__item" data-language="en-US">English</li>
+<li class="mdl-menu__item" data-language="zh-CN">简体中文</li>
+<li class="mdl-menu__item" data-language="ja-JP">日本語</li>
+<li class="mdl-menu__item" data-language="ko-KR">한국어</li>
+<li class="mdl-menu__item" data-language="es-ES">Español</li>
+<li class="mdl-menu__item" data-language="fr-FR">Français</li>
+<li class="mdl-menu__item" data-language="ru-RU">Русский</li>
+
+<li class="mdl-menu__item" data-language="af-ZA">Afrikaans</li>
+<li class="mdl-menu__item" data-language="ms-MY">Melayu</li>
+<li class="mdl-menu__item" data-language="bs-BA">Bosnian</li>
+<li class="mdl-menu__item" data-language="ca-ES">Català</li>
+<li class="mdl-menu__item" data-language="cs-CZ">Čeština</li>
+<li class="mdl-menu__item" data-language="da-DK">Dansk</li>
+<li class="mdl-menu__item" data-language="de-DE">Deutsche</li>
+<li class="mdl-menu__item" data-language="hr-HR">Hrvatski</li>
+<li class="mdl-menu__item" data-language="id-ID">Indonesia</li>
+<li class="mdl-menu__item" data-language="it-IT">Italiano</li>
+<li class="mdl-menu__item" data-language="lv-LV">Latviešu</li>
+<li class="mdl-menu__item" data-language="hu-HU">Magyar</li>
+<li class="mdl-menu__item" data-language="nl-NL">Nederlands</li>
+<li class="mdl-menu__item" data-language="nb-NO">Norsk bokmål</li>
+<li class="mdl-menu__item" data-language="pl-PL">Polski</li>
+<li class="mdl-menu__item" data-language="pt-PT">Português</li>
+<li class="mdl-menu__item" data-language="ro-RO">Română</li>
+<li class="mdl-menu__item" data-language="sv-SE">Svenska</li>
+<li class="mdl-menu__item" data-language="vi-VN">Tiếng Việt</li>
+<li class="mdl-menu__item" data-language="tr-TR">Türkçe</li>
+<li class="mdl-menu__item" data-language="el-GR">Ελληνικά</li>
+<li class="mdl-menu__item" data-language="he-IL">עִברִית</li>
+<li class="mdl-menu__item" data-language="ur-PK">اردو</li>
+<li class="mdl-menu__item" data-language="ar-EG">عربى</li>
+<li class="mdl-menu__item" data-language="hi-IN">हिंदी</li>
+<li class="mdl-menu__item" data-language="bn-BD">বাংলা</li>
+<li class="mdl-menu__item" data-language="th-TH">ไทย</li>
+</ul>
+</div>
+<img src="./images/enjin-vector.svg" alt="Enjin Text Vector" class="enjin-vector" />
+<h1 class="headline" data-string="section.main.title">Crypto Smart Wallet</h1>
+<h2 class="slogan" data-string="section.main.subtitle">World's most secure mobile cryptocurrency wallet.
+Made for Bitcoin, Ethereum, Litecoin & ERC20 ERC721 ERC1155 Tokens.</h2>
+<div class="buttons">
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet">
+Android
+</a>
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://itunes.apple.com/us/app/enjin-cryptocurrency-wallet/id1349078375?ls=1&mt=8" target="_blank">
+IOS
+</a>
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="./apk.html" data-string="download.apk">
+Download APK
+</a>
+</div>
+<div class="social">
+<a href="https://t.me/enjin_coin" target="_blank"><i class="fa fa-telegram"></i></a>
+<a href="https://blog.enjincoin.io/" target="_blank"><i class="fa fa-medium"></i></a>
+<a href="https://www.reddit.com/r/EnjinCoin/" target="_blank"><i class="fa fa-reddit-alien"></i></a>
+<a href="https://twitter.com/enjin" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/enjinsocial" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+</div>
+<a class="video-play" href="https://www.youtube.com/watch?v=yvFLqrvi_M4" target="_blank">
+<img src="/images/video-play.png" />
+</a>
+</div>
+</section>
+<section class="total-security" data-background="white-blue">
+<div class="center">
+<div class="flex">
+<div class="left">
+<img class="phone" src="images/phone/enjin-wallet-crypto.png" alt="Enjin Wallet - Secure Cryptocurrency Wallet" />
+</div>
+<div class="right">
+<h3 data-string="section.security.title">It begins with total security</h3>
+<div class="text" data-string="section.security.description">
+The Enjin Crypto Smart Wallet foundation rests on our top-of-the-line security architecture.
+It
+employs innovative security techniques such as the Enjin Secure Keyboard, rule of two
+encryption and other measures to turn your smartphone into a hardware-like secure blockchain
+wallet.
+</div>
+<div class="buttons">
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="http://enj.in/ae3csjyj" target="_blank">
+Read Release Post
+</a>
+<br />
+<br />
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://enjinwallet.io/files/Audit-1018.pdf" target="_blank">
+Security Audit
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="smart-design" data-background="purple">
+<div class="center">
+<div class="left">
+<h3 data-string="section.smart_design.title">Smart by design</h3>
+<div class="text">
+<div data-string="section.smart_design.description.1">
+The Enjin Crypto Wallet is designed for simple & fast cryptocurrency management - it
+combines a mobile-first
+approach with a seamless and blazing-fast interface.
+</div>
+<br />
+<div data-string="section.smart_design.description.2">
+It features a Smart UI that evolves on the fly to suit your specific needs.
+</div>
+</div>
+</div>
+<div class="right">
+<div class="phone-container">
+<img class="phone" src="./images/phone/smart-design.png" alt="Enjin Wallet - Smart By Design" />
+</div>
+</div>
+</div>
+</section>
+<section class="fast" data-background="white-blue">
+<div class="center">
+<h3 data-string="section.simple.title">Simple by choice</h3>
+<div class="flex phones">
+<div class="left">
+<div class="display-top">
+<img class="phone" src="./images/phone/simple-bitcoin-ethereum-wallet.png" alt="Simple Bitcoin and Ethereum Wallet for Android and iOS" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.3">
+Easy Coin Management
+</div>
+<div data-string="section.simple.description.item.3">
+View, manage and sort all your crypto coins and tokens easily. Providing fast coin
+management &amp; balances in your local currency.
+</div>
+</div>
+</div>
+<div class="display-bottom">
+<img class="phone" src="./images/phone/cryptocurrency-wallet-custom-fees.png" alt="Enjin Cryptocurrency Wallet - Custom Fees" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.2">
+Custom fees and limits
+</div>
+<div data-string="section.simple.description.item.2">
+Transaction fees are calculated dynamically, for optimal sending.
+Alternatively, you can set your own custom fees and limits.
+</div>
+</div>
+</div>
+<div class="display-bottom">
+<img class="phone" src="images/phone/token-coin-dex-exchange-enjin.png" alt="Enjin Cryptocurrency Wallet - Cryptocurrency Exchange" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.2">
+Coin &amp; Token Swap
+</div>
+<div data-string="section.simple.description.item.2">
+Swap &amp; Exchange natively. Supporting ERC20 Tokens, BTC, LTC. Swap instantly &amp; directly via our partners Kyber, Bancor & Changelly.
+</div>
+</div>
+</div>
+</div>
+<div class="right">
+<div class="display-top">
+<img class="phone" src="./images/phone/detailed-transactions.png" alt="Detailed Transaction Info" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.1">
+Detailed transaction info
+</div>
+<div data-string="section.simple.description.item.1">
+View all the important details for all your transactions instantly.
+Supports detailed transactions info for all tokens and coins.
+</div>
+</div>
+</div>
+<div class="display-bottom">
+<img class="phone" src="./images/phone/easy-import.png" alt="Instantly Import Wallets" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.4">
+Instantly import your wallet
+</div>
+<div data-string="section.simple.description.item.4">
+Import from all major blockchain wallets to the world’s most secure mobile wallet,
+with just a
+few easy steps.
+</div>
+</div>
+</div>
+<div class="display-bottom">
+<img class="phone" src="./images/phone/erc721-erc1155-collectible-nft.png" alt="Collectible NFT Support" />
+<div class="text">
+<div class="bold" data-string="section.simple.description.heading.4">
+Collectible NFT Support
+</div>
+<div data-string="section.simple.description.item.4">
+Incredible NFT collectible support. Send, receive &amp; melt tokens - everything from gaming multiverse items to membership tokens.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="any-coin" data-background="purple">
+<div class="center">
+<div class="coins">
+<img src="./images/coins/0x.png" class="coin zerox" alt="0x Coin" />
+<img src="./images/coins/bitcoin.png" class="coin bitcoin" alt="Bitcoin Coin" />
+<img src="./images/coins/enjin-coin.png" class="coin enjin" alt="Enjin Coin" />
+<img src="./images/coins/ethereum.png" class="coin ethereum" alt="Ethereum Coin" />
+<img src="./images/coins/litecoin.png" class="coin litecoin" alt="Litecoin Coin" />
+<img src="./images/coins/bancor.png" class="coin bancor" alt="Bancor Coin" />
+<img src="./images/coins/basic-attention-token.png" class="coin basic" alt="Basic Coin" />
+<img src="./images/coins/binance-coin.png" class="coin binance" alt="Binance Coin" />
+<img src="./images/coins/eos.png" class="coin eos" alt="Eos Coin" />
+<img src="./images/coins/power-ledger.png" class="coin ledger" alt="Power Ledger Coin" />
+<img src="./images/coins/quantstamp.png" class="coin quantstamp" alt="Quantstamp Coin" />
+<img src="./images/coins/raiden-network-token.png" class="coin raiden" alt="Raiden Network Coin" />
+</div>
+<h3 data-string="section.all_coins.title">A wallet for any coin you own</h3>
+<div class="text" data-string="section.all_coins.description">
+The Enjin Crypto wallet supports BTC, ETH, LTC, ENJ and ERC20 ERC721 ERC1155 tokens by default.
+</div>
+<div class="text" data-string="section.all_coins.other_coins_supported_soon">
+The only wallet with true game collectible support.
+</div>
+<div class="buttons">
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet">
+Android
+</a>
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://itunes.apple.com/us/app/enjin-cryptocurrency-wallet/id1349078375?ls=1&mt=8" target="_blank">
+IOS
+</a>
+</div>
+<a class="download-apk-line" href="./apk.html">
+Android APK
+</a>
+</div>
+</section>
+<section class="keyboard" data-background="white-blue">
+<div class="center">
+<div class="flex">
+<div class="left">
+<img class="phone" src="./images/phone/enjin-secure-keyboard.png" alt="Enjin Secure Keyboard" />
+</div>
+<div class="right">
+<h3 data-string="section.secure_keyboard.title">Enjin Secure Keyboard</h3>
+<div class="text" data-string="section.secure_keyboard.description">
+We built our own proprietary keyboard designed to prevent any form of data sniffing or
+keyloggers. The keyboard is built into the wallet itself with the option to randomize keys
+for the ultimate level of input protection.
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="protection" data-background="white">
+<div class="center">
+<div class="rule-of-two flex">
+<div class="left">
+<h3 data-string="section.rule_of_two.title">The rule of two encryption</h3>
+<div class="text" data-string="section.rule_of_two.description">
+The Enjin Wallet uses two completely independent layers of cryptography to protect the
+keystore and confidential data. Hardware AES encryption is employed on the lower level and
+software encryption is utilised at the application layer.
+</div>
+</div>
+<div class="right">
+<img class="wallet-encryption" src="./images/enjin-wallet-encryption.png" alt="Wallet Encryption" />
+</div>
+</div>
+<div class="memory-protection flex">
+<div class="left">
+<h3 data-string="section.security_policies.title">Ram encryption and screenshot blocking</h3>
+<div class="text" data-string="section.security_policies.description">
+All key data is held and processed in encrypted memory. On Android, secure window layout at the OS level stops any
+screenshot or video recording attempts. Please note, iOS OS policy is to allow screenshots by user, so this is
+permitted on the iOS version.
+</div>
+</div>
+<div class="right">
+<img class="memory-protection" src="./images/enjin-wallet-memory-protection.png" alt="Memory Screenshot protection" />
+</div>
+</div>
+</div>
+</section>
+<section class="pen" data-background="blue-white">
+<div class="center">
+<div class="flex">
+<div class="left">
+<img src="./images/enjin-wallet-hd-wallet.png" alt="Pen and paper" />
+</div>
+<div class="right">
+<h3 data-string="section.twelve_words.title">12 words and a pen</h3>
+<div class="text" data-string="section.twelve_words.description">
+In case your device gets lost, you can secure your crypto wallet and coins with just 12
+words
+written on paper. The recovery phrase can restore your wallet and funds on any other device.
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="promise" data-background="purple">
+<div class="center">
+<h3 data-string="section.complete_privacy.title">No ads. Always free. Always private.</h3>
+<div class="text" data-string="section.complete_privacy.description">
+A free wallet with no ads or privacy concerns. That’s our promise.
+</div>
+<img src="./images/logo.png" alt="Enjin Coin Logo" />
+<div class="white-text" data-string="by.powered">
+Developed by Enjin Pte Ltd
+</div>
+<div class="buttons">
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://play.google.com/store/apps/details?id=com.enjin.mobile.wallet">
+Android
+</a>
+<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="https://itunes.apple.com/us/app/enjin-cryptocurrency-wallet/id1349078375?ls=1&mt=8" target="_blank">
+IOS
+</a>
+</div>
+<a class="download-apk-line" href="./apk.html">
+Android APK
+</a>
+</div>
+</section>
+<section class="footer" data-background="white">
+<div class="center">
+<div class="bottom">
+<div class="text" data-string="by.developer.info">
+Developed by Enjin Pte. Ltd. and Enjin Coin - Singapore
+</div>
+<div class="text terms-privacy">
+<a href="./terms.html" data-string="terms.conditions">Terms & Conditions</a>
+<a href="./privacy.html" data-string="privacy.policy">Privacy Policy</a>
+<br />
+<a href="https://enjinx.io">Blockchain Explorer</a> -
+<a href="https://enjinx.io/eth/transactions">Ethereum Explorer</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.4.9/dialog-polyfill.min.js" integrity="sha256-Niy7AJ0dDiIklf9lFp0ZX1gZsIBa8gQ/S241Wf5vXo4=" crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/622cc6b83f.js"></script>
+<script src="./translation.js"></script>
+<script src="./js/base.js?9"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108122063-2"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+
+		gtag('config', 'UA-108122063-2');
+	</script>
+
+<script>
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq) return;
+			n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+			document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '2026635334030381'); // Insert your pixel ID here.
+		fbq('track', 'PageView');
+	</script>
+<noscript>
+		<img height="1" width="1" style="display:none"
+			 src="https://www.facebook.com/tr?id=2026635334030381&ev=PageView&noscript=1"/>
+	</noscript>
+
+<script type="text/javascript">
+		(function (o) {
+			var b = "https://api.autopilothq.com/anywhere/",
+				t = "1dd903f1160d4715bcbc301f6c230af0cf05087a05334bf59f3ba0b32098962e", a = window.AutopilotAnywhere = {
+					_runQueue: [], run: function () {
+						this._runQueue.push(arguments);
+					}
+				}, c = encodeURIComponent, s = "SCRIPT", d = document, l = d.getElementsByTagName(s)[0],
+				p = "t=" + c(d.title || "") + "&u=" + c(d.location.href || "") + "&r=" + c(d.referrer || ""),
+				j = "text/javascript", z, y;
+			if (!window.Autopilot) window.Autopilot = a;
+			if (o.app) p = "devmode=true&" + p;
+			z = function (src, asy) {
+				var e = d.createElement(s);
+				e.src = src;
+				e.type = j;
+				e.async = asy;
+				l.parentNode.insertBefore(e, l);
+			};
+			y = function () {
+				z(b + t + '?' + p, true);
+			};
+			if (window.attachEvent) {
+				window.attachEvent("onload", y);
+			} else {
+				window.addEventListener("load", y, false);
+			}
+		})({});
+	</script>
+</body>
+</html>

@@ -1,0 +1,702 @@
+<!doctype html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<title>カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令 | 仮想コインおたく.com</title>
+<meta name="keywords" content="" />
+<meta name="description" content="仮想通貨の最新情報を収集できる便利で役立つポータルサイトです。仮想通貨の市場動向や最新ニュースをあらゆる角度からチェックできます。">
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+<meta name="format-detection" content="telephone=no"> 
+<meta name="format-detection" content="email=no"> 
+<link rel="alternate" type="application/atom+xml" title="仮想コインおたく.com Atom Feed" href="http://virtual-currency-bitcoin-antenna.com/?feed=atom" />
+<link rel="alternate" type="application/rss+xml" title="仮想コインおたく.com RSS Feed" href="http://virtual-currency-bitcoin-antenna.com/?feed=rss2" />
+<script type="text/javascript" src="http://virtual-currency-bitcoin-antenna.com/wp-content/themes/monoreap/js/jquery1.11.0.js"></script>
+<script type="text/javascript" src="http://virtual-currency-bitcoin-antenna.com/wp-content/themes/monoreap/js/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="http://virtual-currency-bitcoin-antenna.com/wp-content/themes/monoreap/js/jquery.fitvids.js"></script>
+<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".videosize").fitVids();
+  });
+</script>
+<meta property="og:site_name" content="仮想コインおたく.com" />
+<!-- ページタイトル -->
+<meta property="og:title" content="カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令">
+<!-- アドレス -->
+<meta property="og:url" content="http://virtual-currency-bitcoin-antenna.com/?p=12447">
+<!-- 属性 -->
+<meta property="og:type" content="article">
+<!-- ディスクリプション -->
+<meta property="og:description" content="仮想通貨の最新情報を収集できる便利で役立つポータルサイトです。仮想通貨の市場動向や最新ニュースをあらゆる角度からチェックできます。">
+<!-- イメージ -->
+<meta property="og:image" content="">
+<!-- FaceBook AdminID -->
+<meta property="fb:admins" content="" />
+<!--/OGP-->
+
+<link rel="stylesheet" href="http://virtual-currency-bitcoin-antenna.com/wp-content/themes/monoreap/style.css" media="all" />
+<link rel="stylesheet" href="http://virtual-currency-bitcoin-antenna.com/wp-content/themes/monoreap/css/custom.css" />
+<style>
+#sidebar .widget,#sidebar2 .widget{
+background-color:#8ab3d1;
+</style>
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="仮想コインおたく.com &raquo; フィード" href="http://virtual-currency-bitcoin-antenna.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="仮想コインおたく.com &raquo; コメントフィード" href="http://virtual-currency-bitcoin-antenna.com/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="仮想コインおたく.com &raquo; カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令 のコメントのフィード" href="http://virtual-currency-bitcoin-antenna.com/?feed=rss2&#038;p=12447" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/virtual-currency-bitcoin-antenna.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://virtual-currency-bitcoin-antenna.com/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='http://virtual-currency-bitcoin-antenna.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://virtual-currency-bitcoin-antenna.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://virtual-currency-bitcoin-antenna.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://virtual-currency-bitcoin-antenna.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://virtual-currency-bitcoin-antenna.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://virtual-currency-bitcoin-antenna.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://virtual-currency-bitcoin-antenna.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='豪仮想通貨取引所myCryptoWalletがPOS端末での決済、ATMでの出金に対応するデビットカードを発行、BTCやXRP等5種類に対応' href='http://virtual-currency-bitcoin-antenna.com/?p=12446' />
+<link rel='next' title='ルクセンブルクでブロックチェーン証券の取引を合法化する法案が可決｜スイスの証券取引所SIXがSTO事業を年内始動' href='http://virtual-currency-bitcoin-antenna.com/?p=12448' />
+<link rel='shortlink' href='https://wp.me/pafQzQ-3eL' />
+<link rel="alternate" type="application/json+oembed" href="http://virtual-currency-bitcoin-antenna.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fvirtual-currency-bitcoin-antenna.com%2F%3Fp%3D12447" />
+<link rel="alternate" type="text/xml+oembed" href="http://virtual-currency-bitcoin-antenna.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fvirtual-currency-bitcoin-antenna.com%2F%3Fp%3D12447&#038;format=xml" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" /><link rel='canonical' href='https://cointyo.jp/article/10006274' />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://virtual-currency-bitcoin-antenna.com/wp-content/uploads/2018/09/dubai-2292836_640.jpg"); background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令" />
+<meta property="og:url" content="http://virtual-currency-bitcoin-antenna.com/?p=12447" />
+<meta property="og:description" content="マイニング事業の資金調達が投資契約に該当Technologies Crypto Inc.（テクノロジーズ・クリ&hellip;" />
+<meta property="article:published_time" content="2019-02-16T08:00:00+00:00" />
+<meta property="article:modified_time" content="2019-02-16T08:00:00+00:00" />
+<meta property="og:site_name" content="仮想コインおたく.com" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="ja_JP" />
+<meta name="twitter:creator" content="@com78566995" />
+<meta name="twitter:site" content="@com78566995" />
+<meta name="twitter:text:title" content="カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+</head>
+<body class="post-template-default single single-post postid-12447 single-format-standard custom-background">
+
+<header>
+
+<!-- ヘッダー画像 -->
+
+<!-- ヘッダータイトル -->
+<div id="head-title" class="clearfix">
+<div id="head-title-inner">
+<div id="titlearea">
+<h1 class="title-margin"><a href="http://virtual-currency-bitcoin-antenna.com">仮想コインおたく.com</a></h1>
+<p class="title-p-margin">仮想通貨の最新情報を収集できる便利で役立つポータルサイトです。仮想通貨の市場動向や最新ニュースをあらゆる角度からチェックできます。</p>
+</div><!-- /#titlearea -->
+
+
+</div><!-- /.head-title-inner -->
+</div><!-- /.head-title -->
+<!-- END アイコンメニュー -->
+
+</header><!-- /.header -->
+
+<div id="container">
+
+<div id="contents">
+
+<!-- パンくずリスト -->
+<div class="breadcrumb">
+<nav class="breadcrumbs">
+<ul class="breadcrumbs-in" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="bcl-first" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="http://virtual-currency-bitcoin-antenna.com"><span itemprop="name">仮想コインおたく.com TOP</span></a>
+	<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="http://virtual-currency-bitcoin-antenna.com/?cat=2"><span itemprop="name">仮想通貨ニュース</span></a>
+	<meta itemprop="position" content="2" />
+</li>
+<li class="bcl-last">カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令</li>
+</ul>
+</nav>
+</div>
+<!-- パンくずリスト -->
+<aside id="sidebar2">
+<div class="widget"><h3><div>生涯勝ち続けるための本物のトレードスキル【無期限のサポート付き】</div></h3>			<div class="textwidget"><p><a href="https://www.infotop.jp/click.php?aid=360490&amp;iid=57827"><img src="http://www.infotop.jp/img/banner1_57827.jpg" border="0" /></a></p>
+</div>
+		</div>		<div class="widget">		<h3><div>最近の投稿</div></h3>		<ul>
+											<li>
+					<a href="http://virtual-currency-bitcoin-antenna.com/?p=13174">【悲報】ビットコインに「全力でショート(売り)した」「ボーナスステージやん」の声が・・・　　　　　　#仮想通貨　$BTC</a>
+									</li>
+											<li>
+					<a href="http://virtual-currency-bitcoin-antenna.com/?p=13171">YEN蔵のビットコイン（BTC/JPY)チャート分析 3月3日</a>
+									</li>
+											<li>
+					<a href="http://virtual-currency-bitcoin-antenna.com/?p=13173">ビットコインのチャートが教科書通りだと話題にｗｗｗｗｗｗｗ</a>
+									</li>
+											<li>
+					<a href="http://virtual-currency-bitcoin-antenna.com/?p=13170">【画像】ビットコインチャートが教科書通りすぎwwwwwということは・・・?【空売りの構造】</a>
+									</li>
+											<li>
+					<a href="http://virtual-currency-bitcoin-antenna.com/?p=13169">フランス大統領、食品トレーサビリティでEU諸国間のブロックチェーン活用を要求</a>
+									</li>
+					</ul>
+		</div><div class="widget"><h3><div>もしも、あなたが会社員なら受給できる可能性があります【悪用厳禁】</div></h3>			<div class="textwidget"><p><a href="https://www.infotop.jp/click.php?aid=360490&amp;iid=77190"><img class="aligncenter" src="http://www.infotop.jp/img/banner2_77190.png" border="0" /></a></p>
+</div>
+		</div><div class="widget">			<div class="textwidget"><p><strong><a href="https://www.infotop.jp/click.php?aid=360490&amp;iid=74762">【注目】8か月で資産が600倍に！最新AIを使った仮想通貨運用がすごい・・・※メディア掲載実績あり※</a></strong></p>
+</div>
+		</div><div class="widget"><h3><div>リンク集</div></h3>			<div class="textwidget"><p><strong>・<a href="https://crypto-times.jp/">CRYPTO TIMES</a></strong></p>
+<p><strong>・<a href="https://cointyo.jp/">コイン東京</a></strong></p>
+<p><strong>・<a href="https://xn--zck9awe6dx83p2uw267du0f.com/">仮想通貨ニュース.com</a></strong></p>
+<p><strong>・<a href="https://coinpost.jp/">CoinPost</a></strong></p>
+<p><strong>・<a href="https://hide1039.blog.fc2.com/">ゼロから始める仮想通貨</a></strong></p>
+</div>
+		</div><div class="widget"><form role="search" method="get" id="searchform" class="searchform" action="http://virtual-currency-bitcoin-antenna.com/">
+				<div>
+					<label class="screen-reader-text" for="s">検索:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="検索" />
+				</div>
+			</form></div>	
+</aside><!-- /#sidebar -->
+
+<!-- サイドバー -->
+
+<article id="main" class="clearfix">
+<div id="mainwrap">
+<div id="gallery-list" class="clearfix">
+<div class="feedzy-rss">
+<ul>
+
+
+
+<li class="rss_item rss_item2" style="padding: 5px 0 8px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006274" target="_blank">カナダの規制当局、マイニングに関連した資金調達に証券法違反として行政命令</a>
+</span>
+
+<div class="rss_content">
+<small>
+投稿日 2019年2月16日 17:00:00&nbsp（仮想通貨ニュース）
+</small>
+</div>
+</li>
+
+<!-- WP QUADS Content Ad Plugin v. 1.8.0 -->
+<div class="quads-location quads-ad1" id="quads-ad1" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<a href="https://www.infotop.jp/click.php?aid=360490&iid=58937">【殿堂入り商品】ツイッターを使って半自動的に「月10万」という現実的な収入を手に入れませんか？</a>
+</div>
+<p>マイニング事業の資金調達が投資契約に該当Technologies Crypto Inc.（テクノロジーズ・クリプト社）は、投資資金を同社のマイニングサービス“Make it Mine” に使用すると主張して、投資家から30万ドルを受け取ったと伝えられています。その後多くの投資家は投資資金の払い戻しができなくなったため、投資金の回収を求めてAMFに要請していました。AMFは、金融行政審判所（TMF）にTechnologies Cryptoの資産凍結を求めていました。</p>
+<!-- WP QUADS Content Ad Plugin v. 1.8.0 -->
+<div class="quads-location quads-ad2" id="quads-ad2" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<a href="https://www.infotop.jp/click.php?aid=360490&iid=74762">【注目】8か月で資産が600倍に！最新AIを使った仮想通貨運用がすごい・・・※メディア掲載実績あり※</a>
+</div>
+
+<p>AMFのJean-FrançoisFortin氏によると、金融行政審判所（TMF）が、「仮想通貨マイニングに関連する投資提案が、投資契約（公募が規制された証券等）を構成する可能性がある」と判断を下したのはこれが初めてです。</p>
+<p>進行中のこの問題は現在も当局が調査中です。AMFはアドバイスを目的に、投資家に2月末まで&#8230;<br />
+Source: コイン東京
+<!-- WP QUADS Content Ad Plugin v. 1.8.0 -->
+<div class="quads-location quads-ad3" id="quads-ad3" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<a href="http://creationsbiz.net/l/c/C3easGj0/wUks5s2n"><img src="http://creationsbiz.net/ap/rtAaQqM6/images/300_250.png" alt="300_250.png" /></a>
+</div>
+
+
+<a href="https://cointyo.jp/article/10006274" target="_blank">続きを読む>></a>
+
+
+<p>&nbsp;</p>
+<b>最新情報</b>
+<div>
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://btc-eth.jp/yen%E8%94%B5%E3%81%AE%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%EF%BC%88btcjpy%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E5%88%86%E6%9E%90-3%E6%9C%883%E6%97%A5/" target="_blank">YEN蔵のビットコイン（BTC/JPY)チャート分析 3月3日</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006422" target="_blank">フランス大統領、食品トレーサビリティでEU諸国間のブロックチェーン活用を要求</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72261" target="_blank">インド最高裁、仮想通貨規制法案の最終審理へ｜インド中銀による嘆願書提出を受けて</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006420" target="_blank">ビットコイン(BTC)は変わらずレンジ相場を継続、注文比率とアルトコインとの関係性から今後の価格とチャートを予想－3月3日チャート分析</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006419" target="_blank">イーサリアム(ETH)はレンジ相場で上値を切り下げながら移動平均線を割る動きを見せる、今後の価格変動はどうなる？－3月3日チャート分析</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=71852" target="_blank">Huobiレポート｜時価総額上位100通貨の24時間取引高は、前週比＋71.9%の4.2兆円（2/18〜2/24）</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006403" target="_blank">MARK.SPACE(マークスペース)のShamov氏、原田氏に独占インタビュー！実際のお店や生きている人々を仮想現実(VR・AR)に移していく</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006418" target="_blank">スペインのホテルチェーンCasual Hotelesがビットコイン(BTC)支払いを導入</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006417" target="_blank">インドで暗号資産とBCの求人が着実に増加｜政府所属のインド経営大学院で暗号関連プログラムを開始へ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72269" target="_blank">仮想通貨XRP、米著名VCから巨額出資を受けた仮想通貨取引所に上場｜東南アジア圏に取引提供が急拡大</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006416" target="_blank">MATRIX AI Network（MAN）がメインネットをローンチ|AI＋ブロックチェーンの実運用へ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006415" target="_blank">リップル（XRP）が東南アジアのフィアット対応のCoinhako取引所に上場｜3種類の法定通貨ペアで</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coin-girls.com/2019/03/03/mch-play-diary-rule/" target="_blank">【マイクリプレイ日記】MCHの基本を総まとめ！複雑なシステムをわかりやすく解説！</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coin-girls.com/2019/03/03/idouheikinsen-ichimokukinkouhyou/" target="_blank">【ビットコインFX】移動平均線×一目均衡表を使った5つの実践手法</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006413" target="_blank">米コインベースのNeutrino買収に抗議運動、DeleteUberの事例から無視できない脅威に</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006412" target="_blank">リップル(XRP)は長く続く下落チャートの中反転の可能性が見られ始める、今後の価格はどうなる？－3月2日チャート分析</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006411" target="_blank">テゾス（XTZ）のガバナンス・プロトコル「アテネ」が最初のリアルタイム投票テストに</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coin-girls.com/2019/03/02/cryptocurrency_market_190302/" target="_blank">3/2（土）｜本日の仮想通貨相場、リップル・ビットコインは本日も小動きに！/ドル円相場次第で動くか</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006410" target="_blank">暗号資産取引アプリ「Voyager（ボイジャー）」が暗号ウォレットEthos.io（ETHOS）を買収へ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72242" target="_blank">岩手銀行など地銀4行、「ブロックチェーン」活用の新金融サービスを提供開始｜大幅なコストカットを見込む</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72243" target="_blank">日本政府、増税後のキャッシュレス決済で5％を還元　値引きも優遇対象に｜仮想通貨業界にも追い風</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006409" target="_blank">イラン、インドネシアでビットコイン取引量が急増｜LocalBitcoinsのP2P市場データ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006408" target="_blank">次世代のブロックチェーンに触れる「ブロックチェーンナイト#001」参加レポート</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72232" target="_blank">国際通貨基金、「ブロックチェーン島」マルタ共和国にマネロン対策などを勧告する文書を公開｜仮想通貨業界に影響の恐れ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72216" target="_blank">仮想通貨取引所Binance、約1200万円相当のBNBを賞金とする「トレーダーコンテスト」を開催</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006407" target="_blank">分散型取引所eosfinex（イオスフィネクス）が3月にベータ/テストネットローンチへ</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72204" target="_blank">CoinbaseのXRP(リップル)上場発表、なぜ仮想通貨価格は急上昇しなかった？｜米Forbesが専門家の意見を掲載</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006406" target="_blank">BinanceリサーチがJPモルガンのステーブルコインとリップル（XRP）を比較「当面の直接競争は最小限」</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://cointyo.jp/article/10006405" target="_blank">岩手銀行がブロックチェーンを用いた新金融サービス提供を発表、地銀4行と共同で構築</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+
+
+
+<li class="rss_item" style="padding: 3px 0 3px">
+<span class="title">
+<a href="https://coinpost.jp/?p=72188" target="_blank">ビットコイン、半年ぶりに「月足でプラス水準」に転換｜今後の仮想通貨市場での注目ポイントは？</a>
+</span>
+
+<div class="rss_content">
+</div>
+</li>
+
+</div>
+ 
+
+</ul>
+</div>
+
+</div>
+
+
+<!-- 古い記事、新しい記事をタイトル付きで表示 -->
+<div id="pager" class="clearfix">
+<div class="page-left"><a href="http://virtual-currency-bitcoin-antenna.com/?p=12446" rel="prev">豪仮想通貨取引所myCryptoWalletがPOS端末での決済、ATMでの出金に対応するデビットカードを発行、BTCやXRP等5種類に対応</a></div>
+<div class="page-right"><a href="http://virtual-currency-bitcoin-antenna.com/?p=12448" rel="next">ルクセンブルクでブロックチェーン証券の取引を合法化する法案が可決｜スイスの証券取引所SIXがSTO事業を年内始動</a></div>
+</div><!-- /#pager -->
+
+</div><!-- /#mainwrap -->
+</article><!-- /#main -->
+
+<aside id="sidebar">
+<div class="widget"><h3><div>「凡人は真似をし、天才は盗む。」（ピカソ）</div></h3>			<div class="textwidget"><p><a href="https://www.infotop.jp/click.php?aid=360490&amp;iid=77151"><img class="aligncenter" src="http://www.infotop.jp/img/banner1_77151.gif" border="0" /></a></p>
+</div>
+		</div><div class="widget"><h3><div>カテゴリー</div></h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://virtual-currency-bitcoin-antenna.com/?cat=3" >仮想通貨まとめ</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://virtual-currency-bitcoin-antenna.com/?cat=2" >仮想通貨ニュース</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://virtual-currency-bitcoin-antenna.com/?cat=4" >仮想通貨ブログ</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://virtual-currency-bitcoin-antenna.com/?cat=1" >未分類</a>
+</li>
+		</ul>
+</div><div class="widget"><h3><div>【殿堂入り商品】ツイッターを使って半自動的に「月10万」という現実的な収入を手に入れませんか？</div></h3>			<div class="textwidget"><p><a href="https://www.infotop.jp/click.php?aid=360490&amp;iid=58937"><img class="aligncenter" src="http://www.infotop.jp/img/banner1_58937.jpg" border="0" /></a></p>
+</div>
+		</div><div class="widget"><h3><div>人気の投稿とページ</div></h3><ul>				<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13170" class="bump-view" data-bump-view="tp">
+						【画像】ビットコインチャートが教科書通りすぎwwwwwということは・・・?【空売りの構造】					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13145" class="bump-view" data-bump-view="tp">
+						【ビットコインFX】移動平均線×一目均衡表を使った5つの実践手法					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13150" class="bump-view" data-bump-view="tp">
+						【超絶悲報】え！？ リップルってあと数百億枚も放出される予定なんですか！？wwwwww　　　　　　#仮想通貨　$XRP					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13171" class="bump-view" data-bump-view="tp">
+						YEN蔵のビットコイン（BTC/JPY)チャート分析 3月3日					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13174" class="bump-view" data-bump-view="tp">
+						【悲報】ビットコインに「全力でショート(売り)した」「ボーナスステージやん」の声が・・・　　　　　　#仮想通貨　$BTC					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=12839" class="bump-view" data-bump-view="tp">
+						ネオ（NEO）創設者、2020年のフォーク「NEO 3.0」でNo.1ブロックチェーンを目指す					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=9836" class="bump-view" data-bump-view="tp">
+						BitMEX(ビットメックス)が日本に進出？ミーの仮想通貨最新ニュース【12月21日】					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=12300" class="bump-view" data-bump-view="tp">
+						【恐怖】サンバイオ株で借金２０００万となった方、ついに赤紙が届いてしまう・・・					</a>
+									</li>
+							<li>
+										<a href="http://virtual-currency-bitcoin-antenna.com/?p=13173" class="bump-view" data-bump-view="tp">
+						ビットコインのチャートが教科書通りだと話題にｗｗｗｗｗｗｗ					</a>
+									</li>
+			</ul></div>	
+</aside><!-- /#sidebar -->
+
+<!-- サイドバー -->
+
+</div><!-- /#contents -->
+
+</div>
+<footer>
+
+
+<span class="totop"><a href="#top" style="background-color:#8ab3d1">↑ TOP</a></span>
+<address style="background-color:#8ab3d1">Copy Right &copy; <a href="http://virtual-currency-bitcoin-antenna.com">2019 仮想コインおたく.com</a> All Rights Reserved.</address>
+</footer>
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://virtual-currency-bitcoin-antenna.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://virtual-currency-bitcoin-antenna.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.5',blog:'151540390',post:'12447',tz:'9',srv:'virtual-currency-bitcoin-antenna.com'} ]);
+	_stq.push([ 'clickTrackerInit', '151540390', '12447' ]);
+</script>
+<noscript><a href="http://ac.i2i.jp/bin/nojslink?00098328" target="_blank"><img src="http://ac.i2i.jp/bin/nojs.php?00098328&amp;guid=ON" border="0" /></a></noscript>
+<script type="text/javascript" src="http://ac.i2i.jp/bin/2nd_gets.php?00098328"></script>
+</body>
+</html>
+
+
+
+

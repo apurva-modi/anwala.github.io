@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="en" class="uk-height-1-1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>WHIRL</title>
+
+    <!-- Scripts -->
+    <script src="/js/app.js?v=0.0.6" defer></script>
+
+    <!-- Styles -->
+    <link href="/css/app.css?v=0.0.6" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5J5R64"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="uk-container header">
+    <div class="uk-align-left no-margin">
+        <img src="/img/logo.svg" class="logo" />
+        <img src="/img/logo-mobile.svg" class="logo-mobile" />
+    </div>
+    <div class="uk-align-right">
+        <a class="header-nav-link" id="contact-link" href="#">Contact</a>
+    </div>
+</div>
+
+<div class="uk-container content">
+    <h1>WHIRL <span class="text-red">AIRDROP</span><br />APPLICATION FORM</h1>
+    
+    <p>Help WHIRL establish and develop its community and WHIRL will help your idea become real! WHIRL Airdrop budget is $1,000,000 worth of WRL Tokens, which will be distributed equally between all participants.</p>
+    <div class="buttons">
+        <button id="click-white-list" class="uk-button button-red" uk-toggle="target: #apply-form">Apply for the AIRDROP</button>
+    </div>
+</div>
+
+<div class="uk-container footer-mobile">
+    <ul class="social-links">
+        <li><a href="https://twitter.com/whirlofficial" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+        <li><a href="https://www.facebook.com/whirlofficial" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+        <li><a href="https://t.me/whirl_bounty" target="_blank"><i class="fab fa-telegram"></i></a></li>
+        
+        
+        <li><a href="https://www.linkedin.com/company/whirlofficial/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+    </ul>
+    <p class="copy">WHIRL © 2018 All rights reserved</p>
+</div>
+
+<div class="uk-container footer-desktop">
+    <div class="uk-grid footer-grid">
+        <div class="uk-width-4-5 social-links-container">
+            <ul class="social-links">
+                <li><a href="https://twitter.com/whirlofficial" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+                <li><a href="https://www.facebook.com/whirlofficial" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="https://t.me/whirl_bounty" target="_blank"><i class="fab fa-telegram"></i></a></li>
+                
+                
+                <li><a href="https://www.linkedin.com/company/whirlofficial/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+            </ul>
+        </div>
+        <div class="uk-width-1-5 copy-container"><nobr>WHIRL © 2018 All rights reserved</nobr></div>
+    </div>
+</div>
+
+<div class="uk-flex-top modal" id="apply-form" uk-modal>
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Apply for the AIRDROP</h2>
+        </div>
+        <div class="uk-modal-body">
+            <form id="airdrop-form" class="uk-form-stacked">
+
+                
+                <div>
+                    <label class="uk-form-label" for="email">
+                        Your e-mail address*:
+                    </label>
+                    <div class="uk-form-controls">
+                        <input id="email" class="uk-input" type="text" name="email" placeholder="hello@whirl.com" required />
+                    </div>
+                </div>
+
+                
+                <div>
+                    <label class="uk-form-label" for="name">
+                        Your first name*:
+                    </label>
+                    <div class="uk-form-controls">
+                        <input id="name" class="uk-input" type="text" name="name" placeholder="Your first name" required />
+                    </div>
+                </div>
+
+                
+                <div>
+                    <label class="uk-form-label" for="last_name">
+                        Your last name*:
+                    </label>
+                    <div class="uk-form-controls">
+                        <input id="last_name" class="uk-input" type="text" name="last_name" placeholder="Your last name" required />
+                    </div>
+                </div>
+
+                
+                <div>
+                    <label class="uk-form-label" for="eth">
+                        Your personal public ETH address*:
+                    </label>
+                    <div class="uk-form-controls">
+                        <input id="eth" class="uk-input" type="text" name="eth" placeholder="Your Ethereum address" required />
+                    </div>
+                </div>
+
+                <div class="info">
+                    <p class="form-description">Fill out the form below to apply for the AIRDROP, so your dream becomes 1 step closer together with WHIRL.</p>
+                    <p class="form-description">Fields marked with * are mandatory</p>
+                    
+                </div>
+
+                <div class="alert">
+                    <p class="form-description text-red">Please check marked fields</p>
+                </div>
+
+                <div class="uk-text-center no-margin modal-button-container">
+                    <button role="submit" class="uk-button button-red">Apply</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="form-confirmed" class="uk-flex-top modal" uk-modal="stack: true">
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">email confirmed</h2>
+        </div>
+        <div class="uk-modal-body">
+            <img class="uk-align-center" src="/img/done.svg" />
+            <h3 class="result-header uk-text-center">Thank you!<br />Your e-mail is now verified.
+            </h3>
+            <p class="result-text uk-text-center">
+                Discover WHIRL one pager <a href="https://docs.google.com/document/d/1LO9IrP5lnH6MfZUTvPBLszVjMHD3MRgMeHRewOqKJQ0/edit#" target="_blank">here</a>.
+            </p>
+            <br />
+            <p class="result-text uk-text-center" id="referral_link_text">
+                Your referral link: <span id="referral_link"></span>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<div id="form-success" class="uk-flex-top modal" uk-modal="stack: true">
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Confirm email sent!</h2>
+        </div>
+        <div class="uk-modal-body">
+            <h3 class="result-header uk-text-center">We just sent you a confirmation email.</h3>
+            <p class="result-text uk-text-center">
+                Just go to your email inbox, look out for the email, and click on the confirmation link. Then you are all set!
+            </p>
+            <p class="result-text uk-text-center">
+                Thank you for entering your details! WRL Tokens will be distributed after ICO. In order to receive those, you will need to pass KYC procedure. Easy.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<div id="form-error" class="uk-flex-top modal" uk-modal="stack: true">
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Subscription error</h2>
+        </div>
+        <div class="uk-modal-body uk-align-center">
+            <h3 class="result-header">Sorry</h3>
+            <p class="result-text">Subscription error!</p>
+        </div>
+    </div>
+</div>
+
+
+<div id="contacts-modal" class="uk-flex-top modal" uk-modal="stack: true">
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Contact us</h2>
+        </div>
+        <div class="uk-modal-body">
+            <form id="contacts-form" method="POST" action="/api/contacts" class="uk-form-stacked">
+                <div>
+                    <label class="uk-form-label" for="contacts-name">FIRST NAME</label>
+                    <div class="uk-form-controls">
+                        <input class="uk-input" id="contacts-name" type="text" name="name" placeholder="Pharrell" required />
+                    </div>
+                </div>
+
+                <div>
+                    <label class="uk-form-label" for="contacts-email">YOUR EMAIL</label>
+                    <div class="uk-form-controls">
+                        <input class="uk-input" id="contacts-email" type="text" name="email" placeholder="hello@whirl.com" required />
+                    </div>
+                    <div class="uk-form-controls contacts-email-validate-result validate-result">
+                        <p>Please check the email</p>
+                    </div>
+                </div>
+
+                <div>
+                    <label class="uk-form-label" for="contacts-message">MESSAGE</label>
+                    <div class="uk-form-controls">
+                        <textarea class="uk-textarea" id="contacts-message" type="message" name="message" placeholder="Message text" required></textarea>
+                    </div>
+                </div>
+
+                <div class="uk-text-center no-margin modal-button-container">
+                    <button id="submit-contacts" role="submit" class="uk-button button-red">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div id="contact-success" class="uk-flex-top modal" uk-modal="stack: true">
+    <div class="uk-modal-dialog uk-margin-auto-vertical">
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+        <div class="uk-modal-header">
+            <h2 class="uk-modal-title">Your message has been sent!</h2>
+        </div>
+        <div class="uk-modal-body">
+            <h3 class="result-header uk-text-center">We will contact you as soon as possible.</h3>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

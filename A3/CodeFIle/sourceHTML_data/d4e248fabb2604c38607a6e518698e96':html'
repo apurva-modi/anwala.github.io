@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Home</title>
+	<base href="http://404coin.com/" />
+			<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="" />
+	<meta name="keywords" content="bitcoin apr 404,bitcoin interesst 404,bitcoin mining 404,crypto apr 404,crypto interesst 404,crypto mining 404,pos apr 404,pos interesst 404,pos mining 404,proofofstake apr 404,proofofstake interesst 404,proofofstake mining 404" />
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://404coin.com/" />
+	<!-- Facebook Open Graph end -->
+		
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/main.js?v=20190117142751" type="text/javascript"></script>
+
+	<link href="css/font-awesome/font-awesome.min.css?v=4.7.0" rel="stylesheet" type="text/css" />
+	<link href="css/site.css?v=20190117142750" rel="stylesheet" type="text/css" />
+	<link href="css/common.css?ts=1548367568" rel="stylesheet" type="text/css" />
+	<link href="css/1.css?ts=1548367568" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="/gallery/404.ico" type="image/x-icon" />
+	<script type="text/javascript">
+	window.useTrailingSlashes = true;
+</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132846618-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132846618-1');
+</script>
+	<link href="css/flag-icon-css/css/flag-icon.min.css" rel="stylesheet" type="text/css" />	
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.min.js"></script>
+	<![endif]-->
+
+	</head>
+
+
+<body><div class="root"><div class="vbox wb_container" id="wb_header">
+	
+<div class="wb_cont_inner"><div id="wb_element_instance0" class="wb_element wb-menu wb-menu-mobile"><a class="btn btn-default btn-collapser"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a><ul class="hmenu"><li class="active"><a href="" target="_self">Home</a></li><li><a href="Wallets/" target="_self">Wallets</a></li><li><a href="http://404block.net" target="_blank">Blockexplorer</a></li><li><a href="Exchanges/" target="_self">Exchanges</a></li><li><a href="https://btcpop.co/Home/297528/404coin" target="_blank">Faucet / Staking Pool</a></li></ul><div class="clearfix"></div></div><div id="wb_element_instance1" class="wb_element wb_element_picture" title=""><a href=""><img alt="gallery/404" src="gallery_gen/b46416d9e89159e9db16fd1c704459c5_94x94.png"></a></div><div id="wb_element_instance2" class="wb_element wb_text_element" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">404 COIN</h4></div></div><div class="wb_cont_outer"></div><div class="wb_cont_bg"></div></div>
+<div class="vbox wb_container" id="wb_main">
+	
+<div class="wb_cont_inner"><div id="wb_element_instance3" class="wb_element"><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">(function() { var twitter_create = function() { twttr.widgets.createTimeline( { sourceType: "url", url: "https://twitter.com/404coin" }, document.getElementById("wb_element_instance3"), function (el) { }, { theme: "light", chrome: "", width: 308, height: 570, tweetLimit: "3", borderColor: "transparent", linkColor: "transparent" } ); }; var twitter_reset_timeout = setTimeout(twitter_create, 500); })();</script></div><div id="wb_element_instance5" class="wb_element wb_element_picture" title=""><a href="https://discord.gg/EkKw76y" target="1"><img alt="gallery/41484d92c876f76b20c7f746221e8151" src="gallery/41484d92c876f76b20c7f746221e8151-ts1547216587.svg"></a></div><div id="wb_element_instance6" class="wb_element wb_text_element" style=" line-height: normal;"><h1 class="wb-stl-heading1" style="text-align: center;">Join us</h1></div><div id="wb_element_instance7" class="wb_element wb_text_element" style=" line-height: normal;"><ul class="wb-stl-list2"><li class="wb-stl-normal"><span style="color:#ffffff;">Block Spacing : 90 seconds</span></li><li class="wb-stl-normal"><span style="color:#ffffff;">Min/Max stake age 7.75 days / 365 Days</span></li><li class="wb-stl-normal"><span style="color:#ffffff;">Confirmations before spendability: 60 blocks</span></li></ul></div><div id="wb_element_instance8" class="wb_element wb_text_element" style=" line-height: normal;"><ul class="wb-stl-list2"><li class="wb-stl-normal"><span style="color:#ffffff;">Block 1000 - 30,000 : 808% APR</span></li><li class="wb-stl-normal"><span style="color:#ffffff;">Block 30,000- forever: 404 % APR</span></li></ul></div><div id="wb_element_instance9" class="wb_element wb_element_shape"><div class="wb_shp"></div></div><div id="wb_element_instance10" class="wb_element wb_element_shape"><div class="wb_shp"></div></div><div id="wb_element_instance11" class="wb_element wb_text_element" style=" line-height: normal;"><h2 class="wb-stl-heading2" style="text-align: center;">PoS Rewards</h2></div><div id="wb_element_instance12" class="wb_element wb_text_element" style=" line-height: normal;"><h2 class="wb-stl-heading2" style="text-align: center;">Technical Specification</h2></div><div id="wb_element_instance13" class="wb_element wb_element_picture" title=""><img alt="gallery/mac" src="gallery_gen/8da2357ecebe2d4b0cfa047840b9024d.png"></div><div id="wb_element_instance14" class="wb_element wb_element_shape"><div class="wb_shp"></div></div><div id="wb_element_instance15" class="wb_element wb_element_picture" title=""><img alt="gallery/404" src="gallery_gen/c1a9c35d100211736da29b8638f123d8_310x310.png"></div><div id="wb_element_instance16" class="wb_element wb_element_picture" title=""><a href="https://twitter.com/404coin" target="1"><img alt="gallery/twitter-button" src="gallery_gen/8292ac89140a3fcca9eb8c3001c12e66_260x102.png"></a></div><div id="wb_element_instance17" class="wb_element wb_element_picture" title=""><a href="https://bitcointalk.org/index.php?topic=5096837" target="1"><img alt="gallery/400px-bicointalk-log" src="gallery_gen/72879cd2583909dfc80e2bf2758afd1e_172x80.jpg"></a></div><div id="wb_element_instance18" class="wb_element wb_text_element" style=" line-height: normal;"><h5 class="wb-stl-subtitle">Exchanges</h5></div><div id="wb_element_instance19" class="wb_element wb_element_picture" title=""><a href="https://tradesatoshi.com/Exchange?market=404_BTC" target="1"><img alt="gallery/tradesatoshi_badge" src="gallery_gen/b352debdfb9b6204a3c385e4d64daf2d_241x60.png"></a></div><div id="wb_element_instance20" class="wb_element wb_element_shape"><div class="wb_shp"></div></div><div id="wb_element_instance21" class="wb_element" style=" overflow: hidden;"><div style="height: 100%;"><script src="https://widget.coincodex.com/include.js?type=1&amp;ticker=404&amp;chartLineColor=1f79e1&amp;chartFillColor=e8f1fc&amp;backgroundColor=ffffff&amp;textColor1=1e2e42&amp;textColor2=617283&amp;linkColor=4a90e2&amp;borderColor=dddddd&amp;history_days=1"></script></div></div><div id="wb_element_instance22" class="wb_element wb_element_picture" title=""><a href="http://www.nuex.com/auth/QrhbkBev" target="1"><img alt="gallery/nuex_small_transparent_lightbg" src="gallery_gen/251225c5dd5b527c1b01dfeb033109cd.png"></a></div><div id="wb_element_instance23" class="wb_element wb_element_picture" title=""><a href="https://crex24.com/de/exchange/404-BTC" target="1"><img alt="gallery/crex24" src="gallery_gen/b975e6410f968b489cb30d7ce891e2ac_173x173.jpg"></a></div><div id="wb_element_instance24" class="wb_element wb_element_picture" title=""><a href="https://btcpop.co/Home/297528/404coin" target="1"><img alt="gallery/staking exchange - 320x100" src="gallery_gen/cb411c9e1d9b51a5a18b55350c31f960_340x110.png"></a></div><div id="wb_element_instance25" class="wb_element" style="width: 100%;">
+						<script type="text/javascript">
+				$(function() {
+					$("#wb_element_instance25").hide();
+				});
+			</script>
+						</div></div><div class="wb_cont_outer"></div><div class="wb_cont_bg"></div></div>
+<div class="vbox wb_container" id="wb_footer">
+	
+<div class="wb_cont_inner" style="height: 134px;"><div id="wb_element_instance4" class="wb_element wb_text_element" style=" line-height: normal;"><p class="wb-stl-footer">© 2019 <a href="http://404coin.com">404coin.com</a></p></div><div id="wb_element_instance26" class="wb_element" style="text-align: center; width: 100%;"><div class="wb_footer"></div><script type="text/javascript">
+			$(function() {
+				var footer = $(".wb_footer");
+				var html = (footer.html() + "").replace(/^\s+|\s+$/g, "");
+				if (!html) {
+					footer.parent().remove();
+					footer = $("#wb_footer, #wb_footer .wb_cont_inner");
+					footer.css({height: ""});
+				}
+			});
+			</script></div></div><div class="wb_cont_outer"></div><div class="wb_cont_bg"></div></div><div class="wb_sbg"></div></div></body>
+</html>

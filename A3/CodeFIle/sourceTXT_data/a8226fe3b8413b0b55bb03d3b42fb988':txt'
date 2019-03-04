@@ -1,0 +1,23 @@
+Stop if balance drops by
+BTC
+Stop if balance increases by
+BTC
+Stop if your winnings drop
+BTC from the maximum profit got.
+Multiply your bet by
+when your prize multiplier is lower than
+x.
+Your bet will return to the original value when you hit a higher multiplier. And if your bet become higher than the maximum bet value, the game will stop.
+Clicking on any line of the "Prizes Per Hit" table, the multipliers fields above wil be filled with the correct value if you want to use the martingale system.
+The house edge percentage for your games is
+%.
+Do not show this confirmation when playing with real BTC
+Starting on 2016-10-21, the maximum bet value will depend on the house edge of the game.
+As this game has an house edge of %, the maximum bet value is BTC. What do you want to do?
+Do not show this confirmation dialog during this session and remember the selected action.
+Starting on 2016-10-21, the maximum bet value will depend on the house edge of the game.
+As this game has an house edge of %, the maximum bet value is BTC. What do you want to do?
+As you have the multiplier option enabled, you can choose what house edge you want for your game, so you can have a higher maximum bet value:
+Raise the house edge to
+% and your maximum bet will be BTC
+Do not show this confirmation dialog during this session and remember the selected house edge

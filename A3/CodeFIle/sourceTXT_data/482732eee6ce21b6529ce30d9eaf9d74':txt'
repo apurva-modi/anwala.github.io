@@ -1,0 +1,17 @@
+8 Illicit Crypto-Mining Windows Apps Removed From Microsoft Store
+8 Illicit Crypto-Mining Windows Apps Removed From Microsoft Store
+16 February in Editor Choice
+.. ..
+A number of apps in Microsoft’s app store have been found to be able to illicitly mine cryptocurrency.
+The eight apps, discovered by Symantec on Jan. 17, hosted a version of Coinhive, a script for mining the monero cryptocurrency that has proved popular with cyber criminals.
+In a blog post on the discovery, Symantec said it had reported the apps to Microsoft, which subsequently took them down. The apps all ran on Windows 10, including Windows 10 S Mode, which restricts app downloads to the Microsoft Store.
+Three developers, DigiDream, 1clean and Findoo, reportedly produced all the apps, which covered the areas of computer and battery optimization tutorials, web search, web browsing, and video viewing and download.
+Symantec wrote in the post:
+“In total, we discovered eight apps from these developers that shared the same risky behavior. After further investigation, we believe that all these apps were likely developed by the same person or group.”
+The eight apps found to be hosting Coinhive. (Source: Symantec)
+After being downloaded and opened, the apps work by fetching the monero mining JavaScript library by triggering Google Tag Manager in their domain servers. The mining script is then activated and harnesses the bulk of the victim computer’s CPU cycles to mine the cryptocurrency. The JavaScript has also been removed from Google Tag Manager after Google was informed, the post said.
+“Although these apps appear to provide privacy policies, there is no mention of coin mining on their descriptions on the app store,” Symantec said.
+The apps were published from April to December of last year, although most were published toward the end of the year. Despite being on the Microsoft Store for a relatively short period, “a significant number” of users may have downloaded them onto their PCs, said the firm.
+Monero (XMR) is by far the most popular cryptocurrency among bad actors deploying mining malware, according to a study published last month. So much so that the author’s of the research estimated that hackers have mined at least 4.32 percent of the total monero in circulation.
+“Overall, we estimate there are at least 2,218 active campaigns that have accumulated about 720,000 XMR ($57 million),” they wrote.
+Microsoft image via Shutterstock

@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content=" maximum-scale=1">
+<title>CashPayz  Voting </title>
+<meta name="description" content="Buy, Sell, Send & Receive – Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Nem (XEM), CashPayz (CPC), Bitcoin Regular (BTRL), Five Star Coin Pro (FSCP), The New Public Coin (TNPC) and Many Other Cryptocurrency."/>
+<meta name="google-site-verification" content="WeZXS8Q2aYSfiCj3SxCbQTen-OQaHcPwiyA_tW407G4" />
+<meta name="keywords" content="Cashpayz, crypto, bitcoins, ethereum, NEM, CPC, ripple, TNPC, exchange, trading platform, crypto trading">
+<meta name="author" content="Gaffer IT Solutions Pvt. Ltd.">
+<link rel="icon" type="image/png" href="https://cashpayz.exchange/assets/images/icon.png"/>
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/app/css/bootstrap.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/fontawesome/css/font-awesome.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/animo/animate-animo.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/csspinner/csspinner.min.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/css/themify-icons.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/fontawesome/css/font-awesome.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/css/owl.carousel.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/css/magnific-popup.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/jqueryConfirm/jquery-confirm.min.css">
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/plugins/select2/dist/css/select2.css">
+<link rel="stylesheet" type="text/css" href="https://cashpayz.exchange/assets/exchange/plugins/datatable/media/css/datatables.css"/>
+<link rel="stylesheet" type="text/css" href="https://cashpayz.exchange/assets/exchange/plugins/OwlCarousel/dist/assets/owl.carousel.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cashpayz.exchange/assets/exchange/plugins/OwlCarousel/dist/assets/owl.theme.default.min.css"/> 
+<link rel="stylesheet" href="https://cashpayz.exchange/assets/exchange/app/css/app.css">
+<link rel="stylesheet" href="" id="nightMode">
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700" rel="stylesheet">
+<style type="text/css"></style>
+<!-- <style type="text/css">
+.error{color:#a94442;}
+</style> -->
+</head>
+<body>
+
+    <nav class="navbar navbar-custom navbar-inverse">
+      <div class="container-fluid">
+           <div class="navbar-header">
+               <a class="navbar-brand" href="https://cashpayz.exchange/"><img src="https://cashpayz.exchange/assets/exchange/images/logos/Cashpayz-logo.png" width="220"></a>
+             </div>
+            <ul class="nav navbar-nav mynav">
+                <li><a href="https://cashpayz.exchange/"><i class="fa fa-home"></i> Home</a></li>
+                <li><a href="https://cashpayz.exchange/exchange/btc/cpc"><i class="fa fa-exchange"></i> Exchange</a></li>
+                <li><a href="https://cashpayz.exchange/peer-to-peer"><i class="fa fa-user-plus"></i> P2P</a></li>
+                <!--<li><a href="#"><i class="fa fa-volume-up"></i> Promotion</a></li>-->
+                <li><a href="https://cashpayz.exchange/voting"><i class="fa fa-crosshairs"></i> Voting</a></li>
+                                <li><a href="http://cashpayz.org/" target="_blank"><i class="fa fa-cogs"></i> Development</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScOmky31Co4sm-I4o6DO_PP6oWd7DDilxDEbKiQOMgGnYkivA/viewform?vc=0&c=0&w=1" target="_blank"><i class="fa fa-crosshairs"></i> Coin Listing</a></li>
+                             </ul>
+           <ul class="nav navbar-nav navbar-right">
+              <li><a class="theme-switcher" rel="light"><i class="fa fa-lightbulb-o"></i></a></li>
+			                 <li><a class="btn btn-primary btn-block btn-buy" href="https://cashpayz.exchange/signin"><i class="fa fa-id-card-o"></i> Login</a></li>
+               <li><a class="btn btn-primary btn-block btn-buy btn-sell" href="https://cashpayz.exchange/signup"><i class="fa fa-handshake-o"></i> Register</a></li>
+               
+          </ul>
+     </div> 
+    </nav>
+ <input type="hidden" id="BaseURL" value="https://cashpayz.exchange/">        <!-- HOME -->
+         <style type="text/css">
+          .table > tbody > tr > td > a{font-weight: unset;} 
+          .table > tbody > tr > td:nth-child(2){font-weight: 600}
+        .owl-carousel .owl-item img{height: 50px; max-width: 100%;}
+
+        </style>
+         <section class="home " id="comingListhome">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class=" row vertical-content">
+                            <div class="col-xs-12">
+                              <div id="paid-market" class="">
+                                <div class="owl-carousel owl-theme owl-loaded" id="comingList">
+                                                                          <div class="owl-stage-outer ">
+                                          <div class="owl-stage ">
+                                                                                              <div class="owl-item top-coin1">
+                                                  <div class="row pr0">
+                                                    <div class="col-xs-3 pl-lg pr0 pt pb">
+                                                       <img src="https://cashpayz.exchange/uploads/list-coin/BPER-1550405798.png" height="" class="ml-sm">
+                                                    </div>
+                                                    <div class="col-xs-9 pr0">
+                                                    <h4 class="mt-lg mb-sm">BPER</h4>
+                                                   <a href="https://cashpayz.exchange/exchange/bper/cpc"><h5 class="per mt0">Trade Now</h5></a>                                                     </div>
+                                                  </div>
+                                                </div>
+                                                                                              <div class="owl-item top-coin1">
+                                                  <div class="row pr0">
+                                                    <div class="col-xs-3 pl-lg pr0 pt pb">
+                                                       <img src="https://cashpayz.exchange/uploads/list-coin/ETHW-1548492867.png" height="" class="ml-sm">
+                                                    </div>
+                                                    <div class="col-xs-9 pr0">
+                                                    <h4 class="mt-lg mb-sm">ETHW</h4>
+                                                   <a href="https://cashpayz.exchange/exchange/ethw/cpc"><h5 class="per mt0">Trade Now</h5></a>                                                     </div>
+                                                  </div>
+                                                </div>
+                                                                                              <div class="owl-item top-coin1">
+                                                  <div class="row pr0">
+                                                    <div class="col-xs-3 pl-lg pr0 pt pb">
+                                                       <img src="https://cashpayz.exchange/uploads/list-coin/YOI-1547896255.png" height="" class="ml-sm">
+                                                    </div>
+                                                    <div class="col-xs-9 pr0">
+                                                    <h4 class="mt-lg mb-sm">YOI</h4>
+                                                   <a href="https://cashpayz.exchange/exchange/yoi/cpc"><h5 class="per mt0">Trade Now</h5></a>                                                     </div>
+                                                  </div>
+                                                </div>
+                                                                                              <div class="owl-item top-coin1">
+                                                  <div class="row pr0">
+                                                    <div class="col-xs-3 pl-lg pr0 pt pb">
+                                                       <img src="https://cashpayz.exchange/uploads/list-coin/TCC-1548413756.png" height="" class="ml-sm">
+                                                    </div>
+                                                    <div class="col-xs-9 pr0">
+                                                    <h4 class="mt-lg mb-sm">TCC</h4>
+                                                   <h5>Upcoming</h5>                                                    </div>
+                                                  </div>
+                                                </div>
+                                                                                           </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                          </div>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </section>
+        <!-- END HOME -->                            
+        <section class="home " id="home">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class=" row vertical-content">
+                            <div class="col-xs-12">                            
+                              <div class="tabbable-panel">
+                                <div class="tabbable-line">
+                                   <div class="tab-content tab-content-BuySell m-t-9">
+                                      <div class="tab-pane active" id="tab_default_2">
+                                        <div class="panel panel-body">
+                                          <h4>Important Note:</h4>
+                                          <p>
+                                            To avoid spam votes we have ensured individuals must be registered, 
+                                            Every week we will list one token/coin to our <strong>CashPayz Exchange</strong>. Who will gets minimum 10000 votes and highest voted by users.
+                                            Every user gets one <strong>free vote</strong> and after free vote user can <strong>vote by CPC</strong>.
+                                            One user can votes only one token/coin in 24hrs, and paid votes will be unlimited. 
+                                           <a href="https://cashpayz.exchange/free-token-list-terms"> More Info</a>
+                                          </p>
+                                        </div>
+                                      </div>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="tabbable-panel">
+                                <div class="tabbable-line">
+                                   <div class="tab-content tab-content-BuySell m-t-9">
+                                      <div class="tab-pane active" id="tab_default_2">
+                                        <div class="panel panel-body">
+                                          <div class="form-items">
+                                            <form class="m-b-40" action="" method="get" id="vote-search-form" >
+                                                <div class="col-md-2">
+                                                  <a href="https://cashpayz.exchange/signin" class="btn btn-info b-r-0" ><i class="fa fa-plus"></i> Add Token/Coin</a>
+                                                </div>
+                                                <div class="col-md-4">&nbsp;</div>                                               
+                                            </form>
+                                            <table class="table table-striped" id="votingDt">
+                                              <thead>
+                                                <tr>
+                                                  <th>#</th>
+                                                  <th>Symbol</th>
+                                                  <th>Name</th>
+                                                  <th>Website</th>
+                                                  <th>Total Votes</th>
+                                                  <th>Vote</th>
+                                                </tr>
+                                              </thead>
+                                              <tbody>
+                                                                                                                                                                                                                                                    <tr>
+                                                  <td>1</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/USDC-1547293103.png" width="30" height="30">
+                                                    USDC                                                  </td>
+                                                  <td>USD COIN</td>
+                                                  <td><a href="https://www.centre.io/" target="_blank">https://www.centre.io/</a></td>
+                                                  <td id="Vcount_3">497</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_3" data-vcid="3" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGmtCk8gVw%2FMrL2%2BQkOG2b1soIXvWdoZnl1bnrdTDx0e1%2Foig1nN84dVu9gUb%2Ffs75V6OvheiRrcBmng8gqG4dYcbxOyGDDB0mn59J%2FuFxTDA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_3" data-vcid="3" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGmtCk8gVw%2FMrL2%2BQkOG2b1soIXvWdoZnl1bnrdTDx0e1%2Foig1nN84dVu9gUb%2Ffs75V6OvheiRrcBmng8gqG4dYcbxOyGDDB0mn59J%2FuFxTDA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>2</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/HBC-1548667378.png" width="30" height="30">
+                                                    HBC                                                  </td>
+                                                  <td>HYPERBOLIC</td>
+                                                  <td><a href="https://hyperbolicgroup.com/" target="_blank">https://hyperbolicgroup.com/</a></td>
+                                                  <td id="Vcount_29">183</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_29" data-vcid="29" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwE4yzbf2BCqtqco3H4lKjgBpaOuLd8bFlFmaHQ8t5XExmo4lmtMeph31hItGbff%2FRnrBv9pQSsEt6VVZ51vT7Ih29DK0vnmj3Ovk46hmnQLug%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_29" data-vcid="29" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwE4yzbf2BCqtqco3H4lKjgBpaOuLd8bFlFmaHQ8t5XExmo4lmtMeph31hItGbff%2FRnrBv9pQSsEt6VVZ51vT7Ih29DK0vnmj3Ovk46hmnQLug%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>3</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/XTRL-1549863210.png" width="30" height="30">
+                                                    XTRL                                                  </td>
+                                                  <td>TURKEY ENERGY TOKEN</td>
+                                                  <td><a href="http://xtrl.online/" target="_blank">http://xtrl.online/</a></td>
+                                                  <td id="Vcount_34">81</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_34" data-vcid="34" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGVKYyD7gx6mq4NftJ2h13MV%2FRnu7FwMpUfXq%2F8oFf5UR2R9gGXSTU275dlfkVxLbeRPGZkKbrLawYSa4GyumG7q8slMc3XlUj51JcSClk5Ag%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_34" data-vcid="34" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGVKYyD7gx6mq4NftJ2h13MV%2FRnu7FwMpUfXq%2F8oFf5UR2R9gGXSTU275dlfkVxLbeRPGZkKbrLawYSa4GyumG7q8slMc3XlUj51JcSClk5Ag%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>4</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/USDT-1547294877.png" width="30" height="30">
+                                                    USDT                                                  </td>
+                                                  <td>TETHER</td>
+                                                  <td><a href="https://tether.to/" target="_blank">https://tether.to/</a></td>
+                                                  <td id="Vcount_14">74</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_14" data-vcid="14" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwG4443GpBuCWGKIU57jqBqrZqyYtYTzog4dPfL0LN4LiY6Niqin4N8SRvNwuIXwT%2F9WVECGrT7a1DGwWQx4RXTC6QLeNFzMh04%2FmOHdm4WryA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_14" data-vcid="14" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwG4443GpBuCWGKIU57jqBqrZqyYtYTzog4dPfL0LN4LiY6Niqin4N8SRvNwuIXwT%2F9WVECGrT7a1DGwWQx4RXTC6QLeNFzMh04%2FmOHdm4WryA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>5</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/ATH-1548935209.png" width="30" height="30">
+                                                    ATH                                                  </td>
+                                                  <td>ATOM</td>
+                                                  <td><a href="https://www.cryptoatoms.org/" target="_blank">https://www.cryptoatoms.org/</a></td>
+                                                  <td id="Vcount_31">35</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_31" data-vcid="31" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGiu2awYC7bUGcjmOLXKfnaeqZjz4ZTlWzkmMxdBbQ1xNgqBveEXPNfjY64UkCxVE9e0m7C0hF%2FN0MC7c%2FHls8IV3V7hC%2BBaHv6VKnIJ2aQXw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_31" data-vcid="31" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGiu2awYC7bUGcjmOLXKfnaeqZjz4ZTlWzkmMxdBbQ1xNgqBveEXPNfjY64UkCxVE9e0m7C0hF%2FN0MC7c%2FHls8IV3V7hC%2BBaHv6VKnIJ2aQXw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>6</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/BETN-1550183056.png" width="30" height="30">
+                                                    BETN                                                  </td>
+                                                  <td>BITELECTRONEUM</td>
+                                                  <td><a href="https://bitelectroneum.io" target="_blank">https://bitelectroneum.io</a></td>
+                                                  <td id="Vcount_36">22</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_36" data-vcid="36" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwFdGQewFGHnzWcOUwlEzs99Q2mwJm1phUcGq5TZYYX9QI1CsxAzZ5HTh%2FP09%2BG7z7lZY2HPUW9QB93gS9Oul67KBfgy652%2FNmZGVzm9WbtusA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_36" data-vcid="36" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwFdGQewFGHnzWcOUwlEzs99Q2mwJm1phUcGq5TZYYX9QI1CsxAzZ5HTh%2FP09%2BG7z7lZY2HPUW9QB93gS9Oul67KBfgy652%2FNmZGVzm9WbtusA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>7</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/PKG-1548766072.png" width="30" height="30">
+                                                    PKG                                                  </td>
+                                                  <td>PKG TOKEN</td>
+                                                  <td><a href="http://pkgtoken.io" target="_blank">http://pkgtoken.io</a></td>
+                                                  <td id="Vcount_30">21</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_30" data-vcid="30" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwH4Ci2dOPZRAhckUOKkhbigeCMxQHc2MB8TWWh2%2FCozJCPH80jMsnQMVsimE%2FJgJhnHMA9j%2B9gMG1UGAr51vrcfpKpedNFcboK9bmGkgD00QA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_30" data-vcid="30" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwH4Ci2dOPZRAhckUOKkhbigeCMxQHc2MB8TWWh2%2FCozJCPH80jMsnQMVsimE%2FJgJhnHMA9j%2B9gMG1UGAr51vrcfpKpedNFcboK9bmGkgD00QA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>8</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/GFN-1549862462.png" width="30" height="30">
+                                                    GFN                                                  </td>
+                                                  <td>GAME FANZ</td>
+                                                  <td><a href="https://gamefanz.io/" target="_blank">https://gamefanz.io/</a></td>
+                                                  <td id="Vcount_33">17</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_33" data-vcid="33" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGPR1m1zFgJCDDlI6f5YRc316deCWrgnVyqLS%2BkHJ7qfcTlUKx6ccMmfkUWqo7GfjaCOzllOurlPCZpemh3cpxakMMPtbGZBLVlQOb%2FpFd6%2FQ%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_33" data-vcid="33" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGPR1m1zFgJCDDlI6f5YRc316deCWrgnVyqLS%2BkHJ7qfcTlUKx6ccMmfkUWqo7GfjaCOzllOurlPCZpemh3cpxakMMPtbGZBLVlQOb%2FpFd6%2FQ%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>9</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/ZRX-1547293612.png" width="30" height="30">
+                                                    ZRX                                                  </td>
+                                                  <td>ZRX</td>
+                                                  <td><a href="https://0x.org/" target="_blank">https://0x.org/</a></td>
+                                                  <td id="Vcount_7">16</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_7" data-vcid="7" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwFCL9ahWRpI4Hd9KvnPn5geKnZ51Za7H05yXJhBiguDQY1BZE7Nc%2FUd3%2BxoANSg%2BBE1Eun%2BUUw0CMFlAXrIjhHYeuVGDhfiuRpPpB1CM%2B%2F%2Fng%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_7" data-vcid="7" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwFCL9ahWRpI4Hd9KvnPn5geKnZ51Za7H05yXJhBiguDQY1BZE7Nc%2FUd3%2BxoANSg%2BBE1Eun%2BUUw0CMFlAXrIjhHYeuVGDhfiuRpPpB1CM%2B%2F%2Fng%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>10</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/AE-1547294536.png" width="30" height="30">
+                                                    AE                                                  </td>
+                                                  <td>AETERNITY</td>
+                                                  <td><a href="https://www.aeternity.com/" target="_blank">https://www.aeternity.com/</a></td>
+                                                  <td id="Vcount_13">13</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_13" data-vcid="13" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwE6yrlv7fWSeLe7ieE3pC8aPbOJZdA%2BSi0YwBuNnL6hT7m7NGI%2F9R6QzCf7RSCzcM%2Fnzs%2F0rFKJSEzaBqID5P8IJ6pxF6h9IZOoUVUn2OLkTw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_13" data-vcid="13" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwE6yrlv7fWSeLe7ieE3pC8aPbOJZdA%2BSi0YwBuNnL6hT7m7NGI%2F9R6QzCf7RSCzcM%2Fnzs%2F0rFKJSEzaBqID5P8IJ6pxF6h9IZOoUVUn2OLkTw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>11</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/GUSD-1547294387.png" width="30" height="30">
+                                                    GUSD                                                  </td>
+                                                  <td>GEMINI DOLLAR</td>
+                                                  <td><a href="https://gemini.com/dollar/" target="_blank">https://gemini.com/dollar/</a></td>
+                                                  <td id="Vcount_12">9</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_12" data-vcid="12" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGpyNuVJc2wnsQbL9DK%2FRfU6S1f2ncKARpP3fQ2Ly40bD%2Br8SLaOqGNLIT1hq2YfPLfeRl0brryMWrJHMmaGw5K4DiQW7znRxcEmMR8PZCnSw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_12" data-vcid="12" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGpyNuVJc2wnsQbL9DK%2FRfU6S1f2ncKARpP3fQ2Ly40bD%2Br8SLaOqGNLIT1hq2YfPLfeRl0brryMWrJHMmaGw5K4DiQW7znRxcEmMR8PZCnSw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>12</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/MAID-1547316608.png" width="30" height="30">
+                                                    MAID                                                  </td>
+                                                  <td>MAIDSAFE COIN</td>
+                                                  <td><a href="https://safenetwork.tech/" target="_blank">https://safenetwork.tech/</a></td>
+                                                  <td id="Vcount_18">9</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_18" data-vcid="18" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwHIgd%2FzHay0Dnm8zZ%2BtXtXkD1mVw3DmaRzV4C5MpvhvR6pglKpQvS1nm0l43GErg5QcPfBBC1u1oLiG5jpySa6cNdOsLejahHCIHf8q1VgTeA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_18" data-vcid="18" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwHIgd%2FzHay0Dnm8zZ%2BtXtXkD1mVw3DmaRzV4C5MpvhvR6pglKpQvS1nm0l43GErg5QcPfBBC1u1oLiG5jpySa6cNdOsLejahHCIHf8q1VgTeA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>13</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/KCS-1547316688.png" width="30" height="30">
+                                                    KCS                                                  </td>
+                                                  <td>KUCOIN SHARES</td>
+                                                  <td><a href="https://www.kucoin.com/" target="_blank">https://www.kucoin.com/</a></td>
+                                                  <td id="Vcount_19">9</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_19" data-vcid="19" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwHY8jDRfsT3abhq4pCJojXFk1WMFivE9CRym5NN7uTTdUKTH9a3lL7pZPuaDurflQEUQPCdTKPas2wHJmNmfPrQSb8U8HAO7QLtbbwSsb5ZjA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_19" data-vcid="19" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwHY8jDRfsT3abhq4pCJojXFk1WMFivE9CRym5NN7uTTdUKTH9a3lL7pZPuaDurflQEUQPCdTKPas2wHJmNmfPrQSb8U8HAO7QLtbbwSsb5ZjA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>14</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/EURS-1547317004.png" width="30" height="30">
+                                                    EURS                                                  </td>
+                                                  <td>STASIS EURS</td>
+                                                  <td><a href="https://stasis.net/" target="_blank">https://stasis.net/</a></td>
+                                                  <td id="Vcount_22">7</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_22" data-vcid="22" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwEkxgHdenEdOm6VtEuR0EnZZ%2BVsLZ29WQnvi70bfOEkdTFEmssg9610XgK3s6%2FYeHyPw%2FSehEfJD4Whc19JRdIqbX1go3%2FSwAPaPp3DRyjlHw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_22" data-vcid="22" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwEkxgHdenEdOm6VtEuR0EnZZ%2BVsLZ29WQnvi70bfOEkdTFEmssg9610XgK3s6%2FYeHyPw%2FSehEfJD4Whc19JRdIqbX1go3%2FSwAPaPp3DRyjlHw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>15</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/ATF-1548571078.png" width="30" height="30">
+                                                    ATF                                                  </td>
+                                                  <td>AGRO TECH FARM</td>
+                                                  <td><a href="https://www.agrotechfarm.io" target="_blank">https://www.agrotechfarm.io</a></td>
+                                                  <td id="Vcount_28">7</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_28" data-vcid="28" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwH6SkwvyDQN8o1XTuB%2BFG9vgHklz0YRmIsm0QsASwZwrcmSyBLCO%2FNSIIXzrc1RcfupV7HLy8XCkS2uBdeKvdKTyUJSmnDltbmCKZQCLP6ZCA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_28" data-vcid="28" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwH6SkwvyDQN8o1XTuB%2BFG9vgHklz0YRmIsm0QsASwZwrcmSyBLCO%2FNSIIXzrc1RcfupV7HLy8XCkS2uBdeKvdKTyUJSmnDltbmCKZQCLP6ZCA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>16</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/LINK-1547293714.png" width="30" height="30">
+                                                    LINK                                                  </td>
+                                                  <td>CHAINLINK TOKEN</td>
+                                                  <td><a href="https://chain.link/" target="_blank">https://chain.link/</a></td>
+                                                  <td id="Vcount_8">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_8" data-vcid="8" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwG2d9RFqbj67RFyhcuTwUm43yVxKyso%2BFPwPKGv4I8Na4mCud5OmWn%2BDU5VDaTjI%2BXKJms5VC2pRp3VbIIhd1oWitUqOpTw0p8k9R3bNeqCUg%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_8" data-vcid="8" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwG2d9RFqbj67RFyhcuTwUm43yVxKyso%2BFPwPKGv4I8Na4mCud5OmWn%2BDU5VDaTjI%2BXKJms5VC2pRp3VbIIhd1oWitUqOpTw0p8k9R3bNeqCUg%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>17</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/R-1547294295.png" width="30" height="30">
+                                                    R                                                  </td>
+                                                  <td>REVAIN</td>
+                                                  <td><a href="https://revain.org/" target="_blank">https://revain.org/</a></td>
+                                                  <td id="Vcount_11">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_11" data-vcid="11" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwG56yUH5dBfbPxO9uuaVsTTi6bR0dmSC%2FA2PHFGR%2BWZ5CBjGXIm%2FkkpCGSWOhpbHidkpC2M7ZZR2uqv9s8w3RD3wuJiD%2BmJt%2FwLKgZEtF5dMg%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_11" data-vcid="11" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwG56yUH5dBfbPxO9uuaVsTTi6bR0dmSC%2FA2PHFGR%2BWZ5CBjGXIm%2FkkpCGSWOhpbHidkpC2M7ZZR2uqv9s8w3RD3wuJiD%2BmJt%2FwLKgZEtF5dMg%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>18</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/DAI-1547295464.png" width="30" height="30">
+                                                    DAI                                                  </td>
+                                                  <td>DAI</td>
+                                                  <td><a href="http://www.makerdao.com/" target="_blank">http://www.makerdao.com/</a></td>
+                                                  <td id="Vcount_15">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_15" data-vcid="15" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwFs75HCzHf7mF3%2BCInmdRTClGONw2kKptzi7zBFFZX5OGQug%2BKnzimjY1ET3SsnkjCMZn6ahe%2BLPW1VzVjFx8mJ7QuTmaLaQMXacQyT3CjSnA%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_15" data-vcid="15" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwFs75HCzHf7mF3%2BCInmdRTClGONw2kKptzi7zBFFZX5OGQug%2BKnzimjY1ET3SsnkjCMZn6ahe%2BLPW1VzVjFx8mJ7QuTmaLaQMXacQyT3CjSnA%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>19</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/PPT-1547296066.png" width="30" height="30">
+                                                    PPT                                                  </td>
+                                                  <td>POPULOUS</td>
+                                                  <td><a href="https://populous.world/" target="_blank">https://populous.world/</a></td>
+                                                  <td id="Vcount_16">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_16" data-vcid="16" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwFBcjMwOM%2FahUQ841hS7LNyEGm2ZHhu63bsGVyYZVdcbAsW7U6%2F979tuA3OXc%2BgUWjZx8sYtj8kyB4PGHYUHTuqB7aGIzqFXPY9EupmldVO9g%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_16" data-vcid="16" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwFBcjMwOM%2FahUQ841hS7LNyEGm2ZHhu63bsGVyYZVdcbAsW7U6%2F979tuA3OXc%2BgUWjZx8sYtj8kyB4PGHYUHTuqB7aGIzqFXPY9EupmldVO9g%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>20</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/XIN-1547316763.png" width="30" height="30">
+                                                    XIN                                                  </td>
+                                                  <td>MIXIN</td>
+                                                  <td><a href="https://mixin.one/" target="_blank">https://mixin.one/</a></td>
+                                                  <td id="Vcount_20">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_20" data-vcid="20" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwGvDOxthiNPK8xogG4%2BsWa3Hm4mgS3IQQVRIz6T3Ak4bq56sUjT9qSjgRhfuSHvn%2FkBe0lNUGL9ZHesOozTqgnRMK5TYWKdA2M2gZGYf6Ibpw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_20" data-vcid="20" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwGvDOxthiNPK8xogG4%2BsWa3Hm4mgS3IQQVRIz6T3Ak4bq56sUjT9qSjgRhfuSHvn%2FkBe0lNUGL9ZHesOozTqgnRMK5TYWKdA2M2gZGYf6Ibpw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>21</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/LRC-1547316921.png" width="30" height="30">
+                                                    LRC                                                  </td>
+                                                  <td>LOOPRING</td>
+                                                  <td><a href="https://loopring.org/" target="_blank">https://loopring.org/</a></td>
+                                                  <td id="Vcount_21">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_21" data-vcid="21" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwE6%2B2oDoePwbhuNmk%2BW3TpN5s98TzVKV7oUIuTvp7BJFIOGEj8OyHj7WL6%2BDlY9A58YCVSECeY97U9JeK4rj8fXShnjkMHb2IBuZvpw5yHSoQ%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_21" data-vcid="21" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwE6%2B2oDoePwbhuNmk%2BW3TpN5s98TzVKV7oUIuTvp7BJFIOGEj8OyHj7WL6%2BDlY9A58YCVSECeY97U9JeK4rj8fXShnjkMHb2IBuZvpw5yHSoQ%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>22</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/MITH-1547317080.png" width="30" height="30">
+                                                    MITH                                                  </td>
+                                                  <td>MITHRIL</td>
+                                                  <td><a href="https://mith.io/" target="_blank">https://mith.io/</a></td>
+                                                  <td id="Vcount_23">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_23" data-vcid="23" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwFpKh7f%2Ba2iF1lbtuHMuIHXmJEibMdJJq1E0SXRen2VHOsyuooqiYYOipaU%2Bpp3XwegYEKB%2By5G%2FVPieVlCfXiT3X%2BowzfVLaNt6JMHwzfNgw%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_23" data-vcid="23" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwFpKh7f%2Ba2iF1lbtuHMuIHXmJEibMdJJq1E0SXRen2VHOsyuooqiYYOipaU%2Bpp3XwegYEKB%2By5G%2FVPieVlCfXiT3X%2BowzfVLaNt6JMHwzfNgw%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>23</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/XRB-1549044303.png" width="30" height="30">
+                                                    XRB                                                  </td>
+                                                  <td>TURBO</td>
+                                                  <td><a href="http://www.cmexchange.us" target="_blank">http://www.cmexchange.us</a></td>
+                                                  <td id="Vcount_32">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_32" data-vcid="32" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwHPJUNahkOO17wtInnarNfia2NI26FI7N72lp7DkcVsLLJP%2Fc3t02xajEhd5I5c9OaBGbdSa5E4BOttcnpM91QB5yAC%2Fkd%2FKZB68cN19vn8RQ%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_32" data-vcid="32" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwHPJUNahkOO17wtInnarNfia2NI26FI7N72lp7DkcVsLLJP%2Fc3t02xajEhd5I5c9OaBGbdSa5E4BOttcnpM91QB5yAC%2Fkd%2FKZB68cN19vn8RQ%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                                <tr>
+                                                  <td>24</td>
+                                                  <td>
+                                                    <img src="https://cashpayz.exchange/uploads/list-coin/TRM-1550182521.png" width="30" height="30">
+                                                    TRM                                                  </td>
+                                                  <td>TRANIUM</td>
+                                                  <td><a href="https://ico.tranium.org/" target="_blank">https://ico.tranium.org/</a></td>
+                                                  <td id="Vcount_35">6</td>
+                                                  <td>
+                                                    <button type="button" id="VoteCPC_35" data-vcid="35" data-url="https://cashpayz.exchange/process/vote" data-type="AwErQkWDNWm55LhzhV2s4BRVskHMC5OWE3keCxcHBhAVcBwYwiIecsL7WZRErVp7YNkgIXs9t%2FbM0VY%2F68wraVEMze07y02OjJrlEiGEJTwNqw%3D%3D" data-id="AwEGJdsxyI0mS34E8MxDUCLjnprmDAvuNTZJeri5sAhj0j3YBWcD3MkDHLLzNA7vaoqfvuWrRlf5S1WVyHhi5gtn1pTGUP34GfcBYRZ1P%2FDq7g%3D%3D" class="btn btn-primary  btn-xs vote b-r-0">Vote By CPC</button>
+                                                    <button type="button" id="VoteFree_35" data-vcid="35" data-url="https://cashpayz.exchange/process/vote" data-type="AwHvdMlikE2veTxAKUDWD%2Bo%2B5gMOhSv5gi%2FWLsJ3whVb5xUuz7pCSehX33md7LKI%2FJUsMZX0tQqa0b6klLGk5eJFVSYuQfXk3ub%2FyhViG6jBWQ%3D%3D" data-id="AwEGJdsxyI0mS34E8MxDUCLjnprmDAvuNTZJeri5sAhj0j3YBWcD3MkDHLLzNA7vaoqfvuWrRlf5S1WVyHhi5gtn1pTGUP34GfcBYRZ1P%2FDq7g%3D%3D" class="btn btn-warning  btn-xs vote b-r-0">Free Vote</button>
+                                                  </td>
+                                                </tr>
+                                                                                                                                          </tbody>
+                                            </table>
+                                            <div style="margin-top:20px;">
+                                                                                            </div>
+                                          </div>  
+                                        </div>
+                                      </div>
+                                   </div>
+                                </div>
+                             </div>
+                            </div>
+                        </div>
+                    </div> <!-- end col -->
+                </div> <!-- end row -->
+            </div>
+            <!-- end container -->
+        </section>
+        <!-- END HOME --><!-- FOOTER -->
+<footer class="bg-dark-2 footer">
+    <div class="container">
+        <div class="row">
+           <div class="col-xs-6">
+            <p>CashPayz is the world's leading place to trade cryptocurrencies, CashPayz is one of the first ports of call for many when it comes to Bitcoin, Ethereum, and the rest. CashPayz 's app for iOS and Android allows users to buy and sell cryptocurrencies and track prices. It's also a capable wallet for your money, and when it's time to spend, CashPayz will help you find merchants who accept cryptocurrencies as payment.</p>
+            <ul class="list-inline social">
+                <li><a href="https://twitter.com/Cashpayz?s=08" target="_blank" class="bg-twitter"><i class="ti-twitter-alt"></i></a></li>
+                <li><a href="https://plus.google.com/114891756435723165546/" target="_blank" class="bg-googleplus"><i class="ti-google"></i></a></li>
+                <li><a href="https://t.me/CashPayz_Exchange" target="_blank" class="bg-linkedin"><i class="fa fa-paper-plane-o"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UC4Cq-UVZLJtb6J7sTVPVbrQ" target="_blank" class="bg-youtube"><i class="ti-youtube"></i></a></li>
+                <li><a href="https://www.facebook.com/CashPayzExchange/" target="_blank" class="bg-facebook" ><i class="ti-facebook"></i></a></li>
+                <li><a href="https://www.reddit.com/user/CashPayz/" target="_blank" class="bg-googleplus"><i class="ti-reddit"></i></a></li>
+            </ul>
+            </div>
+            <div class="col-xs-2">
+                <!--<h5>Useful Links</h5>-->
+                <ul class="list-unstyled footer-list">
+                    <li><a href="https://cashpayz.exchange/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="https://cashpayz.exchange/terms-and-conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="https://cashpayz.exchange/risk-statement">Risk Statement</a></li>
+                    <li><a href="https://cashpayz.exchange/coin-info">Coin Info</a></li>
+                    <li><a href="https://cashpayz.exchange/fee">Fees</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-xs-2">
+               <!-- <h5>Useful Links</h5>-->
+                <ul class="list-unstyled footer-list">
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="https://cashpayz.exchange/public-api">Public API</a></li>
+                    <li><a href="https://cashpayz.exchange/voting">Voting</a></li>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScOmky31Co4sm-I4o6DO_PP6oWd7DDilxDEbKiQOMgGnYkivA/viewform?vc=0&c=0&w=1" target="_blank">Paid Token Listing</a></li>
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScOmky31Co4sm-I4o6DO_PP6oWd7DDilxDEbKiQOMgGnYkivA/viewform?vc=0&c=0&w=1" target="_blank">Paid Coin Listing</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-xs-2">
+                <!--<h5>Useful Links</h5>-->
+                <ul class="list-unstyled footer-list">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Start Trading</a></li>
+                    <li><a href="#">Promotion</a></li>
+                    <li><a href="https://cashpayz.exchange/support">Contact Us</a></li>
+                </ul>
+            </div>
+
+        </div> <!-- end row -->
+    </div> <!-- end container -->
+</footer> 
+<!-- end FOOTER -->
+<!-- COPYRIGHT -->
+<div class="footer-alt">
+    <p class="copy-rights">2019 &copy; CashPayz All Rights Reserved</p>
+</div>
+  
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/jquery/jquery.js"></script>
+<script >
+    var ExMkt    = $("#ExMkt").val();
+    var ExCrn    = $("#ExCrn").val();
+    var ExMktSeg = $("#ExMktSeg").val();
+    var ExCrnSeg = $("#ExCrnSeg").val();
+    var ExMktCrn = $("#ExMktCrn").val();
+    var BaseURL  = 'https://cashpayz.exchange/';
+    var u        = '';
+    var zero     = (0).toFixed(8);
+    var type     = "";
+    var currency = '';
+    var FeesData = []; 
+</script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/bootstrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/chosen/chosen.jquery.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/velocity/velocity.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/velocity/velocity.ui.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/slider/js/bootstrap-slider.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/filestyle/bootstrap-filestyle.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/animo/animo.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/sparklines/jquery.sparkline.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/slimscroll/jquery.slimscroll.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/app/js/tradify.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/validation/jquery.validate.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/validation/additional-methods.min.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/select2/dist/js/select2.min.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/modernizr/modernizr.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/fastclick/fastclick.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/app/js/comman.js"></script>
+<script type="text/javascript" src="https://cashpayz.exchange/assets/exchange/plugins/jqueryConfirm/jquery-confirm.min.js"></script>
+
+<!--[if lt IE 8]><script src="https://cashpayz.exchange/assets/exchange/js/excanvas.min.js"></script><![endif]-->
+            <script src="https://cashpayz.exchange/assets/exchange/plugins/datatable/media/js/jquery.dataTables.js"></script>
+            <script src="https://cashpayz.exchange/assets/exchange/plugins/datatable/extensions/datatable-bootstrap/js/dataTables.bootstrap.js"></script>
+            <script src="https://cashpayz.exchange/assets/exchange/plugins/datatable/extensions/datatable-bootstrap/js/dataTables.bootstrapPagination.js"></script>
+            <script src="https://cashpayz.exchange/assets/exchange/plugins/datatable/extensions/ColVis/js/dataTables.colVis.js"></script>
+            <script src="https://cashpayz.exchange/assets/exchange/plugins/OwlCarousel/dist/owl.carousel.js"></script>
+            <script src="https://cashpayz.exchange/assets/exchange/validation/vote.js"></script>
+<script>$(document).ready(function(){
+	        												$(".owl-carousel").owlCarousel(
+	        												{
+															    loop:false,
+															    margin:10,
+															    responsive:{
+															        0:{
+															            items:1,
+															        },
+															        600:{
+															            items:3,
+															        },
+															        1000:{
+															            items:5,
+															        }
+															    }
+															});
+														});</script>
+<script>
+
+
+$(document).ready(function()
+{
+    $('.dropdown-submenu a.test').on("click", function(e){
+    $(this).next('ul').toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+    $(".dataTables_filter").addClass("dtcss");
+    $("searchBoxrightTable > .dataTables_filter").addClass("pull-right");
+    $("searchBoxleftTable > .dataTables_filter").addClass("pull-left");
+    $('#commCurrency').select2();
+});
+function copyToClipboard(elementId)
+{
+  var aux = document.createElement("input");
+  aux.setAttribute("value", document.getElementById(elementId).value);
+  document.body.appendChild(aux);
+  aux.select();
+    try 
+    {
+        document.execCommand("copy");
+        alert("Copied to clipboard.");
+    } 
+    catch (err) 
+    {
+        console.log("Error");
+    }
+    document.body.removeChild(aux);
+}
+function copyToClipboard2(elementId)
+{
+  var aux1 = document.createElement("input");
+  aux1.setAttribute("value", $('#'+elementId).text());
+  document.body.appendChild(aux1);
+  aux1.select();
+    try 
+    {
+        document.execCommand("copy");
+        alert("Copied to clipboard.");
+    } 
+    catch (err) 
+    {
+        console.log("Error");
+    }
+    document.body.removeChild(aux1);
+}
+function readURL(input,id)
+{
+  if (input.files && input.files[0])
+  {
+    var reader = new FileReader();
+    reader.onload = function (e)
+    {
+      $('#'+id).attr('src', e.target.result);
+    }
+    reader.readAsDataURL(input.files[0]);
+  }
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-110870899-2', 'auto');
+ga('send', 'pageview');
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    var url='https://cashpayz.exchange/assets/exchange/app/css/app-black.css';
+    var w_logo='https://cashpayz.exchange/assets/exchange/images/logos/Cashpayz-logo-w.png';
+    var logo='https://cashpayz.exchange/assets/exchange/images/logos/Cashpayz-logo.png';
+    var Ref_w='https://cashpayz.exchange/assets/images/refferal/refer-earn32212-w.png';
+    var Ref='https://cashpayz.exchange/assets/images/refferal/refer-earn32212.png';
+    var segment = window.location.href;
+    var base    = 'https://cashpayz.exchange/';
+     if($(".theme-switcher").attr('rel')=="light"){
+      $('#ReffImage > img').attr('src', Ref);
+     }else{
+      $('#ReffImage > img').attr('src', Ref_w);
+     }
+    $(".theme-switcher").click(function(){
+      if($(this).attr('rel')=="light"){
+          $.cookie('the_cookie', 'light', { path: '/' });
+          $('#nightMode').attr('href',url);
+          $(".theme-switcher").attr('rel', 'dark');
+          $('.navbar-brand > img').attr('src', w_logo);
+          $('#ReffImage > img').attr('src', Ref_w);
+          if(segment==base){window.location.href=window.location.href;}
+      }else{
+         $.cookie('the_cookie', 'dark', { path: '/' });
+         $('#nightMode').removeAttr('href');
+         $(".theme-switcher").attr('rel', 'light');
+         $('.navbar-brand > img').attr('src', logo);
+         $('#ReffImage > img').attr('src', Ref);
+          if(segment==base){window.location.href=window.location.href;}
+      }
+    });
+ });
+function PrintElem(elem)
+{
+    var url = 'https://cashpayz.exchange/';
+    var mywindow = window.open('', 'PRINT', 'height=700,width=600');
+    mywindow.document.write('<html><head><title>CashPayz Exchange Authenticator</title>');
+    mywindow.document.write('</head><body >'); 
+    mywindow.document.write(document.getElementById(elem).innerHTML);
+    mywindow.document.write('<span style="position:absolute;text-align:center;bottom:10px">'+url+'</span>');
+    mywindow.document.write('</body></html>');
+
+    mywindow.document.close(); // necessary for IE >= 10
+    mywindow.focus(); // necessary for IE >= 10*/
+
+    mywindow.print();
+    mywindow.close();
+
+    return true;
+}
+</script>
+   </body>   
+</html>

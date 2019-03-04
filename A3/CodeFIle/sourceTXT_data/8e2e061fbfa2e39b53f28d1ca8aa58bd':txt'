@@ -1,0 +1,28 @@
+Create
+Instantly open all the accounts you need.
+Whether you’re a start-up, corporate, market place, developer or fintech, with fire.com you can instantly create multiple sterling and euro accounts and all the debit cards you need. Change the accounts to which the debit cards are linked and move funds between accounts in real time.
+Access
+Pay and get paid using a host of payment services.
+Every fire.com account has a unique IBAN or account number, so you can pay and get paid by bank transfer from any bank in the Eurozone or UK. From direct debits, payment requests to open banking – we are constantly adding new and better ways for you to pay and get paid.
+Control
+Stay in control with the fire.com mobile and web apps.
+Receive real time notifications and alerts with the firework app. Set up multiple users with different access levels. Instantly block and unblock debit cards at any time – giving you ultimate control.
+Build
+Use our API to integrate your systems to fire.com.
+The fire.com API provides read access, event-driven notifications and the ability to initiate payments. Build automated end-to-end payment and reconciliation processes, saving time and reducing manual errors.
+Payment Initiation
+# JSON representation of a batch
+{   "batchUuid": "F2AF3F2B-4406-4199-B249-B354F2CC6019",   "type": "BANK_TRANSFER",   "status":"COMPLETE",   "sourceName": "Payment API",   "batchName": "January 2018 Payroll",   "jobNumber": "2018-01-PR",   "callbackUrl": "https://my.webserver.com/cb/payroll"   "currency":"EUR",    "numberOfItemsSubmitted":1,    "valueOfItemsSubmitted":1000,    "numberOfItemsFailed":0,   "valueOfItemsFailed":0,   "numberOfItemsSucceeded":1,   "valueOfItemsSucceeded":1000,   "lastUpdated":"2018-04-04T10:48:53.540Z",   "dateCreated":"2018-04-04T00:53:21.910Z" }
+Payment Request
+# Full details of an individual payment request.
+{   "code":"p5u6umne",   "type":"SHAREABLE",   "direction":"SENT",   "status":"ACTIVE",   "currency":"EUR",   "amount":500,   "description":"April Membership fees",   "myRef":"April membership fees",   "dateCreated":"2016-04-26T19:03:56.930Z" }
+Webhooks
+curl https://api.fire.com/business/v1/webhooks \ -X GET \ -H "Authorization: Bearer $ACCESS_TOKEN"  {   "webhookEvents": [     {       "webhook": {       "id": 7,       "businessId": 2,       "webhookUrl": "https://mysite.com/webhook/7384"     },       "events": [ "LODGEMENT_RECEIVED" ]      }   ] }
+Trust
+Regulated and built to the highest standards.
+fire.com has been regulated to provide a range of payment services since 2010. With offices in London & Dublin, the team consists of experienced payments professionals. All client funds are segregated, ring fenced and held with tier-one financial institutions.
+Fire Financial Services Limited is regulated by the Central Bank of Ireland (C58301).
+Case Studies
+GRID Finance
+December 12, 2018
+How we are helping one of Ireland's fastest growing business lenders automate their payment and reconciliation processes using the fire.com API.

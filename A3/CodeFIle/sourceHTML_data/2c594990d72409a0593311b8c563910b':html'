@@ -1,0 +1,824 @@
+<!-- MHonArc v2.6.19 -->
+<!--X-Subject: Re: [net&#45;next] net: crypto set sk to NULL when af_alg_release. -->
+<!--X-From-R13: znbjrana &#60;znbjranaNuhnjrv.pbz> -->
+<!--X-Date: Sat, 16 Feb 2019 00:35:03 &#45;0800 -->
+<!--X-Message-Id: bcbde376&#45;cad1&#45;92d2&#45;f2b6&#45;0a91733dc82c@huawei.com -->
+<!--X-Content-Type: text/plain -->
+<!--X-Reference: 20190215142415.149153&#45;1&#45;maowenan@huawei.com -->
+<!--X-Head-End-->
+<!doctype html public "-//W3C//DTD HTML//EN">
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Linux Kernel: Re: [net-next] net: crypto set sk to NULL when af_alg_release.">
+<meta name="og:title" content="Linux Kernel: Re: [net-next] net: crypto set sk to NULL when af_alg_release.">
+<meta property="og:type" content="website" />
+<link rel="alternate" type="application/rss+xml" title="Linux Kernel" href="//feedproxy.google.com/LkmlLinuxKernelArchive">
+<title>Re: [net-next] net: crypto set sk to NULL when af_alg_release. &mdash; Linux Kernel</title>
+<style>
+<!--
+ pre {white-space: pre-wrap;}
+-->
+</style>
+<script type="text/javascript">
+ function toggleMe(a){
+ var e=document.getElementById(a);
+ var b=document.getElementById("abtn");
+ if(!e)return true;
+ if(e.style.display=="none"){
+ e.style.display="block"
+ b.style.display="none"
+ }
+ else{
+ e.style.display="none"
+ }
+ return true;
+ }
+</script>
+</head>
+<body itemscope itemtype="https://schema.org/Article" vlink=green>
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<script>
+  (function() {
+    var cx = 'partner-pub-3422782820843221:4730684408';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<h1 itemprop="name">Re: [net-next] net: crypto set sk to NULL when af_alg_release.</h1>
+[<a href="msg3045714.html">Date Prev</a>][<a href="msg3045716.html">Date Next</a>][<a href="msg3045066.html">Thread Prev</a>][<a href="msg3046139.html">Thread Next</a>][<a href="maillist.html#3045715">Date Index</a>][<a href="threads.html#3045715">Thread Index</a>] 
+<p>&nbsp;<br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive test for archives -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3422782820843221"
+     data-ad-slot="6345952567"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+<ul>
+<li><em>To</em>: &lt;netdev@xxxxxxxxxxxxxxx&gt;, &lt;davem@xxxxxxxxxxxxx&gt;,        &lt;xiyou.wangcong@xxxxxxxxx&gt;, &lt;linux-kernel@xxxxxxxxxxxxxxx&gt;,        &lt;maowenan@xxxxxxxxxx&gt;</li>
+<li><em>Subject</em>: Re: [net-next] net: crypto set sk to NULL when af_alg_release.</li>
+<li><em>From</em>: maowenan &lt;maowenan@xxxxxxxxxx&gt;</li>
+<li><em>Date</em>: Sat, 16 Feb 2019 16:31:43 +0800</li>
+<li><em>References</em>: &lt;<a href="msg3045066.html">20190215142415.149153-1-maowenan@huawei.com</a>&gt;</li>
+<li><em>User-agent</em>: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Thunderbird/45.2.0</li>
+</ul>
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5196c2ae1be43d18&async=1&domready=1" async defer></script>
+<!-- AddThis Button END -->
+<hr>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive link 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3422782820843221"
+     data-ad-slot="8681825769"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p>
+<div class="content" itemprop="articleBody">
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre>who can help review this patch?
+thank you.
+
+On 2019/2/15 22:24, Mao Wenan wrote:
+&gt;<i> KASAN has found use-after-free in sockfs_setattr.</i>
+&gt;<i> The existed commit 6d8c50dcb029 (&quot;socket: close race condition between sock_close()</i>
+&gt;<i> and sockfs_setattr()&quot;) is to fix this simillar issue, but it seems to ignore</i>
+&gt;<i> that crypto module forgets to set the sk to NULL after af_alg_release.</i>
+&gt;<i> </i>
+&gt;<i> KASAN report details as below:</i>
+&gt;<i> BUG: KASAN: use-after-free in sockfs_setattr+0x120/0x150</i>
+&gt;<i> Write of size 4 at addr ffff88837b956128 by task syz-executor0/4186</i>
+&gt;<i> </i>
+&gt;<i> CPU: 2 PID: 4186 Comm: syz-executor0 Not tainted xxx + #1</i>
+&gt;<i> Hardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS</i>
+&gt;<i> 1.10.2-1ubuntu1 04/01/2014</i>
+&gt;<i> Call Trace:</i>
+&gt;<i>  dump_stack+0xca/0x13e</i>
+&gt;<i>  print_address_description+0x79/0x330</i>
+&gt;<i>  ? vprintk_func+0x5e/0xf0</i>
+&gt;<i>  kasan_report+0x18a/0x2e0</i>
+&gt;<i>  ? sockfs_setattr+0x120/0x150</i>
+&gt;<i>  sockfs_setattr+0x120/0x150</i>
+&gt;<i>  ? sock_register+0x2d0/0x2d0</i>
+&gt;<i>  notify_change+0x90c/0xd40</i>
+&gt;<i>  ? chown_common+0x2ef/0x510</i>
+&gt;<i>  chown_common+0x2ef/0x510</i>
+&gt;<i>  ? chmod_common+0x3b0/0x3b0</i>
+&gt;<i>  ? __lock_is_held+0xbc/0x160</i>
+&gt;<i>  ? __sb_start_write+0x13d/0x2b0</i>
+&gt;<i>  ? __mnt_want_write+0x19a/0x250</i>
+&gt;<i>  do_fchownat+0x15c/0x190</i>
+&gt;<i>  ? __ia32_sys_chmod+0x80/0x80</i>
+&gt;<i>  ? trace_hardirqs_on_thunk+0x1a/0x1c</i>
+&gt;<i>  __x64_sys_fchownat+0xbf/0x160</i>
+&gt;<i>  ? lockdep_hardirqs_on+0x39a/0x5e0</i>
+&gt;<i>  do_syscall_64+0xc8/0x580</i>
+&gt;<i>  entry_SYSCALL_64_after_hwframe+0x49/0xbe</i>
+&gt;<i> RIP: 0033:0x462589</i>
+&gt;<i> Code: f7 d8 64 89 02 b8 ff ff ff ff c3 66 0f 1f 44 00 00 48 89 f8 48 89</i>
+&gt;<i> f7 48 89 d6 48 89</i>
+&gt;<i> ca 4d 89 c2 4d 89 c8 4c 8b 4c 24 08 0f 05 &lt;48&gt; 3d 01 f0 ff ff 73 01 c3</i>
+&gt;<i> 48 c7 c1 bc ff ff</i>
+&gt;<i> ff f7 d8 64 89 01 48</i>
+&gt;<i> RSP: 002b:00007fb4b2c83c58 EFLAGS: 00000246 ORIG_RAX: 0000000000000104</i>
+&gt;<i> RAX: ffffffffffffffda RBX: 000000000072bfa0 RCX: 0000000000462589</i>
+&gt;<i> RDX: 0000000000000000 RSI: 00000000200000c0 RDI: 0000000000000007</i>
+&gt;<i> RBP: 0000000000000005 R08: 0000000000001000 R09: 0000000000000000</i>
+&gt;<i> R10: 0000000000000000 R11: 0000000000000246 R12: 00007fb4b2c846bc</i>
+&gt;<i> R13: 00000000004bc733 R14: 00000000006f5138 R15: 00000000ffffffff</i>
+&gt;<i> </i>
+&gt;<i> Allocated by task 4185:</i>
+&gt;<i>  kasan_kmalloc+0xa0/0xd0</i>
+&gt;<i>  __kmalloc+0x14a/0x350</i>
+&gt;<i>  sk_prot_alloc+0xf6/0x290</i>
+&gt;<i>  sk_alloc+0x3d/0xc00</i>
+&gt;<i>  af_alg_accept+0x9e/0x670</i>
+&gt;<i>  hash_accept+0x4a3/0x650</i>
+&gt;<i>  __sys_accept4+0x306/0x5c0</i>
+&gt;<i>  __x64_sys_accept4+0x98/0x100</i>
+&gt;<i>  do_syscall_64+0xc8/0x580</i>
+&gt;<i>  entry_SYSCALL_64_after_hwframe+0x49/0xbe</i>
+&gt;<i> </i>
+&gt;<i> Freed by task 4184:</i>
+&gt;<i>  __kasan_slab_free+0x12e/0x180</i>
+&gt;<i>  kfree+0xeb/0x2f0</i>
+&gt;<i>  __sk_destruct+0x4e6/0x6a0</i>
+&gt;<i>  sk_destruct+0x48/0x70</i>
+&gt;<i>  __sk_free+0xa9/0x270</i>
+&gt;<i>  sk_free+0x2a/0x30</i>
+&gt;<i>  af_alg_release+0x5c/0x70</i>
+&gt;<i>  __sock_release+0xd3/0x280</i>
+&gt;<i>  sock_close+0x1a/0x20</i>
+&gt;<i>  __fput+0x27f/0x7f0</i>
+&gt;<i>  task_work_run+0x136/0x1b0</i>
+&gt;<i>  exit_to_usermode_loop+0x1a7/0x1d0</i>
+&gt;<i>  do_syscall_64+0x461/0x580</i>
+&gt;<i>  entry_SYSCALL_64_after_hwframe+0x49/0xbe</i>
+&gt;<i> </i>
+&gt;<i> Syzkaller reproducer:</i>
+&gt;<i> r0 = perf_event_open(&amp;(0x7f0000000000)={0x0, 0x70, 0x0, 0x0, 0x0, 0x0,</i>
+&gt;<i> 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0,</i>
+&gt;<i> 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0,</i>
+&gt;<i> 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, @perf_config_ext}, 0x0, 0x0,</i>
+&gt;<i> 0xffffffffffffffff, 0x0)</i>
+&gt;<i> r1 = socket$alg(0x26, 0x5, 0x0)</i>
+&gt;<i> getrusage(0x0, 0x0)</i>
+&gt;<i> bind(r1, &amp;(0x7f00000001c0)=@alg={0x26, 'hash\x00', 0x0, 0x0,</i>
+&gt;<i> 'sha256-ssse3\x00'}, 0x80)</i>
+&gt;<i> r2 = accept(r1, 0x0, 0x0)</i>
+&gt;<i> r3 = accept4$unix(r2, 0x0, 0x0, 0x0)</i>
+&gt;<i> r4 = dup3(r3, r0, 0x0)</i>
+&gt;<i> fchownat(r4, &amp;(0x7f00000000c0)='\x00', 0x0, 0x0, 0x1000)</i>
+&gt;<i> </i>
+&gt;<i> Fixes: 6d8c50dcb029 (&quot;socket: close race condition between sock_close() and sockfs_setattr()&quot;)</i>
+&gt;<i> Signed-off-by: Mao Wenan &lt;maowenan@xxxxxxxxxx&gt;</i>
+&gt;<i> ---</i>
+&gt;<i>  crypto/af_alg.c | 4 +++-</i>
+&gt;<i>  1 file changed, 3 insertions(+), 1 deletion(-)</i>
+&gt;<i> </i>
+&gt;<i> diff --git a/crypto/af_alg.c b/crypto/af_alg.c</i>
+&gt;<i> index 17eb09d222ff..ec78a04eb136 100644</i>
+&gt;<i> --- a/crypto/af_alg.c</i>
+&gt;<i> +++ b/crypto/af_alg.c</i>
+&gt;<i> @@ -122,8 +122,10 @@ static void alg_do_release(const struct af_alg_type *type, void *private)</i>
+&gt;<i>  </i>
+&gt;<i>  int af_alg_release(struct socket *sock)</i>
+&gt;<i>  {</i>
+&gt;<i> -	if (sock-&gt;sk)</i>
+&gt;<i> +	if (sock-&gt;sk) {</i>
+&gt;<i>  		sock_put(sock-&gt;sk);</i>
+&gt;<i> +		sock-&gt;sk = NULL;</i>
+&gt;<i> +	}</i>
+&gt;<i>  	return 0;</i>
+&gt;<i>  }</i>
+&gt;<i>  EXPORT_SYMBOL_GPL(af_alg_release);</i>
+&gt;<i> </i>
+
+
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+</div>
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<ul><li><strong>References</strong>:
+<ul>
+<li><strong><a name="3045066" href="msg3045066.html">[net-next] net: crypto set sk to NULL when af_alg_release.</a></strong>
+<ul><li><em>From:</em> Mao Wenan</li></ul></li>
+</ul></li></ul>
+<!--X-References-End-->
+<!--X-BotPNI-->
+<ul>
+<li>Prev by Date:
+<strong><a href="msg3045714.html">Re: [v5] Coccinelle: semantic code search for missing put_device()</a></strong>
+</li>
+<li>Next by Date:
+<strong><a href="msg3045716.html">Re: [v5] coccinelle: semantic code search for missingput_device()</a></strong>
+</li>
+<li>Previous by thread:
+<strong><a href="msg3045066.html">[net-next] net: crypto set sk to NULL when af_alg_release.</a></strong>
+</li>
+<li>Next by thread:
+<strong><a href="msg3046139.html">Re: [net-next] net: crypto set sk to NULL when af_alg_release.</a></strong>
+</li>
+<li>Index(es):
+<ul>
+<li><a href="maillist.html#3045715"><strong>Date</strong></a></li>
+<li><a href="threads.html#3045715"><strong>Thread</strong></a></li>
+</ul>
+</li>
+</ul>
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<center>
+<a href=/lists/>[Index&nbsp;of&nbsp;Archives]</a>
+<p>
+<div id="lnks" style="display: none;">
+&nbsp;
+<a href=/lists/announce-kernel/>[Kernel&nbsp;Announce]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kexec/>[Kexec]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/live-patching/>[Kernel&nbsp;Live&nbsp;Patching]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/newbies/>[Linux&nbsp;Kernel&nbsp;Newbies]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-driver-devel/>[Linux&nbsp;Driver&nbsp;Development]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/devicetree/>[Devicetree]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dmaengine/>[DMA&nbsp;Engine]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-efi/>[Linux&nbsp;EFI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/backports/>[Linux&nbsp;Backports]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-kbuild/>[Linux&nbsp;Kbuild]</a>
+&nbsp;
+&nbsp;
+<a href=/linux/fedora/fedora-kernel/>[Fedora&nbsp;Kernel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kernel-testers/>[Linux&nbsp;Kernel&nbsp;Testers]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-sh/>[Linux&nbsp;for&nbsp;SuperH]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-omap/>[Linux&nbsp;Omap]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-tape/>[Linux&nbsp;Tape]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-input/>[Linux&nbsp;Input]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-leds/>[Linux&nbsp;LEDS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-kernel-janitors/>[Linux&nbsp;Kernel&nbsp;Janitors]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-kernel-packagers/>[Linux&nbsp;Kernel&nbsp;Packagers]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-doc/>[Linux&nbsp;Doc]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-man/>[Linux&nbsp;Man&nbsp;Pages]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-api/>[Linux&nbsp;API]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-mm/>[Linux&nbsp;Memory&nbsp;Management]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/iommu/>[IO&nbsp;Memory&nbsp;Management&nbsp;Unit]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-modules/>[Linux&nbsp;Modules]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-standards/>[Linux&nbsp;Standards]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/netdev/>[Netdev]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/tcpinst-wg/>[TCP Instrumentation]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/git/>[Git]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-pci/>[Linux&nbsp;PCI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-gpio/>[Linux&nbsp;GPIO]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-spi/>[Linux&nbsp;SPI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-can/>Linux&nbsp;CAN&nbsp;Development]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-i2c/>[Linux&nbsp;I<sup>2</sup>C]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dmaengine/>[DMA&nbsp;Engine]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-rdma/>[Linux&nbsp;RDMA]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-numa/>[Linux&nbsp;NUMA]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/netfilter/>[Netfilter]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/netfilter-devel/>[Netfilter&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/selinux/>[SELinux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/bugtraq/>[Bugtraq]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/fio/>[FIO]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-perf-users/>[Linux&nbsp;Perf&nbsp;Users]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-serial/>[Linux&nbsp;Serial]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-ppp/>[Linux&nbsp;PPP]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-isdn/>[Linux&nbsp;ISDN]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-next/>[Linux&nbsp;Next]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/stable/>[Stable&nbsp;Kernel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/stable-commits/>[Kernel&nbsp;Stable&nbsp;Commits]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-tip-commits/>[Linux&nbsp;Tip&nbsp;Commits]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/mm-commits/>[Kernel&nbsp;MM&nbsp;Commits]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-security-module/>[Linux&nbsp;Security&nbsp;Module]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/autofs>[AutoFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-fsdevel/>[Filesystem&nbsp;Development]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ext3/>[Ext3&nbsp;Filesystem]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-bcache/>[Linux&nbsp;bcache]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-ext4/>[Ext4&nbsp;Filesystem]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-btrfs/>[Linux&nbsp;BTRFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ceph-devel/>[Linux&nbsp;CEPH&nbsp;Filesystem]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-xfs/>[Linux&nbsp;XFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/xfs/>[XFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-nfs/>[Linux&nbsp;NFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-cifs/>[Linux&nbsp;CIFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ecryptfs/>[Ecryptfs]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-nilfs/>[Linux&nbsp;NILFS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-cachefs/>[Linux&nbsp;Cachefs]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/reiserfs-devel/>[Reiser&nbsp;FS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-initramfs/>[Initramfs]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-fbdev/>[Linux&nbsp;FB&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-opengl/>[Linux&nbsp;OpenGL]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/intel-gfx/>[Intel&nbsp;GFX]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dri-devel/>[DRI&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/fastboot/>[Fastboot]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-rt-users/>[Linux&nbsp;RT&nbsp;Users]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/rt-stable/>[Linux&nbsp;RT&nbsp;Stable]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ecos/>[eCos]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/corosync/>[Corosync]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/cluster/>[Linux&nbsp;Clusters]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/lvs-devel/>[LVS&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/hotplug/>[Hot&nbsp;Plug]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-virtualization/>[Linux&nbsp;Virtualization]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kvm/>[KVM]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kvm-ppc/>[KVM&nbsp;PPC]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kvm-ia64/>[KVM&nbsp;ia64]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-containers/>[Linux&nbsp;Containers]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-hexagon/>[Linux&nbsp;Hexagon]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/cgroups/>[Linux&nbsp;Cgroups]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/util-linux-ng/>[Util&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-wireless/>[Wireless]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ath6kl/>[ATH6KL]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-wimax/>[WiMAX]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-bluetooth/>[Linux&nbsp;Bluetooth]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/bluez-devel/>[Bluez&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-ethernet-bridging/>[Ethernet&nbsp;Bridging]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-embedded/>[Embedded&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/u-boot-v2/>[Barebox]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-mmc/>[Linux&nbsp;MMC]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-iio/>[Linux&nbsp;IIO]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-sparse/>[Sparse]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/smatch/>[Smatch]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/trinity/>[Trinity&nbsp;Fuzzer&nbsp;Tool]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-arch/>[Linux&nbsp;Arch]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/platform-driver-x86/>[x86&nbsp;Platform&nbsp;Driver]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-acpi/>[Linux&nbsp;ACPI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ibm-acpi-devel/>[Linux&nbsp;IBM&nbsp;ACPI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/Remote&nbsp;Processor/>[Remote&nbsp;Processor]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/lm-sensors/>[LM&nbsp;Sensors]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/cpufreq/>[CPU&nbsp;Freq]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-pm/>[Linux&nbsp;Power&nbsp;Management]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linmodem/>[Linmodems]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dccp/>[Linux&nbsp;DCCP]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-sctp/>[Linux&nbsp;SCTP]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/alsa-devel/>[ALSA&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-usb/>[Linux&nbsp;USB]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-parisc/>[Linux&nbsp;PA&nbsp;RISC]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-soc/>[Linux&nbsp;SOC]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-samsung-soc/>[Linux&nbsp;Samsung&nbsp;SOC]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/mips/>[MIPS&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-s390/>[IBM&nbsp;S/390&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/arm/>[ARM&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/arm-kernel/>[ARM&nbsp;Kernel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-arm-msm/>[ARM&nbsp;MSM]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-tegra/>[Tegra&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/sparclinux/>[Sparc&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/security/>[Linux&nbsp;Security]</a>
+&nbsp;
+&nbsp;
+<a href=/linux/fedora/linux-sound/>[Linux&nbsp;Sound]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-media/>[Linux&nbsp;Media]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/vfl/>[Video&nbsp;4&nbsp;Linux]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/irda-users/>[Linux&nbsp;IRDA&nbsp;Users]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/blinux/>[Linux&nbsp;for&nbsp;the&nbsp;blind]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/raid/>[Linux&nbsp;RAID]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/ataraid/>[Linux&nbsp;ATA&nbsp;RAID]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dm-devel/>[Device&nbsp;Mapper]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-scsi/>[Linux&nbsp;SCSI]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/target-devel/>[SCSI&nbsp;Target&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-stgt/>[Linux&nbsp;SCSI&nbsp;Target&nbsp;Infrastructure]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-ide/>[Linux&nbsp;IDE]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-smp/>[Linux&nbsp;SMP]</a>
+&nbsp;
+&nbsp;
+<a href=/linux/fedora/axp/>[Linux&nbsp;AXP]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-alpha/>[Linux&nbsp;Alpha]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-ia64/>[Linux&nbsp;ia64]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-metag/>[Linux&nbsp;MetaG]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-m68k/>[Linux&nbsp;M68K]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-8086/>[Linux&nbsp;8086]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-x86_64/>[Linux&nbsp;x86_64]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-config/>[Linux&nbsp;Config]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-apps/>[Linux&nbsp;Apps]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-msdos/>[Linux&nbsp;MSDOS]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-x25/>[Linux&nbsp;X.25]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-crypto/>[Linux&nbsp;Crypto]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dm-crypt/>[DM&nbsp;Crypt]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-trace/>[Linux&nbsp;Trace&nbsp;Users]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-btrace/>[Linux&nbsp;Btrace]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-watchdog/>[Linux&nbsp;Watchdog]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/utrace-devel/>[Utrace&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-c-programming/>[Linux&nbsp;C&nbsp;Programming]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-assembly/>[Linux&nbsp;Assembly]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dash/>[Dash]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/dwarves/>[DWARVES]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/hail-devel/>[Hail&nbsp;Devel]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/kdb/>[Linux&nbsp;Kernel&nbsp;Debugger]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/linux-gcc/>[Linux&nbsp;gcc]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/gcchelp/>[Gcc&nbsp;Help]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/xorg/>[X.Org]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/irqbalance/>[IRQ&nbsp;Balanace]</a>
+</font>
+</div>
+<p>
+<div id="abtn"><input type="button" onclick="return toggleMe('lnks')" value="Show more archives"></div>
+<p>
+<table width=100%>
+<tr>
+<td align=left>&nbsp;</td>
+<td align=right><a href=/linux><img src=/button_01.gif border=0 alt="Powered by Linux"></a></td>
+</tr>
+</table>
+<br>
+<p>
+<a href=/lists/kernel/old/>[<b>Older&nbsp;Kernel&nbsp;Discussion<b>]</a>
+&nbsp;
+&nbsp;
+<a href=https://yosemitenews.info/>[Yosemite&nbsp;National&nbsp;Park&nbsp;Forum]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/gimp>[Gimp]</a>
+&nbsp;
+&nbsp;
+<a href=http://www.ske-art.com/stuff/>[Stuff]</a>
+&nbsp;
+&nbsp;
+<a href=/lists/>[Index&nbsp;of&nbsp;Other&nbsp;Archives]</a>
+</center>
+<p>
+<hr>
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-3422782820843221"
+     data-ad-slot="1424524564"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<!--X-User-Footer-End-->
+<script type="text/javascript"> 
+ function initAddThis() {
+    addthis.init()
+ }
+initAddThis();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-760190-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

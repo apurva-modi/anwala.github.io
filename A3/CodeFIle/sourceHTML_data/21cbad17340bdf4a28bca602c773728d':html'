@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Bitcoin Price</title>
+<style type="text/css">
+body p {
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+</style>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P8BJFH2');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8BJFH2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<p>Since we produce many videos, we've decided to split them up so you can subscribe to only the content you want.</p>
+<p>New Youtube Channels.</p>
+<p><a href="https://www.youtube.com/channel/UCOnpQ157OF3sVA8HjIe1vhA">bitcoin charts</a></p>
+<p><a href="https://www.youtube.com/channel/UCIywek5Iphy6IzT2DdsocDQ">altcoin charts</a></p>
+<p><a href="https://www.youtube.com/channel/UC27COO9SIv1uPf1zqXmG11w">crypto big picture forecast</a></p>
+<p>For real time buy sell signals, go to <a href="http://bitcoin-signals.org">bitcoin-signals.org</a></p>
+<p>NEW!: <a href="https://www.youtube.com/channel/UC3l0cp9ujIIsSc5Dq3SE4Dw">The Stock Markets</a></p>
+</body>
+</html>

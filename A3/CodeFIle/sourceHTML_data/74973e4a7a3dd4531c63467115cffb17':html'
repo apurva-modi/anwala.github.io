@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://news.accurateft.com/xmlrpc.php">
+    <title>Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued &#8211; Accu-rate</title>
+<link rel='dns-prefetch' href='//news.accurateft.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Accu-rate &raquo; Feed" href="https://news.accurateft.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Accu-rate &raquo; Comments Feed" href="https://news.accurateft.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Accu-rate &raquo; Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued Comments Feed" href="https://news.accurateft.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/news.accurateft.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-google-font-css'  href='https://fonts.googleapis.com/css?family=Poppins&#038;ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-style-1-css'  href='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/css/newspaper-lite.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-style-css'  href='http://news.accurateft.com/wp-content/themes/newspaper-lite/style.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-responsive-css'  href='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/css/newspaper-lite-responsive.css?ver=1.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://news.accurateft.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://news.accurateft.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.accurateft.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.accurateft.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Why the SEC’s ‘ICO Guide’ Paints a Dark Picture for Cryptocurrency in 2019' href='https://news.accurateft.com/2019/02/16/why-the-secs-ico-guide-paints-a-dark-picture-for-cryptocurrency-in-2019/' />
+<link rel='next' title='This Wall Street Analyst Forecast Tesla’s Dominance. Here’s What He Says Will Shake up the Auto Industry Next.' href='https://news.accurateft.com/2019/02/16/this-wall-street-analyst-forecast-teslas-dominance-heres-what-he-says-will-shake-up-the-auto-industry-next/' />
+<meta name="generator" content="WordPress 4.9.9" />
+<link rel="canonical" href="https://news.accurateft.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" />
+<link rel='shortlink' href='https://news.accurateft.com/?p=1558' />
+<link rel="alternate" type="application/json+oembed" href="https://news.accurateft.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.accurateft.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.accurateft.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.accurateft.com%2F2019%2F02%2F16%2Finterview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued%2F&#038;format=xml" />
+        <style type="text/css">
+            #content .block-header, #content .related-articles-wrapper .widget-title-wrapper, #content .widget .widget-title-wrapper,
+			 #secondary .block-header, #secondary .widget .widget-title-wrapper, #secondary .related-articles-wrapper .widget-title-wrapper{background:none; background-color:transparent!important}
+#content .block-header .block-title:after, #content .related-articles-wrapper .related-title:after, #content .widget .widget-title:after{border:none}
+        </style>
+        		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="post-template-default single single-post postid-1558 single-format-standard default_skin fullwidth_layout right-sidebar">
+<div id="page" class="site">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    <header id="masthead" class="site-header">
+        <div class="custom-header">
+
+		<div class="custom-header-media">
+					</div>
+
+</div><!-- .custom-header -->
+                <div class="top-header-section">
+            <div class="mgs-container">
+                <div class="top-left-header">
+                                <div class="date-section">
+                Sunday, March 03, 2019            </div>
+                                <nav id="top-header-navigation" class="top-navigation">
+                                            </nav>
+                </div>
+                            <div class="top-social-wrapper">
+                            </div><!-- .top-social-wrapper -->
+                        </div> <!-- mgs-container end -->
+        </div><!-- .top-header-section -->
+
+        <div class="logo-ads-wrapper clearfix">
+            <div class="mgs-container">
+                <div class="site-branding">
+                                                                <div class="site-title-wrapper">
+                                                            <p class="site-title"><a href="https://news.accurateft.com/"
+                                                         rel="home">Accu-rate</a></p>
+                                                            <p class="site-description">Financial Industry News</p>
+                                                    </div><!-- .site-title-wrapper -->
+                                        </div><!-- .site-branding -->
+                                <div class="header-ads-wrapper ">
+                                    </div><!-- .header-ads-wrapper -->
+            </div>
+        </div><!-- .logo-ads-wrapper -->
+
+        <div id="mgs-menu-wrap" class="bottom-header-wrapper clearfix">
+            <div class="mgs-container">
+                <div class="home-icon"><a href="https://news.accurateft.com/" rel="home"> <i
+                                class="fa fa-home"> </i> </a></div>
+                <a href="javascript:void(0)" class="menu-toggle"> <i class="fa fa-navicon"> </i> </a>
+                <nav id="site-navigation" class="main-navigation">
+                    <div class="menu"><ul>
+<li class="page_item page-item-2"><a href="https://news.accurateft.com/sample-page/">Accurate Fintech</a></li>
+</ul></div>
+                </nav><!-- #site-navigation -->
+                <div class="header-search-wrapper">
+                    <span class="search-main"><i class="fa fa-search"></i></span>
+                    <div class="search-form-main clearfix">
+                        <form role="search" method="get" class="search-form" action="https://news.accurateft.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                    </div>
+                </div><!-- .header-search-wrapper -->
+            </div><!-- .mgs-container -->
+        </div><!-- #mgs-menu-wrap -->
+
+
+    </header><!-- #masthead -->
+        
+    <div id="content" class="site-content">
+        <div class="mgs-container">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-1558" class="post-1558 post type-post status-publish format-standard hentry category-dlt">
+		<header class="entry-header">
+		            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-5"><a
+                                href="https://news.accurateft.com/category/dlt/">dlt</a></span>
+                                </div>
+            		<h1 class="entry-title">Interview With Crypto ‘Optimist’ Brian Kelly: Bitcoin Is Still 50 Percent Undervalued</h1>
+		<div class="entry-meta">
+			<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://news.accurateft.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-16T21:52:00+00:00">February 16, 2019</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://news.accurateft.com/author/admin/">admin</a></span></span>			<span class="comments-link"><a href="https://news.accurateft.com/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/#respond">Comment(0)</a></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p dir="ltr"><span><span><em>This interview has been edited and condensed.</em></span></span></p>
+<p>The author of the &#8220;The Bitcoin Big Bang — How Alternative Currencies Are About to Change the World,&#8221; Brian Kelly calls himself an optimist when it comes to the future of the cryptocurrencies. CNBC’s prominent commentator, who is also the founder and CEO of digital currency investment firm <a href="https://bkcm.co/" rel="nofollow,noopener" target="_blank">BKCM LLC</a>, analyzes markets on an everyday basis and tends to be 50 percent right “trading-wise.”</p>
+<p>We met with Brian Kelly at the Crypto Finance Conference in Switzerland and talked about Bitcoin ETFs, the next financial crisis, and the best and worst jobs at the same time.</p>
+<p><strong>Catherine Ross: The most obvious question to you is, what is 2019 going to look like for the crypto industry?</strong></p>
+<p><strong>Brian Kelly: </strong>That&#8217;s a great question! The trillion dollar question. I think it&#8217;s going to be better than 2018, which is a pretty low bar.</p>
+<p><strong>CR: In terms of what?</strong></p>
+<p><strong>BK:</strong> As an investor, my number one concern is price. I look at the price and I say that we&#8217;ve seen three or four of these kind of <a href="https://cointelegraph.com/news/a-dazzling-history-of-bitcoins-ups-and-downs" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/a-dazzling-history-of-bitcoins-ups-and-downs/amp">boom-and-bust cycles in Bitcoin</a>. If you look at the most recent two or so, we&#8217;re following roughly the same path as we’ve had, which means we&#8217;re somewhere closer to the end. We might have another dip lower — it wouldn&#8217;t surprise me at all.</p>
+<p><strong>CR: Lower that $3,000? </strong></p>
+<p><strong>BK:</strong> Sure.</p>
+<p dir="ltr"><em>It wouldn&#8217;t surprise me if it [Bitcoin’s price] went to $1,500. </em></p>
+<p><strong>CR: And you feel it&#8217;s going to be short term?</strong></p>
+<p><strong>BK:</strong> I think very short term. And I think we&#8217;re coming to an end. Here&#8217;s the thing, the sellers that we&#8217;ve seen recently are almost forced sellers. Some CEOs had to raise cash because they say they “can&#8217;t hold it in crypto all the time.” These are signs of the end. I don&#8217;t know if it [the end of the cycle] is here or it&#8217;s a little bit lower, but those are the signs of the end.</p>
+<p>In 2019, if I&#8217;m looking at it, the focus will be on the currency — Bitcoin, Litecoin, some of those — because we have quite a bit of geopolitical tension in the world.</p>
+<p><strong>CR: And you feel it is contributing to the price?</strong></p>
+<p><strong>BK:</strong> Yes. We&#8217;re starting to see some global macro players use Bitcoin as an alternative to their gold position or as a way to hedge against fiat currency fluctuations and volatility.</p>
+<p><strong>CR: Using Bitcoin instead of gold?</strong></p>
+<p><strong>BK: </strong>Yeah.</p>
+<p><strong>CR: But is it stable enough?</strong></p>
+<p><strong>BK: </strong>No (laughs).</p>
+<p>But they&#8217;re not looking for stability, right? They&#8217;re looking for a safe haven that&#8217;s uncorrelated to every other asset. So, for an investor and a speculator, the stability is actually not what you want.</p>
+<p>You want that volatility because you&#8217;re trying to get good returns. You&#8217;re trying to get something that&#8217;s uncorrelated to everything else. And that persists through 2019, and it starts to get to be more of a quote-unquote mainstream asset within the investment community.</p>
+<p><img alt="BKCM" src="https://s3.cointelegraph.com/storage/uploads/view/c710d69a39cc9ec5692d7dc679df6793.jpg" title="BKCM"/></p>
+<p dir="ltr">One of the most anticipated events in the crypto industry is the approval of a Bitcoin ETF, which hasn’t happened yet, despite the numerous attempts. Last year alone, companies and institutions like the <a href="https://www.nyse.com/index" rel="nofollow,noopener" target="_blank">NYSE</a>, <a href="https://www.vaneck.com/" rel="nofollow,noopener" target="_blank">VanEck</a>, <a href="https://sldx.com/" rel="nofollow,noopener" target="_blank">SolidX</a>, <a href="http://www.proshares.com/" rel="nofollow,noopener" target="_blank">Proshares</a> and internet entrepreneurs the Winklevoss brothers (whose first attempt in 2017 <a href="https://cointelegraph.com/news/breaking-etf-denied-bitcoin-price-drops-from-1350-to-980-within-hours" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/breaking-etf-denied-bitcoin-price-drops-from-1350-to-980-within-hours/amp">failed</a>) all filed with the United States Securities and Exchange Commision (<a href="https://www.sec.gov/" rel="nofollow,noopener" target="_blank">SEC</a>), but were rejected or are awaiting a decision.</p>
+<p>The most recent development on the matter is the SEC’s <a href="https://cointelegraph.com/news/sec-starts-review-of-nyse-arcas-bitcoin-etf-rule-change-proposal" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sec-starts-review-of-nyse-arcas-bitcoin-etf-rule-change-proposal/amp">review</a> of a <a href="https://www.nyse.com/markets/nyse-arca" rel="nofollow,noopener" target="_blank">NYSE Arca’</a>s Bitcoin ETF rule change proposal on Feb. 11. The proposal suggests “to list and trade shares of the Bitwise Bitcoin ETF Trust under NYSE Arca Rule 8.201-E.” This might end up being positive for the market, given the latest statement from SEC Commissioner Robert J. Jackson Jr. Speaking to Washington D.C.-based publication Roll Call on Feb. 6, he said, “Eventually, do I think someone will satisfy the standards that we’ve laid out there? I hope so, yes, and I think so.”</p>
+<p><strong>CR: One more very important question for you — will there be an ETF in 2019?</strong></p>
+<p dir="ltr"><strong>BK: </strong>No shot.</p>
+<p><strong>CR: I’m going to <a href="https://cointelegraph.com/news/crypto-analyst-brian-kelly-no-shot-for-bitcoin-etf-in-2019" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-analyst-brian-kelly-no-shot-for-bitcoin-etf-in-2019/amp">put that in the headline</a>! “No shot for an ETF in 2019,” says Brian Kelly.</strong></p>
+<p><strong>BK: </strong>That’s fine! I would bet against it. I don&#8217;t think it’s going to happen this year. There&#8217;s too much unresolved that is going to take longer than a year to resolve and before the SEC gets comfortable with what&#8217;s going on.</p>
+<p><strong>CR: What kind of time frame are we talking about?</strong></p>
+<p dir="ltr"><strong>BK: </strong>I think 2020 is a very good shot.</p>
+<p><strong>CR: Sounds promising! But major companies, like <a href="https://cointelegraph.com/news/swiss-crypto-exchange-shapeshift-lays-off-a-third-of-its-team" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/swiss-crypto-exchange-shapeshift-lays-off-a-third-of-its-team/amp">ShapeShift</a> and <a href="https://cointelegraph.com/news/report-consensys-to-lay-off-up-to-60-of-its-staff" data-amp="https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/report-consensys-to-lay-off-up-to-60-of-its-staff/amp">Consensys</a> had to lay off a lot of employees recently. What does this indicate? </strong></p>
+<p><strong>BK: </strong>This is a part of the maturation process. We all got caught up in the big bubble. That being said, this is just a very natural part of the process. There are, unfortunately, some very good people that had to be laid off just because of market circumstances.</p>
+<p dir="ltr">It doesn&#8217;t feel great right now, but it will make the industry stronger.</p>
+<p><strong>CR: From the trading point of view, what are the major signs or indicators of bullish and bearish markets?</strong></p>
+<p><strong>BK: </strong>You look at the bottoms and the tops.</p>
+<p>I can remember in November and December — and even frankly in January, a year ago — I was getting phone calls daily like “How can I get into your fund?” “I need to get into that.” And we [at BKCM LLC] do a monthly entry and it&#8217;s not something that you get into every day.</p>
+<p>That was happening at the peak. At the bottom, the phone does not ring. It&#8217;s the exact opposite. The euphoria that we saw last year is a mirror image of the pessimism we&#8217;re seeing now. And so, what you want to look for at bottoms are extreme pessimism.</p>
+<p><strong>CR: Are you’re talking about technical analysis? </strong></p>
+<p><strong>BK:</strong> Sentiment, really.</p>
+<p><strong>CR: And what about fundamental analysis? How does it look for the crypto industry? </strong></p>
+<p dir="ltr"><strong>BK:</strong> It&#8217;s interesting! We have a proprietary model that gives the fair value for people.</p>
+<p dir="ltr"><em>Right now Bitcoin is about 50 percent undervalued. </em></p>
+<p>So, you could have a significant upside. That being said, we&#8217;ve seen that a couple of times in the last year. We saw that in April of 2018 — a huge run in Bitcoin.</p>
+<p>And that&#8217;s what I&#8217;m talking about sentiment. So, the sentiment in the market has pushed the price of Bitcoin well below what you would consider a fair value — or at least, what I would consider fair. And that&#8217;s another sign that we&#8217;re near a bottom.</p>
+<p><strong>CR: How does analyzing crypto markets differ from analyzing traditional financial markets? </strong></p>
+<p dir="ltr"><strong>BK: </strong>Sentiment wise, no difference. Human beings are human beings. Fear and greed, booms and busts. In terms of how people trade markets, how people react to price movements — also no difference.</p>
+<p>But on the fundamental side, there is a very big difference. It&#8217;s probably closer to foreign currency analysis, where you analyze supply and demand, and what&#8217;s going to affect the supply and demand factors.</p>
+<p>In the traditional currency world, supply and demand might be impacted by central banks. In the crypto world, the supply-demand being impacted by the miner-supply versus the investor-demand at this point in time. So, it&#8217;s a little different.</p>
+<p>There&#8217;s a big learning curve to getting into analyzing cryptocurrencies. It&#8217;s not like if you were analyzing airlines or the auto industry and you could immediately jump over and apply the same tools — these are very different tools.</p>
+<p><strong>CR: And how did you start in the financial world?</strong></p>
+<p><strong>BK: </strong>I started as one of those annoying cold callers back in the 1990s. And I&#8217;d describe it as the best job on the worst job I&#8217;ve ever had in my life.</p>
+<p><strong>CR: Can you elaborate?</strong></p>
+<p><strong>BK:</strong> It was the worst job because every day I would come into the office. I worked at Lehman Brothers [Eds: Lehman Brothers was the fourth-largest <a href="https://en.wikipedia.org/wiki/Investment_bank" rel="nofollow,noopener" target="_blank">investment bank</a> and global <a href="https://en.wikipedia.org/wiki/Financial_services" rel="nofollow,noopener" target="_blank">financial services</a> firm in the United States. In September 2008, it filed for bankruptcy, which, many believed, started a global economic crisis]. They would hand me a stack of 700 phone numbers — I was supposed to dial two phones at once. My only job was — I wasn&#8217;t allowed to pick stocks or anything like that — to connect the person on the other end with the broker.</p>
+<p><img alt="INNER" src="https://s3.cointelegraph.com/storage/uploads/view/bcad7ca97b43c799cd30f9b174029fe3.jpg" title="INNER"/></p>
+<p dir="ltr">I did that all day long as a summer internship, and then I did it a little bit after I graduated. But despite it being mind-numbingly boring, it taught me a lot about sales and human interaction. It didn&#8217;t teach me too much about the stock market. But it did give me a really good foundation in how people think about the stock market and investing. That&#8217;s where I started.</p>
+<p>Then, I was an equity sales trader. Then, I started a company called MKM Partners, which is an institutional broker dealer. After that, I started a global macro fund, trading foreign currency — and that got me into the Bitcoin world.</p>
+<p><strong>CR: How many times were you right in your analysis or predictions?</strong></p>
+<p><strong>BK: </strong>Generally speaking, if I&#8217;m right slightly more than 50 percent of the time, I consider that good. On a longer-term basis, trading-wise, I&#8217;m generally right about 60 percent of the time — there&#8217;s some good periods and some bad periods. But it&#8217;s important for people to understand that&#8230;</p>
+<p dir="ltr">It doesn&#8217;t matter how many times you&#8217;re right and how many times you&#8217;re wrong; it matters how much you make when you&#8217;re right and how much you lose when you&#8217;re wrong.</p>
+<p dir="ltr">You have to have that ratio right. You could be right only 30 percent of the time and still make a lot of money as long as you make three times more on your right predictions as you do on your losses.</p>
+<p dir="ltr"><strong>CR: You’ve mentioned that you started at Lehman Brothers. Can I ask you how many years ago it was?</strong></p>
+<p><strong>BK:</strong> In 1991 — 28 years ago. Long time!</p>
+<p><strong>CR: So, 17 years before the <a href="https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp" rel="nofollow,noopener" target="_blank">2008 financial crisis</a>, right? Did you see any signs of it coming?</strong></p>
+<p><strong>BK:</strong> I wish I could say I saw that. I knew something was wrong, but I can’t say that I predicted that.</p>
+<p><strong>CR: Have you seen any indicators of the real estate bubble [Eds: the housing and credit bubble most analysts call the reason for the 2008 financial crisis] back then?</strong></p>
+<p><strong>BK: </strong>Without question — the real estate looked like a bubble! Not too dissimilar from what we saw with the crypto ICOs bubble. So yes, you could see the signs of trouble. The problem with seeing them is that it’s very hard to predict when they&#8217;re going to end.</p>
+<p><strong>CR: And the real consequences, probably.</strong></p>
+<p><strong>BK:</strong> Yeah, the real cost. For me, in 2007, when Bear Stearns [Eds: the now defunct New York-based investment bank, securities trading and brokerage firm] <a href="https://www.cnbc.com/id/23630235" rel="nofollow,noopener" target="_blank">got bailed out by the Federal Reserve</a>, that was the first signal for me that something was very, very wrong.</p>
+<p><strong>CR: Is it at all possible to predict the next financial crisis? There are a lot of headlines about the <a href="https://www.economist.com/leaders/2018/10/11/the-next-recession" rel="nofollow,noopener" target="_blank" data-amp="https://amp-economist-com.cdn.ampproject.org/c/s/amp.economist.com/leaders/2018/10/11/the-next-recession">looming recession</a> and <a href="https://www.washingtonpost.com/news/theworldpost/wp/2018/10/10/financial-crisis/?utm_term=.f8c46a949ea7" rel="nofollow,noopener" target="_blank">upcoming financial crisis</a>. Should we prepare ourselves for the worst?</strong></p>
+<p><strong>BK:</strong> I can almost guarantee you we&#8217;ll head to another recession. There&#8217;s never been a period of time where we don&#8217;t have a recession — it&#8217;s just the business cycle. You know the Federal Reserve sometimes thinks that they can short-circuit the business cycle. But eventually, you will have another recession.</p>
+<p><strong>CR: It&#8217;s just the way the market works, right?</strong></p>
+<p><strong>BK:</strong> Yes, but this one is going be a little different than the other ones we&#8217;ve had.</p>
+<p><strong>CR: How so?</strong></p>
+<p>Because what we&#8217;ve done lately is taken all the risk off of the private balance sheets and put them onto the government balance sheets. And so that&#8217;s a very different scenario. And that&#8217;s very positive for crypto. If you think about what backs a fiat currency — [it’s the] full faith and credit of the government.</p>
+<p><em>If the government debts are to a point where they can&#8217;t pay it, then the credit of the government is in question. You may want to look for an alternative type of currency. </em></p>
+<p>And so I don&#8217;t know when we&#8217;re going to have that [recession] — in 2016, I thought that was going to be the beginning of it.</p>
+<p><strong>CR: Do you see the signs of the start of the recession right now?</strong></p>
+<p><strong>BK: </strong>There are some signs.</p>
+<p><strong>CR: Not major, I assume?</strong></p>
+<p><strong>BK: </strong>There are some signs — but no, not major. My hesitation is that I still think the Federal Reserve has some leverage to pull, before we go into a full-blown recession. So, I think there’s still time — and I don&#8217;t know if it&#8217;s going to be a year or three years — where the Federal Reserve will be trying a bunch of things to make sure we don&#8217;t go into recession, and that could prolong this period.</p>
+<p><strong>CR: And it really does look positive for the crypto industry!</strong></p>
+<p><strong>BK:</strong> Absolutely! I mean, you know, call me an optimist, but this looks very positive.</p>
+<p dir="ltr">Even though there are signs of the bottom — when everybody says it&#8217;s going away — that&#8217;s what I love to hear.</p>
+<p dir="ltr"><em>If everybody agrees that crypto is going away — that&#8217;s the time I want to buy. </em></p>
+<p dir="ltr">I don&#8217;t think crypto is going away. In fact, I see it becoming much more of a mainstream asset. I think the next two years could see Bitcoin — and I what I would call the other currencies, probably five or six of kind of “pure currencies” — I think you could see those play a major role in investors portfolio over the next two years.</p>
+<p><span><em><span>Cointelegraph editorial team thanks Brian Kelly and the </span><a href="https://www.crypto-finance-conference.com/en/" rel="nofollow,noopener" target="_blank">Crypto Finance Conference</a>  <span>for the interview.</span></em></span></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+            <div class="newspaper-lite-author-wrapper clearfix">
+                <div class="author-avatar">
+                    <a class="author-image"
+                       href="https://news.accurateft.com/author/admin/"><img alt='' src='http://0.gravatar.com/avatar/0f6523a1babac463e96c3db46292f3f8?s=132&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0f6523a1babac463e96c3db46292f3f8?s=264&#038;d=mm&#038;r=g 2x' class='avatar avatar-132 photo' height='132' width='132' /></a>
+                </div><!-- .author-avatar -->
+                <div class="author-desc-wrapper">
+                    <a class="author-title"
+                       href="https://news.accurateft.com/author/admin/">admin</a>
+                    <div class="author-description"></div>
+                    <a href=""
+                       target="_blank"></a>
+                </div><!-- .author-desc-wrapper-->
+            </div><!--newspaper-lite-author-wrapper-->
+                        <div class="related-articles-wrapper">
+                <div class="widget-title-wrapper">
+                    <h2 class="related-title">Related Articles</h2>
+                </div>
+                <div class="related-posts-wrapper clearfix">                        <div class="single-post-wrap">
+                            <div class="post-thumb-wrapper">
+                                <a href="https://news.accurateft.com/2019/02/25/analyst-bitcoin-price-must-hit-this-key-level-to-exit-bear-market/" title="Analyst: Bitcoin Price Must Hit This Key Level to Exit Bear Market">
+                                    <figure></figure>
+                                </a>
+                            </div><!-- .post-thumb-wrapper -->
+                            <div class="related-content-wrapper">
+                                            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-5"><a
+                                href="https://news.accurateft.com/category/dlt/">dlt</a></span>
+                                </div>
+                                            <h3 class="post-title"><a href="https://news.accurateft.com/2019/02/25/analyst-bitcoin-price-must-hit-this-key-level-to-exit-bear-market/">Analyst: Bitcoin Price Must Hit This Key Level to Exit Bear Market</a>
+                                </h3>
+                                <div class="post-meta-wrapper">
+                                    <span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://news.accurateft.com/2019/02/25/analyst-bitcoin-price-must-hit-this-key-level-to-exit-bear-market/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-25T17:48:25+00:00">February 25, 2019</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://news.accurateft.com/author/admin/">admin</a></span></span>                                </div>
+                                <p>In the wake of Sunday’s crypto massacre, shell-shocked investors have been left with dashed dreams and a lingering question: Will bitcoin’s bear market ever end? Crypto brokerage BitOoda says that the answer lies in two price levels: $4,200 and $6,000 – levels with which retail buyers need to become more acquainted. Bitcoin Price Facing Strong [&hellip;]</p>
+                            </div><!-- related-content-wrapper -->
+                        </div><!--. single-post-wrap -->
+                                                <div class="single-post-wrap">
+                            <div class="post-thumb-wrapper">
+                                <a href="https://news.accurateft.com/2019/02/15/bitcoin-price-watch-btc-buyers-eye-next-crucial-bullish-break/" title="Bitcoin Price Watch: BTC Buyers Eye Next Crucial Bullish Break">
+                                    <figure></figure>
+                                </a>
+                            </div><!-- .post-thumb-wrapper -->
+                            <div class="related-content-wrapper">
+                                            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-2"><a
+                                href="https://news.accurateft.com/category/banking/">banking</a></span>
+                                        <span class="category-button mgs-cat-5"><a
+                                href="https://news.accurateft.com/category/dlt/">dlt</a></span>
+                                </div>
+                                            <h3 class="post-title"><a href="https://news.accurateft.com/2019/02/15/bitcoin-price-watch-btc-buyers-eye-next-crucial-bullish-break/">Bitcoin Price Watch: BTC Buyers Eye Next Crucial Bullish Break</a>
+                                </h3>
+                                <div class="post-meta-wrapper">
+                                    <span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://news.accurateft.com/2019/02/15/bitcoin-price-watch-btc-buyers-eye-next-crucial-bullish-break/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-15T06:30:18+00:00">February 15, 2019</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://news.accurateft.com/author/admin/">admin</a></span></span>                                </div>
+                                <p>Bitcoin price dived with bearish moves and retested the key $3,540 support area against the US Dollar. There is a crucial declining channel in place with resistance at $3,585 on the hourly chart of the BTC/USD pair (data feed from Kraken). A break above the channel resistance and $3,600 could spark more upsides in the [&hellip;]</p>
+                            </div><!-- related-content-wrapper -->
+                        </div><!--. single-post-wrap -->
+                                                <div class="single-post-wrap">
+                            <div class="post-thumb-wrapper">
+                                <a href="https://news.accurateft.com/2019/02/28/square-reports-biggest-bitcoin-revenue-to-date-at-52m/" title="Square Reports Biggest Bitcoin Revenue To Date At $52M">
+                                    <figure></figure>
+                                </a>
+                            </div><!-- .post-thumb-wrapper -->
+                            <div class="related-content-wrapper">
+                                            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-5"><a
+                                href="https://news.accurateft.com/category/dlt/">dlt</a></span>
+                                </div>
+                                            <h3 class="post-title"><a href="https://news.accurateft.com/2019/02/28/square-reports-biggest-bitcoin-revenue-to-date-at-52m/">Square Reports Biggest Bitcoin Revenue To Date At $52M</a>
+                                </h3>
+                                <div class="post-meta-wrapper">
+                                    <span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://news.accurateft.com/2019/02/28/square-reports-biggest-bitcoin-revenue-to-date-at-52m/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-28T08:00:42+00:00">February 28, 2019</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://news.accurateft.com/author/admin/">admin</a></span></span>                                </div>
+                                <p>Square, the payment network from Twitter CEO Jack Dorsey, turned more Bitcoin revenue in Q4 2018 than at any time since it began support for the cryptocurrency. Q4 Beats Bitcoin Record Data from the company’s Q4 earnings report this week confirmed its Bitcoin sales topped $52 million, beating Q3’s $43 million and far outstripping the [&hellip;]</p>
+                            </div><!-- related-content-wrapper -->
+                        </div><!--. single-post-wrap -->
+                        </div>            </div><!-- .related-articles-wrapper -->
+            
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://news.accurateft.com/2019/02/16/why-the-secs-ico-guide-paints-a-dark-picture-for-cryptocurrency-in-2019/" rel="prev">Why the SEC’s ‘ICO Guide’ Paints a Dark Picture for Cryptocurrency in 2019</a></div><div class="nav-next"><a href="https://news.accurateft.com/2019/02/16/this-wall-street-analyst-forecast-teslas-dominance-heres-what-he-says-will-shake-up-the-auto-industry-next/" rel="next">This Wall Street Analyst Forecast Tesla’s Dominance. Here’s What He Says Will Shake up the Auto Industry Next.</a></div></div>
+	</nav>
+<div id="comments" class="comments-area">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2019/02/16/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://news.accurateft.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1558' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+		<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://news.accurateft.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<div class="widget-title-wrapper"><h4 class="widget-title">Recent Posts</h4></div>		<ul>
+											<li>
+					<a href="https://news.accurateft.com/2019/03/03/erik-zhang-on-neo-3-0-could-neo-be-the-number-one-blockchain-by-2020/">Erik Zhang on NEO 3.0: Could NEO be the Number One Blockchain by 2020?</a>
+									</li>
+											<li>
+					<a href="https://news.accurateft.com/2019/03/03/are-teslas-death-traps-failing-brakes-and-violent-fires-spark-major-fears/">Are Teslas Death Traps? Failing Brakes and Violent Fires Spark Major Fears</a>
+									</li>
+											<li>
+					<a href="https://news.accurateft.com/2019/03/03/want-to-insult-a-black-person-call-them-a-prop-cohen-hearing-brought-out-the-worst/">Want to Insult a Black Person? Call Them a Prop; Cohen Hearing Brought Out the Worst</a>
+									</li>
+											<li>
+					<a href="https://news.accurateft.com/2019/03/03/heres-why-twitter-ceo-jack-dorsey-co-are-stacking-bitcoin/">Here’s Why Twitter CEO Jack Dorsey &amp; Co. Are ‘Stacking’ Bitcoin</a>
+									</li>
+											<li>
+					<a href="https://news.accurateft.com/2019/03/03/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3850/">Most Top Cryptos See Minor Losses as Bitcoin Hovers Over $3,850</a>
+									</li>
+					</ul>
+		</section><section id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-title-wrapper"><h4 class="widget-title">Recent Comments</h4></div><ul id="recentcomments"></ul></section><section id="archives-2" class="widget widget_archive"><div class="widget-title-wrapper"><h4 class="widget-title">Archives</h4></div>		<ul>
+			<li><a href='https://news.accurateft.com/2019/03/'>March 2019</a></li>
+	<li><a href='https://news.accurateft.com/2019/02/'>February 2019</a></li>
+	<li><a href='https://news.accurateft.com/2019/01/'>January 2019</a></li>
+	<li><a href='https://news.accurateft.com/2018/12/'>December 2018</a></li>
+	<li><a href='https://news.accurateft.com/2018/11/'>November 2018</a></li>
+	<li><a href='https://news.accurateft.com/2018/10/'>October 2018</a></li>
+	<li><a href='https://news.accurateft.com/2018/09/'>September 2018</a></li>
+		</ul>
+		</section><section id="categories-2" class="widget widget_categories"><div class="widget-title-wrapper"><h4 class="widget-title">Categories</h4></div>		<ul>
+	<li class="cat-item cat-item-2"><a href="https://news.accurateft.com/category/banking/" >banking</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://news.accurateft.com/category/corda/" >corda</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://news.accurateft.com/category/dlt/" >dlt</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://news.accurateft.com/category/enterprise_blockchain/" >enterprise_blockchain</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://news.accurateft.com/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</section><section id="meta-2" class="widget widget_meta"><div class="widget-title-wrapper"><h4 class="widget-title">Meta</h4></div>			<ul>
+						<li><a href="https://news.accurateft.com/wp-login.php">Log in</a></li>
+			<li><a href="https://news.accurateft.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://news.accurateft.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</section>	</aside><!-- #secondary -->
+		</div><!--.mgs-container-->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+						<div id="bottom-footer" class="sub-footer-wrapper clearfix">
+				<div class="mgs-container">
+					<div class="site-info">
+						<span class="copy-info">2018 newspaper-lite</span>
+						<span class="sep"> | </span>
+						Newspaper Lite by <a href="http://store.mirrorgrid.com/" >Mirrorgrid Store</a>.					</div><!-- .site-info -->
+					<nav id="footer-navigation" class="sub-footer-navigation" >
+											</nav>
+				</div>
+			</div><!-- .sub-footer-wrapper -->
+	</footer><!-- #colophon -->
+	<div id="mgs-scrollup" class="animated arrow-hide"><i class="fa fa-chevron-up"></i></div>
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/lib/bxslider/jquery.bxslider.min.js?ver=4.2.12'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/lib/sticky/jquery.sticky.js?ver=20150416'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/lib/sticky/sticky-setting.js?ver=20150309'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-content/themes/newspaper-lite/assets/js/custom-script.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://news.accurateft.com/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+
+</body>
+</html>

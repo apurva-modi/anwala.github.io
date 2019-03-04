@@ -1,0 +1,565 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>GLAD.network - Global Advertising Token</title>
+        <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
+<meta name="description" content="GLAD is a ERC20 based token which will be used in GLAD platform for Online Advertising.">
+<meta name="keywords" content="glad, glad.network, advertising, advertisement, advertisement network, distributed advertising network, programmatic buying, demand side platform, data management platform, real time bidding">
+<meta property="og:type" content="URL">
+<meta property="og:url" content="https://glad.network">
+<meta property="og:title" content="Global Advertising Token">
+<meta property="og:image" content="https://glad.network/assets/front/images/splash-logo.jpg">
+<meta property="og:description" content="GLAD is a ERC20 based token which will be used in GLAD platform for Online Advertising.">
+<meta name="csrf-token" content="OYnAN0df4A75nq0sX8gZ4YOMIGkDvqGtgn36NT1h">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/front/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/front/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/front/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/front/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/front/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/front/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/front/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/front/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/front/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/front/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/front/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/front/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/front/images/favicon/favicon-16x16.png">
+    <link rel="stylesheet" href="/assets/front/css/glad.panel.css">
+<link rel="manifest" href="/assets/front/images/favicon/manifest.json">
+<link rel="stylesheet" href="/assets/front/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/front/css/glad.css">
+<link rel="stylesheet" href="/assets/front/css/counter.css">
+<script src="/assets/front/js/jquery-3.3.1.min.js"></script>
+<script src="/assets/front/js/parsley.min.js"></script>
+<script src="/assets/front/js/custom.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118773920-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-118773920-1');
+</script>
+
+<script type="text/javascript" async src="//app.theadx.com/px?t=s&z=716"></script>
+<script>
+    function theadxPixel(src) {
+        var img = document.createElement("img");
+        img.src = src;
+        img.width = 1;
+        img.height = 1;
+        img.alt = "";
+        document.body.appendChild(img);
+    }
+</script>
+<!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+        a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nzhhr');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+    </head>
+    <body id="top">
+
+        <img src="https://glad.network/assets/front/images/splash-logo.jpg" alt="GLAD.Network - Global Advertising Token" style="display:none;">
+        <div class="telegram-chat">
+            <a href="https://web.telegram.org/#/im?p=@gladcoin" target="_blank">
+                <img src="/assets/front/images/icon-telegram-color.svg" alt="Telegram">
+                <span>Join our Telegram group and ask us anyting.</span>
+            </a>
+        </div>
+        <!-- NAV -->
+<nav class="navbar navbar-expand-lg fixed-top">
+    <a class="navbar-brand" href="/">
+        <img src="/assets/front/images/glad-logo-black.svg" alt="" width="80" height="24">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarGlad"
+            aria-controls="navbarGlad" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarGlad">
+        <ul id="gladNavbar" class="navbar-nav">
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/ecosystem">Ecosystem</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/ad-exchanges">Ad Exchanges</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/blockchain">Blockchain</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/community">Community</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/#whitepaper">Whitepaper</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/airdrop">Airdrop</a></li>
+            
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/#roadmap">Roadmap</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/#team">Team</a></li>
+            
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/#faq">FAQ</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://glad.network/#contact">Contact</a></li>
+            
+                            <li class="nav-item"><a class="nav-link" href="https://glad.network/register">Sign Up</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://glad.network/login">Login</a></li>
+                    </ul>
+    </div>
+</nav>
+            <!-- HERO -->
+<section class="page-hero airdrop-hero">
+    <div class="container">
+        <h1><span>Global Advertising Token</span>AIRDROP GIVES<br> 100+ GLAD TOKENS </h1>
+        <div class="slogan">
+            <p>With GLAD Airdrop program, you can earn up <strong>$10</strong> worth of GLAD tokens.<br>
+                Participate now and don't miss out our airdrop.</p>
+        </div>
+                    <div id="page-main-features" class="actions">
+                <button class="btn-white" data-toggle="modal" onclick="openSignUpModal(); return false;">Sign Up</button>
+                <button class="btn-white" data-toggle="modal" onclick="openLoginModal(); return false;">Login</button>
+                <a id="videoModalButton" class="btn-white" href="javascrtipt:;" data-toggle="modal" data-target="#videoModal">Watch our Airdrop Video</a>
+            </div>
+            </div>
+    <div class="diagonal-bottom-left d-white"></div>
+</section>
+    <!-- CONTACT -->
+
+<section id="contact" class="container airdrop">
+    <h1><span>WITH OUR AIRDROP PROGRAM, EARN</span>100+ GLAD TOKENS</h1>
+    <div class="glad-price">1 GLAD = ~$0.11 = 0.00001500 BTC (After ICO)</div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class=" airdrop-quest">
+                <span class="airdrop-prize">50<span>($5.5)</span></span>
+                <h2>Register &amp; Telegram Join</h2>
+                <p>
+                    Register here and join our telegram group  and write <b> /join_airdrop</b> and follow bot instructions to earn <strong>50 GLAD</strong>.
+                    <br>
+                                            <a class="btn-blue" href="javascript:;" onclick="openSignUpModal(); return false;">Sign Up</a>
+                        <a class="btn-blue" href="javascript:;" onclick="openLoginModal(); return false;">Login</a>
+                                                                                    <a class="btn-blue" href="https://web.telegram.org/#/im?p=@gladcoin" target="_blank">Join Group</a>
+                        <a class="btn-blue" href="https://web.telegram.org/#/im?p=@gladchannel" target="_blank">Join Channel</a>
+                    
+                </p>
+                
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class=" airdrop-quest">
+                <span class="airdrop-prize">35<span>($3.85)</span></span>
+                <h2>Twitter follow &amp; retweet &amp; tweet</h2>
+                <p>
+                    Follow us on twitter and retweet our tweet to earn <strong>35 GLAD</strong>.
+                    <br>
+                                           <a class="btn-blue" href="javascript:;" onclick="openSignUpModal(); return false;">Sign Up</a>
+                        <a class="btn-blue" href="javascript:;" onclick="openLoginModal(); return false;">Login</a>
+                                        <a class="btn-blue" href="https://twitter.com/glad_coin" target="_blank">Follow</a>
+                    <a class="btn-blue" href="javascript:;" data-toggle="modal" data-target="#shareModal">Retweet</a>
+                                            <a class="btn-blue" href="javascript:;" onclick="openLoginModal(); return false;">Tweet</a>
+                                    </p>
+
+                            </div>
+        </div>
+        <div class="col-md-6">
+            <div class=" airdrop-quest">
+                <span class="airdrop-prize">+1<span>($0.11)</span></span>
+                <h2>Telegram Invite</h2>
+                <p>
+                    Invite your friends to our telegram group and earn <strong>+1 GLAD</strong> for every one of your joined friend.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class=" airdrop-quest">
+                <span class="airdrop-prize">+15<span>($1.65)</span></span>
+                <h2>Referral</h2>
+                <p>Bring your friend to join us and earn <strong>+15 GLAD</strong> upon completion of your friend's airdrop telegram registration.
+                    <br>
+                                            <a class="btn-blue" href="javascript:;" onclick="openSignUpModal();">Sign Up</a>
+                        <a class="btn-blue" href="javascript:;" onclick="openLoginModal();">Login</a>
+                                    </p>
+                            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>Rules</h2>
+            <ul>
+                <li>All questions about this airdrop program in our telegram group</li>
+                <li>Remember, your friend must join the telegram group and send the /join_airdrop command to the telegram bot.</li>
+                <li>The tokens will be closed for 15 days. After 15 days, it will be checked and unlocked.</li>
+                <li>After you complete all the actions required for the related airdrop reward, transactions could take an hour to show up on your panel.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+<script>
+    function copyReferralLink() {
+
+        var copyText = document.getElementById("refcode");
+        
+        copyText.select();
+        document.execCommand("Copy");
+        $("#btnCopyRefCode").html("Copied");
+        setTimeout(function(){
+            $("#btnCopyRefCode").html("Copy")
+        },1000);
+    }
+</script>
+    <section class="login-modals">
+	<!-- Login Modal -->
+	<div class="modal fade login-modal inputModal" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="loginModalLabel">Login</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="glad-panel-login">
+						<a class="logo" href="https://glad.network"><img src="/assets/front/images/glad-logo-white.svg" alt="GLAD.Network - Global Advertising Platform"></a>
+						<form class="glad-login-form" method="POST" action="https://glad.network/login">
+							<input type="hidden" name="_token" value="OYnAN0df4A75nq0sX8gZ4YOMIGkDvqGtgn36NT1h">
+																					<input type="text" placeholder="E-Mail" type="email" name="email" value="" required autofocus>
+														<input type="password"  id="password" type="password" name="password" required placeholder="Password">
+							<script type="text/javascript">
+        var RecaptchaOptions = {"curl_timeout":1,"curl_verify":true,"theme":"dark"};
+    </script>
+<script src='https://www.google.com/recaptcha/api.js?render=onload'></script>
+<div class="g-recaptcha" data-sitekey="6LdY5lMUAAAAABeONsxZkQe_B8Tix2ZcmhQUyPsB" data-theme="dark"></div>
+<noscript>
+    <div style="width: 302px; height: 352px;">
+        <div style="width: 302px; height: 352px; position: relative;">
+            <div style="width: 302px; height: 352px; position: absolute;">
+                <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LdY5lMUAAAAABeONsxZkQe_B8Tix2ZcmhQUyPsB"
+                        frameborder="0" scrolling="no"
+                        style="width: 302px; height:352px; border-style: none;">
+                </iframe>
+            </div>
+            <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+                  bottom: 21px; left: 25px; margin: 0; padding: 0; right: 25px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                  class="g-recaptcha-response"
+                  style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+                         margin: 0; padding: 0; resize: none;"></textarea>
+            </div>
+        </div>
+    </div>
+</noscript>
+
+							<label class="forgot-password">
+									<input type="checkbox" name="remember" >
+									Remember Me
+							</label>
+							<button type="submit">Login</button>
+
+							<a class="glad-panel-link" onclick="openSignUpModal();">Login to your account</a>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Sign Up Modal -->
+	<div class="modal fade signup-modal inputModal" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="signUpModal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="signUpModalLabel">Sign Up</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="glad-panel-login">
+						<a class="logo" href="https://glad.network"><img src="/assets/front/images/glad-logo-white.svg" alt="GLAD.Network - Global Advertising Platform"></a>
+						<form class="glad-login-form"  method="POST" action="https://glad.network/register">
+							<input type="hidden" name="_token" value="OYnAN0df4A75nq0sX8gZ4YOMIGkDvqGtgn36NT1h">
+																					<input type="text" placeholder="Name" id="name" type="text" name="name" value="" required autofocus>
+														<input type="text" placeholder="E-Mail" id="email" type="email" name="email" value="" required>
+														<input type="password" placeholder="Password" name="password" required>
+							<input type="password" placeholder="Password (Confirm)" id="password-confirm" type="password" name="password_confirmation" required>
+															<input id="ref_code" type="text" name="ref_code" placeholder="Referral Code">
+																					<script type="text/javascript">
+        var RecaptchaOptions = {"curl_timeout":1,"curl_verify":true,"theme":"dark"};
+    </script>
+<script src='https://www.google.com/recaptcha/api.js?render=onload'></script>
+<div class="g-recaptcha" data-sitekey="6LdY5lMUAAAAABeONsxZkQe_B8Tix2ZcmhQUyPsB" data-theme="dark"></div>
+<noscript>
+    <div style="width: 302px; height: 352px;">
+        <div style="width: 302px; height: 352px; position: relative;">
+            <div style="width: 302px; height: 352px; position: absolute;">
+                <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LdY5lMUAAAAABeONsxZkQe_B8Tix2ZcmhQUyPsB"
+                        frameborder="0" scrolling="no"
+                        style="width: 302px; height:352px; border-style: none;">
+                </iframe>
+            </div>
+            <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+                  bottom: 21px; left: 25px; margin: 0; padding: 0; right: 25px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                  class="g-recaptcha-response"
+                  style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+                         margin: 0; padding: 0; resize: none;"></textarea>
+            </div>
+        </div>
+    </div>
+</noscript>
+
+							<button onclick="theadxPixel('//app.theadx.com/px?t=i&z=720');">Sign Up</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Share & Retweet Modal -->
+<div class="modal fade share-modal" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="shareModalLabel">Retweet</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<blockquote class="twitter-tweet" data-lang="tr"><p lang="en" dir="ltr">We are happy to announce that our new airdrop program is officially live! Visit <a href="https://t.co/lVOlgq2Fu5">https://t.co/lVOlgq2Fu5</a>  for more info!<a href="https://twitter.com/hashtag/Airdrop?src=hash&amp;ref_src=twsrc%5Etfw">#Airdrop</a> <a href="https://twitter.com/hashtag/airdropalert?src=hash&amp;ref_src=twsrc%5Etfw">#airdropalert</a> <a href="https://twitter.com/hashtag/freecoins?src=hash&amp;ref_src=twsrc%5Etfw">#freecoins</a>  <a href="https://twitter.com/hashtag/cryptocurrency?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrency</a> <a href="https://twitter.com/hashtag/Advertising?src=hash&amp;ref_src=twsrc%5Etfw">#Advertising</a> <a href="https://twitter.com/hashtag/paywithcrypto?src=hash&amp;ref_src=twsrc%5Etfw">#paywithcrypto</a> <a href="https://twitter.com/hashtag/Crypto?src=hash&amp;ref_src=twsrc%5Etfw">#Crypto</a> <a href="https://twitter.com/hashtag/BTC?src=hash&amp;ref_src=twsrc%5Etfw">#BTC</a> <a href="https://twitter.com/hashtag/coinsmarkets?src=hash&amp;ref_src=twsrc%5Etfw">#coinsmarkets</a> <a href="https://twitter.com/hashtag/Coinmarketcap?src=hash&amp;ref_src=twsrc%5Etfw">#Coinmarketcap</a>  <a href="https://twitter.com/hashtag/CryptoNews?src=hash&amp;ref_src=twsrc%5Etfw">#CryptoNews</a> <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a> <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> <a href="https://t.co/fWNNnTkJ7U">pic.twitter.com/fWNNnTkJ7U</a></p>&mdash; glad_coin (@glad_coin) <a href="https://twitter.com/glad_coin/status/992729986799951872?ref_src=twsrc%5Etfw">5 May 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- tweetModal Modal -->
+<div class="modal fade share-modal" id="tweetModal" tabindex="-1" role="dialog" aria-labelledby="shareModal" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="shareModalLabel">Tweet</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+								<div class="alert alert-info">
+					Hey there! Haven't you got your free 100+ #glad_coin yet? 
+You can register and get your up to 100+ #glad_coin
+@glad_coin #glad_coin #airdrop #cryptocurrency #freetokens #freecoins #altcoins<br>
+					
+				</div>
+				<a class="btn-blue" href="http://www.twitter.com/share?url=&amp;text=Hey+there%21+Haven%27t+you+got+your+free+100%2B+%23glad_coin+yet%3F+%0AYou+can+register+and+get+your+up+to+100%2B+%23glad_coin%0A%40glad_coin+%23glad_coin+%23airdrop+%23cryptocurrency+%23freetokens+%23freecoins+%23altcoins" target="_blank">Tweet This Post</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Ad Block Modal -->
+<div class="modal fade adblock-modal" id="registerAlertModal" tabindex="-1" role="dialog" aria-labelledby="adblockModal" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="adblockModalLabel">Ad Block</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="img-adblock"></div>
+				<p>We detected that you are using an ad block program. We're not displaying any ads but ad block programs might interfere with the actions on GLAD.network. Please <strong>turn off your ad block</strong> and try again.</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <!-- Modal Video -->
+<div class="modal fade team-modal" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="videoModalLabel">GLAD Airdrop</h5>
+                <button id="videoModalCloseButton" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <video onclick="this.play();" id="airdrop-video"  poster="/assets/front/images/airdrop-video-poster.jpg" class="video-airdrop" src="/files/gladcoin-airdrop.mp4"></video>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Play video onload -->
+<script type="text/javascript">
+    $(document).ready(function(){
+        var gladvideo = document.getElementById("airdrop-video");
+        $("#videoModalButton").click(function() {
+            gladvideo.load();
+            gladvideo.play();
+        });
+        // $("#videoModalButton").click();
+        $("#videoModalCloseButton").click(function() {
+            gladvideo.pause();
+        });
+        $(document).keyup(function(e) {
+            if (e.keyCode == 27) {
+                gladvideo.pause();
+            }
+        });
+        $(window).click(function() {
+            gladvideo.pause();
+        });
+        $('#airdrop-video').click(function(event){
+            event.stopPropagation();
+        });
+    });
+</script>
+        <!-- FOOTER -->
+<section id="footer" class="container-fluid footer">
+    <div class="container">
+        <div class="col-lg-8 offset-lg-2">
+            <div class="footer-brand">
+                <img src="/assets/front/images/glad-logo-white.svg" alt="GLAD.Network - Global Advertising Token">
+                <h2>GLOBAL ADVERTISING TOKEN</h2>
+            </div>
+            <ul id="footerNav" class="footer-menu">
+                <li><a href="https://glad.network/ecosystem">Ecosystem</a></li>
+                <li><a href="https://glad.network/ad-exchanges">Ad Exchanges</a></li>
+                <li><a href="https://glad.network/blockchain">Blockchain</a></li>
+                <li><a href="https://glad.network/community">Community</a></li>
+                <li><a href="https://glad.network/#whitepaper">Whitepaper</a></li>
+                <li><a href="https://glad.network/airdrop">Airdrop</a></li>
+                
+                <li><a href="https://glad.network/#roadmap">Roadmap</a></li>
+                <li><a href="https://glad.network/#team">Team</a></li>
+                <li><a href="https://glad.network/#faq">FAQ</a></li>
+                <li><a href="https://glad.network/#contact">Contact</a></li>
+                <li><a href="https://glad.network/register">Sign Up</a></li>
+                <li><a href="https://glad.network/login">Login</a></li>
+                <li><a href="https://glad.network/privacy-policy">Privacy Policy</a></li>
+                <li style="display:none;"><a id="announcementModalButton" href="javascript:;" data-toggle="modal" data-target="#announcementModal">Announcement</a></li>
+            </ul>
+            <form class="newsletter-form">
+                <div class="newsletter-form-inputs" style="display:block;">
+                    <input type="text" name="email" placeholder="Enter your e-mail to get updates...">
+                    <button class="btn-green">SUBSCRIBE</button>
+                </div>
+                <p class="contact-form-success" style="display:none;">Thank you, your subscription request has been received successfully.</p>
+                <p class="contact-form-fail" style="display:none;">We're sorry, there was a problem while submitting your request, please try again.</p>
+            </form>
+            <div class="footer-social">
+                <a href="https://www.facebook.com/Glad_coin-630146637334181/?ref=bookmarks" target="_blank"><img src="/assets/front/images/social-circle/icon-facebook.svg" alt="Facebook"></a>
+                <a href="https://twitter.com/glad_coin" target="_blank"><img src="/assets/front/images/social-circle/icon-twitter.svg" alt="Twitter"></a>
+                <a href="https://github.com/glad-coin" target="_blank"><img src="/assets/front/images/social-circle/icon-github.svg" alt="Github"></a>
+                <!--<a href="#" target="_blank"><img src="/assets/front/images/social-circle/icon-steemit.svg" alt="Steemit"></a>-->
+                <a href="https://t.me/gladcoin" target="_blank"><img src="/assets/front/images/social-circle/icon-telegram.svg" alt="Telegram"></a>
+                <a href="https://bitcointalk.org/index.php?topic=3802121.0" target="_blank"><img src="/assets/front/images/social-circle/icon-bitcointalk.svg" alt="Bitcointalk"></a>
+                <a href="https://www.reddit.com/user/glad_coin/" target="_blank"><img src="/assets/front/images/social-circle/icon-reddit.svg" alt="Reddit"></a>
+                <a href="https://www.linkedin.com/company/glad-coin/" target="_blank"><img src="/assets/front/images/social-circle/icon-linkedin.svg" alt="Linkedin"></a>
+                <a href="https://www.youtube.com/channel/UClPhBI-A1GXW6scks_VBiJg" target="_blank"><img src="/assets/front/images/social-circle/icon-youtube.svg" alt="Youtube"></a>
+                <a href="https://www.instagram.com/glad_coin/" target="_blank"><img src="/assets/front/images/social-circle/icon-instagram.svg" alt="Instagram"></a>
+                <a href="https://medium.com/@glad_coin" target="_blank"><img src="/assets/front/images/social-circle/icon-medium.svg" alt="Medium"></a>
+            </div>
+            <div class="copyright">Copyright © 2018, All rights reserved<br>
+                glad.network, <a href="mailto:info@glad.network">info@glad.network</a></div>
+        </div>
+    </div>
+</section>
+        <!-- Scripts -->
+
+<script src="/assets/front/js/popper.min.js"></script>
+<script src="/assets/front/js/bootstrap.min.js"></script>
+<script src="/assets/front/js/counter.js"></script>
+<script type="text/javascript" src="/assets/front/js/fingerprint2.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+        $('.newsletter-form').parsley().on('form:submit', function () {
+            subscribeSend();
+            return false; // Don't submit form for this demo
+        });
+    });
+
+    function subscribeSend() {
+        $.ajax({
+            type: 'POST',
+            url: "https://glad.network/subscribe",
+            data: {"email": $(".newsletter-form > .newsletter-form-inputs > input").val()},
+            success: function (res) {
+                console.log(res);
+                if (res == "success") {
+                    $(".newsletter-form .newsletter-form-inputs").hide();
+                    $(".newsletter-form .contact-form-success").show();
+                }
+                else {
+
+                    $(".newsletter-form .newsletter-form-inputs").hide();
+                    // $(".newsletter-form .contact-form-fail").show();
+                    $(".newsletter-form .contact-form-fail").html(res).show();
+                }
+            }
+        });
+    }
+
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        new Fingerprint2().get(function (token, components) {
+            $.ajax({
+                type: 'POST',
+                url: "https://glad.network/pageToken",
+                data: {token: token},
+                success: function (result) {
+
+                },
+                error: function (result) {
+
+                }
+            });
+        });
+    });
+</script>
+
+<script src="/assets/front/js/ads.js" type="text/javascript"></script>
+
+    
+                    <!-- Enable popper tooltips -->
+        <script>
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+        </script>
+        <!-- Mobile menu close after click -->
+        <script>
+            $('.navbar-nav>li>a').on('click', function(){$('.navbar-collapse').collapse('hide');});
+        </script>
+
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window, document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '176015316380816');
+            fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=176015316380816&ev=PageView&noscript=1"/></noscript>
+        <!-- End Facebook Pixel Code -->
+
+    </body>
+</html>

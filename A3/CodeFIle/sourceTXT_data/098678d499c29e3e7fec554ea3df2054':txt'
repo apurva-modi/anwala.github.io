@@ -1,0 +1,6 @@
+Published {{ $root.humanDate($store.state.news.expanded.published_at) }}, by {{ $store.state.news.expanded.author }} @ {{ $store.state.news.expanded.source.domain }}
+{{ $store.state.news.expanded.source.name }} via {{                                                     $store.state.news.expanded.source.domain }}
+Read the full story at {{ $store.state.news.expanded.source.domain                                             }}.
+{{ tag }}
+CoinSpectator is an                                         automated aggregation service. All copyrights belong to their respective                                         owners. You can read the full story at {{                                         $store.state.news.expanded.source.domain }}.
+Back

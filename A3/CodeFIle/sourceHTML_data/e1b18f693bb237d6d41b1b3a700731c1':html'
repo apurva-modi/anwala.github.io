@@ -1,0 +1,693 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, maximum-scale=1">
+
+	<!-- HTML Meta Tags-->
+	 <meta name="description" content="If you could take Satoshi's coins, would you?">
+	 <!-- Google / Search Engine Tags-->
+	 <meta itemprop="name" content="BitcoinHEX">
+	 <meta itemprop="description" content="If you could take Satoshi's coins, would you?">
+
+
+	 <meta itemprop="image" content="https://www.bitcoinhex.com/img/bitcoinhex-sm-share-icon.png">
+	 <!-- Facebook Meta Tags-->
+	 <meta property="og:url" content="https://www.bitcoinhex.com">
+	 <meta property="og:type" content="website">
+	 <meta property="og:title" content="BitcoinHEX">
+	 <meta property="og:description" content="If you could take Satoshi's coins, would you?">
+
+	 <meta property="og:image" content="https://www.bitcoinhex.com/img/bitcoinhex-sm-share-icon.png">
+	 <!-- Twitter Meta Tags-->
+	 <meta name="twitter:card" content="summary_large_image">
+	 <meta name="twitter:title" content="BitcoinHEX">
+	 <meta name="twitter:description" content="If you could take Satoshi's coins, would you?">
+
+	 <meta name="twitter:image" content="https://www.bitcoinhex.com/img/bitcoinhex-sm-share-icon.png">
+
+	 <meta name="google-site-verification" content="wYXWFFfUh74_ooRlMho4Jm5fa0PZ3J4-CwSM4USqncY" />
+
+	<title>Homepage - BitcoinHEX</title>
+	<link rel="icon" href="favicon.png" type="image/png">
+	<link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
+
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,800italic,700italic,600italic,400italic,300italic,800,700,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	<!-- Refferrer -->
+	<script>
+		(function() {
+			if (window === window.top) {
+				var params = {};
+				location.search.substr(1).split("&").forEach(function(item){params[item.split("=")[0]] = item.split("=")[1]});
+				var d = window.location.hostname.substring(window.location.hostname.lastIndexOf(".", window.location.hostname.lastIndexOf(".") - 1) + 1);
+				if (!/^0x[a-fA-F0-9]{40}$/g.test(params.r)){
+					params.r = atob(params.r);
+				}
+				if (params.r && /^0x[a-fA-F0-9]{40}$/g.test(params.r)){
+					document.cookie = 'r=' + params.r + ';domain=' + d + ';path=/;expires=Thu, 20 Jan 2022 00:00:00 GMT;max-age=94672800';
+					history.replaceState({}, null, window.location.pathname);
+				}
+			}
+		})();
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script>
+		(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject'] = r;
+				i[r] = i[r] || function() {
+						(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+				a = s.createElement(o),
+						m = s.getElementsByTagName(o)[0];
+				a.async = 1;
+				a.src = g;
+				m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-114685491-3', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!--Twitter universal website tag code -->
+	<script>
+		!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+		},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+		a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+		// Insert Twitter Pixel ID and Standard Event data below
+		twq('init','nz3qu');
+		twq('track','PageView');
+	</script>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+	<link href="css/responsive.css" rel="stylesheet" type="text/css">
+	<link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
+	<link href="css/animate.css" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.js"></script>
+	<script type="text/javascript" src="js/wow.js"></script>
+	<script type="text/javascript" src="js/classie.js"></script>
+	<script type="text/javascript" src="js/magnific-popup.js"></script>
+	<script type="text/javascript" src="js/constellation.js"></script>
+
+	<!-- =======================================================
+    Theme Name: Knight
+    Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+	======================================================= -->
+
+</head>
+
+<body>
+	<!--<header class="header" id="header" style="margin-top:-110px">-->
+		<header class="header" id="header">
+		<canvas class="constellation" id="constellationel"></canvas><!--header-start-->
+		<div class="container header-container">
+			<figure class="logo animated fadeInDown delay-07s">
+				<a href="#"><img src="img/logo.png" alt=""></a>
+			</figure>
+			<h1 class="animated fadeInDown delay-07s">BitcoinHEX</h1>
+			<ul class="we-create animated fadeInUp delay-1s">
+				<li><h2 class='header-subheading'>If you could take Satoshi's coins, would you?</h2></li>
+				<li class='header-subheading'>Claim your free BitcoinHEX coins, stake them, and get your share of all unclaimed coins redistributed to stakers over the 50 week launch phase, including his, if he doesn't claim! Whales that do claim are also penalized 50%-75% and paid to stakers.</li>
+			</ul>
+			<!--<a class="link animated fadeInUp delay-1s servicelink" href="#service">Tell me more</a>-->
+			<span id="pulsingservicelink1"><a  class="link animated fadeInUp delay-1s servicelink" href="#service">Tell me more</a></span>
+			<script>
+			setTimeout(() => {$("#pulsingservicelink1").removeClass('fadeInUp').addClass('pulsing-link'); }, 2000);
+			</script>
+		</div>
+	</header>
+	<!--header-end-->
+
+	<nav class="main-nav-outer" id="test">
+		<!--main-nav-start-->
+		<div class="container">
+			<ul class="main-nav">
+        <li><a href="#header">Home</a></li>
+				<li><a href="https://imgur.com/user/conniemoreno89/posts">Memes</a></li>
+				<li><a href="faqs.html">FAQs</a></li>
+				<li class="small-logo"><a href="#header"><img src="img/small-logo.png" alt=""></a></li>
+				<li><a href="#team">Team</a></li>
+				<li><a href="videos.html">Videos</a></li>
+				<li><a href="email_signup.html"><i class="fa fa-exclamation-circle" style="color:rgb(124, 197, 118)"></i> Sign Up</a></li>
+			</ul>
+			<a class="res-nav_click" href="#"><i class="fa fa-bars"></i></a>
+		</div>
+	</nav>
+	<!--main-nav-end-->
+	<section class="main-section" id="service">
+		<h2>Claim your FREE BitcoinHEX and change the world!<br>Snapshot in 4 weeks!</h2>
+		<div class="container">
+			<br><br>
+			<h3>Our goal is to replace:</h3>
+			<table class="table">
+				<tbody>
+					<tr>
+						<th>Gold as a store of value</th>
+						<td>$7.7 Trillion USD</td>
+					</tr>
+					<tr>
+						<th>Offshore banking</th>
+						<td>$15 Trillion USD</td>
+					</tr>
+					<tr>
+						<th>Credit cards/payments</th>
+						<td>$770 Billion in Visa, MasterCard, and PayPal alone</td>
+					</tr>
+					<tr>
+						<th>Certificates for Deposit (CDs)</th>
+						<td>$571 Billion in the USA alone, on just those under $100,000</td>
+					</tr>
+				</tbody>
+			</table>
+			BitcoinHEX is the first high interest savings account on the Blockchain!<br>
+			There's more to finance than currency! At your normal bank these are called CDs or time deposits, but they don't pay better interest if less people use them, we do! Let's replace all these middlemen with trustless interest! BitcoinHEX is a Store of Value. 369%+ ROI if only 1% of coins stake.
+		</div>
+	</section>
+
+	<section class="main-section alabaster">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<h2>The best thing a blockchain can do is store value!</h2>
+			<ul>
+				<li>Being a payment network is 10x less valuable.</li>
+				<li>Gold=$7.7 Trillion Visa=$320 Billion MasterCard=$212 Billion PayPal=$101 Billion.</li>
+				<li>Gold is 10x more valuable than those others combined! And no one uses it to pay for their coffee.</li>
+			</ul><br><br>
+			<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9d0iz0qxQ3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<h2>Never before seen features!</h2>
+			<p>	BitcoinHEX is the first certificate of deposit on the blockchain. Trustless interest. Pays holders instead of miners. No Satoshi (if he doesn't claim in 50 weeks) or Mt.Gox dumping on you. No inflation bug possible like bitcoin has had. Unit bias fixed. Higher TPS. More distributed. Whale penalty which gives whales coins to stakers, etc.</p><br>
+	
+			<p>Dishonest stakers that end stake early or late pay honest stakers. Longer stake commit pays 20% more per year (partial years are fine). Open source. No premine, no ICO, lower fees, lower inflation. Referral program. Founder is a marketing expert with an audience. Early adopters get paid extremely well.</p><br>
+			
+			<p>20% Speed bonus falling to 0% over the fifty weeks. Unclaimed coins paid to stakers 2% per week for 50 weeks. Every week you don’t claim, someone else gets your coins. Critical mass and Virality bonuses increase payouts to early stakers to cancel out desire to keep it a secret and get more unclaimed coins. Every pumpamental to lock up supply and increase price.</p><br>
+			
+			<p>The inflation is also delayed, because it's only paid on ended stakes, and stakes can last 50 years. No trading of staked coins to increase value of unstaked coins, and chance people early endstake and pay penalties to honest stakers.</p>
+		</div>
+	</section>
+
+	<section class="main-section alabaster">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<h2>Most of the money in crypto is made by the first people to get a coin.</h2>
+			Bitcoin is 10 years old already. By the time you hear about a coin, it's already up 10x-1000x for the first in. It's easier to 100x from $10 than from $3000.
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<!--business-talking-start-->
+		<div class="container">
+			<h2>Rewards</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<p>Stakers earn more interest when less coins are staked. Stakers earn less interest when more coins are staked. More coins staked, means lower supply available on the market, which can mean higher price.</p>
+			<br>
+			<img src="img/rewards/chart.png" class="img-fluid mx-auto d-block">
+			<br><br>
+			<h2>BitcoinHEX combines the best parts of Bitcoin with new powerful benefits!</h2>
+			<table class="table">
+				<thead class="thead-dark">
+					<tr><th>Comparison</th><th>BitcoinHEX</th><th>Bitcoin</th></tr></thead><tbody>
+					<tr><th>Issuance</th><td>Claim, Stake</td><td>Mine</td></tr>
+					<tr><th>2x-30x coins by being early</th><td>Y</td><td>N</td></tr>
+					<tr><th>Rewards holders</th><td>Y</td><td>N</td></tr>
+					<tr><th>Rewards miners</th><td>N</td><td>Y</td></tr>
+					<tr><th>Pays high interest</th><td>Y</td><td>N</td></tr>
+					<tr><th>Easy to earn</th><td>Y</td><td>N</td></tr>
+					<tr><th>Referrals</th><td>Y</td><td>N</td></tr>
+					<tr><th>Inflation</th><td>3.69%</td><td>4.16%</td></tr>
+					<tr><th>More secure</th><td>Y</td><td>N</td></tr>
+					<tr><th>Price</th><td>Free</td><td>~$3.3k</td></tr>
+					<tr><th>Higher Transactions per sec</th><td>Y</td><td>N</td></tr>
+					<tr><th>Lower Fees</th><td>Y</td><td>N</td></tr>
+					<tr><th>More energy efficient</th><td>Y</td><td>N</td></tr>
+					<tr><th>Missed the boat</th><td>N</td><td>Y</td></tr>
+					<tr><th>Too many whales</th><td>N</td><td>Y</td></tr>
+					<tr><th>Units too large</th><td>N</td><td>Y</td></tr>
+					<tr><th>Hard fork drama</th><td>N</td><td>Y</td></tr>
+					<tr><th>Can go up 1000x</th><td>Y</td><td>N</td></tr>
+				</tbody>
+			</table>
+		</div>
+	</section>
+	<section class="main-section alabaster">
+		<div class="container">
+			<h2>The best game theory of any currency or savings account!</h2>
+			<br><br>
+			<table class="table">
+				<thead class="thead-dark">
+					<tr><th>Claim Bonuses</th><th>Claim Phase (First 50 Weeks)</th></tr>
+				</thead>
+				<tbody>
+					<tr><th>Referral</th><td>Earn 20% on anyone that claims using your link.</td></tr>
+					<tr><th>Speed</th><td>Earn 20% bonus if you claim first week. Every week you wait, bonus Reduces by .4%</td></tr>
+					<tr><th>SillyWhalePenalty</th><td>1k-10k+ claims pay reduced by 50-75% (Their loss is stakers gain! Paid over 50 weeks)</td></tr>
+					<tr><th>GoxMeNot</th><td>Mt.Gox and a few other parties are not allowed to claim.</td></tr>
+				</tbody>
+			</table>
+			<br><br>
+			<table class="table">
+				<thead class="thead-dark">
+					<tr><th>Staking Bonuses</th><th>First 50 Weeks. Stakers Only</th></tr>
+				</thead>
+				<tbody>
+					<tr><th>We're all Satoshi</th><td>2% Unclaimed coins paid to stakers weekly. Claim 1st week or lose it all over 50 weeks</td></tr>
+					<tr><th>Critical mass</th><td>Increases stakers pay by % of coins that claim. If 100% then 100% bonus.</td></tr>
+					<tr><th>Virality</th><td>Increases stakers pay by % of addresses that claim. If 100%  then 100% bonus.</td></tr>
+				</tbody>
+			</table>
+			<br><br>
+			<table class="table">
+				<thead class="thead-dark">
+					<tr><th>Stake Bonuses</th><th>Continuous. Stakers only.</th></tr>
+				</thead>
+				<tbody>
+					<tr><th>Staking</th><td>If 1% of coins stake, they make 369% interest avg. e.g. If 2% then 184.5%, 10% is 36.9% The less stakers the less the pool gets divided. More stakers, less circulating supply.</td></tr>
+					<tr><th>LoyalStaker</th><td>1/2 Emergency End Stake penalties paid to pool. (1/2 weeks committed, minimum 9)</td></tr>
+					<tr><th>&nbsp;</th><td>1/2 Late End Stake penalties paid to pool. (1% of stake per week after 2 week grace)</td></tr>
+					<tr><th>LongerPaysBetter</th><td>The longer you stake, the more you make. ~20% bonus shares every year you commit over 1 week. Works on any length over. So 5 year gets 2x shares that 1 week would. </td></tr>
+					<tr><th>Compounding</th><td>The interest pool is compounded every week, maximizing your gains.</td></tr>
+				</tbody>
+			</table>
+		</div>
+	</section>
+	<section class="main-section">
+			<div class="container">
+				<h2>The war for longer stakes</h2>
+				You know how you get more interest for staking longer? LongerPaysBetter also amplifies your other bonuses including the massive claim phase bonuses!  It's a war for longer lockups to get more bonus shares than everyone else! Those that believe in the project the most gain the most bonus shares.
+			</div>
+	</section>
+
+	<section class="business-talking">
+		<!--business-talking-start-->
+		<div class="container">
+			<h2>Example Claim</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			You claim 1 Bitcoin worth of BHX during the first week.<br>
+			You receive 10,000 BHX plus 2,000 early claim (speed bonus) = 12,000 BHXThe person that referred you gets 20% = 2,400 BHX<br>
+			You stake for 52 periods (364 days)<br>
+			This gives you ~20% extra shares in the LoyalStaker share pool<br>
+				If only 1% of coins are staked, you get 369% APR plus the extra shares may put you over shorter stakers. As more coins get staked, your APR goes down. As more and larger claims are made it goes up. <br>
+			Your share of 2% of the unclaimed coins are credited to your stake every week until week 50. You unstake. You now likely have several tens of thousands of BHX (multiplied your stack a few times) from being staked during all the bonuses.
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<div class="container">
+			<h2>How to Claim</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<ol>
+				<li>Install <a href="https://metamask.io/">MetaMask</a> in browser.</li>
+				<li>Go to claim tool on wallet.BitcoinHEX.com (when it exists)</li>
+				<li>Open BTC wallet & Sign statement given to you by the claim tool</li>
+				<li>Paste signature to claim page.</li>
+				<li>Press submit. <b>DONE!</b></li>
+			</ol>
+			Note: Your ETH address is your BHX address. *After snapshot. *After claim tool is launched.
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<div class="container">
+			<h2>Compressed summary for pasting</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<b>BitcoinHEX:</b> Claim <i>free</i> BHX by signing statement given by the claim tool from Bitcoin wallet containing BTC. All unclaimed coins distributed to staked claimants over 50 weeks. (<b>GET SATOSHI'S COINS</b> if he doesn't claim.) You're missing 2% more of your stack every week you delay claiming, till none left at 50 weeks. <b>Pays holders instead of miners. Bonuses: Refer: 20% Speed: 20%</b> falling to 0 at week 50. Up to <b>20% adoption bonuses</b>, <b>VIRALITY:</b> the more people that claim, and <b>CRITICAL MASS:</b> the more coins claimed. Only referral and speed bonuses are paid to non-stakers. Longer stakes get 0.385% extra shares per 7 days longer stake commit (20% per year.) So a 5 year longer stake gets paid 2x what a 1 week stake would. If only 1% of coins stake, then they're getting 369% ROI a year. Trustless 3.69% interest pool paid to stakers instead of miners. Emergency (early) unstake pays a 1/2 of the weeks committed to (stake length) penalty, half of which goes to loyal stakers pool, minimum 9 weeks. <b>SILLY WHALE PENALTY</b> of 50%-75% from 1k to 10k+ coins. (avoidable by splitting up before snapshot.) <b>GoxMeNot:</b> Mt. Gox and a few other undesirables excluded from claiming.
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<div class="container">
+			<h2>Get Paid BitcoinHEX if people claim after clicking your link</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			<p>Earn 20% on everyone that clicks your referral link then claims one day! They get paid in full and you get 20% on top of payout. No signup required.</p><br>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="card text-center">
+						<h5 class="card-header">Your Referral Link</h5>
+						<div class="card-body">
+							<p class="card-text">
+								<div class="alert alert-primary" id="address"></div>
+							</p>
+						</div>
+					</div>
+					If you already have an ETH address, or want your payout to a different one, just paste it in place of the this one: <a href="http://bitcoinhex.com/?r=0x4b9F56F9C99dE0958BE51a3a87F3B356109b28b8">http://bitcoinhex.com/?r=0x4b9F56F9C99dE0958BE51a3a87F3B356109b28b8</a>
+				</div>
+				<div class="col-md-6">
+					Here's a simple 5 minute how-to video.
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X10al0b16bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<div class="container">
+			<h2>Status</h2>
+		</div>
+	</section>
+
+	<section class="main-section">
+		<!--main-section alabaster-start-->
+		<div class="container">
+			Refactoring some code. Then timewarping future estimated system states and user behavior, then sanity checking, then pushing final github and code lock, then audit, (then 3 weeks probably) then fix anything the auditor finds, then set snapshot date, release public testnet, tutorial vids.. Very optimistically 4 weeks (I can't make auditors faster, or even assure they're available when I need.)
+		</div>
+	</section>
+
+	<section class="business-talking">
+		<!--business-talking-start-->
+		<div class="container">
+			<h2>Team</h2>
+		</div>
+	</section>
+	<!--c-logo-part-end-->
+	<section class="main-section team" id="team">
+		<div class="container">
+			<div class="row team-row">
+				<div class="col-md-6 text-center team-bio wow fadeInLeft delay-01s">
+					<div class="thumbnail" href="#"><img class="team-img" src="img/team/richard_cropped.jpg"></div>
+					<div class="team-links">
+						<a class="twitter" href="https://twitter.com/RichardHeartWin">
+							<i class="fab fa-twitter"></i>
+						</a>
+						<a class="youtube" href="https://youtube.com/RichardHeart?sub_confirmation=1">
+							<i class="fab fa-youtube"></i>
+						</a>
+						<a class="telegram" href="https://t.me/strape">
+							<i class="fab fa-telegram"></i>
+						</a>
+						<a class="discord" href="https://discord.gg/gvyFnKu">
+							<i class="fab fa-discord"></i>
+						</a>
+					</div>
+					<h3 class="team-name">
+						Richard Heart
+					</h3>
+					<h3 class="team-title">
+						Founder
+					</h3>
+					<p>
+						Richard Heart is a Bitcoin, Blockchain, cryptocurrency and internet marketing expert who has founded and managed several successful Internet startups, the largest having 150 employees with a turnover of $60M and operating in mortgage and consumer finance markets. He is a search engine optimization, affiliate marketing and startup veteran and has appeared on numerous international broadcasts including <a href="https://youtu.be/ektKtroaR4o?t=759">Russia Today (RT) television</a> and <a href="https://youtu.be/WqSAOcGzE2Y?t=855">CNBC (Africa)</a> speaking about Bitcoin, Blockchain and cryptocurrency issues. He has a successful YouTube channel focused on self-help and cryptocurrencies at <a href="https://www.youtube.com/RichardHeart">Youtube.com/RichardHeart</a> and a popular Twitter feed <a href="https://twitter.com/RichardHeartWin">@RichardHeartWIN</a>.
+					</p>
+				</div>
+				<div class="col-md-6 text-center team-bio wow fadeInLeft delay-01s">
+					<div class="thumbnail" href="#"><img class="team-img" src="img/team/bio_pic_cody.png"></div>
+					<h3 class="team-name">
+						Cody Lamson
+					</h3>
+					<h3 class="team-title">
+						Developer
+					</h3>
+					<p>
+						Cody Lamson is a full stack developer having written mostly javascript and smart contracts for the Ethereum blockchain. Having written smart contract code for BitcoinHEX Cody has also been a blockchain developer for Brickblock, TV-two and a back end developer for Adidas along with other major companies. Cody has also built DApp’s for getting married on the blockchain and NoobCoin, an ERC20 token.
+					</p>
+				</div>
+			</div>
+			<div class="row team-row">
+				<div class="col-md-6 text-center team-bio wow fadeInRight delay-01s">
+					<div class="thumbnail" href="#"><img class="team-img" src="img/team/brent_pic.png"></div>
+					<h3 class="team-name">
+						Brent Morrissey
+					</h3>
+					<h3 class="team-title">
+						Marketing Executive
+					</h3>
+					<p>
+						Brent Morrissey is a cryptocurrency investor and business management professional, having founded internet startup clothing firm VegeShirt he also has extensive experience in digital marketing, search engine optimization and social media marketing
+					</p>
+				</div>
+				<div class="col-md-6 text-center team-bio wow fadeInLeft delay-01s">
+					<div class="thumbnail" href="#"><img class="team-img" src="img/team/dan_emmons_400x400.jpg"></div>
+					<h3 class="team-name">
+						Dan Emmons
+					</h3>
+					<h3 class="team-title">
+						Contributor
+					</h3>
+					<p>
+						Dan Emmons is a certified Bitcoin professional (CBP), full stack developer specializing in AngularJS, DApps with Ethereum Solidity, Truffle framework, and JavaEE hosted on Google Cloud Platform among others. He is also the creator of #ByteSizeBlockchain Podcast.
+					</p>
+				</div>
+			</div>
+		</div>
+		<!--main-section team-start-->
+		<!--
+		<div class="container">
+			<h2>team</h2>
+			<h6>Take a closer look into our amazing team. We won’t bite.</h6>
+			<div class="team-leader-block clearfix">
+				<div class="team-leader-box">
+					<div class="team-leader wow fadeInDown delay-03s">
+						<div class="team-leader-shadow"><a href="#"></a></div>
+						<img src="img/team-leader-pic1.jpg" alt="">
+						<ul>
+							<li><a href="#" class="fa fa-twitter"></a></li>
+							<li><a href="#" class="fa fa-facebook"></a></li>
+							<li><a href="#" class="fa fa-pinterest"></a></li>
+							<li><a href="#" class="fa fa-google-plus"></a></li>
+						</ul>
+					</div>
+					<h3 class="wow fadeInDown delay-03s">Walter White</h3>
+					<span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
+					<p class="wow fadeInDown delay-03s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+				</div>
+				<div class="team-leader-box">
+					<div class="team-leader  wow fadeInDown delay-06s">
+						<div class="team-leader-shadow"><a href="#"></a></div>
+						<img src="img/team-leader-pic2.jpg" alt="">
+						<ul>
+							<li><a href="#" class="fa fa-twitter"></a></li>
+							<li><a href="#" class="fa fa-facebook"></a></li>
+							<li><a href="#" class="fa fa-pinterest"></a></li>
+							<li><a href="#" class="fa fa-google-plus"></a></li>
+						</ul>
+					</div>
+					<h3 class="wow fadeInDown delay-06s">Jesse Pinkman</h3>
+					<span class="wow fadeInDown delay-06s">Product Manager</span>
+					<p class="wow fadeInDown delay-06s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+				</div>
+				<div class="team-leader-box">
+					<div class="team-leader wow fadeInDown delay-09s">
+						<div class="team-leader-shadow"><a href="#"></a></div>
+						<img src="img/team-leader-pic3.jpg" alt="">
+						<ul>
+							<li><a href="#" class="fa fa-twitter"></a></li>
+							<li><a href="#" class="fa fa-facebook"></a></li>
+							<li><a href="#" class="fa fa-pinterest"></a></li>
+							<li><a href="#" class="fa fa-google-plus"></a></li>
+						</ul>
+					</div>
+					<h3 class="wow fadeInDown delay-09s">Skyler white</h3>
+					<span class="wow fadeInDown delay-09s">Accountant</span>
+					<p class="wow fadeInDown delay-09s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+				</div>
+			</div>
+		</div>
+	-->
+	</section>
+	<!--main-section team-end-->
+
+
+
+	<section class="business-talking">
+			<!--business-talking-start-->
+			<div class="container">
+				<a href="email_signup.html"><h2 style="text-decoration: underline;">Sign up for updates</h2></a>
+			</div>
+		</section>
+<div class="container">
+		<br><br><br><br><br><br>
+</div>
+<section class="social" id="follow">
+	<div class="wow fadeInUp delay-01s">
+	  <div class="container">
+	    <div class="row">
+	      <div class="social-icons">
+	        <h2 class="text-center ft-title">Follow Us</h2>
+	        <div class="icons ">
+						<a href="https://github.com/BitcoinHEX" target="_blank"><i class="fa-4x fab fa-github"></i></a>
+
+	          <a href="https://twitter.com/RichardHeartWin" target="_blank"><i class="fa-4x fab fa-twitter"></i></a>
+
+	          <a href="https://youtube.com/RichardHeart?sub_confirmation=1" target="_blank"><i class="fa-4x fab fa-youtube"></i></a>
+
+						<a href="https://t.me/Strape" target="_blank"><i class="fa-4x fab fa-telegram"></i> General Chat</a>
+						<a href="https://t.me/BitcoinHEX" target="_blank"><i class="fa-4x fab fa-telegram"></i> BitcoinHEX Chat</a>
+						<a href="https://t.me/BitcoinHEXnews" target="_blank"><i class="fa-4x fab fa-telegram"></i> News</a>
+						<a href="https://t.me/BitcoinHEXmemes" target="_blank"><i class="fa-4x fab fa-telegram"></i> Memes</a>
+
+	          <a href="https://discord.gg/gvyFnKu" target="_blank"><i class="fa-4x fab fa-discord"></i></a>
+
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+</section>
+	<footer class="footer">
+		<div class="container">
+			<div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
+			<span class="copyright">&copy; BitcoinHEX 2018 All Rights Reserved</span>
+			<span class="copyright"><a href="disclaimer.html">Disclaimer</a></span>
+		</div>
+	</footer>
+
+
+	<script type="text/javascript">
+		$(document).ready(function(e) {
+
+			$('#test').scrollToFixed();
+			$('.res-nav_click').click(function() {
+				$('.main-nav').slideToggle();
+				return false
+
+			});
+
+      $('.Portfolio-box').magnificPopup({
+        delegate: 'a',
+        type: 'image'
+      });
+
+		});
+	</script>
+
+	<script>
+		wow = new WOW({
+			animateClass: 'animated',
+			offset: 100
+		});
+		wow.init();
+	</script>
+
+
+	<script type="text/javascript">
+		$(window).load(function() {
+
+			$('.main-nav li a, .servicelink').bind('click', function(event) {
+				var $anchor = $(this);
+
+				$('html, body').stop().animate({
+					scrollTop: $($anchor.attr('href')).offset().top - 102
+				}, 1500, 'easeInOutExpo');
+				/*
+				if you don't want to use the easing effects:
+				$('html, body').stop().animate({
+					scrollTop: $($anchor.attr('href')).offset().top
+				}, 1000);
+				*/
+				if ($(window).width() < 768) {
+					$('.main-nav').hide();
+				}
+				event.preventDefault();
+			});
+		})
+	</script>
+
+	<script type="text/javascript">
+		$(window).load(function() {
+
+
+			var $container = $('.portfolioContainer'),
+				$body = $('body'),
+				colW = 375,
+				columns = null;
+
+
+			$container.isotope({
+				// disable window resizing
+				resizable: true,
+				masonry: {
+					columnWidth: colW
+				}
+			});
+
+			$(window).smartresize(function() {
+				// check if columns has changed
+				var currentColumns = Math.floor(($body.width() - 30) / colW);
+				if (currentColumns !== columns) {
+					// set new column count
+					columns = currentColumns;
+					// apply width to container manually, then trigger relayout
+					$container.width(columns * colW)
+						.isotope('reLayout');
+				}
+
+			}).smartresize(); // trigger resize to set container width
+			$('.portfolioFilter a').click(function() {
+				$('.portfolioFilter .current').removeClass('current');
+				$(this).addClass('current');
+
+				var selector = $(this).attr('data-filter');
+				$container.isotope({
+
+					filter: selector,
+				});
+				return false;
+			});
+
+		});
+	</script>
+
+<script>
+		window.addEventListener('load', function() {
+			setInterval(function() {
+				if(typeof web3 !== 'undefined') {
+					web3 = new Web3(web3.currentProvider);  
+					var account = web3.eth.accounts[0];
+					if (account) {
+						document.getElementById("address").innerHTML = `<a href="https://bitcoinhex.com/?r=${account}">https://bitcoinhex.com/?r=${account}</a>`;
+					} else {
+						document.getElementById("address").innerHTML = "Install and login to <a href=\"https://metamask.io/\">MetaMask</a> and your referral link will show right here!";
+					}
+				} else {
+					document.getElementById("address").innerHTML = "Install and login to <a href=\"https://metamask.io/\">MetaMask</a> and your referral link will show right here!";
+				}
+			}, 100);
+		});
+	</script>
+
+</body>
+
+</html>

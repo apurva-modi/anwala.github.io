@@ -1,0 +1,176 @@
+            <!DOCTYPE html>
+      <html class="vk vk_js_no  vk_flex_no r d h  vk_appAuth_no mp4_enabled ">
+      <head>
+              <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="MobileOptimized" content="176" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="theme-color" content="#5181b8" />
+        <base id="base">
+        <meta name="robots" content="noindex,nofollow" />
+        
+        <title>Wall</title>
+        <link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?8"></link>
+        <script>
+          (function() {
+            window.isMVK = true;
+            window.isNewNavigation = false;
+            window.isNewMail = false;
+            window.isNewLongpoll = false;
+            window.audioSubscribe = false;
+            window.isArticleWebView = false;
+            window.isPWAStart = false;
+
+            var vkElem = document.querySelector('.vk');
+            var vkClass = vkElem.getAttribute('class');
+
+            var supports = {
+              js: true,
+              flex: window.CSS && CSS.supports && (
+                CSS.supports('display', 'flex') ||
+                CSS.supports('display', '-webkit-flex') ||
+                CSS.supports('display', '-ms-flexbox')
+              )
+            };
+
+            supports.js && (vkClass = vkClass.replace('vk_js_no', 'vk_js_yes'));
+            supports.flex && (vkClass = vkClass.replace('vk_flex_no', 'vk_flex_yes'));
+            vkElem.setAttribute('class', vkClass);
+          })();
+        </script>
+
+        <script type="text/javascript">
+<!--
+    (function(k,a,d,e,f){function l(){var c=function(){var b=!1;try{b=new XMLHttpRequest}catch(a){try{b=new ActiveXObject("Msxml2.XMLHTTP")}catch(d){try{b=new ActiveXObject("Microsoft.XMLHTTP")}catch(c){b=!1}}}return b?e:f}(),g=function(){var b=k.createElement("div");b.innerHTML='<input type="file" />';b=b.getElementsByTagName("input")[0];return"file"!=b.type||b.disabled?f:e}(),h="ontouchstart"in a?e:f,m;try{m=typeof navigator.geolocation!==d?e:typeof a.google!==d&&typeof google.gears!==d?e:typeof device!==d&&typeof device.getServiceObject!==d?e:typeof Mojo!==d&&"Mojo.Service.Request"!==typeof Mojo.Service.Request?e:f}catch(p){m=f}var l=function(b){try{var d=a.Audio?new Audio:k.createElement("audio");if(d.canPlayType&&d.canPlayType(b)&&"no"!=d.canPlayType(b))return e}catch(c){}return f}("audio/mpeg"),n=function(b){try{for(var a=k.createElement("div"),c=0,g=["webkit","Moz","ms","O",""],h=g.length;c<h;c++){var l=g[c],m=l?l+b:b.toLowerCase();if(typeof a.style[m]!==d)return e}return f}catch(n){return f}}("Transform");return c+g+h+m+l+n+((a.XMLHttpRequest||a.XDomainRequest)&&(a.FormData||a.FileReader&&(a.XMLHttpRequest&&XMLHttpRequest.sendAsBinary||a.ArrayBuffer&&a.Uint8Array&&(a.MozBlobBuilder||a.WebKitBlobBuilder||a.BlobBuilder)))?e:f)}var c=a.screen,g=c.width||0,c=c.height||0,n=a.devicePixelRatio||1,p=(k.cookie.match(/(^|;\s+)remixmdevice=([^;]+)/)||[])[2]||"",h=p.split("/");p&&g==h[0]&&c==h[1]&&7==h[3].length||(g=[g,c,n,l()].join("/"),k.cookie="remixmdevice=; expires="+(new Date(0)).toUTCString()+"; path=/",k.cookie="remixmdevice="+g+"; expires="+(new Date((new Date).getTime()+7776E6)).toUTCString()+"; path=/; domain=.vk.com",(location.search.indexOf('?mode=standalone')!==0&&k.cookie!=="")&&location.replace(location.toString()))})(document,window,"undefined","!","-");!function(o,a){var e=o.hash||"",t=e.substr(2);if("#/"==e.substr(0,2)){var i=window.locDomain,n=new Date;n.setTime(n.getTime()+864e5);var r="; expires="+n.toGMTString();document.cookie=["remixtmp_hash_nav","=",o.href,r,"; path=/",i?"; domain=."+i:""].join(""),!a&&(t.match(/^\/*(away|login)(\.php)?([^a-z0-9\.]|$)/)&&(t=""),o.replace(o.protocol+"//"+o.host+"/"+t))}}(location);
+//-->
+</script>
+        <link type="text/css" rel="stylesheet" media="" href="/css/mobile/common.css?1182968791"></link>
+<script type="text/javascript" src="/js/cmodules/mobile/grip.js?26173135451"></script>
+
+        
+    <link rel="canonical" href="https://vk.com/wall-175990301_832" />
+    <link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/wall-175990301_832" />
+  
+        
+      </head>
+
+      <body  class="vk__page _ivk _hover vk_ios_no vk_stickers_hints_support_no opera_mini_no vk_safari_no vk__page_singlePost  vk_al_no">
+            <div class="layout">
+      
+      
+          <div class="layout__header mhead" id="vk_head">
+      <div class="hb_wrap">
+        <div class="hb_btn">&nbsp;</div>
+      </div>
+    </div>
+      <div class="layout__body " id="vk_wrap">
+        <div class="layout__leftMenu" id="l">
+          
+        </div>
+        <div class="layout__basis" id="m">
+              <div class="basis">
+      <div class="basis__header mhead" id="mhead">    <a
+    class="header__left hb_wrap mhb_home mhb_vkhome"
+    aria-label="Menu"
+    
+     href="/" accesskey="*"
+  >
+    <div class="hb_btn mhi_home mhi_vkhome">&nbsp;</div>
+  </a>
+        <h1 class="header__center hb_wrap mhb_back header__title-wrapper ">
+      <a
+        class="header__back  al_back mh"
+        href="/cointelegraph_news"
+        accesskey="0"
+        aria-label="Wall post"
+        title="Back"
+        
+      ></a>
+      <span class="header__title hb_btn mh_header" aria-hidden="true"><span class="header__text">Wall post</span></span>
+    </h1>
+    <a href="/login?to=d2FsbC0xNzU5OTAzMDFfODMy" class="hb_wrap mhb_notify" accesskey="#">
+  <div class="hb_btn">
+    <em class="mh_btn_label">log in</em>
+  </div>
+</a>
+    </div>
+      <div class="basis__menu"></div>
+      
+      <div class="basis__content mcont " id="mcont" data-canonical="https://vk.com/wall-175990301_832">    <div class="pcont">
+      <div class="PageBlock">
+      
+      
+          <div class="wall_item single_wall_item bl_item mark_top_verified">
+      
+      
+      <div class="wi_head">
+        <a href="/cointelegraph_news?from=post" data-post-id="-175990301_832" data-post-click-type="post_owner_img"><img src="https://pp.userapi.com/c846124/v846124138/163358/_pmAMci_zeY.jpg?ava=1" class="wi_img" /></a>
+        <div class="wi_cont">
+              <div class="wi_author"><a class="pi_author" href="/cointelegraph_news?from=post" data-post-id="-175990301_832" data-post-click-type="post_owner_link"data-post-owner-type="group">Crypto News Cointelegraph.com</a> </div>
+          <div class="wi_info"><span class="wi_date">Feb 16, 2019 at 2:54 am</span></div>
+        </div>
+      </div>
+      <div class="wi_body">
+        
+              <div class="pi_text">Chinese crypto miner Zhu Fa predicted that the price of Bitcoin could reach nearly &#036;740,000</div>
+    <div class="pi_medias"><div class="articleSnippet">
+  
+  <a class="articleSnippet__block  article_snippet__long_title" href="/@cointelegraph_news-rss-710191028-1006454494"">
+    <div class="articleSnippet__thumb" style="background-image: url(https://pp.userapi.com/c846416/v846416975/1a05c5/yNVES55ZejM.jpg)"></div>
+    <div class="articleSnippet__inner">
+      <div class="articleSnippet_info">
+        <div class="articleSnippet_icon"></div>
+        <div class="articleSnippet_deleted">Article deleted</div>
+        <div class="articleSnippet_title">Chinese Crypto Miner Predicts That Bitcoin Could Reach &#036;740K</div>
+        <div class="articleSnippet_author">Crypto News Cointelegraph.com<span class=""></span></div>
+        <div class="articleSnippet_button">READ</div>
+      </div>
+    </div>
+  </a>
+</div><div class="medias_row attachment_type_page"><a class="mr_label medias_link" href="/away.php?to=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fchinese-crypto-miner-predicts-that-bitcoin-could-reach-740k&post=-175990301_832" target="_blank"> <span class="medias_link_icon"><i class="i_icon i_page"></i></span><span class="medias_link_texts"><span class="medias_link_label">Link</span><span class="medias_link_title">Chinese Crypto Miner Predicts That Bitcoin Could Reach &#036;740K</span><span class="medias_link_labeled"> cointelegraph.com</span><span class="medias_link_desc"> https://cointelegraph.com/news/chinese-crypto-miner-predicts-that-bitcoin-could-reach-740k</span></span></a>  <div class="medias_link_btn"><a class="small_button" href="/away.php?to=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fchinese-crypto-miner-predicts-that-bitcoin-could-reach-740k&post=-175990301_832">View page</a></div></div></div>
+    
+        <div class="wi_like_wrap is_empty"></div>
+        <div class="wi_buttons"><div class="wi_buttons_wrap"><span class="like_wrap"><a class="item_like is_empty _i" href="/like?act=add&object=wall-175990301_832&from=wall-175990301_832&hash=58630ee01a9975f5e8&wide=1" aria-label="0 Like"><i class="i_like"></i></a><a class="item_share is_empty _i" href="/like?act=publish&object=wall-175990301_832&from=wall-175990301_832" aria-label="0 Share"><i class="i_share"></i></a><span style="position: absolute; left: -10000px; opacity: 0">0 comments</span></span><span class="item_views " aria-label="2 views"><i class="i_views"></i><b class="v_views">2</b></span></div></div>
+        
+      </div>
+      
+      
+      
+    </div>
+      
+      </div>
+    </div></div>
+          <div class="basis__footer mfoot" id="mfoot"><div class="pfoot">
+  <ul id="footer_menu" class="footer_menu">
+    
+<li class="fm_row"><a class="fm_item" href="/">Home</a></li>
+<li class="fm_row"><a id="fv_link" class="fm_item fv_link" href="/fv?to=%2Fwall-175990301_832%3F_fm%3Dwall%26_fm2%3D1">Desktop version</a></li>
+  </ul>
+  
+</div></div>
+      
+          <div class="_cntrs" style="height:0;overflow:hidden;">
+      <img width="1" height="1" src="//sb.scorecardresearch.com/p?c1=2&c2=13765216&c3=&c4=https%3A%2F%2Fm.vk.com%2Fwall-175990301_832&c5=&c9=&c15=&cv=2.0&cj=1&rn=52870044" alt="" align="left" />
+      
+      <img src="//top-fwz1.mail.ru/counter?id=2579437;pid=0;r=" style="border:0;" height="1" width="1" />
+    </div>
+    </div>
+        </div>
+      </div>
+    </div>
+        <a class="FloatBtn FloatBtn_nowrap" href="/join?from=float"><span class="FloatBtn__text" onclick="uRegisterFloatBtn.checkBtn();">Sign up</span><i class="FloatBtn__close" onclick="uRegisterFloatBtn._onCloseClick(event)"></i></a>
+        
+        <script type="text/javascript">
+<!--
+parent&&parent!=window&&(document.getElementsByTagName('body')[0].innerHTML='');window.store.stickers = {"url_template":"https:\/\/vk.com\/sticker\/1-%id%-%size%-6"};
+//-->
+</script>
+        <div id="vk_utils"></div>
+        <div id="z"></div>
+        <div id="vk_bottom"></div>
+        <div id="theme_color_shim"></div>
+        
+      </body>
+    </html>

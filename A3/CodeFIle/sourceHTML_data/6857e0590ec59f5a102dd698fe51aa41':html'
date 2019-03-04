@@ -1,0 +1,392 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta name="distribution" content="global" />
+<meta name="robots" content="follow, all" />
+<meta name="msvalidate.01" content="8D3F505D642C99EB26E45507554512BC" />
+ <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+	<meta name="google-site-verification" content="gdkEmBcc_KsDVyI3H_WXbKh2TkVvmdyGrjqeOPXad58" />
+<meta name="msvalidate.01" content="8D3F505D642C99EB26E45507554512BC" />
+<meta name="viewport" content="width=1040">
+
+ <meta name="googlebot" content="noindex,follow"> 
+<!-- Escape from Frames  -->
+<script type="text/javascript">if(self==top){document.documentElement.style.display="block"}else{top.location=self.location}</script>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://www.fairfieldcurrent.com/wp-content/themes/alambre/style.css?1530880952" type="text/css" media="screen, projection" />
+
+<link href="https://www.fairfieldcurrent.com/feed" rel="alternate" title="Fairfield Current RSS Feed" type="application/rss+xml" />
+<link href="https://www.fairfieldcurrent.com/feed/atom" rel="alternate" title="Fairfield Current Atom Feed" type="application/atom+xml" />
+<link href="https://www.fairfieldcurrent.com/xmlrpc.php" rel="pingback" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.fairfieldcurrent.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.fairfieldcurrent.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fairfieldcurrent.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fairfieldcurrent.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<!-- Start Meta Data -->
+
+<title> - Fairfield Current</title>
+
+
+<!-- End Meta Data -->
+
+	
+<script type='text/javascript'>var PopupAdChannel=''; </script>
+
+  <link rel="manifest" href="/manifest.json">
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+  <script>
+  	function registerUserChange(action) {
+		OneSignal.getUserId( function(userId) {
+			OneSignalIdString = userId;
+			var Domain = 'fairfieldcurrent.com';
+			var url = "https://www.marketbeat.com/scripts/OneSignalTracking.ashx?OneSignalID=" + OneSignalIdString + "&domain=" + Domain + "&action=" + action;
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', url);
+			xhr.onload = function () {
+				if (xhr.status !== 200) {
+					console.log('GET failed.  Returned status of ' + xhr.status);
+				}
+			};
+			xhr.send();
+		});
+	}
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "f4e466ef-eac6-41b7-91f4-56bed6428a1b",
+      safari_web_id: 'web.onesignal.auto.11181d92-f3cb-414e-9b3e-6471e643153c', 
+      autoRegister: true,
+      notifyButton: {
+        enable: false /* Set to false to hide */
+      },
+ welcomeNotification: {
+        "title": "Join Wall Street's Brightest Minds.",
+        "message": "Receive research in your inbox from top analysts, before the market opens. Click here to learn how.",
+         "url": "https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1997t"
+    }
+    },
+		OneSignal.once('subscriptionChange', function (isSubscribed) {
+			if(isSubscribed) {
+				registerUserChange("subscribe");
+			}
+			else {
+				registerUserChange("unsubscribe");
+			}
+			
+		  })
+	]);
+  </script>
+	
+
+
+
+  <script type="text/javascript">var vbnfgha = '211626'; var ertdfga = '13739-bup-ac'; var qhyuioa = '53938'; var AdClientID = qhyuioa + vbnfgha + ertdfga; AdClientID = AdClientID.split("").reverse().join("");</script>
+	
+
+	<!-- ims -->
+	<script type="text/javascript">
+		var apntag = apntag || {};
+		apntag.anq = apntag.anq || [];
+		(function() {
+			var d = document, e = d.createElement('script'), p = d.getElementsByTagName('head')[0];
+			e.type = 'text/javascript';  e.async = true;
+			e.src = '//acdn.adnxs.com/ast/ast.js';
+			p.insertBefore(e, p.firstChild);
+		})();
+
+		
+		apntag.anq.push(function() {
+			apntag.setPageOpts({
+				member: 6989
+			});
+		});
+
+		apntag.anq.push(function() {
+
+      		apntag.defineTag({
+				tagId: 13685730,
+				sizes: [[300,250]],
+				keywords: {'position': ['RightRail_1']},
+				targetId: 'FairfieldCurrent_ROS_RightRail_1'
+			});
+
+		apntag.anq.push(function() {
+			apntag.loadTags();
+		});
+			});
+		</script>
+	
+	<script type="text/javascript">
+(function() {
+window.advBidxc = window.advBidxc || {};
+window.advBidxc.startTime = new Date().getTime();
+function loadScript(tagSrc) {
+var scriptTag = document.createElement('script'),
+placeTag = document.getElementsByTagName("script")[0];
+scriptTag.type = 'text/javascript';
+scriptTag.async = true;
+scriptTag.src = tagSrc;
+placeTag.parentNode.insertBefore(scriptTag, placeTag);
+}
+var mnSrc = '//hbx.media.net/bidexchange.js?cid=8CU2C156D&version=5.1' + '&dn=' +
+window.location.hostname;
+loadScript(mnSrc);
+})();
+</script>
+	<!-- ims -->
+
+	
+	
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: AdClientID,
+          enable_page_level_ads: true
+     });
+	</script>
+	
+</head>
+
+<body>
+
+
+<header>
+
+	<div id="top-bar">
+		<div class="width-limiter">
+				<!-- top nav bar -->
+				<nav class="navigation"><ul id="menu-header-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.fairfieldcurrent.com/about-us">About Us</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.fairfieldcurrent.com/contact-us">Contact Us</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://www.fairfieldcurrent.com/privacy-policy">Privacy Policy</a></li>
+</ul></nav>		</div><!-- end: width-limiter in top-bar -->
+	</div><!-- end: top-bar -->
+	
+	<div class="width-limiter add-padding"><!-- start: width-limiter with logo and space for alternate header unit -->
+		<a class="logo-link" href="https://www.fairfieldcurrent.com"><img id="logo" src="/wp-content/uploads/2017/08/fairfieldcurrent-logo.png"></a>
+<!-- Begin Header Unit -->
+<div id="AlternateHeaderUnit">
+	
+
+<script type="text/javascript">
+google_ad_client = AdClientID;
+    google_ad_slot = "7653596738";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_channel="9246755130,8569953935"</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+
+	
+</div> 
+
+<!-- End Header Unit-->
+	</div> <!-- end: width-limiter with logo and space for alternate header unit -->
+
+	<div id="menu">
+		<div class="width-limiter" id="nav-main">
+			<!-- start main category menu -->
+			<nav class="navigation"><ul id="menu-main-menu" class="menu"><li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="https://www.fairfieldcurrent.com/business">Business</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="https://www.fairfieldcurrent.com/it">IT</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="https://www.fairfieldcurrent.com/life_culture">Life &#038; Culture</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="https://www.fairfieldcurrent.com/medical">Medical</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://www.fairfieldcurrent.com/research">Research</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="https://www.fairfieldcurrent.com/sport">Sports</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://www.fairfieldcurrent.com/world-news">World News</a></li>
+</ul></nav>
+				<form id="searchform" action="https://www.fairfieldcurrent.com/" method="get">
+					<div id="search">
+						<input id="s" class="searchinput" name="s" onclick="this.value='';" type="text" placeholder="Search" />
+						<input class="searchsubmit" type="submit" value="" />
+					</div>
+				</form><!-- end: searchform -->
+		</div> <!-- end: width-limiter for menu -->
+
+	</div> <!-- end: menu -->
+
+</header> <!-- end: header -->
+<div class="width-limiter main-content">
+		
+
+		<main>
+			<article>
+				<h1>Error 404: Article Not Found</h1>
+				<p>The article you are looking for could not be found (error 404). Here are a few options that might help you:</p>
+				<ul>
+					<li>Use the search box at the top of the page.</li>
+					<li>Try scrolling through the monthly archives in the right sidebar.</li>
+					<li>Try scrolling through the categories at the top of the page.</li>
+				</ul>
+			</article>
+
+			<div id="sponsored-content">
+				<iframe width="654" height="787" scrolling="no" src="//www.dianomi.com/smartads.epl?id=2341"></iframe>
+
+			</div><!-- end sponsored-content -->
+<nav id="prevnext"><!-- previous and next article links -->
+											
+			</nav><!-- end previous and next article links -->
+
+		</main>
+<aside>
+	
+<!-- first square unit -->
+
+<div class="ad336x280">
+	
+ <script type="text/javascript">
+ google_ad_client = AdClientID;
+ /* Ticker 300 */
+    google_ad_slot = "6176863532";
+ google_ad_width = 336;
+ google_ad_height = 280;
+ google_ad_channel="9246755130,9582167132"+PopupAdChannel; </script>
+ <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+ </script>
+	
+</div>
+
+<!-- end first square unit -->
+
+<!-- second square unit -->
+<div class="ad336x280">
+	
+	
+ <script type="text/javascript">
+ google_ad_client = AdClientID;
+ /* Ticker 300 */
+google_ad_slot = "6176863532";
+ google_ad_width = 336;
+ google_ad_height = 280;
+ google_ad_channel="9246755130,2058900337"+PopupAdChannel; </script>
+ <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+ </script>
+	
+
+	
+</div>
+
+<!-- end second square unit -->
+	
+<!-- Begin Dianomi Unit -->
+<iframe width="336" height="670" scrolling="NO" src="//www.dianomi.com/smartads.epl?id=3356" style="width: 336px; border: none; overflow: hidden;"></iframe>
+<!-- End Dianomi Unit -->
+
+	
+<!-- OptIn Form -->
+<!-- Start Sidebar Registration -->
+<!-- End Sidebar Registration -->
+	
+	<div>
+<a href="https://twitter.com/fairfieldcurren" class="twitter-follow-button" data-show-count="false">Follow @FairfieldCurren</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+	
+	<!-- ims -->
+	<div id="FairfieldCurrent_ROS_RightRail_1" class="text-center">
+			<script type="text/javascript">
+			apntag.anq.push(function() {
+				apntag.showTag('FairfieldCurrent_ROS_RightRail_1');
+			});
+			</script>
+		</div>
+	<!-- end ims -->
+
+<!-- start Recent Posts -->
+        <br/>
+        <div>
+        <h3>Recent Posts</h3>
+            <ul>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/fy2020-eps-estimates-for-carrizo-oil-gas-inc-crzo-lowered-by-suntrust-banks.html">FY2020 EPS Estimates for Carrizo Oil &#038; Gas Inc (CRZO) Lowered by SunTrust Banks</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/wedbush-brokers-decrease-earnings-estimates-for-lowes-companies-inc-low.html">Wedbush Brokers Decrease Earnings Estimates for Lowe&#8217;s Companies, Inc. (LOW)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/steven-madden-ltd-expected-to-post-q1-2019-earnings-of-0-39-per-share-shoo.html">Steven Madden, Ltd. Expected to Post Q1 2019 Earnings of $0.39 Per Share (SHOO)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/best-buy-co-inc-to-post-q1-2020-earnings-of-0-84-per-share-oppenheimer-forecasts-bby.html">Best Buy Co Inc to Post Q1 2020 Earnings of $0.84 Per Share, Oppenheimer Forecasts (BBY)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/brokers-issue-forecasts-for-home-depot-incs-q2-2020-earnings-hd.html">Brokers Issue Forecasts for Home Depot Inc&#8217;s Q2 2020 Earnings (HD)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/oppenheimer-weighs-in-on-cross-country-healthcare-inc-s-q2-2019-earnings-ccrn.html">Oppenheimer Weighs in on Cross Country Healthcare, Inc.&#8217;s Q2 2019 Earnings (CCRN)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/03/01/analysts-offer-predictions-for-wright-medical-group-nvs-fy2019-earnings-wmgi.html">Analysts Offer Predictions for Wright Medical Group NV&#8217;s FY2019 Earnings (WMGI)</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/26/weight-watchers-disappoints-investors-with-results-guidance.html">Weight Watchers Disappoints Investors With Results, Guidance</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/23/kraft-heinz-reports-disappointing-quarterly-results.html">Kraft Heinz Reports Disappointing Quarterly Results</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/21/vaccine-exemptions-may-become-subject-to-federal-intervention.html">Vaccine Exemptions May Become Subject To Federal Intervention</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/19/manny-machado-to-sign-10-year-300m-contract-with-padres.html">Manny Machado To Sign 10-Year, $300M Contract With Padres</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/16/apple-buying-voice-app-builder-pullstring.html">Apple Buying Voice App Builder Pullstring</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/14/amazon-to-pay-no-federal-income-tax-for-2018.html">Amazon To Pay No Federal Income Tax For 2018</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/12/apple-and-google-slammed-over-tracking-app.html">Apple And Google Slammed Over Tracking App</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/10/early-filers-seeing-smaller-tax-refunds.html">Early Filers Seeing Smaller Tax Refunds</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/08/toys-r-us-store-closures-negatively-impact-hasbros-profit.html">Toys R Us Store Closures Negatively Impact Hasbro&#8217;s Profit</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/05/earths-magnetic-north-pole-moving-faster-than-before.html">Earth’s Magnetic North Pole Moving Faster Than Before</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/03/gigantic-void-discovered-in-antarctic-glacier.html">Gigantic Void Discovered In Antarctic Glacier</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/02/01/bloom-energy-be-reaches-new-52-week-low.html">Bloom Energy (BE) Reaches New 52-Week Low</a></li>
+                        <li class="recent-posts"><a href="https://www.fairfieldcurrent.com/news/2019/01/31/googles-data-gathering-app-for-iphones-shut-down.html">Google’s Data-gathering App For iPhones Shut Down</a></li>
+                        </ul>
+        </div>  
+<!-- end recent posts -->
+
+</aside><!--end #sidebar-->
+	<div style="clear: both;"></div>
+	</div> 
+<footer class="full-width">
+			<div class="width-limiter">
+
+				<div id="footer-info" class="add-padding">
+					<nav class="navigation"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="https://www.fairfieldcurrent.com/business">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="https://www.fairfieldcurrent.com/it">IT</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="https://www.fairfieldcurrent.com/life_culture">Life &#038; Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="https://www.fairfieldcurrent.com/medical">Medical</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://www.fairfieldcurrent.com/research">Research</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="https://www.fairfieldcurrent.com/sport">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://www.fairfieldcurrent.com/world-news">World News</a></li>
+</ul></nav>					<span id="copyright">
+						&copy; 2006-2019 <a href="https://www.fairfieldcurrent.com">Fairfield Current</a>
+					</span>
+				</div><!-- end #footer-info -->
+
+			</div>	
+		</footer>
+		<script type='text/javascript' src='https://www.fairfieldcurrent.com/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+	
+
+<script defer async type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+
+<!-- Start of StatCounter Code for Fairfield Current -->
+<script type="text/javascript">
+var sc_project=11440451; 
+var sc_invisible=1; 
+var sc_security="3dd6493b"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js"></script><noscript><img class="statcounter" src="//c.statcounter.com/11440451/0/3dd6493b/1/" alt="Web Analytics"></a></noscript>
+<!-- End of StatCounter Code for Fairfield Current -->
+
+		
+	<!-- Start of StatCounter Code for Single, Non-Finance Articles -->
+		<script type="text/javascript">
+		var sc_project=9388441; 
+		var sc_invisible=1; 
+		var sc_security="d9f1b3af"; 
+		document.write("<sc"+"ript type='text/javascript' src='https://www.statcounter.com/counter/counter.js'></" + "script>");
+		</script>
+		<noscript><img class="statcounter" src="https://c.statcounter.com/9388441/0/d9f1b3af/1/"></noscript>
+	<!-- End of StatCounter Code for Finance Articles -->
+
+		
+<!-- Begin Internal Tracking Pixel 2 -->
+<!-- End Internal Tracking Pixel 2-->
+
+
+<!-- Start of StatCounter Code for Updated Articles -->
+<!-- End of StatCounter Code for Updated Articles -->
+
+
+<!-- wjb: 2019-02-19: testing instant.page -->
+<script src="//instant.page/1.1.0" type="module" integrity="sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp"></script>
+
+	</body>
+
+</html>

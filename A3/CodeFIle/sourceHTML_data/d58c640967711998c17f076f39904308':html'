@@ -1,0 +1,2600 @@
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+    <head>
+    <meta charset="utf-8">
+	<meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="msvalidate.01" content="false" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF</title>
+	<meta name="description" content="Today on Blockchain Interview, we dive deep with Diego Zaldivar on how Rootstock RSK Labs are integrating smart contracts into Bitcoin sidechains. We also hear about RIF the Rootstock Infrastructure to bring financial inclusions to those around the world..."/>
+	<meta name="keywords" content="Addison,Bitcoin,Coin,currencies,currency,finance,Infrastructure,investments,market,money,Opinion,projects,research,stock,Tech,Technology,Tokens,Trade,Usa"/>
+	<meta property="fb:app_id" content="502797769787003"/>
+    <meta property="og:site_name" content="Dialogues"/>
+    <meta property="og:url" content="https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281"/>
+    <meta property="og:title" content="Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF"/>
+    <meta property="og:description" content="Today on Blockchain Interview, we dive deep with Diego Zaldivar on how Rootstock RSK Labs are integrating smart contracts into Bitcoin sidechains. We also hear about RIF the Rootstock Infrastructure to bring financial inclusions to those around the world..."/>
+    <meta property="og:image" content="https://cdn.dialogues.org/100555/external/5c675aa2e4b02e0de38126b5/ow0yhcjasf_100555.jpg"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:url" content="https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281"/>
+    <meta name="twitter:title" content="Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF"/>
+    <meta name="twitter:description" content="Today on Blockchain Interview, we dive deep with Diego Zaldivar on how Rootstock RSK Labs are integrating smart contracts into Bitcoin sidechains. We also hear about RIF the Rootstock Infrastructure to bring financial inclusions to those around the world..."/>
+    <meta name="twitter:image" content="https://cdn.dialogues.org/100555/external/5c675aa2e4b02e0de38126b5/ow0yhcjasf_100555.jpg"/>
+	<meta name="msvalidate.01" content="EC26B94CEF769B29DA85DD0A1040D5BF" />
+	<link rel="canonical" href="https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281" />
+
+     <!--[if gte IE 9]>
+      	<link rel="stylesheet" type="text/css" href="https://cdn.dialogues.org/static/themes/pivot/css/ie9.css" />
+	<![endif]-->
+	<!-- 
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>	
+	 -->
+	
+	<link rel="apple-touch-icon" sizes="57x57" href="https://cdn.dialogues.org/100555/static/images/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.dialogues.org/100555/static/images/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.dialogues.org/100555/static/images/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.dialogues.org/100555/static/images/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.dialogues.org/100555/static/images/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.dialogues.org/100555/static/images/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.dialogues.org/100555/static/images/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.dialogues.org/100555/static/images/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="https://cdn.dialogues.org/100555/static/images/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.dialogues.org/100555/static/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://cdn.dialogues.org/100555/static/images/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.dialogues.org/100555/static/images/favicon-16x16.png">
+	<link rel="icon" href="https://cdn.dialogues.org/100555/static/images/favicon.ico" type="image/x-icon" />
+	<link rel="manifest" href="https://cdn.dialogues.org/100555/static/images/manifest.json">
+	
+	
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="https://cdn.dialogues.org/100555/static/images/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="p:domain_verify" content="df1ab48609449ab5790938241edc51e2"/>
+
+	<link type="text/css" href="/themes/dialogs/css/theme.css" rel="stylesheet" />
+    <script src="/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="/js/libs/jquery/jquery-2.2.0.min.js" type="text/javascript" ></script>
+    <!-- 
+	<script type="text/javascript">$(document).bind("mobileinit", function(){$.extend(  $.mobile , {autoInitializePage: false})});</script>
+	<script src="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+     -->
+    <script src="//code.jquery.com/ui/1.9.2/jquery-ui.js" type="text/javascript" ></script>
+	<script src="/assets/javascripts/bootstrap.min.js"></script>
+	<script src="/js/libs/typeahead.bundle.min.js" type="text/javascript" ></script>
+	<script src="/js/libs/bootstrap/bootstrap-tokenfield.js" type="text/javascript" ></script>
+	<script src="/js/libs/swiper.jquery.min.js" type="text/javascript" ></script>
+	<script src="/js/libs/validate/jquery.validate.min.js" type="text/javascript" ></script>
+	<script src="/js/libs/validate/additional-methods.min.js" type="text/javascript" ></script>
+	<script src="/js/libs/jquery.ellipsis.min.js" type="text/javascript" ></script>
+	<script src="https://cdn.dialogues.org/static/js/jsviews.js" type="text/javascript"></script> 
+	<!-- 
+	<script src="/js/libs/chardinjs/chardinjs.min.js" type="text/javascript" ></script>
+	 -->
+	<script src="https://cdn.dialogues.org/static/player/jwplayer.js" type="text/javascript"></script>
+	<script>jwplayer.key="Qlm16Sl8yDBxehGmJRPFJk4kfgnOv/Pohy1UnuTjVgY=";</script>
+
+	<!--  Core lib 
+	<script src="/js/cm.core.js"></script>
+	-->
+	<script src="/js/dist/cm-main.js" type="text/javascript"></script> 
+	<script>
+		var kw ='';
+
+		$(function(){	
+	 		userfaves = JSON.parse('null');
+	 		cm.setAppId('');
+	 		cm.setIdentityId('');
+			cm.setAuthToken('');
+		});
+		var showToolTips = true;
+	</script>
+	
+
+
+
+
+
+
+
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  if(typeof(cm.app().identityId!=='undefined')){
+	  	ga('set', 'userId', ''); 
+  }
+  ga('create', 'UA-89424341-1', 'auto');
+  ga('send', 'pageview');
+</script>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+
+   	<div class="loader">
+    		<div class="spinner">
+    			
+			</div>
+    	</div>
+
+		
+		<div class="nav-container">
+
+			<nav class="top-bar nav-sticky offscreen-menu">
+				<div class="container">
+					<div class="row nav-menu clearfix">
+						<div class="col-xs-4 col-sm-5 col-md-4">
+							
+							
+								
+								<ul class="menu top-menu visible-xs">
+									<li>
+										<i class="fa fa-search search-bar-toggle" style="font-size:28px;margin-top:-3px;"></i>
+									</li>
+								</ul>
+								
+								
+							
+	
+							<a href="/" class="hidden-xs hidden-sm">
+								<img class="logo logo-wide logo-dark" alt="Logo" src="https://cdn.dialogues.org/100555/static/dialogues-logo-lite.png">
+							</a>
+							<ul class="menu top-menu visible-sm">
+								
+								<li><a href="/profession" class="filter-by profession"
+									data-placement="bottom"  data-html="true" 
+									data-original-title="Browse People"
+									data-content="Discover interesting people by profession and age." 
+								>PEOPLE</a></li>
+								<li><a href="/compare" class="filter-by side-by-side pop-tip-off"
+									data-placement="bottom"  data-html="true" 
+									data-original-title="Side by Side"
+									data-content="Compare two people's position on a topic and search for quotes and statements." 
+								>SIDE BY SIDE</a>
+								</li>
+								
+							</ul>
+						</div>
+						<div class="col-xs-4 col-sm-2 text-center visible-xs visible-sm">
+							<a href="/">
+							<img class="logo logo-tall logo-dark" alt="Logo" src="https://cdn.dialogues.org/100555/static/images/favicon-96x96.png">
+							</a>
+						</div>
+						<div class="col-sm-4 col-md-3" style="padding-right:0px;">
+							<ul class="menu top-menu visible-md visible-lg text-center">
+								
+								<li><a href="/professions" class="filter-by profession pop-tip-off"
+									data-placement="bottom"  data-html="true" 
+									data-original-title="Browse People"
+									data-content="Discover interesting people by profession and age." 
+								>PEOPLE</a></li>
+								<li><a href="/compare" class="filter-by side-by-side pop-tip-off"
+									data-placement="bottom"  data-html="true" 
+									data-original-title="Side by Side"
+									data-content="Compare two people's position on a topic and search for quotes and statements." 
+								>SIDE BY SIDE</a></li>
+								
+							</ul>
+						</div>
+						<div class="col-xs-4 col-sm-5 col-md-5 text-right">
+
+							<ul class="menu top-menu" data-intro="Toggle the main search, submit a dialogue, or toggle the main menu" data-position="left">
+								
+									<li class="hidden-xs header-search">
+										<form class="form-inline hidden-xs hidden-sm" id="main-search" action="/find" method="get">
+												<div class="form-group multi-search">
+												  <input type="text" class="form-control main-search typeahead" name="kw" value="" id="kw" placeholder="Search" style="min-width:240px;">
+													<i class="fa fa-search" style="right:12px;top:5px;position:absolute;color:#cacaca;border-radius:8px;"></i>
+												</div>
+												<input type="submit" style="z:index:1;height:1px;border:0px solid transparent;padding:0px;" value=""/>
+										</form>
+										<i class="fa fa-search search-bar-toggle visible-sm" style="font-size:28px;margin-top:-3px;"></i>
+
+									</li>
+									
+ 								
+								<li class="hidden-xs">
+									<a href="/submit" title="Submit Dialogue" style="color:#000;"><i class="icon-dl-upload" style="font-size:25px;"></i></a>
+								</li>
+								<li class="offscreen-toggle">
+									<span class="user profile-photo tiny">
+												<i class="icon-dl-menu" style="margin-top:2px;font-size:20px;">
+												</i>
+												
+									</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="offscreen-container">
+					<i class="fa fa-times fa-1x fa-inverse offscreen-toggle" style="font-size:26px;z-index:2;cursor:pointer;position:absolute;top:10px;right:10px;color:#ccc;"></i>
+					
+					
+					
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="profile-photo small" style="background:#fff;margin-bottom:30px;">
+									<img src="/images/icon.user.png" alt="" width="100%">
+								</div>
+							</div>						
+							<div class="col-xs-8" style="padding-top:10px;">
+									<h4 style="margin-top:4px;" class="text-white"><a href="/login" style="color:#fff;"><strong>Sign-Up</strong></a></h4>										
+							</div>
+						</div>
+					
+					
+					<ul class="list-inline visible-xs" style="font-family:Oswald;text-transform: uppercase;font-weight:400;margin-left:15px;">
+						<li><a href="/professions"><span class="badge alertcount" style="background:#91B2B2;font-size:16px;padding:6px 8px;min-width:104px;font-weight:400;">People</span></a></li>
+						<li><a href="/compare"><span class="badge alertcount" style="background:#91B2B2;font-size:16px;padding:6px 8px;min-width:104px;font-weight:400;">Side by Side</span></a></li>
+						
+					</ul>
+					<ul class="menu">
+						<li><a href="/account/notifications"><span class="badge alertcount" style="background:#91B2B2;">0</span>&nbsp;&nbsp;&nbsp;Notifications</a></li>
+					</ul>
+					<div class="menu-divider"></div>
+					<ul class="menu" style="text-transform: uppercase;">
+						<li><a href="/"> The Latest</a></li>
+						 <li><a href="/latest-interviews/red-vs-blue"> Politics</a></li>
+						<li><a href="/latest-interviews/late-night"> Late Night</a></li>
+						<li><a href="/latest-interviews/sports"> Sports</a></li>
+						<li><a href="/latest-interviews/climate-change"> Climate Change</a></li>
+						<li><a href="/latest-interviews/blockchain"> Blockchain</a></li>
+					</ul>
+					<div class="menu-divider"></div>
+					<ul class="menu">
+						<li><a href="/account"><i class="fa fa-sliders"></i> Dashboard</a></li>
+						<li><a href="/account/dashboard/bookmarks"><i class="icon-dl-bookmark" style="margin-left:9px;margin-right:12px;"></i> Bookmarks</a><span class="badge clipcount"  style="float:right;background:#91B2B2;"></span></li>
+						<li><a href="/account/following"><i class="fa fa-plus"></i> Following</a><span class="badge followingcount"  style="float:right;background:#91B2B2;"></span></li>
+						
+					</ul>
+					<div class="menu-divider"></div>
+					<ul class="menu">
+						
+						
+							
+							
+								<li>
+									<a href="/login">
+										<i class="fa fa-key"  title="Sign-in"></i> Sign-in
+									</a>
+								</li>
+							
+						                        
+						
+					</ul>
+					
+					
+				</div>
+			</nav>
+		</div>
+		<div class="dl-status">
+			<ul class="list-unstyled list-inline">
+				<li><i class="fa-stack fa-lg"> <i
+						class="fa fa-circle fa-stack-2x" style="color: #fbd0c9;"></i> <i
+						class="fa fa-check fa-stack-1x dl-status-icon" style="color: #86abab;"></i>
+				</i></li>
+				<li class="tool-action-status" id="dl-status-message"></li>
+			</ul>
+		</div>
+		<div class="row search-bar">
+			<div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<form  id="main-search" class="main-search mobile" method="get" action="/find" >
+					<input type="hidden" name="st" id="st" value="default" />
+	
+					  <div class="form-group multi-search">
+					    <input type="text" class="form-control line main-search typeahead tt-header" name="kw" 
+					    	id="kw" placeholder="Search for..." value="" style="padding-left:50px;border:1px solid transparent;" />
+						
+						<a id="main-search-type" title="Toggle search type" class="pop-tip-off"
+							data-placement="bottom"  data-html="true" 
+							data-original-title="Search Types"
+							data-content="Click to switch between standard and transcript search.">
+							<i class="icon-dl-search search-type"></i>
+							<i class="fa fa-code search-type" style="display:none;"></i>
+						</a>
+				
+					  </div>
+					<input type="submit" style="z:index:1;height:1px;border:0px solid transparent;padding:0px;" value=""/>
+				</form>
+			</div>
+			<div class="search-type-menu">
+				Find: <a href="javascript:void(0);" class="search-type active" data-type="default">Profiles &amp; Topics</a><span style="color:#86abab;">|</span>
+				<a href="javascript:void(0);" class="search-type" data-type="transcript">Speaker Quotes</a>
+			</div>
+		</div>
+		<div class="row action-bar">
+				<a href="javascript:void(0);" onclick="$('.action-bar').hide();"><i class="fa fa-close" style="font-size:26px;position:absolute;right:40px;top:20px;color:#fff;"></i></a>
+				<div class="col-sm-6 col-sm-offset-1 col-xs-12">
+					<h3 class="text-white"><span style="font-weight:800;">Sign up today to </span>follow your favorite topics and celebrities, and save your research<br></h3>
+				</div>
+				
+				<div class="col-sm-4 col-xs-12">
+					<a href="/signup" class="btn btn-dark btn-large btn-white">Join now, it's free!</a>
+				</div>
+		</div>
+
+
+
+
+
+
+<!--  Import Static Template Logic based on id of the dynamic template? -->
+
+	
+	
+	
+		
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+		
+		
+	
+
+
+<style>
+.bg-image:before {
+    content: "";
+    position: absolute;
+    width: 105%;
+    height: 115%;
+    top: -30px;
+    left: -30px;
+	background-image:url(https://cdn.dialogues.org/100555/external/5c675aa2e4b02e0de38126b5/bg_ow0yhcjasf_100555.jpg);
+}
+@media (min-width: 768px) and (max-width: 991px ) { 
+	.container.content.wizard{width:80% !important;}
+	
+}
+@media (min-width: 992px) and (max-width: 991px ) { 
+	.container.content.wizard{width:80% !important;}
+	
+}
+
+</style>
+
+<div class="main-container">
+		<section class="bg-image blur darken detail-view new-player-wrapper" style="padding:20px 0px;">
+
+			<div class="container detail-panel" style="max-width:1440px;">
+				<div class="row">
+					<div class="col-sm-12">
+
+						<div class="row">
+						
+								<div id="lead-item" itemscope itemType="http://schema.org/Clip" class="col-sm-12 col-md-7 col-lg-8 dl-details new-player" 
+									data-thumbnail="https://cdn.dialogues.org/100555/external/5c675aa2e4b02e0de38126b5/ow0yhcjasf_100555.jpg" 
+									data-url="http://m.youtube.com/watch?v=a_TCbeiYfCM"
+									data-pubdate="Fri Feb 15 18:22:11 UTC 2019"
+									data-id="5c675aa1e4b02e0de38126b4"
+									data-extid="a_TCbeiYfCM"
+									data-path="/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281"
+									data-name="Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF"
+									data-tags="[investments, coin, tech, technology, money, usa, finance, addison, stock, trade, currencies, currency, bitcoin, market, projects, research, opinion, infrastructure, tokens]" 
+									data-refs="[]" 
+									data-logline="CryptoCoinShow">
+									<div class="row">
+										<div class="col-sm-12">
+				
+											<ul class="list-inline pull-right tool-icons" style="font-size:26px;"
+											data-intro="Share or bookmark a dialogue. Click the plus icon to follow the main topic on the left" data-position="bottom">
+												<li style="padding-bottom:4px;">
+													<a href="#mark" title="Set and save a marker" 
+													class="pop-tip"
+													data-placement="bottom"  data-html="true" 
+													data-original-title="Bookmarks"
+													data-content="Save a marker for future reference. Mark a video as often as you like. You can find your markers in your dashboard."
+													><span class="fa fa-map-marker dl-gray save-marker" style="font-size:35px;"></span></a>
+												</li>
+												<li style="padding-bottom:4px;">
+													<a href="#share" title="Share this interview" class="share-it"><span class="dl-gray icon-dl-share" style="font-size:27px;"></span></a>
+												</li>
+												<li>
+													<a href="#bookmark" title="Bookmark this Dialogue" class="clip-it pop-tip"
+													data-placement="bottom"  data-html="true" 
+													data-original-title="Bookmarks"
+													data-content="Save a dialogue and watch it later. You can find your bookmarks in your dashboard." 
+													><span class="icon-dl-bookmark dl-gray" style="font-size:30px;"></span></a>
+												</li>
+												<li>
+													<a href="#follow" title="Follow this topic" class="btn-follow pop-tip"
+													data-placement="bottom"  data-html="true" 
+													data-original-title="Follow Topics"
+													data-content="Receive an email notification whenever we post new dialogues about a topic your're following. You can manage notifications and what you follow in your dashboard" 
+													><span class="dl-gray icon-dl-plus dl-gray" style="font-size:30px;"></span></a>
+												</li>
+											</ul>
+											
+											<ul class="list-inline tag-bar">
+											
+											 	<li>
+													<a href="/topics/bitcoin" class="tag-style"				
+													data-intro="Main topic" data-position="bottom" id="top-tag" itemprop="keywords">Bitcoin</a>
+											 	</li>
+											</ul>
+											
+										</div>
+									</div>
+									<div class="row margin-bottom-10">
+										<div class="col-sm-12" style="display:inline-table;">
+											<h1 style="margin-bottom:15px;display: table-cell;vertical-align:middle;height:72px;" id="title" itemprop="headline">Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF</h1>		
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-sm-12 player-wrapper">
+											
+												<div id="player" itemprop="video" style="width:100%">
+													
+													
+													
+														
+													
+												</div>
+											
+										</div>
+									</div><!--end of row-->
+									
+																			
+									<div class="row margin-bottom-10 dl-meta" style="padding-top:17px;height:112px;overflow:hidden;">
+										<div class="col-sm-4 hidden-xs">
+
+											<ul class="list-inline pull-right visible-xs">
+												<li style="padding-right:6px;">
+													<h3 class="text-center dl-green" style="font-size:24px;" itemprop="interactionStatistic">
+														34
+													</h3>
+												</li>
+												<li style="border-left:1px solid #ccc;padding-left:6px;">
+													<div class="view-count-wrapper">
+														<span class="view-count" style="color:#4a4a4a;font-weight:300;font-size:24px;">Views</span>
+													</div>		
+												</li>
+											</ul>
+
+
+											<ul class="unstyled-list dl-meta">
+												<li>
+													Published: <span style="color:#86abab;" itemprop="datePublished" id="">Feb 15, 2019</span>
+												</li>
+												
+													<li itemprop="contributor">
+														Source: <span style="color:#86abab;" id="source">
+															YouTube 
+															
+															
+															 / CryptoCoinShow
+															
+															</span>
+														
+												</li>
+												<li class="hidden-xs">
+													Channel: <span style="color:#86abab;">
+														<span class="underline" title="More from Dialogues Technology" id="channel">Dialogues Technology</span>
+														
+													</span>
+												</li>
+											
+											</ul>
+										
+										</div>
+										<div class="col-sm-4 col-xs-6">
+										
+											<h4 style="color:#8c8c8c;font-weight:normal;font-size:16px;margin-bottom:10px;"
+											data-intro="Speakers and people referenced in this interview. Click a speaker tag to view the Speaker profile" data-position="top">Speakers</h4> 
+											
+											<div class="dl-speakers">
+												<div class="dl-speakers-content" id="speakers">
+												
+												
+												</div>
+											</div>
+										</div>
+										<div class="col-sm-4 col-xs-6">
+										
+											<h4 style="color:#8c8c8c;font-weight:normal;font-size:16px;margin-bottom:10px;"
+											data-intro="Topics discussed in this interview. Click a topic tag to browse the topic" data-position="top">Topics</h4> 
+
+											<div class="dl-tags">
+												<div class="dl-tags-content" itemprop="keywords" id="topics">
+													
+													
+														
+															<a href="/topic/bitcoin" class="dl-tag" title="Browse topic: Bitcoin">Bitcoin</a>
+															
+														
+													
+														
+															<a href="/topic/coin" class="dl-tag" title="Browse topic: Coin">Coin</a>
+															
+														
+													
+														
+															<a href="/topic/tech" class="dl-tag" title="Browse topic: Tech">Tech</a>
+															
+														
+													
+														
+															<a href="/topic/usa" class="dl-tag" title="Browse topic: Usa">Usa</a>
+															
+														
+													
+														
+															<a href="/topic/addison" class="dl-tag" title="Browse topic: Addison">Addison</a>
+															
+														
+													
+														
+															<a href="/topic/infrastructure" class="dl-tag" title="Browse topic: Infrastructure">Infrastructure</a>
+															
+														
+													
+														
+															<a href="/topic/investments" class="dl-tag" title="Browse topic: investments">investments</a>
+															
+														
+													
+														
+															<a href="/topic/opinion" class="dl-tag" title="Browse topic: Opinion">Opinion</a>
+															
+														
+													
+														
+															<a href="/topic/projects" class="dl-tag" title="Browse topic: projects">projects</a>
+															
+														
+													
+														
+															<a href="/topic/research" class="dl-tag" title="Browse topic: research">research</a>
+															
+														
+													
+														
+															<a href="/topic/tokens" class="dl-tag" title="Browse topic: Tokens">Tokens</a>
+															
+														
+													
+														
+															<a href="/topic/currencies" class="dl-tag" title="Browse topic: currencies">currencies</a>
+															
+														
+													
+														
+															<a href="/topic/currency" class="dl-tag" title="Browse topic: currency">currency</a>
+															
+														
+													
+														
+															<a href="/topic/finance" class="dl-tag" title="Browse topic: finance">finance</a>
+															
+														
+													
+														
+															<a href="/topic/market" class="dl-tag" title="Browse topic: market">market</a>
+															
+														
+													
+														
+															<a href="/topic/money" class="dl-tag" title="Browse topic: money">money</a>
+															
+														
+													
+														
+															<a href="/topic/stock" class="dl-tag" title="Browse topic: stock">stock</a>
+															
+														
+													
+														
+															<a href="/topic/technology" class="dl-tag" title="Browse topic: Technology">Technology</a>
+															
+														
+													
+														
+															<a href="/topic/trade" class="dl-tag" title="Browse topic: Trade">Trade</a>
+															
+														
+													
+												</div>
+											</div>
+										</div>
+									</div><!--end of row-->
+
+								<div class="row margin-bottom-10 hidden-sm">
+										<div class="col-sm-4 hidden-xs">
+
+											<ul class="list-inline">
+												<li style="padding-right:8px;">
+													<h3 class="text-center dl-green" style="font-size:28px;" itemprop="interactionStatistic">
+														34
+													</h3>
+												</li>
+												<li style="border-left:1px solid #ccc;padding-left:8px;">
+													<div class="view-count-wrapper">
+														<span class="view-count" style="color:#4a4a4a;font-weight:300;font-size:22px;">Views</span>
+													</div>		
+												</li>
+											</ul>
+
+										</div>
+										<div class="col-sm-4 col-xs-6">
+											<div id="all-speakers" class="more-tags-panel"></div>
+											<a href="javascript:moreSpeakers();" class="speakers more-tags">More</a>											
+										</div>
+										<div class="col-sm-4 col-xs-6">
+											<div id="all-tags" class="more-tags-panel"></div>
+											<a href="javascript:moreTags();" class="topics more-tags">More</a>											
+										
+										</div>
+									</div><!--end of row-->
+
+									<div id="share-panel" class="tool-action-panel" style="padding:50px 90px">
+
+											<div class="row margin-bottom-30">
+												<div class="col-sm-12 text-center">
+												
+												<ul class="list-unstyled list-inline">
+													<li>
+														<i class="fa-stack fa-lg" style="margin-top:-10px;">
+				  											<i class="fa fa-circle fa-stack-2x" style="color:#fbd0c9;"></i>
+				  											<i class="fa fa-check fa-stack-1x" style="color:#86abab;"></i>
+														</i>
+													</li>													
+													<li class="tool-action-status">Share this Dialogue</li>
+												</ul>
+												</div>
+												
+											</div>
+
+											<div class="row" style="margin-bottom:50px;background:#b7cdcd;padding-top:10px;padding-bottom:10px;">
+												<div class="col-sm-4">
+													<img src="https://cdn.dialogues.org/100555/external/5c675aa2e4b02e0de38126b5/bg_tn_ow0yhcjasf_100555.jpg" width="100%"/>
+												</div>
+												<div class="col-sm-8" style="padding:12px;font-size:20px;line-height:24px;color:#404040;">
+														Blockchain Interviews - Diego Zaldivar , CEO of Rootstock RSK Labs, RIF
+												</div>
+											</div>
+											<div class="row share-options">
+												<div class="col-xs-6">
+													<a href="http://www.facebook.com/sharer/sharer.php?u=https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281" class="facebook"  title="Share on Facebook" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,');return false;">
+													<button type="button" class="btn btn-share bg-facebook"><i class="fa fa-facebook"></i></button></a>
+												 
+												</div>												
+												<div class="col-xs-6">
+													<a href="http://twitter.com/intent/tweet?text=%20https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281" class="twitter" title="Tweet" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">	
+													<button type="button" class="btn btn-share bg-twitter"><i class="fa fa-twitter"></i></button></a>
+												 
+												</div>												
+												<div class="col-xs-6">
+													<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281" class="linkedin" target="_blank" title="Share on LinkedIn" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+													<button type="button" class="btn btn-share bg-linkedin"><i class="fa fa-linkedin"></i></button></a>
+												 
+												</div>												
+												<div class="col-xs-6">
+													<button type="button" class="btn btn-share btn-lite-green btn-email-share"><i class="fa fa-envelope"></i></button>
+												</div>
+												<div class="col-xs-12 text-center">
+													<br/>
+													<button type="button" id="save" class="btn btn-large btn-lite-green cancel-submit">Close</button>
+												</div>												
+											</div>
+											
+											<div class="row share-email" style="display:none;">
+
+												<div class="col-md-12">
+							
+														<form class="form-horizontal" id="form-share-moblet" method="post">
+															<input type="hidden" name="cid" value="5c675aa1e4b02e0de38126b4"/>
+														  <div class="form-group">
+														    <label for="inputEmail" class="col-sm-2 control-label">Email(s)</label>
+														    <div class="col-sm-10">
+														     <textarea class="form-control" name="email" placeholder="One or more email addresses (comma or space separated)" rows="4"></textarea>
+														    </div>
+														  </div>
+														  <div class="form-group">
+														    <label for="questions" class="col-sm-2 control-label">Message</label>
+														    <div class="col-sm-10">
+														      <textarea class="form-control" name="comment" placeholder="Personal message (optional)" rows="5"></textarea>
+														    </div>
+														  </div>
+														  <div class="form-group" style="padding-top:50px;">
+														    <div class="col-sm-offset-2 col-sm-10">
+														      <button type="button" class="btn btn-large btn-dark cancel-submit" style="margin-right:30px;">Cancel</button>   
+														      <button type="submit" id="save" class="btn btn-large btn-lite-green">Submit</button>
+														    </div>
+														  </div>
+														</form>
+												
+												</div>
+											</div>
+
+									</div>									
+							</div>
+							<div class="row visible-sm visible-xs" style="padding:0 15px;">
+								<div class="col-sm-12" style="padding:10px 15px;background:#86abab;border-radius:4px;">
+									<div class="swiper-container related-swiper">
+											<div class="swiper-wrapper">											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5a90c1cbe4b0bb6556fa6572" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5a90c1cce4b0bb6556fa6573/bg_tn_gfi4y62wld_100555.jpg" data-play="5a90c1cbe4b0bb6556fa6572" itemprop="thumbnailUrl" alt="Keiser Report: Infrastructure Projects & Human Migrations (E1192)" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5a90c1cbe4b0bb6556fa6572" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Keiser Report: Infrastructure Projects & Human Migrations (E1192) 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Dec 25, 1191
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/12/31/1191/keiser-report-infrastructure-projects-human-migrations-e1192-/1519436235" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="583b68f9e4b0e5aa7a7661cd" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/583b68fae4b0e5aa7a7661ce/bg_tn_28izc8anes_100555.jpg" data-play="583b68f9e4b0e5aa7a7661cd" itemprop="thumbnailUrl" alt="Ashton Kutcher on his tech investments" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="583b68f9e4b0e5aa7a7661cd" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Ashton Kutcher on his tech investments 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Apr 13, 2016
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/04/13/2016/ashton-kutcher-on-his-tech-investments/1480288505" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="58350d56e4b05d4e37441c21" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/58350d56e4b05d4e37441c22/bg_tn_g140cdvz5i_100555.jpg" data-play="58350d56e4b05d4e37441c21" itemprop="thumbnailUrl" alt="Infrastructure Spending Spree" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="58350d56e4b05d4e37441c21" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Infrastructure Spending Spree 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Sep 21, 2016
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/09/21/2016/infrastructure-spending-spree/1479871830" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5b26df37e4b0c5f4991e1233" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5b26df37e4b0c5f4991e1234/bg_tn_ar5p34id3x_100555.jpg" data-play="5b26df37e4b0c5f4991e1233" itemprop="thumbnailUrl" alt="Chat with Tone Vays - IOTA, Altcoins, Bitcoin" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5b26df37e4b0c5f4991e1233" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Chat with Tone Vays - IOTA, Altcoins, Bitcoin 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Mar 10, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/03/10/2018/chat-with-tone-vays-iota-altcoins-bitcoin/1529274167" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="59c3ebb5e4b0333203293797" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/59c3ebb5e4b0333203293798/bg_tn_dn88ml1wjm_100555.jpg" data-play="59c3ebb5e4b0333203293797" itemprop="thumbnailUrl" alt="MCAFEE COIN | A revolution in venture capital?" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="59c3ebb5e4b0333203293797" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		MCAFEE COIN | A revolution in venture capital? 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Sep 19, 2017
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/09/19/2017/mcafee-coin-a-revolution-in-venture-capital-/1506012085" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5b67f0b2e4b0c5f499399bef" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5b67f0b2e4b0c5f499399bf0/bg_tn_t5w052fz04_100555.jpg" data-play="5b67f0b2e4b0c5f499399bef" itemprop="thumbnailUrl" alt="Interview with Tone Vays - Technical Analysis & Trading Bitcoin Coin Underground" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5b67f0b2e4b0c5f499399bef" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Interview with Tone Vays - Technical Analysis & Trading Bitcoi... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Aug 6, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/08/06/2018/interview-with-tone-vays-technical-analysis-trading-bitcoin-coin-underground/1533538482" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="58a13947e4b0a9e355fa3bc2" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/58a13948e4b0a9e355fa3bc6/bg_tn_njbt1wwsw3_100555.jpg" data-play="58a13947e4b0a9e355fa3bc2" itemprop="thumbnailUrl" alt="Building Infrastructure for a better world" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="58a13947e4b0a9e355fa3bc2" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Building Infrastructure for a better world 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Apr 11, 2016
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/04/11/2016/building-infrastructure-for-a-better-world/1486960967" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5b27cf12e4b0c5f4991e7ade" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5b27cf12e4b0c5f4991e7adf/bg_tn_4p79ciqngu_100555.jpg" data-play="5b27cf12e4b0c5f4991e7ade" itemprop="thumbnailUrl" alt="Bitcoin Q&A: "Blockchain, not Bitcoin"" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5b27cf12e4b0c5f4991e7ade" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Bitcoin Q&A: "Blockchain, not Bitcoin" 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Jun 7, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/06/07/2018/bitcoin-q-a-blockchain-not-bitcoin-/1529335570" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="599f1a8ce4b0ee72557be3f3" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/599f1a8ce4b0ee72557be3f4/bg_tn_h6qbt5ckla_100555.jpg" data-play="599f1a8ce4b0ee72557be3f3" itemprop="thumbnailUrl" alt="Chain.com Interview about Bitcoin Blockchain tech at Money 20/20 Las Vegas 2014" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="599f1a8ce4b0ee72557be3f3" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Chain.com Interview about Bitcoin Blockchain tech at Money 20/... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Nov 11, 2014
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/11/10/2014/chain-com-interview-about-bitcoin-blockchain-tech-at-money-20-20-las-vegas-2014/1503599244" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="58423ad2e4b087f3d3c41cc3" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/58423ad4e4b087f3d3c41cde/bg_tn_yq26beis4r_100555.jpg" data-play="58423ad2e4b087f3d3c41cc3" itemprop="thumbnailUrl" alt="Joost's iPhone Application | USA TODAY Talking Tech" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="58423ad2e4b087f3d3c41cc3" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Joost's iPhone Application | USA TODAY Talking Tech 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Dec 25, 2008
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/12/25/2008/joost-s-iphone-application-usa-today-talking-tech/1480735442" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="586bd04ee4b064a531cefbe9" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/586bd04fe4b064a531cefbea/bg_tn_x48czgsndh_100555.jpg" data-play="586bd04ee4b064a531cefbe9" itemprop="thumbnailUrl" alt="Adam Draper: Bitcoin as a utility for financial markets | The Bitcoin Course" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="586bd04ee4b064a531cefbe9" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Adam Draper: Bitcoin as a utility for financial markets | The ... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Oct 10, 2014
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/10/10/2014/adam-draper-bitcoin-as-a-utility-for-financial-markets-the-bitcoin-course/1483460686" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="59c7bacbe4b03332032a668d" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/59c7bacbe4b03332032a668e/bg_tn_tzc52fokjc_100555.jpg" data-play="59c7bacbe4b03332032a668d" itemprop="thumbnailUrl" alt="The Future Is Bright For Bitcoin - The Crypto Lark Interview" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="59c7bacbe4b03332032a668d" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		The Future Is Bright For Bitcoin - The Crypto Lark Interview 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Sep 24, 2017
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/09/24/2017/the-future-is-bright-for-bitcoin-the-crypto-lark-interview/1506261707" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="567caebee4b0eb5df7ec864e" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/567caebde4b0eb5df7ec864d/bg_tn_ifk2uretrw_100555.jpg" data-play="567caebee4b0eb5df7ec864e" itemprop="thumbnailUrl" alt="Bitcoin interview with Venture Capitalist Nikki Scevac" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="567caebee4b0eb5df7ec864e" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Bitcoin interview with Venture Capitalist Nikki Scevac 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Nov 10, 2015
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/11/10/2015/bitcoin-interview-with-venture-capitalist-nikki-scevac/1451011774" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="575dfbbee4b0dd6998f29584" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/575dfbbfe4b0dd6998f295c7/bg_tn_3hkd1g4mcq_100555.jpg" data-play="575dfbbee4b0dd6998f29584" itemprop="thumbnailUrl" alt="Venture capitalist Tim Draper predicts $10K per Bitcoin by 2018" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="575dfbbee4b0dd6998f29584" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Venture capitalist Tim Draper predicts $10K per Bitcoin by 2018 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Jun 13, 2016
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/06/13/2016/venture-capitalist-tim-draper-predicts-10k-per-bitcoin-by-2018/1465777086" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="59c335b4e4b0333203290409" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/59c335b4e4b033320329040a/bg_tn_u1oxaymlvz_100555.jpg" data-play="59c335b4e4b0333203290409" itemprop="thumbnailUrl" alt="Roger Ver Interview -  Bitcoin China Banned and Another split likely coming for Bitcoin" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="59c335b4e4b0333203290409" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Roger Ver Interview -  Bitcoin China Banned and Another split ... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Sep 21, 2017
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/09/20/2017/roger-ver-interview-bitcoin-china-banned-and-another-split-likely-coming-for-bitcoin/1505965492" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5a5a4176e4b0bb6556e5d97a" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5a5a4176e4b0bb6556e5d97b/bg_tn_n1ooon97a4_100555.jpg" data-play="5a5a4176e4b0bb6556e5d97a" itemprop="thumbnailUrl" alt="Insights on Bitcoin in 2018 --Bitcoin and Ethereum’s Scaling Rivalry - INTERVIEW Jonathan Kaplan" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5a5a4176e4b0bb6556e5d97a" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Insights on Bitcoin in 2018 --Bitcoin and Ethereum’s Scaling R... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Jan 13, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/01/13/2018/insights-on-bitcoin-in-2018-bitcoin-and-ethereum-s-scaling-rivalry-interview-jonathan-kaplan/1515864438" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5b7cddbae4b02e0de318bc11" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5b7cddbae4b02e0de318bc12/bg_tn_lw9tu1gdf8_100555.jpg" data-play="5b7cddbae4b02e0de318bc11" itemprop="thumbnailUrl" alt="Bitcoin Meister interviews Simon Dixon in "This week in Bitcoin"" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5b7cddbae4b02e0de318bc11" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Bitcoin Meister interviews Simon Dixon in "This week in Bitcoin" 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Aug 21, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/08/21/2018/bitcoin-meister-interviews-simon-dixon-in-this-week-in-bitcoin-/1534909882" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="575dfb6fe4b0dd6998f28a55" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/575dfb71e4b0dd6998f28a5a/bg_tn_culjahiuxu_100555.jpg" data-play="575dfb6fe4b0dd6998f28a55" itemprop="thumbnailUrl" alt="$10,000 Per Bitcoin Tim Draper Predictions" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="575dfb6fe4b0dd6998f28a55" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		$10,000 Per Bitcoin Tim Draper Predictions 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Apr 15, 2016
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/04/15/2016/-10-000-per-bitcoin-tim-draper-predictions/1465777007" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5b5dedc1e4b0c5f49935305e" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5b5dedc1e4b0c5f49935305f/bg_tn_7ktsz24db4_100555.jpg" data-play="5b5dedc1e4b0c5f49935305e" itemprop="thumbnailUrl" alt="Interview with Jackson Palmer - Creator of Dogecoin, His Millions, Programming, Blockchain Tech" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5b5dedc1e4b0c5f49935305e" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		Interview with Jackson Palmer - Creator of Dogecoin, His Milli... 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Jul 29, 2018
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/07/29/2018/interview-with-jackson-palmer-creator-of-dogecoin-his-millions-programming-blockchain-tech/1532882369" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+											
+											
+												<div itemscope itemtype="http://schema.org/Clip" 
+													class="swiper-slide" id="5a21479be4b0bb6556d375cd" style="text-align:left;">
+													<div class="item-inner" style="border:none;">
+														<div class="row">
+															<div class="col-sm-12">
+																
+																	<img src="https://cdn.dialogues.org/100555/external/5a21479be4b0bb6556d375ce/bg_tn_5pivqy9fpr_100555.jpg" data-play="5a21479be4b0bb6556d375cd" itemprop="thumbnailUrl" alt="CrossTalk: Bitcoin Fever!" width="100%" />
+																
+															</div>
+															<div class="col-sm-12">
+																<div class="post-title-small">
+																	<a href="javascript:void(0);" class="moblet-path" data-play="5a21479be4b0bb6556d375cd" itemprop="url">
+																		<h2 class="moblet-name" itemprop="headline">
+																		CrossTalk: Bitcoin Fever! 
+																		</h2>
+																	</a>
+																		<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																			Dec 1, 2017
+																		</div>
+																</div>
+															</div>
+														</div>
+														<a href="/interview/12/01/2017/crosstalk-bitcoin-fever-/1512130459" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+													</div>
+												</div>
+											
+																		
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-sm-12 col-md-5 col-lg-4 dl-tools hidden-sm " style="padding-left:0px;padding-right:0px;">
+									
+									<div class="col-sm-6 col-md-12 hidden-xs so-panel so-results" style="padding-right:0px;">
+										<div class="dl-tool-panel new-player">
+											<div class="row margin-bottom-10">
+												<div class="col-sm-12 col-md-12">
+													<h2 style="line-height:36px;">
+													<a href="#" id="back" style="margin-right:30px" class="text-white"><i class="fa fa-chevron-circle-left"></i></a>
+														<a  href="#" id="watch" class="text-white"><strong>Related</strong></a> 
+													<a href="#" id="next" style="margin-left:30px;" class="text-white"><i class="fa fa-chevron-circle-right"></i></a>
+														
+													</h2>
+
+												</div>
+											</div>
+											<div class="row">
+
+												<ul class="list-inline list-nav">
+													<li><a href="javascript:void(0);" data-role="_score" data-order="desc" class="feature-link active">Most Relevant</a></li>
+													<li><a href="javascript:void(0);" data-role="pubDate" data-order="desc" class="feature-link">The Latest</a></li>
+													<li><a href="javascript:void(0);" data-role="viewCount" data-order="desc" class="feature-link">Most Watched</a></li>
+													<li><a href="javascript:void(0);" data-role="pubDate" data-order="asc" class="feature-link">Oldest</a></li>
+												</ul>
+												
+												<div id="related-items-wrapper">
+												<div class="blog-masonry-container" id="related-items">
+
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5a90c1cbe4b0bb6556fa6572" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5a90c1cce4b0bb6556fa6573/bg_tn_gfi4y62wld_100555.jpg" data-play="5a90c1cbe4b0bb6556fa6572" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Keiser Report: Infrastructure Projects & Human Migrations (E1192)" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5a90c1cbe4b0bb6556fa6572" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Keiser Report: Infrastructure Projects & Human Migrations (E1192) 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Dec 25, 1191
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/12/31/1191/keiser-report-infrastructure-projects-human-migrations-e1192-/1519436235" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="583b68f9e4b0e5aa7a7661cd" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/583b68fae4b0e5aa7a7661ce/bg_tn_28izc8anes_100555.jpg" data-play="583b68f9e4b0e5aa7a7661cd" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Ashton Kutcher on his tech investments" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="583b68f9e4b0e5aa7a7661cd" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Ashton Kutcher on his tech investments 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Apr 13, 2016
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/04/13/2016/ashton-kutcher-on-his-tech-investments/1480288505" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="58350d56e4b05d4e37441c21" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/58350d56e4b05d4e37441c22/bg_tn_g140cdvz5i_100555.jpg" data-play="58350d56e4b05d4e37441c21" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Infrastructure Spending Spree" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="58350d56e4b05d4e37441c21" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Infrastructure Spending Spree 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Sep 21, 2016
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/09/21/2016/infrastructure-spending-spree/1479871830" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5b26df37e4b0c5f4991e1233" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5b26df37e4b0c5f4991e1234/bg_tn_ar5p34id3x_100555.jpg" data-play="5b26df37e4b0c5f4991e1233" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Chat with Tone Vays - IOTA, Altcoins, Bitcoin" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5b26df37e4b0c5f4991e1233" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Chat with Tone Vays - IOTA, Altcoins, Bitcoin 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Mar 10, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/03/10/2018/chat-with-tone-vays-iota-altcoins-bitcoin/1529274167" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="59c3ebb5e4b0333203293797" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/59c3ebb5e4b0333203293798/bg_tn_dn88ml1wjm_100555.jpg" data-play="59c3ebb5e4b0333203293797" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="MCAFEE COIN | A revolution in venture capital?" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="59c3ebb5e4b0333203293797" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				MCAFEE COIN | A revolution in venture capital? 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Sep 19, 2017
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/09/19/2017/mcafee-coin-a-revolution-in-venture-capital-/1506012085" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5b67f0b2e4b0c5f499399bef" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5b67f0b2e4b0c5f499399bf0/bg_tn_t5w052fz04_100555.jpg" data-play="5b67f0b2e4b0c5f499399bef" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Interview with Tone Vays - Technical Analysis & Trading Bitcoin Coin Underground" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5b67f0b2e4b0c5f499399bef" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Interview with Tone Vays - Technical Analysis & Trading Bitcoi... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Aug 6, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/08/06/2018/interview-with-tone-vays-technical-analysis-trading-bitcoin-coin-underground/1533538482" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="58a13947e4b0a9e355fa3bc2" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/58a13948e4b0a9e355fa3bc6/bg_tn_njbt1wwsw3_100555.jpg" data-play="58a13947e4b0a9e355fa3bc2" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Building Infrastructure for a better world" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="58a13947e4b0a9e355fa3bc2" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Building Infrastructure for a better world 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Apr 11, 2016
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/04/11/2016/building-infrastructure-for-a-better-world/1486960967" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5b27cf12e4b0c5f4991e7ade" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5b27cf12e4b0c5f4991e7adf/bg_tn_4p79ciqngu_100555.jpg" data-play="5b27cf12e4b0c5f4991e7ade" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Bitcoin Q&A: "Blockchain, not Bitcoin"" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5b27cf12e4b0c5f4991e7ade" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Bitcoin Q&A: "Blockchain, not Bitcoin" 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Jun 7, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/06/07/2018/bitcoin-q-a-blockchain-not-bitcoin-/1529335570" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="599f1a8ce4b0ee72557be3f3" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/599f1a8ce4b0ee72557be3f4/bg_tn_h6qbt5ckla_100555.jpg" data-play="599f1a8ce4b0ee72557be3f3" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Chain.com Interview about Bitcoin Blockchain tech at Money 20/20 Las Vegas 2014" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="599f1a8ce4b0ee72557be3f3" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Chain.com Interview about Bitcoin Blockchain tech at Money 20/... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Nov 11, 2014
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/11/10/2014/chain-com-interview-about-bitcoin-blockchain-tech-at-money-20-20-las-vegas-2014/1503599244" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="58423ad2e4b087f3d3c41cc3" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/58423ad4e4b087f3d3c41cde/bg_tn_yq26beis4r_100555.jpg" data-play="58423ad2e4b087f3d3c41cc3" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Joost's iPhone Application | USA TODAY Talking Tech" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="58423ad2e4b087f3d3c41cc3" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Joost's iPhone Application | USA TODAY Talking Tech 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Dec 25, 2008
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/12/25/2008/joost-s-iphone-application-usa-today-talking-tech/1480735442" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="586bd04ee4b064a531cefbe9" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/586bd04fe4b064a531cefbea/bg_tn_x48czgsndh_100555.jpg" data-play="586bd04ee4b064a531cefbe9" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Adam Draper: Bitcoin as a utility for financial markets | The Bitcoin Course" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="586bd04ee4b064a531cefbe9" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Adam Draper: Bitcoin as a utility for financial markets | The ... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Oct 10, 2014
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/10/10/2014/adam-draper-bitcoin-as-a-utility-for-financial-markets-the-bitcoin-course/1483460686" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="59c7bacbe4b03332032a668d" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/59c7bacbe4b03332032a668e/bg_tn_tzc52fokjc_100555.jpg" data-play="59c7bacbe4b03332032a668d" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="The Future Is Bright For Bitcoin - The Crypto Lark Interview" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="59c7bacbe4b03332032a668d" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				The Future Is Bright For Bitcoin - The Crypto Lark Interview 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Sep 24, 2017
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/09/24/2017/the-future-is-bright-for-bitcoin-the-crypto-lark-interview/1506261707" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="567caebee4b0eb5df7ec864e" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/567caebde4b0eb5df7ec864d/bg_tn_ifk2uretrw_100555.jpg" data-play="567caebee4b0eb5df7ec864e" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Bitcoin interview with Venture Capitalist Nikki Scevac" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="567caebee4b0eb5df7ec864e" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Bitcoin interview with Venture Capitalist Nikki Scevac 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Nov 10, 2015
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/11/10/2015/bitcoin-interview-with-venture-capitalist-nikki-scevac/1451011774" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="575dfbbee4b0dd6998f29584" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/575dfbbfe4b0dd6998f295c7/bg_tn_3hkd1g4mcq_100555.jpg" data-play="575dfbbee4b0dd6998f29584" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Venture capitalist Tim Draper predicts $10K per Bitcoin by 2018" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="575dfbbee4b0dd6998f29584" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Venture capitalist Tim Draper predicts $10K per Bitcoin by 2018 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Jun 13, 2016
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/06/13/2016/venture-capitalist-tim-draper-predicts-10k-per-bitcoin-by-2018/1465777086" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="59c335b4e4b0333203290409" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/59c335b4e4b033320329040a/bg_tn_u1oxaymlvz_100555.jpg" data-play="59c335b4e4b0333203290409" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Roger Ver Interview -  Bitcoin China Banned and Another split likely coming for Bitcoin" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="59c335b4e4b0333203290409" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Roger Ver Interview -  Bitcoin China Banned and Another split ... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Sep 21, 2017
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/09/20/2017/roger-ver-interview-bitcoin-china-banned-and-another-split-likely-coming-for-bitcoin/1505965492" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5a5a4176e4b0bb6556e5d97a" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5a5a4176e4b0bb6556e5d97b/bg_tn_n1ooon97a4_100555.jpg" data-play="5a5a4176e4b0bb6556e5d97a" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Insights on Bitcoin in 2018 --Bitcoin and Ethereum’s Scaling Rivalry - INTERVIEW Jonathan Kaplan" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5a5a4176e4b0bb6556e5d97a" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Insights on Bitcoin in 2018 --Bitcoin and Ethereum’s Scaling R... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Jan 13, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/01/13/2018/insights-on-bitcoin-in-2018-bitcoin-and-ethereum-s-scaling-rivalry-interview-jonathan-kaplan/1515864438" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5b7cddbae4b02e0de318bc11" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5b7cddbae4b02e0de318bc12/bg_tn_lw9tu1gdf8_100555.jpg" data-play="5b7cddbae4b02e0de318bc11" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Bitcoin Meister interviews Simon Dixon in "This week in Bitcoin"" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5b7cddbae4b02e0de318bc11" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Bitcoin Meister interviews Simon Dixon in "This week in Bitcoin" 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Aug 21, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/08/21/2018/bitcoin-meister-interviews-simon-dixon-in-this-week-in-bitcoin-/1534909882" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="575dfb6fe4b0dd6998f28a55" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/575dfb71e4b0dd6998f28a5a/bg_tn_culjahiuxu_100555.jpg" data-play="575dfb6fe4b0dd6998f28a55" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="$10,000 Per Bitcoin Tim Draper Predictions" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="575dfb6fe4b0dd6998f28a55" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				$10,000 Per Bitcoin Tim Draper Predictions 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Apr 15, 2016
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/04/15/2016/-10-000-per-bitcoin-tim-draper-predictions/1465777007" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5b5dedc1e4b0c5f49935305e" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5b5dedc1e4b0c5f49935305f/bg_tn_7ktsz24db4_100555.jpg" data-play="5b5dedc1e4b0c5f49935305e" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="Interview with Jackson Palmer - Creator of Dogecoin, His Millions, Programming, Blockchain Tech" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5b5dedc1e4b0c5f49935305e" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				Interview with Jackson Palmer - Creator of Dogecoin, His Milli... 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Jul 29, 2018
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/07/29/2018/interview-with-jackson-palmer-creator-of-dogecoin-his-millions-programming-blockchain-tech/1532882369" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+													
+													
+														<div itemscope itemtype="http://schema.org/Clip" 
+															class="col-lg-12 col-md-12 col-sm-12 blog-masonry-item" id="5a21479be4b0bb6556d375cd" style="text-align:left;margin-bottom:12px;">
+															<div class="item-inner" style="border:none;">
+																<div class="row">
+																	<div class="col-sm-6">
+																		
+																			<img src="https://cdn.dialogues.org/100555/external/5a21479be4b0bb6556d375ce/bg_tn_5pivqy9fpr_100555.jpg" data-play="5a21479be4b0bb6556d375cd" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="CrossTalk: Bitcoin Fever!" width="100%" />
+																		
+																	</div>
+																	<div class="col-sm-6" style="padding-left:0px;">
+																		<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+																			<a href="javascript:void(0);" class="moblet-path" data-play="5a21479be4b0bb6556d375cd" itemprop="url">
+																				<h2 class="moblet-name" style="font-size:14px;line-height:20px;
+																				height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+																				CrossTalk: Bitcoin Fever! 
+																				</h2>
+																			</a>
+																				<div class="pub-date" itemprop="datePublished" style="margin-bottom:0px;">
+																					Dec 1, 2017
+																				</div>
+																		</div>
+																	</div>
+																</div>
+																<a href="/interview/12/01/2017/crosstalk-bitcoin-fever-/1512130459" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+															</div>
+														</div>
+													
+																				
+																
+																				
+											</div>
+											
+											</div>
+										</div>
+									</div>
+								</div>
+																	
+							</div>
+					
+					</div>
+				</div>
+				
+			</div>
+			</div>
+			
+	</section>
+
+</div>
+
+<div class="main-container tag-nav-container">
+
+</div>
+
+<script src="/themes/dialogs/js/mt.dialog.detail.v2.js"></script>
+<script src="/themes/dialogs/js/dplayer.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+
+var player;
+var mt = 'DOWNLOAD';
+var $container = $('#related-items'); 
+var p = 0;
+var r = 20;
+var cid ='5c675aa1e4b02e0de38126b4';
+followTagName = 'Bitcoin';
+followTagPath = '/topic/bitcoin';
+followTagKey = 'bitcoin';
+isFavoriteTag = false;
+targetIdentityIds = '';
+
+var loaded = false;
+var isLoading = false;
+var pst = new Date(1950,0,1);
+var pet = new Date();
+var mct="moblet-template";
+var toptags = 'bitcoin,coin,tech,usa,addison,projects,investments,research,opinion,infrastructure'; 
+
+var rootPath = '';
+var shareUrl = 'https://www.dialogues.org/02/15/2019/blockchain-interviews-diego-zaldivar-ceo-of-rootstock-rsk-labs-rif/1550277281';
+
+var mtags = toptags;
+if(toptags.length > 0) tags=toptags.split(",");
+console.log(toptags);
+
+//var topTags = JSON.parse('[{"appId":100555,"id":"582be3b2e4b049642f35a4eb","status":"APPROVED","tag":"bitcoin","name":{"en":"Bitcoin"},"parentTag":"topic","sequence":0,"level":2,"path":"topic:bitcoin","count":16,"frequency":16,"frequencies":{"MOBLET":16},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"582bdc18e4b049642f3586c4","status":"APPROVED","tag":"coin","name":{"en":"Coin"},"parentTag":"topic","sequence":0,"level":2,"path":"topic:coin","count":6,"frequency":102,"frequencies":{"MOBLET":102},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"582bdf50e4b049642f3591ec","status":"APPROVED","tag":"tech","name":{"en":"Tech"},"parentTag":"topic","parentTags":["school"],"sequence":0,"level":2,"path":"topic:tech","count":4,"frequency":370,"frequencies":{"MOBLET":370},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"5857259be4b0ddb705246f9a","status":"APPROVED","tag":"usa","name":{"en":"Usa"},"parentTag":"topic","sequence":0,"level":2,"path":"topic:usa","count":3,"frequency":0,"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"58a5d5b6e4b0c64347f5de4a","status":"APPROVED","tag":"addison","name":{"en":"Addison"},"parentTag":"topic","sequence":0,"level":2,"path":"topic:addison","count":2,"frequency":0,"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"5815096ee4b0841b1c389e10","status":"APPROVED","tag":"infrastructure","name":{"en":"Infrastructure"},"parentTag":"topic","parentTags":["structure"],"sequence":2,"level":2,"path":"topic:infrastructure","language":"en","count":1,"frequency":313,"frequencies":{"MOBLET":313},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"582137b97b28be323ce1da5b","status":"APPROVED","tag":"investments","name":{"en":"investments"},"parentTag":"topic","parentTags":["finance"],"sequence":2,"level":2,"path":"topic:investments","language":"en","count":1,"frequency":281,"frequencies":{"MOBLET":281},"score":0.0,"synonyms":["investing"],"rootKey":"topic"},{"appId":100555,"id":"58163363e4b0841b1c38ab01","status":"APPROVED","tag":"opinion","name":{"en":"Opinion"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:opinion","language":"en","count":1,"frequency":2186,"frequencies":{"MOBLET":2186},"score":0.0,"synonyms":["sentiment","persuasion"],"rootKey":"topic"},{"appId":100555,"id":"58213a8a7b28be323ce1e0f3","status":"APPROVED","tag":"projects","name":{"en":"projects"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:projects","language":"en","count":1,"frequency":2093,"frequencies":{"MOBLET":2093},"score":0.0,"synonyms":["task","labor"],"rootKey":"topic"},{"appId":100555,"id":"5814f8ec7b28eef8def403e7","status":"APPROVED","tag":"research","name":{"en":"research"},"parentTag":"topic","parentTags":["investigation","investigate"],"sequence":2,"level":2,"path":"topic:research","language":"en","count":1,"frequency":2918,"frequencies":{"MOBLET":2918},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"582be41de4b049642f35a72b","status":"APPROVED","tag":"tokens","name":{"en":"Tokens"},"parentTag":"topic","parentTags":["symbol"],"sequence":0,"level":2,"path":"topic:tokens","count":1,"frequency":8,"frequencies":{"MOBLET":8},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"582139dd7b28be323ce1df88","status":"APPROVED","tag":"currencies","name":{"en":"currencies"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:currencies","language":"en","count":0,"frequency":56,"frequencies":{"MOBLET":56},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"58213b557b28be323ce1e2b4","status":"APPROVED","tag":"currency","name":{"en":"currency"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:currency","language":"en","count":0,"frequency":342,"frequencies":{"MOBLET":342},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"58213a857b28be323ce1e0e9","status":"APPROVED","tag":"finance","name":{"en":"finance"},"parentTag":"topic","parentTags":["business"],"sequence":2,"level":2,"path":"topic:finance","language":"en","count":0,"frequency":214,"frequencies":{"MOBLET":214},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"58213a427b28be323ce1e05d","status":"APPROVED","tag":"market","name":{"en":"market"},"parentTag":"topic","parentTags":["trade","merchandise"],"sequence":2,"level":2,"path":"topic:market","language":"en","count":0,"frequency":1918,"frequencies":{"MOBLET":1918},"score":0.0,"synonyms":["marketplace"],"rootKey":"topic"},{"appId":100555,"id":"5814d4617b287f4092843b42","status":"APPROVED","tag":"money","name":{"en":"money"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:money","language":"en","count":0,"frequency":15383,"frequencies":{"MOBLET":15383},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"58213a3b7b28be323ce1e04f","status":"APPROVED","tag":"stock","name":{"en":"stock"},"parentTag":"topic","parentTags":["capital"],"sequence":2,"level":2,"path":"topic:stock","language":"en","count":0,"frequency":852,"frequencies":{"MOBLET":852},"score":0.0,"rootKey":"topic"},{"appId":100555,"id":"557901e6e4b0eee2518d21e3","status":"APPROVED","tag":"technology","name":{"en":"Technology"},"parentTag":"topic","sequence":2,"level":2,"path":"topic:technology","language":"en","count":0,"frequency":12096,"frequencies":{"MOBLET":12096},"score":0.0,"synonyms":["engineering"],"rootKey":"topic"},{"appId":100555,"id":"55f364d77b288991cc387676","status":"APPROVED","tag":"trade","name":{"en":"Trade"},"parentTag":"topic","parentTags":["commerce","mercantilism"],"sequence":2,"level":2,"path":"topic:trade","count":0,"frequency":2252,"frequencies":{"MOBLET":2252},"score":0.0,"synonyms":["merchandise"],"rootKey":"topic"}]');
+var topTagList = 'bitcoin,coin,tech,usa,addison,projects,investments,research,opinion,infrastructure,tokens,technology,market,trade,money,currency,stock,finance,currencies'; 
+
+var tagCount = 19;
+var speakerCount = 0;
+var resizeTimer;
+var provider = 'YOUTUBE';
+var mid="5c675aa1e4b02e0de38126b4";
+var filename=" Sound off";
+var media;
+
+$(function() {
+
+	initPage({ 
+		cid : '5c675aa1e4b02e0de38126b4',
+		//oid : '584eda35e4b0efa156cc5033'
+	});
+
+	$("footer").show();
+
+	setTimeout(function(){ 
+		if(('').length==0){
+			$('.action-bar').slideDown('fast');	
+		}
+	}, 120000);
+
+	if($(window).width()<768){
+		mct="moblet-mobile-template";
+		$('.selected-view').html('List View');
+	}
+	
+    var pw = $('#player-sound-off').width();
+    var ph = pw/16*9;
+    $('#player-sound-off').css('height',ph);
+    
+	$('a.feature-link').click(function(){
+		$('a.feature-link').removeClass('active');
+		$(this).addClass('active');
+		sidx=$(this).attr('data-role');
+		sord=$(this).attr('data-order').toUpperCase();
+		scrollToElement('#related-items');
+		resetAndLoad();
+	});
+	if(tagCount<=4){
+		$('.more-tags.topics').hide();
+	}
+	if(speakerCount<=3){
+		$('.more-tags.speakers').hide();
+	}
+	
+
+	cm.initApp(function(){
+			loadMoblets(function(){
+			//initTimeLine();
+		});
+/* 				initTimeLine(function(){
+			loadMoblets();
+			loadMarkers();
+		});
+*/
+
+	});
+
+	$('html').css('background','#404040');
+		
+});
+
+var dplayer;
+
+function onYouTubePlayerAPIReady() {
+ 	console.log('yt ready');
+	dplayer=new DPlayer();
+	dplayer.init('player');
+}
+
+</script>			
+
+
+
+
+
+
+
+
+	
+<script id="moblet-template" type="text/x-jquery-tmpl">
+<div itemscope itemtype="http://schema.org/Clip" class="col-sm-12 col-md-12 col-lg-12 blog-masonry-item list-item" id="{{:id}}" style="text-align:left;margin-bottom:12px;">
+	<div class="item-inner" style="border:none;">
+		<div class="row">
+			<div class="col-xs-6" style="padding-right:10px;">
+				{{if content && content[0] }}
+					<img src="https://cdn.dialogues.org{{:content[0].thumbnailPathBg}}" data-play="{{:id}}" style="cursor:pointer;border-radius:3px 0 0 3px;" itemprop="thumbnailUrl" alt="{{:name}}" width="100%" />
+				{{/if}}
+			</div>
+			<div class="col-xs-6 card-content">
+				<div class="post-title-small"  style="padding-left:0px;padding:4px 12px 4px 4px;">
+					<a  href="javascript:void(0);" data-play="{{:id}}" class="moblet-path" itemprop="url">
+					<h2 class="moblet-name" style="font-size:14px;line-height:20px;height:60px;margin-bottom:0px;color:#404040;text-align:left;" itemprop="headline">
+					{{:~format(name,65)}} 
+					</h2>
+					</a>
+						<div class="pub-date"  itemprop="datePublished" style="margin-bottom:0px;">
+						{{if pubDate}}
+							{{:~dateFormatCustom(pubDate,"mmm d, yyyy")}}
+						{{else}}
+							{{:~dateFormatCustom(version.dateCreated,"mmm d, yyyy")}}
+						{{/if}}
+						</div>
+				</div>
+			</div>
+		</div>
+		<a href="/interview{{:path}}" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+	</div>
+</div>
+</script>
+<script id="moblet-swiper" type="text/x-jquery-tmpl">
+<div itemscope itemtype="http://schema.org/Clip" class="swiper-slide" id="{{:id}}" style="text-align:left;">
+	<div class="item-inner" style="border:none;">
+		<div class="row">
+			<div class="col-xs-12">
+				{{if content && content[0] }}
+					<img src="https://cdn.dialogues.org{{:content[0].thumbnailPathBg}}" data-play="{{:id}}" itemprop="thumbnailUrl" alt="{{:name}}" width="100%" />
+				{{/if}}
+			</div>
+			<div class="col-xs-12 card-content">
+				<div class="post-title-small">
+					<a  href="javascript:void(0);" data-play="{{:id}}" class="moblet-path" itemprop="url">
+					<h2 class="moblet-name" itemprop="headline">
+					{{:~format(name,65)}} 
+					</h2>
+					</a>
+						<div class="pub-date"  itemprop="datePublished" style="margin-bottom:0px;">
+						{{if pubDate}}
+							{{:~dateFormatCustom(pubDate,"mmm d, yyyy")}}
+						{{else}}
+							{{:~dateFormatCustom(version.dateCreated,"mmm d, yyyy")}}
+						{{/if}}
+						</div>
+				</div>
+			</div>
+		</div>
+		<a href="/interview{{:path}}" title="more like this" class="more-like-this"><i class="fa fa-chevron-circle-down"></i></a>
+	</div>
+</div>
+</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+<script id="moblet-template-fixed" type="text/x-jquery-tmpl">
+	<div class="item">
+		<div class="row" style="border:1px solid #ccc;">
+			{{if contentMap && contentMap.FEATURED_IMAGE }}
+				<a href="/moblets/{{:~seoString(name)}}/{{:id}}">
+				<img class="img-responsive" src="{{:contentMap.FEATURED_IMAGE.uri}}?{{:contentMap.FEATURED_IMAGE.version.revision}}" alt="{{:name}}" />
+				</a>
+			{{/if}}
+				<div style="padding:1em;">
+					<div class="moblet-title-block">
+						<a href="/moblets/{{:~seoString(name)}}/{{:id}}"><span class="h4 moblet-title">{{:name}}</span></a>
+					</div>
+					<div class="small">
+						<i class="fa {{:~mobletTypeIcon(mobletType)}} 2x"></i>
+						&nbsp;{{:~friendlyType(mobletType)}} / {{if tags}}<a href="/explore/new/{{:tags[0]}}" title="Browse '{{:~tagName(tags[0])}}'">{{:~tagName(tags[0])}}</a>{{/if}}
+					</div>
+				</div>
+		</div>
+	</div>		
+</script>
+
+
+
+
+
+
+
+
+
+
+	
+<div style="display:none;" title="Flag Content">
+	<div id="flag-item">
+		<form>
+			<p>
+			<label>Concern:</label><br /><select size="1" id="flag-type" class="formA" style="width:420px">
+				<option value='DUPLICATE'>Duplicate</option>
+				<option value='OFFENSIVE'>Offensive</option>
+				<option value='DISAGREE'>I disagree</option>
+				<option value='COPYRIGHT'>Copyright Violation</option>
+				<option value='ADULT'>Adult Content</option>
+			</select>
+			</p>
+			<p>
+			<label>Description:</label><br /> 
+	   		<textarea id="flag-comment" rows="5" maxlength="255" class="formA" style="width:400px"></textarea>
+			</p>
+			<p>
+				<input type="button" class="formBtn" value="Save" onclick="reportMoblet();" /> 
+			</p>
+		</form>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+	
+<div class="modal fade modal-custom modal-result"
+	id="modal-email-moblet" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content text-center">
+			<div class="modal-header" style="padding:60px 60px;">
+				<button type="button" class="close" data-dismiss="modal"
+					aria-hidden="true">&times;</button>
+				<h2>
+					SHARE BY EMAIL 
+				</h2>
+						
+				<form>
+					<div style="margin-top:30px;">
+					<input type="hidden" id="email-cid" value="5c675aa1e4b02e0de38126b4" />
+					<label>Recipient Email(s):</label><br />
+					<input type="text" name="email" id="email" placeholder="Recipient email" class="form-control" />
+					</div>
+					<div style="margin-top:30px;">
+					<label>Personal note:</label><br /> 
+			   		<textarea id="email-comment" rows="5" maxlength="255" class="form-control"  placeholder="Add a personal note (optional)"></textarea>
+					</div>
+					<div style="margin-top:40px;">
+						<button type="button" data-dismiss="modal" class="btn btn-primary height-width-fix">CANCEL</button> 
+						<button type="button" class="btn btn-primary height-width-fix" id="email-moblet">SEND</button> 
+					</div>
+				</form>
+
+			</div>
+
+		</div>
+		<!-- /.modal-content -->
+	</div>
+	<!-- /.modal-dialog -->
+</div>
+
+<script src="/themes/dialogs/js/view.js"></script>
+
+
+
+
+
+
+
+
+	
+<!-- Success -->
+<div id="alerts-success" class="modal modal-alert modal-success fade">
+	<div class="modal-dialog text-center">
+		<div class="modal-content">
+			<div class="modal-header">
+				<img src="https://cdn.dialogues.org/100555/static/images/apple-icon-60x60.png" />
+			</div>	
+			<div class="modal-title margin-top-20" ><h2 id="modal-confirm-title">Thanks!</h2></div>
+			<div class="modal-body alert-message" id="modal-confirm-message">Your information was saved</div>
+			<div class="modal-footer text-center">
+				<button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+			</div>
+		</div> <!-- / .modal-content -->
+	</div> <!-- / .modal-dialog -->
+</div> <!-- / .modal -->
+<!-- / Success -->
+
+<div class="modal fade" id="login-modal"  tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+	         <div class="embed-responsive" style="overflow:hidden;height:100%;width:100%;position:static;" >
+			    <iframe class="embed-responsive-item iframe" style="overflow:hidden;height:100%;width:100%"  frameborder="0" width="100%" height="100%"></iframe>
+      		 </div>
+			<i class="fa fa-close fa-2x" style="cursor:pointer;position:absolute;top:20px;right:20px;" onclick="$('#login-modal').modal('hide');"></i>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+	
+
+		<div class="footer-container">
+	
+		
+			<footer class="short" style="background:#404040;">
+				<div class="container">
+					<div class="row margin-bottom-20">
+						<div class="col-sm-6 text-center" style="padding-top:10px;margin-bottom:20px;">
+							<ul>
+								<li><a href="/about">About</a></li>
+								<li><a href="/blog">Blog</a></li>
+								<li><a href="/jobs">Jobs</a></li>
+								<li><a href="/submit">Submit</a></li>
+								<li><a href="/contact">Contact</a></li>
+							</ul>
+						</div>
+
+						<div class="col-sm-6 follow-us text-center">
+	                                <div class="follow-group" style="padding-bottom:20px;">
+										<a href="https://www.facebook.com/Dialogues-1467990613496592/" target="_new">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+										<a href="https://twitter.com/dialogues_us" target="_new">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+										<a href="https://www.pinterest.com/dialoguesinc/" target="_new">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+										<a href="https://www.linkedin.com/company/dialogues-inc." target="_new">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+										<a href="https://www.instagram.com/dialogue_org/?hl=en" target="_new">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+										<a href="https://aboutme.google.com/b/100991356091835505291/" target="_new" class="last">
+	                                	<span class="fa-stack fa-lg">
+  											<i class="fa fa-circle fa-stack-2x"></i>
+  											<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+										</span>
+										</a>
+	                                </div>
+						</div>
+
+						
+					</div>
+					<div class="row">
+						<div class="col-sm-12 text-center">
+								<span class="sub">© Copyright 2019 Dialogues, Inc. - All Rights Reserved 
+								| <a href="/termsofuse" style="color:#fff;">Terms of Service</a> | <a href="/privacy" style="color:#fff;">Privacy</a>
+								</span>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+								
+<script src="/js/libs/select2/select2.min.js" type="text/javascript" ></script>
+<script src="/js/libs/jquery.isotope.min.js" type="text/javascript" ></script> 
+<script src="/js/libs/packery-mode.pkgd.min.js" type="text/javascript" ></script>
+<script src="/js/libs/imagesLoaded.pkgd.min.js" type="text/javascript" ></script>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="https://cdn.dialogues.org/static/themes/pivot/js/jquery.plugin.min.js"></script>
+<script src="https://cdn.dialogues.org/static/themes/pivot/js/jquery.flexslider-min.js"></script>
+<script src="https://cdn.dialogues.org/static/themes/pivot/js/smooth-scroll.min.js"></script>
+<script src="https://cdn.dialogues.org/static/themes/pivot/js/skrollr.min.js"></script>
+<script src="https://cdn.dialogues.org/static/themes/pivot/js/scrollReveal.min.js"></script>
+<script src="/js/libs/bootstrap/bootstrap-switch.min.js" type="text/javascript" ></script>
+<script src="/js/libs/popover-extra-placements.js" type="text/javascript" ></script>
+<script src="/js/libs/nouislider/nouislider.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<script>
+ WebFont.load({
+    google: {
+      families: ['Lato:400,300,300italic,400italic,700,700italic,900,900italic', 'Oswald:400,300,700']
+    }
+  });
+</script>
+
+<script id="item-share-panel-card-template" type="text/x-jquery-tmpl">
+<div class="item-share-panel card-view">
+<div class="col-xs-6">
+<a href="https://www.facebook.com/sharer/sharer.php?u={{:path}}" class="facebook"  title="Share on Facebook" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,');return false;">
+<button type="button" class="btn btn-share bg-facebook"><i class="fa fa-facebook"></i></button></a>
+</div>												
+<div class="col-xs-6">
+<a href="https://twitter.com/intent/tweet?text={{:name}}%20{{:path}}" class="twitter" title="Tweet" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">	
+<button type="button" class="btn btn-share bg-twitter"><i class="fa fa-twitter"></i></button></a>
+</div>												
+<div class="col-xs-6">
+<a href="https://plus.google.com/share?url={{:path}}" title="Share on Google+" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,');return false;">
+<button type="button" class="btn btn-share bg-google-plus"><i class="fa fa-google"></i></button></a>
+</div>												
+<div class="col-xs-6">
+<a href="https://www.linkedin.com/shareArticle?mini=true&url={{:path}}" class="linkedin" target="_blank" title="Share on LinkedIn" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<button type="button" class="btn btn-share bg-linkedin"><i class="fa fa-linkedin"></i></button></a>
+</div>												
+<div class="col-xs-6">
+<a href="https://pinterest.com/pin/create/button/?url={{:path}}&media={{:image}}&description={{:name}}" target="_blank" title="Pin it" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<button type="button" class="btn btn-share bg-pinterest"><i class="fa fa-pinterest"></i></button></a>
+</div>												
+<div class="col-xs-6">
+<button type="button" class="btn btn-share btn-lite-green btn-email-share" onclick="shareByEmail({path:'{{:path}}',name:'{{:name}}', image:'{{:image}}', cid:'{{:cid}}'});"><i class="fa fa-envelope"></i></button>
+</div>
+<div class="col-xs-12 text-center">
+<br/>
+<i class="fa fa-close fa-2x text-white" onclick="closeShare();"></i>
+</div>												
+</div>
+</script>
+<script id="item-share-panel-list-template" type="text/x-jquery-tmpl">
+<div class="item-share-panel list-view">
+<div class="row">
+	<div class="col-xs-offset-1 col-xs-3">
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{:path}}" class="facebook"  title="Share on Facebook" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,');return false;">
+		<button type="button" class="btn btn-share bg-facebook"><i class="fa fa-facebook"></i></button></a>
+	</div>												
+	<div class="col-xs-3">
+		<a href="https://twitter.com/intent/tweet?text={{:name}}%20{{:path}}" class="twitter" title="Tweet" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">	
+		<button type="button" class="btn btn-share bg-twitter"><i class="fa fa-twitter"></i></button></a>
+	</div>												
+	<div class="col-xs-3">
+		<a href="https://plus.google.com/share?url={{:path}}" title="Share on Google+" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600,');return false;">
+		<button type="button" class="btn btn-share bg-google-plus"><i class="fa fa-google"></i></button></a>
+	</div>		
+</div>							
+<div class="row">
+	<div class="col-xs-offset-1 col-xs-3">
+		<a href="https://www.linkedin.com/shareArticle?mini=true&url={{:path}}" class="linkedin" target="_blank" title="Share on LinkedIn" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+		<button type="button" class="btn btn-share bg-linkedin"><i class="fa fa-linkedin"></i></button></a>
+	</div>
+	<div class="col-xs-3">
+		<a href="https://pinterest.com/pin/create/button/?url={{:path}}&media={{:image}}&description={{:name}}" target="_blank" title="Pin it" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+		<button type="button" class="btn btn-share bg-pinterest"><i class="fa fa-pinterest"></i></button></a>
+	</div>
+	<div class="col-xs-3">
+		<button type="button" class="btn btn-share btn-lite-green btn-email-share" onclick="shareByEmail({path:'{{:path}}',name:'{{:name}}', image:'{{:image}}', cid:'{{:cid}}'});"><i class="fa fa-envelope"></i></button>
+	</div>
+</div>
+<i class="fa fa-close fa-2x text-white" onclick="closeShare();"></i>
+</div>
+</script>
+
+	
+	
+		<script src="/themes/dialogs/js/scripts.js"></script>
+	
+
+
+
+
+  
+  	<a id="scrollup" title="Back to top"><i class="fa fa-angle-up"></i></a>
+
+	
+
+
+
+
+
+
+
+	
+<!-- follow identity Modal -->
+<div id="modal-share-identity" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header text-center">
+				<button class="close" aria-hidden="true" data-dismiss="modal"
+					type="button">x</button>
+				<img
+					src="https://cdn.dialogues.org/100555/static/images/apple-icon-60x60.png" />
+			</div>
+			<div class="modal-body">
+				<div class="row" style="margin-top: 20px">
+					<div class="col-sm-12">
+						<div class="row">
+							<div class="col-sm-6 text-center">
+								<div class="profile-photo large" style="background: #fff;">
+									<img src="" alt="">
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<h3 class="moblet-name">
+								</h3>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-12" style="padding:30px 50px 50px 50px;">
+
+								<form class="form-horizontal" id="form-share-moblet">
+									<input type="hidden" name="cid" id="cid" value=""/>
+									<input type="hidden" name="startInMillis" id="startInMillis" value=""/>
+									<input type="hidden" name="endInMillis" id="endInMillis" value=""/>
+									<div>
+										<label>Recipient Email(s):</label><br /> 
+										<input type="text" name="modal-emails" id="modal-emails"
+											placeholder="Recipient email" class="form-control" />
+									</div>
+									<div style="margin: 30px 0px;">
+										<label>Personal note:</label><br />
+										<textarea id="email-comment" rows="4" maxlength="255"
+											class="form-control"
+											placeholder="Add a personal note (optional)"></textarea>
+									</div>
+									<div class="text-center">
+										<button type="button" class="btn btn-default form-control btn-large action-btn ">Share</button>
+									</div>
+								</form>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- / .modal-content -->
+</div>
+<!-- / .modal-dialog -->
+<!-- / follow identity Modal -->
+<script type="text/javascript">
+	function showData(moblet){
+
+		$('.profile-photo img').attr('src',moblet.image);
+		$('.moblet-name').html(moblet.name);
+		$('#cid').val(moblet.cid);
+		$('#startInMillis').val(moblet.start);
+		$('#endInMillis').val(moblet.end);
+		
+		$('.moblet-name').ellipsis({
+			row : 4,
+			onlyFullWords:true,
+		});
+	}
+	$(function() {
+		
+		$('.action-btn').click(function(){
+			var emails=$('#modal-emails').val();
+			var cid=$('#cid').val();
+			var message=$('#email-comment').val();
+			var start = $('#startInMillis').val();
+			var end = $('#endInMillis').val();
+			if(start != null && start != ""){
+				cm.postRequest('/v1/moblet/action/shareClip',{'cid':cid,
+					'emails':emails,
+					'comment':message,
+					'cs':start,
+					'ce':end,}, function(r){
+					if(r.status.code == 200){
+						$('#modal-confirm-title').html("Thank you");
+						$('#modal-confirm-message').html("Profile was shared");
+	                	$('#alerts-success').modal('show');
+	                	$('#modal-share-identity').modal('hide');
+					}
+					else{
+						$('#modal-confirm-title').css('color', '#ff471a');
+						$('#modal-confirm-title').html("Error While Sharing");
+						$('#modal-confirm-message').html(r.status.message);
+	                	$('#alerts-success').modal('show');
+					}
+				});
+			}
+			
+			else {
+				cm.getRequest('/v1/moblet/shareByEmail?cid='+cid+'&email='+
+						''+emails+'&comment='+message, function(r){
+					if(r.status.code == 200){
+						$('#modal-confirm-title').html("Thank you");
+						$('#modal-confirm-message').html("Profile was shared");
+	                	$('#alerts-success').modal('show');
+	                	$('#modal-share-identity').modal('hide');
+					}
+					else{
+						$('#modal-confirm-title').css('color', '#ff471a');
+						$('#modal-confirm-title').html("Error While Sharing");
+						$('#modal-confirm-message').html(r.status.message);
+	                	$('#alerts-success').modal('show');
+					}
+				});
+			}
+		});
+	});
+</script>
+  
+    </body>
+</html>
+
+				
+

@@ -1,0 +1,227 @@
+<html lang="en">
+<head>
+<title>The Signal. The best cryptocurrency signals on the web for Binance & Bittrex.</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="Expires" content="Thu, 26 Nov 2017 23:59:59 GMT">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="description" content="We provide the best cryptocurrency/alt-coin signals for Binance & Bittrex exchanges.">
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="stylesheet" href="frontend/_assets/_css/foundation.css">
+<script>
+	var module="page";
+	</script>
+</head>
+<body>
+<div class="root desktop mobile">
+<input type="checkbox" value="1" id="headerswitch" name="headerswitch">
+<div class="header-wrapper">
+<header class="header-content">
+<div class="menu hide">
+<label for="headerswitch" class="menu-button">
+&#9776;
+<span>toggle menu</span>
+</label>
+</div>
+<div class="logo">
+<a href="/"></a>
+</div>
+<nav>
+<ul>
+<li>
+<a class="button" href="/register.html">Register</a>
+</li>
+<li>
+<a class="button" href="/renew.html">Renew</a>
+</li>
+<li>
+<a class="button" href="https://dashboard.thesignal.io">Sign in</a>
+</li>
+</ul>
+</nav>
+</header>
+</div>
+
+<div class="body-wrapper">
+<div class="hero-wrapper">
+<div class="hero-content">
+<div class="offset">
+<h1>We know what's beyond the Horizon.</h1>
+<p>
+Searching for the best cryptocurrency trade signals with good profits?<br>
+Join us on our Premium service and enjoy the best trade Signals on the web!
+</p>
+<a class="button" href="/register.html">Sign up for Premium</a>
+</div>
+</div>
+</div>
+<div class="body-content">
+<div class="keys">
+<div>
+<h2>Premium Social Feed</h2>
+<p>
+<a class="" href="/register.html">Get Access</a> to our Premium <a rel="me" target="_blank" href="https://www.twitter.com/signals_premium">Twitter</a> and <a rel="me" target="_blank" href="https://t.me/thesignalbot">Telegram</a> feed where we can notify you with the latest Signals from our expert traders.
+</p>
+</div>
+<div>
+<h2>Premium Signals</h2>
+<p>
+<a class="" href="/register.html">Subscribe to our Premium service</a> and you'll enjoy access to the best trade Signals on the web for use on Binance & Bittrex Digital Currency Exchanges.<br><br>
+Last March alone, our Signals enjoyed profits ranging from 10%-152% with 213 signals given at an 88% success rate!
+</p>
+</div>
+<div>
+<h2>Signals Dashboard</h2>
+<p>
+<a class="" href="/register.html">Get access</a> to our live updating <a rel="me" target="_blank" href="https://dashboard.thesignal.io">Signals Dashboard</a> on our website, which provides a great view of which Signals are new, running or finished.
+</p>
+</div>
+</div>
+<div class="hero">
+<h2>And we'll keep on expanding our Premium service!</h2>
+<p>
+This year we'll be adding a profit calculator, trading strategies, intelligent probability estimator, a mobile app for iOS & Android, Stop-loss manager, success rate reports of past signals and much more!<br>There's so much more coming to The Signal!
+</p>
+<a class="button" href="/register.html">Register here for Premium</a>
+</div>
+</div>
+</div>
+<div class="footer-wrapper">
+<footer class="footer-content">
+<div class="links">
+<h2>Social</h2>
+<ul>
+<li>
+<a rel="me" target="_blank" href="https://medium.com/@thesignal">Blog</a>
+</li>
+<li>
+<a rel="me" target="_blank" href="https://t.me/thesignalio">Telegram</a>
+</li>
+<li>
+<a rel="me" target="_blank" href="https://t.me/thesignalbot">Telegram Premium</a>
+</li>
+<li>
+<a rel="me" target="_blank" href="https://www.twitter.com/thesignalio">Twitter</a>
+</li>
+<li>
+<a rel="me" target="_blank" href="https://www.twitter.com/signals_premium">Twitter Premium</a>
+</li>
+<li>
+<a rel="me" target="_blank" href="https://dashboard.thesignal.io">Dashboard</a>
+</li>
+<li>
+<a rel="me" href="/cdn-cgi/l/email-protection#29414c454546695d414c5a404e474845074046">Contact</a>
+</li>
+</ul>
+</div>
+<div class="copyright">© copyright The Signal 2018</div>
+</footer>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+		
+		$(document).ready(function() 
+		{
+			var p = $(".page-wrapper");
+			var nav = $(".nav > ul > li");
+
+
+
+			$("#menu, .bg").on("click", function()
+			{
+				p.toggleClass("resize");
+				nav.removeClass("active");
+
+			});
+
+			
+			
+			$(".nav > ul > li.sub > a").on("click", function(e)
+			{
+				e.preventDefault();
+				t = $(this).parent();
+				
+					nav.not(t).removeClass("active");
+
+					if (t.hasClass("active")) {
+					t.removeClass("active");
+ 						 					
+					if ($(window).width() > 767) {					
+ 						p.removeClass("resize");
+ 					
+ 					}
+
+					} else {
+						t.addClass("active");
+					p.addClass("resize");
+
+					}
+					
+									
+			});
+		
+
+		});
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-1217150-70', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+
+<script>
+    (function(h,o,t,j,a,r)
+    {
+        h.hj=h.hj||function()
+        {
+	        (h.hj.q=h.hj.q||[]).push(arguments)
+	    };
+        h._hjSettings=
+        { 
+	        hjid:923057,hjsv:6
+	    };
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    }
+    )(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script>
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('deh8eyn3a3er');
+</script>
+
+</body>
+</html> 

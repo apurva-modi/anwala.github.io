@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="it-IT" prefix="og: http://ogp.me/ns#">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-68715559-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-68715559-3');
+</script>
+<meta charset="UTF-8" />
+<meta name="description" content="Il sito di riferimento in Italia sul mondo Linux & BSD, con guide Android specializzate e review!">
+<meta name="keywords" content="Linux, BSD, Guide, Android">
+<meta name="author" content="Salvo Cirmi">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://tuxnews.it/xmlrpc.php" />
+<title>Wine 4.2 rilasciato con USN e supporto ECC Crypto Key! &#8211; TuxNews.it</title>
+<meta property="og:title" content="Wine 4.2 rilasciato con USN e supporto ECC Crypto Key! - TuxNews.it"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Wine! il non-emulatore è appena approdato in una nuovissima edizione, tutta per noi/voi/essi. Vediam"/>
+<meta property="og:url" content="https://tuxnews.it/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key/"/>
+<meta property="og:site_name" content="TuxNews.it"/>
+<meta property="og:image" content="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TuxNews.it &raquo; Feed" href="https://tuxnews.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TuxNews.it &raquo; Feed dei commenti" href="https://tuxnews.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TuxNews.it &raquo; Wine 4.2 rilasciato con USN e supporto ECC Crypto Key! Feed dei commenti" href="https://tuxnews.it/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tuxnews.it\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://tuxnews.it/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://tuxnews.it/wp-content/plugins/cookie-notice/css/front.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-buttons-style-css'  href='https://tuxnews.it/wp-content/plugins/taqyeem-buttons/assets/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-style-css'  href='https://tuxnews.it/wp-content/plugins/taqyeem/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-ilightbox-skin-css'  href='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='Ubuntu-css'  href='https://fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='an_style-css'  href='https://tuxnews.it/wp-content/uploads/YjIqxzQyEjAD/BxufiYNMAJTA.css' type='text/css' media='all' />
+<style id='an_style-inline-css' type='text/css'>
+/*	an_style.css	AdBlock Notify	Copyright: (c) 2016 Themeisle, themeisle.com	Version: 2.2.3*/.DBWgZAHYJqog-bg {	display: none;	position: fixed;	z-index: 100;	top: 0;	left: 0;	width: 100%;	height: 100%;	background: #000;	background: rgba(0,0,0,0.75);}.DBWgZAHYJqog {	visibility: hidden;	position: fixed;	z-index: 101;	top: 100px;	right: 0;	left: 0;	max-width: 640px;	margin-right: auto;	margin-left: auto;	background: #fff;	-webkit-box-shadow: 0 3px 5px 2px rgba(0,0,0,0.25);	box-shadow: 0 3px 5px 2px rgba(0,0,0,0.25);	font-family: Arial, Helvetica, sans-serif;}.DBWgZAHYJqog-default,.DBWgZAHYJqog-ok {	padding: 30px 30px 15px;}.DBWgZAHYJqog-image {	overflow: hidden;	position: relative;	width: 100%;}.DBWgZAHYJqog-image .DBWgZAHYJqog-left {	position: absolute;	top: 0;	left: 0;	width: 50%;	height: 100%;}.DBWgZAHYJqog-image .DBWgZAHYJqog-right {	float: right;	width: 50%;	padding: 30px;}.DBWgZAHYJqog.small {	width: 200px;	margin-left: -140px;}.DBWgZAHYJqog.medium {	width: 400px;	margin-left: -240px;}.DBWgZAHYJqog.large {	width: 600px;	margin-left: -340px;}.DBWgZAHYJqog.xlarge {	width: 800px;	margin-left: -440px;}.close-DBWgZAHYJqog {	display: inline-block;	position: absolute;	top: 15px;	right: 15px;	width: 30px;	height: 30px;	color: #bbb;	font-size: 32px;	font-weight: 700;	line-height: 30px;	text-align: center;	cursor: pointer;	-webkit-transition: 0.3s;	transition: 0.3s;}.close-DBWgZAHYJqog:hover {	color: #252b37;}.DBWgZAHYJqog h1 {	margin-bottom: 15px;	padding: 0 30px;	color: #252b37;	font-size: 28px;	line-height: 1.25;	text-align: center;}.DBWgZAHYJqog-right h1 {	padding: 0 30px 0 0;	text-align: left;}.DBWgZAHYJqog p {	margin-bottom: 15px;	color: #333745;	font-size: 14px;}.DBWgZAHYJqog p a {	color: #ff6160;}.DBWgZAHYJqog-right .close-modal,.DBWgZAHYJqog-footer .close-modal {	padding: 15px !important;	border-radius: 0 !important;	background-color: #ff6160;	font-size: 14px;	letter-spacing: 2px !important;	-webkit-transition: 0.3s;	transition: 0.3s;}.DBWgZAHYJqog-right .close-modal:hover,.DBWgZAHYJqog-footer .close-modal:hover {	background-color: #252b37 !important;}.DBWgZAHYJqog-footer .grey-button-modal {	margin-right: 15px;	background-color: #a5a5a5;}.DBWgZAHYJqog-footer {	display: block;	padding: 15px 30px;	background-color: #eff4f7;	text-align: right;}@media only screen and (max-width: 640px) {	.DBWgZAHYJqog {		right: 5%;		left: 5%;		max-width: 90%;	}	.DBWgZAHYJqog-default {		padding: 20px;	}	.DBWgZAHYJqog-image .DBWgZAHYJqog-left {		width: 100%;		height: 250px;	}	.DBWgZAHYJqog-image .DBWgZAHYJqog-right {		float: left;		width: 100%;		margin-top: 250px;		padding: 20px;	}	.DBWgZAHYJqog h1 {		margin-bottom: 10px;		font-size: 20px;	}	.DBWgZAHYJqog-right h1 {		padding: 0;	}	.DBWgZAHYJqog p {		margin-bottom: 10px;	}	.close-DBWgZAHYJqog {		color: #fcfcfc;		background-color: #252b37;	}	.close-DBWgZAHYJqog:hover {		color: #252b37;		background-color: #fcfcfc;	}	.DBWgZAHYJqog-footer {		padding: 15px 20px;	}}@media only screen and (max-width: 480px) {	.DBWgZAHYJqog-image .DBWgZAHYJqog-left {		height: 200px;	}	.DBWgZAHYJqog-image .DBWgZAHYJqog-right {		margin-top: 200px;	}	.DBWgZAHYJqog-footer {		text-align: center;	}	.DBWgZAHYJqog-footer .close-modal {		width: 80%;		margin: 5px 10%;	}}
+</style>
+<script type='text/javascript' src='https://tuxnews.it/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/tuxnews.it\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/cookie-notice/js/front.min.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/taqyeem/js/tie.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tieViewsCacheL10n = {"admin_ajax_url":"https:\/\/tuxnews.it\/wp-admin\/admin-ajax.php","post_id":"40565"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/postviews-cache.js'></script>
+<link rel='https://api.w.org/' href='https://tuxnews.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tuxnews.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tuxnews.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Valve Proton 3.16-7 rilasciato, il gaming su Linux prende forma' href='https://tuxnews.it/valve-proton-3-16-7-rilasciato-il-gaming-su-linux-prende-forma/' />
+<link rel='next' title='Debian 9.8 rilasciato, con i fix di sicurezza che aspettavate!' href='https://tuxnews.it/debian-9-8-rilasciato-con-i-fix-di-sicurezza-che-aspettavate/' />
+<meta name="generator" content="WordPress 5.1" />
+<link rel="canonical" href="https://tuxnews.it/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key/" />
+<link rel='shortlink' href='https://tuxnews.it/?p=40565' />
+<link rel="alternate" type="application/json+oembed" href="https://tuxnews.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftuxnews.it%2Fwine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://tuxnews.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftuxnews.it%2Fwine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key%2F&#038;format=xml" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://tuxnews.it/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+/* ]]> */
+</script>
+<style type="text/css" media="screen">
+
+</style>
+<link rel="shortcut icon" href="https://tuxnews.it/wp-content/uploads/2015/11/tuxnews.png" title="Favicon" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/html5.js"></script>
+<script src="https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/css/ie7.css" />
+<![endif]-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://tuxnews.it/wp-content/uploads/2015/11/TuxNewsit-APPLE-144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://tuxnews.it/wp-content/uploads/2015/11/TuxNewsit-APPLE-120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://tuxnews.it/wp-content/uploads/2015/11/TuxNewsit-APPLE-72.png" />
+<link rel="apple-touch-icon-precomposed" href="https://tuxnews.it/wp-content/uploads/2015/11/TuxNewsit-APPLE.png" />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9272529991418202",
+          enable_page_level_ads: true
+     });
+</script>
+
+<style type="text/css" media="screen">
+
+body{
+	font-family: 'Ubuntu';
+	font-style: normal;
+}
+
+.logo h1 a, .logo h2 a{
+	font-family: 'Ubuntu';
+	font-weight: bold;
+	font-style: normal;
+}
+
+.logo span{
+	font-family: 'Ubuntu';
+	font-weight: normal;
+	font-style: italic;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height:8px;
+}
+
+
+.background-cover{
+	background-color: !important;
+	background-image : url('https://tuxnews.it/wp-content/uploads/2018/04/background-1.jpg') !important;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://tuxnews.it/wp-content/uploads/2018/04/background-1.jpg',sizingMethod='scale') !important;
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://tuxnews.it/wp-content/uploads/2018/04/background-1.jpg',sizingMethod='scale')" !important;
+}
+	
+a {
+	color: #000000;
+}
+		
+a:hover {
+	text-decoration: underline;
+}
+		
+body.single .post .entry a, body.page .post .entry a {
+	color: #f99109;
+}
+		
+#theme-header {
+	background-color:#ffffff !important; 
+				}
+
+
+#wrapper, #wrapper.wide-layout, #wrapper.boxed-all { background:#ffffff     ;}
+
+.tie-cat-9589 a.more-link {background-color:#e67e22;}
+.tie-cat-9589 .cat-box-content {border-bottom-color:#e67e22; }
+			
+.tie-cat-9590 a.more-link {background-color:#2ecc71;}
+.tie-cat-9590 .cat-box-content {border-bottom-color:#2ecc71; }
+			
+.tie-cat-9591 a.more-link {background-color:#9b59b6;}
+.tie-cat-9591 .cat-box-content {border-bottom-color:#9b59b6; }
+			
+.tie-cat-9592 a.more-link {background-color:#34495e;}
+.tie-cat-9592 .cat-box-content {border-bottom-color:#34495e; }
+			
+.tie-cat-9593 a.more-link {background-color:#795548;}
+.tie-cat-9593 .cat-box-content {border-bottom-color:#795548; }
+			
+.tie-cat-9594 a.more-link {background-color:#4CAF50;}
+.tie-cat-9594 .cat-box-content {border-bottom-color:#4CAF50; }
+			
+</style>
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+				var sf_position = '0';
+				var sf_templates = "<a href=\"{search_url_escaped}\">Guarda tutti i risultati!<\/a>";
+				var sf_input = '.search-live';
+				jQuery(document).ready(function(){
+					jQuery(sf_input).ajaxyLiveSearch({"expand":false,"searchUrl":"https:\/\/tuxnews.it\/?s=%s","text":"Search","delay":500,"iwidth":180,"width":315,"ajaxUrl":"https:\/\/tuxnews.it\/wp-admin\/admin-ajax.php","rtl":0});
+					jQuery(".live-search_ajaxy-selective-input").keyup(function() {
+						var width = jQuery(this).val().length * 8;
+						if(width < 50) {
+							width = 50;
+						}
+						jQuery(this).width(width);
+					});
+					jQuery(".live-search_ajaxy-selective-search").click(function() {
+						jQuery(this).find(".live-search_ajaxy-selective-input").focus();
+					});
+					jQuery(".live-search_ajaxy-selective-close").click(function() {
+						jQuery(this).parent().remove();
+					});
+				});
+			/* ]]> */
+		</script>
+		<link rel="amphtml" href="https://tuxnews.it/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key/amp/"><link rel="icon" href="https://tuxnews.it/wp-content/uploads/2018/04/cropped-TuxNews.it-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tuxnews.it/wp-content/uploads/2018/04/cropped-TuxNews.it-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://tuxnews.it/wp-content/uploads/2018/04/cropped-TuxNews.it-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tuxnews.it/wp-content/uploads/2018/04/cropped-TuxNews.it-favicon-270x270.png" />
+</head>
+<body id="top" class="post-template-default single single-post postid-40565 single-format-standard cookies-not-set lazy-enabled">
+
+<div class="wrapper-outer">
+
+	<div class="background-cover"></div>
+
+	<aside id="slide-out">
+
+			<div class="search-mobile">
+			<form method="get" id="searchform-mobile" action="https://tuxnews.it/">
+				<button class="search-button" type="submit" value="Cerca"><i class="fa fa-search"></i></button>
+				<input type="text" id="s-mobile" name="s" title="Cerca" value="Cerca" onfocus="if (this.value == 'Cerca') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Cerca';}"  />
+			</form>
+		</div><!-- .search-mobile /-->
+	
+			<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="https://tuxnews.it/feed/" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/TuxNewsit/" target="_blank"><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/TuxNews_it/" target="_blank"><i class="fa fa-twitter"></i></a><a class="ttip-none" title="LinkedIn" href="https://www.linkedin.com/in/salvo-davide-cirmi-b49802103" target="_blank"><i class="fa fa-linkedin"></i></a><a class="ttip-none" title="Youtube" href="https://www.youtube.com/channel/UCPLvPSwll0ecQlfrWnodldQ" target="_blank"><i class="fa fa-youtube"></i></a><a class="ttip-none" title="instagram" href="https://www.instagram.com/tuxnews.it/" target="_blank"><i class="fa fa-instagram"></i></a><a class="ttip-none" title="Google Play" href="https://play.google.com/store/apps/details?id=app.tuxnewsit&#038;hl=it" target="_blank"><i class="fa fa-play"></i></a>
+			</div>
+
+	
+		<div id="mobile-menu" ></div>
+	</aside><!-- #slide-out /-->
+
+		<div id="wrapper" class="boxed-all">
+		<div class="inner-wrapper">
+
+		<header id="theme-header" class="theme-header">
+						<div id="top-nav" class="top-nav">
+				<div class="container">
+
+			
+				<div class="top-menu"><ul id="menu-menu-bianchetto" class="menu"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32"><a href="http://tuxnews.it/">Home</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://tuxnews.it/contattami-%e2%98%8e/">Contattami</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://tuxnews.it/licenza-privacy-policy/">Licenza &#038; Privacy Policy</a></li>
+<li id="menu-item-28408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28408"><a href="https://tuxnews.it/app-ufficiale/">App ufficiale!</a></li>
+<li id="menu-item-23966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"><a href="https://tuxnews.it/chi-sono-cosa-faccio-cosa-voglio/">Chi sono, cosa faccio, cosa voglio</a></li>
+</ul></div>
+						<div class="search-block">
+						<form method="get" id="searchform-header" action="https://tuxnews.it/">
+							<button class="search-button" type="submit" value="Cerca"><i class="fa fa-search"></i></button>
+							<input class="search-live" type="text" id="s-header" name="s" title="Cerca" value="Cerca" onfocus="if (this.value == 'Cerca') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Cerca';}"  />
+						</form>
+					</div><!-- .search-block /-->
+			<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="https://tuxnews.it/feed/" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/TuxNewsit/" target="_blank"><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/TuxNews_it/" target="_blank"><i class="fa fa-twitter"></i></a><a class="ttip-none" title="LinkedIn" href="https://www.linkedin.com/in/salvo-davide-cirmi-b49802103" target="_blank"><i class="fa fa-linkedin"></i></a><a class="ttip-none" title="Youtube" href="https://www.youtube.com/channel/UCPLvPSwll0ecQlfrWnodldQ" target="_blank"><i class="fa fa-youtube"></i></a><a class="ttip-none" title="instagram" href="https://www.instagram.com/tuxnews.it/" target="_blank"><i class="fa fa-instagram"></i></a><a class="ttip-none" title="Google Play" href="https://play.google.com/store/apps/details?id=app.tuxnewsit&#038;hl=it" target="_blank"><i class="fa fa-play"></i></a>
+			</div>
+
+	
+	
+				</div><!-- .container /-->
+			</div><!-- .top-menu /-->
+			
+		<div class="header-content">
+
+					<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+		
+			<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+			<h2>								<a title="TuxNews.it" href="https://tuxnews.it/">
+					<img src="https://tuxnews.it/wp-content/uploads/2018/03/logo-tuxnewsit-2018.png" alt="TuxNews.it" width="277" height="92" /><strong>TuxNews.it L&#039;editoria professionale libera!</strong>
+				</a>
+			</h2>			</div><!-- .logo /-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	var retina = window.devicePixelRatio > 1 ? true : false;
+	if(retina) {
+       	jQuery('#theme-header .logo img').attr('src',		'https://tuxnews.it/wp-content/uploads/2018/03/logo-tuxnews-2018-retina.png');
+       	jQuery('#theme-header .logo img').attr('width',		'277');
+       	jQuery('#theme-header .logo img').attr('height',	'92');
+	}
+});
+</script>
+			<div class="e3lan e3lan-top">			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner logo sito alto -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9272529991418202"
+     data-ad-slot="3969779971"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>			<div class="clear"></div>
+
+		</div>
+													<nav id="main-nav">
+				<div class="container">
+
+				
+					<div class="main-menu"><ul id="menu-td-demo-header-menu" class="menu"><li id="menu-item-35901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35901"><a href="https://tuxnews.it/forum/"><i class="fa fa-comments"></i>Forum!</a></li>
+<li id="menu-item-35860" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-35860"><a href="https://tuxnews.it/category/news/"><i class="fa fa-newspaper-o"></i>News</a></li>
+<li id="menu-item-35861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35861"><a href="https://tuxnews.it/category/android/"><i class="fa fa-android"></i>Android</a></li>
+<li id="menu-item-35862" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-35862"><a href="https://tuxnews.it/category/linux/"><i class="fa fa-linux"></i>Linux</a></li>
+<li id="menu-item-35863" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35863"><a href="https://tuxnews.it/category/guide/"><i class="fa fa-file-text"></i>Guide</a></li>
+<li id="menu-item-35864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35864"><a href="https://tuxnews.it/category/apk/"><i class="fa fa-arrow-circle-down"></i>APK</a></li>
+<li id="menu-item-35867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35867"><a href="https://tuxnews.it/category/hacking/"><i class="fa fa-github"></i>Hacking</a></li>
+<li id="menu-item-38811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38811"><a href="https://tuxnews.it/catalogo-distro-linux/"><i class="fa fa-book"></i>Distro Linux!</a></li>
+<li id="menu-item-38818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38818"><a href="https://tuxnews.it/catalogo-distro-bsd/"><i class="fa fa-book"></i>Distro BSD!</a></li>
+<li id="menu-item-38882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38882"><a href="https://tuxnews.it/desktop-environments/"><i class="fa fa-eye"></i>Desktop Environments!</a></li>
+<li id="menu-item-38695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38695"><a href="https://tuxnews.it/recensioni-unboxing/"><i class="fa fa-star-half-o"></i>Recensioni!</a></li>
+<li id="menu-item-35866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35866"><a href="https://tuxnews.it/category/iptv/"><i class="fa fa-television"></i>IPTV</a></li>
+<li id="menu-item-40290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40290"><a href="https://tuxnews.it/boinc-aiutiamo-a-ricercare-una-cura-per-il-cancro-e-altre-rare-patologie-con-la-potenza-di-calcolo-inutilizzata-dei-nostri-dispositivi/"><i class="fa fa-wheelchair"></i>BOINC!</a></li>
+</ul></div>										<a href="https://tuxnews.it/?tierand=1" class="random-article ttip" title="Articolo a caso!"><i class="fa fa-random"></i></a>
+					
+					
+				</div>
+			</nav><!-- .main-nav /-->
+					</header><!-- #header /-->
+
+		
+	<div class="clear"></div>
+	<div id="breaking-news" class="breaking-news">
+		<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span>Da non perdere!</span></span>
+		
+					<ul>
+					<li><a href="https://tuxnews.it/av1-v1-0-arriva-un-nuovo-formato-immagine/" title="AV1 v1.0: arriva un nuovo formato immagine!">AV1 v1.0: arriva un nuovo formato immagine!</a></li>
+					<li><a href="https://tuxnews.it/anche-hp-si-decide-lei-ed-altre-33-aziende-si-aggiungono-alla-linux-foundation/" title="Anche HP si decide: lei ed altre 33 aziende si aggiungono alla Linux Foundation!">Anche HP si decide: lei ed altre 33 aziende si aggiungono alla Linux Foundation!</a></li>
+					<li><a href="https://tuxnews.it/x-org-server-1-20-4-il-rilascio-porta-fix-per-xwayland/" title="X.Org Server 1.20.4: il rilascio porta fix per XWayland">X.Org Server 1.20.4: il rilascio porta fix per XWayland</a></li>
+					<li><a href="https://tuxnews.it/obs-studio-23-0-rilasciato-con-codifica-video-va-api-e-nuovi-filtri-audio/" title="OBS Studio 23.0 rilasciato con codifica video VA-API e nuovi filtri audio">OBS Studio 23.0 rilasciato con codifica video VA-API e nuovi filtri audio</a></li>
+					<li><a href="https://tuxnews.it/kernel-linux-5-0-rc8-una-settimana-al-rilascio-finale/" title="Kernel Linux 5.0 RC8: una settimana al rilascio finale!">Kernel Linux 5.0 RC8: una settimana al rilascio finale!</a></li>
+					<li><a href="https://tuxnews.it/come-verificare-se-il-proprio-sito-e-indicizzato-su-google/" title="Come verificare se il proprio sito è indicizzato su Google?">Come verificare se il proprio sito è indicizzato su Google?</a></li>
+					<li><a href="https://tuxnews.it/ubuntu-16-04-6-lts-un-rilascio-inaspettato-per-un-grosso-problema-di-sicurezza/" title="Ubuntu 16.04.6 LTS: un rilascio inaspettato per un grosso problema di sicurezza!">Ubuntu 16.04.6 LTS: un rilascio inaspettato per un grosso problema di sicurezza!</a></li>
+					<li><a href="https://tuxnews.it/networkmanager-1-16-con-tunnel-wireguard-vpn-e-molto-altro/" title="NetworkManager 1.16 con Tunnel WireGuard VPN e molto altro">NetworkManager 1.16 con Tunnel WireGuard VPN e molto altro</a></li>
+					<li><a href="https://tuxnews.it/windows-10-permettera-presto-di-vedere-i-file-su-linux/" title="Windows 10 permetterà presto di vedere i file su Linux!">Windows 10 permetterà presto di vedere i file su Linux!</a></li>
+					<li><a href="https://tuxnews.it/casa-e-arredo-la-tecnologia-sempre-piu-usata/" title="Casa e arredo, la tecnologia sempre più usata">Casa e arredo, la tecnologia sempre più usata</a></li>
+					<li><a href="https://tuxnews.it/gnome-3-32-beta-2-rilasciato/" title="GNOME 3.32 Beta 2 rilasciato!">GNOME 3.32 Beta 2 rilasciato!</a></li>
+					<li><a href="https://tuxnews.it/bagaglio-smarrito-la-tecnologia-viene-in-aiuto/" title="Bagaglio smarrito? La tecnologia viene in aiuto">Bagaglio smarrito? La tecnologia viene in aiuto</a></li>
+					<li><a href="https://tuxnews.it/digikam-6-0-rilasciato-nuove-opzioni-import-export-e-gestione-dei-file-video/" title="DigiKam 6.0 rilasciato: nuove opzioni Import/export e gestione dei file video!">DigiKam 6.0 rilasciato: nuove opzioni Import/export e gestione dei file video!</a></li>
+					<li><a href="https://tuxnews.it/nvidia-418-31-03-i-nuovi-driver-linux-risolvono-i-problemi-con-hitman-2-e-warhammer-ii/" title="NVIDIA 418.31.03: i nuovi driver Linux risolvono i problemi con Hitman 2 e Warhammer II">NVIDIA 418.31.03: i nuovi driver Linux risolvono i problemi con Hitman 2 e Warhammer II</a></li>
+					<li><a href="https://tuxnews.it/compiz-0-9-14-vede-il-rilascio-dopo-oltre-2-anni/" title="Compiz 0.9.14 vede il rilascio dopo oltre 2 anni!">Compiz 0.9.14 vede il rilascio dopo oltre 2 anni!</a></li>
+					</ul>
+					
+		
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('#breaking-news ul').innerFade({animationType: 'fade', speed: 400 , timeout: 3000});
+							});
+					</script>
+	</div> <!-- .breaking-news -->
+
+	
+	<div id="main-content" class="container">
+
+	
+	
+	
+	
+	
+	<div class="content">
+
+		
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" class="crumbs-home" href="https://tuxnews.it">Home</a></span> <span class="delimiter">/</span> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://tuxnews.it/category/linux/">Linux</a></span> <span class="delimiter">/</span> <span class="current">Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!</span></div>
+		
+
+		<div class="e3lan e3lan-post">			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner superiore articoli -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9272529991418202"
+     data-ad-slot="6422708372"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+		<article class="post-listing post-40565 post type-post status-publish format-standard has-post-thumbnail  category-linux category-news tag-wine tag-wine-4-2" id="the-post">
+					<div class="single-post-thumb head-lightbox">
+			<a href="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1024x768.jpg" class="lightbox-enabled"><img width="440" height="330" src="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" class="attachment-slider size-slider wp-post-image" alt="" srcset="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg 3648w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-300x225.jpg 300w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-768x576.jpg 768w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1024x768.jpg 1024w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-80x60.jpg 80w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-265x198.jpg 265w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-696x522.jpg 696w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1068x801.jpg 1068w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-560x420.jpg 560w" sizes="(max-width: 440px) 100vw, 440px" /></a>
+		</div>
+		<div class="single-post-caption">Wine.</div> 
+
+			<div class="post-inner">
+
+							<h1 class="name post-title entry-title"><span itemprop="name">Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!</span></h1>
+
+						
+<p class="post-meta">
+		
+	<span class="post-meta-author"><i class="fa fa-user"></i><a href="https://tuxnews.it/author/tux1/" title="">Salvo Cirmi (Tux1) </a></span>
+	
+		
+	<span class="tie-date"><i class="fa fa-clock-o"></i>2 settimane fa</span>	
+	<span class="post-cats"><i class="fa fa-folder"></i><a href="https://tuxnews.it/category/linux/" rel="category tag">Linux</a>, <a href="https://tuxnews.it/category/news/" rel="category tag">News</a></span>
+	
+	<span class="post-comments"><i class="fa fa-comments"></i><a href="https://tuxnews.it/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key/#comments"><span class="dsq-postid" data-dsqidentifier="40565 https://tuxnews.it/?p=40565">2 Commenti</span></a></span>
+<span class="post-views"><i class="fa fa-eye"></i>59 Views</span> </p>
+<div class="clear"></div>
+			
+				<div class="entry">
+					
+					
+					<p>Wine! il non-emulatore è appena approdato in una nuovissima edizione, tutta per noi/voi/essi. Vediamone insieme le novità (come sempre).</p>
+<p><strong>Wine 4.2</strong>, il nuovo rilascio, porta USN (<strong>Unicode String Normalization</strong>) e supporto <strong>ECC Crypto Key</strong>, supporto per mischiare DLL 32/64bit nella cartella di caricamento (wow, è veramente possibile una roba simile?), implementazioni basate su futex e ben 60 bugfix, di cui molti legati a cattive performance su alcuni motori grafici, <strong>fix per FIFA di EA</strong>, alcuni per Far Cry e <a href="https://www.winehq.org//announce/4.2">molto altro che trovate qui</a>!</p>
+					
+									</div><!-- .entry /-->
+
+
+				<div class="share-post">
+	<span class="share-text">Condividi!!! ^-^</span>
+	
+		<script>
+	window.___gcfg = {lang: 'en-US'};
+	(function(w, d, s) {
+	  function go(){
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		  if (d.getElementById(id)) {return;}
+		  js = d.createElement(s); js.src = url; js.id = id;
+		  fjs.parentNode.insertBefore(js, fjs);
+		};
+		load('//connect.facebook.net/en/all.js#xfbml=1', 	'fbjssdk' );
+		load('https://apis.google.com/js/plusone.js', 		'gplus1js');
+		load('//platform.twitter.com/widgets.js', 			'tweetjs' );
+	  }
+	  if (w.addEventListener) { w.addEventListener("load", go, false); }
+	  else if (w.attachEvent) { w.attachEvent("onload",go); }
+	}(window, document, 'script'));
+	</script>
+	<ul class="normal-social">	
+			<li>
+			<div class="fb-like" data-href="https://tuxnews.it/?p=40565" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+		</li>
+		
+			<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://tuxnews.it/?p=40565" data-text="Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!" data-via="TuxNews_it" data-lang="en">tweet</a></li>
+				<li style="width:80px;"><div class="g-plusone" data-size="medium" data-href="https://tuxnews.it/?p=40565"></div></li>
+					<li><script src="https://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="https://tuxnews.it/?p=40565" data-counter="right"></script></li>
+				<li style="width:80px;"><script type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script><a href="http://pinterest.com/pin/create/button/?url=https://tuxnews.it/?p=40565&amp;media=https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" class="pin-it-button" count-layout="horizontal"><img border="0" src="https://assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li>
+		</ul>
+		<div class="clear"></div>
+</div> <!-- .share-post -->				<div class="clear"></div>
+			</div><!-- .post-inner -->
+
+			<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","dateCreated":"2019-02-16T22:16:31+01:00","datePublished":"2019-02-16T22:16:31+01:00","dateModified":"2019-02-16T22:16:31+01:00","headline":"Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!","name":"Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!","keywords":"wine,Wine 4.2","url":"https:\/\/tuxnews.it\/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key\/","description":"Wine! il non-emulatore \u00e8 appena approdato in una nuovissima edizione, tutta per noi\/voi\/essi. Vediamone insieme le novit\u00e0 (come sempre). Wine 4.2, il nuovo rilascio, porta USN (Unicode String Normaliz","copyrightYear":"2019","publisher":{"@id":"#Publisher","@type":"Organization","name":"TuxNews.it","logo":{"@type":"ImageObject","url":"https:\/\/tuxnews.it\/wp-content\/uploads\/2018\/03\/logo-tuxnews-2018-retina.png"},"sameAs":["https:\/\/www.facebook.com\/TuxNewsit\/","https:\/\/twitter.com\/TuxNews_it\/","https:\/\/www.linkedin.com\/in\/salvo-davide-cirmi-b49802103","https:\/\/www.youtube.com\/channel\/UCPLvPSwll0ecQlfrWnodldQ","https:\/\/play.google.com\/store\/apps\/details?id=app.tuxnewsit&amp;hl=it","https:\/\/www.instagram.com\/tuxnews.it\/"]},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/tuxnews.it\/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key\/"},"author":{"@type":"Person","name":"Salvo Cirmi (Tux1)","url":"https:\/\/tuxnews.it\/author\/tux1\/"},"articleSection":"Linux,News","articleBody":"Wine! il non-emulatore \u00e8 appena approdato in una nuovissima edizione, tutta per noi\/voi\/essi. Vediamone insieme le novit\u00e0 (come sempre).\r\n\r\nWine 4.2, il nuovo rilascio, porta USN (Unicode String Normalization) e supporto\u00a0ECC Crypto Key, supporto per mischiare DLL 32\/64bit nella cartella di caricamento (wow, \u00e8 veramente possibile una roba simile?), implementazioni basate su futex e ben 60 bugfix, di cui molti legati a cattive performance su alcuni motori grafici, fix per FIFA di EA, alcuni per Far Cry e molto altro che trovate qui!","image":{"@type":"ImageObject","url":"https:\/\/tuxnews.it\/wp-content\/uploads\/2017\/01\/wine-staging.jpg","width":3648,"height":2736}}</script>
+		</article><!-- .post-listing -->
+		<p class="post-tag">Tags <a href="https://tuxnews.it/tag/wine/" rel="tag">wine</a> <a href="https://tuxnews.it/tag/wine-4-2/" rel="tag">Wine 4.2</a></p>
+
+		<div class="e3lan e3lan-post">			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner inferiore articoli -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9272529991418202"
+     data-ad-slot="1852907971"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+				<section id="author-box">
+			<div class="block-head">
+				<h3>Riguardo a: Salvo Cirmi (Tux1) </h3><div class="stripe-line"></div>
+			</div>
+			<div class="post-listing">
+				<div class="author-bio">
+	<div class="author-avatar">
+		<img alt='' src='https://secure.gravatar.com/avatar/5893437e7c5e61a5454748afcdb926a2?s=90&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5893437e7c5e61a5454748afcdb926a2?s=180&#038;d=mm&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' />	</div><!-- #author-avatar -->
+			<div class="author-description">
+						Un pinguino intraprendente che dopo diversi anni di "servizio" online (e soprattutto delle guide) ha acquisito conoscenze non di poco conto sui settori Android, Linux e Windows. Le mie specialità sono il modding e le review.
+Nel tempo libero (che è raro trovare) suono il piano, mi diverto effettuando modding e provando distribuzioni Linux, BSD ed altre.		</div><!-- #author-description -->
+			<div class="author-social flat-social">
+						<a class="social-site" target="_blank" href="https://tuxnews.it/"><i class="fa fa-home"></i></a>
+																																</div>
+		<div class="clear"></div>
+</div>
+				</div>
+		</section><!-- #author-box -->
+		
+
+				<div class="post-navigation">
+			<div class="post-previous"><a href="https://tuxnews.it/valve-proton-3-16-7-rilasciato-il-gaming-su-linux-prende-forma/" rel="prev"><span>Precedente</span> Valve Proton 3.16-7 rilasciato, il gaming su Linux prende forma</a></div>
+			<div class="post-next"><a href="https://tuxnews.it/debian-9-8-rilasciato-con-i-fix-di-sicurezza-che-aspettavate/" rel="next"><span>Successivo</span> Debian 9.8 rilasciato, con i fix di sicurezza che aspettavate!</a></div>
+		</div><!-- .post-navigation -->
+		
+			<section id="related_posts">
+		<div class="block-head">
+			<h3>Articoli Correlati</h3><div class="stripe-line"></div>
+		</div>
+		<div class="post-listing">
+						<div class="related-item tie_lightbox">
+							
+				<div class="post-thumbnail">
+					<a href="https://tuxnews.it/wine-4-0-rc3-rilasciato-27-i-bugfix/">
+						<img width="220" height="165" src="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="" srcset="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg 3648w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-300x225.jpg 300w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-768x576.jpg 768w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1024x768.jpg 1024w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-80x60.jpg 80w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-265x198.jpg 265w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-696x522.jpg 696w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1068x801.jpg 1068w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-560x420.jpg 560w" sizes="(max-width: 220px) 100vw, 220px" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="https://tuxnews.it/wine-4-0-rc3-rilasciato-27-i-bugfix/" rel="bookmark">Wine 4.0 RC3 rilasciato: 27 i bugfix!</a></h3>
+				<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>22 Dicembre 2018</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://tuxnews.it/wine-3-21-rilasciato-con-supporto-joystick-e-grafica-android-migliorati/">
+						<img width="220" height="165" src="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="" srcset="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg 3648w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-300x225.jpg 300w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-768x576.jpg 768w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1024x768.jpg 1024w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-80x60.jpg 80w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-265x198.jpg 265w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-696x522.jpg 696w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1068x801.jpg 1068w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-560x420.jpg 560w" sizes="(max-width: 220px) 100vw, 220px" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="https://tuxnews.it/wine-3-21-rilasciato-con-supporto-joystick-e-grafica-android-migliorati/" rel="bookmark">Wine 3.21 rilasciato con supporto Joystick e grafica Android migliorati</a></h3>
+				<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>24 Novembre 2018</span></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://tuxnews.it/wine-2-22-migliora-il-supporto-ai-64-bit-arm/">
+						<img width="220" height="165" src="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="" srcset="https://tuxnews.it/wp-content/uploads/2017/01/wine-staging.jpg 3648w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-300x225.jpg 300w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-768x576.jpg 768w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1024x768.jpg 1024w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-80x60.jpg 80w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-265x198.jpg 265w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-696x522.jpg 696w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-1068x801.jpg 1068w, https://tuxnews.it/wp-content/uploads/2017/01/wine-staging-560x420.jpg 560w" sizes="(max-width: 220px) 100vw, 220px" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h3><a href="https://tuxnews.it/wine-2-22-migliora-il-supporto-ai-64-bit-arm/" rel="bookmark">Wine 2.22 migliora il supporto ai 64 bit ARM</a></h3>
+				<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>24 Novembre 2017</span></p>
+			</div>
+						<div class="clear"></div>
+		</div>
+	</section>
+	
+			
+	<section id="check-also-box" class="post-listing check-also-right">
+		<a href="#" id="check-also-close"><i class="fa fa-close"></i></a>
+
+		<div class="block-head">
+			<h3>Guarda anche..</h3>
+		</div>
+
+				<div class="check-also-post tie_lightbox">
+						
+			<div class="post-thumbnail">
+				<a href="https://tuxnews.it/av1-v1-0-arriva-un-nuovo-formato-immagine/">
+					<img width="310" height="165" src="https://tuxnews.it/wp-content/uploads/2019/02/av1-310x165.png" class="attachment-tie-medium size-tie-medium wp-post-image" alt="" srcset="https://tuxnews.it/wp-content/uploads/2019/02/av1-310x165.png 310w, https://tuxnews.it/wp-content/uploads/2019/02/av1-300x161.png 300w, https://tuxnews.it/wp-content/uploads/2019/02/av1-768x411.png 768w, https://tuxnews.it/wp-content/uploads/2019/02/av1-640x342.png 640w, https://tuxnews.it/wp-content/uploads/2019/02/av1.png 1000w" sizes="(max-width: 310px) 100vw, 310px" />					<span class="fa overlay-icon"></span>
+				</a>
+			</div><!-- post-thumbnail /-->
+						
+			<h2 class="post-title"><a href="https://tuxnews.it/av1-v1-0-arriva-un-nuovo-formato-immagine/" rel="bookmark">AV1 v1.0: arriva un nuovo formato immagine!</a></h2>
+			<p>Per la serie &#8220;news strane&#8221;, vi propongo una novità che arriva direttamente dal lavoro di &hellip;</p>
+		</div>
+			</section>
+			
+			
+	
+		
+		
+<div id="disqus_thread"></div>
+
+	</div><!-- .content -->
+<aside id="sidebar">
+	<div class="theiaStickySidebar">
+<div id="comments_avatar-widget-5" class="widget comments-avatar"><div class="widget-top"><h4>Recent Comments		</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<ul>
+			<li>
+		<div class="post-thumbnail" style="width:45px">
+			<img alt='' src='https://secure.gravatar.com/avatar/1fb68eef36c535b615dd76943c449d9b?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1fb68eef36c535b615dd76943c449d9b?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' />		</div>
+		<a href="https://tuxnews.it/guida-permessi-root-su-samsung-galaxy-j7-2016-sm-j710fn/#comment-2846">
+		UknownGino: Ciao, ho eseguito tutta la guida fino al punto 4. Quando provo ad avviare il tel... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:45px">
+			<img alt='' src='https://secure.gravatar.com/avatar/ddd14edfee87b2fa5ce4b237ebe7e212?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ddd14edfee87b2fa5ce4b237ebe7e212?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' />		</div>
+		<a href="https://tuxnews.it/guida-permessi-root-su-samsung-galaxy-j7-2016-sm-j710fn/#comment-2847">
+		Tux1: Prova con un'altra TWRP.... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:45px">
+					</div>
+		<a href="https://tuxnews.it/debian/#comment-2845">
+		Devuan &#8211; Aggregatore GNU/Linux e dintorni: [&#8230;] su: Debian [&#8230;]... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:45px">
+			<img alt='' src='https://secure.gravatar.com/avatar/ddd14edfee87b2fa5ce4b237ebe7e212?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ddd14edfee87b2fa5ce4b237ebe7e212?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' />		</div>
+		<a href="https://tuxnews.it/guida-permessi-root-e-recovery-su-lenovo-tab-2-a10-30l/#comment-2844">
+		Tux1: Abbandonato a se stesso, così come gli altri della serie A di Lenovo. Peccato ve... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:45px">
+			<img alt='' src='https://secure.gravatar.com/avatar/58fe366bb652c0eeae04c00d4fbb61b0?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/58fe366bb652c0eeae04c00d4fbb61b0?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' />		</div>
+		<a href="https://tuxnews.it/guida-permessi-root-e-recovery-su-lenovo-tab-2-a10-30l/#comment-2842">
+		Rivan Kurniawan: Scusa il ritardo. Ho risolto con il tool per chip Qualcomm : una volta messo il... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:45px">
+			<img alt='' src='https://secure.gravatar.com/avatar/58fe366bb652c0eeae04c00d4fbb61b0?s=45&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/58fe366bb652c0eeae04c00d4fbb61b0?s=90&#038;d=mm&#038;r=g 2x' class='avatar avatar-45 photo' height='45' width='45' />		</div>
+		<a href="https://tuxnews.it/guida-permessi-root-e-recovery-su-lenovo-tab-2-a10-30l/#comment-2843">
+		Rivan Kurniawan: Non esistono rom alternative per questo tablet. Tra l' altro la rom stock è impo... </a>
+	</li>
+		</ul>
+	</div></div><!-- .widget /-->	<div class="arqam-lite-widget-counter border">
+		<ul>
+				<li class="arq-lite-twitter">
+				<a href="https://twitter.com/TuxNews_it" target="_blank" >
+					<i class="fa fa-twitter"></i>
+					<span>48</span>
+					<small>Followers</small>
+				</a>
+			</li>
+					<li class="arq-lite-youtube">
+				<a href="https://youtube.com/channel/UCPLvPSwll0ecQlfrWnodldQ" target="_blank" >
+					<i class="fa fa-youtube"></i>
+					<span>263</span>
+					<small>Subscribers</small>
+				</a>
+			</li>
+		
+			</ul>
+		</div>
+		<!-- arqam_lite Social Counter Plugin : https://codecanyon.net/user/TieLabs/portfolio?ref=TieLabs -->
+<div id="ads300_250-widget-5" class="widget e3lan e3lan300_250-widget"><div class="widget-top"><h4>Offrimi un caffé</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div  class="e3lan-widget-content e3lan300-250">
+								<div class="e3lan-cell">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner laterale quadrato -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-9272529991418202"
+     data-ad-slot="6474910770"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
+	</div></div><!-- .widget /--><div id="custom_html-9" class="widget_text widget widget_custom_html"><div class="widget-top"><h4>Segui le notizie su Telegram!</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><div class="textwidget custom-html-widget"><script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="https://telegram.im/widget-button/index.php?id=@tuxnewsit";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
+<a href="https://telegram.im/@tuxnewsit" target="_blank" class="telegramim_button telegramim_shadow" style="font-size:24px;width:200px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#FFFFFF;border-radius:75px;" title="Segui le notizie su Telegram!"><i></i><small><span class="telegramim_count" data-for="@tuxnewsit">...</span> Partecipanti</small></a></div></div></div><!-- .widget /--><div id="mc4wp_form_widget-4" class="widget widget_mc4wp_form_widget"><div class="widget-top"><h4>Iscriviti alla Newsletter!</h4><div class="stripe-line"></div></div>
+						<div class="widget-container"><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.3.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-38509" method="post" data-id="38509" data-name="AA" ><div class="mc4wp-form-fields"><p>
+	<label>Indirizzo email: </label>
+	<input type="email" name="EMAIL" placeholder="Il tuo indirizzo email" required />
+</p>
+
+<p>
+	<input type="submit" value="Iscriviti" />
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1551633199" /><input type="hidden" name="_mc4wp_form_id" value="38509" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div></div><!-- .widget /-->	</div><!-- .theiaStickySidebar /-->
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+</div><!-- .container /-->
+<div class="e3lan e3lan-bottom">			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner sotto sito, sotto sotto -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9272529991418202"
+     data-ad-slot="2388341971"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+<footer id="theme-footer">
+	<div id="footer-widget-area" class="footer-3c">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="text-5" class="footer-widget widget_text"><div class="footer-widget-top"><h4>Qualche problema? Trovate dei Link non funzionanti?</h4></div>
+						<div class="footer-widget-container">			<div class="textwidget"><p>Scrivete tutto nei commenti e risponderò il prima possibile 🙂</p>
+</div>
+		</div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="text-7" class="footer-widget widget_text"><div class="footer-widget-top"><h4>Orgogli italiani!</h4></div>
+						<div class="footer-widget-container">			<div class="textwidget"><p><a href="https://www.modiciaos.cloud/"><img class="alignnone wp-image-39583 " src="https://tuxnews.it/wp-content/uploads/2018/10/MODICIA-O.S.-Logo.png" alt="" width="100" height="100" /></a><a href="https://zanshintech.it/"><img class="alignnone wp-image-40279" src="https://tuxnews.it/wp-content/uploads/2019/01/zanshin-tech-italia.png" alt="" width="100" height="100" /></a></p>
+</div>
+		</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+	
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+				
+<div class="clear"></div>
+<div class="footer-bottom">
+	<div class="container">
+		<div class="alignright">
+			Powered by Tux1		</div>
+				
+		<div class="alignleft">
+			© Copyright Salvo Cirmi 2015-2019. Tutti i diritti sono riservati.		</div>
+		<div class="clear"></div>
+	</div><!-- .Container -->
+</div><!-- .Footer bottom -->
+
+</div><!-- .inner-Wrapper -->
+</div><!-- #Wrapper -->
+</div><!-- .Wrapper-outer -->
+	<div id="topcontrol" class="fa fa-angle-up" title="Ti riporto in alto!"></div>
+<div id="fb-root"></div>
+<div id="EPsuwjfdDLCH" class="DBWgZAHYJqog" style="background:#dddddd;z-index:9999999; "></div>   <script type="text/javascript">/* <![CDATA[ */var anOptions ={"anOptionChoice":"2","anOptionStats":"1","anOptionAdsSelectors":"","anOptionCookie":"2","anOptionCookieLife":"15","anPageRedirect":"","anPermalink":"undefined","anOptionModalEffect":"fadeAndPop","anOptionModalspeed":"350","anOptionModalclose":false,"anOptionModalOverlay":"rgba( 0,0,0,0.8 )","anAlternativeActivation":false,"anAlternativeElement":"","anAlternativeText":"<p><strong>AdBlock detected!<\/strong><\/p>\n<p>Please add <a title=\"http:\/\/themeisle.com\/\" href=\"themeisle.com\" target=\"_blank\">www.themeisle.com<\/a> to your adblocking whitelist or disable your adblocking software.<\/p>\n","anAlternativeClone":"2","anAlternativeProperties":"","anOptionModalShowAfter":0,"anPageMD5":"","anSiteID":0,"modalHTML":"<div class=\"DBWgZAHYJqog-default\">\n\t<h1 style=\"\">Non vuoi pubblicit\u00e0 invasiva? Non ne avrai, ma disattiva AdBlock.<\/h1>\n\t<p>Sembra tu stia utilizzando\u00a0<strong>AdBlock Plus<\/strong> (o comunque un programma per bloccare la pubblicit\u00e0) sul mio sito web.<\/p>\n<p>Non c'\u00e8 nulla di male in tutto ci\u00f2, tuttavia vorrei che il lavoro che svolgo ogni giorno con passione, venga retribuito, anche se poco.<\/p>\n<p>Di conseguenza (soprattutto perch\u00e9 non ho pubblicit\u00e0 invasive e\/o noiose) ti pregherei di disattivare Adblock Plus od il programma che stai utilizzando, perlomeno sul mio sito web. <strong>Rispetteresti me ed il mio lavoro. Grazie :)<\/strong><\/p>\n<p><strong>P.S.<\/strong>: Hai uno smartphone che <span style=\"text-decoration: underline;\">blocca automaticamente le pubblicit\u00e0<\/span>? Fai il Root ed elimina il file \"hosts\" dal telefono. Se non sai come, chiedi a me (infotuxnewsit@gmail.com).<\/p>\n<p>&nbsp;<\/p>\n<\/div>\n"}/* ]]> */</script><div id="adsense" class="an-sponsored" style="position:absolute; z-index:-1; height:1px; width:1px; visibility: hidden; top: -1px; left: 0;"><img class="an-advert-banner" alt="sponsored" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></div><script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"httptuxnewsit"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/disqus-comment-system/public/js/comment_count.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"40565 https:\/\/tuxnews.it\/?p=40565","disqusShortname":"httptuxnewsit","disqusTitle":"Wine 4.2 rilasciato con USN e supporto ECC Crypto Key!","disqusUrl":"https:\/\/tuxnews.it\/wine-4-2-rilasciato-con-usn-e-supporto-ecc-crypto-key\/","postId":"40565"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"true","lightbox_all":"true","lightbox_gallery":"true","woocommerce_lightbox":"yes","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"true","sticky_sidebar":"1","is_singular":"1","SmothScroll":"true","reading_indicator":"","lang_no_results":"Nessun risultato","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/tie-scripts.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/ilightbox.packed.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"nonce":"fc32e8a36e","ajaxurl":"https:\/\/tuxnews.it\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/uploads/YjIqxzQyEjAD/jCyTSMaKSGgj.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/themes/sahifa%20originale%20agg/js/search.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://tuxnews.it/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script>
+<![endif]-->
+
+			<div id="cookie-notice" role="banner" class="cn-bottom bootstrap" style="color: #fff; background-color: #000;"><div class="cookie-notice-container"><span id="cn-notice-text">Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito noi assumiamo che tu ne sia felice.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">Ok</a>
+				</div>
+				
+			</div></body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+
+Served from: tuxnews.it @ 2019-03-03 18:13:19 by W3 Total Cache
+-->

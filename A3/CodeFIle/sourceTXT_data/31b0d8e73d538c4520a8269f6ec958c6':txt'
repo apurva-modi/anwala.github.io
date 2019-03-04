@@ -1,0 +1,20 @@
+Categories: BlockchainEconomicsInterviewSTO’sTezos
+Securitizing the Future of Finance
+Previously, we have covered Columbia University–IBM Accelerator and had spotlighted one of the ten accelerated companies Connecting Food . Today, we highlight another company that was amongst the selected few: Securitize – “The Compliance Platform For Digitizing Securities on the Blockchain”.
+To learn more about the company and its vision, we interviewed Carlos Domingo , its CEO and co-founder. Mr. Domingo is a Barcelona native who holds a Ph.D. in computer science from Universitat Politècnica de Catalunya and an Executive MBA from the Stanford Business School, and he is a co-founder in Spice VC , the very first fully tokenized VC fund.
+Carlos Domingo.
+Company Background
+“Securitize is born out of Spice VC, when we first started fundraising for Spice in 2017, the term “security token” hadn’t yet existed and there were no security token issuance platforms”, notices Mr. Domingo. Spice VC token ended up being the first security token issued through Securitize. Additionally, tokens for Blockchain Capital , Lottery.com and several others have been issued through the platform.
+Being a technology platform, Securitize doesn’t require any licensing. However, there is quite a bit of compliance work involved. For each new client, a lot of time is spent with the legal team to make sure that all the procedures and workflows meet the client’s compliance requirements, which will vary by asset class and jurisdiction.
+For now, Securitize is focused on the tokenization of three asset classes: funds, mid and large-cap stocks, and real-estate. In March, a new major asset class will be introduced – debt, starting off with commercial paper and syndicated loans.
+In terms of real estate, we are actively looking into the Southeast Asian market, Thailand in particular. We hope to be the first company to be involved in the tokenization of real estate over there.
+Technology
+According to Mr. Domingo, the major advantages of tokenizing real and financial assets are compliance, automated payouts (such as dividends), fractional ownership, liquidity, and traceability. Amongst the downsides are lack of understanding (on the part of the finance professionals), lack of sophistication (“we don’t yet know how to tokenize more complex derivatives”), and the dearth of custodians for digital assets.
+The first tokens that were issued on Securitize platform were being minted on Ethereum. However, due to scalability issues, the company started looking into other blockchain platforms. “We are blockchain agnostic”, says Mr. Domingo. “We are exploring other major blockchains; in the long-run, we don’t know which one will survive. We have been approached by smaller blockchain platforms, however, it doesn’t make sense for us. We don’t believe they’ll survive”.
+Recently, the news came out about Securitize tokenizing Elevated Returns ’ real-estate assets on Tezos.
+Tezos is great. We approached them and they were very helpful. Actually, they had to develop a token framework specifically for us.
+Since the company has joined the Accelerator and IBM is a big supporter of Hyperledger, we had to ask whether Securitize is looking into using Hyperledger Fabric as one of the platforms? – “We do, some clients prefer a private blockchain. The debt issuance will be done on Hyperledger”.
+What are your expectations from the Accelerator?
+“Now, we are at IBM Think in San Francisco. The quality of people and content from IBM is very high. We have also had some interactions with Columbia faculty, which is great. And we may end up hiring a Columbia Business School student assigned to us”.
+Michael Kapilkov
+Michael Kapilkov serves as the Managing Director at mmviii Digital Assets Group. He gets frequently invited to speak at Crypto conferences. He has attended Columbia University and holds an MBA from IE Business School. Follow me on Twitter @mmviii_2008

@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="utf-8">
+	<title>German Police Arrested Crypto Miners for Stealing Electricity Worth $250,000 | NakamotoJedi</title>
+	<meta name="description" content="The authorities of the German city of Klingenthal arrested six people. According to the police, they stole electricity for mining cryptocurrency">
+	<meta name="title" content="German Police Arrested Miners for Stealing Electricity">
+	<meta name="keywords" content="cryptocurrency mining energy consumption, crypto miners stealing energy, btc">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@NakamotoJedi" />
+	<meta property="og:url" content="https://nakamotojedi.com/article/german-police-arrested-crypto-miners-stealing-electricity-worth-250000" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="German Police Arrested Miners for Stealing Electricity" />
+	<meta property="og:description" content="The authorities of the German city of Klingenthal arrested six people. According to the police, they stole electricity for mining cryptocurrency" />
+		<meta property="og:image" content="https://nakamotojedi.com/storage/app/uploads/public/5c5/c5b/327/thumb_3127_1200_630_0_0_crop.jpg" />
+		<link rel="apple-touch-icon" sizes="180x180" href="https://nakamotojedi.com/themes/jedi/assets/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://nakamotojedi.com/themes/jedi/assets/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://nakamotojedi.com/themes/jedi/assets/favicon-16x16.png">
+	<link rel="manifest" href="https://nakamotojedi.com/themes/jedi/assets/site.webmanifest">
+	<link rel="mask-icon" href="https://nakamotojedi.com/themes/jedi/assets/safari-pinned-tab.svg" color="#2e302f">
+	<link rel="shortcut icon" href="https://nakamotojedi.com/themes/jedi/assets/favicon.ico">
+	<meta name="msapplication-TileColor" content="#2e302f">
+	<meta name="msapplication-config" content="https://nakamotojedi.com/themes/jedi/assets/browserconfig.xml">
+	<meta name="theme-color" content="#2e302f">
+	<meta name="msvalidate.01" content="A1A1B2C6D4A5921FC8174D6267DC01F9" />
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		                                                      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PPD5Z82');
+	</script>
+	<!-- End Google Tag Manager -->
+	<script>
+		/*! @formatter:off modernizr 3.6.0 (Custom Build) | MIT *
+		* https://modernizr.com/download/?-csstransforms3d-flexbox-flexboxlegacy-flexboxtweener-hiddenscroll-inlinesvg-overflowscrolling-svg-svgasimg-setclasses !*/
+		!function(e,t,n){function r(e,t){return typeof e===t}function o(){var e,t,n,o,s,i,l;for(var a in C)if(C.hasOwnProperty(a)){if(e=[],t=C[a],t.name&&(e.push(t.name.toLowerCase()),t.options&&t.options.aliases&&t.options.aliases.length))for(n=0;n<t.options.aliases.length;n++)e.push(t.options.aliases[n].toLowerCase());for(o=r(t.fn,"function")?t.fn():t.fn,s=0;s<e.length;s++)i=e[s],l=i.split("."),1===l.length?Modernizr[l[0]]=o:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=o),S.push((o?"":"no-")+l.join("-"))}}function s(e){var t=x.className,n=Modernizr._config.classPrefix||"";if(T&&(t=t.baseVal),Modernizr._config.enableJSClass){var r=new RegExp("(^|\\s)"+n+"no-js(\\s|$)");t=t.replace(r,"$1"+n+"js$2")}Modernizr._config.enableClasses&&(t+=" "+n+e.join(" "+n),T?x.className.baseVal=t:x.className=t)}function i(){return"function"!=typeof t.createElement?t.createElement(arguments[0]):T?t.createElementNS.call(t,"http://www.w3.org/2000/svg",arguments[0]):t.createElement.apply(t,arguments)}function l(e,t){if("object"==typeof e)for(var n in e)E(e,n)&&l(n,e[n]);else{e=e.toLowerCase();var r=e.split("."),o=Modernizr[r[0]];if(2==r.length&&(o=o[r[1]]),"undefined"!=typeof o)return Modernizr;t="function"==typeof t?t():t,1==r.length?Modernizr[r[0]]=t:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=t),s([(t&&0!=t?"":"no-")+r.join("-")]),Modernizr._trigger(e,t)}return Modernizr}function a(){var e=t.body;return e||(e=i(T?"svg":"body"),e.fake=!0),e}function f(e,n,r,o){var s,l,f,u,d="modernizr",c=i("div"),p=a();if(parseInt(r,10))for(;r--;)f=i("div"),f.id=o?o[r]:d+(r+1),c.appendChild(f);return s=i("style"),s.type="text/css",s.id="s"+d,(p.fake?p:c).appendChild(s),p.appendChild(c),s.styleSheet?s.styleSheet.cssText=e:s.appendChild(t.createTextNode(e)),c.id=d,p.fake&&(p.style.background="",p.style.overflow="hidden",u=x.style.overflow,x.style.overflow="hidden",x.appendChild(p)),l=n(c,e),p.fake?(p.parentNode.removeChild(p),x.style.overflow=u,x.offsetHeight):c.parentNode.removeChild(c),!!l}function u(e,t){return!!~(""+e).indexOf(t)}function d(e){return e.replace(/([a-z])-([a-z])/g,function(e,t,n){return t+n.toUpperCase()}).replace(/^-/,"")}function c(e,t){return function(){return e.apply(t,arguments)}}function p(e,t,n){var o;for(var s in e)if(e[s]in t)return n===!1?e[s]:(o=t[e[s]],r(o,"function")?c(o,n||t):o);return!1}function g(e){return e.replace(/([A-Z])/g,function(e,t){return"-"+t.toLowerCase()}).replace(/^ms-/,"-ms-")}function h(t,n,r){var o;if("getComputedStyle"in e){o=getComputedStyle.call(e,t,n);var s=e.console;if(null!==o)r&&(o=o.getPropertyValue(r));else if(s){var i=s.error?"error":"log";s[i].call(s,"getComputedStyle returning null, its possible modernizr test results are inaccurate")}}else o=!n&&t.currentStyle&&t.currentStyle[r];return o}function m(t,r){var o=t.length;if("CSS"in e&&"supports"in e.CSS){for(;o--;)if(e.CSS.supports(g(t[o]),r))return!0;return!1}if("CSSSupportsRule"in e){for(var s=[];o--;)s.push("("+g(t[o])+":"+r+")");return s=s.join(" or "),f("@supports ("+s+") { #modernizr { position: absolute; } }",function(e){return"absolute"==h(e,null,"position")})}return n}function v(e,t,o,s){function l(){f&&(delete R.style,delete R.modElem)}if(s=r(s,"undefined")?!1:s,!r(o,"undefined")){var a=m(e,o);if(!r(a,"undefined"))return a}for(var f,c,p,g,h,v=["modernizr","tspan","samp"];!R.style&&v.length;)f=!0,R.modElem=i(v.shift()),R.style=R.modElem.style;for(p=e.length,c=0;p>c;c++)if(g=e[c],h=R.style[g],u(g,"-")&&(g=d(g)),R.style[g]!==n){if(s||r(o,"undefined"))return l(),"pfx"==t?g:!0;try{R.style[g]=o}catch(y){}if(R.style[g]!=h)return l(),"pfx"==t?g:!0}return l(),!1}function y(e,t,n,o,s){var i=e.charAt(0).toUpperCase()+e.slice(1),l=(e+" "+j.join(i+" ")+i).split(" ");return r(t,"string")||r(t,"undefined")?v(l,t,o,s):(l=(e+" "+A.join(i+" ")+i).split(" "),p(l,t,n))}function w(e,t,r){return y(e,n,n,t,r)}var S=[],C=[],_={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,t){var n=this;setTimeout(function(){t(n[e])},0)},addTest:function(e,t,n){C.push({name:e,fn:t,options:n})},addAsyncTest:function(e){C.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=_,Modernizr=new Modernizr,Modernizr.addTest("svg",!!t.createElementNS&&!!t.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect);var x=t.documentElement,T="svg"===x.nodeName.toLowerCase(),b="CSS"in e&&"supports"in e.CSS,P="supportsCSS"in e;Modernizr.addTest("supports",b||P),Modernizr.addTest("inlinesvg",function(){var e=i("div");return e.innerHTML="<svg/>","http://www.w3.org/2000/svg"==("undefined"!=typeof SVGRect&&e.firstChild&&e.firstChild.namespaceURI)});var E;!function(){var e={}.hasOwnProperty;E=r(e,"undefined")||r(e.call,"undefined")?function(e,t){return t in e&&r(e.constructor.prototype[t],"undefined")}:function(t,n){return e.call(t,n)}}(),_._l={},_.on=function(e,t){this._l[e]||(this._l[e]=[]),this._l[e].push(t),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},_._trigger=function(e,t){if(this._l[e]){var n=this._l[e];setTimeout(function(){var e,r;for(e=0;e<n.length;e++)(r=n[e])(t)},0),delete this._l[e]}},Modernizr._q.push(function(){_.addTest=l}),Modernizr.addTest("svgasimg",t.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1"));var z=_.testStyles=f;Modernizr.addTest("hiddenscroll",function(){return z("#modernizr {width:100px;height:100px;overflow:scroll}",function(e){return e.offsetWidth===e.clientWidth})});var N="Moz O ms Webkit",j=_._config.usePrefixes?N.split(" "):[];_._cssomPrefixes=j;var A=_._config.usePrefixes?N.toLowerCase().split(" "):[];_._domPrefixes=A;var L={elem:i("modernizr")};Modernizr._q.push(function(){delete L.elem});var R={style:L.elem.style};Modernizr._q.unshift(function(){delete R.style}),_.testAllProps=y,_.testAllProps=w,Modernizr.addTest("flexbox",w("flexBasis","1px",!0)),Modernizr.addTest("flexboxlegacy",w("boxDirection","reverse",!0)),Modernizr.addTest("flexboxtweener",w("flexAlign","end",!0)),Modernizr.addTest("csstransforms3d",function(){return!!w("perspective","1px",!0)}),Modernizr.addTest("overflowscrolling",w("overflowScrolling","touch",!0)),o(),s(S),delete _.addTest,delete _.addAsyncTest;for(var V=0;V<Modernizr._q.length;V++)Modernizr._q[V]();e.Modernizr=Modernizr}(window,document);
+		/*! @formatter:on !*/
+	</script>
+	<link href="https://nakamotojedi.com/themes/jedi/assets/css/app.css?v3107184" rel="stylesheet">
+	
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPD5Z82"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Header -->
+<!--Панель валют-->
+<div class="headerbar">
+    <div class="wrapper js-coin-currency" data-coins="bitcoin,ethereum,ripple,bitcoin-cash,litecoin,monero,tether"></div>
+</div><!--Шапка-->
+<header class="site-header">
+	<div class="wrapper-big">
+		<a href="#" class="site-header__mobile" data-mobile-menu="link" title="Open Menu">
+			<span class="caret"><i></i></span>
+		</a>
+		<a href="/" class="site-header__logo is-mobile">
+			<img src="https://nakamotojedi.com/themes/jedi/assets/images/nakamotojedi.svg" alt="NakamotoJedi.com">
+		</a>
+		<div class="site-header__left" data-mobile-menu="nav">
+			<a href="/" class="site-header__logo">
+				<img src="https://nakamotojedi.com/themes/jedi/assets/images/nakamotojedi.svg" alt="NakamotoJedi.com">
+			</a>
+			<!--Компонент b-btn, цвет красный - is-red, размер маленький - is-small -->
+			<a href="https://nakamotojedi.com/about" class="b-btn is-red is-small site-header__btn">Аdvertise</a>
+
+			<nav class="site-header__menu">
+				<ul>
+										<li class=" is-parent">
+						<a href="https://nakamotojedi.com/news/all-news"  class=" ">
+							All news
+												</a>
+												<span class="is-caret"></span>
+						<ul>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/ico" class=" ">ICO</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/blockchain" class=" ">Blockchain</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/ban" class=" ">Ban</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/cryptocurrencies" class=" ">Cryptocurrencies</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/cryptocurrency-markets" class=" ">Cryptocurrency Markets</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/mining" class=" ">Mining</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/investment" class=" ">Investment</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/exchanger" class=" ">Exchanger</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/binance" class=" ">Binance</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/poloniex" class=" ">Poloniex</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bittrex" class=" ">Bittrex</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/okcoin" class=" ">OKcoin</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/upbit" class=" ">Upbit</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/mt-gox" class=" ">Mt. Gox</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/kraken" class=" ">Kraken</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/coinbase" class=" ">Coinbase</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitfinex" class=" ">Bitfinex</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bithumb" class=" ">Bithumb</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/quadrigacx" class=" ">QuadrigaCX</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/cryptopia" class=" ">Cryptopia</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/scam" class=" ">Scam</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/smart-contract" class=" ">Smart Contract</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/hack" class=" ">Hack</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/other" class=" ">Other</a>
+							</li>
+													</ul>
+											</li>
+										<li class=" is-parent">
+						<a href="https://nakamotojedi.com/news/coin"  class=" ">
+							Coin
+												</a>
+												<span class="is-caret"></span>
+						<ul>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitcoin" class=" ">Bitcoin</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitcoin-gold" class=" ">Bitcoin Gold</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitcoin-dark" class=" ">Bitcoin Dark</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitcoin-cash" class=" ">Bitcoin Cash</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/bitcoin-sv" class=" ">Bitcoin SV</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/ethereum" class=" ">Ethereum</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/ethereum-classic" class=" ">Ethereum Classic</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/eos" class=" ">EOS</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/iota" class=" ">IOTA</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/tron" class=" ">Tron</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/ripple" class=" ">Ripple</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/dash" class=" ">Dash</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/stellar" class=" ">Stellar</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/cardano" class=" ">Cardano</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/neo" class=" ">NEO</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/zcash" class=" ">Zcash</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/litecoin" class=" ">Litecoin</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/dogecoin" class=" ">Dogecoin</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/tezos" class=" ">Tezos</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/monero" class=" ">Monero</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/petro" class=" ">Petro</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/nano" class=" ">Nano</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/gram" class=" ">Gram</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/stablecoins" class=" ">Stablecoins</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/tether" class=" ">Tether</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/gemini" class=" ">Gemini</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/paxos-standard-token" class=" ">Paxos Standard Token</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/usd-coin" class=" ">USD Coin</a>
+							</li>
+														<li class="">
+								<a href="https://nakamotojedi.com/news/jpm-coin" class=" ">JPM Coin</a>
+							</li>
+													</ul>
+											</li>
+										<li class=" ">
+						<a href="https://www.youtube.com/NakamotoJedi" target="_blank" rel="noopener nofollow" class=" is-youtube">
+							YouTube
+												</a>
+											</li>
+										<li class=" ">
+						<a href="https://nakamotojedi.com/news/regulation"  class=" ">
+							Regulation
+												</a>
+											</li>
+										<li class=" ">
+						<a href="https://nakamotojedi.com/news/longreads"  class=" ">
+							What to read
+												</a>
+											</li>
+									</ul>
+			</nav>
+		</div>
+		<!-- @TODO: Если есть Аdvertise добавляется класс is-have-btn -->
+		<div class="site-header__right is-have-btn">
+						<nav class="site-lang site-header__lang">
+				<ul>
+					<li>
+						<span>Eng</span>
+						<ul>
+														<li class="active">
+								<a data-request="onSwitchLocale" data-request-data="locale: 'en'">Eng</a>
+							</li>
+														<li class="">
+								<a data-request="onSwitchLocale" data-request-data="locale: 'ru'">Рус</a>
+							</li>
+														<li class="">
+								<a data-request="onSwitchLocale" data-request-data="locale: 'id'">Ind</a>
+							</li>
+														<li class="">
+								<a data-request="onSwitchLocale" data-request-data="locale: 'hi'">हिन</a>
+							</li>
+														<li class="">
+								<a data-request="onSwitchLocale" data-request-data="locale: 'ch'">中文</a>
+							</li>
+													</ul>
+					</li>
+				</ul>
+			</nav>
+						<a href="#search-box" class="site-header__search" id="search">
+				Search
+				<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="17" height="18">
+					<path d="M16.74 16.399l-4.188-4.455a7.353 7.353 0 0 0 1.667-4.675C14.219 3.261 11.031 0 7.112 0 3.194 0 .006 3.261.006 7.269c0 4.009 3.188 7.27 7.106 7.27a6.914 6.914 0 0 0 4.072-1.316l4.221 4.491a.908.908 0 0 0 1.31.026.964.964 0 0 0 .025-1.341zM7.112 1.897c2.896 0 5.253 2.411 5.253 5.372 0 2.963-2.357 5.373-5.253 5.373S1.86 10.232 1.86 7.269c0-2.961 2.356-5.372 5.252-5.372z" class="cls-2" fill-rule="evenodd" />
+				</svg>
+			</a>
+		</div>
+	</div>
+	<div class="site-header__readpanel" aria-hidden="true">
+		<div class="rpi-progress-bar">
+			<div class="rpi-progress-bar__position"
+			     role="progressbar"
+			     aria-valuemin="0"
+			     aria-valuemax="100"
+			     aria-valuenow="0"></div>
+			<div class="rpi-progress-bar__percentage"></div>
+		</div>
+	</div>
+</header>
+<!-- Content -->
+<main class="main-block">
+    <div class="wrapper">
+        <div class="main-block__wrapper">
+            <div class="main-block__content">
+
+                <article class="news-article">
+                    <div class="news-article__inner">
+                        <a href="#" onclick="window.history.go(-1); return false;" class="news-article__back b-btn is-grey">
+                            <i class="icon-arrow-back" aria-hidden="true"></i> Back
+                        </a>
+                        <h1 class="news-article__title">
+                            German Police Arrested Crypto Miners for Stealing Electricity Worth $250,000
+                        </h1>
+                                                <div class="news-article__category">
+                                                        <a href="https://nakamotojedi.com/news/mining" class="label" style="background: #767676">
+                                Mining
+                            </a>
+                                                    </div>
+                                                <p>The authorities of the German city of Klingenthal arrested six people. According to the police, they stole electricity for cryptocurrency&nbsp;mining. The losses inflicted on the state exceed a quarter of a million dollars.</p>
+
+<p><span class="fr-img-caption fr-fic fr-dib" style="width: 961px;"><span class="fr-img-wrap"><img src="/storage/app/media/uploaded-files/Germany_Suspects_Arrested_for_Stealing.jpg" data-result="success"><span class="fr-inner"><br></span></span>
+	</span>According to local media <a href="https://www.freiepresse.de/vogtland/oberes-vogtland/stromklau-fuer-kryptowaehrungen-drei-festnahmen-bei-durchsuchungen-artikel10439199" rel="noopener noreferrer" target="_blank">FreiePresse</a>, five men and one woman set up a mining farm in the premises of the former electric company PGH Elektro. In total, the police found 49 computers, 30 of which utilized special mining equipment.</p>
+
+<p>According to the authorities, the alleged criminals have been mining since 2017. During this time, they spent electricity that could provide light to 30 households. The total number of losses, according to police estimates, exceeds $250,000.</p>
+
+<p>This is not the first time when the police seize miners for stealing electricity. For example, in December, a resident of Taiwan was caught. He is accused of stealing electricity worth $3 million.</p>
+                        <footer class="news-article__footer">
+                            <div class="tiles-user">
+                                                                <div class="tiles-user__main">
+                                                                        <div class="tiles-user__date">
+                                        3 weeks ago
+                                    </div>
+                                </div>
+                            </div>
+                                                    </footer>
+                        
+	                                                <a href="https://nakamotojedi.com/article/craig-wright-btc-has-no-value" class="news-article__prev" title="Craig Wright: BTC Has No Value">
+                                <i class="icon-article-prev" aria-hidden="true"></i>
+                            </a>
+	                    	                                                <a href="https://nakamotojedi.com/article/jp-morgan-analyst-btc-bubble-burst-more-institutional-investors-come-future" class="news-article__next" title="JP Morgan Analyst: BTC Bubble Burst, More Institutional Investors to Come in the Future">
+                                <i class="icon-article-next" aria-hidden="true"></i>
+                            </a>
+	                    
+
+                        <div class="news-article-social">
+                            <a href="#" class="news-article-social__cell" data-social="facebook" data-image="https://nakamotojedi.com/storage/app/uploads/public/5c5/c5b/327/5c5c5b3272701683944414.jpg">
+                                <i class="icon-social-facebook" aria-hidden="true"></i>
+                                <span data-counter="facebook"></span>
+                            </a>
+                            <a href="#" class="news-article-social__cell" data-social="twitter" data-image="https://nakamotojedi.com/storage/app/uploads/public/5c5/c5b/327/5c5c5b3272701683944414.jpg">
+                                <i class="icon-social-twitter" aria-hidden="true"></i>
+                                <span data-counter="twitter"></span>
+                            </a>
+                            <a href="#" class="news-article-social__cell" data-social="pinterest" data-image="https://nakamotojedi.com/storage/app/uploads/public/5c5/c5b/327/5c5c5b3272701683944414.jpg">
+                                <i class="icon-social-pinterest" aria-hidden="true"></i>
+                                <span data-counter="pinterest"></span>
+                            </a>
+                            <a href="#" class="news-article-social__cell" data-social="linkedin" data-image="https://nakamotojedi.com/storage/app/uploads/public/5c5/c5b/327/5c5c5b3272701683944414.jpg">
+                                <i class="icon-social-linkedin" aria-hidden="true"></i>
+                                <span data-counter="linkedin"></span>
+                            </a>
+                            <a href="#" class="news-article-social__close">
+                                <i class="icon-social-close" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+
+                                
+
+                <div class="newslatter-block__main">
+    <div class="newslatter-block__info">
+        <h4 class="newslatter-block__title">Start Weekly Digest</h4>
+    </div>
+    <div class="newslatter-block__form">
+        <form class="newsletter-form"
+              data-action="newsLetter::onSignup"
+        >
+            <input type="email" name="email" placeholder="Enter your email" required data-msg-required="Madam/sir, this field is required." data-msg-email="Please, enter a valid email address." data-rule-email="true">
+            <!--Компонент b-btn, цвет синий - is-blue -->
+            <button type="submit" class="b-btn is-blue">
+                Submit <i class="icon-readmore-ancor" aria-hidden="true"></i>
+            </button>
+        </form>
+    </div>
+</div>
+                                <div class="news-list__row">
+                    <h4 class="news-list__title">Similar news</h4>
+                    <div class="news-grid" data-grid id="list">
+    <div class="news-grid__sizer"></div>
+    <div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/bitmain-losses-500-million-thanks-collapse" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #166f47">Cryptocurrency Markets</span> <span class="label"  style="background: #9b59b6">Investment</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5c6/c28/83d/thumb_3164_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Bitmain Losses $500 Million Thanks to Collapse
+	                </h2>
+	                <p>The value of Bitmain&#039;s crypto assets plunged by $100M</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        19 Feb 2019 - 7:04 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/bitmain-stopped-mining-texas" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #d945b4">Cryptocurrencies</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5c3/c8f/624/thumb_3039_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Bitmain Stopped Mining in Texas
+	                </h2>
+	                <p>All because of BTC price collapse</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        14 Jan 2019 - 4:57 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/intro-mining-bitcoin-what-you-need-know" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label is-pink">Longreads</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5c2/9d4/0f4/thumb_3014_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Intro to Mining Bitcoin: What You Need to Know
+	                </h2>
+	                <p>A complete guide to start yearning BTC</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        4 Jan 2019 - 10:46 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/how-bitcoin-mined-guide-understanding-bitcoin-economics" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label is-pink">Longreads</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5c2/9cf/28c/thumb_3011_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    How Bitcoin Is Mined: A Guide to Understanding Bitcoin Economics
+	                </h2>
+	                <p>Everything you need to know about fundamentals of crypto</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        2 Jan 2019 - 1:12 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/btc-miners-under-cross-fire-13-million-left-market" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #e67e22">Bitcoin</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5c1/148/28a/thumb_2945_300_210_0_0_crop.jpeg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    BTC Miners Under Cross-fire, 1.3 Million Left the Market
+	                </h2>
+	                <p>Miners lost half of the profit</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        12 Dec 2018 - 5:55 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/f2pool-founder-800000-btc-miners-exited-market" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #e67e22">Bitcoin</span> <span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bf/bef/56a/thumb_2895_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    F2Pool Founder: 800,000 BTC Miners Exited the Market
+	                </h2>
+	                <p>Those who stayed &quot;may have a better life&quot;</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        26 Nov 2018 - 3:38 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/paraguay-torn-between-utilizing-excess-power-mining-manufacturing-industries" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5be/28e/cd6/thumb_2807_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Paraguay Torn Between Utilizing Excess Power In Mining, Manufacturing Industries
+	                </h2>
+	                <p>Paraguay Torn Between Utilizing Excess Power In Mining, Manufacturing Industries</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        8 Nov 2018 - 8:07 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/mining-btc-costs-double-energy-needed-metals" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5be/289/786/thumb_2801_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Mining BTC Costs Double the Energy Needed for Mining Metals
+	                </h2>
+	                <p>Energy consumption for mining cryptos is very high as per the latest research</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        7 Nov 2018 - 6:37 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/btcc-anticipated-close-mining-pool-because-business-changes" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5be/2a0/962/thumb_2810_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    BTCC Is Anticipated To Close Mining Pool Because Of Business Changes
+	                </h2>
+	                <p>Bitcoin continued to experience many misfortunes this week</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        7 Nov 2018 - 4:38 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/btc-miners-head-paraguay-it-contemplates-social-growth" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5be/287/9ed/thumb_2799_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    BTC Miners Head to Paraguay as It Contemplates Social Growth
+	                </h2>
+	                <p>Cheap sources of  electricity attract crypto miners to Paraguay</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        7 Nov 2018 - 12:43 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/amd-partners-blockchain-firms-develop-best-mining-rings" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5be/048/5ca/thumb_2772_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    AMD Partners With Blockchain Firms To Develop Best Mining Rigs
+	                </h2>
+	                <p>2018 has been a tough year for cryptos, with mining sector incurring losses</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        5 Nov 2018 - 11:34 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/crypto-miner-made-just-over-1-after-mining-four-days" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bd/6ab/24c/thumb_2577_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Crypto Miner Made Just Over $1 After Mining for Four Days
+	                </h2>
+	                <p>A crypto miner revealed just how little a miner makes after expenses</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        29 Oct 2018 - 11:58 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/ephrata-washington-enforces-1-year-prohibition-fresh-digital-currency-mining-processes" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bc/eb3/b91/thumb_2417_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Ephrata, Washington Enforces 1 Year Prohibition on Fresh Digital Currency Mining Processes
+	                </h2>
+	                <p>Crypto excavating to stop mining undertakings in the city of Ephrata for one year</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        23 Oct 2018 - 9:00 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item news-grid__size-2">
+    <div class="news-grid__inner">
+                <a href="https://nakamotojedi.com/article/chinese-crypto-miners-incur-huge-losses-machines-are-converted-scrap" class="tiles tiles-type-1">
+            <div class="tiles-type-1__label"><span class="label"  style="background: #767676">Mining</span> </div>
+            <div class="tiles-type-1__content">
+                <h2 class="tiles-type-1__title">
+                    Chinese Crypto Miners Incur Huge Losses As Machines Are Converted To Scrap
+                </h2>
+                <p>This year has been difficult for the crypto sector, and mining has seen many make losses</p>            </div>
+            <div class="tiles-type-1__button">
+                <span class="b-btn is-blue">
+                    Read More
+                    <i aria-hidden="true" class="icon-readmore-ancor"></i>
+                </span>
+            </div>
+            <div class="tiles-type-1__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bc/d75/776/thumb_2373_620_420_0_0_crop.jpg);"></div>
+        </a>
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/armenias-prime-minister-goes-launching-mining-farmstead-professes-it-biggest-universe" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bc/aca/17a/thumb_2334_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Armenia’s Prime Minister Attends Launching of the Mining Farmstead, Stating It Is the Biggest in the Universe
+	                </h2>
+	                <p>Others in attendance are legislators, executive officers from more than 40 nations.</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        20 Oct 2018 - 9:15 am
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+<div class="news-grid__item ">
+    <div class="news-grid__inner">
+                <div  class="tiles tiles-type-2">
+	        <a href="https://nakamotojedi.com/article/nuclear-reactors-could-be-used-powering-bitcoin-mining-future" class="tiles-type-2__link">
+	            <div class="tiles-type-2__image">
+	                <div class="tiles-type-2__label"><span class="label"  style="background: #767676">Mining</span> </div>
+	                	                <div class="tiles-type-2__bg" style="background-image: url(https://nakamotojedi.com/storage/app/uploads/public/5bc/87a/482/thumb_2283_300_210_0_0_crop.jpg);"></div>
+	            </div>
+	            <div class="tiles-type-2__content">
+	                <h2 class="tiles-type-2__title">
+	                    Nuclear Reactors Could Be Used In Powering Bitcoin Mining In Future
+	                </h2>
+	                <p>Bitcoin mining activities are being blamed by the public for consuming more power and destroying.</p>	            </div>
+	            <div class="tiles-type-2__footer">
+	                	            </div>
+	        </a>
+	        <div class="tiles-user tiles-type-2__user">
+		        
+                		        <div class="tiles-user__main">
+			        			        <div class="tiles-user__date">
+				        18 Oct 2018 - 3:16 pm
+			        </div>
+                </div>
+                
+	        </div>
+        </div>
+
+            </div>
+</div>
+</div>
+
+<div class="news-grid__more">
+    <a href="#" class="b-btn is-blue is-big js-pager-more"
+       data-action="newsPosts::onLoadMore"
+       data-target="#list"
+       data-search=""
+       data-page="1"
+       data-pages="5">Show More</a>
+</div>
+                </div>
+                            </div>
+            <div class="main-block__sidebar">
+				                <section class="tiles is-no-hover tiles-recomendeted is-stucked">
+    <h3 class="tiles-recomendeted__title">
+        Recommended for you
+    </h3>
+    <div class="tiles-recomendeted__main">
+        <div class="tiles-recomendeted__scroll">
+                        <article class="tiles-recomendeted__item">
+                <div class="short-news">
+                                        <div class="short-news__image">
+                        <a href="https://nakamotojedi.com/article/ernst-young-quadrigas-cold-wallets-have-been-empty-april-2018">
+                            <img src="https://nakamotojedi.com/storage/app/uploads/public/5c7/a43/b5b/thumb_3202_75_75_0_0_crop.jpg" alt="Ernst &amp; Young: Quadriga’s Cold Wallets Have Been Empty Since April 2018">
+                        </a>
+                    </div>
+                                        <div class="short-news__main">
+                        <h2 class="short-news__title">
+                            <a href="https://nakamotojedi.com/article/ernst-young-quadrigas-cold-wallets-have-been-empty-april-2018">Ernst &amp; Young: Quadriga’s Cold Wallets Have Been Empty Since April 2018</a>
+                        </h2>
+                                            </div>
+                </div>
+            </article>
+                        <article class="tiles-recomendeted__item">
+                <div class="short-news">
+                                        <div class="short-news__image">
+                        <a href="https://nakamotojedi.com/article/btc-has-no-value-when-sell-crypto-and-ripple-vs-coinbase">
+                            <img src="https://nakamotojedi.com/storage/app/uploads/public/5c7/97b/883/thumb_3201_75_75_0_0_crop.jpeg" alt="BTC Has No Value, When to Sell Crypto and Ripple VS Coinbase">
+                        </a>
+                    </div>
+                                        <div class="short-news__main">
+                        <h2 class="short-news__title">
+                            <a href="https://nakamotojedi.com/article/btc-has-no-value-when-sell-crypto-and-ripple-vs-coinbase">BTC Has No Value, When to Sell Crypto and Ripple VS Coinbase</a>
+                        </h2>
+                                            </div>
+                </div>
+            </article>
+                        <article class="tiles-recomendeted__item">
+                <div class="short-news">
+                                        <div class="short-news__image">
+                        <a href="https://nakamotojedi.com/article/kraken-offers-100000-help-quadriga">
+                            <img src="https://nakamotojedi.com/storage/app/uploads/public/5c7/8ed/d7a/thumb_3200_75_75_0_0_crop.jpg" alt="Kraken Offers $100,000 for Help with Quadriga">
+                        </a>
+                    </div>
+                                        <div class="short-news__main">
+                        <h2 class="short-news__title">
+                            <a href="https://nakamotojedi.com/article/kraken-offers-100000-help-quadriga">Kraken Offers $100,000 for Help with Quadriga</a>
+                        </h2>
+                                            </div>
+                </div>
+            </article>
+                        <article class="tiles-recomendeted__item">
+                <div class="short-news">
+                                        <div class="short-news__image">
+                        <a href="https://nakamotojedi.com/article/ethereum-has-successfully-postponed-launch-difficulty-bomb">
+                            <img src="https://nakamotojedi.com/storage/app/uploads/public/5c7/8e3/3c7/thumb_3199_75_75_0_0_crop.jpg" alt="Ethereum Has Successfully Postponed the Launch of the &quot;Difficulty Bomb&quot;">
+                        </a>
+                    </div>
+                                        <div class="short-news__main">
+                        <h2 class="short-news__title">
+                            <a href="https://nakamotojedi.com/article/ethereum-has-successfully-postponed-launch-difficulty-bomb">Ethereum Has Successfully Postponed the Launch of the &quot;Difficulty Bomb&quot;</a>
+                        </h2>
+                                            </div>
+                </div>
+            </article>
+                    </div>
+    </div>
+    <div class="tiles-recomendeted__footer">
+        <a href="https://nakamotojedi.com/recommended">Read More</a>
+    </div>
+</section>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+<!--Футер-->
+<footer class="footer">
+	<div class="wrapper">
+		<div class="footer__main">
+			<div class="footer__info">
+				<p>
+					<strong>NakamotoJedi.com</strong>
+				</p>
+				<p>
+					<a href="https://www.youtube.com/NakamotoJedi" target="_blank" rel="noopener nofollow">
+						<i class="icon-youtube"></i>
+					</a>
+				</p>
+
+				<!--@TODO: Мобильное меню-->
+				<nav class="footer__mobile">
+					<ul>
+												<li class=" is-parent">
+							<a href="https://nakamotojedi.com/news/all-news"  class=" ">
+							All news
+														</a>
+						</li>
+												<li class=" is-parent">
+							<a href="https://nakamotojedi.com/news/coin"  class=" ">
+							Coin
+														</a>
+						</li>
+												<li class=" ">
+							<a href="https://nakamotojedi.com/news/regulation"  class=" ">
+							Regulation
+														</a>
+						</li>
+												<li class=" ">
+							<a href="https://nakamotojedi.com/news/longreads"  class=" ">
+							What to read
+														</a>
+						</li>
+											</ul>
+				</nav>
+			</div>
+
+			<nav class="footer__menu">
+				<!-- @TODO:данная колонка не скрывается на мобильных устройствах, помечается классом is-news-cell -->
+								<ul class="footer__cell is-news-cell">
+					<li>
+					<a href="https://nakamotojedi.com/news/all-news"  class="">
+					All news
+											</a>
+										<ul>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/ico" class=" ">ICO</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/blockchain" class=" ">Blockchain</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/ban" class=" ">Ban</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/cryptocurrencies" class=" ">Cryptocurrencies</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/cryptocurrency-markets" class=" ">Cryptocurrency Markets</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/mining" class=" ">Mining</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/investment" class=" ">Investment</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/exchanger" class=" ">Exchanger</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/binance" class=" ">Binance</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/poloniex" class=" ">Poloniex</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bittrex" class=" ">Bittrex</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/okcoin" class=" ">OKcoin</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/upbit" class=" ">Upbit</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/mt-gox" class=" ">Mt. Gox</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/kraken" class=" ">Kraken</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/coinbase" class=" ">Coinbase</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitfinex" class=" ">Bitfinex</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bithumb" class=" ">Bithumb</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/quadrigacx" class=" ">QuadrigaCX</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/cryptopia" class=" ">Cryptopia</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/scam" class=" ">Scam</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/smart-contract" class=" ">Smart Contract</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/hack" class=" ">Hack</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/other" class=" ">Other</a>
+						</li>
+											</ul>
+										</li>
+				</ul>
+								<ul class="footer__cell ">
+					<li>
+					<a href="https://nakamotojedi.com/news/coin"  class="">
+					Coin
+											</a>
+										<ul>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitcoin" class=" ">Bitcoin</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitcoin-gold" class=" ">Bitcoin Gold</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitcoin-dark" class=" ">Bitcoin Dark</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitcoin-cash" class=" ">Bitcoin Cash</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/bitcoin-sv" class=" ">Bitcoin SV</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/ethereum" class=" ">Ethereum</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/ethereum-classic" class=" ">Ethereum Classic</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/eos" class=" ">EOS</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/iota" class=" ">IOTA</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/tron" class=" ">Tron</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/ripple" class=" ">Ripple</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/dash" class=" ">Dash</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/stellar" class=" ">Stellar</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/cardano" class=" ">Cardano</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/neo" class=" ">NEO</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/zcash" class=" ">Zcash</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/litecoin" class=" ">Litecoin</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/dogecoin" class=" ">Dogecoin</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/tezos" class=" ">Tezos</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/monero" class=" ">Monero</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/petro" class=" ">Petro</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/nano" class=" ">Nano</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/gram" class=" ">Gram</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/stablecoins" class=" ">Stablecoins</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/tether" class=" ">Tether</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/gemini" class=" ">Gemini</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/paxos-standard-token" class=" ">Paxos Standard Token</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/usd-coin" class=" ">USD Coin</a>
+						</li>
+												<li class="">
+							<a href="https://nakamotojedi.com/news/jpm-coin" class=" ">JPM Coin</a>
+						</li>
+											</ul>
+										</li>
+				</ul>
+								<ul class="footer__cell ">
+					<li>
+					<a href="https://nakamotojedi.com/news/regulation"  class="">
+					Regulation
+											</a>
+										</li>
+				</ul>
+								<ul class="footer__cell ">
+					<li>
+					<a href="https://nakamotojedi.com/news/longreads"  class="">
+					What to read
+											</a>
+										</li>
+				</ul>
+							</nav>
+
+			<div class="footer__logo">
+				<p>
+					<img src="https://nakamotojedi.com/themes/jedi/assets/images/nakamotojedi.svg" alt="NakamotoJedi">
+				</p>
+				<p class="footer__count">
+					<b>2.712</b> articles
+				</p>
+			</div>
+		</div>
+
+		<div class="footer__copyright">
+			<div class="copyright">
+				&copy; 2018 NakamotoJedi.com. Trademarks and brands are the property of their respective owners.
+			</div>
+			<div class="footer__wallet">
+				<p>
+					BTC -
+					<button class="copy-clipboard" data-clipboard-text="3CH2XWuDssGqdMUTQ9DQD6RVeezKbMHqfg" data-tip="Copied!">
+						<span>3CH2XWuDssGqdMUTQ9DQD6RVeezKbMHqfg</span>
+					</button>
+				</p>
+				<p>
+					ETH -
+					<button class="copy-clipboard" data-clipboard-text="0x02d5eE6BeC2C4D34F43B11837a9507B3EF520A0b" data-tip="Copied!">
+						<span>0x02d5eE6BeC2C4D34F43B11837a9507B3EF520A0b</span>
+					</button>
+				</p>
+			</div>
+			<div class="footer__social">
+				<a href="https://facebook.com/NakamotoJedi/" class="is-facebook" target="_blank" rel="noopener nofollow">
+					Facebook
+					<i aria-hidden="true" class="icon-social-facebook"></i>
+				</a>
+				<a href="https://www.youtube.com/NakamotoJedi" class="is-youtube" target="_blank" rel="noopener nofollow">
+					YouTube
+					<i aria-hidden="true" class="icon-social-youtube"></i>
+				</a>
+				<a href="https://twitter.com/NakamotoJedi" class="is-twitter" target="_blank" rel="noopener nofollow">
+					Twitter
+					<i aria-hidden="true" class="icon-social-twitter"></i>
+				</a>
+				<a href="https://t.me/cryptoconsultinginfo" class="is-telegram" target="_blank" rel="noopener nofollow">
+					Telegram
+					<i aria-hidden="true" class="icon-social-telegram"></i>
+				</a>
+				<a href="https://medium.com/@NakamotoJedi" class="is-medium" target="_blank" rel="noopener nofollow">
+					Medium
+					<i aria-hidden="true" class="icon-social-medium"></i>
+				</a>
+				<a href="https://nakamotojedi.com/rss" class="is-rss">
+					RSS
+					<i aria-hidden="true" class="icon-social-rss"></i>
+				</a>
+			</div>
+		</div>
+	</div>
+</footer><!--Окно поиска -->
+<div class="search-box" id="search-box">
+	<div class="search-box__wrapper">
+		<div class="search-box__header">
+			<div class="search-box__button">
+								<a href="#" class="search-box__close" data-search-menu="close" title="Close Search">
+					<span class="caret"></span>
+				</a>
+			</div>
+		</div>
+		<form class="search-box__form" data-action="newsSearch::onResults">
+			<input type="text" name="q" autocomplete="off" id="searchMod" placeholder="Search">
+		</form>
+		<!-- Результаты поиска -->
+		<div class="search-box__result"></div>
+	</div>
+</div>
+
+<div class="search-box__bg"></div>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/jquery-3.3.1.min.js"></script>
+
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/swiper.min.js"></script>
+
+
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/jquery.mCustomScrollbar.min.js"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/jquery.validate.min.js"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/packery.pkgd.min.js"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/app.min.js?v3107184"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/main.js?v3107185"></script>
+<script src="/modules/system/assets/js/framework.combined-min.js"></script>
+<link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework.extras-min.css">
+<script src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/fotorama.js"></script>
+<script src="https://nakamotojedi.com/themes/jedi/assets/js/goodshare.min.js"></script>
+</body>
+</html>

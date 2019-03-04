@@ -1,0 +1,646 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin. Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private&hellip;"/>
+<link rel="canonical" href="https://www.justcryptocurrencies.com/2019/02/16/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application" />
+<meta property="og:description" content="After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin. Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private&hellip;" />
+<meta property="og:url" content="https://www.justcryptocurrencies.com/2019/02/16/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application/" />
+<meta property="article:publisher" content="https://www.facebook.com/JustCryptocurrencies/" />
+<meta property="article:section" content="News" />
+<meta property="article:published_time" content="2019-02-16T22:05:54+00:00" />
+<meta property="og:image" content="https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application.jpg" />
+<meta property="og:image:secure_url" content="https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application.jpg" />
+<meta property="og:image:width" content="1100" />
+<meta property="og:image:height" content="680" />
+<meta property="og:image:alt" content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin. Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private&hellip;" />
+<meta name="twitter:title" content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application" />
+<meta name="twitter:site" content="@justcryptocnews" />
+<meta name="twitter:image" content="https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application.jpg" />
+<meta name="twitter:creator" content="@justcryptocnews" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.justcryptocurrencies.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.justcryptocurrencies.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.justcryptocurrencies.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='cryptocoin-live-ticker-css-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/live-ticker-cryptocoin/assets/style.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.justcryptocurrencies.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='crtools-css-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/cryptocurrency-rocket-tools/assets/css/main.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='crypto-ticker-style-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/cryptocurrency-ticker/css/crypto-ticker.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='feedzy-rss-feeds-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/feedzy-rss-feeds/css/feedzy-rss-feeds.css?ver=3.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='links-auto-replacer-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/links-auto-replacer/public/css/lar-public.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='echo_thumbnail_css-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/rss-feed-post-generator-echo/styles/echo-thumbnail.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_frontend-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/css/ffwd_frontend.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_font-awesome-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/css/font-awesome/font-awesome.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_mCustomScrollbar-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/css/jquery.mCustomScrollbar.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wplinkpreview-style-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/wp-link-preview/wplinkpreview.css?ver=20120208' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/style.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='news-portal-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700%7CRoboto%3A300%2C400%2C400i%2C500%2C700%7CTitillium+Web%3A400%2C600%2C700%2C300&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/library/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lightslider-style-css'  href='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/library/lightslider/css/lightslider.min.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='news-portal-style-css'  href='https://www.justcryptocurrencies.com/wp-content/themes/newsportalchild/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='news-portal-style-inline-css' type='text/css'>
+.category-button.np-cat-10 a{background:#e5b020}
+.category-button.np-cat-10 a:hover{background:#b37e00}
+.np-block-title .np-cat-10{color:#e5b020}
+.category-button.np-cat-5 a{background:#7f5b00}
+.category-button.np-cat-5 a:hover{background:#4d2900}
+.np-block-title .np-cat-5{color:#7f5b00}
+.category-button.np-cat-12 a{background:#001bb7}
+.category-button.np-cat-12 a:hover{background:#000085}
+.np-block-title .np-cat-12{color:#001bb7}
+.category-button.np-cat-11 a{background:#00a9e0}
+.category-button.np-cat-11 a:hover{background:#0077ae}
+.np-block-title .np-cat-11{color:#00a9e0}
+.category-button.np-cat-8 a{background:#34a83d}
+.category-button.np-cat-8 a:hover{background:#02760b}
+.np-block-title .np-cat-8{color:#34a83d}
+.category-button.np-cat-230 a{background:#6a9cb7}
+.category-button.np-cat-230 a:hover{background:#386a85}
+.np-block-title .np-cat-230{color:#6a9cb7}
+.category-button.np-cat-6 a{background:#8224e3}
+.category-button.np-cat-6 a:hover{background:#5000b1}
+.np-block-title .np-cat-6{color:#8224e3}
+.category-button.np-cat-1 a{background:#dd3333}
+.category-button.np-cat-1 a:hover{background:#ab0101}
+.np-block-title .np-cat-1{color:#dd3333}
+.navigation .nav-links a,.bttn,button,input[type='button'],input[type='reset'],input[type='submit'],.navigation .nav-links a:hover,.bttn:hover,button,input[type='button']:hover,input[type='reset']:hover,input[type='submit']:hover,.widget_search .search-submit,.edit-link .post-edit-link,.reply .comment-reply-link,.np-top-header-wrap,.np-header-menu-wrapper,#site-navigation ul.sub-menu,#site-navigation ul.children,.np-header-menu-wrapper::before,.np-header-menu-wrapper::after,.np-header-search-wrapper .search-form-main .search-submit,.news_portal_slider .lSAction > a:hover,.news_portal_default_tabbed ul.widget-tabs li,.np-full-width-title-nav-wrap .carousel-nav-action .carousel-controls:hover,.news_portal_social_media .social-link a,.np-archive-more .np-button:hover,.error404 .page-title,#np-scrollup,.news_portal_featured_slider .slider-posts .lSAction > a:hover,div.wpforms-container-full .wpforms-form input[type='submit'],div.wpforms-container-full .wpforms-form button[type='submit'],div.wpforms-container-full .wpforms-form .wpforms-page-button,div.wpforms-container-full .wpforms-form input[type='submit']:hover,div.wpforms-container-full .wpforms-form button[type='submit']:hover,div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background:#0b5394}
+.home .np-home-icon a,.np-home-icon a:hover,#site-navigation ul li:hover > a,#site-navigation ul li.current-menu-item > a,#site-navigation ul li.current_page_item > a,#site-navigation ul li.current-menu-ancestor > a,.news_portal_default_tabbed ul.widget-tabs li.ui-tabs-active,.news_portal_default_tabbed ul.widget-tabs li:hover{background:#002162}
+.np-header-menu-block-wrap::before,.np-header-menu-block-wrap::after{border-right-color:#002162}
+a,a:hover,a:focus,a:active,.widget a:hover,.widget a:hover::before,.widget li:hover::before,.entry-footer a:hover,.comment-author .fn .url:hover,#cancel-comment-reply-link,#cancel-comment-reply-link:before,.logged-in-as a,.np-slide-content-wrap .post-title a:hover,#top-footer .widget a:hover,#top-footer .widget a:hover:before,#top-footer .widget li:hover:before,.news_portal_featured_posts .np-single-post .np-post-content .np-post-title a:hover,.news_portal_fullwidth_posts .np-single-post .np-post-title a:hover,.news_portal_block_posts .layout3 .np-primary-block-wrap .np-single-post .np-post-title a:hover,.news_portal_featured_posts .layout2 .np-single-post-wrap .np-post-content .np-post-title a:hover,.np-block-title,.widget-title,.page-header .page-title,.np-related-title,.np-post-meta span:hover,.np-post-meta span a:hover,.news_portal_featured_posts .layout2 .np-single-post-wrap .np-post-content .np-post-meta span:hover,.news_portal_featured_posts .layout2 .np-single-post-wrap .np-post-content .np-post-meta span a:hover,.np-post-title.small-size a:hover,#footer-navigation ul li a:hover,.entry-title a:hover,.entry-meta span a:hover,.entry-meta span:hover,.np-post-meta span:hover,.np-post-meta span a:hover,.news_portal_featured_posts .np-single-post-wrap .np-post-content .np-post-meta span:hover,.news_portal_featured_posts .np-single-post-wrap .np-post-content .np-post-meta span a:hover,.news_portal_featured_slider .featured-posts .np-single-post .np-post-content .np-post-title a:hover{color:#0b5394}
+.navigation .nav-links a,.bttn,button,input[type='button'],input[type='reset'],input[type='submit'],.widget_search .search-submit,.np-archive-more .np-button:hover{border-color:#0b5394}
+.comment-list .comment-body,.np-header-search-wrapper .search-form-main{border-top-color:#0b5394}
+.np-header-search-wrapper .search-form-main:before{border-bottom-color:#0b5394}
+@media (max-width:768px){#site-navigation,.main-small-navigation li.current-menu-item > .sub-toggle i{background:#0b5394 !important}}
+.site-title a,.site-description{color:#029FB2}
+</style>
+<link rel='stylesheet' id='news-portal-responsive-style-css'  href='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/css/np-responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='socicon-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/socicon.css?ver=20181009' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=20180625' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome.min.css?ver=20180625' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.justcryptocurrencies.com/wp-includes/css/dashicons.min.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-base-css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/cryptocurrency-prices/css/cp_base.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cp--css'  href='https://www.justcryptocurrencies.com/wp-content/plugins/cryptocurrency-prices/css/cp_.css?ver=5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var crtoolsVars = {"table_number":"\u2116","table_name":"Name","table_price":"Price","table_cap":"Market Cap","table_supply":"Circulating Supply","table_volume":"Volume 24H","table_change":"Change 24H","table_graph":"Graph 7D","table_currency":"Currency","table_search":"Search","table_lengthName":"Show _MENU_ rows","table_processing":"Processing...","table_paginate_first":"First","table_paginate_last":"Last","table_paginate_next":"Next","table_paginate_previous":"Previous","converter_from":"I give","converter_to":"I get","converter_title":"Converter","graph_dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"graph_shortDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"graph_monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"graph_shortMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"graph_valuesName":"Volume"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/cryptocurrency-rocket-tools/assets/js/crtools.min.js?ver=5.1'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/links-auto-replacer/public/js/lar-public.js?ver=2.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ffwd_frontend_text = {"comment_reply":"Reply","view":"View","more_comments":"more comments","year":"year","years":"years","hour":"hour","hours":"hours","months":"months","month":"month","weeks":"weeks","week":"week","days":"days","day":"day","minutes":"minutes","minute":"minute","seconds":"seconds","second":"second","ago":"ago","ajax_url":"https:\/\/www.justcryptocurrencies.com\/wp-admin\/admin-ajax.php","and":"and","others":"others"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/js/ffwd_frontend.js?ver=1.1.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/js/jquery.mobile.js?ver=1.1.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/js/jquery.mCustomScrollbar.concat.min.js?ver=1.1.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ffwd_objectL10n = {"ffwd_field_required":"field is required.","ffwd_mail_validation":"This is not a valid email address.","ffwd_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/wd-facebook-feed/js/ffwd_gallery_box.js?ver=1.1.4'></script>
+<link rel='https://api.w.org/' href='https://www.justcryptocurrencies.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.justcryptocurrencies.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.justcryptocurrencies.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1" />
+<link rel='shortlink' href='https://www.justcryptocurrencies.com/?p=25995' />
+<link rel="alternate" type="application/json+oembed" href="https://www.justcryptocurrencies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.justcryptocurrencies.com%2F2019%2F02%2F16%2Fcrypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.justcryptocurrencies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.justcryptocurrencies.com%2F2019%2F02%2F16%2Fcrypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application%2F&#038;format=xml" />
+<script type="text/javascript">
+            var ajaxurl = "https://www.justcryptocurrencies.com/wp-admin/admin-ajax.php";
+        </script>
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-112180334-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+
+
+      <style type="text/css">
+
+        /*You can add your own CSS here.*/
+
+
+
+      </style>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7329796942572080",
+    enable_page_level_ads: true
+  });
+</script>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5c76a3b0c98265079970bb954/62bfed981c356072caa4b19b1.js");</script>
+</head>
+
+<body class="post-template-default single single-post postid-25995 single-format-standard wp-custom-logo do-etfw group-blog right-sidebar boxed_layout">
+
+	
+<div id="page" class="site">
+	<div class="np-top-header-wrap"><div class="mt-container">		<div class="np-top-left-section-wrapper">
+			<div class="date-section">Sunday, March 03, 2019</div>
+							<nav id="top-navigation" class="top-navigation" role="navigation">
+					<div class="menu-header-menu-container"><ul id="top-menu" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.justcryptocurrencies.com/about/">About Us</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://www.justcryptocurrencies.com/contacts-us/">Contact Us</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+					</div><!-- .np-top-left-section-wrapper -->
+		<div class="np-top-right-section-wrapper">
+			<div class="mt-social-icons-wrapper"><span class="social-link"><a href="https://www.facebook.com/JustCryptocurrencies" target="_blank"><i class="fa fa-facebook-square"></i></a></span><span class="social-link"><a href="https://twitter.com/justcryptocnews" target="_blank"><i class="fa fa-twitter-square"></i></a></span></div><!-- .mt-social-icons-wrapper -->		</div><!-- .np-top-right-section-wrapper -->
+</div><!-- .mt-container --></div><!-- .np-top-header-wrap -->
+	<header id="masthead" class="site-header" role="banner"><div class="np-logo-section-wrapper"><div class="mt-container">		<div class="site-branding">
+
+			<a href="https://www.justcryptocurrencies.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="300" height="45" src="https://www.justcryptocurrencies.com/wp-content/uploads/2018/10/jcc-news-logo.jpg" class="custom-logo" alt="" itemprop="logo" srcset="https://www.justcryptocurrencies.com/wp-content/uploads/2018/10/jcc-news-logo.jpg 300w, https://www.justcryptocurrencies.com/wp-content/uploads/2018/10/jcc-news-logo-260x39.jpg 260w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+							<p class="site-title"><a href="https://www.justcryptocurrencies.com/" rel="home"></a></p>
+						
+		</div><!-- .site-branding -->
+		<div class="np-header-ads-area">
+			
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<section id="html_javascript_adder-5" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- headerAdBanner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7329796942572080"
+     data-ad-slot="4205127104"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</section><!-- End - HTML Javascript Adder plugin v3.9 -->
+		</div><!-- .np-header-ads-area -->
+</div><!-- .mt-container --></div><!-- .np-logo-section-wrapper -->		<div id="np-menu-wrap" class="np-header-menu-wrapper">
+			<div class="np-header-menu-block-wrap">
+				<div class="mt-container">
+												<div class="np-home-icon">
+								<a href="https://www.justcryptocurrencies.com/" rel="home"> <i class="fa fa-home"> </i> </a>
+							</div><!-- .np-home-icon -->
+					                    <a href="javascript:void(0)" class="menu-toggle hide"> <i class="fa fa-navicon"> </i> </a>
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-496"><a href="https://www.justcryptocurrencies.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://www.justcryptocurrencies.com/news/latest/">Latest</a></li>
+	<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://www.justcryptocurrencies.com/news/popular/">Popular</a></li>
+</ul>
+</li>
+<li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-140"><a href="https://www.justcryptocurrencies.com/category/news/coins/">Coins</a>
+<ul class="sub-menu">
+	<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="https://www.justcryptocurrencies.com/category/news/coins/btc/">BTC</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143"><a href="https://www.justcryptocurrencies.com/category/news/coins/dash/">DASH</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="https://www.justcryptocurrencies.com/category/news/coins/eth/">ETH</a></li>
+	<li id="menu-item-1076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1076"><a href="https://www.justcryptocurrencies.com/category/news/coins/ltc/">LTC</a></li>
+</ul>
+</li>
+<li id="menu-item-146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146"><a href="https://www.justcryptocurrencies.com/category/news/mining/">Mining</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144"><a href="https://www.justcryptocurrencies.com/category/news/finances/">Finances</a></li>
+<li id="menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114"><a href="https://www.justcryptocurrencies.com/exchanges/">Exchanges</a></li>
+<li id="menu-item-4473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4473"><a href="https://www.justcryptocurrencies.com/price-charts/">Price Charts</a></li>
+<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="https://www.justcryptocurrencies.com/social/">Social</a></li>
+<li id="menu-item-7706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7706"><a href="https://www.justcryptocurrencies.com/contacts-us/">Contact Us</a></li>
+</ul></div>					</nav><!-- #site-navigation -->
+
+											<div class="np-header-search-wrapper">                    
+			                <span class="search-main"><i class="fa fa-search"></i></span>
+			                <div class="search-form-main np-clearfix">
+				                <form role="search" method="get" class="search-form" action="https://www.justcryptocurrencies.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				            </div>
+						</div><!-- .np-header-search-wrapper -->
+									</div>
+			</div>
+		</div><!-- .np-header-menu-wrapper -->
+</header><!-- .site-header -->
+	
+
+	
+	<div id="content" class="site-content">
+		<div class="mt-container">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-25995" class="post-25995 post type-post status-publish format-standard has-post-thumbnail hentry category-news coderevolution_post_source-echo_1">
+
+	<div class="np-article-thumb">
+		<img width="1100" height="680" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application.jpg" class="attachment-full size-full wp-post-image" alt="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application" srcset="https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application.jpg 1100w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application-300x185.jpg 300w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application-768x475.jpg 768w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application-600x371.jpg 600w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application-236x146.jpg 236w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/02/25995/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application-560x346.jpg 560w" sizes="(max-width: 1100px) 100vw, 1100px" />	</div><!-- .np-article-thumb -->
+
+	<header class="entry-header">
+		<h1 class="entry-title">Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application</h1>		<div class="post-cats-list">
+							<span class="category-button np-cat-1"><a href="https://www.justcryptocurrencies.com/category/news/">News</a></span>
+					</div>
+		<div class="entry-meta">
+			<span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/02/16/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-16T22:05:54+00:00">February 16, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><span class="entry-content"></span></p>
+<p>After last week&rsquo;s price action, the crypto market quieted down.  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a> entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin.</p>
+<p>Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a>&rsquo;s Lightning Network, JP Morgan launched its own digital asset on a private Ethereum-based chain, a Filipino banking giant launched crypto ATMs, and Chainalysis secured millions amid this market rut.</p>
+<h2><strong>Crypto Tidbits</strong></h2>
+<ul>
+<li>
+<a href="https://www.newsbtc.com/2019/02/11/new-etf-proposal-allocates-25-of-its-portfolio-to-bitcoin-futures/" data-wpel-link="internal"><strong>Reality Shares Files Semi Bitcoin ETF, SEC Requests Application Withdrawal</strong></a>: Reality Shares, a California-based crypto-centric investment services provider, filed a peculiar application to the SEC, America&rsquo;s leading financial regulator. This proposal outlined an ETF that was composed of both allocations in CME&rsquo;s and CBOE&rsquo;s&nbsp; <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a> futures&nbsp;and monetary instruments, like sovereign debt products denominated in the&nbsp;British Pound, Japanese Yen, Swiss Francs, among other government-issued currencies. But, in an odd turn of events, the governmental agency politely requested for Reality Shares to pull its innocuous application. Spokespeople told CoinDesk that the SEC enlisted such a move due to the fact that it wasn&rsquo;t &ldquo;appropriate to file a&nbsp;registered 40 Act fund with  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com" rel="nofollow" target="_self">cryptocurrency</a> exposure at this time.&rdquo;</li>
+<li>
+<strong><a href="https://www.newsbtc.com/2019/02/11/intercontinental-exchange-ice-chief-confident-about-future-for-bakkt-and-crypto/" data-wpel-link="internal">ICE CEO: Bakkt Is Our Moonshot Bet On Crypto</a></strong>: In the Intercontinental Exchange&rsquo;s Q4 earnings call, chief executive Jeff Sprecher touched on crypto upstart Bakkt and its prospects in 2019. Sprecher, who is wed to the founder of Bakkt, explained that the company is &ldquo;unique,&rdquo; especially due to its independence and intentions. Yet, he explained that ICE has been able to apply its infrastructure &mdash; &ldquo;settlement capabilities, warehouse and custody management capabilities, large treasury operations, and banking connectivity&rdquo; &mdash; to the  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com" rel="nofollow" target="_self">cryptocurrency</a> venture. And thus, this &ldquo;star power&rdquo; has attracted &ldquo;a lot of very very interesting companies,&rdquo; such as Microsoft and Starbucks, giving Bakkt the potential to become a &ldquo;very, very valuable company.&rdquo; With all this in mind, the finance heavyweight concluded that if you boil Bakkt down, it could be classified as his firm&rsquo;s very own &ldquo;moonshot bet [on crypto].&rdquo;</li>
+<li>
+<strong><a href="https://www.newsbtc.com/2019/02/16/chainalysis-secures-30m-bitcoin-crash-crypto-venture-money-flowing/" data-wpel-link="internal">Chainalysis Secures $30M From Silicon Valley Venture Group</a></strong>: Earlier this week, Chainalysis, leading blockchain research and analytics boutique, revealed that&nbsp;it had scored over $30 million in funding for its Series B round, led by Accel, a Palo Alto-based venture group that also has investments in Circle. Accel&rsquo;s deal with Chainalysis will also see the Bay Area investment group&rsquo;s Philippe Botteri and Amit Kumar join the blockchain upstart&rsquo;s board. Per&nbsp;<a href="https://www.businessinsider.com/chainalysis-raises-30-million-from-accel-2019-2" target="_blank" rel="follow noopener" data-wpel-link="exclude">Business Insider</a>, the duo will aid Chainalysis in bolstering its presence, in the European region, along with its overall research efforts. The company explained that this influx of funding will help it double-down on its<em>&nbsp;raison d&rsquo;etre</em>&nbsp;to make blockchain data easy to digest, useful, and accessible for governments, institutions, and native  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com" rel="nofollow" target="_self">cryptocurrency</a> firms.</li>
+<li>
+<strong><a href="https://www.newsbtc.com/2019/02/12/researcher-bitcoin-lightning-on-square-could-be-bigger-than-crypto-etf-bakkt-combined/" data-wpel-link="internal">Jack Dorsey Hints At Eventual Bitcoin Lightning Integration For Square</a></strong>: Just days after appearing on the Joe Rogan Experience to laud  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a> and releasing dozens of crypto-related tweets, Jack Dorsey, the chief executive of both Square and Twitter, took to&nbsp;Stephan Livera&rsquo;s podcast to confirm that the integration of the Lightning Network onto Square is a matter of &ldquo;when,&rdquo; not &ldquo;if.&rdquo; Speaking on the rationale of eventually making such a move, Dorsey explained that his firm&rsquo;s&nbsp;<em>raison d&rsquo;etre</em>&nbsp;is to serve customers best, with Lightning only accentuating this goal. The Silicon Valley legend added that Square sees  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a>&rsquo;s underlying nature as a currency, rather than solely a speculative asset. And as it stands, the widespread adoption of the Lightning Network is the most promising means to get to that ambitious end.</li>
+<li>
+<strong><a href="https://www.newsbtc.com/2019/02/10/report-philippines-based-banking-giant-launching-two-way-crypto-atms/" data-wpel-link="internal">Philippines Banking Giant Has Launched Two-Way Crypto ATMs</a></strong>:&nbsp;According to&nbsp;<a href="https://www.philstar.com/business/2019/02/06/1891103/unionbank-launches-first-virtual-currency-atm" target="_blank" rel="nofollow noopener" data-wpel-link="external">reports</a>&nbsp;from Filipino media, Union Bank of the Philippines, a banking giant that is the seventh largest in the country, is launching crypto asset automated teller machines (ATM). Per the statement, the company launched its first two-way  <a class="lar-automated-link" href="http://www.justcryptocurrencies.com" rel="nofollow" target="_self">cryptocurrency</a> ATM earlier this week, allowing customers to purchase and sell assets like&nbsp; <a class="lar-automated-link" href="http://www.justcryptocurrencies.com/category/news/coins/btc/" 18435 rel="nofollow" target="_self">Bitcoin</a>&nbsp;for pesos. Union Bank has purportedly collaborated with the Bangko Sentral ng Pilipinas (BSP), the nation&rsquo;s central bank, to ensure that this newfangled offering is compliant.</li>
+<li>
+<a href="https://www.newsbtc.com/2019/02/14/jpm-coin-bitcoin/" data-wpel-link="internal"><strong>JP Morgan Launches Ethereum-like Chain For In-House Crypto Asset</strong></a>: In a move that was straight out of left field, JP Morgan Chase, the world&rsquo;s sixth largest bank, took to CNBC divulging that it would be launching an in-house crypto asset, fittingly named&nbsp;&ldquo;JPM Coin.&rdquo;According to a comment from Umar Farooq, the Wall Street institution&rsquo;s blockchain division lead, the asset will be backed by physical U.S. dollars and will first be based on Quorum, JP Morgan&rsquo;s private Ethereum-based chain. Eventually, the asset will go multi-chain, with interoperability solutions allowing for JPM Coin to be transacted in different ecosystems. Farooq remarked that his team intends the venture to eventually be a multi-purpose asset for the bank&rsquo;s operations, whereas &ldquo;anything, where you have a distributed ledger, [that] involves corporations and institutions&rdquo; will use the stablecoin. For now, however, the JP Morgan executive made it clear that the newfangled offering is intended to bolster the company&rsquo;s internal, yet international&nbsp;corporate transactions.</li>
+</ul>
+<pre>Featured Image from Shutterstock</pre>
+<p></p>
+<p>The post <a rel="nofollow" href="https://www.newsbtc.com/2019/02/16/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application/">Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application</a> appeared first on <a rel="nofollow" href="https://www.newsbtc.com/">NewsBTC</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-25995 -->
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.justcryptocurrencies.com/2019/02/16/why-the-secs-ico-guide-paints-a-dark-picture-for-cryptocurrency-in-2019/" rel="prev">Why the SEC’s ‘ICO Guide’ Paints a Dark Picture for Cryptocurrency in 2019</a></div><div class="nav-next"><a href="https://www.justcryptocurrencies.com/2019/02/16/cmes-duffy-crypto-needs-to-brown-nose-governments-to-succeed/" rel="next">CME’s Duffy: Crypto Needs to Brown-Nose Governments to Succeed</a></div></div>
+	</nav><div class="np-related-section-wrapper"><h2 class="np-related-title np-clearfix">Related Posts</h2><div class="np-related-posts-wrap np-clearfix">				<div class="np-single-post np-clearfix">
+					<div class="np-post-thumb">
+						<a href="https://www.justcryptocurrencies.com/2018/05/30/chinese-president-xi-jinping-blockchain-reshaping-global-economic-structure/">
+													</a>
+					</div><!-- .np-post-thumb -->
+					<div class="np-post-content">
+						<h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2018/05/30/chinese-president-xi-jinping-blockchain-reshaping-global-economic-structure/">Chinese President Xi Jinping: Blockchain Reshaping Global Economic Structure</a></h3>
+						<div class="np-post-meta">
+							<span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2018/05/30/chinese-president-xi-jinping-blockchain-reshaping-global-economic-structure/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-30T21:06:24+00:00">May 30, 2018</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span>						</div>
+					</div><!-- .np-post-content -->
+				</div><!-- .np-single-post -->
+					<div class="np-single-post np-clearfix">
+					<div class="np-post-thumb">
+						<a href="https://www.justcryptocurrencies.com/2018/01/10/ripple-price-technical-analysis-xrp-usd-extends-decline/">
+													</a>
+					</div><!-- .np-post-thumb -->
+					<div class="np-post-content">
+						<h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2018/01/10/ripple-price-technical-analysis-xrp-usd-extends-decline/">Ripple Price Technical Analysis – XRP/USD Extends Decline</a></h3>
+						<div class="np-post-meta">
+							<span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2018/01/10/ripple-price-technical-analysis-xrp-usd-extends-decline/" rel="bookmark"><time class="entry-date published updated" datetime="2018-01-10T07:08:03+00:00">January 10, 2018</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/dennis-m/">dennis.m</a></span></span>						</div>
+					</div><!-- .np-post-content -->
+				</div><!-- .np-single-post -->
+					<div class="np-single-post np-clearfix">
+					<div class="np-post-thumb">
+						<a href="https://www.justcryptocurrencies.com/2019/01/18/dow-jones-rockets-after-report-claims-trade-war-winding-down/">
+							<img width="305" height="207" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/01/24196/dow-jones-rockets-after-report-claims-trade-war-winding-down-305x207.jpg" class="attachment-news-portal-block-medium size-news-portal-block-medium wp-post-image" alt="Dow Jones Rockets after Report Claims Trade War Winding Down" srcset="https://www.justcryptocurrencies.com/wp-content/uploads/2019/01/24196/dow-jones-rockets-after-report-claims-trade-war-winding-down-305x207.jpg 305w, https://www.justcryptocurrencies.com/wp-content/uploads/2019/01/24196/dow-jones-rockets-after-report-claims-trade-war-winding-down-622x420.jpg 622w" sizes="(max-width: 305px) 100vw, 305px" />						</a>
+					</div><!-- .np-post-thumb -->
+					<div class="np-post-content">
+						<h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/01/18/dow-jones-rockets-after-report-claims-trade-war-winding-down/">Dow Jones Rockets after Report Claims Trade War Winding Down</a></h3>
+						<div class="np-post-meta">
+							<span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/01/18/dow-jones-rockets-after-report-claims-trade-war-winding-down/" rel="bookmark"><time class="entry-date published updated" datetime="2019-01-18T06:04:54+00:00">January 18, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span>						</div>
+					</div><!-- .np-post-content -->
+				</div><!-- .np-single-post -->
+	</div><!-- .np-related-posts-wrap --></div><!-- .np-related-section-wrapper -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.justcryptocurrencies.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section>
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<section id="html_javascript_adder-7" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SideBarAds -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7329796942572080"
+     data-ad-slot="8046802214"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</section><!-- End - HTML Javascript Adder plugin v3.9 -->
+		<section id="recent-posts-2" class="widget widget_recent_entries">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+											<li>
+					<a href="https://www.justcryptocurrencies.com/2019/03/03/home-insurance-policy-in-india-features-benefits/">Home Insurance Policy in India – Features, Benefits</a>
+									</li>
+											<li>
+					<a href="https://www.justcryptocurrencies.com/2019/03/03/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts/">#DeleteCoinbase Hits a Snag Due to Crypto Dust in User Accounts</a>
+									</li>
+											<li>
+					<a href="https://www.justcryptocurrencies.com/2019/03/03/why-tipping-xrp-is-one-way-of-driving-its-value-up/">Why Tipping XRP is One Way of Driving its Value Up</a>
+									</li>
+											<li>
+					<a href="https://www.justcryptocurrencies.com/2019/03/03/bitcoin-price-weekly-analysis-cautiously-bullish-btc-3900-presents-resistance/">Bitcoin Price Weekly Analysis: Cautiously Bullish BTC, $3,900 Presents Resistance</a>
+									</li>
+											<li>
+					<a href="https://www.justcryptocurrencies.com/2019/03/03/ethereum-price-weekly-analysis-eth-could-suffer-losses-before-fresh-increase/">Ethereum Price Weekly Analysis: ETH Could Suffer Losses Before Fresh Increase</a>
+									</li>
+					</ul>
+		</section><section id="categories-2" class="widget widget_categories"><h4 class="widget-title">Categories</h4>		<ul>
+				<li class="cat-item cat-item-10"><a href="https://www.justcryptocurrencies.com/category/news/coins/btc/" >BTC</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.justcryptocurrencies.com/category/news/coins/" >Coins</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.justcryptocurrencies.com/category/news/coins/dash/" >DASH</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://www.justcryptocurrencies.com/category/news/coins/eth/" >ETH</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.justcryptocurrencies.com/category/news/finances/" >Finances</a>
+</li>
+	<li class="cat-item cat-item-230"><a href="https://www.justcryptocurrencies.com/category/news/coins/ltc/" >LTC</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.justcryptocurrencies.com/category/news/mining/" >Mining</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.justcryptocurrencies.com/category/news/" >News</a>
+</li>
+		</ul>
+			</section>
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<section id="html_javascript_adder-16" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<script type="text/javascript">
+baseUrl = "https://widgets.cryptocompare.com/";
+var scripts = document.getElementsByTagName("script");
+var embedder = scripts[ scripts.length - 1 ];
+(function (){
+var appName = encodeURIComponent(window.location.hostname);
+if(appName==""){appName="local";}
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+var theUrl = baseUrl+'serve/v1/coin/multi?fsyms=BTC,ETH,XMR,LTC,DASH&tsyms=USD,EUR,CNY,GBP';
+s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+embedder.parentNode.appendChild(s);
+})();
+</script>
+</div>
+</section><!-- End - HTML Javascript Adder plugin v3.9 -->
+
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<section id="html_javascript_adder-8" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sideBarAds2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7329796942572080"
+     data-ad-slot="8911546920"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</section><!-- End - HTML Javascript Adder plugin v3.9 -->
+</aside><!-- #secondary -->
+
+		</div><!-- .mt-container -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+<div id="top-footer" class="footer-widgets-wrapper footer_column_three np-clearfix">
+    <div class="mt-container">
+        <div class="footer-widgets-area np-clearfix">
+            <div class="np-footer-widget-wrapper np-column-wrapper np-clearfix">
+                <div class="np-footer-widget wow fadeInLeft" data-wow-duration="0.5s">
+                    <section id="zoom-social-icons-widget-2" class="widget zoom-social-icons-widget"><h4 class="widget-title">Socialise</h4>
+		
+		<ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded zoom-social-icons-list--no-labels">
+
+			
+								<li class="zoom-social_icons-list__item">
+					<a class="zoom-social_icons-list__link"
+					   href="https://www.facebook.com/JustCryptocurrencies"
+						target="_blank"											>
+																		
+                                                    <span
+                                class="screen-reader-text">facebook</span>
+                        
+						<span class="zoom-social_icons-list-span socicon socicon-facebook"
+							data-hover-rule="background-color" data-hover-color="#3b5998"							  style="background-color : #3b5998; font-size: 18px; padding:8px"
+						></span>
+
+											</a>
+				</li>
+
+			
+								<li class="zoom-social_icons-list__item">
+					<a class="zoom-social_icons-list__link"
+					   href="https://twitter.com/justcryptocnews"
+						target="_blank"											>
+																		
+                                                    <span
+                                class="screen-reader-text">twitter</span>
+                        
+						<span class="zoom-social_icons-list-span socicon socicon-twitter"
+							data-hover-rule="background-color" data-hover-color="#55acee"							  style="background-color : #55acee; font-size: 18px; padding:8px"
+						></span>
+
+											</a>
+				</li>
+
+			
+		</ul>
+
+		</section><section id="text-2" class="widget widget_text"><h4 class="widget-title">About</h4>			<div class="textwidget"><p><span style="color: #eeeeee;">Houston, Texas, USA.</span></p>
+<div>
+<div></div>
+<div><a href="https://mail.google.com/mail/u/0/#UNIQUE_ID_SafeHtmlFilter_futurelinkcorporation.com"><img src="https://ci3.googleusercontent.com/proxy/OJchyz_mWTwdCUDc-H1IpK9iQv5Ams6feOJ-mZ3ZYj9Q6HzTVJDmYF0W6VcGoHk2mIvXx6vulrUUoXgZz1oVK7eq97Z1iOXggZPFX2yQ6xTiOEDaF7RAggoaTxCKdqnzDIulYw=s0-d-e1-ft#https://signature-assets.s3.amazonaws.com/4fe3061d911e54fd5f17705426420576.png" alt="website" width="20" height="20" /></a> <a href="http://justcryptocurrencies.com/" target="_blank" rel="noopener">www.justcryptocurrencies.com</a></div>
+</div>
+</div>
+		</section>                </div>
+                                <div class="np-footer-widget wow fadeInLeft" data-woww-duration="1s">
+                    <section id="news_portal_recent_posts-3" class="widget news_portal_recent_posts">            <div class="np-recent-posts-wrapper">
+                <h4 class="widget-title">LATEST NEWS</h4><ul>                            <li>
+                                <div class="np-single-post np-clearfix">
+                                    <div class="np-post-thumb">
+                                        <a href="https://www.justcryptocurrencies.com/2019/03/03/home-insurance-policy-in-india-features-benefits/">
+                                                                                    </a>
+                                    </div><!-- .np-post-thumb -->
+                                    <div class="np-post-content">
+                                        <h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/03/03/home-insurance-policy-in-india-features-benefits/">Home Insurance Policy in India – Features, Benefits</a></h3>
+                                        <div class="np-post-meta"><span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/03/03/home-insurance-policy-in-india-features-benefits/" rel="bookmark"><time class="entry-date published updated" datetime="2019-03-03T16:05:17+00:00">March 3, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span></div>
+                                    </div><!-- .np-post-content -->
+                                </div><!-- .np-single-post -->
+                            </li>
+                                            <li>
+                                <div class="np-single-post np-clearfix">
+                                    <div class="np-post-thumb">
+                                        <a href="https://www.justcryptocurrencies.com/2019/03/03/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts/">
+                                            <img width="136" height="102" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/03/26880/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts-136x102.jpg" class="attachment-news-portal-block-thumb size-news-portal-block-thumb wp-post-image" alt="#DeleteCoinbase Hits a Snag Due to Crypto Dust in User Accounts" />                                        </a>
+                                    </div><!-- .np-post-thumb -->
+                                    <div class="np-post-content">
+                                        <h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/03/03/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts/">#DeleteCoinbase Hits a Snag Due to Crypto Dust in User Accounts</a></h3>
+                                        <div class="np-post-meta"><span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/03/03/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts/" rel="bookmark"><time class="entry-date published updated" datetime="2019-03-03T15:06:36+00:00">March 3, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span></div>
+                                    </div><!-- .np-post-content -->
+                                </div><!-- .np-single-post -->
+                            </li>
+                                            <li>
+                                <div class="np-single-post np-clearfix">
+                                    <div class="np-post-thumb">
+                                        <a href="https://www.justcryptocurrencies.com/2019/03/03/why-tipping-xrp-is-one-way-of-driving-its-value-up/">
+                                            <img width="136" height="102" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/03/26878/why-tipping-xrp-is-one-way-of-driving-its-value-up-136x102.jpg" class="attachment-news-portal-block-thumb size-news-portal-block-thumb wp-post-image" alt="Why Tipping XRP is One Way of Driving its Value Up" />                                        </a>
+                                    </div><!-- .np-post-thumb -->
+                                    <div class="np-post-content">
+                                        <h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/03/03/why-tipping-xrp-is-one-way-of-driving-its-value-up/">Why Tipping XRP is One Way of Driving its Value Up</a></h3>
+                                        <div class="np-post-meta"><span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/03/03/why-tipping-xrp-is-one-way-of-driving-its-value-up/" rel="bookmark"><time class="entry-date published updated" datetime="2019-03-03T15:06:17+00:00">March 3, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span></div>
+                                    </div><!-- .np-post-content -->
+                                </div><!-- .np-single-post -->
+                            </li>
+                                            <li>
+                                <div class="np-single-post np-clearfix">
+                                    <div class="np-post-thumb">
+                                        <a href="https://www.justcryptocurrencies.com/2019/03/03/bitcoin-price-weekly-analysis-cautiously-bullish-btc-3900-presents-resistance/">
+                                            <img width="136" height="102" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/03/26876/bitcoin-price-weekly-analysis-cautiously-bullish-btc-3900-presents-resistance-136x102.jpg" class="attachment-news-portal-block-thumb size-news-portal-block-thumb wp-post-image" alt="Bitcoin Price Weekly Analysis: Cautiously Bullish BTC, $3,900 Presents Resistance" />                                        </a>
+                                    </div><!-- .np-post-thumb -->
+                                    <div class="np-post-content">
+                                        <h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/03/03/bitcoin-price-weekly-analysis-cautiously-bullish-btc-3900-presents-resistance/">Bitcoin Price Weekly Analysis: Cautiously Bullish BTC, $3,900 Presents Resistance</a></h3>
+                                        <div class="np-post-meta"><span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/03/03/bitcoin-price-weekly-analysis-cautiously-bullish-btc-3900-presents-resistance/" rel="bookmark"><time class="entry-date published updated" datetime="2019-03-03T15:05:50+00:00">March 3, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span></div>
+                                    </div><!-- .np-post-content -->
+                                </div><!-- .np-single-post -->
+                            </li>
+                                            <li>
+                                <div class="np-single-post np-clearfix">
+                                    <div class="np-post-thumb">
+                                        <a href="https://www.justcryptocurrencies.com/2019/03/03/ethereum-price-weekly-analysis-eth-could-suffer-losses-before-fresh-increase/">
+                                            <img width="136" height="102" src="https://www.justcryptocurrencies.com/wp-content/uploads/2019/03/26874/ethereum-price-weekly-analysis-eth-could-suffer-losses-before-fresh-increase-136x102.jpg" class="attachment-news-portal-block-thumb size-news-portal-block-thumb wp-post-image" alt="Ethereum Price Weekly Analysis: ETH Could Suffer Losses Before Fresh Increase" />                                        </a>
+                                    </div><!-- .np-post-thumb -->
+                                    <div class="np-post-content">
+                                        <h3 class="np-post-title small-size"><a href="https://www.justcryptocurrencies.com/2019/03/03/ethereum-price-weekly-analysis-eth-could-suffer-losses-before-fresh-increase/">Ethereum Price Weekly Analysis: ETH Could Suffer Losses Before Fresh Increase</a></h3>
+                                        <div class="np-post-meta"><span class="posted-on"> <a href="https://www.justcryptocurrencies.com/2019/03/03/ethereum-price-weekly-analysis-eth-could-suffer-losses-before-fresh-increase/" rel="bookmark"><time class="entry-date published updated" datetime="2019-03-03T15:05:43+00:00">March 3, 2019</time></a></span><span class="byline">  <span class="author vcard"><a class="url fn n" href="https://www.justcryptocurrencies.com/author/admin/">Admin</a></span></span></div>
+                                    </div><!-- .np-post-content -->
+                                </div><!-- .np-single-post -->
+                            </li>
+                </ul>            </div><!-- .np-recent-posts-wrapper -->
+    </section>                </div>
+                                                <div class="np-footer-widget wow fadeInLeft" data-wow-duration="1.5s">
+                    
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<section id="html_javascript_adder-11" class="widget widget_html_javascript_adder"><h4 class="widget-title">Newsletter</h4>
+<div class="hjawidget textwidget">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://justcryptocurrencies.us17.list-manage.com/subscribe/post?u=5c76a3b0c98265079970bb954&amp;id=57f9035b57" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group input-group">
+    <strong>News </strong>
+    <ul><li><input type="checkbox" value="1" name="group[7363][1]" id="mce-group[7363]-7363-0"><label for="mce-group[7363]-7363-0">Daily News</label></li>
+<li><input type="checkbox" value="2" name="group[7363][2]" id="mce-group[7363]-7363-1"><label for="mce-group[7363]-7363-1">Weekly News</label></li>
+</ul>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5c76a3b0c98265079970bb954_57f9035b57" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+</section><!-- End - HTML Javascript Adder plugin v3.9 -->
+                </div>
+                                            </div><!-- .np-footer-widget-wrapper -->
+        </div><!-- .footer-widgets-area -->
+    </div><!-- .mt-container -->
+</div><!-- .footer-widgets-wrapper --><div class="bottom-footer np-clearfix"><div class="mt-container">		<div class="site-info">
+			<span class="np-copyright-text">
+				Just Cryptocurrencies			</span>
+		</div><!-- .site-info -->
+		<nav id="footer-navigation" class="footer-navigation" role="navigation">
+			<button class="menu-toggle hide" aria-controls="footer-menu" aria-expanded="false">Footer Menu</button>
+			<div class="menu-footer-menu-container"><ul id="footer-menu" class="menu"><li id="menu-item-1192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1192"><a href="https://www.justcryptocurrencies.com/about/">About Us</a></li>
+<li id="menu-item-1193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1193"><a href="https://www.justcryptocurrencies.com/contacts-us/">Contact Us</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+</div><!-- .mt-container --></div> <!-- bottom-footer --></footer><!-- #colophon --><div id="np-scrollup" class="animated arrow-hide"><i class="fa fa-chevron-up"></i></div></div><!-- #page -->
+
+
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/js/navigation.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/js/skip-link-focus-fix.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/library/lightslider/js/lightslider.min.js?ver=1.1.6'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/themes/news-portal/assets/js/np-custom-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=20170209'></script>
+<script type='text/javascript' src='https://www.justcryptocurrencies.com/wp-includes/js/wp-embed.min.js?ver=5.1'></script>
+
+</body>
+</html>

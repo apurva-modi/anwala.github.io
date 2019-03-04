@@ -1,0 +1,6 @@
+Convert BIP39 to public key bitcoin by API
+Hi,
+I need a Web service that be able to change BIP39 words to other bit coin addresses.
+I search this website https://iancoleman.io/bip39/ but I could not find the answer.
+For example I Wana give these words "before muscle nice seek sign film west capable cube hundred wisdom lawn"to code and then have  an outcome with public key Bitcoin.
+Please help me.Thanks.

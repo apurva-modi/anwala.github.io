@@ -1,0 +1,18 @@
+TIP: click the legend above to turn traces off/on
+Bitcoin Valuations
+The market price multiplied by the coin supply. (a.k.a Network Value)
+REALISED CAP
+The value of all coins in circulation at the price they last moved, in other words an approximation of the value paid for all coins in circulation. By Coinmetrics .
+NVT CAPS
+Values the network using the networks monetary velocity. In essence mapping NVT Ratio back to target Market Cap. NVT Caps make up a fishnet that tends to converge at accumulation bottoms. (By Willy Woo )
+AVERAGE CAP
+This is the "forever" moving average of Market Cap. The cumulative sum of daily Market Cap values divided by the age of the market in days.
+DELTA CAP
+The Realised Cap minus Average Cap. Useful for catching the market bottom, and also as a timing indicator for market tops and the start of the bull phase by tracking its oscillation between Realised Cap and Average Cap. (Experimentally proposed by David Puell )
+TOP CAP
+The average cap multiplied by 35. Historically has matched market tops. (Experimentally proposed by Willy Woo in collaboration with David Puell )
+INFLOW CAP
+The cumulative value of all coins at the price they were mined.
+FEES CAP
+The cumulative value of all the fees paid on the network.
+Investment Charts

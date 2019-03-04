@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Orbis Transfer">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- <meta name="description" content="Manage your money different and start changing the world! The future represents simplicity and automation of services! Orbis Worldwide Money Transfer and Investment is the future! We come with a fast, easy and cheap concept of financial transactions, investment and marketing services bringing out User Friendly services through intelligent marketing in all social classes."> -->
+    <meta name="description" content="Orbis Transfer mission is to give our users an easy and fast way to sort initial coin offerings list. Find best initial coin, Orbis Cryptocurrency at orbistransfer.com. For more info contact us!">
+    <!-- Fav Icon  -->
+    <link rel="shortcut icon" href="https://orbistransfer.com/images/favicon.png">
+    <!-- Site Title  -->
+        <title>Orbis Transfer - New Generation of Cryptocurrency | 2018 Pre STO | 2019 Security token offering</title>
+    <!-- Vendor Bundle CSS -->
+    <link rel="stylesheet" href="https://orbistransfer.com/assets/css/vendor.bundle.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://orbistransfer.com/assets/css/style.css?ver=1.0">
+    <link rel="stylesheet" href="https://orbistransfer.com/assets/css/theme.css?ver=1.0" id="layoutstyle">
+    <link rel="stylesheet" href="https://orbistransfer.com/assets/css/theme-orange.css">
+    <link rel="stylesheet" href="https://orbistransfer.com/assets/css/style2.css?ver=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+
+    <link rel="canonical" href="https://orbistransfer.com/" />
+
+</head>
+
+<body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
+
+<!-- Header -->
+<header class="site-header is-sticky">
+
+    <!-- Place Particle Js -->
+
+
+    <!-- Navbar -->
+    <div class="navbar navbar-expand-lg is-transparent" id="mainnav">
+        <nav class="container">
+            <a class="navbar-brand animated" data-animate="fadeInDown" data-delay=".65" href="https://orbistransfer.com/">
+                <img class="logo logo-dark" alt="logo" src="https://orbistransfer.com/images/logo.png" srcset="https://orbistransfer.com/images/logo2x.png 2x">
+                <img class="logo logo-light" alt="logo" src="https://orbistransfer.com/images/logo-white.png" srcset="https://orbistransfer.com/images/logo-white2x.png 2x">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
+					<span class="navbar-toggler-icon">
+						<span class="ti ti-align-justify"></span>
+					</span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
+                <ul class="navbar-nav animated" data-animate="fadeInDown" data-delay=".9">
+                                                          <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#intro">What is ORBIS<span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#whitepaper">Whitepaper</a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#tokenSale">Coin Sale / STO</a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#roadmap">Roadmap</a></li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#team">Team</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">MORE</a>
+                        <div class="dropdown-menu">
+                          <a class="dropdown-item menu-link" href="https://orbistransfer.com#partners">Partners</a>
+                          <a class="dropdown-item menu-link" href="https://orbistransfer.com#media-partner">Media Partners</a>
+                          <a class="dropdown-item menu-link" href="https://orbistransfer.com#faq">Faqs</a>
+                        </div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link menu-link" href="https://orbistransfer.com#contact">Contact</a></li>
+                  </ul>
+                  <ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
+                      <li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="https://orbistransfer.com/account">Account</a></li>
+                      <ul class="social mobile-menu-social">
+                          <li class="animated" data-animate="fadeInUp" data-delay="1.85"><a target="_blank" href="https://facebook.com/orbistoken "><em class="fab fa-facebook"></em></a></li>
+                          <li class="animated" data-animate="fadeInUp" data-delay="2"><a target="_blank" href="https://twitter.com/OrbisToken"><em class="fab fa-twitter"></em></a></li>
+                          <li class="animated" data-animate="fadeInUp" data-delay="2.5"><a target="_blank" href="https://www.youtube.com/channel/UCRw-ywlW76rIXMY1p21U0AQ"><em class="fab fa-youtube"></em></a></li>
+                          <li class="animated" data-animate="fadeInUp" data-delay="3"><a target="_blank" href="https://www.instagram.com/orbis_token/"><em class="fab fa-instagram"></em></a></li>
+                          <li class="animated" data-animate="fadeInUp" data-delay="3.5"><a target="_blank" href="https://t.me/orbisgroup"><em class="fa fa-paper-plane"></em></a></li>
+                          <li class="animated" data-animate="fadeInUp" data-delay="4"><a target="_blank" href="https://github.com/1Orbis"><em class="fab fa-github"></em></a></li>
+                      </ul>
+                  </ul>
+                
+            </div>
+        </nav>
+    </div>
+    <!-- End Navbar -->
+
+</header>
+<!-- End Header -->
+
+
+    <div class="section section-pad no-pb section-bg-alt">
+        <div class="container" style="margin-top: 100px;">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="section-head">
+                        <h2 class="section-title animated" data-animate="fadeInUp" data-delay="0">Register
+                            <!-- <span>Account</span> -->
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <form class="form-message text-center" method="post" action="https://orbistransfer.com/auth/register">
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".1">
+                            <input class="input-line required" name="username" value="" required="required" title="" type="text">
+                            <label class="input-title">Username</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".2">
+                            <input class="input-line required" name="fname" value="" required="required" title="" type="text">
+                            <label class="input-title">First Name</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".3">
+                            <input class="input-line required" name="lname" value="" required="required" title="" type="text">
+                            <label class="input-title">Last Name</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".4">
+                            <input class="input-line required" name="email" value="" required="required" title="" type="email">
+                            <label class="input-title">Email</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".5">
+                            <input class="input-line required" name="password" value="" required="required" title="" type="password">
+                            <label class="input-title">Password (minimum 6 characters)</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".6">
+                            <input class="input-line required" name="passconf" value="" required="required" title="" type="password">
+                            <label class="input-title">ReType Password</label>
+                        </div>
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".4" style="display: none;">
+                            <input class="input-line" name="referral" value="4604" title="" type="text">
+                            <label class="input-title">Referral id (optional)</label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input name="remember" value="1" type="checkbox" required="required"> I have read the  <a target="_blank"
+                                                                                                                          href="#">Whitepaper</a>
+                            </label>
+                        </div>
+                        <input type="text" class="d-none" name="form-anti-honeypot" value="">
+                        <div class="input-field animated" data-animate="fadeInUp" data-delay=".6">
+                            <button type="submit" class="btn">Submit</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Section -->
+    <div class="section subscribe-section section-pad-md section-bg section-connect">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-6 offset-md-3">
+                    <h4 class="section-title-md animated" data-animate="fadeInUp" data-delay="0">Already have an account?</h4>
+
+                    <button onclick="window.location.href='https://orbistransfer.com/auth/login'" type="submit" class="btn btn-plane">Login</button>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Section -->
+
+
+
+    <!-- /Subcribe -->
+    <!-- Start Section -->
+<div class="section footer-section no-pt section-pad-sm section-bg-footer">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <ul class="social footer-social">
+                    <li class="animated" data-animate="fadeInUp" data-delay="0"><a href="https://facebook.com/orbistoken "><em class="fab fa-facebook"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay="1"><a href="https://twitter.com/OrbisToken"><em class="fab fa-twitter"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay="1.5"><a href="https://www.youtube.com/channel/UCRw-ywlW76rIXMY1p21U0AQ"><em class="fab fa-youtube"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay="2"><a href="https://www.instagram.com/orbis_token/"><em class="fab fa-instagram"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay="2.5"><a target="_blank" href="https://t.me/orbisgroup"><em class="fa fa-paper-plane"></em></a></li>
+                    <li class="animated" data-animate="fadeInUp" data-delay="3"><a target="_blank" href="https://github.com/1Orbis"><em class="fab fa-github"></em></a></li>
+                </ul>
+                <span class="copyright-text animated" data-animate="fadeInUp" data-delay=".3">
+						Copyright &copy; 2019, OrbisSolutions OÜ
+						<span>All trademarks and copyrights belong to their respective owners.</span>
+					</span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Section -->
+
+<!-- Preloader !remove please if you do not want -->
+<div id="preloader">
+    <div id="loader"></div>
+    <div id="loader-logo"></div>
+    <div class="loader-section loader-top"></div>
+    <div class="loader-section loader-bottom"></div>
+</div>
+<!-- Preloader End -->
+
+<!-- JavaScript (include all script here) -->
+<script src="https://orbistransfer.com/assets/js/jquery.bundle.js"></script>
+<script src="https://orbistransfer.com/assets/js/polygonizr.min.js"></script>
+<script>
+$('#polygonizr').polygonizr({
+
+  // How long to pause in between new node-movements.
+  restNodeMovements: 1,
+  // When the cluster up<a href="https://www.jqueryscript.net/time-clock/">date</a>s, this sets speed of nodes.
+  duration: 3,
+  // Define the maximum distance to move nodes.
+  nodeMovementDistance: 100,
+  // The number of node nodes to print out.
+  numberOfNodes: 100,
+  // Define the maximume size of each node dot.
+  nodeDotSize: 2.5,
+  // Sets the ease mode of the movement: linear, easeIn, easeOut, easeInOut, accelerateDecelerate.
+  nodeEase: "accelerateDecelerate",
+  // If true, the nodes will descend into place on load.
+  nodeFancyEntrance: true,
+  // Makes the cluster forms an ellipse inspired formation, random if true.
+  randomizePolygonMeshNetworkFormation: false,
+  // Define a formula for how to initialize each node dot's position.
+  specifyPolygonMeshNetworkFormation: function (i) {
+    var forEachNode = {
+        // Half a circle and randomized
+        x: this.canvasWidth - ((this.canvasWidth / 2) + (this.canvasHeight / 2) * Math.cos(i * (2 * Math.PI / this.numberOfNodes))) * Math.random(),
+        y: this.canvasHeight - (this.canvasHeight * (i / this.numberOfNodes))
+    };
+    return forEachNode;
+  },
+  // Number of relations between nodes.
+  nodeRelations: 3,
+  // The FPS for the whole canvas.
+  animationFps: 30,
+  // Sets the color of the node dots in the network (RGB).
+  nodeDotColor: "240, 255, 250",
+  // Sets the color of the node lines in the network (RGB).
+  nodeLineColor: "240, 255, 250",
+  // Sets the color of the filled triangles in the network (RGB).
+  nodeFillColor: "86, 158, 255",
+  // If valid RGB color adds a linear gradient stroke (set null to remove).
+  nodeFillGradientColor: "60, 143, 255",
+  // Sets the alpha level for the colors (1-0).
+  nodeFillAlpha: 0.5,
+  // Sets the alpha level for the lines (1-0).
+  nodeLineAlpha: 0.1,
+  // Sets the alpha level for the dots (1-0).
+  nodeDotAlpha: 0.1,
+  // Defines if the triangles in the network should be shown.
+  nodeFillSapce: true,
+  // Define if the active animation should glow or not (not CPU friendly).
+  nodeGlowing: false,
+  // Define the canvas size and css position.
+  canvasWidth: $(this).width(),
+  canvasHeight: $(this).height(),
+  canvasPosition: "absolute"
+
+});
+</script>
+
+<script src="https://orbistransfer.com/assets/js/script.js"></script>
+
+<script src="https://www.paypalobjects.com/api/checkout.js"></script>
+<script src="https://orbistransfer.com/assets/js/jquery-qrcode-0.14.0.min.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $( "#calculate" ).click(function(e) {
+            e.preventDefault();
+            var amount = $("#amount").val();
+            var selectedval = $( "#convert_from" ).val();
+            $.ajax({
+                type: "POST",
+                url: 'https://orbistransfer.com/account/conversion',
+                data: {'convert_from' : selectedval,'amount' : amount},
+                dataType: 'html',
+                success: function(data){
+                    console.log(data);
+                    $('#calculate_conversion').html(data);
+                }
+            });
+        });
+
+
+    });
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113077644-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-113077644-1');
+</script>
+
+<script>
+    $('.carousel').carousel({
+        interval: 2000
+    });
+
+    $('[data-toggle="popover"]').popover();
+</script>
+<script type="text/javascript">
+    if ( window.self !== window.top ) {
+        window.top.location.href="https://orbistransfer.com";
+    }
+</script>
+
+<script>
+function progress_bar() {
+    var elem = document.getElementById("soft-hard-bar");
+    var width = 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: total_orbis</p>
+<p>Filename: inc/footer.php</p>
+<p>Line Number: 173</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/orbistra/public_html/application/views/inc/footer.php<br />
+			Line: 173<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/orbistra/public_html/application/views/auth/register.php<br />
+			Line: 90<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/orbistra/public_html/application/controllers/Auth.php<br />
+			Line: 135<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/orbistra/public_html/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div> / 80000000 * 100;
+    //console.log('new width: ' + width)
+    elem.style.width = width + '%';
+};
+progress_bar();
+</script>
+</body>
+</html>

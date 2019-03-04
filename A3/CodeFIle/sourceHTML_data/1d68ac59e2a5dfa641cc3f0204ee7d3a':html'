@@ -1,0 +1,491 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Half Of The News Outlets We Asked Would Take Cash To Post Our Content</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="XFIZuNURYnclHD8FpvDVeIq2ohOkRqyvZ8puIRhWwFg" />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//hello.myfonts.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="BREAKERMAG &raquo; Feed" href="https://breakermag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BREAKERMAG &raquo; Comments Feed" href="https://breakermag.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BREAKERMAG &raquo; We Asked Crypto News Outlets If They&#8217;d Take Money to Cover a Project. More Than Half Said Yes Comments Feed" href="https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/feed/" />
+<meta name='description' content='Posing as a PR agent, a BREAKER reporter reached out to a range of cryptocurrency media agency asking if they would publish paid content without disclosing it as sponsored. The results were more damning than we expected.' />
+<meta name='keywords' content='blockchain, cryptocurrency, PR, Bitcoinist, NewsBTC, Cointelegraph, ethics in journalism, paid coverage, bribe, pay-for-post,' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/breakermag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0' href='https://breakermag.com/_static/??-eJyFjc0OgkAMhF/IpdnIHo3PspQqle5PaInh7VmIHo2naTPzzcC7Os4o60gKqAojq8EgBWcnPCxx2UBtE+oS564FLtAILNkoG9hEqXFNHE6RM0RVMoXH4YuUs/H7/Kd/D6XVVVmfnBVeZDXifFZ/7iN+Tzcfgvc+9P11B9r0Ttk=' type='text/css' media='all' />
+<script type='text/javascript' src='https://breakermag.com/_static/??-eJx9jlEKwjAQRC/kJi20Sj/Es8R0SbYkm5hNlN7eCtUvFQaGeQzD6EcGYhvajKKXTbeGZd1NLXLQ/woQyRVTUUXid9kmrshV59AcsbyQS8kFBMMmrJWsQK+Gb/zXRPVovSEG8alUm/YrnwQYrzhDQcmJhe64DV3iuR/H7jR1w3RcnnafVbM='></script>
+<link rel='https://api.w.org/' href='https://breakermag.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://breakermag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://breakermag.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1" />
+<link rel="canonical" href="https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/" />
+<link rel='shortlink' href='https://wp.me/p9OTon-12D' />
+<link rel="alternate" type="application/json+oembed" href="https://breakermag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbreakermag.com%2Fwe-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://breakermag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbreakermag.com%2Fwe-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="pingback" href="https://breakermag.com/xmlrpc.php">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Half Of The News Outlets We Asked Would Take Cash To Post Our Content" />
+<meta property="og:url" content="https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/" />
+<meta property="og:description" content="Posing as a PR agent, a BREAKER reporter reached out to a range of cryptocurrency media agency asking if they would publish paid content without disclosing it as sponsored. The results were more damning than we expected." />
+<meta property="article:published_time" content="2018-10-25T11:00:34+00:00" />
+<meta property="article:modified_time" content="2018-12-12T15:34:18+00:00" />
+<meta property="og:site_name" content="BREAKERMAG" />
+<meta property="og:image" content="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?w=597" />
+<meta property="og:image:secure_url" content="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?w=597" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="724" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="We Asked Crypto News Outlets If They&#8217;d Take Money to Cover a Project. More Than Half Said Yes" />
+<meta name="twitter:image" content="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?w=597" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Half Of The News Outlets We Asked Would Take Cash To Post Our Content" />
+<meta name="twitter:description" content="Posing as a PR agent, a BREAKER reporter reached out to a range of cryptocurrency media agency asking if they would publish paid content without disclosing it as sponsored. The results were more damning than we expected." />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://breakermag.com/wp-content/uploads/2019/01/cropped-512-X-512.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://breakermag.com/wp-content/uploads/2019/01/cropped-512-X-512.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://breakermag.com/wp-content/uploads/2019/01/cropped-512-X-512.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://breakermag.com/wp-content/uploads/2019/01/cropped-512-X-512.jpg?w=270" />
+</head>
+
+<body class="post-template post-template-templates post-template-single-article-leadimg-vertical post-template-templatessingle-article-leadimg-vertical-php single single-post postid-4007 single-format-standard infinite-scroll">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		<div class="row align-right">
+
+			<div class="site-branding column align-self-middle">
+							<p class="site-title ">
+				<a href="https://breakermag.com/" rel="home">
+					<img class="site-logo" src="https://breakermag.com/wp-content/themes/the-chain/assets/static/BreakerMagLogo.svg" alt="BREAKERMAG">
+				</a>
+				<span class="screen-reader-text alt-site-logo">BREAKERMAG</span>
+			</p>
+		
+		<p class="site-description screen-reader-text"></p>
+
+					</div><!-- .site-branding -->
+
+			<div id="search-wrapper" class="column menu-search menu-actions shrink">
+				<a href="javascript:void(0)" id="search-toggle" class="action-search action-button" data-toggle="#header-search">
+					<i class="icon-blockchain_nav-search"></i>
+				</a>
+				<div id="header-search" class="menu-search-wrap hidden"><form id="searchform" method="get" action="/index.php">
+	<div class="archive-search-box">
+		<input type="text" placeholder="Search..." value="" name="s" id="s" class="archive-search-box__text" />
+		<input type="submit" class="archive-search-box__button" value="Search" />
+	</div>
+</form>
+</div>
+			</div>
+
+			<nav id="site-navigation" class="column shrink site-navigation menu-actions">
+				<a id="action-toggle-nav" class="hamburger" href="javascript:void(0)">
+					<i class="icon-blockchain_nav-open-01"></i>
+				</a>
+
+				<div id="nav-container" class="nav-container hidden">
+					<div class="the-chain-menu-row animated"><ul id="menu-row-1" class="menu-row-1"><li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://breakermag.com/category/culture/">Culture</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="https://breakermag.com/category/ideas/">Ideas</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-20"><a href="https://breakermag.com/category/business/">Business</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="https://breakermag.com/category/people/">People</a></li>
+</ul></div><div class="the-chain-menu-row animated"><ul id="menu-row-2" class="menu-row-2"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://breakermag.com/about-breaker/">About Us</a></li>
+</ul></div>					<div class="the-chain-menu-row">
+						
+		
+							</div>
+				</div>
+			</nav><!-- #site-navigation -->
+
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content row collapse">
+
+	<div id="primary" class="content-area small-12 column">
+		<main id="main-article" class="article-main">
+
+							<div class="article-wrapper" id="4007" data-link="https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/" >
+				
+<div class="row collapse article-poster-vertical-portrait">
+
+	<div class="small-12 medium-6 column">
+
+		<div id="" class="article-poster-vertical article-poster-vertical--background-red">
+
+			
+			<h2 class="article-poster-vertical__headline">
+				<a href="https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/">
+					We Asked Crypto News Outlets If They&#8217;d Take Money to Cover a Project. More Than Half Said Yes				</a>
+			</h2>
+
+										<div class="article-poster-vertical__byline">
+					<a href="https://breakermag.com/author/cfaife/" title="Posts by Corin Faife" class="author url fn" rel="author">By Corin Faife</a>				</div>
+			
+					<div class="article-poster__posted-date">
+			10.25.2018		</div>
+	
+		</div>
+
+	</div>
+
+	<div class="small-12 medium-6 column">
+
+		<div id="article-4007" class="artical-vertical-lead-img">
+
+		</div>
+
+	</div>
+
+	<a class="article-poster__navigate icon-angle-down" href="#"></a>
+
+</div>
+
+	<style>
+		@media only screen and ( min-width: 1441px ) {
+			#article-4007 {
+				background-image: url( 'https://breakermag.com/wp-content/uploads/2018/10/Payola-title-graphic.png?w=630' );
+			}
+		}
+
+		@media only screen and ( max-width: 1440px ) and ( min-width: 769px )  {
+			#article-4007 {
+				background-image: url( 'https://breakermag.com/wp-content/uploads/2018/10/Payola-title-graphic.png?w=630' );
+			}
+		}
+
+		@media only screen and ( max-width: 768px ) {
+			#article-4007 {
+				background-image: url( 'https://breakermag.com/wp-content/uploads/2018/10/Payola-title-graphic.png?w=630' );
+			}
+		}
+	</style>
+
+	<article class="article-container ">
+
+	<div class="article-container__content">
+
+		<div class="article-content">
+
+			<div class="article-content__container ">
+				<p><span style="font-weight: 400;">This article started out with an email, one that arrived in my inbox years ago. I can&#8217;t remember when the first of them came exactly, but it would have been sometime in 2016 when I began contributing to CoinDesk. Every few months—continuing to this day—I get something like this:</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/Bribe_offer_2.png"><img class="aligncenter wp-image-4015 size-full" src="https://breakermag.com/wp-content/uploads/2018/10/Bribe_offer_2.png" alt="Email offering money for coverage" width="506" height="316" srcset="https://breakermag.com/wp-content/uploads/2018/10/Bribe_offer_2.png 506w, https://breakermag.com/wp-content/uploads/2018/10/Bribe_offer_2.png?resize=300,187 300w, https://breakermag.com/wp-content/uploads/2018/10/Bribe_offer_2.png?resize=504,315 504w" sizes="(max-width: 506px) 100vw, 506px" /></a></p>
+<p><span style="font-weight: 400;">And I send a reply like this:</span></p>
+<p><img class="size-full wp-image-4017 aligncenter" src="https://breakermag.com/wp-content/uploads/2018/10/Bribe_reply.png" alt="" width="548" height="173" srcset="https://breakermag.com/wp-content/uploads/2018/10/Bribe_reply.png 548w, https://breakermag.com/wp-content/uploads/2018/10/Bribe_reply.png?resize=300,95 300w" sizes="(max-width: 548px) 100vw, 548px" /></p>
+<p><span style="font-weight: 400;">I&#8217;m definitely not the only one. Earlier this year, John Biggs documented exactly the same phenomenon, exposing the PR representatives who reached out with</span><a href="https://techcrunch.com/2018/09/18/inside-the-pay-for-post-ico-industry/" target="_blank" rel="noopener"> <span style="font-weight: 400;">offers of money to post on TechCrunch</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">&#8220;I get requests like this almost every day and almost all the journalists I talked to reported the same,&#8221; Biggs writes.</span></p>
+<p><span style="font-weight: 400;">Biggs&#8217; post and my own experiences left me troubled. I know that I would never take money for coverage, nor would any serious journalist. But covering the cryptocurrency industry, I read content on a daily basis that comes from a large number of outlets that I can&#8217;t vouch for. If these offers of pay-for-post are out there, can we rely on all of the journalists and editors to turn them down? Can we believe in the objectivity of the coverage we see every day, or has it simply been paid for by a company flush with cash?</span></p>
+<p><span style="font-weight: 400;">The more I thought about it, the more it seemed like there was a simple way to find out. As a BREAKER investigation, we&#8217;d ask to pay for coverage of an ICO, and see who said yes.</span></p>
+<p><span style="font-weight: 400;">Unfortunately, we were given a &#8216;yes&#8217; far more than expected.</span></p>
+<h1><b>The Context</b></h1>
+<p><span style="font-weight: 400;">First, some background. Over the last decade, mainstream media has either ignored blockchain companies, or reduced blockchain coverage to a few brand name projects (bitcoin, Coinbase) or the most sensationalist elements (dark web, drugs, assassination markets). </span></p>
+<p><span style="font-weight: 400;">While many scams have been enabled by sloppy coverage, it&#8217;s also true that honest blockchain companies often struggle to get attention in a media environment that is either hostile to crypto or disinterested—as a prime example, see Twitter, Google and Facebook’s </span><a href="https://www.recode.net/2018/3/19/17123674/cryptocurrency-bitcoin-advertising-ban-microsoft-twitter-google-facebook-oath-snap" target="_blank" rel="noopener"><span style="font-weight: 400;">ban on ICO ads</span></a><span style="font-weight: 400;"> earlier this year. In the face of such obstacles to obtaining coverage in traditional media or on social networks, paying for press releases or creating sponsored content has often made sense: for many companies, it&#8217;s been the only way to get the word out.</span></p>
+<p><span style="font-weight: 400;">On that note, we also need context on what is legitimate advertising and what isn’t. As journalism revenues have decreased in the age of digital media, online outlets are increasingly blurring the traditional distinction between reporting and advertising. The venerable New York Times now has &#8220;paid posts&#8221; on its home page, while Forbes, Inc, and others run contributor networks that often feature </span><a href="https://theoutline.com/post/2563/how-brands-secretly-buy-their-way-into-forbes-fast-company-and-huffpost-stories?zd=1&amp;zi=y5aawx3z" target="_blank" rel="noopener"><span style="font-weight: 400;">brand coverage disguised as journalism</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">These trends raise difficult questions in themselves. But for this article we were concerned only with the most glaring form of pay-for-play: where companies offer money for promotional coverage that&#8217;s disguised as objective reporting.</span></p>
+<h1><b>What We Did</b></h1>
+<p><span style="font-weight: 400;">On the assumption that most outlets would not openly admit that they took bribes for coverage if asked directly by a journalist, it seemed reasonable to set up an undercover investigation on the topic.</span></p>
+<p><span style="font-weight: 400;">The level of deception used was minimal: We created a fake email account, and claimed to be representing a PR company. There was no fake website or domain associated; it was simply a Gmail address with a profile picture found by image searching &#8220;Russian actor.&#8221; (I&#8217;m sorry to whoever he really is, but for our purposes this is Nikolay Kostarev, a Moscow-based PR agent.)</span></p>
+<p><img class="size-full wp-image-4018 aligncenter" src="https://breakermag.com/wp-content/uploads/2018/10/Nikolay_K.png" alt="Google profile for Nikolay Kostarev" width="392" height="258" srcset="https://breakermag.com/wp-content/uploads/2018/10/Nikolay_K.png 392w, https://breakermag.com/wp-content/uploads/2018/10/Nikolay_K.png?resize=300,197 300w" sizes="(max-width: 392px) 100vw, 392px" /></p>
+<p><span style="font-weight: 400;">Next we compiled a list of blockchain media sites. This was by no means exhaustive, but to have a sense of the scale of the problem, we needed numbers. All in all, we reached out to 28 sites, and received a yes/no reply from 22 by the time of publication, with two inconclusive.</span></p>
+<p><span style="font-weight: 400;">There were two main steps to the outreach process: first, using the &#8216;Contact&#8217; or &#8216;Advertise&#8217; links listed on the site, we sent an email to request price information:</span></p>
+<pre><i><span style="font-weight: 400;">Hello,</span></i>
+
+<i><span style="font-weight: 400;">I am representing a blockchain PR company from  Moscow, Russia, </span></i>
+<i><span style="font-weight: 400;">and would like information on the rate for advertising on [WEBSITE].</span></i>
+
+<i><span style="font-weight: 400;">Many thanks in advance,</span></i>
+<i><span style="font-weight: 400;">Nikolay K.</span></i></pre>
+<p><span style="font-weight: 400;">In response, we usually received a price list, or in some cases, a brochure of media rates. Usually this included information on buying banner ads, press release publication, or partnerships to create sponsored content.</span></p>
+<p><span style="font-weight: 400;">If the outlet replied offering any of the above, we sent a further email with a proposal:</span></p>
+<pre><i><span style="font-weight: 400;">Hello [NAME],</span></i>
+
+<i><span style="font-weight: 400;">Thank you for the reply and information. 
+Many of my ICO clients want coverage written about them. 
+But some would like it to not be marked "Sponsored". 
+Is this possible?</span></i>
+
+<i><span style="font-weight: 400;">Regards,</span></i>
+<i><span style="font-weight: 400;">-NK</span></i></pre>
+<p><span style="font-weight: 400;">Of course, the simple response to this should be &#8220;no.&#8221; Indeed, many outlets did respond to tell us that all paid advertising had to be clearly labelled, or to suggest that we opt for another form of sponsored post instead.</span></p>
+<p><span style="font-weight: 400;">Sadly, those that took this route were in the minority.</span></p>
+<p><strong>Related: </strong><a href="https://breakermag.com/fastbreak-how-should-we-fight-crypto-scammers/" target="_blank" rel="noopener"><strong>How Should We Fight Crypto Scammers?</strong></a></p>
+<h1><b>What We Found</b></h1>
+<p><span style="font-weight: 400;">Of the 22 outlets who replied conclusively, 12 of them—more than half the total—were willing to publish paid content without disclosing it as such.</span></p>
+<p><span style="font-weight: 400;">This is a big claim to make, so where there was any doubt we asked for clarification in a follow-up email. Only the websites that unambiguously offered to publish native content, unlabelled, for a price are included in the total. So not included in the count are two outlets that hinted at being willing to do so under certain conditions, but did not ultimately confirm it. Add those two, and the total would be 14 out of 24, or 58 percent.</span><a href="https://breakermag.com/wp-content/uploads/2018/10/Coinspeaker_payola21.png"><img class="aligncenter size-full wp-image-4070" src="https://breakermag.com/wp-content/uploads/2018/10/Coinspeaker_payola21.png" alt="" width="640" height="418" srcset="https://breakermag.com/wp-content/uploads/2018/10/Coinspeaker_payola21.png 733w, https://breakermag.com/wp-content/uploads/2018/10/Coinspeaker_payola21.png?resize=300,196 300w, https://breakermag.com/wp-content/uploads/2018/10/Coinspeaker_payola21.png?resize=482,315 482w" sizes="(max-width: 640px) 100vw, 640px" /></a><span style="font-weight: 400;">The prices quoted for this ranged from a low of $240 to a high of $4500, which reflects the size and reach of the outlets we investigated. The chart below gives a breakdown—and you might see some names that you recognize.</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png"><img class="alignnone wp-image-4020 size-full" src="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png" alt="Chart of cryptocurrency outlets taking payment for coverage" width="1408" height="743" srcset="https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png 1408w, https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?resize=300,158 300w, https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?resize=768,405 768w, https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?resize=1024,540 1024w, https://breakermag.com/wp-content/uploads/2018/10/Payola_index_corrected.png?resize=597,315 597w" sizes="(max-width: 1408px) 100vw, 1408px" /></a></p>
+<p><span style="font-weight: 400;">Reading down the list, you can also see why price isn&#8217;t the most important point. Some of the outlets we surveyed are small, and don&#8217;t command much influence in the crypto sphere. Others are far more prominent, and are used as trusted news sources by many traders, investors, developers, and others with an interest in cryptocurrency.</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/Bitcoinist_rates.png"><img class="size-full wp-image-4021 aligncenter" src="https://breakermag.com/wp-content/uploads/2018/10/Bitcoinist_rates.png" alt="Bitcoinist offering rates for undisclosed sponsored content" width="640" height="470" srcset="https://breakermag.com/wp-content/uploads/2018/10/Bitcoinist_rates.png 723w, https://breakermag.com/wp-content/uploads/2018/10/Bitcoinist_rates.png?resize=300,220 300w, https://breakermag.com/wp-content/uploads/2018/10/Bitcoinist_rates.png?resize=429,315 429w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span style="font-weight: 400;">Among them, </span>Bitcoinist<span style="font-weight: 400;"> and </span>NewsBTC<span style="font-weight: 400;"> are high traffic websites, and regularly rank in the top Google results as news sources when searching for content related to bitcoin and cryptocurrency. (Bitcoinist claims to have more than two million visitors a month; NewsBTC says it has 1.5 million visitors a month). </span></p>
+<p><span style="font-weight: 400;">Both quoted us an extra premium on top of the cost of sponsored article publication to publish it outside of the “sponsored” category, essentially presenting a press release under the guise of legitimate journalistic content.</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/NewsBTC_rates.png"><img class="size-full wp-image-4022 aligncenter" src="https://breakermag.com/wp-content/uploads/2018/10/NewsBTC_rates.png" alt="Pay-for-post rates from NewsBTC" width="640" height="524" srcset="https://breakermag.com/wp-content/uploads/2018/10/NewsBTC_rates.png 666w, https://breakermag.com/wp-content/uploads/2018/10/NewsBTC_rates.png?resize=300,245 300w, https://breakermag.com/wp-content/uploads/2018/10/NewsBTC_rates.png?resize=385,315 385w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span style="font-weight: 400;">Contacted about the story, Samuel Rae, CEO of NewsBTC, responded:</span></p>
+<p><i><span style="font-weight: 400;">“It&#8217;s come to my attention that one of our sales team has mistakenly suggested that we could publish content without disclosure that it has been paid for (i.e. a sponsored article) to one of your undercover reporters posing as a PR agent. This is not our policy. The sales executive offering this has been removed from our company active immediately and won&#8217;t be dealing with/offering our advertising (or otherwise) services again, be it to a PR company, a reseller or anyone else.”</span></i></p>
+<p><span style="font-weight: 400;">Pressed to offer evidence that the staff member had been removed, and to explain a second source quoting NewsBTC’s willingness to publish sponsored content without disclosure, Rae declined to give further comment.</span></p>
+<p><span style="font-weight: 400;">Asked by email about our findings, specifically the 20 percent additional fee we were quoted to publish content without a sponsored tag, Bitcoinist’s editor-in-chief Adam James said: </span></p>
+<p><i><span style="font-weight: 400;">“All sponsored content is clearly labeled as such in some form. The fee to remove the &#8216;sponsored&#8217; category tag merely helps the article stay on top longer and removes it from the pool of sponsored content within that group. It always carries a disclaimer of some sort.”</span></i></p>
+<p><span style="font-weight: 400;">Although Bitcoinist, NewsBTC and others were willing to publish content under the direction of our fake PR agent, not all of the outlets we contacted offered promotional placement in the same way. </span></p>
+<p>AMB Crypto<span style="font-weight: 400;"> and </span>Blokt<span style="font-weight: 400;"> both declined to publish articles we provided, but said they would run an interview with the company CEO which would not be marked as sponsored, if we paid them enough.</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/blokt_rates.png"><img class="size-full wp-image-4023 aligncenter" src="https://breakermag.com/wp-content/uploads/2018/10/blokt_rates.png" alt="Blokt pay-for-post rates" width="629" height="474" srcset="https://breakermag.com/wp-content/uploads/2018/10/blokt_rates.png 629w, https://breakermag.com/wp-content/uploads/2018/10/blokt_rates.png?resize=300,226 300w, https://breakermag.com/wp-content/uploads/2018/10/blokt_rates.png?resize=418,315 418w" sizes="(max-width: 629px) 100vw, 629px" /></a></p>
+<p><span style="font-weight: 400;">But equally striking is the response from </span>Cointelegraph<span style="font-weight: 400;">—one of the biggest players in the crypto news industry.</span></p>
+<p><span style="font-weight: 400;">Cointelegraph recently overtook veteran industry publication Coindesk in Alexa traffic rankings, making it the highest ranked crypto-focused news site globally. In researching this story, a source suggested that Cointelegraph would accept payment to place articles that weren&#8217;t marked as sponsored, but in my correspondence with a representative of the site this didn&#8217;t seem to be the case.</span></p>
+<p><span style="font-weight: 400;">But, instead of discouraging &#8216;Nikolay&#8217; from seeking to pay for coverage, a member of the business team was happy to point us towards some sites in the Cointelegraph Media Group that did. (The Group is an advertising partnership, allowing marketers to coordinate ads or sponsored posts across member sites, although in other respects the sites are editorially independent.)</span></p>
+<p><a href="https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png"><img class="aligncenter size-full wp-image-4049" src="https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png" alt="" width="640" height="873" srcset="https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png 733w, https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png?resize=220,300 220w, https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png?resize=231,315 231w, https://breakermag.com/wp-content/uploads/2018/10/Cointelegraph3.png?resize=660,900 660w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p><span style="font-weight: 400;">Cointelegraph had not responded to a request for comment at time of press.</span></p>
+<p><span style="font-weight: 400;">Without dwelling wholly on the negative, we should also note the companies that gave a clear refusal to run any content that was sponsored without a clear label: </span>BraveNewCoin<span style="font-weight: 400;">, </span>Coinjournal<span style="font-weight: 400;">, </span>CryptosRus<span style="font-weight: 400;">, </span>CCN<span style="font-weight: 400;">, </span>Mineable<span style="font-weight: 400;">, </span>Oracle Times<span style="font-weight: 400;">, NullTX, and </span>ZyCrypto<span style="font-weight: 400;">.</span></p>
+<h1><b>What It Means</b></h1>
+<p><span style="font-weight: 400;">If media outlets are willing to take money to publish &#8220;news,&#8221; then the concept of news as a whole becomes suspect. It&#8217;s no longer an indication of what&#8217;s relevant or important in the field, but more a reflection of who has the deepest pockets. </span></p>
+<p><span style="font-weight: 400;">It also shows a huge level of contempt for any of the readers of these websites, as </span>Laura Shin, host of the popular Unchained podcast, pointed out.</p>
+<p>&#8220;I think it&#8217;s awful. [These outlets] are basically profiting from their readers losing money. It&#8217;s almost like a pump and dump scheme,&#8221; she said in a call. &#8220;The publication will make its money no matter what, as they&#8217;ll get more than they would for a traditional sponsored post. Their readers think, &#8216;wow, that sounds like an interesting coin,&#8217; but if they buy it without realizing the post they read was sponsored, they&#8217;ll be left holding the bag when the price drops.&#8221;</p>
+
+		<div class="content-block-text content-block">
+			<div class="row collapse">
+
+				<div class="medium-4 small-12 column">
+					<div class="content-block-text__secondary-text">
+											</div>
+				</div>
+
+				<div class="medium-8 small-12 column">
+
+					<div class="content-block-text__primary-text">
+						<p class="content-block-text__primary-text__container">
+							<p>"If you don't think you can generate authentic demand for your product, maybe you need to work on it some more." </p>						</p>
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+		
+<p>Shin, a longtime reporter on the blockchain beat, said that she had come across the same phenomenon many times in her career, and still occasionally received messages from companies trying to pay her for coverage, often through LinkedIn.</p>
+<p>She also highlighted the role of the PR industry in curtailing pay-for-post:</p>
+<p>&#8220;I really think PR people should refuse to engage in these practices,&#8221; she said, &#8220;Or tell their client: if you don&#8217;t think you can generate authentic demand for your product, maybe you need to work on it some more and come back to me another time.&#8221;</p>
+<p>This was echoed by David Wachsman, <span style="font-weight: 400;">CEO of Wachsman PR, a firm that specializes in the blockchain industry.</span></p>
+<p><span style="font-weight: 400;">“When press releases or full articles are posted onto third-party websites and are not clearly marked as paid for, or &#8216;sponsored,&#8217; it becomes an unethical representation of information,” Wachsman wrote in an email. “For communications professionals working to place stories on behalf of these companies, it can be challenging to see a breakdown in the ethics of journalism. It’s imperative that these professionals provide real value by fostering strong relationships with reporters and communicating the intricate details of a company, project, or technology.”</span></p>
+<p><span style="font-weight: 400;">Setting out to investigate the phenomenon of pay-for-play coverage in cryptocurrency media, we didn&#8217;t suspect that the problem would be as endemic as it turned out to be.</span><span style="font-weight: 400;"> Paying for advertising is one thing, but paying for undisclosed sponsored coverage is quite another.<br />
+</span></p>
+<p><strong>Update: </strong>Since the publication of this article, Cointelligence has changed its policy on sponsored posts. Having initially disputed on its site that it took payment for unlabelled promotional posts, the company now accepts that this was the case at the time we published our story. CEO On Yavin gave the following statement to BREAKER:</p>
+<p>“At Cointelligence we are dedicated to transparency and honesty and we are unwilling to compromise this, as such, it is important to admit that we missed the mark on this issue. Over the weekend we discussed the issue with members of the crypto community, and we realize now that there is a better way to serve our readers.</p>
+<p>Our existing guest post policy did not make it clear which articles were sponsored content and we are sorry for that. We have now updated all paid guest posts with a new SPONSORED tag. Our team has been informed of this new change and going forward, all paid posts will either receive a SPONSORED tag or be filed as Press Releases.”</p>
+<p><strong>Update 2:</strong> We have also updated the article to include NullTX in the list of sites which refused to run unlabelled sponsored content.</p>
+			</div>
+
+			<div class="content-block-related">
+				<div class="row collapse">
+
+											<div class="small-12 medium-8 column">
+							<div class="content-block-related__post">
+								<span>
+									Related								</span>
+								<ul class="content-block-related__post__list">
+																			<li>
+											<a href="https://breakermag.com/crypto-money-laundering-is-nothing-compared-to-what-banks-do/">
+												Crypto Money Laundering Is Nothing Compared to What Banks Do											</a>
+										</li>
+																	</ul>
+							</div>
+						</div>
+					
+											<div class="small-12 medium-4 column">
+							<div class="content-block-related__more">
+								<span>
+									Tags								</span>
+								<ul class="content-block-related__more__list">
+																			<li>
+											<a href="https://breakermag.com/tag/ethics/">
+												ethics											</a>
+										</li>
+																			<li>
+											<a href="https://breakermag.com/tag/journalism/">
+												journalism											</a>
+										</li>
+																			<li>
+											<a href="https://breakermag.com/tag/marketing/">
+												marketing											</a>
+										</li>
+																			<li>
+											<a href="https://breakermag.com/tag/pay-for-post/">
+												pay-for-post											</a>
+										</li>
+																			<li>
+											<a href="https://breakermag.com/tag/pr/">
+												PR											</a>
+										</li>
+																	</ul>
+							</div>
+						</div>
+					
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class=article-container__sidebar>
+		
+<aside id="secondary" class="the-chain-secondary widget-area">
+	<div class="sidebar-main sidebar-content">
+				<section id="the-chain-social-share" class="the-chain-social-share">
+			<ul>
+				<li title="Twitter">
+					<a class="icon-twitter" target="_blank" href="http://twitter.com/share?url=https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/&amp;text=We%20Asked%20Crypto%20News%20Outlets%20If%20They%E2%80%99d%20Take%20Money%20to%20Cover%20a%20Project.%20More%20Than%20Half%20Said%20Yes"></a>
+				</li>
+				<li title="Facebook">
+					<a class="icon-facebook-official" target="_blank" href="http://www.facebook.com/sharer.php?u=https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/"></a>
+				</li>
+				<li title="Reddit">
+					<a class="icon-reddit-alien" target="_blank" href="http://www.reddit.com/submit?url=https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/&title=We%20Asked%20Crypto%20News%20Outlets%20If%20They%E2%80%99d%20Take%20Money%20to%20Cover%20a%20Project.%20More%20Than%20Half%20Said%20Yes"></a>
+				</li>
+			</ul>
+		</section>
+		<section id="the_chain_popular_posts_widget-2" class="widget the-chain-popular-posts">			<div class="widget_trending_post">
+				<div class="widget_trending_post__title"> Most Popular on BREAKER</div>
+				<ul class="no-bullet">
+					
+						<li>
+							<a href="https://breakermag.com/sunday-wedding-announcements-til-hard-fork-do-us-part/" class="widget_trending_post_list">
+								<span class="widget_trending_post_list__count">1</span>
+								<span class="widget_trending_post_list__title">Sunday Wedding Announcements: Til Hard Fork Do Us Part&#8230;</span>
+							</a>
+						</li>
+
+						
+						<li>
+							<a href="https://breakermag.com/i-ordered-lightning-pizza-and-lived-to-tell-the-tale/" class="widget_trending_post_list">
+								<span class="widget_trending_post_list__count">2</span>
+								<span class="widget_trending_post_list__title">I Ordered Lightning Pizza and Lived to Tell the Tale</span>
+							</a>
+						</li>
+
+						
+						<li>
+							<a href="https://breakermag.com/heres-how-the-2-09-million-eos-hack-really-happened/" class="widget_trending_post_list">
+								<span class="widget_trending_post_list__count">3</span>
+								<span class="widget_trending_post_list__title">Here&#8217;s How the 2.09 Million EOS &#8220;Hack&#8221; Really Happened</span>
+							</a>
+						</li>
+
+						
+						<li>
+							<a href="https://breakermag.com/coinbases-newest-team-members-helped-authoritarians-worldwide-monitor-journalists-and-dissidents/" class="widget_trending_post_list">
+								<span class="widget_trending_post_list__count">4</span>
+								<span class="widget_trending_post_list__title">Coinbase&#8217;s Newest Team Members Helped Authoritarians Worldwide Monitor Journalists and Dissidents</span>
+							</a>
+						</li>
+
+						
+						<li>
+							<a href="https://breakermag.com/initiative-q-is-all-the-bad-parts-of-crypto-and-none-of-the-good-ones/" class="widget_trending_post_list">
+								<span class="widget_trending_post_list__count">5</span>
+								<span class="widget_trending_post_list__title">“Initiative Q” Is All the Bad Parts of Crypto and None of the Good Ones</span>
+							</a>
+						</li>
+
+										</ul>
+			</div>
+			</section>	</div>
+</aside><!-- #secondary -->
+	</div>
+
+</article>
+				</div>
+				
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<script type='text/javascript'>
+								var _gaq = _gaq || [];
+								_gaq.push(['_setAccount', 'UA-122168527-1']);
+_gaq.push(['_trackPageview']);
+
+								(function() {
+									var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+									ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+									var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+								})();
+							</script>
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+
+		<div class="footer-col-1">
+			<div class="site-footer__info">
+				BREAKERMAG is an editorially independent site owned by SingularDTV LLC.			</div>
+		</div>
+
+		<div class="footer-col-2">
+			<div class="site-footer-follow">
+				<p>
+					Follow us on:					<a href="https://twitter.com/breakermag">Twitter</a>,
+					<a href="https://www.facebook.com/BreakerMagazine/">Facebook</a>
+				</p>
+				<p>
+					Read more:					<a href="https://breakermag.com/about-breaker/">About Us</a>
+				</p>
+			</div>
+			<div class="site-footer-copyright">
+				Copyright &copy;2019 SingularDTV			</div>
+		</div>
+
+		<div class="footer-col-3">
+			<img alt="Footer Logo" width="156" height="37" src="https://breakermag.com/wp-content/themes/the-chain/assets/static/BreakerMagLogo_white.svg" class="footer-logo">			<div class="site-footer-powered-by">
+			<a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=breakermag.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://breakermag.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP" /></a>			</div>
+
+		</div>
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var theChainGetResponse = {"ajax_url":"https:\/\/breakermag.com\/wp-admin\/admin-ajax.php","i18n":{"subscription_success":"Thank you for subscribing!","subscribed":"Already subscribed!","subscription_error":"Something went wrong!"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://breakermag.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUbrJGYmZefpZxfplqXkp+UV6uZl5elnFOvoEVOcCaaha+1xbQ1NjCxMLAzMDgywAt8gkTA=='></script>
+<script async type='text/javascript' src='//hello.myfonts.net/count/353635?ver=5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var theChainInfiniteScroll = {"id":"main-article","wrapper_class":"article-wrapper","ajaxurl":"https:\/\/breakermag.com\/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes?infinite=true","google_analytics":"1","last_post_date":"","main_post":"4007"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://breakermag.com/_static/??-eJytkEsOwjAMRC9EkiJRUBeIs4DjUke2E/JR1duTBYuKdZfz0dNo3JoMKXDzWFwoDqIIajUZE29WSG0oJ9dLELX2wCVub9Li6oKwPEnN3BQqxW5J9I07hnQmpYqmQI7M//oAYkmHDAufhnmze9r+iy5RXuh/Nzzkfh7H4TYNl+kavqlBdgg='></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0.1',blog:'145116355',post:'4007',tz:'-5',srv:'breakermag.com'} ]);
+	_stq.push([ 'clickTrackerInit', '145116355', '4007' ]);
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"96720065","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhFdWFMKBhlXEBBZB1UHGVpRBwddWwVJRgFLFl1VVQo=","queueTime":0,"applicationTime":197,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

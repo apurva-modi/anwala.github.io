@@ -1,0 +1,1145 @@
+<!doctype html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<title>Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 - Crypto Technical Analysis稼げる投資系口コミ情報サイト【Trade Center】</title>
+<meta name="keywords" content="" />
+<meta name="description" content="今、何が一番稼げる！？仮想通貨や株式、FX、不動産など稼げる投資系の最新情報が集まる口コミ情報サイトです！">
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+<meta name="format-detection" content="telephone=no"> 
+<meta name="format-detection" content="email=no"> 
+<link rel="alternate" type="application/atom+xml" title="稼げる投資系口コミ情報サイト【Trade Center】 Atom Feed" href="http://trade-center.info/?feed=atom" />
+<link rel="alternate" type="application/rss+xml" title="稼げる投資系口コミ情報サイト【Trade Center】 RSS Feed" href="http://trade-center.info/?feed=rss2" />
+<script type="text/javascript" src="http://trade-center.info/wp-content/themes/cas/js/jquery1.11.0.js"></script>
+<script type="text/javascript" src="http://trade-center.info/wp-content/themes/cas/js/scrolltopcontrol.js"></script>
+
+
+<!-- サイト名 -->
+<meta property="og:site_name" content="稼げる投資系口コミ情報サイト【Trade Center】">
+<!-- アドレス -->
+<meta property="og:url" content="">
+<!-- 属性 -->
+<meta property="og:type" content="website">
+<!-- 説明 -->
+<meta property="og:description" content="今、何が一番稼げる！？仮想通貨や株式、FX、不動産など稼げる投資系の最新情報が集まる口コミ情報サイトです！">
+
+<link rel="stylesheet" href="http://trade-center.info/wp-content/themes/cas/style.css" media="all" />
+<link rel="stylesheet" href="http://trade-center.info/wp-content/themes/cas/css/custom.css" />
+<link rel="stylesheet" type="text/css" href="http://trade-center.info/wp-content/themes/cas/style-dashboard.css">
+
+<style>
+h2,h3,h4,h5,h6 {background-color:#000000;}
+#gallery h1{ background:#000000;}
+.list-ttl { background:#000000;}
+#bars{background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #444444 0%, #000000 100%) repeat scroll 0 0; color:#ffffff;}
+#global{background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #000000 0%, #000000 100%) repeat scroll 0 0; box-shadow: 0 -2px 2px rgba(255, 255, 255, 0.8) inset; border-bottom: 1px solid #d3d3d3;}
+</style>
+<script type="text/javascript">
+$(function(){
+	var nowchecked = [];
+	$('input[type="radio"]:checked').each(function(){
+	  nowchecked.push( $(this).attr('id') );
+	});
+
+	$('input[type="radio"]').click(function(){
+	  var idx = $.inArray( $(this).attr('id'), nowchecked ); // nowcheckedにクリックされたボタンのidが含まれるか判定。なければ-1が返る。
+		if( idx >= 0 ) { // クリックしたボタンにチェックが入っていた場合
+			$(this).prop('checked', false); // チェックを外す
+			nowchecked.splice(idx,1); // nowcheckedからこのボタンのidを削除
+		} else { // チェックが入っていなかった場合
+		// 同じname属性のラジオボタンをnowcheckedから削除する
+	    var name = $(this).attr('name');
+	    $('input[name="' + name + '"]').each(function(){
+	      var idx2 = $.inArray( $(this).attr('id'), nowchecked);
+	      if( idx2 >= 0 ){
+	        nowchecked.splice(idx2,1);
+	      }
+	    });
+	    // チェックしたものをnowcheckedに追加
+			nowchecked.push( $(this).attr('id') );
+		}
+	});
+});
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://trade-center.info/?p=15667" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 - Crypto Technical Analysis" />
+<meta property="og:description" content="Multistreaming with https://restream.io/ &#x1f680; Send a Tip to the Streamer &#x1f680; (NOTE: MAKE SURE TO EN ... 続きを読む &raquo;" />
+<meta property="og:url" content="http://trade-center.info/?p=15667" />
+<meta property="og:site_name" content="稼げる投資系口コミ情報サイト【Trade Center】" />
+<meta property="article:publisher" content="https://www.facebook.com/AFFILIATE.MOVIE/" />
+<meta property="article:section" content="最新トレンド動画（trend-movie）" />
+<meta property="article:published_time" content="2019-01-16T06:10:46+00:00" />
+<meta property="article:modified_time" content="2019-01-16T06:12:42+00:00" />
+<meta property="og:updated_time" content="2019-01-16T06:12:42+00:00" />
+<meta property="fb:app_id" content="256167825034890" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Multistreaming with https://restream.io/ &#x1f680; Send a Tip to the Streamer &#x1f680; (NOTE: MAKE SURE TO EN ... 続きを読む &raquo;" />
+<meta name="twitter:title" content="Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 - Crypto Technical Analysis" />
+<meta name="twitter:site" content="@sougo_follow_88" />
+<meta name="twitter:image" content="http://trade-center.info/wp-content/uploads/2019/01/f29326aedf96565079bf46d6726e25ee.jpg" />
+<meta name="twitter:creator" content="@sougo_follow_88" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="稼げる投資系口コミ情報サイト【Trade Center】 &raquo; フィード" href="http://trade-center.info/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="稼げる投資系口コミ情報サイト【Trade Center】 &raquo; コメントフィード" href="http://trade-center.info/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="稼げる投資系口コミ情報サイト【Trade Center】 &raquo; Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 &#8211; Crypto Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】 のコメントのフィード" href="http://trade-center.info/?feed=rss2&#038;p=15667" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/trade-center.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-recentcomments-css'  href='http://trade-center.info/wp-content/plugins/wp-recentcomments/css/wp-recentcomments.css?ver=2.2.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://trade-center.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cr-style-css'  href='http://trade-center.info/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/css/style.front.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='stock-ticker-css'  href='http://trade-center.info/wp-content/plugins/stock-ticker/assets/css/stock-ticker.css?ver=3.0.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='stock-ticker-custom-css'  href='http://trade-center.info/wp-content/uploads/stock-ticker-custom.css?ver=3.0.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='http://trade-center.info/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='yasrcss-css'  href='http://trade-center.info/wp-content/plugins/yet-another-stars-rating/css/yasr.css?ver=1.9.2' type='text/css' media='all' />
+<style id='yasrcss-inline-css' type='text/css'>
+
+		.star-rating {
+            background-image: url("http://trade-center.info/wp-content/plugins/yet-another-stars-rating/img/star_2.svg");
+        }
+        .star-rating .star-value {
+            background: url("http://trade-center.info/wp-content/plugins/yet-another-stars-rating/img/star_3.svg") ;
+        }
+	
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://trade-center.info/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='yasrcsslightscheme-css'  href='http://trade-center.info/wp-content/plugins/yet-another-stars-rating/css/yasr-table-light.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='give-styles-css'  href='http://trade-center.info/wp-content/plugins/give/assets/dist/css/give.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-base-css'  href='http://trade-center.info/wp-content/plugins/cryptocurrency-prices/css/cp_base.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cp-light-css'  href='http://trade-center.info/wp-content/plugins/cryptocurrency-prices/css/cp_light.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://trade-center.info?sccss=1&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://trade-center.info/wp-content/plugins/jetpack/css/jetpack.css?ver=7.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://trade-center.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR","visible":"VISIBLE","hidden":"HIDDEN"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/ad-inserter/includes/js/ai-jquery.js?ver=4.9.8+2.4.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"http:\/\/trade-center.info\/index.php?rest_route=\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"15667","token":"7d01fec4d6","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"http:\/\/trade-center.info\/wp-admin\/admin-ajax.php","checkout_nonce":"6d71c5eba5","currency":"BTC","currency_sign":"BTC ","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"4","give_version":"2.4.1","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid username. Only lowercase letters (a-z) and numbers are allowed.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"http:\/\/trade-center.info\/wp-admin\/admin-ajax.php","ajaxNonce":"4928460ef8","loading":"Loading","select_option":"Please select an option","default_gateway":"gourl","permalinks":"0","number_decimals":4},"cookie_hash":"de3da088e9d720aa37640c57dcb5c77f","session_nonce_cookie_name":"wp-give_session_reset_nonce_de3da088e9d720aa37640c57dcb5c77f","session_cookie_name":"wp-give_session_de3da088e9d720aa37640c57dcb5c77f","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"http:\/\/trade-center.info\/index.php?rest_route=\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/give/assets/dist/js/give.js?ver=2.4.1'></script>
+<link rel='https://api.w.org/' href='http://trade-center.info/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://trade-center.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://trade-center.info/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://wp.me/pafQIR-44H' />
+<link rel="alternate" type="application/json+oembed" href="http://trade-center.info/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Ftrade-center.info%2F%3Fp%3D15667" />
+<link rel="alternate" type="text/xml+oembed" href="http://trade-center.info/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Ftrade-center.info%2F%3Fp%3D15667&#038;format=xml" />
+<meta name="generator" content="Give v2.4.1" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css"></style><div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+<script src="https://crs.adapf.com/cirqua.js?id=c2DXyVUs" id="cirqua-jssdk"></script></div>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; background-image: url("http://trade-center.info/wp-content/uploads/2018/09/galaxy.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="amphtml" href="http://trade-center.info/?p=15667&#038;amp"><link rel="icon" href="http://trade-center.info/wp-content/uploads/2018/09/cropped-bitcoin_up-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://trade-center.info/wp-content/uploads/2018/09/cropped-bitcoin_up-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://trade-center.info/wp-content/uploads/2018/09/cropped-bitcoin_up-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://trade-center.info/wp-content/uploads/2018/09/cropped-bitcoin_up-270x270.jpg" />
+			<style type="text/css" id="wp-custom-css">
+				.youtube{
+height: 0;
+overflow: hidden;
+padding-bottom: 56.25%;
+position: relative;
+}
+.youtube iframe{
+position:absolute;
+top:0;
+right:0;
+width:100%;
+height:100%;
+}
+/* カウンターの初期化 */
+.wpp-list {
+    counter-reset: wpp-ranking;
+}
+/* カウンターの値を表示 */
+.wpp-list li:before {
+    content: counter(wpp-ranking, decimal);
+    counter-increment: wpp-ranking;
+}
+.wpp-list li {
+    position: relative;
+    list-style-type: none;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.wpp-list li:before {
+    content: counter(wpp-ranking, decimal);
+    counter-increment: wpp-ranking;
+    background: rgba(94, 185, 77, 0.9);
+    color: #fff;
+    font-size: 14px;
+    line-height: 1;
+    padding: 4px 8px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+.wpp-list li:nth-child(1):before {
+    background: rgba(255, 88, 196, 0.9);
+}
+.wpp-list li:nth-child(2):before {
+    background: rgba(245, 171, 31, 0.9);
+}
+.wpp-list li:nth-child(3):before {
+    background: rgba(255, 121, 37, 0.9);
+}			</style>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2707498479865346",
+          enable_page_level_ads: true
+     });
+</script></head>
+
+<body class="post-template-default single single-post postid-15667 single-format-standard custom-background">
+<div id="bars">
+	<div id="bars-innner">今、何が一番稼げる！？仮想通貨や株式、FX、不動産など稼げる投資系の最新情報が集まる口コミ情報サイトです！</div>
+</div>
+<header>
+
+<!-- ヘッダー画像 -->
+<div class="header-img" style="background-color:
+">
+<a href="http://trade-center.info"><img src="http://trade-center.info/wp-content/uploads/2018/09/trade_center.png" alt="稼げる投資系口コミ情報サイト【Trade Center】" title="稼げる投資系口コミ情報サイト【Trade Center】"></a>
+
+</div><!-- /.header-images -->
+</header><!-- /.header -->
+
+<!-- globalナビ -->
+<nav id="global">
+<ul id="menu-%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="http://trade-center.info/">ホーム</a></li>
+<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-343"><a href="http://trade-center.info/?cat=408">最新トレンド動画</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://trade-center.info/?cat=3">仮想通貨</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://trade-center.info/?cat=4">FX</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-344"><a href="http://trade-center.info/?cat=312">バイナリーオプション</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://trade-center.info/?cat=5">株式取引</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://trade-center.info/?cat=6">不動産</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://trade-center.info/?cat=7">金融</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://trade-center.info/?cat=8">保険</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://trade-center.info/?page_id=3">利用規約</a></li>
+</ul></nav>
+<div id="container" class="clearfix">
+
+
+<div id="contents">
+
+<!-- パンくずリスト -->
+<div class="breadcrumb">
+<nav class="breadcrumbs">
+<ul class="breadcrumbs-in" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="bcl-first" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="http://trade-center.info"><span itemprop="name">稼げる投資系口コミ情報サイト【Trade Center】 TOP</span></a>
+	<meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+	<a itemprop="item" href="http://trade-center.info/?cat=408"><span itemprop="name">最新トレンド動画（trend-movie）</span></a>
+	<meta itemprop="position" content="2" />
+</li>
+<li class="bcl-last">Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 &#8211; Crypto Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】</li>
+</ul>
+</nav>
+</div>
+<!-- パンくずリスト -->
+<article id="main">
+<div id="mainwrap">
+	<div id="news">
+		<h3><div>スポンサードリンク</div></h3><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Trade Center -->
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-2707498479865346" data-ad-slot="8477465795" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>	</div>
+
+<div id="gallery">
+
+<!-- 記事 -->
+<!-- 記事本文 -->
+<h1><a href="http://trade-center.info/?p=15667">Bitcoin : Lower High Sell Off- Part 2. Altcoins Follow. Episode 295 &#8211; Crypto Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】</a></h1>
+<div class="videosize">
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/CA6qGPrwEu0?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p>Multistreaming with https://restream.io/</p>
+<p>&#x1f680; Send a Tip to the Streamer &#x1f680;<br />
+(NOTE: MAKE SURE TO ENTER YOUR USERNAME or you will show up as an &#8220;Anonymous&#8221; donor.)</p>
+<p>Support the stream with fiat: https://streamelements.com/lordray/tip<br />
+Tip with cryptocurrency: https://streamlabs.com/pmray23</p>
+<p>Join Our Official Discord at: https://www.mitchrayta.com/discord</p>
+<p>MitchRay23@gmail.com<br />
+Twitter.com/LordRay23<br />
+Patreon.com/LordRay</p>
+<p>&#x1f4dc; DISCLAIMER<br />
+Do NOT trade based on what you see in this analysis.TA with Mitch Ray that produced this analysis are not to be held responsible for any losses that may occur. You and you alone are responsible for deciding if you are comfortable accepting the risk involved in trading. You should only trade based on your knowledge, experience, and risk as a trader. This information is for educational purpose only. Trading in any market contains a high degree of risk. It is possible and EXTREMELY likely that you will lose some if not all of your initial investment. Mitch Ray, that produced this analysis is not a licensed financial planner or adviser. If you are unsure of anything in the financial market, always seek advice from a licensed financial planner or adviser. Any and ALL content published by TA with Mitch Ray and/or affiliates should be NOT be considered financial advice. Invest at your own risk and as always, do your own research!</p>
+</div>
+
+
+<div id="news-bottom">
+	<div class="widget">			<div class="textwidget"><div id="su_carousel_5c7c155b5b1ea" class="su-carousel su-carousel-centered su-carousel-pages-no su-carousel-responsive-yes" style="width:100%" data-autoplay="2500" data-speed="100" data-mousewheel="true" data-items="5" data-scroll="1"><div class="su-carousel-slides"><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21296" title="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/c81b1aeb7edd972f79d1337a14762e4b-1-102x100.jpg" alt="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21305" title="Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/eb859d21a6f748b49a885aeeb364cf92-102x100.jpg" alt="Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21299" title="【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/bca265f9d5097087a1b608a36b6f7d8b-102x100.jpg" alt="【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21302" title="Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-102x100.jpg" alt="Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21279" title="仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-102x100.jpg" alt="仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21288" title="New Free Bitcoin Cloud Mining Site 2019. Earn bitcoin. Free mining bitcoin. Pays 100% Verified − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/09460d66d846be8d50a85f717472dbd5-102x100.jpg" alt="New Free Bitcoin Cloud Mining Site 2019. Earn bitcoin. Free mining bitcoin. Pays 100% Verified − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">New Free Bitcoin Cloud Mining Site 2019. Earn bitcoin. Free mining bitcoin. Pays 100% Verified − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21282" title="【仮想通貨　リップル】レンジから上昇できるか？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/fddd9f982d463937355ced69c1847e9d-102x100.jpg" alt="【仮想通貨　リップル】レンジから上昇できるか？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">【仮想通貨　リップル】レンジから上昇できるか？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21285" title="【仮想通貨　ビットコイン】ヨコヨコからどちらにブレイク？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/4af4156317814db7e7655a18d00f2758-102x100.jpg" alt="【仮想通貨　ビットコイン】ヨコヨコからどちらにブレイク？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">【仮想通貨　ビットコイン】ヨコヨコからどちらにブレイク？！チャート分析３．３ − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21206" title="ETHEREUM  PRICE PREDICTION  | ETHEREUM (ETH) PRICE REVIEW | ETHEREUM PRICE TODAY  3 MARCH − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/82544189fdd243469dd1b29dc0b6552f-102x100.jpg" alt="ETHEREUM  PRICE PREDICTION  | ETHEREUM (ETH) PRICE REVIEW | ETHEREUM PRICE TODAY  3 MARCH − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">ETHEREUM  PRICE PREDICTION  | ETHEREUM (ETH) PRICE REVIEW | ETHEREUM PRICE TODAY  3 MARCH − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21215" title="10 Sự Thật Về Bitcoin Mà Bạn Nên Biết | Blockchain 24h − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/77ed5de479b137ca9d1cb05e61a8ec16-102x100.jpg" alt="10 Sự Thật Về Bitcoin Mà Bạn Nên Biết | Blockchain 24h − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">10 Sự Thật Về Bitcoin Mà Bạn Nên Biết | Blockchain 24h − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21267" title="Start Bitcoin Mining Today | Free Bonus 0.0025 Bitcoin | New Bitcoin Auto Mining Site − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/2769a1205531d32f2bb67207c6175fd3-102x100.jpg" alt="Start Bitcoin Mining Today | Free Bonus 0.0025 Bitcoin | New Bitcoin Auto Mining Site − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Start Bitcoin Mining Today | Free Bonus 0.0025 Bitcoin | New Bitcoin Auto Mining Site − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21270" title="Bitcoin Price Live. BTC and Beer. Episode 378 &#8211; Cryptocurrency Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/5f2294abd8d088dfc5d40a1b35c84239-102x100.jpg" alt="Bitcoin Price Live. BTC and Beer. Episode 378 &#8211; Cryptocurrency Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Bitcoin Price Live. BTC and Beer. Episode 378 &#8211; Cryptocurrency Technical Analysis − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21209" title="New App to Earn Bitcoin In 2019   Bitcoin Claim Pro Free app Bitcoin to Paytm Transfer − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/4dc9db88e7e2971693c8a01094f3de48-102x100.jpg" alt="New App to Earn Bitcoin In 2019   Bitcoin Claim Pro Free app Bitcoin to Paytm Transfer − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">New App to Earn Bitcoin In 2019   Bitcoin Claim Pro Free app Bitcoin to Paytm Transfer − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21212" title="Ripple XRP Will Solve The Music Industry&#8217;s Streaming Monetization Issue &#8211; Scooter Braun SB Projects − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/fe7c165a5156101f958cce0257e190bc-102x100.jpg" alt="Ripple XRP Will Solve The Music Industry&#8217;s Streaming Monetization Issue &#8211; Scooter Braun SB Projects − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Ripple XRP Will Solve The Music Industry&#8217;s Streaming Monetization Issue &#8211; Scooter Braun SB Projects − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21197" title="&#x1f397;FREE&#x1f397;&#x2665;PRIVATE BITCOIN ADDER&#x2665;&#x1f397;BLOCKCHAINE HACK&#x1f397;2019 FREE BTC − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/b3bbe6a4d9a5f059d774d5749fe235f3-102x100.jpg" alt="&#x1f397;FREE&#x1f397;&#x2665;PRIVATE BITCOIN ADDER&#x2665;&#x1f397;BLOCKCHAINE HACK&#x1f397;2019 FREE BTC − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">&#x1f397;FREE&#x1f397;&#x2665;PRIVATE BITCOIN ADDER&#x2665;&#x1f397;BLOCKCHAINE HACK&#x1f397;2019 FREE BTC − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21200" title="THIS CRYPTO GENIUS TELLS WHY MAJOR COMPANIES WILL MAKE BITCOIN A TRILLION DOLLAR INDUSTRY! − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/9adb26bb075978c76e5b7f6f14aae4bd-102x100.jpg" alt="THIS CRYPTO GENIUS TELLS WHY MAJOR COMPANIES WILL MAKE BITCOIN A TRILLION DOLLAR INDUSTRY! − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">THIS CRYPTO GENIUS TELLS WHY MAJOR COMPANIES WILL MAKE BITCOIN A TRILLION DOLLAR INDUSTRY! − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21203" title="【仮想通貨】リップルが上がらない理由　専門家の見解　ビットコイン − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/7bb60dce3a0f9434512d4c1cb6a2da45-102x100.jpg" alt="【仮想通貨】リップルが上がらない理由　専門家の見解　ビットコイン − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">【仮想通貨】リップルが上がらない理由　専門家の見解　ビットコイン − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21179" title="CRYPTOCURRENCY LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS IN 60 SECONDS − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/d4c47096be599c3bf27be37fe2fac002-1-102x100.jpg" alt="CRYPTOCURRENCY LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS IN 60 SECONDS − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">CRYPTOCURRENCY LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS IN 60 SECONDS − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21182" title="Why Ripple (XRP) Might Not Stay On Coinbase For Long! − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/fca772f935452e39c351d2683d3467cf-102x100.jpg" alt="Why Ripple (XRP) Might Not Stay On Coinbase For Long! − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Why Ripple (XRP) Might Not Stay On Coinbase For Long! − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div><div class="su-carousel-slide"><a href="http://trade-center.info/?p=21188" title="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】"><img src="http://trade-center.info/wp-content/uploads/2019/03/c81b1aeb7edd972f79d1337a14762e4b-102x100.jpg" alt="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】" /><span class="su-carousel-slide-title">Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】</span></a></div></div><div class="su-carousel-nav"><div class="su-carousel-direction"><span class="su-carousel-prev"></span><span class="su-carousel-next"></span></div><div class="su-carousel-pagination"></div></div></div>
+</div>
+		</div><div class="widget_text widget"><div class="textwidget custom-html-widget"><!-- admax -->
+<script src="//adm.shinobi.jp/s/59797e7993bb2e826f34bda1ca8922a8"></script>
+<!-- admax --></div></div><div class="widget"><div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+<script src="https://crs.adapf.com/cirqua.js?id=c2DXyVUs" id="cirqua-jssdk"></script></div>
+</div></div>
+<div id="comments">
+  
+
+
+
+
+
+
+
+
+
+<div id="respond">
+<div id="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/?p=15667#respond" style="display:none;">返信をキャンセルする。</a></small>
+</div>
+
+
+<form action="http://trade-center.info/wp-comments-post.php" method="post" id="commentform">
+
+
+<div class="comment-form-author">
+<p><label for="author"><small>名前 <span class="required">(必須)</span></small></label></p>
+<p><input type="text" name="author" id="author" class="w50" value="匿名" onfocus="if (this.value == '匿名') this.value = '';" onblur="if (this.value == '') this.value = '匿名';" size="22" tabindex="1" aria-required='true'></p>
+</div>
+
+<div class="comment-form-mail">
+<p><label for="email"><small>メールアドレス <span class="required">(必須)</span></small></label></p>
+<p><input type="text" name="email" id="email" class="w50" value="" size="22" tabindex="2" aria-required='true'></p>
+</div>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+5段階評価とコメントをお願いします。<br><!--Yasr Visitor Votes Shortcode--><div id="yasr_visitor_votes_15667" class="yasr-visitor-votes"><div id="yasr-visitor-votes-rater-b5cb7c551abb5" class="yasr-rater-stars-visitor-votes" data-rater-postid="15667" data-rating="0" data-rater-starsize="32" data-rater-readonly="false" data-rater-nonce="f35cfa939c" data-issingular="true"></div><span id="yasr-visitor-votes-container-after-stars-b5cb7c551abb5" class='yasr-visitor-votes-after-stars-class'><span class="dashicons dashicons-chart-bar yasr-dashicons-visitor-stats " data-postid="15667" id="yasr-total-average-dashicon-15667"></span><span class="yasr-total-average-container" id="yasr-total-average-text_15667">
+                    [Total: 0 &nbsp; &nbsp;Average: 0/5]
+                </span></span></div><!--End Yasr Visitor Votes Shortcode--><p><textarea name="comment" id="comment" class="w90" cols="58" rows="6" tabindex="4"></textarea></p>
+
+<p class="al-c"><button name="submit" type="submit" id="submit" class="btn btn-form03" tabindex="5" value="Submit Comment" ><span>コメントを書き込む</span></button>
+<input type='hidden' name='comment_post_ID' value='15667' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="831db0d15e" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="2"/></p>
+</form>
+
+</div>
+
+
+ <p class="list-ttl">
+「最新トレンド動画（trend-movie）」カテゴリーの関連記事 </p>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21296" title="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/c81b1aeb7edd972f79d1337a14762e4b-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21296>Bitcoin LIVE | 24/7 BITCOIN STREAMING - TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21305" title="Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/eb859d21a6f748b49a885aeeb364cf92.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21305>Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21299" title="【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/bca265f9d5097087a1b608a36b6f7d8b.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21299>【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21302" title="Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7.jpg 1280w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-320x180.jpg 320w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-768x432.jpg 768w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21302>Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21279" title="仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c.jpg 1280w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-320x180.jpg 320w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-768x432.jpg 768w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21279>仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+ <p class="list-ttl">
+「未分類」カテゴリーの関連記事 </p>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21296" title="Bitcoin LIVE | 24/7 BITCOIN STREAMING &#8211; TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/c81b1aeb7edd972f79d1337a14762e4b-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21296>Bitcoin LIVE | 24/7 BITCOIN STREAMING - TOP TEN CRYPTOS #Bitcoin Ticker − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21305" title="Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/eb859d21a6f748b49a885aeeb364cf92.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21305>Bedava Bitcoin (Free Bitcoin) − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21299" title="【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/bca265f9d5097087a1b608a36b6f7d8b.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21299>【仮想通貨】2019/3/3 イーサリアム(ETH)についての考察 − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21302" title="Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7.jpg 1280w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-320x180.jpg 320w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-768x432.jpg 768w, http://trade-center.info/wp-content/uploads/2019/03/a39b0db20c4b24a80de7d45dd48cbde7-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21302>Israel mengusai seluruh Dunia cukup dengan BITCOIN − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+  <div class="av-wrap">
+     <div class="av-thm">
+        <a href="http://trade-center.info/?p=21279" title="仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】">
+                <img src="http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c.jpg 1280w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-320x180.jpg 320w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-768x432.jpg 768w, http://trade-center.info/wp-content/uploads/2019/03/06225f413a3166c87808bdcdbeeeee5c-640x360.jpg 640w" sizes="(max-width: 1280px) 100vw, 1280px" />                </a></div>
+    	<div class="av-txt"><a href=http://trade-center.info/?p=21279>仮想通貨 ETH 大型アップデートついに実行 イーサリアム − 稼げる投資系口コミ情報サイト【Trade Center】</a>
+    <br /><span class="post-date"><time datetime="2019-03-03" itemprop="datePublished" content="2019-03-03" >2019年3月3日</time></span>
+    </div> 
+</div>
+
+
+
+<div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+<script src="https://crs.adapf.com/cirqua.js?id=c2DXyVUs" id="cirqua-jssdk"></script></div>
+
+</div><!-- /#gallery -->
+
+<!-- 古い記事、新しい記事をタイトル付きで表示 -->
+<div id="pager" class="clearfix">
+<div class="page-left"><a href="http://trade-center.info/?p=15675" rel="prev">The WINKLEVOSS TWINS Know THAT BITCOIN WILL DOMINATE GOLD, STOCK MARKETS In 2019. BTC SECRET TEASED! − 稼げる投資系口コミ情報サイト【Trade Center】</a></div>
+<div class="page-right"><a href="http://trade-center.info/?p=15686" rel="next">HUGE Ethereum News! Incoming Pump In Bitcoin &#038; Crypto Markets?! BTC, ETH, XRP, &#038; Cryptocurrency News − 稼げる投資系口コミ情報サイト【Trade Center】</a></div>
+</div><!-- /#pager -->
+</div><!-- /#mainwrap -->
+</article><!-- /#main -->
+
+<aside id="sidebar">
+<div class="widget"><h3><div>稼げる！ここだけの先取り情報をチェック！</div></h3>			<div class="textwidget"><div class="cirqua-slot" style="display: none;" data-slot-id="KQlwhg8x"></div>
+<p><script src="https://crs.adapf.com/cirqua.js?id=7TAdy4Zg" id="cirqua-jssdk"></script></p>
+</div>
+		</div><div class="widget"><h3><div>稼げる！ノウハウが続々登場！</div></h3>			<div class="textwidget"><p><a  href="https://fx-on.com/re/?i=sMUM9WuJUzl8zKMLtIUn7H0LnVgugJYntZgFXmXKW0o" target="_blank"></p>
+<p  class="m-b-0" style="font-size: 12px; font-weight: bold;">優秀トレーダー＆エンジニアの<br />投資ノウハウを今すぐゲット！</p>
+<p> <img  src="https://fx-on.com/asp/img/banner/port06_200.jpg" alt="FX投資情報コミュニティfx-on.com" width="200px" height="70px"></a><img  border="0" width="1" height="1" src="https://fx-on.com/0.php?p=1&#038;a=166279" class="ext-content" style="display: block;"></p>
+</div>
+		</div><div class="widget">			<div class="textwidget"><p><strong> <span style="color: red;">★今なら無料会員登録するだけで<br />
+どどん！と１００ポイントを贈呈中♪</span></strong></p>
+<p><img class="size-full wp-image-79 aligncenter" src="http://trade-center.info/wp-content/uploads/2018/09/itune_gift.png" alt="" width="350" height="200" /></p>
+</div>
+		</div><div class="widget">			<div class="textwidget"><p><a href="http://trade-center.info/wp-login.php"><img class="aligncenter wp-image-35 size-full" src="http://trade-center.info/wp-content/uploads/2018/09/login.png" alt="" width="290" height="69" /></a></p>
+<p><a href="http://trade-center.info/wp-login.php?action=register"><img class="aligncenter wp-image-36 size-full" src="http://trade-center.info/wp-content/uploads/2018/09/reg.png" alt="" width="290" height="69" /></a></p>
+</div>
+		</div><div class="widget"><h3><div>所有ポイント</div></h3>				<ul>
+						<li>ログインして下さい</li>
+										</ul>
+			</div><div class="widget"><form role="search" method="get" id="searchform" class="searchform" action="http://trade-center.info/">
+				<div>
+					<label class="screen-reader-text" for="s">検索:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="検索" />
+				</div>
+			</form></div>
+<div class="widget">
+<h3><div>稼げる！ツール人気記事</div></h3><!-- cached -->
+<!-- WordPress Popular Posts -->
+
+<ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="http://trade-center.info/?p=212" title="仮想通貨アフィリエイトシステム-MVT-の口コミまとめ" target="_self"><img src="http://trade-center.info/wp-content/uploads/wordpress-popular-posts/212-featured-150x75.png" width="150" height="75" alt="仮想通貨アフィリエイトシステム-MVT-の口コミまとめ" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a>
+<a href="http://trade-center.info/?p=212" title="仮想通貨アフィリエイトシステム-MVT-の口コミまとめ" class="wpp-post-title" target="_self">仮想通貨アフィリエイトシステム-MVT-の口コミまとめ</a>
+</li>
+<li>
+<a href="http://trade-center.info/?p=2409" title="不動産投資収支シミュレーターの口コミまとめ" target="_self"><img src="http://trade-center.info/wp-content/uploads/wordpress-popular-posts/2409-featured-150x75.jpg" width="150" height="75" alt="不動産投資収支シミュレーターの口コミまとめ" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a>
+<a href="http://trade-center.info/?p=2409" title="不動産投資収支シミュレーターの口コミまとめ" class="wpp-post-title" target="_self">不動産投資収支シミュレーターの口コミまとめ</a>
+</li>
+<li>
+<a href="http://trade-center.info/?p=3250" title="【JCB・AMEX版】Go!Go!!スキャルFXの口コミまとめ" target="_self"><img src="http://trade-center.info/wp-content/uploads/wordpress-popular-posts/3250-featured-150x75.jpg" width="150" height="75" alt="【JCB・AMEX版】Go!Go!!スキャルFXの口コミまとめ" class="wpp-thumbnail wpp_cached_thumb wpp_featured" /></a>
+<a href="http://trade-center.info/?p=3250" title="【JCB・AMEX版】Go!Go!!スキャルFXの口コミまとめ" class="wpp-post-title" target="_self">【JCB・AMEX版】Go!Go!!スキャルFXの口コミまとめ</a>
+</li>
+</ul>
+
+</div>
+<div class="widget"><h3><div>FX攻略を学んでみませんか？</div></h3>			<div class="textwidget"><p><iframe src="https://blog.fx-on.com/parts/navi_moneyup_parts.php?fr1=12c7f4&amp;fr2=005bc8&amp;m=3&amp;u=0" frameborder="0" scrolling="no"></iframe></p>
+</div>
+		</div><div class="widget"><h3><div>カテゴリー</div></h3>		<ul>
+	<li class="cat-item cat-item-4"><a href="http://trade-center.info/?cat=4" >FX（foreign-exchange）</a>
+</li>
+	<li class="cat-item cat-item-312"><a href="http://trade-center.info/?cat=312" >バイナリーオプション（binary option）</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://trade-center.info/?cat=6" >不動産（real-estate）</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://trade-center.info/?cat=9" >他お勧め（etcetera-recommendation）</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://trade-center.info/?cat=3" title="[currencyprice currency1=&quot;btc&quot; currency2=&quot;jpy,usd,eur,ltc,eth,gbp,chf,aud,cad,bgn&quot;]">仮想通貨（virtual-currency）</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://trade-center.info/?cat=8" >保険（insurance）</a>
+</li>
+	<li class="cat-item cat-item-408"><a href="http://trade-center.info/?cat=408" >最新トレンド動画（trend-movie）</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://trade-center.info/?cat=1" >未分類</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://trade-center.info/?cat=5" >株式取引（share-transaction）</a>
+</li>
+		</ul>
+</div><div class="widget"><h3><div>最近のコメント</div></h3><ul id="recentcomments"><li class="recentcomments"><a href="http://trade-center.info/?p=19031#comment-51802">BITCOIN — криптовесна не за горами! Чего ждать от Ethereum? Прогноз NEO, Augur(REP), USD/RUB − 稼げる投資系口コミ情報サイト【Trade Center】</a> に <span class="comment-author-link">匿名</span> より</li><li class="recentcomments"><a href="http://trade-center.info/?p=17978#comment-48263">BTCIOT Tutorial &#8211; An extremely low-powered bitcoin price checker/display − 稼げる投資系口コミ情報サイト【Trade Center】</a> に <span class="comment-author-link">匿名</span> より</li><li class="recentcomments"><a href="http://trade-center.info/?p=1#comment-38585">１日１０分でできるＦＸ入門セミナーの口コミまとめ</a> に <span class="comment-author-link">匿名</span> より</li><li class="recentcomments"><a href="http://trade-center.info/?p=15558#comment-38377">あまり知られてないビットコインの誕生秘話 ~The true story of Bitcoin Core~ − 稼げる投資系口コミ情報サイト【Trade Center】</a> に <span class="comment-author-link">匿名</span> より</li><li class="recentcomments"><a href="http://trade-center.info/?p=8757#comment-36318">Roger Ver on Bitcoin Cash Hard Fork: How Bitcoin ABC Won The Hash War − 稼げる投資系口コミ情報サイト【Trade Center】</a> に <span class="comment-author-link">匿名</span> より</li></ul></div><div class="widget"><h3><div>稼げる！リアルタイム差額チェック！</div></h3>			<div class="textwidget"><p><iframe src="https://blog.fx-on.com/parts/cryptcoin/bitcoin_200.php?&amp;w=200&amp;h=450&amp;m=3&amp;u=166279" frameborder="0" scrolling="no"></iframe></p>
+</div>
+		</div><div class="widget"><h3><div>人気の仮想通貨をチェック！</div></h3>			<div class="textwidget"><p>
+      <div class="cp-ticker-widget" id="cp-ticker-widget-btc">
+        <div class="cp-ticker-widget-name">Loading data...</div>
+      </div>
+      <script type="text/javascript">
+        loadTicker(); //load ticker initially
+        setInterval(loadTicker, 3000);  //update ticker initially periodically
+        
+        function loadTicker(){
+          //get data
+          var apiUrl = 'https://api.coincap.io/v2/assets';
+          jQuery.get( apiUrl, function( dataCurrencies ) {
+            //console.log(dataCurrencies);
+            console.log("Data loaded");
+  
+            var currency = 'btc';
+  
+            //find currency
+            for (var currencyId in dataCurrencies.data) {
+              var data = dataCurrencies.data[currencyId];
+              
+              if (data.symbol == currency.toUpperCase()){
+                //currency found
+                
+                var currencyName = data.name;
+                var currencySymbol = data.symbol;
+                var currency_price = parseFloat(data.priceUsd);
+                if (currency_price > 10){
+                  var currency_price_string = currency_price.toFixed(2);
+                } else {
+                  var currency_price_string = currency_price.toFixed(8);
+                }
+                var currency_percent_change_24h = parseFloat(data.changePercent24Hr).toFixed(2);
+                if (currency_percent_change_24h > 0){
+                  var currency_change_24h_color = 'changes-up';
+                  var currency_change_24h_symbol = '&#8679;';
+                } else {
+                  var currency_change_24h_color = 'changes-down';
+                  var currency_change_24h_symbol = '&#8681;';
+                }
+                var lastPrice = jQuery('#cp-ticker-widget-'+currency+' .cp-ticker-widget-pricing-price span').html();
+                if (lastPrice !== undefined){
+                  //console.log(lastPrice + ' ' + currency_price_string);
+                  if (currency_price_string > lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up') }, 300);
+                  } else if (currency_price_string < lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down') }, 300);                  
+                  }
+                }
+                
+                var tickerHtml = ''+ 
+                '<div class="cp-ticker-widget-icon">'+
+                  '<img src="http://trade-center.info/wp-content/plugins/cryptocurrency-prices/images/coins128x128/'+currencySymbol.toLowerCase()+'.png" alt="'+data.name+'">'+
+                '</div>'+
+                '<div class="cp-ticker-widget-name">'+currencyName+'</div>'+
+                '<div class="cp-ticker-widget-pricing">'+
+                  '<div class="cp-ticker-widget-pricing-price">'+
+                    '<i class="fa fa-usd" aria-hidden="true"></i>'+
+                    '<span>'+currency_price_string+'</span>'+
+                  '</div>'+
+                  '<div class="cp-ticker-widget-pricing-change">'+
+                    '<span class="'+currency_change_24h_color+'">'+
+                      ''+currency_change_24h_symbol+' '+currency_percent_change_24h+'%'+
+                    '</span>'+
+                    ' <span class="cp-ticker-widget-period">24H</span>'+
+                  '</div>'+
+                '</div>';
+                       
+                jQuery('#cp-ticker-widget-'+currency).html(tickerHtml);
+              }
+            }
+          });
+        
+        }
+      </script>
+    <br />
+
+      <div class="cp-ticker-widget" id="cp-ticker-widget-xrp">
+        <div class="cp-ticker-widget-name">Loading data...</div>
+      </div>
+      <script type="text/javascript">
+        loadTicker(); //load ticker initially
+        setInterval(loadTicker, 3000);  //update ticker initially periodically
+        
+        function loadTicker(){
+          //get data
+          var apiUrl = 'https://api.coincap.io/v2/assets';
+          jQuery.get( apiUrl, function( dataCurrencies ) {
+            //console.log(dataCurrencies);
+            console.log("Data loaded");
+  
+            var currency = 'xrp';
+  
+            //find currency
+            for (var currencyId in dataCurrencies.data) {
+              var data = dataCurrencies.data[currencyId];
+              
+              if (data.symbol == currency.toUpperCase()){
+                //currency found
+                
+                var currencyName = data.name;
+                var currencySymbol = data.symbol;
+                var currency_price = parseFloat(data.priceUsd);
+                if (currency_price > 10){
+                  var currency_price_string = currency_price.toFixed(2);
+                } else {
+                  var currency_price_string = currency_price.toFixed(8);
+                }
+                var currency_percent_change_24h = parseFloat(data.changePercent24Hr).toFixed(2);
+                if (currency_percent_change_24h > 0){
+                  var currency_change_24h_color = 'changes-up';
+                  var currency_change_24h_symbol = '&#8679;';
+                } else {
+                  var currency_change_24h_color = 'changes-down';
+                  var currency_change_24h_symbol = '&#8681;';
+                }
+                var lastPrice = jQuery('#cp-ticker-widget-'+currency+' .cp-ticker-widget-pricing-price span').html();
+                if (lastPrice !== undefined){
+                  //console.log(lastPrice + ' ' + currency_price_string);
+                  if (currency_price_string > lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up') }, 300);
+                  } else if (currency_price_string < lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down') }, 300);                  
+                  }
+                }
+                
+                var tickerHtml = ''+ 
+                '<div class="cp-ticker-widget-icon">'+
+                  '<img src="http://trade-center.info/wp-content/plugins/cryptocurrency-prices/images/coins128x128/'+currencySymbol.toLowerCase()+'.png" alt="'+data.name+'">'+
+                '</div>'+
+                '<div class="cp-ticker-widget-name">'+currencyName+'</div>'+
+                '<div class="cp-ticker-widget-pricing">'+
+                  '<div class="cp-ticker-widget-pricing-price">'+
+                    '<i class="fa fa-usd" aria-hidden="true"></i>'+
+                    '<span>'+currency_price_string+'</span>'+
+                  '</div>'+
+                  '<div class="cp-ticker-widget-pricing-change">'+
+                    '<span class="'+currency_change_24h_color+'">'+
+                      ''+currency_change_24h_symbol+' '+currency_percent_change_24h+'%'+
+                    '</span>'+
+                    ' <span class="cp-ticker-widget-period">24H</span>'+
+                  '</div>'+
+                '</div>';
+                       
+                jQuery('#cp-ticker-widget-'+currency).html(tickerHtml);
+              }
+            }
+          });
+        
+        }
+      </script>
+    <br />
+
+      <div class="cp-ticker-widget" id="cp-ticker-widget-eth">
+        <div class="cp-ticker-widget-name">Loading data...</div>
+      </div>
+      <script type="text/javascript">
+        loadTicker(); //load ticker initially
+        setInterval(loadTicker, 3000);  //update ticker initially periodically
+        
+        function loadTicker(){
+          //get data
+          var apiUrl = 'https://api.coincap.io/v2/assets';
+          jQuery.get( apiUrl, function( dataCurrencies ) {
+            //console.log(dataCurrencies);
+            console.log("Data loaded");
+  
+            var currency = 'eth';
+  
+            //find currency
+            for (var currencyId in dataCurrencies.data) {
+              var data = dataCurrencies.data[currencyId];
+              
+              if (data.symbol == currency.toUpperCase()){
+                //currency found
+                
+                var currencyName = data.name;
+                var currencySymbol = data.symbol;
+                var currency_price = parseFloat(data.priceUsd);
+                if (currency_price > 10){
+                  var currency_price_string = currency_price.toFixed(2);
+                } else {
+                  var currency_price_string = currency_price.toFixed(8);
+                }
+                var currency_percent_change_24h = parseFloat(data.changePercent24Hr).toFixed(2);
+                if (currency_percent_change_24h > 0){
+                  var currency_change_24h_color = 'changes-up';
+                  var currency_change_24h_symbol = '&#8679;';
+                } else {
+                  var currency_change_24h_color = 'changes-down';
+                  var currency_change_24h_symbol = '&#8681;';
+                }
+                var lastPrice = jQuery('#cp-ticker-widget-'+currency+' .cp-ticker-widget-pricing-price span').html();
+                if (lastPrice !== undefined){
+                  //console.log(lastPrice + ' ' + currency_price_string);
+                  if (currency_price_string > lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up') }, 300);
+                  } else if (currency_price_string < lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down') }, 300);                  
+                  }
+                }
+                
+                var tickerHtml = ''+ 
+                '<div class="cp-ticker-widget-icon">'+
+                  '<img src="http://trade-center.info/wp-content/plugins/cryptocurrency-prices/images/coins128x128/'+currencySymbol.toLowerCase()+'.png" alt="'+data.name+'">'+
+                '</div>'+
+                '<div class="cp-ticker-widget-name">'+currencyName+'</div>'+
+                '<div class="cp-ticker-widget-pricing">'+
+                  '<div class="cp-ticker-widget-pricing-price">'+
+                    '<i class="fa fa-usd" aria-hidden="true"></i>'+
+                    '<span>'+currency_price_string+'</span>'+
+                  '</div>'+
+                  '<div class="cp-ticker-widget-pricing-change">'+
+                    '<span class="'+currency_change_24h_color+'">'+
+                      ''+currency_change_24h_symbol+' '+currency_percent_change_24h+'%'+
+                    '</span>'+
+                    ' <span class="cp-ticker-widget-period">24H</span>'+
+                  '</div>'+
+                '</div>';
+                       
+                jQuery('#cp-ticker-widget-'+currency).html(tickerHtml);
+              }
+            }
+          });
+        
+        }
+      </script>
+    <br />
+
+      <div class="cp-ticker-widget" id="cp-ticker-widget-xem">
+        <div class="cp-ticker-widget-name">Loading data...</div>
+      </div>
+      <script type="text/javascript">
+        loadTicker(); //load ticker initially
+        setInterval(loadTicker, 3000);  //update ticker initially periodically
+        
+        function loadTicker(){
+          //get data
+          var apiUrl = 'https://api.coincap.io/v2/assets';
+          jQuery.get( apiUrl, function( dataCurrencies ) {
+            //console.log(dataCurrencies);
+            console.log("Data loaded");
+  
+            var currency = 'xem';
+  
+            //find currency
+            for (var currencyId in dataCurrencies.data) {
+              var data = dataCurrencies.data[currencyId];
+              
+              if (data.symbol == currency.toUpperCase()){
+                //currency found
+                
+                var currencyName = data.name;
+                var currencySymbol = data.symbol;
+                var currency_price = parseFloat(data.priceUsd);
+                if (currency_price > 10){
+                  var currency_price_string = currency_price.toFixed(2);
+                } else {
+                  var currency_price_string = currency_price.toFixed(8);
+                }
+                var currency_percent_change_24h = parseFloat(data.changePercent24Hr).toFixed(2);
+                if (currency_percent_change_24h > 0){
+                  var currency_change_24h_color = 'changes-up';
+                  var currency_change_24h_symbol = '&#8679;';
+                } else {
+                  var currency_change_24h_color = 'changes-down';
+                  var currency_change_24h_symbol = '&#8681;';
+                }
+                var lastPrice = jQuery('#cp-ticker-widget-'+currency+' .cp-ticker-widget-pricing-price span').html();
+                if (lastPrice !== undefined){
+                  //console.log(lastPrice + ' ' + currency_price_string);
+                  if (currency_price_string > lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up') }, 300);
+                  } else if (currency_price_string < lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down') }, 300);                  
+                  }
+                }
+                
+                var tickerHtml = ''+ 
+                '<div class="cp-ticker-widget-icon">'+
+                  '<img src="http://trade-center.info/wp-content/plugins/cryptocurrency-prices/images/coins128x128/'+currencySymbol.toLowerCase()+'.png" alt="'+data.name+'">'+
+                '</div>'+
+                '<div class="cp-ticker-widget-name">'+currencyName+'</div>'+
+                '<div class="cp-ticker-widget-pricing">'+
+                  '<div class="cp-ticker-widget-pricing-price">'+
+                    '<i class="fa fa-usd" aria-hidden="true"></i>'+
+                    '<span>'+currency_price_string+'</span>'+
+                  '</div>'+
+                  '<div class="cp-ticker-widget-pricing-change">'+
+                    '<span class="'+currency_change_24h_color+'">'+
+                      ''+currency_change_24h_symbol+' '+currency_percent_change_24h+'%'+
+                    '</span>'+
+                    ' <span class="cp-ticker-widget-period">24H</span>'+
+                  '</div>'+
+                '</div>';
+                       
+                jQuery('#cp-ticker-widget-'+currency).html(tickerHtml);
+              }
+            }
+          });
+        
+        }
+      </script>
+    <br />
+
+      <div class="cp-ticker-widget" id="cp-ticker-widget-mona">
+        <div class="cp-ticker-widget-name">Loading data...</div>
+      </div>
+      <script type="text/javascript">
+        loadTicker(); //load ticker initially
+        setInterval(loadTicker, 3000);  //update ticker initially periodically
+        
+        function loadTicker(){
+          //get data
+          var apiUrl = 'https://api.coincap.io/v2/assets';
+          jQuery.get( apiUrl, function( dataCurrencies ) {
+            //console.log(dataCurrencies);
+            console.log("Data loaded");
+  
+            var currency = 'mona';
+  
+            //find currency
+            for (var currencyId in dataCurrencies.data) {
+              var data = dataCurrencies.data[currencyId];
+              
+              if (data.symbol == currency.toUpperCase()){
+                //currency found
+                
+                var currencyName = data.name;
+                var currencySymbol = data.symbol;
+                var currency_price = parseFloat(data.priceUsd);
+                if (currency_price > 10){
+                  var currency_price_string = currency_price.toFixed(2);
+                } else {
+                  var currency_price_string = currency_price.toFixed(8);
+                }
+                var currency_percent_change_24h = parseFloat(data.changePercent24Hr).toFixed(2);
+                if (currency_percent_change_24h > 0){
+                  var currency_change_24h_color = 'changes-up';
+                  var currency_change_24h_symbol = '&#8679;';
+                } else {
+                  var currency_change_24h_color = 'changes-down';
+                  var currency_change_24h_symbol = '&#8681;';
+                }
+                var lastPrice = jQuery('#cp-ticker-widget-'+currency+' .cp-ticker-widget-pricing-price span').html();
+                if (lastPrice !== undefined){
+                  //console.log(lastPrice + ' ' + currency_price_string);
+                  if (currency_price_string > lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-up') }, 300);
+                  } else if (currency_price_string < lastPrice){
+                    jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down');
+                    setTimeout(function(){ jQuery('#cp-ticker-widget-'+currency).toggleClass('changes-down') }, 300);                  
+                  }
+                }
+                
+                var tickerHtml = ''+ 
+                '<div class="cp-ticker-widget-icon">'+
+                  '<img src="http://trade-center.info/wp-content/plugins/cryptocurrency-prices/images/coins128x128/'+currencySymbol.toLowerCase()+'.png" alt="'+data.name+'">'+
+                '</div>'+
+                '<div class="cp-ticker-widget-name">'+currencyName+'</div>'+
+                '<div class="cp-ticker-widget-pricing">'+
+                  '<div class="cp-ticker-widget-pricing-price">'+
+                    '<i class="fa fa-usd" aria-hidden="true"></i>'+
+                    '<span>'+currency_price_string+'</span>'+
+                  '</div>'+
+                  '<div class="cp-ticker-widget-pricing-change">'+
+                    '<span class="'+currency_change_24h_color+'">'+
+                      ''+currency_change_24h_symbol+' '+currency_percent_change_24h+'%'+
+                    '</span>'+
+                    ' <span class="cp-ticker-widget-period">24H</span>'+
+                  '</div>'+
+                '</div>';
+                       
+                jQuery('#cp-ticker-widget-'+currency).html(tickerHtml);
+              }
+            }
+          });
+        
+        }
+      </script>
+    </p>
+</div>
+		</div><div class="widget"><h3><div>★稼いで気分がいいのでBTCでおごります！</div></h3>	<div id="give-form-9852-wrap" class="give-form-wrap give-display-onpage">
+		<h2 class="give-form-title">BTC寄付</h2>			<form id="give-form-9852-1" class="give-form give-form-9852 give-form-type-multi" action="http://trade-center.info/?p=15667&payment-mode=gourl" data-id="9852-1" data-currency_symbol="BTC" data-currency_code="BTC" data-currency_position="before" data-thousands_separator="," data-decimal_separator="." data-number_decimals="4" method="post">
+				<!-- The following field is for robots only, invisible to humans: -->
+				<span class="give-hidden" style="display: none !important;">
+					<label for="give-form-honeypot-9852"></label>
+					<input id="give-form-honeypot-9852" type="text" name="give-honeypot"
+					       class="give-honeypot give-hidden"/>
+				</span>
+
+					<input type="hidden" name="give-form-id-prefix" value="9852-1"/>
+	<input type="hidden" name="give-form-id" value="9852"/>
+	<input type="hidden" name="give-form-title" value="BTC寄付"/>
+	<input type="hidden" name="give-current-url" value="http://trade-center.info/?p=15667"/>
+	<input type="hidden" name="give-form-url" value="http://trade-center.info/?p=15667"/>
+			<input type="hidden" name="give-form-minimum"
+			   value="0.0001"/>
+		<input type="hidden" name="give-form-maximum"
+			   value="999999.9900"/>
+		<input type="hidden"  name="give-form-hash" value="e8657940a5" data-time="1551635803" data-nonce-life="86400" data-donor-session="0"/><input type="hidden" name="give-price-id" value="0"/>		<div class="give-total-wrap">
+			<div class="give-donation-amount form-row-wide">
+				<span class="give-currency-symbol give-currency-position-before">BTC</span>				<label class="give-hidden" for="give-amount">Donation Amount:</label>
+				<input class="give-text-input give-amount-top" id="give-amount" name="give-amount" type="tel"
+					   placeholder="" value="0.0001" autocomplete="off">
+							</div>
+		</div>
+		<ul id="give-donation-level-button-wrap" class="give-donation-levels-wrap give-list-inline"><li><button type="button" data-price-id="0" class="give-donation-level-btn give-btn give-btn-level-0 give-default-level" value="0.0001" data-default="1">缶コーヒー</button></li><li><button type="button" data-price-id="1" class="give-donation-level-btn give-btn give-btn-level-1 " value="0.0003" data-default="0">スタバのラテ</button></li><li><button type="button" data-price-id="2" class="give-donation-level-btn give-btn give-btn-level-2 " value="0.0010" data-default="0">1人でランチ</button></li><li><button type="button" data-price-id="3" class="give-donation-level-btn give-btn give-btn-level-3 " value="0.0100" data-default="0">家族でディナー</button></li><li><button type="button" data-price-id="4" class="give-donation-level-btn give-btn give-btn-level-4 " value="0.0500" data-default="0">両親と旅行</button></li><li><button type="button" data-price-id="custom" class="give-donation-level-btn give-btn give-btn-level-custom" value="custom">金額を設定する</button></li></ul>
+	<fieldset id="give-payment-mode-select"
+		style="display: none;"	>
+				<legend
+			class="give-payment-mode-label">Select Payment Method			<span class="give-loading-text"><span
+					class="give-loading-animation"></span>
+			</span>
+		</legend>
+
+		<div id="give-payment-mode-wrap">
+						<ul id="give-gateway-radio-list">
+									<li class="give-gateway-option-selected">
+						<input type="radio" name="payment-mode" class="give-gateway"
+							   id="give-gateway-gourl-9852-1"
+							   value="gourl" checked='checked'>
+
+												<label for="give-gateway-gourl-9852-1"
+							   class="give-gateway-option"
+							   id="give-gateway-option-gourl"> Bitcoin/Altcoins</label>
+					</li>
+							</ul>
+					</div>
+			</fieldset>
+
+	
+	<div id="give_purchase_form_wrap">
+
+			<fieldset id="give_checkout_user_info" class="">
+		<legend>
+			Personal Info		</legend>
+
+		
+		<p id="give-first-name-wrap" class="form-row form-row-first form-row-responsive">
+			<label class="give-label" for="give-first">
+				First Name									<span class="give-required-indicator">*</span>
+								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+			<input
+				class="give-input required"
+				type="text"
+				name="give_first"
+				autocomplete="given-name"
+				placeholder="First Name"
+				id="give-first"
+				value=""
+				 required aria-required="true" 			/>
+		</p>
+
+		<p id="give-last-name-wrap" class="form-row form-row-last form-row-responsive">
+			<label class="give-label" for="give-last">
+				Last Name								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will use this as well to personalize your account experience." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+
+			<input
+				class="give-input"
+				type="text"
+				name="give_last"
+				autocomplete="family-name"
+				id="give-last"
+				placeholder="Last Name"
+				value=""
+							/>
+		</p>
+
+		
+				<p id="give-email-wrap" class="form-row form-row-wide">
+			<label class="give-label" for="give-email">
+				Email Address									<span class="give-required-indicator">*</span>
+								<span class="give-tooltip hint--top hint--medium hint--bounce" aria-label="We will send the donation receipt to this address." rel="tooltip"><i class="give-icon give-icon-question"></i></span>			</label>
+			<input
+				class="give-input required"
+				type="email"
+				name="give_email"
+				autocomplete="email"
+				placeholder="Email Address"
+				id="give-email"
+				value=""
+				 required aria-required="true" 			/>
+
+		</p>
+
+		
+					</fieldset>
+		<fieldset id="give_purchase_submit" class="give-donation-submit">
+			<p id="give-final-total-wrap" class="form-wrap ">
+				<span class="give-donation-total-label">
+			Donation Total:		</span>
+		<span class="give-final-total-amount"
+			  data-total="0.0001">
+			BTC 0.0001		</span>
+			</p>
+		<input type="hidden" name="give_action" value="purchase"/>
+	<input type="hidden" name="give-gateway" value="gourl"/>
+		<div class="give-submit-button-wrap give-clearfix">
+		<input type="submit" class="give-submit give-btn" id="give-purchase-button" name="give-purchase"
+			   value="寄付します！" data-before-validation-label="寄付します！"/>
+		<span class="give-loading-animation"></span>
+	</div>
+		</fieldset>
+	
+	</div>
+
+				</form>
+
+			
+	</div><!--end #give-form-9852-->
+	</div><div class="widget_text widget"><h3><div>稼げる！SEO強化最新テーマ</div></h3><div class="textwidget custom-html-widget"><a href="https://px.a8.net/svt/ejp?a8mat=2ZRI6O+4HCLKQ+3Q2O+60H7L" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=181002192271&wid=006&eno=01&mid=s00000017376001010000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2ZRI6O+4HCLKQ+3Q2O+60H7L" alt=""></div></div><div class="widget">			<div class="textwidget"><p><a href="//blog.with2.net/link/?1979150:1539"><img title="金融・投資(全般)ランキング" src="https://blog.with2.net/img/banner/c/banner_1/br_c_1539_1.gif" /></a><br />
+<a style="font-size: 0.9em;" href="//blog.with2.net/link/?1979150:1539">金融・投資(全般)ランキング</a><br />
+<a href="//fx.blogmura.com/fxtool/ranking.html"><img src="//fx.blogmura.com/fxtool/img/fxtool88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 為替ブログ FXツール徹底検証へ" /></a><br /><a href="//fx.blogmura.com/fxtool/ranking.html">にほんブログ村</a></p>
+</div>
+		</div>	
+</aside><!-- /#sidebar -->
+
+<!-- サイドバー -->
+
+</div><!-- /#contents -->
+
+</div>
+<footer>
+
+<span class="totop" style="background:#000000"><a href="#top" style="background-color:#000000">↑ TOP</a></span>
+
+<address style="background-color:#000000">Copy Right &copy; <a href="http://trade-center.info">2019 稼げる投資系口コミ情報サイト【Trade Center】</a> All Rights Reserved.</address>
+</footer>
+
+<script src="https://crs.adapf.com/cirqua.js?id=c2DXyVUs" id="cirqua-jssdk"></script><script>
+/* <![CDATA[ */
+var rcGlobal = {
+	serverUrl		:'http://trade-center.info',
+	infoTemp		:'%REVIEWER% on %POST%',
+	loadingText		:'Loading',
+	noCommentsText	:'No comments',
+	newestText		:'&laquo; Newest',
+	newerText		:'&laquo; Newer',
+	olderText		:'Older &raquo;',
+	showContent		:'1',
+	external		:'1',
+	avatarSize		:'32',
+	avatarPosition	:'left',
+	anonymous		:'Anonymous'
+};
+/* ]]> */
+</script>
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='su-shortcodes-css'  href='http://trade-center.info/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/wp-recentcomments/js/wp-recentcomments.js?ver=2.2.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/trade-center.info\/index.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min.js?ver=2.2.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var stockTickerJs = {"ajax_url":"http:\/\/trade-center.info\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/stock-ticker/assets/js/jquery.stockticker.min.js?ver=3.0.5.4'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/yet-another-stars-rating/js/rater-js.js?ver=1.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yasrCommonData = {"postid":"15667","ajaxurl":"http:\/\/trade-center.info\/wp-admin\/admin-ajax.php","loggedUser":"","visitorStatsEnabled":"yes","tooltipValues":["bad","poor","ok","good","super"],"loaderHtml":"<div id=\"loader-visitor-rating\" style=\"display: inline\">\u00a0  <img src=http:\/\/trade-center.info\/wp-content\/plugins\/yet-another-stars-rating\/img\/loader.gif title=\"yasr-loader\" alt=\"yasr-loader\"><\/div>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/yet-another-stars-rating/js/yasr-front.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/yet-another-stars-rating/js/tippy.all.min.js?ver=3.6.0'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script async="async" type='text/javascript' src='http://trade-center.info/wp-content/plugins/akismet/_inc/form.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/shortcodes-ultimate/assets/js/swiper.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://trade-center.info/wp-content/plugins/shortcodes-ultimate/assets/js/galleries-shortcodes.js?ver=5.3.0'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0.1',blog:'151540949',post:'15667',tz:'9',srv:'trade-center.info'} ]);
+	_stq.push([ 'clickTrackerInit', '151540949', '15667' ]);
+</script>
+</body>
+</html>
+
+
+
+

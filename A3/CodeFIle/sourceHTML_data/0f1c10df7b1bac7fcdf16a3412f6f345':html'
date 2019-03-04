@@ -1,0 +1,1541 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>
+<html id="seedrs" lang="en-US" class="no-js seedrs ie8andlower ie8 fluid-grid">
+<![endif]-->
+<!--[if IE 9 ]>
+<html id="seedrs" lang="en-US" class="no-js seedrs ie9 fluid-grid">
+<![endif]-->
+<!--[if !IE]><!--><html id="seedrs" lang="en-US" class="seedrs no-js fluid-grid"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<script src="/assets/gulp/jquery-6cd4c4dee184e673759d7df48c9eee309a0980c5bae751770d2e0b6fe0aaed24.js"></script>
+<script>
+//<![CDATA[
+if (window != top) { top.location.href = location.href; }
+
+//]]>
+</script>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>HubrisOne | SEIS Crowdfunding Investment | Seedrs</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LUUHY7p+hlCbWMNLKuG22wB2M+0Qn+AhAXJcsAn93mFNAnR228Id1QLyAVl5rBt8T2Wm1wX0Up26DT58f0vXQw==" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.seedrs.com/","name":"Seedrs"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.seedrs.com/invest","name":"Investment Opportunities"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.seedrs.com/hubrisone1","name":"HubrisOne"}}]}</script>
+
+<meta content="summary_large_image" property="twitter:card">
+<meta content="https://seedrs.imgix.net/uploads/startup/summary/cover_image/28464/ixwoks07zferkwmxiqtkuuu2a7b6b6b/Add_heading__6_.png?rect=0%2C0%2C1920%2C1079&w=370&h=208&fit=crop&s=b6dc92e9c7b4e378827f8595708fd9a1" property="twitter:image">
+<meta content="@Seedrs" property="twitter:site">
+<meta content="@Seedrs" property="twitter:creator">
+<meta content="HubrisOne | Seedrs" property="twitter:title">
+<meta content="When investing, capital is at risk. We're making blockchain technology, cryptocurrencies, and basic banking services available to all." property="twitter:description">
+<meta content="HubrisOne" property="og:title">
+<meta content="website" property="og:type">
+<meta content="https://seedrs.imgix.net/uploads/startup/summary/cover_image/28464/ixwoks07zferkwmxiqtkuuu2a7b6b6b/Add_heading__6_.png?q=100&amp;s=7d08edda306f728d6530fd5dc2051f5c" property="og:image">
+<meta content="https://www.seedrs.com/hubrisone1" property="og:url">
+<meta content="When investing, capital is at risk. We're making blockchain technology, cryptocurrencies, and basic banking services available to all." property="og:description">
+
+<!-- Analytical Init: Google -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-18059374-3', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  var match = document.cookie.match(new RegExp('(^| )ignored_referrer=([^;]+)'));
+  if (match && decodeURIComponent(match[2]) === document.referrer) {
+    ga('set', 'referrer', window.location.origin);
+  }
+  var userId = document.cookie.replace(/(?:(?:^|.*; *)external_user_id *= *([^;]*).*$)|^.*$/, "$1");
+  if(userId.length > 0) {
+    ga('set', 'userId', userId);
+  }
+
+  // Optimizely Universal Analytics Integration Code
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");
+
+  ga('send', 'pageview');
+</script>
+          <!-- Analytical Init: Sift Science -->
+          <script type="text/javascript">
+            var _sift = _sift || [];
+            _sift.push(['_setAccount', '5ccaac1218']);
+
+            (function() {
+              function ls() {
+                var e = document.createElement('script');
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(e, s);
+              }
+              if (window.attachEvent) {
+                window.attachEvent('onload', ls);
+              } else {
+                window.addEventListener('load', ls, false);
+              }
+            })();
+          </script>
+
+<script type="text/javascript">
+var Analytical = {
+  identify: function(id, options) {
+    if (options) {
+      mixpanel.people.set(options);
+      if (options.name) {
+        mixpanel.name_tag(options.name);
+      }
+    }
+    mixpanel.identify(id);
+  },
+  track: function(page, options) {
+    ga('send', 'pageview', page, options || {});
+  },
+  event: function(name, options, callback) {
+    ga('send', 'event', name, options && options.action || 'undefined', JSON.stringify(options), options && options.value);
+    
+    var gtmVariables = {};
+    for (var k in options) {
+      gtmVariables[k] = options[k];
+    }
+    gtmVariables.event = name;
+    gtmDataLayer.push(gtmVariables);
+    
+    mixpanel.track(name, options || {});
+  },
+  set: function(properties) {
+    mixpanel.register(properties);
+    
+    if (properties) {
+      _sift.push(['_setUserId', properties.user_id]);
+      _sift.push(['_setSessionId', properties.session_id]);
+      _sift.push(['_trackPageview']);
+    }
+  },
+  reset: function(properties) {
+    mixpanel.reset();
+  },
+  alias_identity: function(old_identity, new_identity) {
+    mixpanel.alias(new_identity);
+  }
+};
+</script>
+
+<script src="/assets/gulp/modernizr-5b8c50b3e064b15205a43617a20142980fc369f92160ad87808c933029d8a337.js"></script>
+<script>
+//<![CDATA[
+window.M = Modernizr;
+
+//]]>
+</script><script>
+//<![CDATA[
+(function(d, u) {
+var h = d.querySelector('html'), signed_in_status = d.cookie.match(/signed_in_status\s*\=\s*([^;]*)/);
+if (d.querySelector && signed_in_status !== null) {
+h.className += signed_in_status.length && signed_in_status[1] == 'incomplete' ? ' incomplete-signed-in' :' complete-signed-in';
+}
+h.className += u.match(/iphone os/gi) ? ' ios' : ' no-ios';
+h.className += u.match(/trident/gi) ? ' trident' : ' no-trident';
+h.className += u.match(/webkit/gi) ? ' webkit' : ' no-webkit';
+document.write('<'+'style id="max-80vh">');
+if (h.className.match(/\strident\s/) && document.documentMode <= 10 && document.documentElement.clientWidth > 600) {
+document.write('.max-80vh, .Modal { max-height: ' + document.documentElement.clientHeight * 0.8 +'px !important; }');
+}
+document.write('<'+'/style>');
+})(document, navigator.userAgent);
+
+//]]>
+</script>
+<link rel="stylesheet" media="all" href="/assets/gulp/base-e599378bdfd64463b30bd181eebe99791436c08dcf8822e5e074c0a28961e08b.css" />
+<link rel="stylesheet" media="only screen and (max-width: 37.46em)" href="/assets/gulp/small-d538f40530d781a7c43792aa1bb883edd3a73caa0469085e4fab656e3f7dd943.css" />
+<link rel="stylesheet" media="only screen and (min-width: 37.5em)" href="/assets/gulp/medium_and_large-34c6ba9e9bb1a083ddaf7fcc3b52c7c5147fdf5faa6edca302c5deda683b7fb1.css" />
+<link rel="stylesheet" media="only screen and (min-width: 37.5em) and (max-width: 59.3125em)" href="/assets/gulp/medium-dd44e0ecbaa4187a10e2a1e57a6ab080d3e0d163e484b914076819b48d82dd2c.css" />
+<link rel="stylesheet" media="only screen and (min-width: 59.375em)" href="/assets/gulp/large-7c9abd2c51cc408267e94247c382d23331f9680fd6c66a52b48a6df624f5635a.css" />
+<link rel="stylesheet" media="screen" href="/assets/gulp/main_nav-8b72dbac850fb4228b9585a00af3a5e19e751d73392451d6310ed48a7567811e.css" />
+<link rel="stylesheet" media="screen" href="/assets/gulp/icon_set-a7fe081bfe2cae221a1e9e32727c9ad361c8f192942736d80f6eba52fef9d70c.css" />
+
+
+<link rel="stylesheet" media="screen" href="/assets/gulp/liquid_campaign_show-18d1ffc2cbb1348102b91a352e26ece68ec3ecab92b5e47e44415e64a5ce8e57.css" />
+
+<link href="https://www.seedrs.com/hubrisone1" rel="canonical">
+<link href="/seedrs_32.png" rel="icon" sizes="32x32">
+<link href="/seedrs-xicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<script src="//use.typekit.com/gmd7txr.js"></script>
+<script>
+//<![CDATA[
+try{Typekit.load();}catch(e){}
+//]]>
+</script>
+<script>
+//<![CDATA[
+/*eslint-disable */
+var _prum = [['id', '5204f407abe53d3c18000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0],
+        p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+/*eslint-enable */
+
+
+//]]>
+</script><script src="//assets.seedrs.com/vwo/_vwo.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "FinancialService",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Churchill House, 142-146 Old Street",
+    "addressRegion": "London",
+    "postalCode": "EC1V 9BW"
+  },
+  "hasMap": "https://www.google.co.uk/maps/place/Churchill+House,+142-146+Old+St,+London+EC1V+9BW/@51.5248697,-0.0938118,17z",
+  "description": "Seedrs makes it simple for you to buy into businesses you believe in and share in their success",
+  "name": "Seedrs",
+  "logo": "https://www.seedrs.com/build/images/logos/seedrs-default-logo.svg",
+  "image": "https://www.seedrs.com/build/images/logos/seedrs-default-logo.svg",
+  "url" : "https://www.seedrs.com/",
+  "sameAs" : [
+    "https://www.facebook.com/Seedrs",
+    "https://twitter.com/Seedrs",
+    "https://plus.google.com/+SeedrsCrowdfunding",
+    "https://www.linkedin.com/company/seedrs"
+  ]
+}
+</script>
+
+</head>
+<body class="public-layout campaigns listing_show fluid-grid public_campaigns_show is-secondaryMarketClosed" id="public_campaigns_show">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W2MBHF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmDataLayer','GTM-W2MBHF');</script>
+<!-- End Google Tag Manager -->
+
+<div class="MainNav-offCanvasWrap">
+<div class="FlashMessage" id="cookie_message" style="display:none">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="FlashMessage-content">
+Seedrs uses cookies to make the site simpler.
+<a target="_blank" href="/privacy_notice#cookies">Find out more about cookies</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="FlashMessage" id="flash_message"><div class="grid-container-wrapper" id="flash_message_container"><div class="grid-container"><div class="FlashMessage-content" id="flash_content"></div><a class="FlashMessage-closeButton close_button" href="#close_message">
+<i class="i-close InlineSVG"></i>
+<span class="assist">Close</span>
+</a></div></div></div>
+<div class="site">
+<header class="site-header">
+<div class="skip-links">
+<p>Jump to:</p>
+<ul>
+<li>
+<a href="#navigation">Navigation</a>
+</li>
+<li>
+<a href="#content">Content</a>
+</li>
+<li>
+<a href="#footer">Footer</a>
+</li>
+</ul>
+</div>
+
+<div class="grid-container-wrapper MainNavWrapper">
+<div class="MainNavContainer" data-async-user-details-path="/users/async_details" id="main_nav">
+<div class="MainNav-logo">
+<a href="/">
+<span class="MainNav-logoImage">Seedrs</span>
+</a>
+</div>
+<nav class="MainNav">
+<div class="MainNav-forSmallOnly">
+<ul class="MainNav-triggers">
+<li>
+<button class="MainNav-openSections MainNav-menuIcon">
+<i class="i-menu InlineSVG menu-icon"></i>
+<i class="i-ic-close InlineSVG"></i>
+<span class="assistive">Menu</span>
+</button>
+</li>
+<li>
+<button class="MainNav-openUser user MainNav-menuIcon">
+<span class="ratio ratio-1x1"><span class="Avatar is-extraSmall">
+<img class="Gravatar" alt="Profile picture" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+<span class="initials"></span>
+</span>
+<img class="Avatar is-extraSmall" alt="Profile picture" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</span>
+<i class="i-ic-close InlineSVG"></i>
+</button>
+</li>
+<li>
+<button class="MainNav-openUser visitor MainNav-menuIcon">
+<i class="i-ic-person InlineSVG"></i>
+<i class="i-ic-close InlineSVG"></i>
+<span class="assistive">Person</span>
+</button>
+</li>
+<li class="incomplete">
+<a class="MainNav-triggerIncomplete" href="/logout">Log out</a>
+</li>
+</ul>
+</div>
+<ul>
+<li class="MainNav-sections">
+<span class="assistive">Sections</span>
+<ul class="MainNav-topLevel">
+<li class="MainNav-dropdownContainer is-highlighted">
+<a class="MainNav-forLargeOnly MainNav-triggerDropdown" href="/invest">
+Investor
+</a>
+<span class="menu-subtitle MainNav-forSmallOnly">
+<a class="MainNav-title-link" href="/invest">
+Investor
+</a>
+</span>
+<ul class="MainNav-dropdown lowest-title">
+<li><a href="/invest">Invest</a></li>
+<li>
+<a class="MainNav-secondaryMarketLink sm-link-tracker" data-sm-from="main-nav" href="/secondary-market"><span>Secondary Market</span>
+<span class="secondary-market-beta">BETA</span>
+</a></li>
+<li><a href="/how-to-invest-in-startups">How it works</a></li>
+<li><a href="https://help.seedrs.com">Help centre</a></li>
+</ul>
+</li>
+<li class="MainNav-dropdownContainer">
+<a class="MainNav-forLargeOnly MainNav-triggerDropdown" href="/raise">
+Entrepreneur
+</a>
+<span class="menu-subtitle MainNav-forSmallOnly">
+<a class="MainNav-title-link" href="/raise">
+Entrepreneur
+</a>
+</span>
+<ul class="MainNav-dropdown lowest-title">
+<li><a href="/raise">Raise funds</a></li>
+<li><a href="/learn/case-studies">Case studies</a></li>
+<li><a href="/alumni-club">Alumni Club</a></li>
+<li><a href="/learn/guides-new/raise">Guides</a></li>
+<li><a href="https://help-entrepreneur.seedrs.com">Help centre</a></li>
+</ul>
+</li>
+<li>
+<a class="MainNav-forLargeOnly" href="/institutions-intermediary-investors">
+Institution
+</a>
+<span class="menu-subtitle MainNav-forSmallOnly">
+<a class="MainNav-title-link" href="/institutions-intermediary-investors">
+Institution
+</a>
+</span>
+</li>
+</ul>
+</li>
+<li class="MainNav-user user">
+<span class="assistive">User</span>
+<ul class="MainNav-topLevel">
+<li class="MainNav-dropdownContainer">
+<a class="MainNav-forLargeOnly user-menu MainNav-triggerDropdown" href="/your/profile/edit">
+<span class="ratio ratio-1x1"><span class="Avatar is-extraSmall">
+<img class="Gravatar" alt="Profile picture" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+<span class="initials"></span>
+</span>
+<img class="Avatar is-extraSmall" alt="Profile picture" src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</span>
+</a>
+<ul class="MainNav-dropdown MainNav-title-link">
+<li class="MainNav-investmentAccountLink">
+<a href="/investment_account">
+Investment account
+<span class="AccountsBalance" hidden>
+<span class="AccountBalance AccountBalance--GBP" title="Balance on your GBP account"></span>
+<span class="AccountBalance AccountBalance--EUR" title="Balance on your EUR account"></span>
+</span>
+</a>
+</li>
+<li class="MainNav-portfolioLink">
+<a href="/portfolio">Portfolio</a>
+</li>
+<li class="MainNav-AutoInvest AutoInvestNav">
+<div class="ExpandablePanel" data-name="auto_invest">
+<div class="ExpandablePanel-header">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="ExpandablePanel-headerInner">
+<div class="heading-container">
+<div class="Pulse Pulse--animated Pulse--blue"></div>
+<p class="u-noBottomMargin heading">AutoInvest</p>
+</div>
+<div class="icon-container">
+<i class="i-arr-right InlineSVG"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ExpandablePanel-content">
+<div class="ExpandablePanel-contentInner">
+<div class="MainNav-AutoInvest-ContentContainer">
+<div class="MainNav-AutoInvest-CtaContainer is-hidden">
+<p class="MainNav-AutoInvest-CtaTitle">
+Build your own auto-investment robot with personalised criteria.
+</p>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-main-cta is-hidden" href="/auto-invest">Find out more</a>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-sign-up-cta is-hidden" href="/signup">Sign up</a>
+</div>
+
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Enabled autoinvest-enabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is scanning for matches</p>
+</div>
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Paused autoinvest-disabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is paused</p>
+</div>
+<div class="MainNav-AutoInvest-Warning autoinvest-low-balance-warning is-hidden">
+<div class="InPageMessage-NoBottomMargin is-warning MainNav-AutoInvest-FlexContainer">
+<i class="i-ic-info InlineSVG MainNav-AutoInvest-Warning-icon"></i>
+<p class="autoinvest-low-balance-message"></p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-StatsContainer MainNav-AutoInvest-StatsContainer--isDisabled">
+<div class="autoinvest-template-name"></div>
+<div class="MainNav-AutoInvest-MaxAmount-Container">
+<p>Max amount per campaign</p>
+<p class="MainNav-AutoInvest-Amount max-autoinvest-per-campaign">£50.00</p>
+</div>
+<div class="MainNav-AutoInvest-AmountInvested-Container">
+<p>Your investment</p>
+<p>
+<span class="MainNav-AutoInvest-Amount autoinvest-total-invested">£0.00</span>
+in
+<span class="autoinvest-campaigns-invested-in">0</span>
+campaigns
+</p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-Utilities">
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Enabled autoinvest-enabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/pause-button-blue-bg-b6e50ddc4c2bee451ba26a9092dcf063c5db59fef4bcf0d84b0c9cb33a705027.svg" alt="Pause button blue bg" />
+Pause
+</button>
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Paused autoinvest-disabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/play-button-blue-bg-79a3469f177644df540b568f60cda87ab885c4a6080d26c422bf971e07e9c27c.svg" alt="Play button blue bg" />
+Restart
+</button>
+<div class="pause-restart-button-error">
+There was an error. Please try that again.
+</div>
+<a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered is-hidden autoinvest-edit-button" href="/auto-invest"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/settings-wheel-blue-fecc63dc2dc8068c6b334bcbac52ffa7b001230bf5a0a294b37077affde575bc.svg" alt="Settings wheel blue" />
+Settings
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" href="/investment_account/deposits/new"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/plus-sign-blue-bg-bf591aa6d8b659c0e4716b19e392cc6b969ad06e58ed2e8cbb7995ceefbfe89c.svg" alt="Plus sign blue bg" />
+Top up balance
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" target="blank" href="https://help.seedrs.com/general-faqs/autoinvest-faq-what-and-how"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/question-mark-blue-bg-051a5549efbd28857b36479456a49167bcf8819069ff8cb8d738e72c943c4e85.svg" alt="Question mark blue bg" />
+FAQs
+</a></div>
+
+</div>
+
+</div>
+</div>
+</div>
+</li>
+
+<li class="MainNav-profileSettingsLink">
+<a href="/your/profile/edit">Profile settings</a>
+</li>
+<li>
+<a href="/logout">Log out</a>
+</li>
+<li class="MainNav-forSmallOnly MainNav-profileCompleteness ProfileCompleteness is-expanded MainNav-profileCompleteness--offCanvas ProfileCompleteness-userWidget"></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="MainNav-user visitor">
+<span class="assistive">User</span>
+<ul class="MainNav-topLevel">
+<li class="MainNav-ButtonExtraMargin">
+<a class="Button Button--white" href="/login?invest_in=hubrisone1">Login</a>
+</li>
+<li>
+<a class="Button Button--green sign-up-trigger" data-cta-location="header" href="/signup">Sign up</a>
+</li>
+<div class="MainNav-forSmallOnly">
+<li class="MainNav-AutoInvest AutoInvestNav">
+<div class="ExpandablePanel" data-name="auto_invest">
+<div class="ExpandablePanel-header">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="ExpandablePanel-headerInner">
+<div class="heading-container">
+<div class="Pulse Pulse--animated Pulse--blue"></div>
+<p class="u-noBottomMargin heading">AutoInvest</p>
+</div>
+<div class="icon-container">
+<i class="i-arr-right InlineSVG"></i>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ExpandablePanel-content">
+<div class="ExpandablePanel-contentInner">
+<div class="MainNav-AutoInvest-ContentContainer">
+<div class="MainNav-AutoInvest-CtaContainer is-hidden">
+<p class="MainNav-AutoInvest-CtaTitle">
+Build your own auto-investment robot with personalised criteria.
+</p>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-main-cta is-hidden" href="/auto-invest">Find out more</a>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-sign-up-cta is-hidden" href="/signup">Sign up</a>
+</div>
+
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Enabled autoinvest-enabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is scanning for matches</p>
+</div>
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Paused autoinvest-disabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is paused</p>
+</div>
+<div class="MainNav-AutoInvest-Warning autoinvest-low-balance-warning is-hidden">
+<div class="InPageMessage-NoBottomMargin is-warning MainNav-AutoInvest-FlexContainer">
+<i class="i-ic-info InlineSVG MainNav-AutoInvest-Warning-icon"></i>
+<p class="autoinvest-low-balance-message"></p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-StatsContainer MainNav-AutoInvest-StatsContainer--isDisabled">
+<div class="autoinvest-template-name"></div>
+<div class="MainNav-AutoInvest-MaxAmount-Container">
+<p>Max amount per campaign</p>
+<p class="MainNav-AutoInvest-Amount max-autoinvest-per-campaign">£50.00</p>
+</div>
+<div class="MainNav-AutoInvest-AmountInvested-Container">
+<p>Your investment</p>
+<p>
+<span class="MainNav-AutoInvest-Amount autoinvest-total-invested">£0.00</span>
+in
+<span class="autoinvest-campaigns-invested-in">0</span>
+campaigns
+</p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-Utilities">
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Enabled autoinvest-enabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/pause-button-blue-bg-b6e50ddc4c2bee451ba26a9092dcf063c5db59fef4bcf0d84b0c9cb33a705027.svg" alt="Pause button blue bg" />
+Pause
+</button>
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Paused autoinvest-disabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/play-button-blue-bg-79a3469f177644df540b568f60cda87ab885c4a6080d26c422bf971e07e9c27c.svg" alt="Play button blue bg" />
+Restart
+</button>
+<div class="pause-restart-button-error">
+There was an error. Please try that again.
+</div>
+<a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered is-hidden autoinvest-edit-button" href="/auto-invest"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/settings-wheel-blue-fecc63dc2dc8068c6b334bcbac52ffa7b001230bf5a0a294b37077affde575bc.svg" alt="Settings wheel blue" />
+Settings
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" href="/investment_account/deposits/new"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/plus-sign-blue-bg-bf591aa6d8b659c0e4716b19e392cc6b969ad06e58ed2e8cbb7995ceefbfe89c.svg" alt="Plus sign blue bg" />
+Top up balance
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" target="blank" href="https://help.seedrs.com/general-faqs/autoinvest-faq-what-and-how"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/question-mark-blue-bg-051a5549efbd28857b36479456a49167bcf8819069ff8cb8d738e72c943c4e85.svg" alt="Question mark blue bg" />
+FAQs
+</a></div>
+
+</div>
+
+</div>
+</div>
+</div>
+</li>
+
+</div>
+</ul>
+</li>
+<li class="MainNav-user incomplete">
+<span class="assistive">New User</span>
+<ul class="MainNav-topLevel">
+<li class="MainNav-ButtonExtraMargin">
+<a class="Button Button--white" href="/logout">Log out</a>
+</li>
+</ul>
+</li>
+<li class="MainNav-AutoInvest-Desktop">
+<ul class="MainNav-topLevel MainNav-forLargeOnly">
+<li class="MainNav-dropdownContainer">
+<a class="MainNav-forLargeOnly MainNav-AutoInvest-Avatar-Container MainNav-triggerDropdown">
+<img class="autoinvest-bot-avatar-not-setup" src="/assets/auto_invest/autoinvest-bot-1a17478dbfb8f2df49b5120ffc24119213a9a62c9b540175cc70ff71d0b352ac.gif" alt="Autoinvest bot" />
+<img class="autoinvest-bot-avatar-enabled is-hidden" src="/assets/auto_invest/autoinvest-bot-green-571e3bdd6a5628ea01ff8b5c7ba3da89446c75e11a23865b3706e9197f259a0a.gif" alt="Autoinvest bot green" />
+<img class="autoinvest-bot-avatar-orange is-hidden" src="/assets/auto_invest/autoinvest-bot-orange-f0c5bc0377de72f502f4840e1aa9133cb65bba2e225b2395e4068eee9ca2ee02.gif" alt="Autoinvest bot orange" />
+<img class="autoinvest-bot-avatar-red is-hidden" src="/assets/auto_invest/autoinvest-bot-red-c3084c19f05b3ca39ee5f24ba90de6f6f08ac512d196823d9d247ca7dc22efad.gif" alt="Autoinvest bot red" />
+<img class="autoinvest-bot-avatar-disabled is-hidden" src="/assets/auto_invest/autoinvest-bot-paused-7cb9ef02b7662db59cc3befb941840b99a1d8086194151c96b7811c52828cb31.gif" alt="Autoinvest bot paused" />
+<p class="MainNav-AutoInvest-AvatarTitle">AutoInvest</p>
+</a>
+<ul class="MainNav-AutoInvest-dropdown MainNav-title-link">
+<li class="AutoInvestNav">
+<div class="MainNav-AutoInvest-ContentContainer">
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--baseline">
+<img class="MainNav-AutoInvest-Bot" src="/assets/auto_invest/autoinvest-bot-Jerry-fcf9d81dd9ebf1e4459e7b08f14b7f5135e988aee865999f7b392b0494e1331d.png" alt="Autoinvest bot jerry" />
+<p class="h3">AutoInvest</p>
+</div>
+<div class="MainNav-AutoInvest-CtaContainer is-hidden">
+<p class="MainNav-AutoInvest-CtaTitle">
+Build your own auto-investment robot with personalised criteria.
+</p>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-main-cta is-hidden" href="/auto-invest">Find out more</a>
+<a class="MainNav-AutoInvest-Button Button--green Button--medium autoinvest-sign-up-cta is-hidden" href="/signup">Sign up</a>
+</div>
+
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Enabled autoinvest-enabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is scanning for matches</p>
+</div>
+<div class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--leftPadding MainNav-AutoInvest-FlexContainer--centered MainNav-AutoInvest-FlexContainer--bottomMargin AutoInvest-Paused autoinvest-disabled-text is-hidden MainNav-PulseContainer">
+<div class="Pulse Pulse--blue Pulse--animated"></div>
+<p class="MainNav-AutoInvest-Italic">The bot is paused</p>
+</div>
+<div class="MainNav-AutoInvest-Warning autoinvest-low-balance-warning is-hidden">
+<div class="InPageMessage-NoBottomMargin is-warning MainNav-AutoInvest-FlexContainer">
+<i class="i-ic-info InlineSVG MainNav-AutoInvest-Warning-icon"></i>
+<p class="autoinvest-low-balance-message"></p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-StatsContainer MainNav-AutoInvest-StatsContainer--isDisabled">
+<div class="autoinvest-template-name"></div>
+<div class="MainNav-AutoInvest-MaxAmount-Container">
+<p>Max amount per campaign</p>
+<p class="MainNav-AutoInvest-Amount max-autoinvest-per-campaign">£50.00</p>
+</div>
+<div class="MainNav-AutoInvest-AmountInvested-Container">
+<p>Your investment</p>
+<p>
+<span class="MainNav-AutoInvest-Amount autoinvest-total-invested">£0.00</span>
+in
+<span class="autoinvest-campaigns-invested-in">0</span>
+campaigns
+</p>
+</div>
+</div>
+
+<div class="MainNav-AutoInvest-Utilities">
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Enabled autoinvest-enabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/pause-button-blue-bg-b6e50ddc4c2bee451ba26a9092dcf063c5db59fef4bcf0d84b0c9cb33a705027.svg" alt="Pause button blue bg" />
+Pause
+</button>
+<button class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered AutoInvest-Paused autoinvest-disabled-button is-hidden" data-url="/api/v1/auto_invest/criteria/update_latest">
+<img class="MainNav-AutoInvest-Utilities--icon" src="/assets/play-button-blue-bg-79a3469f177644df540b568f60cda87ab885c4a6080d26c422bf971e07e9c27c.svg" alt="Play button blue bg" />
+Restart
+</button>
+<div class="pause-restart-button-error">
+There was an error. Please try that again.
+</div>
+<a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered is-hidden autoinvest-edit-button" href="/auto-invest"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/settings-wheel-blue-fecc63dc2dc8068c6b334bcbac52ffa7b001230bf5a0a294b37077affde575bc.svg" alt="Settings wheel blue" />
+Settings
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" href="/investment_account/deposits/new"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/plus-sign-blue-bg-bf591aa6d8b659c0e4716b19e392cc6b969ad06e58ed2e8cbb7995ceefbfe89c.svg" alt="Plus sign blue bg" />
+Top up balance
+</a><a class="MainNav-AutoInvest-FlexContainer MainNav-AutoInvest-FlexContainer--clickable MainNav-AutoInvest-FlexContainer--centered" target="blank" href="https://help.seedrs.com/general-faqs/autoinvest-faq-what-and-how"><img class="MainNav-AutoInvest-Utilities--icon" src="/assets/question-mark-blue-bg-051a5549efbd28857b36479456a49167bcf8819069ff8cb8d738e72c943c4e85.svg" alt="Question mark blue bg" />
+FAQs
+</a></div>
+
+</div>
+</li>
+
+</ul>
+</li>
+</ul>
+</li>
+<li class="MainNav-profileCompleteness ProfileCompleteness ProfileCompleteness-mainNavTop"></li>
+<li class="MainNav-forSmallOnly">
+<button class="MainNav-closeOffCanvas">
+Close menu
+</button>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+
+</header>
+
+<div class="CampaignHeroBanner">
+<img alt="HubrisOne hero image" class="CampaignHeroBanner-heroImg" src="https://seedrs.imgix.net/uploads/startup/summary/hero_image/28464/ixwoks07zferkwmxiqtkuuu2a7b6b6b/All-in-one_cryptocurrency_current_account.__4___1_.png?rect=0%2C-6%2C1440%2C320&amp;w=1440&amp;h=320&amp;fit=crop&amp;s=1660674fa285378a8c4391beaec41cd6" />
+</div>
+
+
+<main class="Page-content content" id="content">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="page-notices padded-container">
+<div class="InPageFlashMessage" hidden></div>
+
+</div>
+</div>
+</div>
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="public-page-content">
+
+<div itemscope="" itemtype="https://schema.org/Product">
+<link href="https://schema.org/InStock" itemprop="availability">
+<link href="https://schema.org/NewCondition" itemprop="condition">
+<meta content="HubrisOne" itemprop="brand">
+<meta content="27126" itemprop="productId">
+<meta content="1.8" itemprop="price">
+<meta content="GBP" itemprop="priceCurrency">
+<meta content="https://www.seedrs.com/hubrisone1" itemprop="url">
+<meta content="https://seedrs.imgix.net/uploads/startup/summary/cover_image/28464/ixwoks07zferkwmxiqtkuuu2a7b6b6b/Add_heading__6_.png?rect=0%2C0%2C1920%2C1079&amp;w=740&amp;h=416&amp;fit=crop&amp;s=2097836ce73d648d4744a875dbe23403" itemprop="image">
+<div class="padded-container">
+<div class="header Page-title PageHeader" data-campaign-categories="Finance &amp; Payments, Digital, Mixed B2B/B2C" data-campaign-id="27126" data-campaign-name="HubrisOne" data-campaign-type="equity">
+<h1 class="favourite h2" itemprop="name">HubrisOne</h1>
+<p class="favourite-star-container">
+<a class="CampaignFavouriteStar favourite-campaign-later sign-up-trigger" data-campaign-id="27126" href="/signup?r=%2Fhubrisone1">
+<i class="i-star InlineSVG"></i>
+<span class="assist">Favourite</span>
+</a>
+</p>
+</div>
+
+<div class="campaign_header_panel" id="header_panel">
+<div class="campaign_status">
+
+
+<div class="column left">
+<div class="campaign_details">
+<div class="logo_and_links">
+<div class="campaign-logo-frame" id="campaign_logo"><img class="campaign_logo" src="https://seedrs.imgix.net/uploads/startup/summary/logo/28464/ixwoks07zferkwmxiqtkuuu2a7b6b6b/HubrisOne-Logo-F.jpg?rect=0%2C0%2C2000%2C2000&amp;w=130&amp;h=130&amp;fit=crop&amp;s=b9d9968647aebfa85864319440cec79e" alt="Hubrisone logo f" /></div>
+<div class="web_presence_locations"><a class="SocialLink SocialLink--facebookHover SocialLink--greyColor SocialLink--normal SocialLink--whiteColorHover" href="http://www.hubrisone.com/hubrisone1" target="_blank" title="http://www.hubrisone.com/hubrisone1">
+<i class="InlineSVG SocialLink-icon i-facebook is-medium"></i>
+</a><a class="SocialLink SocialLink--greyColor SocialLink--normal SocialLink--twitterHover SocialLink--whiteColorHover" href="http://www.twitter.com.hubrisone" target="_blank" title="http://www.twitter.com.hubrisone">
+<i class="InlineSVG SocialLink-icon i-twitter is-medium"></i>
+</a><a class="SocialLink SocialLink--greyColor SocialLink--linkedinHover SocialLink--normal SocialLink--whiteColorHover" href="http://www.linkedin.com/company/hubrisone/" target="_blank" title="http://www.linkedin.com/company/hubrisone/">
+<i class="InlineSVG SocialLink-icon i-linkedin is-medium"></i>
+</a></div>
+
+</div>
+<p class="summary" itemprop="description">We're making blockchain technology, cryptocurrencies, and basic banking services available to all.</p>
+<p class="eisOrSeis">
+<a class="CampaignSeisStamp PopOverTrigger js-no-default" target="_blank" data-popover-selector="#seis_popup" href="https://www.seedrs.com/learn/guides/seis-tax-relief">SEIS</a>
+</p>
+<div class="location_and_partner">
+<dl class="location">
+<dt class="assist">Location</dt>
+<dd>
+<i class="flag CampaignCountryFlag" style="background-position: -1232px 0;"></i>
+London,
+United Kingdom
+</dd>
+</dl>
+</div>
+<div class="generic_web_presence_locations">
+<a title="https://www.hubrisone.com" class="website" target="_blank" href="https://www.hubrisone.com">www.hubrisone.com</a>
+</div>
+<p class="campaign-categories">
+<span class="assist">Categories:</span>
+<span class="CategoryLabel">Finance &amp; Payments</span>
+<span class="CategoryLabel">Digital</span>
+<span class="CategoryLabel">Mixed B2B/B2C</span>
+</p>
+</div>
+</div>
+<div class="column right"><dl class="investment_sought">
+<dt>
+Investment
+<br>
+sought:
+</dt>
+<dd>£60,001</dd>
+</dl><dl class="equity_offered right">
+<dt>
+Equity
+<br>
+offered:
+</dt>
+<dd>3.23%</dd>
+</dl>
+<div class="investment_total_bar_container">
+<div class="CampaignProgress CampaignProgress--withPercentageNumber">
+<progress max="100" value="100"></progress>
+<div class="CampaignProgress-bar" style="width: 100%;"></div>
+<div class="CampaignProgress-percentage">210%</div>
+</div>
+
+</div><dl class="investment_already_funded">
+<dt>
+Investment
+<br>
+already funded:
+</dt>
+<dd>
+£125,977
+<br>
+<span class="percentage_already_funded">for 6.54% equity</span>
+</dd>
+</dl><dl class="valuation right">
+<dt>
+Valuation
+<br>
+(pre-money):
+</dt>
+<dd>£1,800,000</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+<div class="share-this-campaign-container" id="share_this_campaign_container">
+<div class="share-this-campaign Sticky" id="share_this_campaign">
+<div class="share_links">
+<div class="share_on">
+<span class="social-caption">Share on:</span><span><a title="Share on Facebook" target="_blank" class="SocialLink SocialLink--normal SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--facebookBackground SocialLink--darkFacebookHover" data-social-network="facebook" data-resource-id="27126" data-resource-type="campaign" href="https://www.facebook.com/dialog/feed?app_id=289293234456938&amp;link=https%3A%2F%2Fwww.seedrs.com%2Fhubrisone1&amp;redirect_uri=https%3A%2F%2Fwww.facebook.com"><i class="SocialLink-icon is-large i-facebook InlineSVG"></i></a></span><span><a title="Share on Twitter" target="_blank" class="SocialLink SocialLink--normal SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--twitterBackground SocialLink--darkTwitterHover" data-social-network="twitter" data-resource-id="27126" data-resource-type="campaign" href="https://twitter.com/home?status=HubrisOne+is+crowdfunding+on+Seedrs.+When+investing%2C+capital+is+at+risk.+Check+out+the+campaign%3A+https%3A%2F%2Fwww.seedrs.com%2Fhubrisone1"><i class="SocialLink-icon is-large i-twitter InlineSVG"></i></a></span><span><a title="Share on LinkedIn" target="_blank" class="SocialLink SocialLink--normal SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--linkedinBackground SocialLink--darkLinkedinHover" data-social-network="linkedin" data-resource-id="27126" data-resource-type="campaign" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.seedrs.com%2Fhubrisone1&amp;title=HubrisOne+is+crowdfunding+on+Seedrs&amp;source=Seedrs.com&amp;summary=When+investing%2C+capital+is+at+risk.+We%27re+making+blockchain+technology%2C+cryptocurrencies%2C+and+basic+banking+services+available+to+all.+Check+out+the+campaign."><i class="SocialLink-icon is-large i-linkedin InlineSVG"></i></a></span></div>
+
+</div>
+<div class="buttons Phrase">
+<span class="non-authorized-buttons-span Phrase-text">To see more information, please&nbsp;<a href="/login?invest_in=hubrisone1">login</a>&nbsp;or</span>
+<a id="sign_up_button" class="Button Button--medium Button--green Button--phrasal is-end sign-up-trigger" data-cta-location="campaign page top (share and invest)" href="/signup?invest_in=hubrisone1">Sign up</a>
+</div>
+</div>
+</div>
+
+<div class="details-panel-container" id="details_panel_container">
+<div class="clearfix">
+
+<nav class="Tabs--compact-nav Tabs-nav is-compact" id="campaign-tabs">
+<ul class="is-noFollow" data-active-compact-section="overview"><li class="is-active" data-section="overview">Overview</li></ul>
+</nav>
+<div class="tabbed_info" data-event-attributes='{"campaign-id":27126,"campaign_name":"HubrisOne","campaign_type":"equity","campaign_categories":"Finance \u0026 Payments, Digital, Mixed B2B/B2C"}' data-event-prefix="campaign" id="tabbed_info">
+<nav class="Tabs-nav Tabs-async js-campaign-nav">
+<ul><li class="is-active" data-section="idea" data-tab-url="/hubrisone1/sections/idea">
+<a class="Tabs-trigger" href="/hubrisone1/sections/idea">Idea</a>
+</li><li data-section="team" data-tab-url="/hubrisone1/sections/team">
+<a class="Tabs-trigger" href="/hubrisone1/sections/team">Team</a>
+</li><li class="" data-section="updates" data-tab-url="/hubrisone1/sections/updates">
+<a class="Tabs-trigger" href="/hubrisone1/sections/updates">Updates</a>
+</li><li class="" data-section="investors" data-tab-url="/hubrisone1/sections/investors">
+<a class="Tabs-trigger" href="/hubrisone1/sections/investors">Investors
+<span class="Badge Badge--rect Badge--lightGreen">287</span>
+</a></li><li class="" data-section="discussion" data-tab-url="/hubrisone1/sections/discussion">
+<a class="Tabs-trigger" href="/hubrisone1/sections/discussion">Discussion</a>
+</li><li class="last" data-section="documents" data-tab-url="/hubrisone1/sections/documents">
+<a class="Tabs-trigger" href="/hubrisone1/sections/documents">Documents</a>
+</li></ul>
+</nav>
+
+<div class="column_left no_print tabbed">
+<div class="permanent-campaign-info-panel" id="permanent_campaign_info_panel">
+<div class="video">
+<script class="video_preview_source" type="text/html"><iframe src="//player.vimeo.com/video/313351991?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0&amp;api=1&amp;player_id=campaign_video_27126" id="campaign_video_27126" width="353" height="240" frameborder="0" allowfullscreen></iframe></script>
+<div class="video_preview" style="min-height: 240px;"></div>
+</div>
+<div class="side-entrepreneurs" id="side_entrepreneurs">
+<section class="continued">
+<h2 class="h5">Team</h2>
+<ul class="entrepreneurs">
+<li class="entrepreneur odd">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/user/photo/333624/dn9cto0azll05m94fxuvq269qywbyyu/0.jpg?rect=20%2C27%2C151%2C151&amp;w=108&amp;h=108&amp;fit=crop&amp;s=7697db76f1f5a72559e25df5cc4dd432" alt="0" />
+</div>
+<div class="name">
+<a href="#team/48129">Ivan Gyimah</a>
+</div>
+<div class="team_role">Co-founder &amp; CEO </div>
+</li>
+<li class="entrepreneur even">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48130/eyrsm2llwty774j1wlq95d98f48y8eo/tony.jpg?rect=0%2C18%2C876%2C876&amp;w=108&amp;h=108&amp;fit=crop&amp;s=22103a9b931d42b6e78b819df355e3a2" alt="Tony" />
+</div>
+<div class="name">
+<a href="#team/48130">McAnthony Gyimah</a>
+</div>
+<div class="team_role">President &amp; CFO</div>
+</li>
+<li class="entrepreneur odd">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48131/9ya9133p29696n2men2pu6l2gxugyqg/0__1_.jpg?rect=0%2C0%2C500%2C500&amp;w=108&amp;h=108&amp;fit=crop&amp;s=1b5414ed64b37b74f7c9e4eef6c450d6" alt="0  1 " />
+</div>
+<div class="name">
+<a href="#team/48131">Robert Laguna</a>
+</div>
+<div class="team_role">Head of Operations</div>
+</li>
+<li class="entrepreneur even">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48132/7cqh292volaag17ixbkn1n787cfg0qb/0__2_.jpg?rect=0%2C0%2C600%2C600&amp;w=108&amp;h=108&amp;fit=crop&amp;s=c98ad6ab73ac6b726cfb7156db49a732" alt="0  2 " />
+</div>
+<div class="name">
+<a href="#team/48132">Utku Kerem</a>
+</div>
+<div class="team_role">CMO &amp; Partnerships</div>
+</li>
+<li class="entrepreneur odd">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48133/kaf035mkvdc5fs37haqbxlit5sog01w/photo_2018-11-16_00-10-00.jpg?rect=211%2C59%2C334%2C334&amp;w=108&amp;h=108&amp;fit=crop&amp;s=239a6b4b1089186ae73c1cff2030dff8" alt="Photo 2018 11 16 00 10 00" />
+</div>
+<div class="name">
+<a href="#team/48133">Andre Omo-Osagie</a>
+</div>
+<div class="team_role">Chief Commercial Officer</div>
+</li>
+<li class="entrepreneur even">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48134/ju94f5j23j8op9j9t9d8azvk9z3a1yl/0__3_.jpg?rect=0%2C0%2C386%2C386&amp;w=108&amp;h=108&amp;fit=crop&amp;s=8beb123d2ec32f9427783062bd617625" alt="0  3 " />
+</div>
+<div class="name">
+<a href="#team/48134">Raymond Baxter</a>
+</div>
+<div class="team_role">Community Management</div>
+</li>
+<li class="entrepreneur odd">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48135/pfw5wt2h8lp4qabyd4n807r8tfew1p1/0__4_.jpg?rect=0%2C0%2C331%2C331&amp;w=108&amp;h=108&amp;fit=crop&amp;s=0c5ec023a930b0f1203426a7c720a1f9" alt="0  4 " />
+</div>
+<div class="name">
+<a href="#team/48135">Yoshiyuki Oba</a>
+</div>
+<div class="team_role">Advisor</div>
+</li>
+<li class="entrepreneur even last">
+<div class="thumb">
+<img class="picture_frame" width="85" height="85" src="https://seedrs.imgix.net/uploads/startup/entrepreneur/photo/48136/9k0tany5twm3mmfjnyfymin6eaykwzy/0__5___1_.jpg?rect=0%2C0%2C500%2C500&amp;w=108&amp;h=108&amp;fit=crop&amp;s=381d79ff7529f78b2a1cf5861dfcf90b" alt="0  5   1 " />
+</div>
+<div class="name">
+<a href="#team/48136">Quentin Herbrecht</a>
+</div>
+<div class="team_role">Advisor</div>
+</li>
+</ul>
+<div class="clearfix"></div>
+
+</section>
+</div>
+</div>
+</div>
+<div class="column_right is-inactiveCompact">
+
+<div class="detail-sections tabbed" id="detail_sections">
+<section class="pitch idea rendered is-active with-data">
+<h2 class="only_print">Idea</h2>
+<h3 class="h5">Introduction</h3>
+<img class="section_image" src="https://seedrs.imgix.net/uploads/startup/section_image/image/16830/t0oh8xceienbyph51qbzti3s01lx1jo/5__2_.png?rect=0%2C0%2C1024%2C768&amp;w=600&amp;fit=clip&amp;s=71a20e3bbb8901c9ca365de0ad857ab6" alt="5  2 " />
+<p>We’re transforming the way people manage their cryptocurrency assets, enabling users to create multi-currency current accounts and execute instant blockchain-powered cross border payments all within a few taps.</p>
+
+<p>Mission: 
+<br>• Increase Adaption: Increase cryptocurrency adoption globally.</p>
+
+<p>• Connect: Connect the old world of traditional banking with the new world of cryptocurrencies.</p>
+
+<p>• Bank the Unbanked: Provide basic banking services for the unbanked population.</p>
+
+<p>The HubrisOne platform enables customers to: 
+<br>• Access, manage and view all their existing bank accounts via an API (Open Banking).</p>
+
+<p>• Creates an industry needed on-ramp and off-ramp for cryptocurrency investors.</p>
+
+<p>• Instantly create new multi-currency bank accounts digitally, targeted to the unbanked population.</p>
+
+<p>• Easily buy, sell and manage cryptocurrency assets.</p>
+
+<p>• Execute instant, traceable, low-cost cross-border transfers all within a few taps.</p>
+
+<p class="last">• Access third-party services and solutions through the integrated marketplace.</p>
+<div class="campaign-tab-cta">
+<p>
+To reveal the full
+<strong>HubrisOne</strong>
+campaign details
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Idea tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+
+<section class="rendered team" data-section="team">
+<div class="campaign-tab-cta">
+<p>
+To access the
+<strong>HubrisOne</strong>
+team biographies, including current ownership
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Team tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+<section class="rendered updates" data-section="updates">
+<div class="campaign-tab-cta">
+<p>
+To see the latest updates from
+<strong>HubrisOne</strong>
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Updates tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+<section class="investors rendered" data-section="investors">
+<div class="campaign-tab-cta">
+<p>
+To see who has invested in
+<strong>HubrisOne</strong>
+and how much
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Investors tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+<section class="discussion rendered" data-section="discussion">
+<div class="campaign-tab-cta">
+<p>
+To ask questions directly to the
+<strong>HubrisOne</strong>
+team
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Discussion tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+<section class="documents rendered" data-section="documents">
+<div class="campaign-tab-cta">
+<p>
+To access documents like full pitch decks
+</p>
+<p><a class="Button Button--medium Button--green sign-up-trigger" data-cta-location="Documents tab" href="/signup?invest_in=hubrisone1">Sign up</a></p>
+<p>Already have an account?</p>
+<p>
+<a href="/login?invest_in=hubrisone1">Login</a>
+</p>
+<div class="text-copyright">
+<p>
+To comply with financial regulations, we can only show full campaign details to registered users
+</p>
+</div>
+</div>
+
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+</div>
+<div class="StickyMessage" id="risk-warning-notice">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<p>
+Investing carries risks, including loss of capital and illiquidity. Please read our&nbsp;<a target="_blank" href="/risk_warning">Risk&nbsp;Warning</a> before&nbsp;investing.
+</p>
+</div>
+</div>
+</div>
+
+
+<section class="public-section risk-warning">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<article class="investment-risks-content text-smallprint">
+<p></p>
+<p>
+Investing involves risks, including loss of capital, illiquidity, lack of dividends and dilution, and should
+be done only as part of a diversified portfolio. Please read the
+<a href="/risk_warning">Risk Warnings</a> before investing. Investments should only be made by investors
+who understand these risks. Tax treatment depends on individual circumstances and is subject to change in
+future.
+</p>
+<p>
+This webpage has been approved as a financial promotion by Seedrs Limited ("Seedrs"), which is authorised and
+regulated by the Financial Conduct Authority. It is not intended to be a promotion of any individual
+investment opportunity and is not an offer to the public. The summary information provided about investment
+opportunities on this webpage is intended solely to demonstrate the types of investments available on the
+Seedrs platform, and any investment decision should be made on the basis of the full campaign. Full campaigns
+are available to investors who have become authorised to invest on the Seedrs platform. All investment
+activities take place within the United Kingdom, and any person resident outside the United Kingdom should
+ensure that they are not subject to any local regulations before investing.
+</p>
+<p>
+Seedrs does not make investment recommendations to you. No communications from Seedrs, through this website
+or any other medium, should be construed as an investment recommendation. Further, nothing on this website
+shall be considered an offer to sell, or a solicitation of an offer to buy, any security to any person in any
+jurisdiction to whom or in which such offer, solicitation or sale is unlawful. Seedrs does not provide legal,
+financial or tax advice of any kind. If you have any questions with respect to legal, financial or tax
+matters relevant to your interactions with Seedrs, you should consult a professional adviser.
+</p>
+
+
+</article>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer" id="footer">
+<div class="grid-container-wrapper">
+<div class="grid-container">
+<div class="footer-for-small footer-for-medium show-for-small-only show-for-medium-only">
+<div class="footer-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Company
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content Revealer-links text-list-links" hidden>
+<ul>
+<li><a href="https://www.seedrs.com/about">About Seedrs</a></li>
+<li><a href="https://www.seedrs.com/about#team">Our Team</a></li>
+<li><a href="https://www.seedrs.com/careers">Careers</a></li>
+<li><a href="http://startuppartner.seedrs.com/">Partnerships</a></li>
+<li><a href="https://www.seedrs.com/about#contacts">Contact us</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Get Started
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content Revealer-links text-list-links" hidden>
+<ul>
+<li><a href="https://www.seedrs.com/invest">Invest</a></li>
+<li><a href="https://www.seedrs.com/raise">Raise</a></li>
+<li><a href="/learn/guides/referrals">Referrals</a></li>
+<li><a href="/learn/guides/uk-tax-relief">Tax Relief</a></li>
+<li><a href="/learn/guides/types-of-equity">Types of Equity</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Learn
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content Revealer-links text-list-links" hidden>
+<ul>
+<li><a href="/learn/case-studies">Case Studies</a></li>
+<li><a href="/learn/guides">Guides</a></li>
+<li><a href="/learn/blog">Blog</a></li>
+<li><a href="https://help.seedrs.com">Investor help centre</a></li>
+<li><a href="https://help-entrepreneur.seedrs.com">Entrepreneur help centre</a></li>
+<li><a href="/learn/glossary">Glossary</a></li>
+<li><a href="https://seedrs.typeform.com/to/YdORlQ">Feedback</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Legal Info
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content Revealer-links text-list-links" hidden>
+<ul>
+<li><a href="https://www.seedrs.com/risk_warning">Risk Warnings</a></li>
+<li><a href="https://www.seedrs.com/privacy_notice">Privacy Notice</a></li>
+<li><a href="https://www.seedrs.com/security">Security</a></li>
+<li><a href="https://www.seedrs.com/terms_of_service">Terms of Service</a></li>
+<li><a href="https://www.seedrs.com/referral_fee_terms">Referral Fee Terms</a></li>
+<li><a href="/learn/campaign-terms-conditions">Campaign Terms</a></li>
+<li><a class="last" href="/learn/secondary-market-terms">Secondary Market Terms</a></li>
+<li><a href="https://assets.seedrs.com/agreement_templates/ai_agreement.pdf">AutoInvest Terms</a></li>
+</ul>
+
+</div>
+</div>
+<div class="newsletter-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Get Social
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content text-list-links" hidden>
+<div class="newsletter" hidden>
+<form class="registration-form Form" action="/registrations" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><div class="FormField">
+<div class="FormField-actionableFieldContainer">
+<label class="FormField-label assistive" for="registration_email">Email</label>
+<span class="FormField-actionableField">
+<input class="FormField-textInput email" type="email" placeholder="Subscribe to our newsletter" id="registration_email_small" name="registration[email]" />
+</span>
+<button class="Button Button--green Button--flat FormField-actionableFieldButton Button--chevron" data-disable-with="">
+<span class="assistive">Subscribe</span>
+</button>
+</div>
+<div class="Form-messages"></div>
+</div>
+</form>
+</div>
+<div class="social-links"><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--facebookHover" href="https://www.facebook.com/Seedrs" target="_blank" title="Facebook">
+<i class="i-facebook SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Facebook</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--twitterHover" href="https://twitter.com/Seedrs" target="_blank" title="Twitter">
+<i class="i-twitter SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Twitter</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--linkedinHover" href="https://www.linkedin.com/company/seedrs" target="_blank" title="LinkedIn">
+<i class="i-linkedin SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">LinkedIn</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--googleHover" href="https://plus.google.com/+SeedrsCrowdfunding" rel="publisher" target="_blank" title="Google+">
+<i class="i-google-plus SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Google Plus</span>
+</a></div>
+
+</div>
+</div>
+<div class="footer-column Revealer">
+<p class="text-list-title">
+<button class="Revealer-trigger">
+Privacy Notice
+<i class="arrow i-arrow-down"></i>
+</button>
+</p>
+<div class="Revealer-content" hidden>
+<div class="PrivacyNotice--link">
+For information about how we use your personal data please see our <a target="blank" href="https://www.seedrs.com/privacy_notice">Privacy Notice</a>.
+</div>
+
+</div>
+</div>
+<div class="footer-legal-content text-copyright">
+<div class="text-copyright">
+<img alt="Seedrs small logo" class="legal-content-logo" src="/assets/seedrs_logo_large-5be2fd4aa5a946e80e0353906e0ed07fa81382ae79fb66721661b6027fc3a35b.svg" />
+<p class="fsa_text text-fsa">
+Seedrs Limited is authorised and regulated by the Financial Conduct Authority <a target="_blank" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMXovAAH">(No. 550317)</a>.
+</p>
+<p class="disclaimer">
+&copy; Seedrs Limited 2019. All rights reserved. Seedrs is a registered European Community trademark
+(No. 008771537) and registered United States service mark (No. 85423072) of Seedrs Limited, a limited company
+registered in England and Wales (No. 06848016), with registered office at Churchill House, 142-146 Old Street,
+London EC1V 9BW, United Kingdom, VAT No. GB 208 3065 32. Seedrs.com is a website owned and operated by Seedrs Limited.
+</p>
+</div>
+
+</div>
+</div>
+
+<div class="footer-for-large show-for-large-only">
+<div class="footer-column grey-links">
+<p class="text-list-title">Company</p>
+<div class="content text-list-links">
+<ul>
+<li><a href="https://www.seedrs.com/about">About Seedrs</a></li>
+<li><a href="https://www.seedrs.com/about#team">Our Team</a></li>
+<li><a href="https://www.seedrs.com/careers">Careers</a></li>
+<li><a href="http://startuppartner.seedrs.com/">Partnerships</a></li>
+<li><a href="https://www.seedrs.com/about#contacts">Contact us</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column grey-links">
+<p class="text-list-title">Get Started</p>
+<div class="content text-list-links">
+<ul>
+<li><a href="https://www.seedrs.com/invest">Invest</a></li>
+<li><a href="https://www.seedrs.com/raise">Raise</a></li>
+<li><a href="/learn/guides/referrals">Referrals</a></li>
+<li><a href="/learn/guides/uk-tax-relief">Tax Relief</a></li>
+<li><a href="/learn/guides/types-of-equity">Types of Equity</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column grey-links">
+<p class="text-list-title">Learn</p>
+<div class="content text-list-links">
+<ul>
+<li><a href="/learn/case-studies">Case Studies</a></li>
+<li><a href="/learn/guides">Guides</a></li>
+<li><a href="/learn/blog">Blog</a></li>
+<li><a href="https://help.seedrs.com">Investor help centre</a></li>
+<li><a href="https://help-entrepreneur.seedrs.com">Entrepreneur help centre</a></li>
+<li><a href="/learn/glossary">Glossary</a></li>
+<li><a href="https://seedrs.typeform.com/to/YdORlQ">Feedback</a></li>
+</ul>
+
+</div>
+</div>
+<div class="footer-column grey-links">
+<p class="text-list-title">Legal Info</p>
+<div class="content text-list-links">
+<ul>
+<li><a href="https://www.seedrs.com/risk_warning">Risk Warnings</a></li>
+<li><a href="https://www.seedrs.com/privacy_notice">Privacy Notice</a></li>
+<li><a href="https://www.seedrs.com/security">Security</a></li>
+<li><a href="https://www.seedrs.com/terms_of_service">Terms of Service</a></li>
+<li><a href="https://www.seedrs.com/referral_fee_terms">Referral Fee Terms</a></li>
+<li><a href="/learn/campaign-terms-conditions">Campaign Terms</a></li>
+<li><a class="last" href="/learn/secondary-market-terms">Secondary Market Terms</a></li>
+<li><a href="https://assets.seedrs.com/agreement_templates/ai_agreement.pdf">AutoInvest Terms</a></li>
+</ul>
+
+</div>
+</div>
+<div class="newsletter-column">
+<p class="text-list-title">Get Social</p>
+<div class="newsletter" hidden>
+<div class="content text-list-links">
+<form class="registration-form Form" action="/registrations" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><div class="FormField">
+<div class="FormField-actionableFieldContainer">
+<label class="FormField-label assistive" for="registration_email">Email</label>
+<span class="FormField-actionableField">
+<input class="FormField-textInput email Button-input" type="email" placeholder="Subscribe to our newsletter" id="registration_email_large" name="registration[email]" />
+</span>
+<button class="Button Button--green Button--flat FormField-actionableFieldButton Button--chevron" data-disable-with="" id="mybutton">
+<span class="assistive">Subscribe</span>
+</button>
+</div>
+<div class="Form-messages"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="social-links"><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--facebookHover" href="https://www.facebook.com/Seedrs" target="_blank" title="Facebook">
+<i class="i-facebook SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Facebook</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--twitterHover" href="https://twitter.com/Seedrs" target="_blank" title="Twitter">
+<i class="i-twitter SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Twitter</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--linkedinHover" href="https://www.linkedin.com/company/seedrs" target="_blank" title="LinkedIn">
+<i class="i-linkedin SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">LinkedIn</span>
+</a><a class="SocialLink SocialLink--small SocialLink--whiteColor SocialLink--whiteColorHover SocialLink--greyBackground SocialLink--googleHover" href="https://plus.google.com/+SeedrsCrowdfunding" rel="publisher" target="_blank" title="Google+">
+<i class="i-google-plus SocialLink-icon is-medium InlineSVG"></i>
+<span class="assistive">Google Plus</span>
+</a></div>
+
+<div class="PrivacyNotice--link">
+For information about how we use your personal data please see our <a target="blank" href="https://www.seedrs.com/privacy_notice">Privacy Notice</a>.
+</div>
+
+</div>
+<div class="footer-legal-content text-copyright">
+<div class="text-copyright">
+<img alt="Seedrs small logo" class="legal-content-logo" src="/assets/seedrs_logo_large-5be2fd4aa5a946e80e0353906e0ed07fa81382ae79fb66721661b6027fc3a35b.svg" />
+<p class="fsa_text text-fsa">
+Seedrs Limited is authorised and regulated by the Financial Conduct Authority <a target="_blank" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMXovAAH">(No. 550317)</a>.
+</p>
+<p class="disclaimer">
+&copy; Seedrs Limited 2019. All rights reserved. Seedrs is a registered European Community trademark
+(No. 008771537) and registered United States service mark (No. 85423072) of Seedrs Limited, a limited company
+registered in England and Wales (No. 06848016), with registered office at Churchill House, 142-146 Old Street,
+London EC1V 9BW, United Kingdom, VAT No. GB 208 3065 32. Seedrs.com is a website owned and operated by Seedrs Limited.
+</p>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+</footer>
+</div>
+<div id="dialogs"><div class="PopOver PopOver--left" id="seis_popup">
+<div class="PopOver-content">
+This business is eligible for SEIS relief - providing qualifying investors with income tax relief of 50% of
+their investment and certain other tax reliefs. Tax treatment depends on individual circumstances and is subject to
+change in future.
+<a class="faq_link" target="_blank" href="https://www.seedrs.com/learn/guides/seis-tax-relief">Click to learn more</a>.
+</div>
+</div>
+<div class="PopOver PopOver--left" id="eis_popup">
+<div class="PopOver-content">
+This business is eligible for EIS relief - providing qualifying investors with income tax relief of 30% of
+their investment and certain other tax reliefs. Tax treatment depends on individual circumstances and is subject to
+change in future.
+<a class="faq_link" target="_blank" href="https://www.seedrs.com/learn/guides/eis-tax-relief">Click to learn more</a>.
+</div>
+</div>
+
+</div>
+<div id="javascript_includes">
+
+<script src="/assets/gulp/application-d94a9049b1b48b5b1c1de73d8359469d7cbf1d05c5e2596038394c3f662b150c.js"></script>
+
+<script>
+//<![CDATA[
+$.eisSeisPopup=function(){$.seedrs.PopOver(".CampaignSeisStamp",{strategy:"offset"}),$.seedrs.PopOver(".CampaignEisStamp",{strategy:"offset"})},$(function(){$.eisSeisPopup()});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(function(){$(".share_on a").on("click",function(){var a,e=$(this);a={social_network:e.data("social-network"),resource_id:e.data("resource-id"),resource_type:e.data("resource-type"),page_id:$("body").attr("id")},Analytical.event("Campaign shared",a)})});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(document).on("asynctabs:afterChange",function(t,e){if($.inArray(e,["investors","documents","updates"])>=0){var a=$('.Tabs-nav [data-section="'+e+'"] .unread_items');a.length>0&&$.ajax({url:a.data("read-at-url"),data:{last_read_at:a.data("last-read-at")},type:"POST",success:function(){a.remove()}})}}),$(document).on("asynctabs:afterFetch",function(t,e){"documents"===e?$("section.documents").trigger("documentsUpdate"):"discussion"===e?($("section.discussion .Forum").trigger("forum:showTopics"),$("section.discussion .TopicItem-commentsList").trigger("forum:showComments")):"investors"===e&&$("section.investors").pageless({totalPages:$('.js-campaign-nav li[data-section="investors"]').data("page-count"),distance:1800,url:$('.js-campaign-nav li[data-section="investors"] .Tabs-trigger').data("resource-path"),loaderHtml:'<span class="Spinner" style="display:none;"><i class="Spinner-icon"></i></span>'})}),$(document).on("asynctabs:afterChange",function(t,e){"discussion"===e&&$('[data-section="discussion"] .unread_items').remove()}),$(function(){function t(t,e){var a=".toggle_bio, .toggle_profile";$(e).slideUp(400).parent().next(a).removeClass("toggled")}function e(t){if(t.hasClass("toggled")&&0!==t.parent(".entrepreneur_container").length){var e,a=$("#content").find(".header");e={"campaign-id":a.data("campaign-id"),campaign_name:a.data("campaign-name"),campaign_type:a.data("campaign-type"),entrepreneur_id:t.parent().attr("id").match(/entrepreneur_info_([0-9]+)/)[1]},Analytical.event("Entrepreneur viewed",e)}}function a(a){var n=$(a.data("toggle")),i=a.closest("section");$(".biography, .extra_profile_data",i).not(n).each(t),n.slideToggle(400),a.toggleClass("toggled"),e(a)}function n(a){var n=$(a.data("toggle")),i=a.closest("section");$(".biography, .extra_profile_data",i).not(n).each(t),n.slideDown(400),a.addClass("toggled"),e(a)}$(window).scroll(),$(document).on("click",".toggle_bio, .toggle_profile",function(){var t=$(this);return a(t),t.is(".toggle_profile")&&t.hasClass("toggled")&&Analytical.event("Investor viewed",{investor_id:t.parent().data("user-id")}),!1});var i=$("#permanent_campaign_info_panel");i.find(".entrepreneurs .name a").on("click",function(){var t=$(this).attr("href").replace(/.*\//,"");return $('.js-campaign-nav [data-section="team"] .Tabs-trigger').trigger("click"),window.setTimeout(function(){var e=$("#entrepreneur_info_"+t);if(n($(".toggle_bio",e)),e.length>0){var a=$(".name",e);window.setTimeout(function(){0===a.inViewport({topPad:80}).length&&$.scrollTo(e,400,{margin:!1,offset:{top:-100,left:0}})},400)}else 0===(e=$("#detail_sections")).inViewport({topPad:80}).length&&$.scrollTo(e,400,{margin:!1,offset:{top:-140,left:0}})},120),!1}),i.find(".investors .see_all a").on("click",function(t){$('.js-campaign-nav [data-section="investors"] .Tabs-trigger').trigger("click"),window.setTimeout(function(){var t=$('.Tabs-nav:visible [data-section="investors"]');$.scrollTo(t,400,{margin:!1,offset:{top:-100,left:0}})},400),t.preventDefault()}),i.find(".investors .name a").on("click",function(){var t=$(this).attr("href").replace(/.*\//,"");return $('.js-campaign-nav [data-section="investors"] .Tabs-trigger').trigger("click"),window.setTimeout(function(){var e=$("#investor_"+t);n($(".toggle_profile",e));var a=$(".name",e);a.length>0&&window.setTimeout(function(){0===a.inViewport({topPad:80}).length&&$.scrollTo(e,400,{margin:!1,offset:{top:-100,left:0}});var t={investor_id:e.data("user-id"),from:"top investors"};Analytical.event("Investor viewed",t)},400)},120),!1}),i.on("click",".request-document-access",function(){var t=$(this);return $.DocumentRequest.openDocumentRequest({documentLink:t}),!1}),$.seedrs.PopOver(".campaign-tab-cta .PopOverTrigger",{onShow:$.seedrs.Helpers.toggleButton,onHide:$.seedrs.Helpers.toggleButton});var s="#become_authorised_container .PopOverTrigger, #investment_authorisation_container .PopOverTrigger";$.seedrs.PopOver(s,{offsetTop:3,onShow:$.seedrs.Helpers.toggleButton,onHide:$.seedrs.Helpers.toggleButton}),$("#invest_button, #become_authorised_button, #tabbed_info .button").on("click",function(){if("#"===$(this).attr("href"))return!1})}),$(function(){function t(){e&&$.TasksPendingUser.add({action:"favourite_campaign",campaignId:a})}$(document).on("ajax:send",".CampaignFavouriteStar",function(){$(this).data("request-in-progress",!0)}).on("ajax:complete",".CampaignFavouriteStar",function(){$(this).data("request-in-progress",!1)}).on("ajax:success",".CampaignFavouriteStar",function(t,e){var a,n,i=$(this),s=i.attr("title"),o=/(un)?favourite/i,r="favourited"===e,c=$(this).parent(".CampaignCard");r?(r=!0,i.addClass("is-enabled").data("method","delete").attr("title",s.replace(o,"Unfavourite"))):"unfavourited"===e&&i.removeClass("is-enabled").data("method","post").attr("title",s.replace(o,"Favourite")),a={"campaign-id":(n=1===c.length?c.children(".Card-link"):$("#content").find(".header")).data("campaign-id"),campaign_name:n.data("campaign-name"),campaign_type:n.data("campaign-type"),campaign_categories:n.data("campaign-categories"),action:r?"favourite":"unfavourite"},Analytical.event("Watchlist updated",a)});var e=!1,a=null;$(".favourite-campaign-later").on("click",function(){e=!0,a=$(this).closest(".CampaignFavouriteStar").data("campaign-id")}),$(document).on("submit","#new_account",t),$(document).on("click","#sign-up-dialog .login-instead",t)}),$(function(){var t=$(".details-panel-container .Tabs--compact-nav ul"),e=t.data("activeCompactSection"),a=function(e){if(e){var a=t.find("li.is-active");a.data("section")!==e&&(a.removeClass("is-active"),t.find("li[data-section="+e+"]").addClass("is-active"))}};(function(){for(var n,i,s,o,r=$(".tabbed_info .Tabs-trigger"),c={},d=0;d<r.length;d++){var l=$(r[d]);i=l.parent().data("section"),s=l.html(),o=e===i,n=$("<li>").html(s).attr("data-section",i),o&&n.addClass("is-active"),t.append(n),c[i]={element:l}}t.find("li").on("click",function(t){var e=$(t.target).data("section");a(e),"overview"===e?($(".details-panel-container .column_left").removeClass("is-inactiveCompact").addClass("is-activeCompact"),$(".details-panel-container .column_right").addClass("is-inactiveCompact").removeClass("is-activeCompact")):e in c&&($(".details-panel-container .column_right").removeClass("is-inactiveCompact").addClass("is-activeCompact"),$(".details-panel-container .column_left").addClass("is-inactiveCompact").removeClass("is-activeCompact"),c[e].element.trigger("click"))})})(),t.find("li.is-active").click(),$(document).on("asynctabs:tabChanged",function(e,n){a(n),t.find("li.is-active").click()})}),$(function(){function t(){return $(".Tabs-horizontalTriggers [data-section].is-active, .Tabs-async [data-section].is-active").data("section")}function e(t,e){e=e||{};var a=$('[data-section="'+t+'"], section.'+t,n);if(2===a.length){var i=!0===n.find("section."+t).data("wider");$("li.is-active, section.is-active",n).removeClass("is-active"),a.addClass("is-active"),$(".details-panel-container").toggleClass("is-wider",i),e.focus&&$("a",a).focus()}}function a(t,a){var i=n.find("section."+t),s=a&&a.poppingState;if(1===i.length){if($(document).trigger("asynctabs:beforeChange",[t]),e(t,{focus:s}),!s&&window.Modernizr.history){var o=n.find('[data-section="'+t+'"]').data("tabUrl"),r={sectionName:t};history.pushState(r,"",o)}$(document).trigger("asynctabs:tabChanged",[t]),$(document).trigger("newContent")}}var n=$("#tabbed_info");$("#tabbed_info .nav a, #round_number_tabs .nav a").each(function(){$(this).css({width:$(this).css("width")})}),$(document).on("asynctabs:tabChanged",function(t,e){$(document).trigger("asynctabs:afterChange",[e])}),$(window).on("popstate",function(t){var e=t.originalEvent.state;e&&e.sectionName&&a(e.sectionName,{poppingState:!0})}),n.find(".Tabs-horizontalTriggers a, .Tabs-async a").on("click",function(e){var n=$(e.target).closest("[data-section]").data("section");n!==t()&&a(n),e.preventDefault()}),$(".Tabs-horizontalTriggers a, .Tabs-async a",n).each(function(){var t=$(this).data("resourcePath"),e=$(this).parent().data("section"),a=$("section."+e,"#detail_sections");a.hasClass("rendered")||$.ajax({url:t,cache:"discussion"!==e,success:function(t){a.html(t),$(document).trigger("asynctabs:afterFetch",[e])}})}),function(){var t=(window.location.hash.split(":").pop()||"").replace("#","");if(""!==t){var e='[data-section="'+t+'"] a';$(".Tabs-horizontalTriggers "+e+", .Tabs-async "+e).trigger("click")}}(),$(document).trigger("asynctabs:afterChange",[t()])}),$(function(){function t(t){return t.parent()}function e(t){return t.find(".Content")}function a(a){var n=e(t(a));a.removeClass("is-expanded").addClass("is-collapsed"),$.seedrs.Effects.Slide.up(n)}function n(t){var e=t.data();e.viewed||($.ajax({type:"POST",url:e.updateViewedPath,data:{news_post_id:e.newsPostId}}),t.data("viewed",1))}function i(a){var i=t(a),s=e(i);a.removeClass("is-collapsed").addClass("is-expanded"),$.seedrs.Effects.Slide.down(s),$.scrollTo(a,400,{margin:!1,offset:{top:-100,left:0}}),n(i)}function s(t){t.hasClass("is-expanded")?a(t):i(t)}function o(){d="updates"===$("li.is-active[data-section]").data("section")}function r(){l=$(".NewsPosts .Item")}function c(){null===d&&o(),d&&(0===l.length&&r(),$.each(l,function(t,a){var i=$(a);if(!i.data("viewed")&&i.find(".Header").hasClass("is-expanded")){var s=e(i);s.is(":visible")&&$.inViewport(s,{})&&n(i)}}))}var d=null,l=[];$(document).on("click",".NewsPosts .Item .Header",function(){s($(this))}),$(document).on("asynctabs:tabChanged",function(t,e){d="updates"===e,c()}),$(document).on("asynctabs:afterFetch",function(t,e){"updates"===e&&(r(),c())}),$(document).ready(c),$(window).scroll(c)});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(function(){var a=$("#content").find(".header");$(document).on("asynctabs:afterChange",function(n,e){var i={"campaign-id":a.data("campaign-id"),campaign_name:a.data("campaign-name"),campaign_funded:a.data("campaign-funded"),campaign_type:a.data("campaign-type"),section:e};Analytical.event("Campaign section viewed",i)}),$.prepareVideoEvents({ready:function(a){a.postMessage("addEventListener","play")},play:function(){var n={"campaign-id":a.data("campaign-id"),campaign_name:a.data("campaign-name"),campaign_funded:a.data("campaign-funded"),campaign_type:a.data("campaign-type")};Analytical.event("Video played",n)}})});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(function(){""===document.referrer||document.referrer.match("^https?://[^/]*seedrs.com")||document.referrer!==Cookies.get("ignored_referrer")&&Cookies.set("_seedrs_referrer",document.referrer)}),$(function(){var e=new RegExp("[?&]promo_code=([^&;]+?)(&|#|;|$)").exec(window.location.search),o=decodeURIComponent((e||[null,""])[1].replace(/\+/g,"%20"))||"";if(""!==o){Cookies.set("_seedrs_campaign_code",o,{expires:30,path:"/"});var r,c=document.URL.split("?")[1].split("#")[0].split("&");r=1===c.length?"?promo_code="+o:0===c[0].indexOf("promo_code=")?"promo_code="+o+"&":"&promo_code="+o,window.location=window.location.href.replace(r,"")}});
+//]]>
+</script>
+<script>
+//<![CDATA[
+$(function(){function s(s){s.validate({rules:{"registration[email]":{required:!0,email:!0}}})}function e(s){s.on("ajax:success",function(e,a){if("success"===a.status||"error"===a.status){if($(".FormField-textInput",s).val(""),"success"===a.status?s.formShowSuccess(a.message):s.formShowError(a.message),"success"===a.status){var t=s.is(".us-access-form")?"US":"World";Analytical.event("subscribe list",{list:t}),window._fbq&&window._fbq.push(["track","6032192082464"])}}else a.dialog&&($('input[name="registration[email]"]',s).blur(),$(a.dialog).modal({onShow:function(){$("#dialog_registration_form").on("ajax:success",function(e,a,t,i){$.modal.close(),s.trigger("ajax:success",[a,t,i])})}}))})}for(var a=$(".registration-form"),t=0;t<a.length;t++){var i=$(a.get(t));s(i),e(i)}});
+//]]>
+</script>
+<script>
+  $(function() {
+    if (!Cookies.get('signed_in_status')) {
+      $('.site-footer .newsletter').reveal();
+    }
+  });
+</script>
+<script>
+  $(function() {
+    if (Cookies.get('seen_cookie_message') !== 'accepted') {
+      $('#cookie_message').show();
+      Cookies.set('seen_cookie_message', 'accepted', { path: '/', expires: 30 * 365 });
+    }
+  });
+</script>
+<script>
+//<![CDATA[
+$(function(){var t=function(t,e){Analytical.event(t,e)},e=$(".AutoInvestNav");e.find(".autoinvest-main-cta").on("click",function(){t("AutoInvest Nav - Find out more button clicked")}),e.find(".autoinvest-become-authorised-cta").on("click",function(){t("AutoInvest Nav - Become authorised button clicked")}),e.find(".autoinvest-become-authorised-cta").on("click",function(){t("AutoInvest Nav - Become authorised button clicked")}),$.seedrs.AutoInvestNav=function(){this.options=$.extend({},$.seedrs.AutoInvestNav.defaults,$.seedrs.AutoInvestNav.staticSettings),this.$element=$(this.options.selector),this.$avatar=$(this.options.avatarSelector),this.init()},$.seedrs.AutoInvestNav.defaults={selector:".AutoInvestNav",avatarSelector:".MainNav-AutoInvest-Avatar-Container",pauseSelector:".autoinvest-enabled-button",pauseTextSelector:".autoinvest-enabled-text",restartSelector:".autoinvest-disabled-button",restartTextSelector:".autoinvest-disabled-text",pulseSelector:".Pulse",summarySectionSelector:".MainNav-AutoInvest-StatsContainer",warningBoxSelector:".autoinvest-low-balance-warning",enabledBotAvatarSelector:".autoinvest-bot-avatar-enabled",balanceLowBotAvatarSelector:".autoinvest-bot-avatar-red",balanceBelowMinimumBotAvatarSelector:".autoinvest-bot-avatar-orange",notSetupBotAvatarSelector:".autoinvest-bot-avatar-not-setup",disabledBotAvatarSelector:".autoinvest-bot-avatar-disabled"},$.seedrs.AutoInvestNav.staticSettings={},$.extend($.seedrs.AutoInvestNav.prototype,{init:function(){this.$pause=this.$element.find(this.options.pauseSelector),this.$pauseText=this.$element.find(this.options.pauseTextSelector),this.$restart=this.$element.find(this.options.restartSelector),this.$restartText=this.$element.find(this.options.restartTextSelector),this.$pulse=this.$element.find(this.options.pulseSelector),this.$summary=this.$element.find(this.options.summarySectionSelector),this.$warning=this.$element.find(this.options.warningBoxSelector),this.$enabledBotAvatar=this.$avatar.find(this.options.enabledBotAvatarSelector),this.$balanceLowBotAvatar=this.$avatar.find(this.options.balanceLowBotAvatarSelector),this.$balanceBelowMinimumBotAvatar=this.$avatar.find(this.options.balanceBelowMinimumBotAvatarSelector),this.$notSetupBotAvatar=this.$avatar.find(this.options.notSetupBotAvatarSelector),this.$disabledBotAvatar=this.$avatar.find(this.options.disabledBotAvatarSelector),this.bindListeners()},disablePause:function(){this.$pause.prop("disabled",!0),this.$restart.prop("disabled",!0)},enablePause:function(){this.$pause.prop("disabled",!1),this.$restart.prop("disabled",!1)},goOnline:function(){this.$pulse.removeClass("is-offline"),this.$warning.hasClass("is-hidden")?(this.$pulse.addClass("Pulse--green"),this.$enabledBotAvatar.removeClass("is-hidden")):(this.$pulse.addClass("Pulse--red"),this.$balanceLowBotAvatar.removeClass("is-hidden")),this.$summary.removeClass("MainNav-AutoInvest-StatsContainer--isDisabled"),this.$pause.removeClass("is-hidden"),this.$pauseText.removeClass("is-hidden"),this.$restart.addClass("is-hidden"),this.$restartText.addClass("is-hidden"),this.$disabledBotAvatar.addClass("is-hidden"),this.$notSetupBotAvatar.addClass("is-hidden")},goOffline:function(){this.$pulse.addClass("is-offline"),this.$summary.addClass("MainNav-AutoInvest-StatsContainer--isDisabled"),this.$pause.addClass("is-hidden"),this.$pauseText.addClass("is-hidden"),this.$restart.removeClass("is-hidden"),this.$restartText.removeClass("is-hidden"),this.$disabledBotAvatar.removeClass("is-hidden"),this.$enabledBotAvatar.addClass("is-hidden"),this.$balanceLowBotAvatar.addClass("is-hidden"),this.$balanceBelowMinimumBotAvatar.addClass("is-hidden"),this.$notSetupBotAvatar.addClass("is-hidden")},makeRequest:function(t,e){var s=this,a="pause"===e;$.ajax({type:"PATCH",url:t,contentType:"application/json",data:JSON.stringify({enabled:!a}),dataType:"json",success:function(){s.handleSuccess(e)},error:function(){s.handleError()}})},handleSuccess:function(t){this.handleAction(t),this.enablePause()},handleAction:function(t){return"pause"===t?this.pauseActions():this.restartActions()},restartActions:function(){this.goOnline(),this.isEnabled=!0},pauseActions:function(){this.goOffline(),this.isEnabled=!1},handleError:function(){this.enablePause(),$(".pause-restart-button-error").slideDown()},restartAutoInvest:function(){this.makeRequest(this.$restart.data("url"),"restart")},pauseAutoInvest:function(){this.makeRequest(this.$pause.data("url"),"pause")},changeAutoInvest:function(){this.disablePause(),$(".pause-restart-button-error").hide();var t=this.$restart[1].attributes[1].nodeValue,e=this.$pause[1].attributes[1].nodeValue;this.$pause.hasClass("is-hidden")?this.makeRequest(t,"restart"):this.makeRequest(e,"pause")},bindListeners:function(){this.$pause.on("click",$.proxy(this.changeAutoInvest,this)),this.$restart.on("click",$.proxy(this.changeAutoInvest,this))}}),new $.seedrs.AutoInvestNav});
+//]]>
+</script>
+
+</div>
+          <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+          0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+          for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+          var mixpanel_tracking_opt = {}; if ((document.cookie.replace(/(?:(?:^|.*; *)performance_cookie *= *([^;]*).*$)|^.*$/, "$1") != "true") && (document.cookie.indexOf("performance_cookie") != -1)) { mixpanel_tracking_opt = {opt_out_tracking_by_default: true} }
+          mixpanel.init('3bccab71799430a352d36dd035d35501', mixpanel_tracking_opt);</script><!-- end Mixpanel -->
+
+<script type="text/javascript">
+var commands;
+
+try {
+  commands = $.parseJSON(decodeURIComponent((Cookies.get('analytical') || '').replace(/\+/g, '%20')) || '[]');
+} catch(e) {
+  commands = [];
+}
+
+Cookies.remove('analytical', { path: '/' });
+
+$.each(commands, function(index, command) {
+  var method = command.shift(),
+      arguments = command;
+
+  if ('function' === typeof Analytical[method]) {
+    Analytical[method].apply(this, arguments);
+  }
+});
+</script>
+
+<script>
+  /* <![CDATA[ */
+  var google_conversion_id = 1006010876;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;"></div>
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006010876/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1">
+</noscript>
+
+<script>
+//<![CDATA[
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
+s.src='https://widget.intercom.io/widget/qhec2syh';
+var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+
+//]]>
+</script>
+</div>
+</body>
+</html>
+

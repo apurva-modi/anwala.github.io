@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/cache/css/s1/cnews/template_3e17e4a0781d2b625b490fc66036fb6a/template_3e17e4a0781d2b625b490fc66036fb6a_v1.css?15508176901621" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link rel="canonical" href="http://cryptonews.net/news/finance/100503/">
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>World news about cryptocurrency and blockchain technology from different sources</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css"
+          type="text/css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css">
+
+    <link rel="stylesheet"
+          href="/css/flag-icon-css-master/flag-icon.min.css?155081767645464">
+    <link rel="stylesheet" type="text/css" href="/css/semantic.min.css?1550817676566635">
+    <link rel="stylesheet" href="/css/styles.css?155081767639005">
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W7KJBRM');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body ng-app="app">
+<header>
+    <div class="container">
+        <div class="header">
+            <div class="header-logo">
+                <a href="/"><img src="/i/cnews-logo.png"></a>
+            </div>
+
+            <div class="collapse navbar-collapse header-menu" id="navbar-collapse-02">
+                
+
+    <div class="ui dropdown">
+        <button data-toggle="collapse" class="navbar-toggle" type="button">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+        <nav class="menu nav navbar-nav navbar-center" id="navbar-collapse-02">
+                                                                            <li class="item active"><a href="/">News</a></li>
+                                                                                <li class="item "><a href="/about/">About</a></li>
+                                                                                <li class="item "><a href="/contacts/">Contacts</a></li>
+                                                                                <li class="item "><a href="/trending/">Trending</a></li>
+                                    </nav>
+    </div>
+            </div>
+            <div class="header-lang ui dropdown">
+                                EN                <i class="dropdown icon"></i>
+
+                <div class="menu">
+                                                                    <div class="item">
+                            <a href="/100503/?lang=en">
+                                EN                            </a>
+                        </div>
+                                                                    <div class="item">
+                            <a href="/100503/?lang=ru">
+                                RU                            </a>
+                        </div>
+                                                                    <div class="item">
+                            <a href="/100503/?lang=de">
+                                DE                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="container">
+        <div class="ad-cnews">
+    <div class="ad-cnews-desc">
+        <p>
+            <img src="/i/logo_desktop.png">
+        </p>
+        <p>
+            Crypto News is the aggregator app about cryptocurrency, ICO,&nbsp;mining and blockchain
+        </p>
+        <div class="ad-cnews-apps">
+            <div class="app-item">
+                <a rel="nofollow" target="_blank" href="https://app.appsflyer.com/id1267753692?pid=website&c=cryptonews.net">
+                    <img src="/i/app/appstore_en.png">
+                </a>
+            </div>
+            <div class="app-item">
+                <a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.cryptonews">
+                    <img src="/i/app/google_en.png">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="content">
+        <div class="sbar sbar-left">
+            
+	<ul class="nav-menu">
+		<li class="title">
+            <span>Сategories</span>
+            <span class="show-mobile">
+                                        <i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpISyTA9AAAAJ3RSTlMABPoJEw7lx/bs31NAJPHZ0V6xpJeQh3Jpv555NDAgtqkbrIArSTyH9VSHAAACX0lEQVRYw9WW2aKqMAxFoWUeBQEHnHDa//+H13M8EpDQKjzd9Uh1p0mawfg/sOcK1NlMicirzFkCUqCcp+AChTVHoAJEOUcgxIOLnC5wFQC89fQ4NAEeJPvJApaLH4J48lM84pd8airk8ikg1hMFzC2eONcP/LUYgQJ/uFJr7HJnPpbAp06skkh1A7iaON4TZEwQz2hRX8HOgYKJy4IEHOUVMg9whnHaeSAuqgz4eFAPvi/RYdHQAR9sf/fekQQ6eOF40QX45dhvgQcXPZbjKcQfedP164Q+iT3mwYKynZmvj6GLd1YGzw2ESNfWT1pDV2CAY/IXeDflp4EAh9iN9S01ute4hgYysDX5mldzporaWHzfU7K0Qw9P+OYYO1DgbS3j6iujGKliuMjkI6dkIvsuhqJ8+rzBi4oRKMGTLMqXx5WyHI6s6251O7Q5yygNjMBicPEkD+1+mPAiZQQC9EnreJAoeuWMgP8W9705fCoUGEZA9P/P1bykc52Af2PrlYKrc+FInZl1wdFlITM4duQhc9rrfLG6Z+LEnxL8DKZ6rbmpKECwTW9P1Xhnjg8piIYd/K2J9MCvMUSotrBkXcwE6BcmM+J1SZIOWoL9wAGqZZrfb4QCo5eUdUJlGo6NtpwExNbu+X/y6CwfXXkjH0TetL+TYQDCj8b3gxodnOoWW1azDy8uutSKnVsW6JIEaZo6CXoUUrNkachtQ8nhrJlvsXZTLYVqQJiGFrkKMEKwkh+t5vutYM1vqc/q2G28wYjZ7IwvkFG1cdDibKpIGl9ixdGqOB2Pp2IVxeP78T9ouceZHsAuBgAAAABJRU5ErkJggg==')"></i>&nbsp;&nbsp;Top News                                </span>
+            <i class="fa fa-caret-down pull-right" aria-hidden="true"></i>
+        </li>
+						<li class="active">
+				<a href="/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpISyTA9AAAAJ3RSTlMABPoJEw7lx/bs31NAJPHZ0V6xpJeQh3Jpv555NDAgtqkbrIArSTyH9VSHAAACX0lEQVRYw9WW2aKqMAxFoWUeBQEHnHDa//+H13M8EpDQKjzd9Uh1p0mawfg/sOcK1NlMicirzFkCUqCcp+AChTVHoAJEOUcgxIOLnC5wFQC89fQ4NAEeJPvJApaLH4J48lM84pd8airk8ikg1hMFzC2eONcP/LUYgQJ/uFJr7HJnPpbAp06skkh1A7iaON4TZEwQz2hRX8HOgYKJy4IEHOUVMg9whnHaeSAuqgz4eFAPvi/RYdHQAR9sf/fekQQ6eOF40QX45dhvgQcXPZbjKcQfedP164Q+iT3mwYKynZmvj6GLd1YGzw2ESNfWT1pDV2CAY/IXeDflp4EAh9iN9S01ute4hgYysDX5mldzporaWHzfU7K0Qw9P+OYYO1DgbS3j6iujGKliuMjkI6dkIvsuhqJ8+rzBi4oRKMGTLMqXx5WyHI6s6251O7Q5yygNjMBicPEkD+1+mPAiZQQC9EnreJAoeuWMgP8W9705fCoUGEZA9P/P1bykc52Af2PrlYKrc+FInZl1wdFlITM4duQhc9rrfLG6Z+LEnxL8DKZ6rbmpKECwTW9P1Xhnjg8piIYd/K2J9MCvMUSotrBkXcwE6BcmM+J1SZIOWoL9wAGqZZrfb4QCo5eUdUJlGo6NtpwExNbu+X/y6CwfXXkjH0TetL+TYQDCj8b3gxodnOoWW1azDy8uutSKnVsW6JIEaZo6CXoUUrNkachtQ8nhrJlvsXZTLYVqQJiGFrkKMEKwkh+t5vutYM1vqc/q2G28wYjZ7IwvkFG1cdDibKpIGl9ixdGqOB2Pp2IVxeP78T9ouceZHsAuBgAAAABJRU5ErkJggg==')"></i>&nbsp;&nbsp;Top News</a>
+			</li>
+				
+						<li>
+				<a href="/news/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTnU1rJkAAABT0lEQVR4Xu3bMUoEQRCF4UVjMdRc0chcA03WzD2A4HVEEDMP4Bk8gQi7wopgLsKeQ0Ft/9K2mW3KyXvqPfiSRyc1MDtNwY5SSqG5ZSRuGYlbRuKWkbhlJG4ZyU9u7x5WsYNLLPCGF5xjCyu/JwcYGw5jPOMLqfKEw3x8KfRrOGnYvg2xgSnqwbvmWM9zl9Dtdc606N6GOMVHp/R84izPXUI3iAdwXZX/uclzl9DpAVRnWqNXwIbYxKxTeh4x2B9B+wweo+8zeJRnXgq9fQYnDTv4G8QuQru4gl2E3vGKC2xjuBchRVEURVEUJXK46monCO0Ee2gnCO0E89wldHoA1ZnW6BWwIbQThHaC0E5QURRFURRFiRauutoJQjvBHtoJQjvBPHcJnR5AdaY1egVsCO0EoZ0gYu4Evb+RROKWkbhlJG4ZiVtG4paRuGUcafQNVBjdVhHJ/28AAAAASUVORK5CYII=')"></i>&nbsp;&nbsp;All news</a>
+			</li>
+				
+						<li>
+				<a href="/news/video/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAe1BMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsXM4RSGAAAAKHRSTlMA+mAEEOMW8Ogfo2/0vrOtnYN+TArr1srFjndoQj0uHLkonppY26ksoSkW8AAAAb5JREFUWMO1l+dygzAMgCVsM0IYgTASsker93/C3iVNuYCxTXT9fuPPyEOWQI+Qx12ctyogrO5tHu+OUoA7UVmkit5QaVFG4MZhlYSkIUxWB7AjNwppAlQbaRvuhWQk9EwKsc+QLGC2F5Pj45ocqOMJw/q6JCeW1zVo8BdIjuDC14y/IDmDl5Fh3c/v9g+DKESONAvMxfv6L2kmy7e92Nc0m3rfj5cZfUDWn0kPPxGg97eDIX1E+NrLjU7fpG1gM2x+77/SrHFxltEtsYSmnvlhpflsIR+xxebgcPXIXwmN6eDJ+csYRxIBQKmbxYMXZWpQhCWAKMgoAN9rpg2FAHmyCED422pKcJIQVZOCnu9sIo4qgh05CGB9O+kVO9gaBT3HrtGdii0sHAUgjtoDA41V0HNOR2mjATVDALIbfq4gmCMAMVyyAGiWACQNAJwn8EeCihvCnbuI7axtDEbbyD5I7KPMvkzs68xOKOyUxk2q7LRue1iU5WFhP22Gx7V1eVzZzzu3wGCXOPwii1/m8QtNfqnLL7Z7g3sUmPvshkOL6Gp0mL7uBLfpYrZ93MbTijC1vuIfmm9b+0+BMrb/P35ZoQZ2wFn1AAAAAElFTkSuQmCC')"></i>&nbsp;&nbsp;All video</a>
+			</li>
+				
+						<li>
+				<a href="/news/bitcoin/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAhFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV9z2XfAAAAK3RSTlMA+QPz78gLBxHUF92wLYY/2WocDefPk3Cqo41GKSJmOp5eVeHBuHmBV1AznV3mLwAAA3RJREFUWMOlV9m2qjAMbZnLjMgkCDKJ2v//v4sUp6b1cpb74ayjNmmTvZOmSAwltr3Wz3XS947u+q1nxwraDivIihDTN+CwiAJro/kucx1MAbDjRrsN5kZGVCqBGmbG/8xLQr+ClN9cKF4KdgenSD15Oi86iB0C651s/7NGN0GbFCF3B0w3Ah8skb1KN0P1Y97eBOn77uFgcg588fnz+uSIo5g+89dq4mW1gnYjxf1exXwmu/dM3hIqxL5EqAlpaN9qnXLQvTf9nSQE6NUsDpUW85ocnC59afKK+Z0nf9FUYSJzorSdkwxjVIPnAULRzvY1TbKZXpfiuQgDCpE8mDjD5DOaFXN2UITJnSUqQMTsjyFUmvIiaNc0819dWJqsP0QqVLvue58810Qkp+UIliuumICTaptAqtx7TQQSqZ1ZidzsRzi7A2DCuUcXYfEJLotVl4xpZ62HiHgPOFJQXEhEeFyMTvMqjVxMxnfKrypiZIcSEbJN2a9qxjyUe54HG3kSFfusSFYLhxFW8WxiD7VUDEZC/aC4YpIZ+GUXdJD0PXbmFK8ZYSfwQNVOyBU7cBmJhYZZCzPEOaAF0sUOolXH5fmUu0XNiDQnsG5AYhKw91KxYT2qroGaS1DP/oH0AAg160gcnJaYjcv1+NzeZgkFDogwgkxZbEKqDX5psVCCUXRUpIubKZMRXj645do4BB4GMY0600328NcyD54GexcTkqSljZzDOAcrJyBlPLoJqdn6Z6vqA6YD2Bk7UEz90fKaVXf0gbCROMAVKOcUPfGKLrfWCwjqhW8o+Ph243cnstc0be+uX9o61Avf0vru9i5C89iUZfWUIoYtDQhUJWPaVqZwBhphUxW2dazuzyIPZwzbuuRiwe0ccNZ9DKYxXKdGrN8TWCLBElpizPptqp1t77zrSZNdbSiDCp/T3mKa37kM9WF0x0SjEBliMAhgx0TGrIK7IGEPgNc7Krno8JxDa6D0OEcA7eCAgQyuV+Dh3F016twzTCHgiIM8Hbjv72OUAapdPGQhpdNEe+xJoUkH5qsCRPIX4IyXqXhUlu7vg4E99tW/2Me/jft+/NuDI5M9erptT57rj4+uSkFyGEHy3V4PjF8enkltbnn61rnw6Ru6tY22IW6iguAPa3KqG+HjW/78ry5TPiROT4bcv1S2IUndP6QZqC9VelQ7AAAAAElFTkSuQmCC')"></i>&nbsp;&nbsp;Bitcoin</a>
+			</li>
+				
+						<li>
+				<a href="/news/ethereum/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV3STHkAAAAJ3RSTlMA9wTy7OdBHOIRFqSeCbB2uiHbv4MvzkoO1W9oyJB/ZJdRNCtfO4tJ2jy4AAACtElEQVRYw61X17LiMAyVbMcppDoNEkIH//8f7l5gWMCSk5m95zEaR+2oAQ0Rh7pIt0ahxWibFjqMBSxH2O9KZT+gyl0fwiKIc1MHlkBQNmeYR3KL0DLA6JaAH/FeWS+Cfeyz/pqjnQHmV8G+Hzd2ATYj84d1Ku0iyHRN5m6FdiFwFRLvU7SLgamTjYzRbwxjQ/YVP0Z/dz5vGBvEx/tB0uG6CHFhRMP7HzSjZpUAJIxzG/3Gv5yh3fVHeg1oaf6Pk3smAYW4+1cwqdi/6odRUT+9FDVjYPKUT7Q8OsETp8iSmB4aWlqMDwceTiCtor2LG1paV280LWkdzY+woj1UR3jDUfFKejqEh0+mHegw9gBiR3P4q1qSzlLYCYhJ91DDF7RkyBQq6v2UOeU6IeVDCJp0oAUHLemEBoqnchRUx6ScKGBlXZQZEMioklvBlqBABSQqIlxbIHg8gAO2aiOQhFmMBfENXWuBSqI5CnBx2lKJBOejPHQom8QZO/vISoOOMlBuhZxukS37j0yIU4rYFW4eAjCuB7fsWNuoCd/Uj91fy9rR9cFQaUQtkoPF+vyKXiqtuqzJNJJE2iQAR4NyXN8JdDUW6wqykiRSQXaaDKBNJa6uAqpGWVOsOSrTxWQ0ACQXYzdDX6LNdcYXU6jIOv8xXlQ5SmXlEHvKmWko9vKI/i6QWy18DYVracEzBXqs/C2Nbap5vKip8m1dDsvaOj9YunbZYOFH25TNjzbvcFX9q5/6hyskipab9dOAkhvvTqsix5sYuAVjdsVRR992kMezS5YtK++SNb/mYeFf8+YXzeB07nyL5vyqG0T+VXd+WWf0h/+77v/ywfHKxbKTZ+CPJr3k6NICeMSj8r9XYwx+JJPv8JwSmIVoudO3blqx9PhuSvX1mjy+eWRx1d/Pfzt3/v8ByHKFckPI34IAAAAASUVORK5CYII=')"></i>&nbsp;&nbsp;Ethereum</a>
+			</li>
+				
+						<li>
+				<a href="/news/altcoins/"><i class="icon" style="background-image: url('data:image/png;base64,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')"></i>&nbsp;&nbsp;Altcoins</a>
+			</li>
+				
+						<li>
+				<a href="/news/blokcheyn/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAhFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV9z2XfAAAAK3RSTlMABPzzGzvfNMc/ItYnFQnpwBHiLvjt3NJTgU0Oy7ewp5NqXEZ5opyMhnFkvItoWAAAAndJREFUWMPFl9e2ozAMRV1opvcWCARI1f//3xAIDCVwZ8zD3Y/xOkeykJRltOAkN2XCHMSLd6UA4J9lTr1uQ4/G54DvBD6cMVcCCgyEXCmIEgxYMZeBe9BAz2BAEnkMzNtYxNxEPLAQelyGuMBpBB0N4kVoFMkFsNERvABAPGJwuhG4mkccYgukQyk4NpAEH3G4EMjUIwaGBOSFjvAEyA4ZmGEW7+f4uie7dVbNXf+XBS2KjPejyHVay863IlPo0NjebCe5ZgVWdH4KqyMLekhx2hyrKvShhyrLy5YwQNUt/ZPCXyw2r4AGI+mG/kJhiiWOJ4IcJ5PDamM5BjDHFjq1V5W5NvUm4vevVMACemmn/B5ZlMAMTfhqIGuwpHBQ9RYTaimPcf37zfdGqCgs0XQku0GU3yu91aQR6fQ3YWMSCCwJZGRUsWz0EbH8UNzw/NrQ4wRW+GL7+7RMhiA4eKsJGlhB/2tDvXxY4np7S7S+XOqhqZ32XrULsG6ETeoooDToG15/aKWJDBsWkMf24KafcBIT4twH0IxuJ87YW9KCAh/C8B3KzdX2UmeYsrujq2kwajfM6Gzzmb500Ca3ifwuj59WLf4a+8kJbTNJVpkN1EUKyFsdRPHu5rvDSDE/ceLHtbgm6Qntwvyd7YJN/PP/4HgHGyMuxIx0lY68dQKG4fyDq1cqkpSVaz1S82yc+D2wzphnojW6280AP6oEtvrbBsohAyEERf9NA+EZgNUImFfPFAItUczp4IXQI6VcelzAB3I2eAx07eDjg7kwQGu+B9hBAzUCOPYKvY1FvDp8g5ANCYiID6+g7/g2427FE3tcy/SHJvgDTRGBJeUIi3UAAAAASUVORK5CYII=')"></i>&nbsp;&nbsp;Blockchain</a>
+			</li>
+				
+						<li>
+				<a href="/news/ico/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAilBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsXRxwIaAAAALXRSTlMACgL7+QbTEe3o9VUV8r8v2GnhjB8ahDspxTTMetyzqp5xXKSRY0ZOQrklldrHz66uAAADM0lEQVRYw5WW2ZaCMBBEEyDsOwiiIMjqlv//vTEoM4RpId6nHI4pKt1FRwSArcjSsLZvDcVvDxqZHtvP5wQJkBqU+s3JoQzFzS8IaV5qRapMjV5EwFMphyuR7hjKbBl6IgI4UjiBSrLL97IlSITU5wRq5BmvlbNDQkh3eba/8KTotZJzJAh744QSaZb5Wqo2EiX5E/D7OnxLnSVhAe0x7TejKHwvsz0Sp/4VCJVpxQwIY59kusCN0RdIvU95wgF9BbY4BfloSeg7yKH1p2Mox9z7cr+EJURwfLHqrrNSG3+5HR9cszxM2wjW7Di2v2nBWaeU6qeks4ZhqIOkcUP9lBLR/btW/82x4zjyVMZeUAE3JoWQ1YskVL5Sph8I90LThH4mPGx6IJ1OV1DTLYXDka4hZxsetFahqyin3boBh3Icd2Sf8R6S1Q40dCGgoZu78NCvzUJzW4D6K4coKYdRdhhpwVVZHOJjHfcO57X1bMKSEfe8CfXj9ZTPM2jWs+ZwtTFzBIPd+fsT/KrrqzhcKz61Mi3mPg9s974Oeo0tzuY80RdYYP4juWEG4lKRw46wgITzMp4JmMKKOwF7NBiTYVzQGSUGe5D9E7DYl/VgRScPLgrgfOv1uctKYposAnLhP1G4KOyhGAfAPXS4q+B4saAm3rmf6AEZn6Y5JJFDNVxkvkjfwrezQZdU0Cxf/szpCPinieFCTfjv1LXi99USLNQLQGCg/zGvgSe9CsR7MKAcUggzy8fgp7wFBxCI+LmjPilkJtFqzILPzwRAoOJH0ZiCMVrqmJqMcgACJ35osKPfsj+BI38yQIB/RTh+QSwBTsSOoBWbRVT5INZjuIY8r8dM9wZvEBAI+Spdx30SIa82VnxKroDAIipys/sbvjjQt6Ps0AVH64ZHF7YXOQIfkwPcpNGFoPjcFEKfM3it3zG6GMBzD+wCQAUL6NBcbyCBMvWm+m3OxFqmwjwggZ0qLuBARyDMqygpAsCBISwQIJA4yQz9iaNsCbToE9jW8O6SZM66QIk2iAPXXBOo0BbSrbsuDmLqv5rKgLYhWmwl1cl1r+U9Caz0Ztv23kpOhamoAUYTP75+O4tfI/eVAAAAAElFTkSuQmCC')"></i>&nbsp;&nbsp;ICO</a>
+			</li>
+				
+						<li>
+				<a href="/news/mining/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAflBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsW3TPBOAAAAKXRSTlMA+gUO9+ndwhXtqXksCcwz49RzHvSxJfG5nzheUEiGbFdBGZiSjIFoPb5L0yUAAAJWSURBVFjDpVbpmoIwDGzLDeW+BRe87fu/4K6ibiMgDc6vfvIlNpmZpASC1XWokS/gCZG5TcHWxu8c8YfS8ux18ftKDNDNbk0hLNHFC0GLTxHGQgLNt88UPldKxnIBER3C4UsT1FyFASreQI2z//eBB4LG7WI8L8UYtAqZf7qfTkvMhK5JxRhm0jjDyWr9zxm0a2JNpKDGqyeLl2D2xtXFPGhcKHDpGlTMolWSw08wl8JSExfjXjwZHxXKot4n0UQLOoJAWjvvheR7pLddA17giLWXfYB3MBJkgsISEJmHGw/nMZsJZthdDTGCcfHVOxBMSqFXTnAQkzA2ivEtKMDMXkcnVNNRJcfHRRf/G4IrbRjZ1s6OsM1rYuq1wtbgjpDwcyNP87JnhmU5aDEw8WBC1ptPUW+XJPQjxzvNyx3PkRctULEFXq61/9YeH2Xk6ccVmQMGbbm2xHm04ZOmOyob6K3e3ljUE4/AEHgX/2ZohGXPMgBMHPDxH+T3DMe5Is5gAlymeuTeyZnhcmeCMcgmaa5vOq32kyZ2AQPFnFAcIcrLVPaLvKPLfrZRXilEkE6YEJj4MD+G/eTmkfHPgIH4o2AbywzGryxZQvrSBGWjC26ACSv0M02r5QsYKcGi1+UCGnR8YcoecG1svA9NfCVYdHIB1GPfvXMDH80AWOURJ1i0jsxAh463gYnxDDBg4miLjm+y0SJCgQeAAbyETjIDZUGwuGZAQgQNF5g4xSfoJQ6NluDBwmqIBusCBe3kPEyokZXYVvrwllmN9FwKeiZfwA8tdwUDv1xfp+dIuZZCAAAAAElFTkSuQmCC')"></i>&nbsp;&nbsp;Mining</a>
+			</li>
+				
+						<li>
+				<a href="/news/finance/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV3STHkAAAAJ3RSTlMABPpfEOrw4pMK9UsW2aauRMi7oXpx5rRnMB1AJ53AhBrRgDYfU4pop5dnAAAC9klEQVRYw7VX6bKrIAxGxBX3ui+11mt5/ze8U7FHDVCcOXPyywnxM/kMWZBcDNImeZQ6NsNWmEZ50hIDXZd/9FmV7CRl9aQtuiRGM94tJpEyG5sLbgSug5lCsOMGmtdJbbGvYtXkm/ddjJlGcNwZyveL8Gxcm1yGkzYsFAje4IOveduJeVb7gydl74bZNQCGbxIuH+B9AAARHgL9EWbXARiOCOBvwEwDAH0wzvz7golfph+AJLSxcHz6F10Iz+2q6HcLjw4ltAi7AwExdPC+AJ49eodOxDsNJoYB/kOC9BX8ivmTARak2NvZMXYEGKcVbDYuOLiT7aCnZl3Uy7zhJTYwdDl64wDgGXG9m1r4zec0NFwDv+Rw/QgY2HKkm/DOKbfsbRDruNavO9DWq2MkOypf3qqrYLBvsqkFIqDoLTM+OftYSXkyaCtROp0sfTkvNQPyNBDJIECy2tKztnLfAm1ZRlBrwSRe+PUO2QWxWpQISn5LDNO5gpCgXNBVZMv+CusBchQJOkw/dyyJfR1AhFJR6ez1qq0rx/7mSIpkkWb9sVgur0zdrBxkS7Q4OzePRzKqGLWRVI3L3DjXk/aloAOpnAvNh3cqm8kkB1A2Uzy9luaI0WTSEL4lnD3FeUL2kpTKSEw1zdgO3Z9/MtuS3xgxvdy2Cu+5kkTK2QUJF45ALTGVE3YJYVawkIDrrI5C3oGsViwok/uWCFryZIDqjIglbVjDDUDi+WiVm1DSRGIq3m+As6nUA4tKyvo0y/65yZtgBcv63lhgXzDMUhyr5hA0FmlrS9vt9tymtZb4TlYE0jnEaaTNFW89E3kNNYuiNrtPs28n2FwV7X00Du398Bxj0N5VA4b/CiRzbBCpBgwxwfyKEjgHLhkWRxz1kFXGdX9wvq/jUhiytGNe9jmmaelLxjztoGl/TnPdoAlHXT0Ajohu2IYAcNjWj/sQAI77+oUDAsCboV95fHOTGK48v126frn2/e3iqV99/375hus/s52v6/9/mvB30tMv7/oAAAAASUVORK5CYII=')"></i>&nbsp;&nbsp;Finance</a>
+			</li>
+				
+						<li>
+				<a href="/news/regulation/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV3STHkAAAAJ3RSTlMAv/u0LgIP9ecJ8W7t2gbMVDgxGq2PTiUU4dRIH4l1glmbY0F7xqaU3h1MAAACKUlEQVRYw+WVydKbMBCEQSDEJjaz74vtef83jI2MhFO/jVAOqUr6Apf51D3MCO1/0CWzXSPGyvWlgQCA5sqABsFTpFEFXIHJjhRTzPBSpZiiqGBTruTBmX3YUowq9encuBvBj84PgQF+PtobgYzBuXorRQCuN7o8RXTOf7hWuVHMCaQ8Ud8aW/ZRpPBO+DfQVuV6uQ9Mg3z/QhByo4V5QI20f3a+8LCmQBOW9X9D8CY/L+527VnHpTh4HFLo8C6UObLWu3Rqgum388lVun7tds9axoW6QHZ0DFZwzen+/K7pLueW173GtajvE4r04uT2D43N+xc/c+kX2QhMZFjqV/8a9hLGUvPHLaAhoc9Hb25WaCJDMEMQKejDSODxVaQyvwccU9H8RPcCDfcETl3NJSdA5jwLggzxgV5kCAlPgTy8tjYjnDA7EinEx9RLjRF2VwOWugteBXX7Ws47Eq4cqRTCASNMgtBZMh4orEOAxQW9W22poU4ru+52blsduCaZsbaSuMDvPxnhIS01BbU34NItFYIZ7gimkgdBQOFFhRBT4KoS/IeEelHqQyUIbqIAwLm9I0SBAmHxBcHOVVLkOwJVAQQz4QBfUxGOOCFjY++lxg+ako8Ej7ztxAA/K/w4KU6P4KG0ZZkM+KAvG/MgoFTT1AFBlM2lOmAvxyoL84NKyzpcmOSuf1XvHABu8F1udABAcCDvAAB/HVAf1JOjHsTfCaSztH9dvwCea5hhPsrPQwAAAABJRU5ErkJggg==')"></i>&nbsp;&nbsp;Legal</a>
+			</li>
+				
+						<li>
+				<a href="/news/security/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAeFBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsV3STHkAAAAJ3RSTlMA+fHjCgIGFQ/r0yGTMvV+27iwgr6mbEo/GlbDnGg7y4+FbmAqHHY664txAAACEUlEQVRYw+2X2ZKDIBBFuwUk7nFfsq/+/x9ODZY1EFHQec15Sl3sow1YEViC8booas5gI8H7EPd9fHgHm8rb0MFegE7Yrq3enUOvl/DC8w7soY9UlCuK9EHtqhnt9r2WfUfN8+lGiS/XhIrCTyJ3uT4qCUrl98DtFZCU0cLMNZlU7fj333nrJ2TNTr9sVepI5WXHRdxPcdJ7O7177qF0TRmMvfY60Ms/nuJGpFH/Km29fgZyUwTSyOERMHlkFq0AL7Wo3iggx5oCbBd4TzFz2wUE4Cv4Cr6CfwpwvQBBxlsv8ECGzAocDZqGL4ZOFXbidhclK9cInqLhUsnyNYI6/h24KVm3RvAWa9apT+XYC9yj+H97KuHLtxdwca3/UkKa2QvOooOMqmliFqgrlnykDdoKWnElNh8x3VsK2E3Ee/o5cLIUBMN0V9PFIXaC0/DiujBg3oz6VnOYEhELATuKkESg22BmAatRhEcXNASOUdAOr70TgJYTGgQ0FBGepMy4n+XxHEWUzX64n51FwSkeGjjDLFU8L3C7QR9XMA/LcU5Ak0GOOVs8qWQzAnrF3jABA0GhE7BmjAvjAYynU8HuOp6AUg5GXikqArd9jK86pi+wgIfyWtRXfxTGIQcr3Ep6Bvz7dXfBlqaYLCcWDayAV0StJxWHddDh5DuefSmshkXJQSjwkEQMtsB4lPh+EvGl8h98Iv77SrDTuQAAAABJRU5ErkJggg==')"></i>&nbsp;&nbsp;Security</a>
+			</li>
+				
+						<li>
+				<a href="/news/analytics/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAM1BMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsUTRznNAAAAEHRSTlMAbi6v8cONzh1sU0/fCOOlX7j+NgAAAJJJREFUWMPt1zsWwjAMRNGxY/lv0P5XC4iWIvE04Ry9Bdx6Bu9qkKSXS9IqPq1edLPSF4Dx0O3mAGpRolIRlKpBOECQOCBByRy4PZCjlbeBACs44MBFIH3bByKswwEH7gvMbD23gQNWdMABB04APVrya+JItPpfrTQHzkVfHv50NQ5o/PHEmNz1xRrk+QZqI+7/CzHN2EKbInEJAAAAAElFTkSuQmCC')"></i>&nbsp;&nbsp;Analytics</a>
+			</li>
+				
+						<li>
+				<a href="/news/market/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAh1BMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsU+06C4AAAALHRSTlMAB/moygLw0DgZ69fGV/TckVuYajINpH9IQyC+uHZjEa5QFeYrJWa1iXA9m6Aep5wAAALlSURBVFjDpZaLkqowEERDIiQgCIqIioiKb/P/33dxsmVewEU8VWutY+zKdHqCqJ/TAv0Eoxz9gLP3+C8C/gHzHwTcJeVvHHekQBlwIAx3i5R9rbIlXMM7RJdvRDZTblHvniMFJDc2rgVJsPKHm+hxgNxCWuOPxHSwny4Tx9j8V21ZHn/sfPQouN1Bco/FTCjgMuv8fh71RDl7TrggcTu+v8c46humLBG+4LRdYY45D+bGPOjjvJ4JhXnrycXw2Rr1cREBibctDdyEyUvUy1J0sbOb2IukMH3LUYO+JyYU9tbdRaGBh14F3yd67QGpoifTQQ5rM/UUHQdUqfNGnoU4TcNHNwYDLrJSJeEkBNNnk4ZQMRKaiHUXjiIhSmXBdZAkgcJR2wCBDagOeoaA5ePBVfMyFc0qJd4tIKyZ+urpQrMpGiaAUrBmaZ4BPlkCO0LIakXer0ihwuY5JNABsgS6Ygk9qGNSvAsrW4A5fxgCK95QKAVIQW4L0HcCwuYvqZBKDkkwz+xqC0j0sb6Ci+bqeZ+A1xL8foHaUOgX8KwYoBL3CKTmpiCId328ohcRCdjZAjlEUSnAGtJ1CdkCBFKmFO6aIuB8YFJA37E1zdpNCZcAvFBLYGvN8zmwksQNLAuCs3UjxtkwgSqGlGrhfEG01t0CtfZ4sbMpjCKdArjUz8Ce1AKWbWQBIhBAs4S8IuX+emI5i5INVGP//88FP4Z2n4ZAVsh7WRLihlCv3WFhkVm/q0Sv+kCcWcNZHwPxgN4gi0QoRKiXI5Y7NahC+CiIBghMTqgFFnCgdNTqwvB1HshnuMnaE10UatecGqsj7G1QB9cZB4LUVwLl7R1dYY+6cNcBF8TJRSYSH3w0lHX8Ce/uyi5+lcEbunSHKvhEGYB6SulfUyUaintt/6VOtoMl/EfdpjDdoMGccuqNFwCyZXqbcZXDFn2Lc47yZMEBr0RjEcfI3PECIkgjkVEeDwzTeGCce/kHYGerqzDsCPsAAAAASUVORK5CYII=')"></i>&nbsp;&nbsp;Exchange</a>
+			</li>
+				
+						<li>
+				<a href="/news/other/"><i class="icon" style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAaVBMVEUAAACwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWwvsWqjrKvAAAAInRSTlMA9Ry0bBBF383DeQZP7+fVz8WelZOQbmMyIghS26mDOCwKPSxhqgAAAQ5JREFUWMPtl8mOwyAQRIs1drzGu52d///ICZlDOhE+jPswOfCOJfRAAokuPJDDQbg/I1It4VmOtdtIfVwA5Du3mV0OyNoxSCQGx0LjwBOkEDyBgGMSBVEQBVEQBSuCqumVeP//ui59T1TfVGsCZaWZtSCr+8mYqaeJno20KiyoLB6YlhhvPrmR9a3xia2CAmXgsa9kn/kg278SC49RYUEGz5UI8IQIrngqw4Jk+tyvkT6RzeeZpiQoEN0M3C0ZF0ptAKNLMhDYOzB3InwLxXkYLydHKNtxbEuanC7jcC5WH5Ig6vXkm59yFERBFETB/wqEY1HwS5fm1j6Z8Ionv/piyRNO+fZIvaX+F7/1/wd0nAX+o4gUQQAAAABJRU5ErkJggg==')"></i>&nbsp;&nbsp;Other</a>
+			</li>
+				
+	
+	</ul>
+        </div>
+        <div class="newslist">
+            
+            <div class="newslist-title">
+                <span>Top News</span>            </div>
+
+            <div class="newslist-items">
+                                    <div onclick="showNews(112008);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/385/3859982cdd1c33603c72d21fe55b827b8214d54d.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>news.bitcoin.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>2 h</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="112008">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111899);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/b51/b51a9525f80cfeccb90f942b66c1e5418951766c.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Binance: JP Morgan’s Crypto Unlikely To Pose Immediate Threat To SWIFT Or XRP</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>newsbtc.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>6 h</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111899">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111861);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/6ce/6ce64edd29118653263ace5a7b0f537dbd8a4371.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Max Keiser: 'JPM Coin is a hot steaming pile of dog crap’</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>chepicap.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>11 h</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111861">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111739);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/c40/c40eb41fb959438bd6f6bdfc404ea67a9a819773.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Dukascopy Begins Airdrop of Dukascoin: The First Crypto Ever Created by a Bank</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>ethereumworldnews.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>17 h</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111739">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111574);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/096/096294375ff9ce19dda845dd2b32985668a5fd88.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Binance Offers Token Rewards for Testing New Decentralized Platform</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>cointelegraph.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 21:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111574">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111564);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/66c/66c5221fa13a099fd6a882fe6bde10033ffea67c.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Couple Uses Bitcoin Wealth to Build World’s First “Seastead”</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>newsbtc.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 18:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111564">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111672);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/f14/f14caf4d411f62552ca87b44cb24f584bac516e2.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Bitcoin Whales Move 39,207 BTC, Plus Ripple and XRP, Ethereum, Tron, Bitcoin Cash: Crypto News Alert</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>dailyhodl.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 15:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111672">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111651);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/02d/02df39475c2161ebe49a40d45c187897b97ee9d7.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">These Three Tokens Are Likely To Hit A Massive Breakout In Trading Price This Month</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>zycrypto.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 13:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111651">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111341);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/f5a/f5a29f1deb40a5cea8aa995fbef24e1d9f7d1d90.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Ripple Moves 1 Billion XRP Worth $317 Million, Includes New Mystery Message to Crypto Whale Watchers</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>dailyhodl.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 03:30</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111341">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111096);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/b29/b29b473397beb0df5f09b4091d397a27868e9893.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">World Bank Is Finding Elastos (ELA) Use Cases Outstanding</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>todaysgazette.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>02.03.2019, 00:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111096">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111174);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/5c2/5c2f04d5d971cb6fd9197fc5548b862955f9edd0.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">R3’s David Rutter finally clamps down on the rumor of Swift-partnered banks using XRP</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>ambcrypto.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 23:50</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111174">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111194);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/62d/62d137c04fa9e9901b6d488ac0d6fc5c789a5f80_80.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">MKR, THETA, ENJ, MET: These 4 Cryptos Outperformed the Market in February</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>coindesk.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 21:50</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111194">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111186);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/3c1/3c1e1cc4ecb7f56243fc025a3432d9681fc72bec_80.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Top Airdrops You Should Look Out for in March 2019</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>coindoo.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 21:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111186">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111157);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/9b7/9b7d4336bdac47222bcf02b2063211fa14d3e6b4_80.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">JP Morgan Is Quietly Testing Cutting-Edge Ethereum Privacy Tech</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>coindesk.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 19:30</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111157">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(111063);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/7d4/7d499848bc5cbe11beffec19f4aab6cf6e039277.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">After Facebook Announcement of Potential Cryptocurrency, the FB Stock Does-Nothing</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>coinspeaker.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 16:10</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="111063">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(110747);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/d52/d52c1ac9acdc2cb1102478a6391b924c4e144824.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">TRON Major Upgrade Imminent: Since November TRX Has Surged by 2-Fold</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>livebitcoinnews.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 14:50</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="110747">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(110585);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/1ab/1abc40cb809849aea7b7f15b0ad0516a807dca19.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">XRP Added to Coinbase Consumer Exchange, XRP Price Remains Flat</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>newsbtc.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 14:10</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="110585">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(110693);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/127/1270b97cece20906b3e8e4199321c1d4125ce375.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">XYO partners with Microsoft to offer geospatial blockchain apps in Azure</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>cryptoninjas.net</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 14:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="110693">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(110559);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/a6d/a6d2d9de401b8bffef3a77b2bfdc7b0822f350e7.jpg)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">EOS to nullify the blacklisted accounts as part of the temporary solution following the hack</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>ambcrypto.com</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 10:50</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="110559">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div><div onclick="showNews(110606);" class="newslist-row "><div class="news-wrapper">
+					<div class="news-picture" style="background-image: url(https://cnews24.ru/uploads/dff/dff196cf073aa50e889ca3ec119338b69840befd.png)"></div>
+				</div><div class="news-desc">
+					<div class="news-title">Kraken offering $100,000 reward for discovery of QuadrigaCX coins</div>
+					<hr>	<div class="news-info">
+						<div>
+							<span>cryptoninjas.net</span>
+							&nbsp;&nbsp;
+							<i class="fa fa-circle" aria-hidden="true" style="font-size: 4px;vertical-align: middle;"></i>
+							&nbsp;&nbsp;
+							<span>01.03.2019, 09:00</span>
+						</div>
+						<div class="news-share" onclick="shareIcons(this)" data-id="110606">
+							<div class="news-share-btns"></div>
+							<span><i class="fa fa-share-alt" aria-hidden="true"></i></span>
+						</div>
+					</div>	</div>
+			</div>                    <div id="showmore" data-page="1" data-rubric=""></div>
+                            </div>
+
+        </div>
+        <div class="sbar sbar-right">
+            
+	<div class="sbar-block">
+		Subscribe to us on social networks. And watch the news:		<div class="social">
+							<div class="social-item social-item-facebook">
+					<a href="https://www.facebook.com/cryptonewsmobile/	" target="_blank" rel="nofollow">
+						<i class="fa fa-facebook" aria-hidden="true" style="color: #fff"></i>
+					</a>
+				</div>
+							<div class="social-item social-item-twitter">
+					<a href="https://twitter.com/cryptonews_eng" target="_blank" rel="nofollow">
+						<i class="fa fa-twitter" aria-hidden="true" style="color: #fff"></i>
+					</a>
+				</div>
+							<div class="social-item social-item-paper-plane">
+					<a href="https://t.me/cryptonews_app" target="_blank" rel="nofollow">
+						<i class="fa fa-paper-plane" aria-hidden="true" style="color: #fff"></i>
+					</a>
+				</div>
+							<div class="social-item social-item-instagram">
+					<a href="https://www.instagram.com/crypto__news/	" target="_blank" rel="nofollow">
+						<i class="fa fa-instagram" aria-hidden="true" style="color: #fff"></i>
+					</a>
+				</div>
+					</div>
+	</div>
+            
+	<div class="sbar-block">
+		Download the <b>Crypto News</b> app and get world news about crypto and blockchain technology from various sources:		<div class="apps">
+			                <div class="app-item">
+                    <a rel="nofollow" target="_blank" href="https://app.appsflyer.com/id1267753692?pid=website&c=cryptonews.net">
+                        <img src="/i/app/appstore_en.png">
+                    </a>
+                </div>
+			                <div class="app-item">
+                    <a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.cryptonews">
+                        <img src="/i/app/google_en.png">
+                    </a>
+                </div>
+					</div>
+	</div>
+
+
+            <div class="sbar-block sbar-menu">
+                <ul class="nav-menu">
+                    <li><a href="/privacy-policy/"><i class="fa fa-circle" aria-hidden="true"
+                                                      style="font-size: 4px;"></i>Privacy policy                        </a></li>
+                    <li><a href="/disclaimer/"><i class="fa fa-circle" aria-hidden="true"
+                                                  style="font-size: 4px;"></i>Disclaimer</a></li>
+                    <li><a href="/contacts/"><i class="fa fa-circle" aria-hidden="true"
+                                                style="font-size: 4px;"></i>Contacts</a></li>
+                </ul>
+            </div>
+
+            <div class="sbar-copyright">
+                © 2018&nbsp;-&nbsp2019 Crypto News.<br>
+                All rights reserved                <p><br></p>
+                <p><br></p>
+            </div>
+
+        </div>
+    </div>
+
+<noindex>
+	<div class="modal" id="modal-detailView" >
+		<div class="text-center">
+
+		</div>
+
+	</div>
+</noindex>
+</div>
+</main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-items">
+                <div class="footer-menu">
+                    
+
+    <div class="ui dropdown">
+        <button data-toggle="collapse" class="navbar-toggle" type="button">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+        <nav class="menu nav navbar-nav navbar-center" id="navbar-collapse-02">
+												                    <li class="item active"><a href="/">News</a></li>
+														                    <li class="item "><a href="/about/">About</a></li>
+														                    <li class="item "><a href="/contacts/">Contacts</a></li>
+														                    <li class="item "><a href="/trending/">Trending</a></li>
+								        </nav>
+    </div>
+                </div>
+                <div class="footer-copyright">
+                    © 2018&nbsp;-&nbsp2019 Crypto News
+                    <!--<a href="/"><img src="/i/cnews-logo-footer.png"></a>-->
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<noindex>
+	<div class="modal" id="modal-alert"></div>
+</noindex>
+<script src="//code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
+<script defer src="//cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js"></script>
+<script src="//use.fontawesome.com/feac3a9d7b.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/js/swiper.min.js"></script>
+
+<script src="/js/semantic.min.js?1550817676283536"></script>
+<script src="/js/script.js?155081767610290"></script>
+<style>
+    #modal-detailView.sticky_get .iziModal-wrap {
+        padding-bottom: 89px;
+    }
+
+    .tape-desktop {
+        display: block;
+    }
+
+    .tape-mobile {
+        display: none;
+    }
+
+    @media (max-width: 767px) {
+        #modal-detailView.sticky_get .iziModal-wrap {
+            padding-bottom: 50px;
+        }
+
+        .tape-mobile {
+            display: block;
+        }
+
+        .tape-desktop {
+            display: none;
+        }
+    }
+
+
+</style>
+</body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7KJBRM" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+</html>

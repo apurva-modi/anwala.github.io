@@ -1,0 +1,84 @@
+Contracts: contains the code for our smart contracts
+Migrations: contains the deployment instructions to our contracts
+Test: contains the tests for the contracts
+Truffle-config.js (or truffle.js depending on your O.S.): main configuration file, points to the Ethereum networks that we can deploy to
+The configuration file comes with a lot of content, but most of it is commented. To add our local network to the deployment options just uncomment the following part (lines 49–53):
+Finally, we need to provide an interface to our users to let them interact with the Ethereum networks.
+One of the options for this is to install Metamask , a browser plugin that manages wallets and also enables web systems to speak with the Ethereum networks.
+Once installed, Metamask provides an interface to check wallet funds on different networks. Whenever a web system requires an operation that involves payment, Metamask asks for user approval.
+To install it, just go to their website and choose the extension to your browser.
+After the installation, Metamask needs to create or import a wallet, so choose “import with seed phrase” and paste the mnemonic you got from ganache-cli.
+Note: Metamask is currently in beta, so keep that in mind whenever you use it and follow the instructions given after configuration
+And that is all we need for now, let’s dive into the code!
+Smart Contracts Hands On
+The first thing we need to do is to implement the logic behind each of the smart contracts, so we begin with “ProductManagement”.
+This contract should have one method for registering parts and another to register products, even if the requirements for each operation are very similar.
+We do that because we want to check that all the parts exist when we try to build a new product. So we can have the following methods:
+Part registration: create a mapping given the details of the part itself (type, serial number and manufacturing date), the factory that made it (factory id) and the current owner (owner id).
+Product registration: create a mapping given the same as part registration plus the id of each of the parts present on the product.
+Getters for the mappings so that we can check parts’ and products’ existence and get their details.
+The contract code that we need to implement that is:
+We define structs for parts and products that map all the information required to “build” our parts and products, and after that we add the mappings that will keep all registered items.
+The buildPart method is simple: it uses a helper function to concatenate the sender address and part information on a bytes array and calculate a hash. This hash is the key used when registering and later querying the data, so we return it to aid development.
+Since Ethereum transactions are not validated and run when you call the smart contract, we receive a transaction hash and can’t use it for our web app, but we can issue a call instead of a transaction to check the results easily.
+In a real system we would expect the manufacturer to provide the part hash with the physical part, but we won’t think about this mechanism here. We know the information used to generate the hash, so we can calculate it when we need, and that is exactly what we do on the testing code and also on the web app.
+We won’t cover the test code so that we don’t extend the article, but check it out in our repository !
+The buildProduct method is just an extension of the buildPart method, adding a simple check to guarantee that all the parts were registered before attempting to create the product.
+Two things are really worth noting about the code:
+Solidity generates getters automatically for public mappings, so we don’t need to worry about that!
+But we need to worry when returning array values, exactly the case for our product parts. We have created a “getParts” function to address this need.
+Continuing our development we will code the “ChangeOwnership” contract. It has a simple purpose: manage the part and product transfer between interested parties.
+Since we will use IDs on the ownership transfer operation, we can have one method for manufacturers to register their “initial ownership” and another method to change the ownership to other parties.
+We just need to receive a parameter to tell us if we want to register parts or products to know which mapping to check on the “ProductManagement” contract and also where to store the current item owner. The code is the following:
+We use a “ProductManagement” instance to query for parts and products whenever we try to interact with them. This highlights an important aspect of smart contracts: you can use them to call other smart contracts! One option to do that is to declare the contract ABI on the beginning of the contract file, but just the parts required by your contract. In our case it means:
+To point to the correct contract, we just need to pass the contract address when instantiating it, like this:
+pm = ProductManagement(prod_contract_add);
+Proceeding on the “ChangeOwnership” code review, we can also see that we define two events, TransferPartOwnership and TransferProductOwnership. Events can be logged with transactions, so that will the core of our “tracking” functionality.
+Whenever a part or product is successfully transferred to another account, we will emit an event.
+Take the addOwnership function as an example: we verify that the item exists, check if it is still unregistered and that the manufacturer is the one asking ownership. If we verify all that, we then store the manufacturer as the part owner and record that on Ethereum as an event. Later, we can query events about that part from its hash and see all the transfers.
+The only other point to note about this code is on the function “changeOwnership”: whenever a car changes the owner we also change the ownership of the parts that compose it. But enough about code review, let’s check how to deploy it.
+Contract Deployment
+To migrate our contracts to Ethereum we need to create a simple deployment file on the “deployments” folder. We can base ourselves on the “1_initial_migration.js” file created by Truffle, so our code becomes:
+We can finally deploy our code to our local Ethereum network by running:
+truffle migrate -network development
+When running that you will probably note that the ganache-cli terminal outputs a lot of messages, including some like:
+Transaction: 0x9fe6d2ece9cdca2f12b574ead7abb7bea7feab316f5cd6ebbd5b713e76850a1d
+Contract created: 0xb6a3c3cf9d1e27e43e5fb12e505d79764748edbe
+Those represent our contract addresses, so save them to be able to communicate later. We will need this address on our web interface!
+Web interface Hands On
+Our system now has both smart contracts ready and all we need is the interface to use them.
+We made a page for each role on our scenario, so we have a “Part Factory View”, a “Car Factory View” and a “Dealer View”. We won’t get into the specifics of the methods implemented for the interactions, but let’s give an overview to instigate you to check the code!
+The part factory interactions, like part registration, ownership addition and ownership transfer, can be performed on the interface shown below. It is interesting to note Metamask asking for permission for every single transaction we make.
+Part Manufacturing Interface
+Looking at things from a car manufacturer’s perspective, we have the part list populated from the records on the blockchain, then the part selection to assemble the car, the car build, and finally we transfer the ownership to a dealer. Just like a part factory, the car factory also has its own interface, shown below. All interactions with Ethereum use the part/car hash created from their properties.
+Car Manufacturing Interface
+The final view is from dealers, and for our example that is the simplest: we can just check the cars and parts for the owner history. Check the image below for details:
+Dealer View with Owner History for Cars and Parts
+Under the hood, we use the web3 library to call our smart contracts’ methods. The library provides us with objects representing our contracts and methods, and for that we only need to set:
+Network location
+Contract ABI (smart contract definition)
+Contract address
+Wallet to use for operations
+By default, ganache-cli runs the network on the 8545 port and the ABI is generated every time you compile and deploy your contracts (but only when we update the code, so we don’t need to change that).
+If you ever need to, get the value stored on the “build” folder of the setup.
+The contract address we must specify with the values saved before, so change the following lines to your values:
+Now that we have our page ready to interact with our smart contracts, we just need to prepare the functions that use the objects provided by web3 and our system is complete!
+The functions basically get the data from the input fields on the page and then call the functions with them as parameters. The complete code is too big to fit this article, but let’s check just two parts that explain most of the interactions with the blockchain. The first is:
+The “window.co” object is our “ChangeOwnership” contract, and both currentPartOwner and addOwnership are methods provided by it.
+The difference here is on the function used to call them: call vs send.
+Web3 1.0 requires you to specify the type of interaction that you want to do with the blockchain: reads or transactions.
+So whenever you use a method with “call” you are just reading data from the blockchain, it costs you no ether and also does not change the chain state.
+On the other hand, if you use “send” you have to send gas to perform the operation and it creates a transaction. As we have said before, transactions are not mined immediately, so take that into account when developing real world Dapps.
+Finally, the second part to be highlighted is:
+Remember when we said that Events would be our supply chain core? This line is used to get all events from a specific type, filtering the results by the part hash.
+It means that we can get everything that happened with a single part, and if we want we can also get the part details using the same hash and calling “parts” from “ProductManagement”.
+Pretty cool, huh?
+Wrapping Up
+And we’re done!
+Every time a part manufacturer wants to notify a new part production, a car manufacturer wants to assemble that in a car, or we want to move the parts and cars from one owner to another, we can simply use the web interface to do it.
+We have a transparent record that allows manufacturers, dealers and buyers to have the same information about the products.
+If a problem is found about a certain serial number range in the factories, the factory can check where to tackle and solve the problem.
+The same is true in the opposite direction: dealers and buyers can trace back their products’ parts to the factories in case they have problems or need replacements.
+Implementing the system based on a blockchain also provides a distributed and consistent record that none of the participants can alter without traces, so we avoid foul play.
+We have simplified the supply chain scenario a lot, but we hope that this demo has shown the power of using the blockchain in this context. Now you can start your solution planning and consider it as an implementation alternative.
+I hope you enjoyed it!

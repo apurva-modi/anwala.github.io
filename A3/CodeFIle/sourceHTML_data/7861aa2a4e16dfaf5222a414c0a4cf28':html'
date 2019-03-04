@@ -1,0 +1,1551 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Social media, networking, and publishing where users earn Bitcoin over the Lightning Network.">
+<meta name="keywords" content="Bitcoin, Lightning Network, Social Media, Cryptocurrency, Lightning">
+<title>Spacerik: in Space - Space meets Crypto: sometimes good, sometimes bad</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel='stylesheet' type='text/css'>
+<link href="/node_modules/jquery-ui-dist/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+<link href="/Content/bootstrap?v=X5U33uQLrZvkInmnS5hUqz6iVo6EtxbZl-zZQ8v25gg1" rel="stylesheet" />
+<link href="/Content/bootstrap-tour?v=c9IQ3nzQyR0FUeVlf0sLhpC45KoRBjqXAT6hq8Bi5kA1" rel="stylesheet" />
+<link href="/Content/font-awesome/css?v=u7BSd_VuEC1PWviSfscciYZ5bjXlLqV8lUCYXHjTWCk1" rel="stylesheet" />
+<link href="/Content/style/textspinners?v=DxwtiKbQGTOz_9BAFD7Ee4piANW5YI49DWczfSpxqD01" rel="stylesheet" />
+<link href="/plugins/summernoteStyles?v=asu71oTuHSyjG5ah48WHhxQPCHTPej1sbBWctWpRrGs1" rel="stylesheet" />
+<link href="/Content/style/jssocials?v=dOd78EV0PVZ83gzgXIDZTQsjjyf1jusxn6fQNHe7_XQ1" rel="stylesheet" />
+<link href="/Content/style/toastr?v=xd5H75TcCGsTMzynNsHBeKGy7bRfTQAeTK9HLxSSKBw1" rel="stylesheet" />
+<link href="/Content/css?v=u0iHQ2ZuFu0pH8w6aP9qsij8VThjH1_GCrwwF0tItTU1" rel="stylesheet" />
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+        var appInsights = window.appInsights || function (a) {
+            function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement("script"); b.src = a.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js", d.getElementsByTagName("script")[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; f.length;)b("track" + f.pop()); if (b("setAuthenticatedUserContext"), b("clearAuthenticatedUserContext"), b("startTrackEvent"), b("stopTrackEvent"), b("startTrackPage"), b("stopTrackPage"), b("flush"), !a.disableExceptionTracking) { f = "onerror", b("_" + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c["_" + f](a, b, d, e, h), i } } return c
+        }({
+            instrumentationKey: "ee8f21e2-3d87-40b4-9055-f61ead610053"
+        });
+
+        window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length && appInsights.trackPageView();
+    </script>
+</head>
+<body class="top-navigation gray-bg">
+<div class="modal fade" id="depositModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="voteModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<nav>
+<div class="nav nav-tabs" id="nav-tab" role="tablist">
+<a class="nav-item nav-link active" onclick="if (!window.__cfRLUnblockHandlers) return false; switchDeposit()" id="nav-deposit-tab" data-toggle="tab" href="#nav-deposit" role="tab" aria-controls="nav-deposit" aria-selected="true" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Deposit</a>
+<a class="nav-item nav-link" onclick="if (!window.__cfRLUnblockHandlers) return false; switchWithdraw()" id="nav-withdraw-tab" data-toggle="tab" href="#nav-withdraw" role="tab" aria-controls="nav-withdraw" aria-selected="false" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Withdraw</a>
+</div>
+</nav>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="card ">
+<div class="card-body">
+ <div class="tab-content" id="nav-tabContent">
+<div class="tab-pane fade show active" id="nav-deposit" role="tabpanel" aria-labelledby="nav-deposit-tab">
+<div class="row">
+<div class="col-lg-12">
+<div class="row">
+<div class="col-10 text-right">
+<span> Balance </span>
+<h2 class="font-bold"><span class="userBalanceValue" id="userDepositBalance">0</span> </h2>
+<small class="text-muted">Satoshi</small>
+</div>
+<div class="col-2">
+<i class="fa fa-bolt fa-5x"></i>
+</div>
+</div>
+</div>
+</div>
+<br />
+<div class="input-group mb-3">
+<input type="number" id="depositValueAmount" value="1000" placeholder="Deposit amount (Satoshi)" class="form-control font-bold" aria-label="Amount">
+</div>
+</div>
+<div class="tab-pane fade" id="nav-withdraw" role="tabpanel" aria-labelledby="nav-withdraw-tab">
+<div class="row">
+<div class="col-lg-12">
+<div class="row">
+<div class="col-10 text-right">
+<span> Balance </span>
+<h2 class="font-bold"><span class="userBalanceValue" id="userWithdrawBalance">0</span> </h2>
+<small class="text-muted">Satoshi</small>
+</div>
+<div class="col-2">
+<i class="fa fa-bolt fa-5x"></i>
+</div>
+</div>
+</div>
+</div>
+<br />
+<div class="input-group mb-3" id="lightningWithdrawInvoice">
+<input type="text" id="lightningWithdrawInvoiceInput" class="form-control" placeholder="Paste invoice" aria-label="invoice" aria-describedby="basic-addon2">
+</div>
+<div>
+<video id="preview" style="display:none"></video>
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; scan();" class="btn btn-sm btn-outline btn-primary" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Scan QR</a>
+</div>
+</div>
+</div>
+<img id="lightningDepositQR" src="/Img/Qr?qr=lninvoice" class="img-fluid" style="display:none" />
+<div class="input-group mb-3" id="lightningDepositInvoice" style="display:none">
+<div class="input-group-prepend">
+<a href="lightning:xxx" id="lightningDepositInvoiceLink" class="btn btn-primary" role="button" aria-pressed="true"><span class="fa fa-bolt"></span></a>
+</div>
+<input type="text" id="lightningDepositInvoiceInput" class="form-control" placeholder="Getting invoice" aria-label="invoice" aria-describedby="basic-addon2">
+<div class="input-group-append">
+ <button class="btn btn-primary" id="lightningDepositInvoiceCopy" type="button"><span class="fa fa-copy"></span> Copy</button>
+</div>
+<div class="col-md-2 pull-right">
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-sm"><i class="fa fa-qrcode"></i></button>
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<img src="/Img/QR?qr=02cda8c01b2303e91bec74c43093d5f1c4fd42a95671ae27bf853d7dfea9b78c06%40lightning.zapread.com%3A9735" class="img-fluid" />
+<br />
+<textarea class="form-control" value="" readonly="readonly" rows="3">02cda8c01b2303e91bec74c43093d5f1c4fd42a95671ae27bf853d7dfea9b78c06@lightning.zapread.com:9735</textarea>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-footer bg-muted" id="lightningTransactionInvoiceResult">
+<b>Specify deposit amount to deposit and get invoice.</b>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button id="btnCheckLNDeposit" type="button" class="btn btn-info" style="display:none;" onclick="if (!window.__cfRLUnblockHandlers) return false; checkInvoicePaid(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Check Payment <i id="spinCheckPayment" class="fa fa-circle-o-notch fa-spin" style="display:none"></i></button>
+<button id="btnPayLNWithdraw" type="button" class="btn btn-primary" style="display:none" onclick="if (!window.__cfRLUnblockHandlers) return false; onPayInvoice(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Withdraw</button>
+<button id="doLightningTransactionBtn" type="button" class="btn btn-primary" onclick="if (!window.__cfRLUnblockHandlers) return false; onGetInvoice(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Get Invoice</button>
+<button onclick="if (!window.__cfRLUnblockHandlers) return false; onCancelDepositWithdraw(this);" type="button" class="btn btn-secondary" data-dismiss="modal" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div id="wrapper" class="Detail">
+<div id="page-wrapper" class="gray-bg">
+<div class="white-bg">
+<nav class="navbar navbar-expand-lg white-bg fixed-top border-bottom-nav">
+<div id="goHome">
+<a class="navbar-brand" href="/"><img src="/Content/logo.png" style="width:27px;height:32px" /></a>
+<span class="navbar-text" style="color:darkgreen;font-weight: 900;">
+<a href="/" style="color:darkgreen;font-weight: 900;">Social Economy</a>
+</span>
+</div>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"><i class="fa fa-reorder" style="font-size: 22px;"></i></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarText">
+<ul class="nav navbar-nav">
+<li id="navGroups" class="nav-item">
+<a class="nav-link" href="/Group">Groups</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/Home/About">About</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/Home/FAQ">FAQ</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/Home/Feedback">Contact</a>
+</li>
+</ul>
+<div class="mx-2 w-100" style="margin-right: 10px;">
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+                    (function () {
+                        var cx = '011527487946990464906:hzzt0pfk0iu';
+                        var gcse = document.createElement('script');
+                        gcse.type = 'text/javascript';
+                        gcse.async = true;
+                        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(gcse, s);
+                    })();
+                </script>
+<gcse:search></gcse:search>
+</div>
+<ul class="nav navbar-nav" style="margin-left: 10px;">
+<li class="nav-item">
+<a id="topFinancial" href="/Account/Login" class="nav-link" data-toggle="tooltip" data-placement="bottom" title="Financial" style="padding-right: 0px;">
+<i class="fa fa-bitcoin"></i>
+</a>
+</li>
+<li class="nav-item">
+<a id="topBalance" href="/Account/Login" data-toggle="modal" data-target="#depositModal" class="nav-link" style="padding-left: 0px;">
+<div data-toggle="tooltip" data-placement="bottom" title="Balance deposit/withdraw">0</div>
+</a>
+</li>
+</ul>
+<ul class="nav navbar-top-links">
+<li class="dropdown">
+<a id="topMessages" class="count-info d-flex flex-nowrap" data-toggle="dropdown" href="#" style="padding-bottom: 15px;">
+<i class="fa fa-envelope" data-toggle="tooltip" data-placement="bottom" title="Messages"></i>
+</a>
+<ul class="dropdown-menu dropdown-alerts dropdown-menu-right" style="overflow: auto;max-height: 500px;">
+<li>
+<div class="text-center link-block">
+<a href="/Account/Login">
+<i class="fa fa-envelope"></i> <strong>Read All Messages</strong>
+</a>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a id="topAlerts" class="count-info d-flex flex-nowrap" data-toggle="dropdown" href="#" style="padding-bottom: 15px;">
+<i class="fa fa-bell" data-toggle="tooltip" data-placement="bottom" title="Alerts"></i>
+</a>
+<ul class="dropdown-menu dropdown-alerts dropdown-menu-right" style="overflow: auto;max-height: 500px;">
+<li>
+<div class="text-center link-block">
+<a href="/Account/Login">
+<i class="fa fa-bell"></i> <strong>See All Alerts</strong>
+</a>
+</div>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a id="topChat" href="/Account/Login" class="nav-link" data-toggle="tooltip" data-placement="bottom" title="Chats" style="padding-top: 15px;padding-bottom: 0px">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav">
+<li id="navRegister" class="nav-item">
+<a href="/Account/Register" class="nav-link" style="white-space:nowrap">
+<i class="fa fa-user-plus"></i> Register
+</a>
+</li>
+<li class="nav-item">
+ <a href="/Account/Login" class="nav-link" style="white-space:nowrap">
+<i class="fa fa-sign-in"></i> Log in
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="modal fade" id="voteModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="voteModalTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="voteModalTitle">Modal title</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="card ">
+<div class="card-body">
+<div class="row">
+<div class="col-lg-12">
+<div class="row">
+<div class="col-5">
+<span> Pay </span>
+<input type="number" id="voteValueAmount" placeholder="Amount" class="form-control font-bold" aria-label="Amount">
+<small class="text-muted">Satoshi</small>
+</div>
+<div class="col-5 text-right">
+<span> Balance </span>
+<h2 class="font-bold"><span id="userVoteBalance">0</span> </h2>
+<small class="text-muted">Satoshi</small>
+</div>
+<div class="col-2">
+<i class="fa fa-bolt fa-5x"></i>
+</div>
+</div>
+<h2 class="font-bold"><span id="payAmount" style="display:none"></span></h2>
+</div>
+</div>
+<div class="form-group mb-3">
+<div class="input-group mb-3" id="depositMemoValue">
+</div>
+</div>
+<img id="voteDepositQR" src="/Content/FFFFFF-0.png" class="img-fluid" />
+<div class="input-group mb-3" id="voteDepositInvoice" style="display:none">
+<div class="input-group-prepend">
+<a href="lightning:xxx" id="lnDepositInvoiceLink" class="btn btn-primary" role="button" aria-pressed="true"><span class="fa fa-bolt"></span></a>
+</div>
+<input type="text" id="voteDepositInvoiceInput" class="form-control" placeholder="invoice" aria-label="invoice" aria-describedby="basic-addon2">
+<div class="input-group-append">
+<button class="btn btn-primary" id="voteDepositInvoiceCopy" type="button"><span class="fa fa-copy"></span> Copy</button>
+</div>
+<div class="col-md-2 pull-right">
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".vote-modal"><i class="fa fa-qrcode"></i></button>
+<div class="modal fade vote-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<img src="/Img/QR?qr=02cda8c01b2303e91bec74c43093d5f1c4fd42a95671ae27bf853d7dfea9b78c06%40lightning.zapread.com%3A9735" class="img-fluid" />
+<br />
+<textarea class="form-control" value="" readonly="readonly" rows="3">02cda8c01b2303e91bec74c43093d5f1c4fd42a95671ae27bf853d7dfea9b78c06@lightning.zapread.com:9735</textarea>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card-footer bg-info" id="voteDepositInvoiceFooter">
+Click vote to confirm.
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button id="voteOkButton" type="button" class="btn btn-primary">Vote</button>
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper border-bottom white-bg page-heading">
+<div class="col-lg-10">
+<br />
+<h2>Space meets Crypto: sometimes good, sometimes bad</h2>
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="/">Home</a></li>
+<li class="breadcrumb-item"><a>Posts</a></li>
+<li class="breadcrumb-item active">Detail</li>
+</ol>
+</div>
+<div class="col-lg-2">
+</div>
+</div>
+<div class="wrapper wrapper-content ">
+<div class="row">
+<div class="col-sm-2">
+</div>
+<div class="col-lg-8">
+<div class="social-feed-box " id=post_3914>
+<button class="pull-left btn btn-sm btn-link" style="display: flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; togglePost(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-minus-square togglebutton"></i></button>
+<div class="pull-right social-action dropdown">
+<button data-toggle="dropdown" class="dropdown-toggle btn-white"></button>
+<ul class="dropdown-menu m-t-xs">
+<li>
+<button class="btn btn-link btn-sm"><i class="fa fa-eye"></i> <span class="impression" data-url="/Post/Impressions/3914"></span> Impression(s)</button>
+</li>
+<li>
+<button class="btn btn-link btn-sm" type="submit" onclick="if (!window.__cfRLUnblockHandlers) return false; alert('Not yet implemented.')" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-globe"></i> Translate</button>
+</li>
+<li>
+<button class="btn btn-link btn-sm" type="submit"><i class="fa fa-flag"></i> Report Spam</button>
+</li>
+<li>
+<button class="btn btn-link btn-sm" onclick="if (!window.__cfRLUnblockHandlers) return false; alert('Not yet implemented.  Feature coming soon.');" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-exclamation-triangle"></i> Report NSFW</button>
+</li>
+<li class="dropdown-submenu pull-left">
+<button class="ddsm btn btn-link btn-sm" onclick="if (!window.__cfRLUnblockHandlers) return false; $(this).next('ul').toggle();event.stopPropagation();event.preventDefault();" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-share-alt"></i> Share</button>
+<ul class="dropdown-menu">
+<li><div class="sharing" data-url="http://www.zapread.com/Post/Detail/3914?id=3914" data-sharetext="ZapRead.com post: Space meets Crypto: sometimes good, sometimes bad "></div></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="social-avatar">
+<a href="/user/Spacerik" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=d7d40712-ff79-4435-a6d6-feaae5bcb695" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Spacerik" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>48.8K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Spacerik' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1188,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Spacerik">
+Spacerik
+</a>
+posted in
+<a id="" class="pop " data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tier'>1<i class='fa fa-arrow-up'></i></span><span class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Posts'>12 <i class='fa fa-pencil'></i></span><span class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Members'>6 <i class='fa fa-user'></i></span><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Join' onclick='alert(&quot;Not yet implemented. Check back soon&quot;);'><i class='fa fa-plus'></i></a>" data-original-title="" title="" href="/Group/GroupDetail/112" style="font-size: small; display: inline">
+Space
+</a>
+<small class="postTime text-muted" style="display: none">2019-02-15T11:44:24.1300000</small>
+<span class="appear" data-src="/Post/Impressions/3914"></span>
+<h3 class="" style="display: block;">
+<a href="/Post/Detail/3914?id=3914">
+Space meets Crypto: sometimes good, sometimes bad </a>
+</h3>
+</div>
+</div>
+<div class="social-body">
+<div class="row">
+<div class="col-sm-auto vote-actions">
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(3914, 1, 1, 100)" class="text-muted  " id="uVote_3914" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVote_3914" class="">1.4K</div>
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(3914, 0, 1, 100)" class="text-muted  " id="dVote_3914" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="post-quotable post-content " data-postid="3914" data-userid="1188">
+<div>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*SN9ZLA4xtYydL6vPLaluqw.jpeg" style="width: 800px;" class="img-fluid"></p><p><b>The Space and Crypto domains have a natural attraction to each-other. The Moon especially has an almost mythical status amongst crypto traders (when Moon??). Both domains require resilience and honeybadger style design. And both have uncharted waters, where no human being has gone before.&nbsp;</b></p><p>A number of Space &amp; Crypto undertakings are going on, but not all make sense, although sometimes the technobabble behind it is quite impressive. My intent of this post is to point to a number of bad AND good ones that are happening. And please note, these are my personal opinion so don't take offense, but comment to the best of your knowledge and I can always change opinion!</p><p>Let's start with some of the bad ones:</p><ol><li><a href="https://www.planetaryresources.com/2018/10/consensys-acquires-planetary-resources/" target="_blank"><b>Consensys buys Planetary Resources (October 31, 2018)</b></a>. Consensys is a so-called blockchain venture production studio primarily involved in Ethereum. What I make of that, is that they create applications based on Ethereum. Planetary Resources on the other hand, is an Asteroid mining company that got backed by quite some rich people back in 2011, but didn't make it to a business. That is not very strange by itself. Mining asteroids for business only has a return on investment in a few decades. But Consensys buying Planetary Resources? I can't wrap my head around it.&nbsp;The hyped link here between asteroid mining and blockchain technologies is a bit fake imho. It is just two extremely exciting technical fields amongst others like: artificial intelligence, neural networks, biogenetic engineering and I am sure to have not listed all the singularity related fields. Of course in the far future, in the space based economy, payments for services (such as asteroid mining) will be done based on blockchain technologies, but that is not specific for asteroid mining. Also on Earth this will be the way we are going to do payments. But asteroid mining and blockchains? Just the addition of 2 buzzwords in 1 sentence for now.</li><li><a href="https://spacedecentral.net/" target="_blank"><b>Space Decentral</b></a>. A platform to develop, build and launch Space missions in a decentral manner. Again, I can't wrap my head around this. In a perfect world, with resources to survive, abundantly available to all humans, this could work. Untill then, a mission design without central coordination will lead to devastating interface problems. A satellite will be build that cannot fit on the rocket, and it will be launched at the wrong time, because some kind of consensus was reached between participating members? No. Not going to work for Space missions. Let's keep some things centrally organized....</li></ol><p>Then some of the good ones:</p><ol><li><a href="https://www.blockstream.com/satellite" target="_blank"><b>Blockstream Satellite</b></a>. One of the powerfull companies behind Bitcoin is Blockstream. Back in 2017, they started the Blockstream Satellite project to increase resiliency of the Bitcoin network by leasing transponders on Geostationairy satellites to broadcast the latest blocks of the Bitcoin ledger. I am participating in this project as I have set-up my own satellite connection from Delft, the Netherlands. Read about my adventures in <a href="http://www.eyeonorbit.com/2018/12/intersecting-space-blockchain.html" target="_blank">this link</a>. The Unique Selling Point of Space is that you can create global solutions, so this Blockstream Satellite project is really spot on and clearly understandable why Space is part of the solution</li><li><b>Low Earth Orbit IOT satellites</b>. As geostationairy orbit is 36.000 km above the equator, it is relatively easy to receive signals from satellites hanging there, but difficult to transmit signals from Earth to Space. This is where Low Earth Orbit (LEO) Internet Of Things satellites come to play. These are shoebox size satellites that can be connected-to with relatively cheap hardware. Upcoming players in providing connections are <a href="https://hiber.global/" target="_blank">Hiber Global</a> and <a href="http://lacuna.space/" target="_blank">Lacuna Space</a>. I foresee that future versions of these type LEO IOT satellites, will contain a processor that can receive navigation signals from GPS, Galileo, Beidou and Glonass, and with these establish a unique location based signature in Space. It can be verified that the received signals on Earth from these satellites were really broadcasted from Space, and therewith not been spoofed by adversaries.</li></ol><p>Look forward to your comments and ideas. Really, a lot is going to happen in this intersection of field. Also institutional players like the European Space Agency (ESA) might be embarking on this. If you are from a ESA memberstate (Yes, Poland is a memberstate), and have some idea where crypto meets Space, I would be happy to partner up and make a proposal to ESA together! Feel free to contact me through <a href="http://www.eyeonorbit.com" target="_blank">www.eyeonorbit.com</a>.</p>
+</div>
+</div>
+<br />
+</div>
+</div>
+</div>
+<div id=comments_3914>
+<div class="" id="comment_21865" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link pull-left" style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-minus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="display:none;font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [0] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%; ">
+<div class=" social-footer ">
+<div class=" social-comment">
+<a href="/user/Zelgada" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=9e95e628-7aa6-4ccc-b77b-11f6716d0293" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Zelgada" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>156.3K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Zelgada' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Zelgada">
+Zelgada
+</a>
+ <small>
+- commented </small><small class="postTime text-muted">2019-02-15T12:13:40.4930000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21865, 1, 2, 100)" class="text-muted" id="uVotec_21865" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21865">0</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21865, 0, 2, 100)" class="text-muted" id="dVotec_21865" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21865" style="position: relative;" data-commentid="21865">
+<div><blockquote class="blockquote">have some idea where crypto meets Space</blockquote>What about distributed funding of space-based messaging?&nbsp; Maybe something that hooks into the Irridium constellation?&nbsp; They have VHF antennas on those satellites as well.&nbsp; I wonder what applications are being developed with that.&nbsp; They have quite the constellation now.</div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21865);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div id="c_reply_21865" style="display: none">
+</div>
+<div id=rcomments_21865>
+<div class="" id="comment_21866" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link pull-left" style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-minus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="display:none;font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [0] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%; ">
+<div class=" social-footer-reply ">
+<div class=" ">
+<a href="/user/Spacerik" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=d7d40712-ff79-4435-a6d6-feaae5bcb695" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Spacerik" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>48.8K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Spacerik' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1188,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Spacerik">
+Spacerik
+</a>
+<small>
+- replied to <a href="/user/Zelgada">@Zelgada</a> </small><small class="postTime text-muted">2019-02-15T12:29:17.3030000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21866, 1, 2, 100)" class="text-muted" id="uVotec_21866" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21866">0</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21866, 0, 2, 100)" class="text-muted" id="dVotec_21866" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21866" style="position: relative;" data-commentid="21866">
+<div><p>Actually, the next phase of Blockstream satellite is to transform the 1 way communication (broadcasting from GEO) to a 2 way system (broadcasting from GEO + Iridium for uplink). This is of course a wonderfull development, but the small issue I have with this, is that you need an Iridium subscription and an Iridium modem to be able to make the connection. For the sake of privacy, I think it should be subscriptionless and that is should be possible to connect with non-proprietary hardware. The Lightning Network is perfectly equipped to have the (unsubscribed) users pay for the service.</p></div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21866);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div id="c_reply_21866" style="display: none">
+</div>
+<div id=rcomments_21866>
+<div class="" id="comment_21867" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link pull-left" style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-minus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="display:none;font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [0] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%; ">
+<div class=" social-footer-reply ">
+<div class=" ">
+<a href="/user/Zelgada" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=9e95e628-7aa6-4ccc-b77b-11f6716d0293" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Zelgada" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>156.3K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Zelgada' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Zelgada">
+Zelgada
+</a>
+<small>
+- replied to <a href="/user/Spacerik">@Spacerik</a> </small><small class="postTime text-muted">2019-02-15T12:40:53.5670000</small>
+<span class="text-muted" style="display:inline"> edited </span>
+<small class="postTime text-muted" style="display: none">2019-02-15T14:35:50.2130000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21867, 1, 2, 100)" class="text-muted" id="uVotec_21867" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21867">0</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21867, 0, 2, 100)" class="text-muted" id="dVotec_21867" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21867" style="position: relative;" data-commentid="21867">
+<div><div><p>I believe Iridium will be hosting VDES, which will be an "open" protocol for communications.&nbsp; See&nbsp;<a href="https://www.iala-aism.org/technical/connectivity/vdes-vhf-data-exchange-system/" target="_blank">https://www.iala-aism.org/technical/connectivity/vdes-vhf-data-exchange-system/</a>&nbsp;for info.&nbsp; It provides low power surface to sat to surface communications using just VHF.&nbsp; This would be amazing to build a network on!</p></div><br>
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; replyComment(21867);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+<div class="col col-md-11">
+</div>
+</div></div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21867);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+ </div>
+</div>
+<div id="c_reply_21867" style="display: none">
+</div>
+<div id=rcomments_21867>
+<div class="" id="comment_21871" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link pull-left" style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-minus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="display:none;font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [0] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%; ">
+<div class=" social-footer-reply ">
+<div class=" ">
+<a href="/user/Spacerik" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=d7d40712-ff79-4435-a6d6-feaae5bcb695" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Spacerik" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>48.8K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Spacerik' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1188,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Spacerik">
+Spacerik
+</a>
+<small>
+- replied to <a href="/user/Zelgada">@Zelgada</a> </small><small class="postTime text-muted">2019-02-15T14:03:17.2870000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21871, 1, 2, 100)" class="text-muted" id="uVotec_21871" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21871">0</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21871, 0, 2, 100)" class="text-muted" id="dVotec_21871" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21871" style="position: relative;" data-commentid="21871">
+<div><p>Thanks for this insight! Very interesting. Will dig into this further.</p></div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21871);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div id="c_reply_21871" style="display: none">
+</div>
+<div id=rcomments_21871>
+<div class="" id="comment_21872" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link " style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-plus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [50] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%;display:none;  ">
+<div class=" social-footer-reply ">
+<div class=" ">
+<a href="/user/Zelgada" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=9e95e628-7aa6-4ccc-b77b-11f6716d0293" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Zelgada" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>156.3K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Zelgada' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Zelgada">
+Zelgada
+</a>
+<small>
+- replied to <a href="/user/Spacerik">@Spacerik</a> </small><small class="postTime text-muted">2019-02-15T14:40:51.0900000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21872, 1, 2, 100)" class="text-muted" id="uVotec_21872" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21872">50</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21872, 0, 2, 100)" class="text-muted" id="dVotec_21872" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21872" style="position: relative;" data-commentid="21872">
+<div><p>It's intended for communication with ships at sea, but it's global.&nbsp; There are already defined generic <a href="https://www.iala-aism.org/asm/" target="_blank">application specific messages</a>.&nbsp; The bandwidth is very low, so for example, we see 6-bit ASCII as a format:&nbsp;<a href="https://www.iala-aism.org/asm/text-using-6-bit-ascii-4/" target="_blank">https://www.iala-aism.org/asm/text-using-6-bit-ascii-4/</a>&nbsp;It's still limited to 150 characters per message.&nbsp; That's less than twitter!&nbsp; Still - it's global and essentially free if you can implement the standard over radio.&nbsp; Something to think about.</p></div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21872);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div id="c_reply_21872" style="display: none">
+</div>
+<div id=rcomments_21872>
+<div class="" id="comment_21876" style="min-height: 24px; background-color: #f9f9f9;">
+<button class="btn btn-sm btn-link " style="display:flex;padding-left: 4px;" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleComment(this);" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-plus-square togglebutton" style="padding-top: 2px;"></i> <span id="cel" class="btn btn-link btn-sm" style="font-size: 10pt; border-top-width: 0px; padding-top: 0px; vertical-align: top;"> [0] Show comment...</span>
+</button>
+<div class="comment-body" style="width:100%;display:none;  ">
+<div class=" social-footer-reply ">
+<div class=" ">
+<a href="/user/Spacerik" class="pull-left">
+<img class="img-circle" src="/Home/UserImage?size=30&amp;UserId=d7d40712-ff79-4435-a6d6-feaae5bcb695" />
+</a>
+<div class="media-body">
+<a class="pop post-username" data-user="Spacerik" data-container="body" data-toggle="popover" data-placement="top" data-content="<span class='btn btn-link btn-sm' data-toggle='tooltip' data-placement='bottom' title='Reputation'>48.8K <i class='fa fa-star'></i></span><a href='/Messages/Chat/Spacerik' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Private chat'><i class='fa fa-envelope'></i> </a>&nbsp;<a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Follow' onclick='follow(1188,1);'><i class='fa fa-user-plus'></i></a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Tip' onclick='alert(&quot;Not yet implemented.&quot;);'><i class='fa fa-bolt'></i> </a><a href='javascript:void(0);' class='btn btn-sm btn-link' data-toggle='tooltip' data-placement='bottom' title='Ignore' onclick='alert(&quot;Not yet implemented.  Please go to user page to ignore.&quot;);'><i class='fa fa-minus-circle'></i> </a>" data-original-title="" title="" href="/user/Spacerik">
+Spacerik
+</a>
+<small>
+- replied to <a href="/user/Zelgada">@Zelgada</a> </small><small class="postTime text-muted">2019-02-15T19:29:43.7200000</small>
+<div class="vote-actions">
+<a href="#/" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21876, 1, 2, 100)" class="text-muted" id="uVotec_21876" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-up"> </i>
+</a>
+<div id="sVotec_21876">0</div>
+<a href="#/" style="position: relative;z-index: 1;" onclick="if (!window.__cfRLUnblockHandlers) return false; vote(21876, 0, 2, 100)" class="text-muted" id="dVotec_21876" data-cf-modified-2c43d9ffc23f2c2d2af74c04-="">
+<i class="fa fa-chevron-down"> </i>
+</a>
+</div>
+<div class="comment-quotable" id="commentText_21876" style="position: relative;" data-commentid="21876">
+<div><p>Thanks again. This is great stuff. Should be doable with DIY stuff.</p></div><br />
+<div class="" style="position: absolute; bottom: 0px;left: 0px;">
+<a href="javascript:void(0);" onclick="if (!window.__cfRLUnblockHandlers) return false; replyComment(21876);" class="btn-link btn btn-sm" data-cf-modified-2c43d9ffc23f2c2d2af74c04-=""><i class="fa fa-reply"></i></a>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div id="c_reply_21876" style="display: none">
+</div>
+<div id=rcomments_21876>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="social-feed-box">
+<span></span>
+</div>
+<div class="social-feed-box" style="margin-bottom:50px;">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer">
+<div class="pull-right">
+</div>
+<div>
+<strong>Copyright</strong> Zapread.com &copy; 2019
+</div>
+</div>
+</div>
+
+</div>
+
+
+<script src="/bundles/jquery?v=aRHNBnRu45W6Iae1IePL76wDS9EcW6RIRGvdmFlujSI1" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script src="/bundles/bootstrap?v=fhp1NhMCTRo0FM__v8Vl8jwNGQadT5kdv1AR0saLPtk1" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script src="/bundles/plugins?v=3-jfaX2FbA_IZC53ksmwgmGBOlRug3swHBfI_spoH5k1" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+        var ub = 100;//
+        var IsAuthenticated = "False" == "True";
+
+        $(document).ready(function () {
+            // Collapse ibox function
+            $('.collapse-link').on('click', function () {
+                var ibox = $(this).closest('div.ibox');
+                var button = $(this).find('i');
+                var content = ibox.children('.ibox-content');
+                content.slideToggle(200);
+                button.toggleClass('fa-chevron-up').toggleClass('fa-chevron-down');
+                ibox.toggleClass('').toggleClass('border-bottom');
+                setTimeout(function () {
+                    ibox.resize();
+                    ibox.find('[id^=map-]').resize();
+                }, 50);
+            });
+
+            // Close ibox function
+            $('.close-link').on('click', function () {
+                var content = $(this).closest('div.ibox');
+                content.remove();
+            });
+
+            $(".c_input_" + "3914").summernote({
+                callbacks: {
+                    onImageUpload: function (files) {
+                        that = $(this);
+                        sendFile(files[0], that);
+                    }
+                },
+                focus: false,
+                placeholder: 'Write comment...',
+                disableDragAndDrop: false,
+                toolbar: ['bold', 'italic', 'underline', 'strikethrough', 'fontsize', 'color', 'link'],//false,
+                minHeight: 60,
+                maxHeight: 300,
+                hint: {
+                    match: /\B@(\w*)$/,
+                    search: function (keyword, callback) {
+                        if (!keyword.length) return callback();
+                        var msg = JSON.stringify({ 'searchstr': keyword.toString() });
+                        $.ajax({
+                            async: true,
+                            url: '/Comment/GetMentions',
+                            type: 'POST',
+                            contentType: "application/json; charset=utf-8",
+                            dataType: 'json',
+                            data: msg,
+                            error: function () {
+                                callback();
+                            },
+                            success: function (res) {
+                                callback(res.users);
+                            }
+                        });
+                    },
+                    content: function (item) {
+                        return $("<span class='badge badge-info userhint'>").html('@' + item)[0];
+                    }
+                }
+            });
+
+            $(".c_input_" + "3914").each(function (i, e) {
+                $(e).removeClass(".c_input_" + "3914");
+            });
+
+        });
+    </script>
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+     $(document).ready(function () {
+         $.get("/Account/GetBalance", function (data, status) {
+             $('#userDepositBalance').html(data.balance);
+             $(".userBalanceValue").each(function (i, e) {
+                 $(e).html(data.balance);
+             });
+         });
+     });
+
+    var scan = function () {
+
+        //alert('Sorry. Not yet implemented.');
+        let scanner = new Instascan.Scanner({ video: document.getElementById('preview') });
+        scanner.addListener('scan', function (content) {
+            console.log(content);
+            $('#lightningWithdrawInvoiceInput').val(content);
+            $("#preview").hide();
+            scanner.stop();
+        });
+        Instascan.Camera.getCameras().then(function (cameras) {
+            if (cameras.length > 0) {
+                scanner.start(cameras[0]);
+            } else {
+                console.error('No cameras found.');
+            }
+        }).catch(function (e) {
+            console.error(e);
+            });
+        $("#preview").show();
+    };
+
+    var switchWithdraw = function () {
+        $('#doLightningTransactionBtn').hide();
+        $('#btnCheckLNDeposit').hide();
+        $('#btnPayLNWithdraw').show();
+        $("#lightningTransactionInvoiceResult").show();
+        $("#lightningDepositQR").hide();
+        $("#lightningDepositInvoice").hide();
+        $("#lightningTransactionInvoiceResult").removeClass("bg-info");
+        $("#lightningTransactionInvoiceResult").removeClass("bg-error");
+        $("#lightningTransactionInvoiceResult").addClass("bg-muted");
+        $("#lightningTransactionInvoiceResult").removeClass("bg-success");
+        $("#lightningTransactionInvoiceResult").html("Paste invoice to withdraw");
+    };
+
+    var switchDeposit = function () {
+        $('#doLightningTransactionBtn').show();
+        $('#btnCheckLNDeposit').hide();
+        $('#btnPayLNWithdraw').hide();
+        $("#lightningTransactionInvoiceResult").removeClass("bg-info");
+        $("#lightningTransactionInvoiceResult").removeClass("bg-error");
+        $("#lightningTransactionInvoiceResult").addClass("bg-muted");
+        $("#lightningTransactionInvoiceResult").removeClass("bg-success");
+        $("#lightningTransactionInvoiceResult").html("Specify deposit amount to deposit and get invoice.");
+    };
+
+    // Deposit modal copy invoice to clipboard
+    $(function () {
+        $("#lightningDepositInvoiceCopy").click(function () {
+            $("#lightningDepositInvoiceInput").focus();
+            $("#lightningDepositInvoiceInput").select();
+            try {
+                var successful = document.execCommand('copy');
+                var msg = successful ? 'successful' : 'unsuccessful';
+                console.log('Copying text command was ' + msg);
+                $("#lightningDepositInvoiceCopy").html("<span class='fa fa-copy'></span> Copied");
+            } catch (err) {
+                console.log('Oops, unable to copy');
+            }
+        });
+    });
+</script>
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+
+    var userVote = { id: 0, d: 0, t: 0, amount: 1, tx: 0, b: 0 }
+    var userTip = { username: "", amount: 1 }
+    var isTip = false;
+    var voteReadyEvent = new Event('voteReady');
+
+     $(document).ready(function () {
+         var userdefaultvote = '1';
+         $('#payAmount').html(userdefaultvote);
+         $('#voteValueAmount').val(userdefaultvote);
+
+         var userBalance = userVote.b;
+         $.get("/Account/GetBalance", function (data, status) {
+             userBalance = parseFloat(data.balance);
+             $('#userVoteBalance').html(data.balance);
+             ub = data.balance;
+             //userVote.b = ub;
+             $(".userBalanceValue").each(function (i, e) {
+                 $(e).html(data.balance);
+             });
+         });
+
+         $('#userVoteBalance').html(userBalance);
+         $.ajax({
+             type: "POST",
+             url: "/Account/UserBalance/",
+             contentType: "application/json; charset=utf-8",
+             dataType: "json",
+             success: function (response) {
+                 ub = response.balance;
+                 $('#userVoteBalance').html(response.balance);
+                 userVote.b = ub;
+             },
+             failure: function (response) {
+                 //alert("failure " + JSON.stringify(response));
+             },
+             error: function (response) {
+                 //alert("error " + JSON.stringify(response));
+             }
+         });
+
+         // If the user updates the amount
+         $('#voteValueAmount').on('input', function () {
+             amt = $(this).val()
+             userVote.amount = amt;
+             userTip.amount = amt;
+             if (parseInt(userVote.amount) > parseInt(userVote.b)) {
+                 $('#voteDepositInvoiceFooter').html('Please pay lightning invoice.');
+                 $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                 $("#voteDepositInvoiceFooter").addClass("bg-info");
+                 $("#voteOkButton").html('Get Invoice');
+             }
+             else {
+                 if (isTip) {
+                     $('#voteDepositInvoiceFooter').html("Click tip to confirm.");
+                     $("#voteOkButton").html('Tip');
+                 }
+                 else {
+                     $('#voteDepositInvoiceFooter').html("Click vote to confirm.");
+                     $("#voteOkButton").html('Vote');
+                 }
+                 $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                 $("#voteDepositInvoiceFooter").addClass("bg-info");
+             }
+         });
+         document.dispatchEvent(voteReadyEvent);
+     });
+
+     // This function is called when a user clicks the button to either pay with balance or invoice
+     $(function () {
+         $("#voteOkButton").click(function () {
+             var userBalance = userVote.b;
+             var depositUse = "userDeposit";
+             var memo = "ZapRead.com";
+             if (isTip) {
+                 depositUse = "tip";
+                 memo = 'ZapRead.com ' + $('#voteModalTitle').html();
+             } else if (userVote.t == 1) {
+                 depositUse = "votePost";
+                 memo = 'ZapRead.com vote post ID: ' + userVote.id;
+             } else if (userVote.t == 2) {
+                 depositUse = "voteComment"
+                 memo = 'ZapRead.com vote comment ID: ' + userVote.id;
+             }
+             var isanon = '1';
+             if (IsAuthenticated) {
+                 isanon = '0';
+             }
+
+             var msg = JSON.stringify({
+                 "amount": userVote.amount.toString(),
+                 "memo": memo,
+                 "anon": isanon,
+                 "use": depositUse,
+                 "useId": userVote.id,
+                 "useAction": userVote.d    // direction of vote 0=down; 1=up
+             });
+
+             if (parseInt(userVote.amount) > parseInt(userBalance)) {
+                 // Not enough funds - ask for invoice
+                 updateVoteInvoice(msg);
+             }
+             else {
+                 if (isTip) {
+                     doTip(userVote.id, userVote.amount, null);
+                 }
+                 else {
+                     doVote(userVote.id, userVote.d, userVote.t, userVote.amount, 0);
+                 }
+             }
+         });
+     });
+
+     // This function gets an invoice and displays it to the user
+     var updateVoteInvoice = function (msg) {
+         $.ajax({
+             type: "POST",
+             url: "/Lightning/GetDepositInvoice/",
+             data: msg,
+             contentType: "application/json; charset=utf-8",
+             dataType: "json",
+             success: function (response) {
+                 $("#voteDepositInvoiceInput").val(response.Invoice);
+                 $("#voteDepositInvoiceLink").attr("href", "lightning:" + response.Invoice);
+                 $("#voteDepositQR").attr("src", "/Img/QR?qr=" + encodeURI("lightning:" + response.Invoice));
+                 $("#lnDepositInvoiceLink").attr("href", "lightning:" + response.Invoice);
+                 $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                 $("#voteDepositInvoiceFooter").addClass("bg-info");
+                 $("#voteDepositInvoiceFooter").html("Please pay invoice.");
+                 $("#voteDepositInvoiceFooter").show();
+                 $("#voteDepositQR").show();
+                 $("#voteDepositInvoice").show();
+                 $('#voteModal').modal('show');
+
+                 // Start backup polling to see if it gets paid
+                 //setTimeout(function () {
+                 //    checkInvoicePaid(response.Id);
+                 //}, 5000);
+             },
+             failure: function (response) {
+                 //alert("failure " + JSON.stringify(response));
+                 $("#voteDepositInvoiceFooter").html("Failed to generate invoice");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                 $("#voteDepositInvoiceFooter").addClass("bg-error");
+                 $("#voteDepositInvoiceFooter").show();
+             },
+             error: function (response) {
+                 //alert("error " + JSON.stringify(response));
+                 $("#voteDepositInvoiceFooter").html("Error generating invoice");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                 $("#voteDepositInvoiceFooter").removeClass("bg-info");
+                 $("#voteDepositInvoiceFooter").addClass("bg-error");
+                 $("#voteDepositInvoiceFooter").show();
+             }
+         });
+     };
+
+     /* Functions to handle lightning payment */
+
+     // Vote modal copy invoice to clipboard
+     $(function () {
+         $("#voteDepositInvoiceCopy").click(function () {
+             $("#voteDepositInvoiceInput").focus();
+             $("#voteDepositInvoiceInput").select();
+             try {
+                 var successful = document.execCommand('copy');
+                 var msg = successful ? 'successful' : 'unsuccessful';
+                 console.log('Copying text command was ' + msg);
+                 $("#voteDepositInvoiceCopy").html("<span class='fa fa-copy'></span> Copied");
+             } catch (err) {
+                 console.log('Oops, unable to copy');
+             }
+         });
+     });
+
+    // User tip
+    // user = name of user
+    // uid = id of user
+    var tip = function (user, uid) {
+        isTip = true;
+        $('#voteModalTitle').html("Tip " + user);
+        $.get("/Account/GetBalance", function (data, status) {
+            $('#userVoteBalance').html(data.balance);
+            userBalance = parseFloat(data.balance);
+            $(".userBalanceValue").each(function (i, e) {
+                $(e).html(data.balance);
+            });
+            userVote.id = uid;
+
+            /* This is done here prior to showing */
+            if (userVote.amount > userBalance) {
+                $('#voteDepositInvoiceFooter').html('Please pay lightning invoice.');
+                $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                $("#voteDepositInvoiceFooter").addClass("bg-info");
+                $("#voteOkButton").html('Get Invoice');
+            }
+            else {
+                $('#voteDepositInvoiceFooter').html("Click tip to confirm.");
+                $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                $("#voteDepositInvoiceFooter").addClass("bg-info");
+                $("#voteOkButton").html('Tip');
+            }
+
+            /* Prepare vote modal without an invoice, and show it.*/
+            $("#voteDepositQR").hide();
+            $("#voteDepositInvoice").hide();
+            $('#voteModal').modal('show');
+        });
+    };
+
+    var doTip = function (id, amount, tx) {
+        // id : the user receiving the tip
+        // amount : the amount of the tip
+        // tx : txid if the tip is anonymous
+
+        var data = JSON.stringify({ 'id': id, 'amount': parseInt(amount), 'tx': tx });
+        var url = '/Manage/TipUser';
+        console.log(data);
+        $.ajax({
+            data: data.toString(),
+            type: 'POST',
+            url: url,
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                if (response.Result == "Success") {
+                    
+                    $('#voteModal').modal('hide');
+
+                    // Update user balance displays
+                    $.get("/Account/GetBalance", function (data, status) {
+                        $(".userBalanceValue").each(function (i, e) {
+                            $(e).html(data.balance);
+                        });
+                    });
+                }
+                else {
+                    $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                    $("#voteDepositInvoiceFooter").removeClass("bg-info");
+                    $("#voteDepositInvoiceFooter").addClass("bg-error");
+                    $("#voteDepositInvoiceFooter").html(Result.Message);
+                    $("#voteDepositInvoiceFooter").show();
+                }
+            }
+        });
+        isTip = false;
+    };
+
+    // User pressed vote button
+    // - Use modal dialog to set amount and handle LN transactions if needed
+    var vote = function (id, d, t, b) {
+        // id : the identifier for the item being voted on
+        // d  : the direction of the vote
+        // t  : the type of item voted on.  (2 = comment)
+        isTip = false;
+        var userBalance = 0;
+        var voteCost = parseInt($('#voteValueAmount').val());
+        $('#voteModalTitle').html("Vote");
+
+        $.get("/Account/GetBalance", function (data, status) {
+            $('#userVoteBalance').html(data.balance);
+            userBalance = parseFloat(data.balance);
+            userVote.b = ub;
+            $(".userBalanceValue").each(function (i, e) {
+                $(e).html(data.balance);
+            });
+        
+            /* Configure vote parameters */
+            userVote.id = id;
+            userVote.d = d;
+            userVote.t = t;
+            userVote.b = ub;
+            userVote.amount = voteCost;
+        
+            /* This is done here prior to showing */
+            if (userVote.amount > userBalance) {
+                $('#voteDepositInvoiceFooter').html('Please pay lightning invoice.');
+                $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                $("#voteDepositInvoiceFooter").addClass("bg-info");
+                $("#voteOkButton").html('Get Invoice');
+            }
+            else {
+                $('#voteDepositInvoiceFooter').html("Click vote to confirm.");
+                $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                $("#voteDepositInvoiceFooter").removeClass("bg-error");
+                $("#voteDepositInvoiceFooter").addClass("bg-info");
+                $("#voteOkButton").html('Vote');
+            }
+
+            /* Prepare vote modal without an invoice, and show it.*/
+            $("#voteDepositQR").hide();
+            $("#voteDepositInvoice").hide();
+            $('#voteModal').modal('show');
+        });
+    };
+
+    var doVote = function (id, d, t, amount, tx) {
+        // id : the identifier for the item being voted on
+        // d  : the direction of the vote
+        // t  : the type of item voted on.  (2 = comment)
+        // amount : the size of the vote
+        var val = Number($('#sVote_' + id.toString()).html());
+        var data = JSON.stringify({ 'Id': id, 'd': d, 'a': amount, 'tx': tx });
+        var voteurl = '/Vote/Post';
+        var uid = '#uVote_';    // element for up arrow
+        var did = '#dVote_';
+        var sid = '#sVote_';    // element for score
+
+        if (t == 2) {
+            voteurl = '/Vote/Comment';
+            uid = '#uVotec_';
+            did = '#dVotec_';
+            sid = '#sVotec_';
+        }
+
+        // Do vote
+        $.ajax({
+            data: data.toString(),
+            type: 'POST',
+            url: voteurl,
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                if (response.result == "success") {
+                    del = Number(response.delta);
+                    if (del == 1) {
+                        $(uid + id.toString()).removeClass("text-muted");
+                        $(did + id.toString()).addClass("text-muted");
+                    }
+                    else if (del == 0) {
+                        $(uid + id.toString()).addClass("text-muted");
+                        $(did + id.toString()).addClass("text-muted");
+                    }
+                    else {
+                        $(did + id.toString()).removeClass("text-muted");
+                        $(uid + id.toString()).addClass("text-muted");
+                    }
+                    val = response.scoreStr; //Number(response.score);
+                    $(sid + id.toString()).html(val.toString());
+                    $('#voteModal').modal('hide');
+
+                    // Update user balance displays
+                    $.get("/Account/GetBalance", function (data, status) {
+                        $(".userBalanceValue").each(function (i, e) {
+                            $(e).html(data.balance);
+                        });
+                    });
+                }
+                else {
+                    $("#voteDepositInvoiceFooter").removeClass("bg-success");
+                    $("#voteDepositInvoiceFooter").removeClass("bg-info");
+                    $("#voteDepositInvoiceFooter").addClass("bg-error");
+                    $("#voteDepositInvoiceFooter").html(response.message);
+                    $("#voteDepositInvoiceFooter").show();
+                }
+            }
+        });
+    }
+
+</script>
+<script src="/Scripts/jquery.signalR-2.4.0.min.js" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script src="/signalr/hubs" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script src="/bundles/DetailPost?v=3lQopEXY-TM6FjUInhLg30uGr8kYPL1lJfWiIVo_ncw1" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webrtc-adapter/6.4.0/adapter.min.js"></script>
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript" src="/Scripts/instascan.min.js"></script>
+<script type="2c43d9ffc23f2c2d2af74c04-text/javascript">
+        var toggleChat;
+        
+        $(document).ready(function () {
+            // popups for users, groups, etc.
+            $(".pop").popover({
+                trigger: "manual",
+                html: true,
+                animation: false
+            })
+            .on("mouseenter", function () {
+                var _this = this;
+                $(this).popover("show");
+                $('[data-toggle="tooltip"]').tooltip()
+                $(".popover").addClass("tooltip-hover");
+                $(".popover").on("mouseleave", function () {
+                    $(_this).popover('hide');
+                });
+            })
+            .on("mouseleave", function () {
+                var _this = this;
+                setTimeout(function () {
+                    if (!$(".popover:hover").length) {
+                        $(_this).popover("hide");
+                    }
+                }, 300);
+            });
+            $(".pop").each(function () {
+                $(this).removeClass("pop");
+            });
+
+            toastr.options.closeMethod = 'fadeOut';
+            toastr.options.closeDuration = 700;
+            toastr.options.positionClass = 'toast-bottom-right';
+            toastr.options.closeEasing = 'swing';
+            toastr.options.closeButton = true;
+            toastr.options.hideMethod = 'slideUp';
+            toastr.options.progressBar = true;
+            toastr.options.timeOut = 30000; // How long the toast will display without user interaction
+            toastr.options.extendedTimeOut = 60000; // How long the toast will display after a user hovers over it
+
+            $('[data-toggle="tooltip"]').tooltip()
+
+            $("ul.dropdown-menu").on("click", "[data-keepOpenOnClick]", function (e) {
+                e.stopPropagation();
+            });
+
+            $(".sharing").each(function () {
+                $(this).jsSocials({
+                    url: $(this).data('url'),
+                    text: $(this).data('sharetext'),
+                    showLabel: false,
+                    showCount: false,
+                    shareIn: "popup",
+                    shares: ["email", "twitter", "facebook", "linkedin", "pinterest", "whatsapp"]
+                });
+                $(this).removeClass("sharing");
+            });
+
+            // Only if logged in
+
+
+
+            // This loads all async partial views on page
+            $(".partialContents").each(function (index, item) {
+                var url = $(item).data("url");
+                if (url && url.length > 0) {
+                    $(item).load(url);
+                }
+            });
+
+            // show the read more
+            $(".post-box").each(function (index, item) {
+                if ($(item).height() >= 800) {
+                    $(item).find(".read-more-button").show();
+                }
+            });
+
+            // Make post quotable
+            $(".post-quotable").each(function (ix, e) {
+                // Trigger when mouse is released (i.e. possible selection made)
+                $(e).mouseup(function () {
+                    var selection = getSelected();
+                    $(selectionMarker).popover('hide');
+                    if (selection && selection != "") {
+                        // User made a selection
+                        var markerId = "sel_" + new Date().getTime() + "_" + Math.random().toString().substr(2);
+                        selectionMarker = markSelection(markerId);
+                        selectionText = selection.toString();
+                        var postId = $(e).data('postid');
+                        var popText = selectionText + '<hr/>' +
+                            '<button class="btn btn-sm btn-link" onclick="postQuoteComment(' + postId + ');"><i class="fa fa-reply"></i> Reply</button>' +
+                            '<button class="btn btn-sm btn-link" onclick="postQuoteComment(' + postId + ',true);">' +
+                                '<i class="fa fa-reply"></i><i class="fa fa-bell"></i> Mention</button>';
+                        $(selectionMarker).popover({
+                            trigger: "hover",
+                            html: true,
+                            animation: false,
+                            title: "Quote",
+                            placement: "top",
+                            content: popText
+                        })
+                        .on('hidden.bs.popover', function () {
+                            $(selectionMarker).popover('dispose');
+                        })
+                        .popover("show");
+                    }
+                });
+                $(e).removeClass("post-quotable");
+            });
+
+            // Make comments quotable
+            $(".comment-quotable").each(function (ix, e) {
+                // Trigger when mouse is released (i.e. possible selection made)
+                $(e).mouseup(function () {
+                    var selection = getSelected();
+                    $(selectionMarker).popover('hide');
+                    if (selection && selection != "") {
+                        // User made a selection
+                        var markerId = "sel_" + new Date().getTime() + "_" + Math.random().toString().substr(2);
+                        selectionMarker = markSelection(markerId);
+                        selectionText = selection.toString();
+                        var commentid = $(e).data('commentid');
+                        var popText = selectionText + '<hr/>' +
+                            '<button class="btn btn-sm btn-link" onclick="commentQuoteComment(' + commentid + ');"><i class="fa fa-reply"></i> Reply</button>' +
+                            '<button class="btn btn-sm btn-link" onclick="commentQuoteComment(' + commentid + ',true);">' +
+                            '<i class="fa fa-reply"></i><i class="fa fa-bell"></i> Mention</button>';
+                        $(selectionMarker).popover({
+                            trigger: "hover",
+                            html: true,
+                            animation: false,
+                            title: "Quote",
+                            placement: "top",
+                            content: popText
+                        })
+                            .on('hidden.bs.popover', function () {
+                                $(selectionMarker).popover('dispose');
+                            })
+                            .popover("show");
+                    }
+                });
+                $(e).removeClass("post-quotable");
+            });
+
+            $.fn.extend({
+                placeCursorAtEnd: function () {
+                    // Places the cursor at the end of a contenteditable container (should also work for textarea / input)
+                    if (this.length === 0) {
+                        throw new Error("Cannot manipulate an element if there is no element!");
+                    }
+                    var el = this[0];
+                    var range = document.createRange();
+                    var sel = window.getSelection();
+                    var childLength = el.childNodes.length;
+                    if (childLength > 0) {
+                        var lastNode = el.childNodes[childLength - 1];
+                        var lastNodeChildren = lastNode.childNodes.length;
+                        range.setStart(lastNode, lastNodeChildren);
+                        range.collapse(true);
+                        sel.removeAllRanges();
+                        sel.addRange(range);
+                    }
+                    return this;
+                }
+            });
+            $(".impression").each(function (ix, e) {
+                $(e).load($(e).data("url"));
+                $(e).removeClass("impression");
+            });
+        }); //end ready
+
+        var writeComment = function (e) {
+            var id = $(e).data("postid");
+            $(".c_input_" + id.toString()).summernote({
+                callbacks: {
+                    onImageUpload: function (files) {
+                        that = $(this);
+                        sendFile(files[0], that);
+                    }
+                },
+                focus: false,
+                placeholder: 'Write comment...',
+                disableDragAndDrop: false,
+                toolbar: [['style', ['style']], ['para', ['ul', 'ol', 'paragraph']], 'bold', 'italic', 'underline', 'strikethrough', 'fontsize', 'color', 'link'],//false,
+                minHeight: 60,
+                maxHeight: 300,
+                hint: {
+                    match: /\B@(\w*)$/,
+                    search: function (keyword, callback) {
+                        if (!keyword.length) return callback();
+                        var msg = JSON.stringify({ 'searchstr': keyword.toString() });
+                        $.ajax({
+                            async: true,
+                            url: '/Comment/GetMentions',
+                            type: 'POST',
+                            contentType: "application/json; charset=utf-8",
+                            dataType: 'json',
+                            data: msg,
+                            error: function () {
+                                callback();
+                            },
+                            success: function (res) {
+                                callback(res.users);
+                            }
+                        });
+                    },
+                    content: function (item) {
+                        return $("<span class='badge badge-info userhint'>").html('@' + item)[0];
+                    }
+                }
+            });
+
+            $(e).hide();
+            $(".note-statusbar").css("display", "none");
+            $('#preply_' + id.toString()).slideDown(200);
+        };
+
+        var toggleChat = function (id, show) {
+            show = typeof show !== 'undefined' ? show : false;
+            $(".c_input_" + id.toString()).summernote({
+                callbacks: {
+                    onImageUpload: function (files) {
+                        that = $(this);
+                        sendFile(files[0], that);
+                    }
+                },
+                focus: false,
+                placeholder: 'Write comment...',
+                disableDragAndDrop: false,
+                toolbar: [['style', ['style']], ['para', ['ul', 'ol', 'paragraph']], 'bold', 'italic', 'underline', 'strikethrough', 'fontsize', 'color', 'link'],//false,
+                minHeight: 60,
+                maxHeight: 300,
+                hint: {
+                    match: /\B@(\w*)$/,
+                    search: function (keyword, callback) {
+                        if (!keyword.length) return callback();
+                        var msg = JSON.stringify({ 'searchstr': keyword.toString() });
+                        $.ajax({
+                            async: true,
+                            url: '/Comment/GetMentions',
+                            type: 'POST',
+                            contentType: "application/json; charset=utf-8",
+                            dataType: 'json',
+                            data: msg,
+                            error: function () {
+                                callback();
+                            },
+                            success: function (res) {
+                                callback(res.users);
+                            }
+                        });
+                    },
+                    content: function (item) {
+                        return $("<span class='badge badge-info userhint'>").html('@' + item)[0];
+                    }
+                }
+            });
+
+            //$('.c_input_' + id.toString()).each(function (i, e) {
+            //    $(e).removeClass("c_input_" + id.toString());
+            //});
+            $(".note-statusbar").css("display", "none");
+            if (!show) {
+                $('#comments_' + id.toString()).slideToggle(200);
+                $('#preply_' + id.toString()).slideToggle(200);
+            }
+            else {
+                $('#comments_' + id.toString()).slideDown(200);
+                $('#preply_' + id.toString()).slideDown(200);
+            }
+        };
+
+        var loadMoreComments = function (e) {
+            var msg = JSON.stringify({ 'postId': $(e).data('postid'), 'nestLevel': $(e).data('nest'), 'rootshown': $(e).data('shown') });
+            $.ajax({
+                type: "POST",
+                url: "/Comment/LoadMoreComments",
+                data: msg,
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (response) {
+                    if (response.success) {
+                        $(e).data('shown', response.shown); // update data
+                        if (!response.hasMore) {
+                            $(e).hide();
+                        }
+                        $(e).parent().find('.insertComments').append(response.HTMLString); // Inject
+                    }
+                    else {
+                        alert(response.Message);
+                    }
+                },
+                failure: function (response) {
+                    console.log('load more failure');
+                },
+                error: function (response) {
+                    console.log('load more error');
+                }
+            });
+            return false;
+        };
+
+        var replyComment = function (id) {
+            $('#c_reply_' + id.toString()).toggle('show');
+            $('#c_reply_' + id.toString()).load('/Comment/GetInputBox' + "/" + id.toString(), function () {
+                $(".c_input").summernote({
+                    callbacks: {
+                        onImageUpload: function (files) {
+                            that = $(this);
+                            sendFile(files[0], that);
+                        }
+                    },
+                    focus: false,
+                    placeholder: 'Write comment...',
+                    disableDragAndDrop: true,
+                    toolbar: [['style', ['style']], ['para', ['ul', 'ol', 'paragraph']], 'bold', 'italic', 'underline', 'strikethrough', 'fontsize', 'color', 'link'],
+                    minHeight: 60,
+                    maxHeight: 300,
+                    hint: {
+                        match: /\B@(\w*)$/,
+                        search: function (keyword, callback) {
+                            if (!keyword.length) return callback();
+                            var msg = JSON.stringify({ 'searchstr': keyword.toString() })
+                            $.ajax({
+                                async: true,
+                                url: '/Comment/GetMentions',
+                                type: 'POST',
+                                contentType: "application/json; charset=utf-8",
+                                dataType: 'json',
+                                data: msg,
+                                error: function () {
+                                    callback();
+                                },
+                                success: function (res) {
+                                    callback(res.users);
+                                }
+                            });
+                        },
+                        content: function (item) {
+                            //return '@' + item;
+                            //return $('<span />').addClass('badge').addClass('userhint').html('@' + item)[0];
+                            return $("<span class='badge badge-info userhint'>").html('@' + item)[0];
+                        }
+                    }
+                });
+                $(".note-statusbar").css("display", "none");
+            });
+        };
+    </script>
+<script src="/bundles/shared?v=gol9Xccz0z4v3V6uwRrtPgsCT_CwwdGiPF49oZa2dlE1" type="2c43d9ffc23f2c2d2af74c04-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/cb7744ae/cloudflare-static/rocket-loader.min.js" data-cf-settings="2c43d9ffc23f2c2d2af74c04-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,2159 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt-BR" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Falha no Banco Inter permitia exposição de dados de clientes desde 2017 - Portal do Bitcoin</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://portaldobitcoin.com/xmlrpc.php" />
+    <meta property="og:image" content="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" />
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Uma falha de segurança no internet banking do Banco Inter deixou informações pessoais de correntistas expostas por mais de um ano."/>
+<link rel="canonical" href="https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Falha no Banco Inter permitia exposição de dados de clientes desde 2017 - Portal do Bitcoin" />
+<meta property="og:description" content="Uma falha de segurança no internet banking do Banco Inter deixou informações pessoais de correntistas expostas por mais de um ano." />
+<meta property="og:url" content="https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/" />
+<meta property="og:site_name" content="Portal do Bitcoin" />
+<meta property="article:publisher" content="https://www.facebook.com/portaldobitcoin" />
+<meta property="article:author" content="https://www.facebook.com/wagnerriggs" />
+<meta property="article:tag" content="BANCO INTER" />
+<meta property="article:tag" content="Falha de segurança" />
+<meta property="article:tag" content="Tecnoblog" />
+<meta property="article:tag" content="VAZAMENTO DE DADOS" />
+<meta property="article:section" content="Brasil" />
+<meta property="article:published_time" content="2019-02-15T19:58:45+00:00" />
+<meta property="article:modified_time" content="2019-02-15T21:07:51+00:00" />
+<meta property="og:updated_time" content="2019-02-15T21:07:51+00:00" />
+<meta property="og:image" content="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" />
+<meta property="og:image:secure_url" content="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" />
+<meta property="og:image:width" content="648" />
+<meta property="og:image:height" content="347" />
+<meta property="og:image:alt" content="Falha no Banco Inter permitia exposição de dados de clientes desde 2017" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Uma falha de segurança no internet banking do Banco Inter deixou informações pessoais de correntistas expostas por mais de um ano." />
+<meta name="twitter:title" content="Falha no Banco Inter permitia exposição de dados de clientes desde 2017 - Portal do Bitcoin" />
+<meta name="twitter:site" content="@portaldobitcoin" />
+<meta name="twitter:image" content="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" />
+<meta name="twitter:creator" content="@wagnerriggs" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://portaldobitcoin.com/","sameAs":["https://www.facebook.com/portaldobitcoin","https://www.instagram.com/portaldobitcoin/","https://www.youtube.com/channel/UCSqMDT5gp5bMf6kNUT3zdjg","https://twitter.com/portaldobitcoin"],"@id":"https://portaldobitcoin.com/#organization","name":"Portal do Bitcoin","logo":"https://portaldobitcoin.com/wp-content/uploads/2018/11/Facebook-40.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="amphtml" href="https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/amp/" /><link rel='dns-prefetch' href='//portaldobitcoin.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Portal do Bitcoin &raquo;" href="https://portaldobitcoin.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Portal do Bitcoin &raquo;" href="https://portaldobitcoin.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Portal do Bitcoin &raquo; Falha no Banco Inter permitia exposição de dados de clientes desde 2017" href="https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/portaldobitcoin.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://portaldobitcoin.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='https://portaldobitcoin.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='https://portaldobitcoin.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.17' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='https://portaldobitcoin.com/wp-content/plugins/thrive-leads/tcb/editor/css/thrive_flat.css?ver=2.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_leads_forms-css'  href='//portaldobitcoin.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='econsulters-cache-plugin-styles-css'  href='https://portaldobitcoin.com/wp-content/plugins/econsulters-cache/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='td-plugin-multi-purpose-css'  href='https://portaldobitcoin.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=9b761fb88cde3d1bd90677504fc739fc' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%7CRoboto+Slab%3A400%2C600%7COpen+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900%2C600&#038;ver=9.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://portaldobitcoin.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://portaldobitcoin.com/wp-content/themes/Newspaper/style.css?ver=9.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-demo-style-css'  href='https://portaldobitcoin.com/wp-content/themes/Newspaper/includes/demos/crypto/demo_style.css?ver=9.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-fontawesome-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/fontawesome.min.css?ver=5.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-flatpickr-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/flatpickr.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-grid-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/flexboxgrid.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-crypto-datatable-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/jquery.dataTables.min.css?ver=1.10.18' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-crypto-table-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/table.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-tippy-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/tippy.min.css?ver=3.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='coinmc-crypto-css'  href='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/css/style.css?ver=1.6.3' type='text/css' media='all' />
+<style id='coinmc-crypto-inline-css' type='text/css'>
+.coinpage, .coinpage .entry-content, .cryptoboxes, .tippy-content { font-family: Rubik; }
+</style>
+<link rel='stylesheet' id='coinmc-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Rubik&#038;ver=5.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"Este n\u00e3o \u00e9 um endere\u00e7o de email v\u00e1lido. ","bwg_search_result":"N\u00e3o h\u00e1 imagens que correspondem \u00e0 sua pesquisa.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Pesquisar","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Exibir Coment\u00e1rios","bwg_hide_comments":"Ocultar Coment\u00e1rios.","bwg_restore":"Restaurar","bwg_maximize":"Maximize","bwg_fullscreen":"Tela Cheia","bwg_exit_fullscreen":"Saia Tela Cheia","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pausa","is_pro":"","bwg_play":"Play","bwg_pause":"Pausa","bwg_hide_info":"Ocultar informa\u00e7\u00f5es","bwg_show_info":"Mostrar info","bwg_hide_rating":"Ocultar informa\u00e7\u00f5es","bwg_show_rating":"Mostrar info","ok":"Ok","cancel":"Cancel","select_all":"Select all"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.17'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.js?ver=1.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads-responsive/public/assets/js/script.js?ver=1.8.4'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/econsulters-cache/public/assets/js/public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/auto-load-next-post/assets/js/libs/scrollspy.min.js?ver=1.4.10.Mod9'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/auto-load-next-post/assets/js/libs/jquery.history.js?ver=1.4.10.Mod9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var auto_load_next_post_params = {"alnp_version":"1.4.10.Mod9","alnp_content_container":"div.td-ss-main-content","alnp_title_selector":"h1.entry-title","alnp_navigation_container":"div.td-post-next-prev","alnp_comments_container":"#disqus_thread","alnp_remove_comments":"no","alnp_google_analytics":"yes","alnp_is_customizer":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/auto-load-next-post/assets/js/frontend/auto-load-next-post.min.js?ver=1.4.10.Mod9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.3.3'></script>
+<link rel='https://api.w.org/' href='https://portaldobitcoin.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://portaldobitcoin.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://portaldobitcoin.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://portaldobitcoin.com/?p=28130' />
+<link rel="alternate" type="application/json+oembed" href="https://portaldobitcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportaldobitcoin.com%2Ffalha-banco-inter-permitia-exposicao-dados-clientes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://portaldobitcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportaldobitcoin.com%2Ffalha-banco-inter-permitia-exposicao-dados-clientes%2F&#038;format=xml" />
+<script src="https://coinzillatag.com/lib/sticky.js"></script>
+<script>window.coinzilla_sticky = window.coinzilla_sticky || [];function czilla(){coinzilla_sticky.push(arguments);}czilla('79585aaa728c73ae6');</script>
+<script src="https://coinzillatag.com/lib/wpnative.js"></script><script>var c_widget = czilla_widget_popup || [];var c_widget_preferences = {}; c_widget_preferences.zone = "47185b35204524341"; c_widget_preferences.x = "right"; c_widget_preferences.yMobile = "top"; c_widget_preferences.y = "top"; c_widget.push(c_widget_preferences);</script>
+<script>
+  function inc_ad(id) {
+    /*
+    var req = new XMLHttpRequest();
+    req.onload = function () {
+      console.log(req.responseText);
+    }
+    req.timeout = 5000;    
+    req.open('POST', '/indice/ads_counter?id=' + id);
+    req.setRequestHeader('Content-Type', 'application/json');
+    req.send({id: id});
+    */
+  }
+</script><script type="text/javascript">
+		;var advadsCfpQueue = [], advadsCfpExpHours = 3;
+		var advadsCfpClickLimit = 3;
+		;
+		var advadsCfpPath = 'https://portaldobitcoin.com';
+		var advadsCfpDomain = '';
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>			<script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/portaldobitcoin.com\/wp-admin\/","wpRestNonce":"f56111e990","wpRestUrl":"https:\/\/portaldobitcoin.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+			</script>
+			<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://portaldobitcoin.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->      <meta name="onesignal" content="wordpress-plugin"/>
+          <link rel="manifest"
+            href="https://portaldobitcoin.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="/>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://portaldobitcoin.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '039baca5-0213-453b-b3f4-7aabce1f327d';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Portal do Bitcoin";
+oneSignal_options['welcomeNotification']['message'] = "Obrigado por se inscrever!";
+oneSignal_options['welcomeNotification']['url'] = "https://portaldobitcoin.com";
+oneSignal_options['path'] = "https://portaldobitcoin.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.4132c962-fb08-4b74-acbc-06682d034170";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Receba todas as notificações do Portal do Bitcoin!';
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Esta é uma notificação de exemplo';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'As notificações irão aparecer na sua área de trabalho';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Notificação de Exemplo';
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'As notificações irão aparecer no seu smartphone';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = 'Você pode cancelar a qualquer momento';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'Sim';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'Não, Obrigado';
+oneSignal_options['promptOptions']['siteName'] = 'Portal do Bitcoin';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['message.prenotify'] = 'Receba as principais notícias do Portal do Bitcoin!';
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Fique por dentro de todas as notícias!';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Você já está recebendo nossas notificações.';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Obrigado por inscrever-se.';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Você não receberá mais notificações =(';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#ff9900';
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var tds_general_modal_image="yes";
+var td_ajax_url="https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=9.2.2";
+var td_get_template_directory_uri="https:\/\/portaldobitcoin.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="7";
+var td_please_wait="Aguarde...";
+var td_email_user_pass_incorrect="Usu\u00e1rio ou senha incorreta!";
+var td_email_user_incorrect="E-mail ou nome de usu\u00e1rio incorreto!";
+var td_email_incorrect="E-mail incorreto!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#fbb03b";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Anterior (Seta a esquerda )";
+var td_magnific_popup_translation_tNext="Avan\u00e7ar (tecla de seta para a direita)";
+var td_magnific_popup_translation_tCounter="%curr% de %total%";
+var td_magnific_popup_translation_ajax_tError="O conte\u00fado de %url% n\u00e3o pode ser carregado.";
+var td_magnific_popup_translation_image_tError="A imagem #%curr% n\u00e3o pode ser carregada.";
+var tdDateNamesI18n={"month_names":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"month_names_short":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"day_names":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"day_names_short":["dom","seg","ter","qua","qui","sex","s\u00e1b"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before,
+    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit] {
+        background-color: #fbb03b;
+    }
+
+    .td_block_template_4 .td-related-title .td-cur-simple-item:before {
+        border-color: #fbb03b transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #fbb03b !important;
+    }
+    
+    
+    .td_block_template_4 .td-related-title .td-cur-simple-item,
+    .td_block_template_3 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title:after {
+        background-color: #fbb03b;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #fbb03b;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #fbb03b !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,
+    .td-header-top-menu .td-icon-search:hover,
+    .td-header-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .td_block_template_2 .td-related-title .td-cur-simple-item,
+    .td_block_template_5 .td-related-title .td-cur-simple-item,
+    .td_block_template_6 .td-related-title .td-cur-simple-item,
+    .td_block_template_7 .td-related-title .td-cur-simple-item,
+    .td_block_template_8 .td-related-title .td-cur-simple-item,
+    .td_block_template_9 .td-related-title .td-cur-simple-item,
+    .td_block_template_10 .td-related-title .td-cur-simple-item,
+    .td_block_template_11 .td-related-title .td-cur-simple-item,
+    .td_block_template_12 .td-related-title .td-cur-simple-item,
+    .td_block_template_13 .td-related-title .td-cur-simple-item,
+    .td_block_template_14 .td-related-title .td-cur-simple-item,
+    .td_block_template_15 .td-related-title .td-cur-simple-item,
+    .td_block_template_16 .td-related-title .td-cur-simple-item,
+    .td_block_template_17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+    .td_outlined_btn,
+     .td_block_categories_tags .td-ct-item:hover {
+        color: #fbb03b;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #fbb03b !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+    .td_outlined_btn {
+        border-color: #fbb03b;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #fbb03b !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #fbb03b transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+    .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #fbb03b;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #fbb03b !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #fbb03b;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #fbb03b;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(251, 176, 59, 0.7);
+    }
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #000000;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #000000;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: rgba(0,0,0,0.5);
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: rgba(0,0,0,0.5) !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+    
+    
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
+    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+        color: #ffffff;
+    }
+    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
+      background-color: #ffffff;
+    }
+    
+    
+    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
+        color: #fbb03b;
+    }
+
+    
+    .td-theme-wrap .header-search-wrap .td-drop-down-search .btn:hover {
+        background-color: #f2d621;
+    }
+    .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #f2d621 !important;
+    }
+
+    
+    @media (max-width: 767px) {
+        body .td-header-wrap .td-header-main-menu {
+            background-color: #111111 !important;
+        }
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(0,0,0,0.8);
+        background: -moz-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.8)), color-stop(100%, rgba(0,0,0,0.7)));
+        background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: -o-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: -ms-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.8)', endColorstr='rgba(0,0,0,0.7)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #fbb03b;
+    }
+
+    
+    .td-header-bg:before {
+        background-image: url('https://portaldobitcoin.com/wp-content/uploads/2018/11/black-menu-test.png');
+    }
+
+    
+    .td-header-bg:before {
+        background-position: center top;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #000000;
+    }
+
+    
+    .td-sub-footer-container {
+        background-color: #fbb03b;
+    }
+
+    
+    .td-sub-footer-container,
+    .td-subfooter-menu li a {
+        color: #ffffff;
+    }
+
+    
+    .td-subfooter-menu li a:hover {
+        color: rgba(255,255,255,0.8);
+    }
+
+
+    
+    .td-footer-wrapper::before {
+        background-image: url('https://portaldobitcoin.com/wp-content/uploads/2018/03/6.jpg');
+    }
+
+    
+    .td-footer-wrapper::before {
+        background-position: center center;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: 0.2;
+    }
+
+
+
+    
+    .td-menu-background,
+    .td-search-background {
+        background-image: url('https://portaldobitcoin.com/wp-content/uploads/2018/03/1-2.jpg');
+    }
+
+    
+    .white-popup-block:before {
+        background-image: url('https://portaldobitcoin.com/wp-content/uploads/2018/03/2.jpg');
+    }
+
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        font-size:14px;
+	line-height:42px;
+	
+    }
+    
+    ul.sf-menu > .td-menu-item > a,
+    .td-theme-wrap .td-header-menu-social {
+        font-family:Poppins;
+	font-size:18px;
+	line-height:90px;
+	font-weight:normal;
+	text-transform:capitalize;
+	
+    }
+    
+    .sf-menu ul .td-menu-item a {
+        font-family:Poppins;
+	font-size:16px;
+	
+    }
+	
+    .td_mod_mega_menu .item-details a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:22px;
+	font-weight:600;
+	
+    }
+    
+    .td_mega_menu_sub_cats .block-mega-child-cats a {
+        font-weight:600;
+	text-transform:uppercase;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:Poppins;
+	font-weight:600;
+	
+    }
+    
+	.td_module_wrap .td-module-title {
+		font-family:Poppins;
+	
+	}
+     
+    .td_module_11 .td-module-title {
+    	font-weight:600;
+	
+    }
+    
+	.td_block_trending_now .entry-title,
+	.td-theme-slider .td-module-title,
+    .td-big-grid-post .entry-title {
+		font-family:Poppins;
+	
+	}
+    
+    .td_module_mx5 .td-module-title {
+    	font-weight:600;
+	
+    }
+    
+	#td-mobile-nav,
+	#td-mobile-nav .wpb_button,
+	.td-search-wrap-mob {
+		font-family:Poppins;
+	
+	}
+
+
+	
+	.post .td-post-header .entry-title {
+		font-family:Poppins;
+	
+	}
+    
+    .td-post-template-3 .td-post-header .entry-title {
+        font-weight:600;
+	
+    }
+    
+    .post blockquote p,
+    .page blockquote p,
+    .td-post-text-content blockquote p {
+        font-family:"Roboto Slab";
+	
+    }
+    
+    .post header .td-post-author-name,
+    .post header .td-post-author-name a {
+        font-family:Poppins;
+	font-weight:600;
+	
+    }
+    
+    .post .td-post-next-prev-content a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:22px;
+	font-weight:600;
+	
+    }
+    
+    .td_block_related_posts .entry-title a {
+        font-family:Poppins;
+	font-size:16px;
+	line-height:20px;
+	font-weight:600;
+	
+    }
+    
+    .top-header-menu > li,
+    .td-header-sp-top-menu,
+    #td-outer-wrap .td-header-sp-top-widget .td-search-btns-wrap,
+    #td-outer-wrap .td-header-sp-top-widget .td-social-icon-wrap {
+        line-height: 42px;
+    }
+
+    
+    @media (min-width: 768px) {
+        .td-header-style-4 .td-main-menu-logo img,
+        .td-header-style-5 .td-main-menu-logo img,
+        .td-header-style-6 .td-main-menu-logo img,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-12 .td-main-menu-logo img {
+            max-height: 90px;
+        }
+        .td-header-style-4 .td-main-menu-logo,
+        .td-header-style-5 .td-main-menu-logo,
+        .td-header-style-6 .td-main-menu-logo,
+        .td-header-style-7 .td-header-sp-logo,
+        .td-header-style-12 .td-main-menu-logo {
+            height: 90px;
+        }
+        .td-header-style-4 .td-main-menu-logo a,
+        .td-header-style-5 .td-main-menu-logo a,
+        .td-header-style-6 .td-main-menu-logo a,
+        .td-header-style-7 .td-header-sp-logo a,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-12 .td-main-menu-logo a,
+        .td-header-style-12 .td-header-menu-wrap .sf-menu > li > a {
+            line-height: 90px;
+        }
+        .td-header-style-7 .sf-menu,
+        .td-header-style-7 .td-header-menu-social {
+            margin-top: 0;
+        }
+        .td-header-style-7 #td-top-search {
+            top: 0;
+            bottom: 0;
+        }
+        .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+            line-height: 90px;
+        }
+    }
+
+
+
+/* Style generated by theme for demo: crypto */
+
+.td-crypto .td_module_11 .td-read-more a:hover {
+            background-color: #fbb03b !important;
+        }
+</style>
+
+
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebSite",
+                    "@id": "https://portaldobitcoin.com/",
+                    "name": "Início"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://portaldobitcoin.com/brasil/",
+                    "name": "Brasil"
+                }
+            }
+            ,{
+                "@type": "ListItem",
+                "position": 3,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/",
+                    "name": "Falha no Banco Inter permitia exposição de dados de clientes desde 2017"                                
+                }
+            }    
+        ]
+    }
+</script>
+<link rel="icon" href="https://portaldobitcoin.com/wp-content/uploads/2019/01/cropped-Favicon-36-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://portaldobitcoin.com/wp-content/uploads/2019/01/cropped-Favicon-36-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://portaldobitcoin.com/wp-content/uploads/2019/01/cropped-Favicon-36-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://portaldobitcoin.com/wp-content/uploads/2019/01/cropped-Favicon-36-1-270x270.png" />
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-98991334-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+
+<!-- Button style compiled by theme -->
+
+<style>
+    .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a,
+                .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > li > a:hover,
+                .tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,
+                .tds-button2 .tdm-btn-text,
+                .tds-button2 i,
+                .tds-button5:hover .tdm-btn-text,
+                .tds-button5:hover i,
+                .tds-button6 .tdm-btn-text,
+                .tds-button6 i,
+                .tdm_block_list .tdm-list-item i,
+                .tdm_block_pricing .tdm-pricing-feature i,
+                .tdm-social-item i {
+                  color: #fbb03b;
+                }
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > li > a:hover,
+                .tdm-menu-active-style5 .td-header-menu-wrap .sf-menu > .sfHover > a,
+                .tds-button1,
+                .tds-button6:after,
+                .tds-title2 .tdm-title-line:after,
+                .tds-title3 .tdm-title-line:after,
+                .tdm_block_pricing.tdm-pricing-featured:before,
+                .tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,
+                .tds-progress-bar1 .tdm-progress-bar:after,
+                .tds-progress-bar2 .tdm-progress-bar:after,
+                .tds-social3 .tdm-social-item {
+                  background-color: #fbb03b;
+                }
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-item > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-menu-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .current-category-ancestor > a,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > li > a:hover,
+                .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a,
+                .tds-button2:before,
+                .tds-button6:before,
+                .tds-progress-bar3 .tdm-progress-bar:after {
+                  border-color: #fbb03b;
+                }
+                .tdm-btn-style1 {
+					background-color: #fbb03b;
+				}
+				.tdm-btn-style2:before {
+				    border-color: #fbb03b;
+				}
+				.tdm-btn-style2 {
+				    color: #fbb03b;
+				}
+				.tdm-btn-style3 {
+				    -webkit-box-shadow: 0 2px 16px #fbb03b;
+                    -moz-box-shadow: 0 2px 16px #fbb03b;
+                    box-shadow: 0 2px 16px #fbb03b;
+				}
+				.tdm-btn-style3:hover {
+				    -webkit-box-shadow: 0 4px 26px #fbb03b;
+                    -moz-box-shadow: 0 4px 26px #fbb03b;
+                    box-shadow: 0 4px 26px #fbb03b;
+				}
+				
+				
+                .tdm-header-style-1.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-1.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-2.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-2.td-header-wrap .top-header-menu .sub-menu,
+                .tdm-header-style-3.td-header-wrap .td-header-top-menu-full,
+                .tdm-header-style-3.td-header-wrap .top-header-menu .sub-menu{
+                    background-color: #000000;
+                }
+				
+				
+                .tdm-menu-active-style2 .tdm-header ul.sf-menu > .td-menu-item,
+                .tdm-menu-active-style4 .tdm-header ul.sf-menu > .td-menu-item,
+                .tdm-header .tdm-header-menu-btns,
+                .tdm-header-style-1 .td-main-menu-logo a,
+                .tdm-header-style-2 .td-main-menu-logo a,
+                .tdm-header-style-3 .td-main-menu-logo a {
+                    line-height: 90px;
+                }
+                .tdm-header-style-1 .td-main-menu-logo,
+                .tdm-header-style-2 .td-main-menu-logo,
+                .tdm-header-style-3 .td-main-menu-logo {
+                    height: 90px;
+                }
+                @media (min-width: 767px) {
+                    .tdm-header-style-1 .td-main-menu-logo img, 
+                    .tdm-header-style-2 .td-main-menu-logo img, 
+                    .tdm-header-style-3 .td-main-menu-logo img {
+                        max-height: 90px;
+                    }
+                }
+</style>
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<style id="tdw-css-placeholder"></style><!--
+<script src="https://coinzillatag.com/lib/sticky.js"></script>
+<script>window.coinzilla_sticky = window.coinzilla_sticky || [];function czilla(){coinzilla_sticky.push(arguments);}czilla('79585aaa728c73ae6');</script>
+<script src="https://coinzillatag.com/lib/wpnative.js"></script><script>var c_widget = czilla_widget_popup || [];var c_widget_preferences = {}; c_widget_preferences.zone = "47185b35204524341"; c_widget_preferences.x = "right"; c_widget_preferences.yMobile = "top"; c_widget_preferences.y = "top"; c_widget.push(c_widget_preferences);</script>
+-->
+</head>
+
+<body class="post-template-default single single-post postid-28130 single-format-standard tdm-menu-active-style3 falha-banco-inter-permitia-exposicao-dados-clientes global-block-template-1 td-crypto wpb-js-composer js-comp-ver-5.0.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Vimeo">
+                <i class="td-icon-font td-icon-vimeo"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-cabecalho-container"><ul id="menu-cabecalho" class="td-mobile-main-menu"><li id="menu-item-11387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-first menu-item-11387"><a href="https://portaldobitcoin.com/">Notícias<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-12658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12658"><a href="https://portaldobitcoin.com/criptomoedas/">Criptomoedas<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-15301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15301"><a href="https://portaldobitcoin.com/criptomoedas/ethereum-noticias/">Ethereum</a></li>
+		<li id="menu-item-15324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15324"><a href="https://portaldobitcoin.com/criptomoedas/bitcoin-cash-noticias/">Bitcoin Cash</a></li>
+		<li id="menu-item-15325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15325"><a href="https://portaldobitcoin.com/criptomoedas/litecoin-noticias/">Litecoin</a></li>
+		<li id="menu-item-15326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15326"><a href="https://portaldobitcoin.com/criptomoedas/ripple-noticias/">Ripple</a></li>
+	</ul>
+</li>
+	<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347"><a href="https://portaldobitcoin.com/bitcoin/">Bitcoin</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352"><a href="https://portaldobitcoin.com/blockchain/">Blockchain</a></li>
+	<li id="menu-item-12657" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-12657"><a href="https://portaldobitcoin.com/brasil/">Brasil</a></li>
+	<li id="menu-item-27527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27527"><a href="https://portaldobitcoin.com/economia/">Economia e Negócios</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><a href="https://portaldobitcoin.com/mineracao/">Mineração</a></li>
+</ul>
+</li>
+<li id="menu-item-8920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8920"><a href="https://portaldobitcoin.com/educacao">Educação<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-15018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15018"><a>Bitcoin<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-8931" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8931"><a href="https://portaldobitcoin.com/o-que-e-bitcoin/">O que é Bitcoin?</a></li>
+		<li id="menu-item-8933" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8933"><a href="https://portaldobitcoin.com/onde-comprar-bitcoin/">Onde Comprar Bitcoin</a></li>
+		<li id="menu-item-8932" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8932"><a href="https://portaldobitcoin.com/o-que-e-uma-paper-wallet-como-criar-e-utilizar-da-maneira-correta/">Como Criar Paper Wallet</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15017"><a>Criptomoedas<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-15008" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15008"><a href="https://portaldobitcoin.com/tudo-sobre-ethereum/">O que é Ethereum?</a></li>
+		<li id="menu-item-15012" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15012"><a href="https://portaldobitcoin.com/guia-tudo-sobre-ripple/">O que é Ripple?</a></li>
+		<li id="menu-item-15009" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15009"><a href="https://portaldobitcoin.com/tudo-sobre-cardano/">O que é Cardano?</a></li>
+		<li id="menu-item-15010" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15010"><a href="https://portaldobitcoin.com/tudo-sobre-iota/">O que é IOTA?</a></li>
+		<li id="menu-item-15011" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15011"><a href="https://portaldobitcoin.com/guia-tudo-sobre-tron/">O que é Tron?</a></li>
+		<li id="menu-item-15013" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15013"><a href="https://portaldobitcoin.com/tudo-sobre-raiblocks/">O que é Nano?</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15585"><a>Carteiras<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-15581" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15581"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-online/">Online</a></li>
+		<li id="menu-item-15580" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15580"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-mobile/">Mobile</a></li>
+		<li id="menu-item-15584" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15584"><a href="https://portaldobitcoin.com/guia-paper-wallet/">Paper Wallet</a></li>
+		<li id="menu-item-15582" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15582"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-desktop/">Desktop</a></li>
+		<li id="menu-item-15583" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15583"><a href="https://portaldobitcoin.com/guia-myetherwallet/">MyEtherWallet</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8929" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8929"><a href="https://portaldobitcoin.com/entenda-mineracao-do-bitcoin/">O que é Mineração?</a></li>
+	<li id="menu-item-8927" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8927"><a href="https://portaldobitcoin.com/o-que-e-ico/">O que é ICO?</a></li>
+	<li id="menu-item-8930" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8930"><a href="https://portaldobitcoin.com/exemplificando-o-funcionamento-da-blockchain-do-bitcoin/">Blockchain de Maneira Fácil</a></li>
+</ul>
+</li>
+<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349"><a href="https://portaldobitcoin.com/analise-tecnica/">Análise Técnica</a></li>
+<li id="menu-item-11785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11785"><a href="https://portaldobitcoin.com/colunas/">Colunistas</a></li>
+<li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1387"><a href="https://portaldobitcoin.com/cotacoes/">Cotações<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-16761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16761"><a href="https://portaldobitcoin.com/cotacoes/">Top 1000 Criptomoedas</a></li>
+	<li id="menu-item-16693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16693"><a>Índice de Preço<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-12592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12592"><a href="https://portaldobitcoin.com/cotacao-bitcoin/">Bitcoin (IPB)</a></li>
+		<li id="menu-item-12593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12593"><a href="https://portaldobitcoin.com/cotacao-ethereum/">Ethereum (IPE)</a></li>
+		<li id="menu-item-15545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15545"><a href="https://portaldobitcoin.com/cotacao-litecoin/">Litecoin (IPL)</a></li>
+	</ul>
+</li>
+	<li id="menu-item-16694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16694"><a>Gráficos<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-10604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10604"><a href="https://portaldobitcoin.com/grafico-bitcoin/">Bitcoin</a></li>
+		<li id="menu-item-10605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10605"><a href="https://portaldobitcoin.com/grafico-ethereum/">Ethereum</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-22990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22990"><a href="https://calendario.portaldobitcoin.com/">Calendário</a></li>
+<li id="menu-item-27528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27528"><a href="https://vagas.portaldobitcoin.com/">Empregos</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://portaldobitcoin.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Buscar</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>       
+    
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        <!--
+Header style 7
+-->
+
+
+<div class="td-header-wrap td-header-style-7 td-header-background-image">
+            <div class="td-header-bg td-container-wrap "></div>
+    
+    
+    <div class="td-header-menu-wrap-full td-container-wrap td_stretch_container td_stretch_content_1400">
+        
+        <div class="td-header-menu-wrap td-header-gradient ">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div class="td-header-sp-logo">
+                                <a class="td-main-logo" href="https://portaldobitcoin.com/">
+                <img src="https://portaldobitcoin.com/wp-content/uploads/2018/05/1-32.png" alt=""/>
+                <span class="td-visual-hidden">Portal do Bitcoin</span>
+            </a>
+                        </div>
+                    
+    <div class="header-search-wrap">
+        <div class="td-search-btns-wrap">
+            <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+        </div>
+
+        <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+            <form method="get" class="td-search-form" action="https://portaldobitcoin.com/">
+                <div role="search" class="td-head-form-search-wrap">
+                    <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Buscar" />
+                </div>
+            </form>
+            <div id="td-aj-search"></div>
+        </div>
+    </div>
+
+<div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-disable" href="https://portaldobitcoin.com/">
+			<img src="https://portaldobitcoin.com/wp-content/uploads/2018/05/Logo-Mobile-35.png" alt=""/>
+		</a>
+			<a class="td-header-logo td-sticky-disable" href="https://portaldobitcoin.com/">
+			<img src="https://portaldobitcoin.com/wp-content/uploads/2018/05/1-32.png" alt=""/>
+		</a>
+	    </div>
+    <div class="menu-cabecalho-container"><ul id="menu-cabecalho-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-first td-menu-item td-normal-menu menu-item-11387"><a href="https://portaldobitcoin.com/">Notícias</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-12658"><a href="https://portaldobitcoin.com/criptomoedas/">Criptomoedas</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-15301"><a href="https://portaldobitcoin.com/criptomoedas/ethereum-noticias/">Ethereum</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-15324"><a href="https://portaldobitcoin.com/criptomoedas/bitcoin-cash-noticias/">Bitcoin Cash</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-15325"><a href="https://portaldobitcoin.com/criptomoedas/litecoin-noticias/">Litecoin</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-15326"><a href="https://portaldobitcoin.com/criptomoedas/ripple-noticias/">Ripple</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-347"><a href="https://portaldobitcoin.com/bitcoin/">Bitcoin</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-352"><a href="https://portaldobitcoin.com/blockchain/">Blockchain</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-12657"><a href="https://portaldobitcoin.com/brasil/">Brasil</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-27527"><a href="https://portaldobitcoin.com/economia/">Economia e Negócios</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-353"><a href="https://portaldobitcoin.com/mineracao/">Mineração</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-8920"><a href="https://portaldobitcoin.com/educacao">Educação</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-15018"><a>Bitcoin</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8931"><a href="https://portaldobitcoin.com/o-que-e-bitcoin/">O que é Bitcoin?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8933"><a href="https://portaldobitcoin.com/onde-comprar-bitcoin/">Onde Comprar Bitcoin</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8932"><a href="https://portaldobitcoin.com/o-que-e-uma-paper-wallet-como-criar-e-utilizar-da-maneira-correta/">Como Criar Paper Wallet</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-15017"><a>Criptomoedas</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15008"><a href="https://portaldobitcoin.com/tudo-sobre-ethereum/">O que é Ethereum?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15012"><a href="https://portaldobitcoin.com/guia-tudo-sobre-ripple/">O que é Ripple?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15009"><a href="https://portaldobitcoin.com/tudo-sobre-cardano/">O que é Cardano?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15010"><a href="https://portaldobitcoin.com/tudo-sobre-iota/">O que é IOTA?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15011"><a href="https://portaldobitcoin.com/guia-tudo-sobre-tron/">O que é Tron?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15013"><a href="https://portaldobitcoin.com/tudo-sobre-raiblocks/">O que é Nano?</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-15585"><a>Carteiras</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15581"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-online/">Online</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15580"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-mobile/">Mobile</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15584"><a href="https://portaldobitcoin.com/guia-paper-wallet/">Paper Wallet</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15582"><a href="https://portaldobitcoin.com/guia-carteira-bitcoin-desktop/">Desktop</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-15583"><a href="https://portaldobitcoin.com/guia-myetherwallet/">MyEtherWallet</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8929"><a href="https://portaldobitcoin.com/entenda-mineracao-do-bitcoin/">O que é Mineração?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8927"><a href="https://portaldobitcoin.com/o-que-e-ico/">O que é ICO?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post td-menu-item td-normal-menu menu-item-8930"><a href="https://portaldobitcoin.com/exemplificando-o-funcionamento-da-blockchain-do-bitcoin/">Blockchain de Maneira Fácil</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-349"><a href="https://portaldobitcoin.com/analise-tecnica/">Análise Técnica</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-11785"><a href="https://portaldobitcoin.com/colunas/">Colunistas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-1387"><a href="https://portaldobitcoin.com/cotacoes/">Cotações</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-16761"><a href="https://portaldobitcoin.com/cotacoes/">Top 1000 Criptomoedas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-16693"><a>Índice de Preço</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-12592"><a href="https://portaldobitcoin.com/cotacao-bitcoin/">Bitcoin (IPB)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-12593"><a href="https://portaldobitcoin.com/cotacao-ethereum/">Ethereum (IPE)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-15545"><a href="https://portaldobitcoin.com/cotacao-litecoin/">Litecoin (IPL)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-16694"><a>Gráficos</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-10604"><a href="https://portaldobitcoin.com/grafico-bitcoin/">Bitcoin</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-10605"><a href="https://portaldobitcoin.com/grafico-ethereum/">Ethereum</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-22990"><a href="https://calendario.portaldobitcoin.com/">Calendário</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-27528"><a href="https://vagas.portaldobitcoin.com/">Empregos</a></li>
+</ul></div></div>            </div>
+        </div>
+    </div>
+
+    
+</div><div style="max-width: 1400px; margin: 0px auto; border: none; overflow: auto; display: block; position: relative; top: 24px;"><center>
+  <div class="td-visible-desktop">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:970px;height:250px"
+         data-ad-client="ca-pub-5124525914303576"
+         data-ad-slot="9696856075"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+</center>
+</div><div class="td-main-content-wrap td-container-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://portaldobitcoin.com/">Início</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="Ver todos os artigos em Brasil" class="entry-crumb" href="https://portaldobitcoin.com/brasil/">Brasil</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Falha no Banco Inter permitia exposição de dados de clientes desde 2017</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-28130" class="post-28130 post type-post status-publish format-standard has-post-thumbnail hentry category-brasil tag-banco-inter tag-falha-de-seguranca tag-tecnoblog tag-vazamento-de-dados" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="https://portaldobitcoin.com/brasil/">Brasil</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">Falha no Banco Inter permitia exposição de dados de clientes desde 2017</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name"><div class="td-author-by">Por</div> <a href="https://portaldobitcoin.com/author/wagner/">Wagner Riggs</a><div class="td-author-line"> - </div> </div>                    <span class="td-post-date td-post-date-no-dot"><time class="entry-date updated td-module-date" datetime="2019-02-15T19:58:45+00:00" >15 FEV, 2019 17:58</time></span>                                                        </div>
+
+            </header>
+
+        </div>
+
+        
+
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><figure><a href="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" data-caption="(Foto: Shutterstock)"><img width="648" height="347" class="entry-thumb td-modal-image" src="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg" srcset="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg 648w, https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-300x161.jpg 300w" sizes="(max-width: 648px) 100vw, 648px" alt="Falha no Banco Inter permitia exposição de dados de clientes desde 2017" title="Falha no Banco Inter permitia exposição de dados de clientes desde 2017"/></a><figcaption class="wp-caption-text">(Foto: Shutterstock)</figcaption></figure></div>
+        <div class="porta-antes-do-conteudo" id="porta-1891048210"><div class="td-visible-desktop"><a href="http://3xb.it/crie-sua-conta?utm_source=portaldobitcoin&amp;utm_medium=banner_1" target="_blank"><img src="https://i.imgur.com/av34Urz.jpg" border="0"></a> </div>
+
+<div class="td-visible-phone"><a href="http://3xb.it/crie-sua-conta?utm_source=portaldobitcoin&amp;utm_medium=banner_2" target="_blank"><img src="https://i.imgur.com/D9nvHuo.jpg" border="0"></a> </div></div>
+<p>Uma falha de segurança no internet banking do Banco Inter, revelada quarta-feira (13) pelo <a rel="noreferrer noopener" aria-label=" (abre em uma nova aba)" href="https://tecnoblog.net/278535/banco-inter-dados-expostos-conta-digital-pro/" target="_blank">Tecnoblog</a>, deixou informações pessoais de correntistas expostas por mais de um ano. A correção total do problema ainda não havia sido aplicada até a terça-feira (12), diz o site.<br></p>
+
+
+
+<p>Segundo a reportagem, uma falha na implementação na área logada do internet banking para pessoa jurídica deixava exposto o nome completo, CPF e email de qualquer cliente do banco, que negou as acusações. Essas informações são ‘prato cheio’ para golpistas que atacam por meio de phishing.<br></p>
+
+
+
+<p>O mesmo aconteceu com as contas de pessoas físicas, mas foi corrigido logo que descoberto em meados de 2017. Na ocasião, era possível obter informações tanto de pessoas físicas quanto jurídicas de correntistas da instituição.<br></p>
+
+
+
+<p>De acordo com o site, um pesquisador fez um teste com a conta jurídica e revelou ser possível acessar informações de 1,45 milhão de pessoas.<br></p>
+
+
+
+<p>“É uma mina de ouro para phishing. Eu entendo terem duas bases de código diferentes, mas não replicar correção de segurança não faz sentido”, disse o pesquisador, segundo a reportagem.<br></p><div class="porta-conteudo_4" id="porta-1667685516"><!-- Coinzilla Banner 728x90 -->
+<script async src="https://coinzillatag.com/lib/display.js"></script><div class="coinzilla" data-zone="C-640505a638549868f1"></div>
+<script>
+    window.coinzilla_display = window.coinzilla_display || [];
+    var c_display_preferences = {};
+    c_display_preferences.zone = "640505a638549868f1";
+    c_display_preferences.width = "728";
+    c_display_preferences.height = "90";
+    coinzilla_display.push(c_display_preferences);
+</script></div>
+
+
+
+<p>De acordo com o site, a falha estava na página de transferência de recursos entre clientes da instituição — os dados dos correntistas eram preenchidos automaticamente.<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-falha-2.png"><img src="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-falha-2.png" alt="" class="wp-image-28132" srcset="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-falha-2.png 759w, https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-falha-2-300x162.png 300w, https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter-falha-2-696x375.png 696w" sizes="(max-width: 759px) 100vw, 759px"></a><figcaption>(Fonte: Tecnoblog.net)</figcaption></figure><p>Procurada pelo site, a assessoria de imprensa do Banco Inter se negou a responder se tinha ciência do problema e se limitou a dizer que “possui todas as políticas de segurança necessárias e está em conformidade com as melhores práticas de mercado”.<br></p>
+
+
+
+<p>No entanto, após o contato, a falha foi corrigida.<br></p>
+
+
+
+<h2>Banco já enfrentou outro vazamento<br></h2>
+
+
+
+<p>O Ministério Público do Distrito Federal e Territórios (MPDFT) no dia 31 de Julho de 2018 publicou uma nota concluindo que o <a href="http://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2018/10211-mpdft-ajuiza-acao-contra-o-banco-inter-por-vazamento-de-dados-pessoais" target="_blank" rel="noreferrer noopener" aria-label=" (abre em uma nova aba)">Banco Inter deixou vazar dados pessoais de 19.961 correntistas</a>. Dessas, 13.207 continham dados bancários, como número da conta, senha, endereço, CPF e telefone.<br></p>
+
+
+
+<p>A falha na segurança, cujo valor de indenização poderia chegar a R$ 10 milhões, inicialmente foi negada pela instituição. No entanto, com o passar do tempo o banco confessou que sofreu o incidente e fechou um acordo extrajudicial.<br></p>
+
+
+
+<h3>Banco alerta sobre phishing<br></h3>
+
+
+
+<p>Curiosamente, no dia 10 de fevereiro, o Banco Inter postou no <a href="https://twitter.com/Bancointer/status/1094627060834844674">Twitter</a> um alerta sobre golpes de phishing e convidou os usuários a acessarem um artigo sobre o tema.<br></p>
+
+
+
+<p>“Phishing é uma modalidade de golpe que vem sendo aplicado por criminosos que atuam no ambiente online para roubar informações e dados pessoais. Para que você fique atento e não caia nesse tipo de fraude, separamos algumas dicas em nosso blog”<br></p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="pt" dir="ltr">Phishing é uma modalidade de golpe que vem sendo aplicado por criminosos que atuam no ambiente online para roubar informações e dados pessoais. Para que você fique atento e não caia nesse tipo de fraude, separamos algumas dicas em nosso blog, confira: <a href="https://t.co/xAzaVetQyZ">https://t.co/xAzaVetQyZ</a></p>— Banco Inter (@Bancointer) <a href="https://twitter.com/Bancointer/status/1094627060834844674?ref_src=twsrc%5Etfw">February 10, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></figure><p><strong><a href="https://www.instagram.com/portaldobitcoin/" target="_blank" rel="noreferrer noopener">Clique aqui e siga o Portal do Bitcoin no Instagram</a></strong></p>
+
+
+
+<hr class="wp-block-separator"><h3>Coinext</h3>
+
+
+
+<p>Compre Bitcoin e outras criptomoedas na corretora mais segura do Brasil. Cadastre-se e veja como é simples, acesse: <a href="https://coinext.com.br/cadastro.html?utm_source=portaldobitcoin&amp;utm_medium=artigo" target="_blank" rel="noreferrer noopener" aria-label=" (abre em uma nova aba)">https://coinext.com.br</a></p>
+
+
+
+<p><br></p>
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span><div class="porta-depois-do-conteudo" id="porta-1558704616"><center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 336x280 dentro texto --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-5124525914303576" data-ad-slot="5312039880"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center></div>
+        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="https://portaldobitcoin.com/tag/banco-inter/">BANCO INTER</a></li><li><a href="https://portaldobitcoin.com/tag/falha-de-seguranca/">Falha de segurança</a></li><li><a href="https://portaldobitcoin.com/tag/tecnoblog/">Tecnoblog</a></li><li><a href="https://portaldobitcoin.com/tag/vazamento-de-dados/">VAZAMENTO DE DADOS</a></li></ul>            </div>
+
+                        <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Artigo anterior</span><a href="https://portaldobitcoin.com/binance-vai-retirar-cinco-criptomoedas-da-plataforma-veja-quais-e-previna-se/">Binance vai retirar cinco criptomoedas da plataforma; veja quais e previna-se</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Próximo artigo</span><a href="https://portaldobitcoin.com/exchange-de-criptomoedas-hackeada-450mil-usuarios-afetados/">Mais uma exchange de criptomoedas é hackeada; 450 mil usuários afetados</a></div></div></div>            <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://portaldobitcoin.com/author/wagner/">Wagner Riggs</a></span></div>	        <span class="td-page-meta" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Wagner Riggs"></span><meta itemprop="datePublished" content="2019-02-15T19:58:45+00:00"><meta itemprop="dateModified" content="2019-02-15T21:07:51+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://portaldobitcoin.com/falha-banco-inter-permitia-exposicao-dados-clientes/"/><span class="td-page-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span class="td-page-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://portaldobitcoin.com/wp-content/uploads/2018/05/1-32.png"></span><meta itemprop="name" content="Portal do Bitcoin"></span><meta itemprop="headline " content="Falha no Banco Inter permitia exposição de dados de clientes desde 2017"><span class="td-page-meta" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://portaldobitcoin.com/wp-content/uploads/2019/02/banco-inter.jpg"><meta itemprop="width" content="648"><meta itemprop="height" content="347"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    
+
+<div id="disqus_thread"></div>
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="position: absolute; z-index: 998;">
+  <div style="position: relative;font-family: Poppins, 'Segoe UI';">
+    <a id="nexo-loan-btn"
+      style="cursor:pointer;display: block;width: 100%;background-color: #fbb03b;color: white;border-radius: 4px;padding: 16px 8px 16px 8px;margin-top: -22px;font-weight: 600;box-shadow: 0 1px 2px 0px rgba(0,0,0,0.2);text-shadow: 0 1px 1px rgba(0,0,0,0.3);text-align: center;">
+      Consiga Empréstimos em Criptomoedas!
+    </a>
+    <div id="nexo-loan-popover"
+      style="z-index: 999;padding: 16px;border: 1px solid rgba(0,0,0,.2);border-radius: 6px;-webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);box-shadow: 0 5px 10px rgba(0,0,0,.2);position: absolute;display: none;background-color: white;margin-top: 12px; max-width: 400px; width: 100%;">
+      <div
+        style="width: 16px; height: 16px;  background-color: inherit; transform: rotate(-45deg);position: absolute;top: -9px;border-right: inherit;border-top: inherit; left: 48%;">
+      </div>
+      <div>
+        <p style="margin: 0 0 3px 0;">
+          <img src="https://portaldobitcoin.com/indice/img/NEXO.png/" style="vertical-align: middle;">
+          <a href="https://nexo.io/?utm_source=sidebar&amp;utm_medium=fixed&amp;utm_term=coinpage&amp;utm_content=web_integration&amp;utm_campaign=nexoeverywhere" target="_blank">
+            Nexo - Crédito instantâneo em Criptomoedas
+          </a>
+        </p>
+        <p style="color: #aaa; font-size: 85%; margin: 0;">
+          Consiga dinheiro em+ criptomoedas usando criptomoedas como garantia. 100% garantido pelo seguro de cripto-custódia.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+</div></aside><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><span id='ct_cpyDf1u'></span>
+<script async src="https://coinzillatag.com/lib/display.js"></script>
+<div class="coinzilla" data-zone="C-651505a638549813e9"></div>
+<script>
+    window.coinzilla_display = window.coinzilla_display || [];
+    var c_display_preferences = {};
+    c_display_preferences.zone = "651505a638549813e9";
+    c_display_preferences.width = "300";
+    c_display_preferences.height = "250";
+    coinzilla_display.push(c_display_preferences);
+</script></div></aside><div class="td_block_wrap td_block_7 td_block_widget td_uid_2_5c7c188d69c5e_rand td-pb-border-top td_block_template_1 td-column-1 td_block_padding"  data-td-block-uid="td_uid_2_5c7c188d69c5e" ><script>var block_td_uid_2_5c7c188d69c5e = new tdBlock();
+block_td_uid_2_5c7c188d69c5e.id = "td_uid_2_5c7c188d69c5e";
+block_td_uid_2_5c7c188d69c5e.atts = '{"custom_title":"EM ALTA","custom_url":"","block_template_id":"","header_color":"#","header_text_color":"#","accent_text_color":"#","m6_tl":"50","limit":"4","offset":"","el_class":"","post_ids":"29082, 29059, 28170, 28886, 27820","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_2_5c7c188d69c5e_rand","separator":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","css":"","tdc_css":"","td_column_number":1,"color_preset":"","border_top":"","tdc_css_class":"td_uid_2_5c7c188d69c5e_rand","tdc_css_class_style":"td_uid_2_5c7c188d69c5e_rand_style"}';
+block_td_uid_2_5c7c188d69c5e.td_column_number = "1";
+block_td_uid_2_5c7c188d69c5e.block_type = "td_block_7";
+block_td_uid_2_5c7c188d69c5e.post_count = "4";
+block_td_uid_2_5c7c188d69c5e.found_posts = "5";
+block_td_uid_2_5c7c188d69c5e.header_color = "#";
+block_td_uid_2_5c7c188d69c5e.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5c7c188d69c5e.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_2_5c7c188d69c5e);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">EM ALTA</span></h4></div><div id=td_uid_2_5c7c188d69c5e class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://portaldobitcoin.com/unick-forex-fechada-policia-civil/" rel="bookmark" class="td-image-wrap" title="Unick Forex é fechada pela Polícia Civil em cidade gaúcha; funcionários foram parar na delegacia"><img width="100" height="70" class="entry-thumb" src="https://portaldobitcoin.com/wp-content/uploads/2019/02/unick-1-100x70.jpg"  srcset="https://portaldobitcoin.com/wp-content/uploads/2019/02/unick-1-100x70.jpg 100w, https://portaldobitcoin.com/wp-content/uploads/2019/02/unick-1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Unick Forex é fechada pela Polícia Civil em cidade gaúcha; funcionários foram parar na delegacia" title="Unick Forex é fechada pela Polícia Civil em cidade gaúcha; funcionários foram parar na delegacia" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://portaldobitcoin.com/unick-forex-fechada-policia-civil/" rel="bookmark" title="Unick Forex é fechada pela Polícia Civil em cidade gaúcha; funcionários foram parar na delegacia">Unick Forex é fechada pela Polícia Civil em cidade gaúcha; funcionários foram parar na delegacia</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-02-27T14:59:13+00:00" >27 FEV, 2019 11:59</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://portaldobitcoin.com/justica-banco-do-brasil-fechar-empresa-criptomoedas/" rel="bookmark" class="td-image-wrap" title="Justiça autoriza Banco do Brasil a fechar mais uma conta de empresa de criptomoedas"><img width="100" height="70" class="entry-thumb" src="https://portaldobitcoin.com/wp-content/uploads/2019/02/Cielo-contrata-presidente-do-Banco-do-Brasil-para-tentar-recuperar-mercado-100x70.jpg"  srcset="https://portaldobitcoin.com/wp-content/uploads/2019/02/Cielo-contrata-presidente-do-Banco-do-Brasil-para-tentar-recuperar-mercado-100x70.jpg 100w, https://portaldobitcoin.com/wp-content/uploads/2019/02/Cielo-contrata-presidente-do-Banco-do-Brasil-para-tentar-recuperar-mercado-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Justiça autoriza Banco do Brasil a fechar mais uma conta de empresa de criptomoedas" title="Justiça autoriza Banco do Brasil a fechar mais uma conta de empresa de criptomoedas" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://portaldobitcoin.com/justica-banco-do-brasil-fechar-empresa-criptomoedas/" rel="bookmark" title="Justiça autoriza Banco do Brasil a fechar mais uma conta de empresa de criptomoedas">Justiça autoriza Banco do Brasil a fechar mais uma conta de empresa de criptomoedas</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-03-01T12:55:54+00:00" >01 MAR, 2019 09:55</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://portaldobitcoin.com/bitcoin-melhor-comprar-o-maximo-possivel-enquanto-ninguem-se-importa-diz-bilionario/" rel="bookmark" class="td-image-wrap" title="Bitcoin: “É melhor comprar o máximo possível enquanto ninguém se importa&#8221;, diz bilionário"><img width="100" height="70" class="entry-thumb" src="https://portaldobitcoin.com/wp-content/uploads/2018/05/Pilha-Bitcoin-pdb-100x70.jpg"  srcset="https://portaldobitcoin.com/wp-content/uploads/2018/05/Pilha-Bitcoin-pdb-100x70.jpg 100w, https://portaldobitcoin.com/wp-content/uploads/2018/05/Pilha-Bitcoin-pdb-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Bitcoin: “É melhor comprar o máximo possível enquanto ninguém se importa&#8221;, diz bilionário" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://portaldobitcoin.com/bitcoin-melhor-comprar-o-maximo-possivel-enquanto-ninguem-se-importa-diz-bilionario/" rel="bookmark" title="Bitcoin: “É melhor comprar o máximo possível enquanto ninguém se importa&#8221;, diz bilionário">Bitcoin: “É melhor comprar o máximo possível enquanto ninguém se importa&#8221;, diz bilionário</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-02-23T13:13:29+00:00" >23 FEV, 2019 10:13</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://portaldobitcoin.com/nova-lei-para-regular-bitcoin-no-brasil-sera-apresentada-em-marco-diz-deputado-autor-do-projeto/" rel="bookmark" class="td-image-wrap" title="Nova lei para regular Bitcoin no Brasil será apresentada em março, diz deputado autor do projeto"><img width="100" height="70" class="entry-thumb" src="https://portaldobitcoin.com/wp-content/uploads/2019/02/aureo-100x70.jpg"  srcset="https://portaldobitcoin.com/wp-content/uploads/2019/02/aureo-100x70.jpg 100w, https://portaldobitcoin.com/wp-content/uploads/2019/02/aureo-300x211.jpg 300w, https://portaldobitcoin.com/wp-content/uploads/2019/02/aureo-218x150.jpg 218w, https://portaldobitcoin.com/wp-content/uploads/2019/02/aureo.jpg 596w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Nova lei para regular Bitcoin no Brasil será apresentada em março, diz deputado autor do projeto" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://portaldobitcoin.com/nova-lei-para-regular-bitcoin-no-brasil-sera-apresentada-em-marco-diz-deputado-autor-do-projeto/" rel="bookmark" title="Nova lei para regular Bitcoin no Brasil será apresentada em março, diz deputado autor do projeto">Nova lei para regular Bitcoin no Brasil será apresentada em março, diz deputado autor do projeto</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-02-24T20:38:11+00:00" >24 FEV, 2019 17:38</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block --><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://appsha1.cointraffic.io/js/?wkey=0wiI4U"></script>
+
+<span id='ct_2l6Wos'></span></div></aside><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="//vagas.portaldobitcoin.com/widget/?rev=7" style="border: none;width: 100%;height: 498px;"></iframe></div></aside><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 post -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-5124525914303576"
+     data-ad-slot="4746241649"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></aside>                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+
+
+
+	<!-- Footer -->
+	<div class="td-footer-wrapper td-container-wrap td-footer-template-14 td_stretch_container td_stretch_content_1400">
+    <div class="td-container td-footer-bottom-full">
+        <div class="td-pb-row">
+            <div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://portaldobitcoin.com/"><img src="https://portaldobitcoin.com/wp-content/uploads/2018/05/1-32.png" alt="" title=""/></a></aside></div><div class="td-pb-span9"><aside class="footer-text-wrap"><div class="block-title"><span>SOBRE NÓS</span></div>O Portal do Bitcoin é líder no Brasil em notícias sobre Bitcoin, Criptoativos e Blockchain. Nossa missão é trazer conteúdo de qualidade ao leitor.<div class="footer-email-wrap">Contato: <a href="/cdn-cgi/l/email-protection#5d3e3233293c29321d2d322f293c3139323f34293e323433733e3230"><span class="__cf_email__" data-cfemail="72111d1c0613061d32021d0006131e161d101b06111d1b1c5c111d1f">[email&#160;protected]</span></a></div></aside></div>        </div>
+    </div>
+</div>
+	<!-- Sub Footer -->
+	    <div class="td-sub-footer-container td-container-wrap td_stretch_container td_stretch_content_1400">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span td-sub-footer-menu">
+                    <div class="menu-td-demo-footer-menu-container"><ul id="menu-td-demo-footer-menu" class="td-subfooter-menu"><li id="menu-item-11252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-11252"><a href="#">Predictions</a></li>
+<li id="menu-item-11253" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-11253"><a href="#">Contact</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span td-sub-footer-copy">
+                    &copy; Portal do Bitcoin - Todos os direitos Reservados
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><!--close td-outer-wrap-->
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  function add_widget() {
+    var header = document.querySelector('div[class*="td-header-wrap"]');
+    if (header) {      
+      var widget = document.createElement('iframe');
+      var wdiv = document.createElement('div');
+      
+      widget.src = 'https://portaldobitcoin.com/indice/widget';
+      widget.style.height = '60px';
+      widget.style.width = '100%';
+      widget.style.border = 'none';
+      
+      wdiv.style.maxWidth = '1400px';
+      wdiv.style.margin = '0 auto';
+      wdiv.style.border = 'none';
+      wdiv.style.overflow = 'auto';
+      wdiv.style.display = 'block';
+      wdiv.style.position = 'relative';
+      wdiv.style.top = '6px';
+      
+      wdiv.appendChild(widget);
+      
+      header.parentNode.insertBefore(wdiv, header.nextSibling);
+    }
+  }
+  
+  var ifHeight = 1150;
+  var ifElement = document.querySelector('div.td-fix-index > iframe');
+  function resize_index() {
+    var paths = ['/cotacao-bitcoin/', '/cotacao-ethereum/', '/cotacao-litecoin/', '/cotacoes/'];
+    if (paths.indexOf(window.location.pathname) >= 0) {
+      var contentWrap = document.querySelector('div.tdc-content-wrap > div.tdc-row:first-of-type');
+      if (!contentWrap) {
+        contentWrap = document.querySelector('div.td-container.tdc-content-wrap');
+      }
+      if (contentWrap) {
+        contentWrap.style.width = 'unset';
+        contentWrap.style.maxWidth = '1400px';
+      }
+      
+      setInterval(function(){
+        var docHeight = ifElement.contentDocument.documentElement.offsetHeight;
+        if (docHeight > ifHeight) {
+          ifHeight = docHeight;
+          ifElement.style.minHeight = docHeight + 'px';
+        }
+      }, 1000);
+    }
+  }  
+  
+  function pdbtc_wnd_load() {
+    add_widget();
+    resize_index();
+  }
+  
+  document.addEventListener('DOMContentLoaded', pdbtc_wnd_load, false);  
+  
+  window.addEventListener('load', () => {
+
+    document.getElementById('nexo-loan-btn').addEventListener('click', () => {
+      const pop = document.getElementById('nexo-loan-popover');
+      pop.style.display = pop.style.display === 'none' ? 'inline-block' : 'none';
+    });
+    document.body.addEventListener('click', (e) => {
+      if (e.target.id === 'nexo-loan-btn') { return; }
+      const pop = document.getElementById('nexo-loan-popover');
+      pop.style.display = 'none';
+    });
+
+  });
+</script>
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2017
+        Version: 9.2.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 5c7c188d6c96e
+    -->
+
+    <div class="tl-states-root tl-anim-zoom_in"><div  class="tl-style" id="tve_tcb2_set-021" data-state="18">
+        <div class="tve_tcb2_set-021 tve_post_lightbox tve-leads-lightbox">
+        <div style="visibility: hidden; position: fixed; left: -9000px" class="tl-lb-target tve-leads-track-lightbox-18" data-s-state=""><div class="tve_p_lb_overlay" style=""></div><div data-anim="zoom_in" class="tve_p_lb_content tve-tl-anim tl-anim-zoom_in bSe cnt" style="" data-css="tve-u-bi0zfeezsm8jh"><div class="tve_p_lb_inner" id="tve-p-scroller" style=""><article><style type="text/css" class="tve_custom_style">@import url("//fonts.googleapis.com/css?family=Roboto:300,500,400,&subset=latin");@media (min-width: 300px){[data-css="tve-u-95b85aa6b1734d"] { margin-top: 20px !important; }[data-css="tve-u-105b85aa6b1738c"] { line-height: 27px !important; }#tve_editor [data-css="tve-u-105b85aa6b1738c"] { font-family: Roboto; font-weight: 300; background-color: inherit !important; color: rgb(255, 255, 255) !important; font-size: 18px !important; }[data-css="tve-u-85b85aa6b1730e"] { line-height: 39px !important; }#tve_editor [data-css="tve-u-85b85aa6b1730e"] { font-family: Roboto; font-weight: 400; font-size: 30px !important; color: rgb(255, 255, 255) !important; }#tve_editor [data-css="tve-u-135b85aa6b17448"]:hover input { background-color: rgb(159, 202, 196) !important; background-image: linear-gradient(rgb(159, 202, 196), rgb(159, 202, 196)) !important; background-size: auto !important; background-position: 0px 0px !important; background-attachment: scroll !important; background-repeat: no-repeat !important; }#tve_editor [data-css="tve-u-145b85aa6b17487"] > :first-child { color: rgb(177, 177, 177); }[data-css="tve-u-75b85aa6b172ce"] { padding: 32px 0px 10px !important; }[data-css="tve-u-25b85aa6b171a3"] { min-height: 0px !important; }[data-css="tve-u-115b85aa6b173cb"] { border-radius: 6px; overflow: hidden; margin-bottom: 0px !important; margin-top: 0px !important; padding: 10px 0px 0px !important; }#tve_editor [data-css="tve-u-135b85aa6b17448"] input { font-size: 16px; border: 1px solid rgb(229, 229, 229); border-radius: 6px; overflow: hidden; font-family: Roboto; font-weight: 400; padding-top: 14px !important; padding-right: 20px; padding-bottom: 14px !important; padding-left: 65px; margin-bottom: 0px !important; }[data-css="tve-u-155b85aa6b174c6"] { max-width: 32.2%; }[data-css="tve-u-125b85aa6b17409"] { max-width: 68%; }#tve_editor [data-css="tve-u-165b85aa6b17509"]:hover button { background-color: rgb(0, 109, 94) !important; background-image: linear-gradient(rgb(0, 109, 94), rgb(0, 109, 94)) !important; background-size: auto !important; background-position: 0px 0px !important; background-attachment: scroll !important; background-repeat: no-repeat !important; }[data-css="tve-u-165b85aa6b17509"] strong { font-weight: 500; }#tve_editor [data-css="tve-u-165b85aa6b17509"] button { color: rgb(255, 255, 255); font-size: 22px; line-height: 30px; font-family: Roboto; font-weight: 300; border-radius: 6px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.4) 0px -2px 0px 0px inset, rgba(0, 0, 0, 0.4) 0px 2px 0px 0px inset; background-color: rgb(0, 128, 111) !important; padding-top: 12px !important; padding-bottom: 12px !important; margin-bottom: 0px !important; background-image: linear-gradient(rgb(0, 128, 111), rgb(0, 128, 111)) !important; background-size: auto !important; background-position: 0px 0px !important; background-attachment: scroll !important; background-repeat: no-repeat !important; }[data-css="tve-u-65b85aa6b1728f"] { max-width: 73.1%; }[data-css="tve-u-45b85aa6b17227"] { max-width: 26.9%; }[data-css="tve-u-35b85aa6b171e7"] { margin-left: 0px; }[data-css="tve-u-35b85aa6b171e7"] > .tcb-flex-col { padding-left: 0px; }[data-css="tve-u-55b85aa6b1724f"] { float: none; width: 155px; margin-top: 0px !important; margin-bottom: 0px !important; padding-right: 12px !important; padding-top: 12px !important; }[data-css="tve-u-15b85aa6b17157"] { padding: 15px 0px 40px !important; }[data-css="tve-u-bi0zfeezsm8jh"] { overflow: hidden; border-radius: 6px !important; margin-left: 0px !important; margin-right: 0px !important; padding-top: 0px !important; padding-bottom: 0px !important; background-color: rgb(27, 25, 64) !important; }[data-css="tve-u-05b85aa6b17107"] { font-size: 13px; width: 13px; height: 13px; color: rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255); border-radius: 99px; overflow: hidden; position: absolute; z-index: 10; top: -30px; right: 0px; background-image: linear-gradient(rgb(27, 25, 64), rgb(27, 25, 64)) !important; padding: 5px !important; background-size: auto !important; background-position: 0px 0px !important; background-attachment: scroll !important; background-repeat: no-repeat !important; }#tve_editor [data-css="tve-u-135b85aa6b17448"] .thrv_icon { transform: translate(50%, -50%); right: auto; left: 0px; }}@media (max-width: 1023px){[data-css="tve-u-05b85aa6b17107"] { z-index: 10; top: -30px; right: 0px; }}@media (max-width: 767px){#tve_editor [data-css="tve-u-85b85aa6b1730e"] { font-size: 30px !important; }[data-css="tve-u-75b85aa6b172ce"] { padding: 20px 0px 0px !important; }[data-css="tve-u-95b85aa6b1734d"] { padding: 20px 0px 0px !important; margin-top: 0px !important; }[data-css="tve-u-05b85aa6b17107"] { z-index: 10; top: -30px; right: 3px; }#tve_editor [data-css="tve-u-165b85aa6b17509"] button { margin-top: 20px !important; }[data-css="tve-u-115b85aa6b173cb"] { margin-top: 0px !important; padding-top: 0px !important; }[data-css="tve-u-55b85aa6b1724f"] { margin-left: auto !important; margin-right: auto !important; padding-right: 0px !important; padding-top: 0px !important; }}</style><style type="text/css" class="tve_user_custom_style">.tve-leads-conversion-object .thrv_heading h1,.tve-leads-conversion-object .thrv_heading h2,.tve-leads-conversion-object .thrv_heading h3{margin:0;padding:0}.tve-leads-conversion-object .thrv_text_element p,.tve-leads-conversion-object .thrv_text_element h1,.tve-leads-conversion-object .thrv_text_element h2,.tve-leads-conversion-object .thrv_text_element h3{margin:0}</style><style type="text/css" class="tve_global_style"></style><div class="tve-leads-conversion-object" data-tl-type="lightbox"><div class="tve_flt"><div id="tve_editor" class="tve_shortcode_editor"><div class="thrv_wrapper thrv_icon tcb-icon-display tve_evt_manager_listen tve_et_click tve_ea_thrive_leads_form_close" data-css="tve-u-05b85aa6b17107" data-tcb-events="__TCB_EVENT_[{&quot;a&quot;:&quot;thrive_leads_form_close&quot;,&quot;t&quot;:&quot;click&quot;}]_TNEVE_BCT__"><svg class="tcb-icon" viewBox="0 0 30 32" data-name="closeclose">
+<title>close</title>
+<path d="M0.655 2.801l1.257-1.257 27.655 27.655-1.257 1.257-27.655-27.655z"></path>
+<path d="M28.31 1.543l1.257 1.257-27.655 27.655-1.257-1.257 27.655-27.655z"></path>
+</svg></div>
+<div class="thrv_wrapper thrv-page-section" style="" data-css="tve-u-15b85aa6b17157">
+<div class="tve-page-section-out"></div>
+<div class="tve-page-section-in tve_empty_dropzone" data-css="tve-u-25b85aa6b171a3"><div class="thrv_wrapper thrv-columns" style=""><div class="tcb-flex-row tcb-resized tcb--cols--2" data-css="tve-u-35b85aa6b171e7"><div class="tcb-flex-col" data-css="tve-u-45b85aa6b17227" style=""><div class="tcb-col tve_empty_dropzone" style=""><div class="thrv_wrapper tve_image_caption" data-css="tve-u-55b85aa6b1724f" style=""><span class="tve_image_frame" style="width: 100%;"><img class="tve_image wp-image-2421" alt="" width="155" height="155" title="set_21_icon" data-id="2421" src="//portaldobitcoin.com/wp-content/uploads/tve_leads_templates/lightbox/tcb2_set-021/images/set_21_icon.png" style="width: 100%;"></span></div></div></div><div class="tcb-flex-col" data-css="tve-u-65b85aa6b1728f" style=""><div class="tcb-col tve_empty_dropzone" style=""><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" style="" data-css="tve-u-75b85aa6b172ce"><p data-css="tve-u-85b85aa6b1730e">Inscreva-se na nossa Newsletter!</p></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" style="" data-css="tve-u-95b85aa6b1734d"><p data-css="tve-u-105b85aa6b1738c">Receba as melhores notícias da semana sobre Bitcoin, criptomoedas e blockchain direto no seu e-mail!</p></div></div></div></div></div><div class="thrv_wrapper thrv_lead_generation" data-connection="api" style="" data-css="tve-u-115b85aa6b173cb"><input type="hidden" class="tve-lg-err-msg" value="{&quot;email&quot;:&quot;Email address invalid&quot;,&quot;phone&quot;:&quot;Phone number invalid&quot;,&quot;password&quot;:&quot;Password invalid&quot;,&quot;passwordmismatch&quot;:&quot;Password mismatch error&quot;,&quot;required&quot;:&quot;Required field missing&quot;}">
+<div class="thrv_lead_generation_container tve_clearfix">
+<form action="#" method="post" novalidate="novalidate">
+<div class="tve_lead_generated_inputs_container tve_clearfix tve_empty_dropzone">
+<div class="thrv_wrapper thrv-columns"><div class="tcb-flex-row tcb--cols--2 tcb-resized"><div class="tcb-flex-col" data-css="tve-u-125b85aa6b17409" style=""><div class="tcb-col tve_empty_dropzone"><div class="tve_lg_input_container tve_lg_input tcb-icon-display tve_empty_dropzone" data-css="tve-u-135b85aa6b17448"><div class="thrv_wrapper thrv_icon" style="" data-css="tve-u-145b85aa6b17487"><svg class="tcb-icon" viewBox="0 0 28 28" data-name="envelope">
+<title>envelope</title>
+<path d="M28 11.094v12.406c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-12.406c0.469 0.516 1 0.969 1.578 1.359 2.594 1.766 5.219 3.531 7.766 5.391 1.313 0.969 2.938 2.156 4.641 2.156h0.031c1.703 0 3.328-1.188 4.641-2.156 2.547-1.844 5.172-3.625 7.781-5.391 0.562-0.391 1.094-0.844 1.563-1.359zM28 6.5c0 1.75-1.297 3.328-2.672 4.281-2.438 1.687-4.891 3.375-7.313 5.078-1.016 0.703-2.734 2.141-4 2.141h-0.031c-1.266 0-2.984-1.437-4-2.141-2.422-1.703-4.875-3.391-7.297-5.078-1.109-0.75-2.688-2.516-2.688-3.938 0-1.531 0.828-2.844 2.5-2.844h23c1.359 0 2.5 1.125 2.5 2.5z"></path>
+</svg></div>
+<input type="email" data-field="email" data-required="1" data-validation="email" name="email" placeholder="Seu melhor email" data-placeholder="Seu melhor email" class="" style="">
+</div></div></div><div class="tcb-flex-col" data-css="tve-u-155b85aa6b174c6" style=""><div class="tcb-col tve_empty_dropzone"><div class="tve_lg_input_container tve_submit_container tve_lg_submit" data-css="tve-u-165b85aa6b17509">
+<button type="submit" style="" class="tve-froala">RECEBER!</button>
+</div></div></div></div></div>
+</div>
+<input type="hidden" name="__tcb_lg_fc" id="__tcb_lg_fc" value="YToxOntzOjEyOiJpbmZ1c2lvbnNvZnQiO3M6MzoiMTAzIjt9"><input id="_submit_option" type="hidden" name="_submit_option" value="message"><input id="__tcb_lg_msg" type="hidden" name="__tcb_lg_msg" value="YToyOntzOjU6ImVycm9yIjtzOjY6IkVycm9yISI7czo3OiJzdWNjZXNzIjtzOjk6Ik9icmlnYWRvISI7fQ=="></form>
+</div>
+</div></div>
+</div></div></div></div></article></div><a href="javascript:void(0)" class="tve_p_lb_close" style="display: none" title="Close">x</a></div></div></div></div></div><script type="text/javascript">var TVE_Event_Manager_Registered_Callbacks = TVE_Event_Manager_Registered_Callbacks || {};TVE_Event_Manager_Registered_Callbacks.thrive_leads_form_close = function(t, a, c){TL_Front.close_form(this, t, a, c); return false;};</script><script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"www-portaldobitcoin-com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"28130 https:\/\/portaldobitcoin.com\/?p=28130","disqusShortname":"www-portaldobitcoin-com","disqusTitle":"Falha no Banco Inter permitia exposi\u00e7\u00e3o de dados de clientes desde 2017","disqusUrl":"https:\/\/portaldobitcoin.com\/falha-banco-inter-permitia-exposicao-dados-clientes\/","postId":"28130"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1","ajaxurl":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","social_fb_app_id":"","dash_url":"https:\/\/portaldobitcoin.com\/wp-content\/plugins\/thrive-leads\/thrive-dashboard","translations":{"Copy":"Copy"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/thrive-leads/tcb/editor/js/dist/frontend.min.js?ver=2.1.10'></script>
+<script type='text/javascript' src='//portaldobitcoin.com/wp-content/plugins/thrive-leads/js/frontend.min.js?ver=2.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_sticky_settings = {"check_position_fixed":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads-sticky-ads/public/assets/js/sticky.js?ver=1.7.7'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.2.2'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-includes/js/comment-reply.min.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","force_ajax_send":"","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=2.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advadsTracking = {"ajaxurl":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php?action=advanced-ads-tracking-track","method":"frontend","blogId":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/script.js?ver=1.8.15'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/js/tippy.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/js/flatprickr.js?ver=3.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var coinmc = {"url":"https:\/\/portaldobitcoin.com\/wp-content\/plugins\/coinpress\/","ajax_url":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","numformat":"US","text":{"trillion":"Trillion","billion":"Billion","million":"Million","thousand":"Thousand"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-content/plugins/coinpress/assets/public/js/common.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://portaldobitcoin.com/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"015f8174bd","ajax_url":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","forms":{"lightbox":{"_key":"18","trigger":"exit_intent","trigger_config":{"m":"timer","ms":"10"},"form_type_id":20224,"main_group_id":20223,"active_test_id":""}},"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":20223,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":28130},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"015f8174bd","ajax_url":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php","forms":{"lightbox":{"_key":"18","trigger":"exit_intent","trigger_config":{"m":"timer","ms":"10"},"form_type_id":20224,"main_group_id":20223,"active_test_id":""}},"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":20223,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":28130},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]})} /*]]> */</script><script type="text/javascript">var TL_Front = TL_Front || {}; TL_Front.impressions_data = TL_Front.impressions_data || {};TL_Front.impressions_data.lightbox = {"group_id":20223,"form_type_id":20224,"variation_key":"18","active_test_id":0,"output_js":true};</script><script type="text/javascript">
+	(function ($) {
+	var event_data = {"form_id":"tve-leads-track-lightbox-18","form_type":"lightbox"};
+	event_data.source = 'exit_intent';
+			/* Chrome has a stupid bug in which it triggers almost simultaneously "mouseenter" "mouseleave" "mouseenter" if the following applies:
+	 - at page load, the cursor is outside the html element
+	 - the user moves the cursor over the html element
+	 */
+	var chrome_fix_id = 0,
+	me = function (e) { /* mouse enter */
+	clearTimeout(chrome_fix_id);
+	},
+	ml = function (e) {
+
+	if (e.clientY <= config.s) {
+	chrome_fix_id = setTimeout(function () {
+	ThriveGlobal.$j(TL_Front).trigger('showform.thriveleads', event_data);
+	c();
+	}, 50);
+	}
+	},
+	c = function () { // cancel
+	$(document).off('mouseenter.exit_intent mouseleave.exit_intent');
+	},
+	config = { // we can adjust this and the code below to allow users to tweak settings
+	s: 20 // sensitivity
+	};
+	$(function () {
+	$(document).on('mouseleave.exit_intent', ml)
+	.on('mouseenter.exit_intent', me);
+
+	});
+		})
+(ThriveGlobal.$j);
+</script><script>window.advads_has_ads = [["25352","ad",null],["27542","ad",null],["24262","ad",null],["24140","ad",null]];
+
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');} });</script>
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://portaldobitcoin.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://portaldobitcoin.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+
+			<div id="tdw-css-writer" style="display: none" class="tdw-drag-dialog tdc-window-sidebar">
+				<header>
+
+				
+					<a title="Editor" class="tdw-tab tdc-tab-active" href="#" data-tab-content="tdw-tab-editor">Edit with Live CSS</a>
+					<div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div>
+				
+				</header>
+				<div class="tdw-content">
+
+					
+					<div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
+
+
+						<script>
+
+							(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);
+
+						</script>
+
+
+						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5c7c188d6ce86"></textarea>
+						<div id="td_live_css_uid_1_5c7c188d6ce86" class="td-code-editor"></div>
+
+
+						<script>
+							jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_5c7c188d6ce86');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_5c7c188d6ce86");
+                                    window.editor.$blockScrolling = Infinity;
+
+                                    // 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+                                    editor.getSession().setUseWrapMode(true);
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});
+						</script>
+
+					</div>
+				</div>
+
+				<footer>
+
+					
+						<a href="#" class="tdw-save-css">Save</a>
+						<div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div>
+
+					
+					<div class="tdw-resize"></div>
+				</footer>
+			</div>
+			<script type="text/javascript">var advads_tracking_ads = {"1":[27542]};var advads_tracking_urls = {"1":"https:\/\/portaldobitcoin.com\/wp-admin\/admin-ajax.php?action=advanced-ads-tracking-track"};var advads_gatracking_uids = {"1":"UA-98991334-1"};var advads_tracking_methods = {"1":"frontend"};var advads_tracking_parallel = {"1":false};var advads_tracking_linkbases = {"1":"https:\/\/portaldobitcoin.com\/linkout\/"};var advads_gatracking_allads = {"1":{"27542":{"title":"top article 3xbit","target":false},"25784":{"title":"300x250 sidebar","target":false},"23884":{"title":"top article cointrade","target":false},"22571":{"title":"top article coinext","target":false}}};var advads_gatracking_anonym = true;</script>
+</body>
+</html>

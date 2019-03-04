@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="ja"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=1280, maximum-scale=1, user-scalable=yes">
+<link rel="alternate" type="application/rss+xml" title="INFO COIN RSS Feed" href="https://info-coin.biz/feed/" />
+<link rel="pingback" href="https://info-coin.biz/xmlrpc.php" />
+<meta name="description" content="仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います" />
+<meta name="keywords" content="ブログ,アルトコイン,モナコイン" />
+<!-- OGP -->
+<meta property="og:type" content="article">
+<meta property="og:description" content="仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います">
+<meta property="og:title" content="モナコイン(Monacoin)特徴と説明">
+<meta property="og:url" content="https://info-coin.biz/2018/07/14/post-865/">
+<meta property="og:image" content="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?fit=487%2C487&ssl=1">
+<meta property="og:site_name" content="INFO COIN">
+<meta property="og:locale" content="ja_JP">
+<!-- /OGP -->
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います">
+<meta name="twitter:title" content="モナコイン(Monacoin)特徴と説明">
+<meta name="twitter:url" content="https://info-coin.biz/2018/07/14/post-865/">
+<meta name="twitter:image" content="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?fit=487%2C487&ssl=1">
+<meta name="twitter:domain" content="info-coin.biz">
+<!-- /Twitter Card -->
+
+<title>モナコイン(Monacoin)特徴と説明 | INFO COIN</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="zCMe6nXATB0FDKlWc5AdJ_5q2Tl-urHlfe8X7NTbUUM" />
+
+<!-- All in One SEO Pack 2.6.1 by Michael Torbert of Semper Fi Web Design[1812,1839] -->
+<link rel="canonical" href="https://info-coin.biz/2018/07/14/post-865/" />
+<meta property="og:title" content="モナコイン(Monacoin)特徴と説明 | INFO COIN" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://info-coin.biz/2018/07/14/post-865/" />
+<meta property="og:image" content="https://info-coin.biz/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:site_name" content="INFO COIN" />
+<meta property="og:description" content="仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います。 モナコイン(Monacoin)特徴と説明 モナコインは仮想通貨のひとつで、日本生まれです。モナコインは他の仮想通貨とどう違うのかを述べます。 モナコインは、仮想通貨であるライトコインをベースにして作られた仮想通貨です。また、Segwitという送金が早くなる技術を初めて搭載した仮想通貨です。ビットコインも搭載していますがビットコインよりも早く搭載しています。 そうすることでビットコインよりも素早く、手数料も安くなっているのです。 そして、モナコインはビットコインとアトミックスワップができます。アトミックスワップとは、取引所等の仲介業者を介在させずに他の仮想通貨にユーザー同士で行うことができる仕組みです。 Segwitとアトミックスワップを兼ね備えた仮想通貨として急速に注目されているのです。 仮想通貨全体の地位としても時価総額は2017年10月には120位でしたが2018年2月末には61位となりました。 モナコインの使い道と魅力 モナコインはアルトコインの一種です。アルトコインのほとんどが開発途上で投機的に取引されているのが現実です。つまり仮想通貨とは呼ばれていますが通貨としての意味が薄れているようです。 それに比べて、モナコインは使い勝手の良い仮想通貨で、現在日本国内ではビットコインに次ぐ普及率となっています。 また、モナコインは独自サービスを提供しています。それがmonappyとtipmonaです。 使い道１ モナコインでmonappyやtipmonaでお買い物ができます。 monappyはモナコインを使って買い物や管理ができるサイトです。 ネット上のフリーマーケットというところでしょうか。もちろん、出品することもできます。tipmonaはtipmonaというタイムラインを利用してモナコインを送ったり受け取ったりできるサービスです。 使い道２ コミケでも使えるモナコイン" />
+<meta property="article:published_time" content="2018-07-14T09:21:22Z" />
+<meta property="article:modified_time" content="2018-07-31T06:06:06Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@info_coin_916" />
+<meta name="twitter:domain" content="https://twitter.com/info_coin_916" />
+<meta name="twitter:title" content="モナコイン(Monacoin)特徴と説明 | INFO COIN" />
+<meta name="twitter:description" content="仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います。 モナコイン(Monacoin)特徴と説明 モナコインは仮想通貨のひとつで、日本生まれです。モナコインは他の仮想通貨とどう違うのかを述べます。 モナコインは、仮想通貨であるライトコインをベースにして作られた仮想通貨です。また、Segwitという送金が早くなる技術を初めて搭載した仮想通貨です。ビットコインも搭載していますがビットコインよりも早く搭載しています。 そうすることでビットコインよりも素早く、手数料も安くなっているのです。 そして、モナコインはビットコインとアトミックスワップができます。アトミックスワップとは、取引所等の仲介業者を介在させずに他の仮想通貨にユーザー同士で行うことができる仕組みです。 Segwitとアトミックスワップを兼ね備えた仮想通貨として急速に注目されているのです。 仮想通貨全体の地位としても時価総額は2017年10月には120位でしたが2018年2月末には61位となりました。 モナコインの使い道と魅力 モナコインはアルトコインの一種です。アルトコインのほとんどが開発途上で投機的に取引されているのが現実です。つまり仮想通貨とは呼ばれていますが通貨としての意味が薄れているようです。 それに比べて、モナコインは使い勝手の良い仮想通貨で、現在日本国内ではビットコインに次ぐ普及率となっています。 また、モナコインは独自サービスを提供しています。それがmonappyとtipmonaです。 使い道１ モナコインでmonappyやtipmonaでお買い物ができます。 monappyはモナコインを使って買い物や管理ができるサイトです。 ネット上のフリーマーケットというところでしょうか。もちろん、出品することもできます。tipmonaはtipmonaというタイムラインを利用してモナコインを送ったり受け取ったりできるサービスです。 使い道２ コミケでも使えるモナコイン" />
+<meta name="twitter:image" content="https://info-coin.biz/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta itemprop="image" content="https://info-coin.biz/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//webfonts.xserver.jp' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="INFO COIN &raquo; フィード" href="https://info-coin.biz/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/info-coin.biz\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='simplicity-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/css/responsive-pc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/webfonts/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/webfonts/icomoon/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='extension-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/css/extension.css' type='text/css' media='all' />
+<style id='extension-style-inline-css' type='text/css'>
+@media screen and (max-width:639px){.article br{display:block}}
+</style>
+<link rel='stylesheet' id='child-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='print-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/css/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='sns-twitter-type-style-css'  href='https://info-coin.biz/wp-content/themes/simplicity2/css/sns-twitter-type.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://info-coin.biz/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-std-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-std.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-fb-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-fb.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-fb-flat-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-fb-flat.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-ln-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-ln.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-ln-flat-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-ln-flat.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-pink-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-pink.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-rtail-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-rtail.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-drop-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-drop.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-type-think-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-type-think.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-no-br-css'  href='https://info-coin.biz/wp-content/plugins/speech-bubble/css/sb-no-br.css' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://info-coin.biz/wp-content/plugins/table-of-contents-plus/screen.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='https://info-coin.biz/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://info-coin.biz/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://info-coin.biz/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='//webfonts.xserver.jp/js/xserver.js'></script>
+<link rel='shortlink' href='https://wp.me/p9VFiQ-dX' />
+<link rel="alternate" type="application/json+oembed" href="https://info-coin.biz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://info-coin.biz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F&#038;format=xml" />
+	<style type="text/css" media="all">.shortcode-star-rating{padding:0 0.5em;}.dashicons{font-size:20px;width:auto;height:auto;line-height:normal;text-decoration:inherit;vertical-align:middle;}.shortcode-star-rating [class^="dashicons dashicons-star-"]:before{color:#FCAE00;}.ssr-int{margin-left:0.2em;font-size:13px;vertical-align:middle;color:#333;}/*.shortcode-star-rating:before,.shortcode-star-rating:after{display: block;height:0;visibility:hidden;content:"\0020";}.shortcode-star-rating:after{clear:both;}*/</style>
+	
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/05/cropped-S__24543582-1.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/05/cropped-S__24543582-1.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/05/cropped-S__24543582-1.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/05/cropped-S__24543582-1.jpg?fit=270%2C270&#038;ssl=1" />
+			<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://info-coin.biz/?custom-css=9a1cf07f81" />
+		</head>
+  <body class="post-template-default single single-post postid-865 single-format-standard categoryid-1 categoryid-4 categoryid-34" itemscope itemtype="http://schema.org/WebPage">
+    <div id="container">
+
+      <!-- header -->
+      <header itemscope itemtype="http://schema.org/WPHeader">
+        <div id="header" class="clearfix">
+          <div id="header-in">
+
+                        <div id="h-top">
+              <!-- モバイルメニュー表示用のボタン -->
+<div id="mobile-menu">
+  <a id="mobile-menu-toggle" href="#"><span class="fa fa-bars fa-2x"></span></a>
+</div>
+
+              <div class="alignleft top-title-catchphrase">
+                <!-- サイトのタイトル -->
+<p id="site-title" itemscope itemtype="http://schema.org/Organization">
+  <a href="https://info-coin.biz/"><img src="https://info-coin.biz/wp-content/uploads/2018/05/S__24543582.jpg" alt="INFO COIN" class="site-title-img" /></a></p>
+<!-- サイトの概要 -->
+<p id="site-description">
+  仮想通貨　情報サイト</p>
+              </div>
+
+              <div class="alignright top-sns-follows">
+                                <!-- SNSページ -->
+<div class="sns-pages">
+<p class="sns-follow-msg">フォローする</p>
+<ul class="snsp">
+<li class="feedly-page"><a href="//feedly.com/i/subscription/feed/https://info-coin.biz/feed/" target="blank" title="feedlyで更新情報を購読" rel="nofollow"><span class="icon-feedly-logo"></span></a></li><li class="rss-page"><a href="https://info-coin.biz/feed/" target="_blank" title="RSSで更新情報をフォロー" rel="nofollow"><span class="icon-rss-logo"></span></a></li>  </ul>
+</div>
+                              </div>
+
+            </div><!-- /#h-top -->
+          </div><!-- /#header-in -->
+        </div><!-- /#header -->
+      </header>
+
+      <!-- Navigation -->
+<nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+  <div id="navi">
+      	<div id="navi-in">
+      <div class="menu-%e3%83%88%e3%83%83%e3%83%97%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="menu-%e3%83%88%e3%83%83%e3%83%97%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-16"><a title="トップ画面" href="http://info-coin.biz">TOP</a></li>
+<li id="menu-item-525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-525"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/">ビットコイン</a>
+<ul class="sub-menu">
+	<li id="menu-item-827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-827"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/">ビットコイン</a></li>
+	<li id="menu-item-1032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1032"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%83%e3%82%b7%e3%83%a5/">ビットコインキャッシュ</a></li>
+	<li id="menu-item-1154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1154"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3%e3%83%97%e3%83%a9%e3%82%a4%e3%83%99%e3%83%bc%e3%83%88/">ビットコインプライベート</a></li>
+	<li id="menu-item-1075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1075"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3%e3%83%80%e3%82%a4%e3%83%a4%e3%83%a2%e3%83%b3%e3%83%89/">ビットコインダイヤモンド</a></li>
+</ul>
+</li>
+<li id="menu-item-558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-558"><a href="https://info-coin.biz/category/ico/">ICO</a>
+<ul class="sub-menu">
+	<li id="menu-item-557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-557"><a href="https://info-coin.biz/category/ico/ico%e6%83%85%e5%a0%b1/">ICO情報</a></li>
+</ul>
+</li>
+<li id="menu-item-529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-529"><a href="https://info-coin.biz/category/%e3%82%a4%e3%83%bc%e3%82%b5%e3%83%aa%e3%82%a2%e3%83%a0-2/">イーサリアム</a>
+<ul class="sub-menu">
+	<li id="menu-item-828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-828"><a href="https://info-coin.biz/category/%e3%82%a4%e3%83%bc%e3%82%b5%e3%83%aa%e3%82%a2%e3%83%a0-2/">イーサリアム</a></li>
+</ul>
+</li>
+<li id="menu-item-526" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-526"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/">アルトコイン</a>
+<ul class="sub-menu">
+	<li id="menu-item-837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-837"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/%e3%83%aa%e3%83%83%e3%83%97%e3%83%abxrp/">リップル(XRP)</a></li>
+	<li id="menu-item-1411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1411"><a href="https://info-coin.biz/category/%e3%83%8d%e3%83%a0xem/">ネム(XEM)</a></li>
+	<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-864"><a href="https://info-coin.biz/category/ada%e3%82%a8%e3%82%a4%e3%83%80/">ADA(エイダ)</a></li>
+	<li id="menu-item-852" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-852"><a href="https://info-coin.biz/category/%e3%83%a2%e3%83%8a%e3%82%b3%e3%82%a4%e3%83%b3/">モナコイン</a></li>
+	<li id="menu-item-1047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1047"><a href="https://info-coin.biz/category/%e3%83%a9%e3%82%a4%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/">ライトコイン</a></li>
+	<li id="menu-item-1155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1155"><a href="https://info-coin.biz/category/nanj%e3%82%b3%e3%82%a4%e3%83%b3/">NANJコイン</a></li>
+	<li id="menu-item-1396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1396"><a href="https://info-coin.biz/category/lisk/">LISK</a></li>
+	<li id="menu-item-1397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1397"><a href="https://info-coin.biz/category/%e3%82%b9%e3%82%ab%e3%82%a4%e3%82%b3%e3%82%a4%e3%83%b3/">スカイコイン</a></li>
+	<li id="menu-item-1432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1432"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/%e3%82%a2%e3%82%a4%e3%82%aa%e3%82%bf%ef%bc%88iota%ef%bc%89-%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/">アイオタ（IOTA）</a></li>
+	<li id="menu-item-1436" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1436"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/quantum%ef%bc%88%e3%82%af%e3%82%a2%e3%83%b3%e3%82%bf%e3%83%a0%ef%bc%8fqtum%ef%bc%89/">Quantum（クアンタム／QTUM）</a></li>
+	<li id="menu-item-1440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1440"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%83%81%e3%82%a7%e3%83%bc%e3%83%b3/">ドラゴンチェーン</a></li>
+	<li id="menu-item-1404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1404"><a href="https://info-coin.biz/category/dash%e3%83%80%e3%83%83%e3%82%b7%e3%83%a5/">DASH(ダッシュ)</a></li>
+	<li id="menu-item-1431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1431"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/%e3%82%bb%e3%83%b3%e3%83%88%e3%83%a9%e3%83%aa%e3%83%86%e3%82%a3/">セントラリティ</a></li>
+</ul>
+</li>
+<li id="menu-item-687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-687"><a href="https://info-coin.biz/category/%e5%8f%96%e5%bc%95%e6%89%80/">取引所</a>
+<ul class="sub-menu">
+	<li id="menu-item-1091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1091"><a href="https://info-coin.biz/category/%e3%83%93%e3%83%83%e3%83%88%e3%83%95%e3%83%a9%e3%82%a4%e3%83%a4%e3%83%bc/">ビットフライヤー</a></li>
+	<li id="menu-item-1156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1156"><a href="https://info-coin.biz/category/%e3%83%90%e3%82%a4%e3%83%8a%e3%83%b3%e3%82%b9/">バイナンス</a></li>
+	<li id="menu-item-1293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1293"><a href="https://info-coin.biz/category/bitbank%ef%bc%88%e3%83%93%e3%83%83%e3%83%88%e3%83%90%e3%83%b3%e3%82%af%ef%bc%89/">bitbank（ビットバンク）</a></li>
+	<li id="menu-item-1292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1292"><a href="https://info-coin.biz/category/gmo%e3%82%b3%e3%82%a4%e3%83%b3/">GMOコイン</a></li>
+	<li id="menu-item-1291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1291"><a href="https://info-coin.biz/category/zaif/">Zaif</a></li>
+</ul>
+</li>
+<li id="menu-item-1357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1357"><a href="https://info-coin.biz/category/%e3%82%a6%e3%82%a9%e3%83%ac%e3%83%83%e3%83%88/">ウォレット</a>
+<ul class="sub-menu">
+	<li id="menu-item-1358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1358"><a href="https://info-coin.biz/category/%e3%83%9e%e3%82%a4%e3%82%a4%e3%83%bc%e3%82%b5%e3%82%a6%e3%82%a9%e3%83%ac%e3%83%83%e3%83%88/">マイイーサウォレット</a></li>
+</ul>
+</li>
+<li id="menu-item-519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-519"><a href="https://info-coin.biz/category/%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98/">基礎知識・その他</a>
+<ul class="sub-menu">
+	<li id="menu-item-886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-886"><a href="https://info-coin.biz/category/%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98-2/">基礎知識</a></li>
+	<li id="menu-item-718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-718"><a href="https://info-coin.biz/category/%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98/%ef%bc%92%e6%ae%b5%e9%9a%8e%e8%aa%8d%e8%a8%bc%e3%81%ae%e8%90%bd%e3%81%a8%e3%81%97%e7%a9%b4/">２段階認証の落とし穴</a></li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1090"><a href="https://info-coin.biz/category/%e3%83%8f%e3%83%bc%e3%83%89%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af/">ハードフォーク</a></li>
+	<li id="menu-item-1076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1076"><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%bc%e3%83%93%e3%83%88%e3%83%a9%e3%83%bc%e3%82%b8/">アービトラージ</a></li>
+	<li id="menu-item-885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-885"><a href="https://info-coin.biz/category/%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98/%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0/">マイニング</a></li>
+</ul>
+</li>
+<li id="menu-item-392" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-392"><a href="https://info-coin.biz/category/%e3%83%96%e3%83%ad%e3%82%b0/">ブログ</a></li>
+</ul></div>    </div><!-- /#navi-in -->
+  </div><!-- /#navi -->
+</nav>
+<!-- /Navigation -->
+      <!-- 本体部分 -->
+      <div id="body">
+        <div id="body-in" class="cf">
+
+          
+          <!-- main -->
+          <main itemscope itemprop="mainContentOfPage">
+            <div id="main" itemscope itemtype="http://schema.org/Blog">
+  
+  <div id="breadcrumb" class="breadcrumb-category"><div itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" class="breadcrumb-home"><span class="fa fa-home fa-fw"></span><a href="https://info-coin.biz" itemprop="url"><span itemprop="title">ホーム</span></a><span class="sp"><span class="fa fa-angle-right"></span></span></div><div itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><span class="fa fa-folder fa-fw"></span><a href="https://info-coin.biz/category/%e3%83%96%e3%83%ad%e3%82%b0/" itemprop="url"><span itemprop="title">ブログ</span></a></div></div><!-- /#breadcrumb -->  <div id="post-865" class="post-865 post type-post status-publish format-standard has-post-thumbnail hentry category-1 category-4 category-34 tag-10 tag-53 tag-58 tag-monacoin tag-83 tag-84 tag-85">
+  <article class="article">
+  
+      <div id="custom_html-10" class="widget_text widget-over-articletitle widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- infocoin-上-リンク -->
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-7781594167883398" data-ad-slot="6384796750" data-ad-format="link" data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>  
+  <header>
+    <h1 class="entry-title">
+            モナコイン(Monacoin)特徴と説明          </h1>
+    <p class="post-meta">
+            <span class="post-date"><span class="fa fa-clock-o fa-fw"></span><time class="entry-date date published" datetime="2018-07-14T18:21:22+00:00">2018/7/14</time></span>
+        <span class="post-update"><span class="fa fa-history fa-fw"></span><span class="entry-date date updated">2018/7/31</span></span>
+  
+      <span class="category"><span class="fa fa-folder fa-fw"></span><a href="https://info-coin.biz/category/%e3%83%96%e3%83%ad%e3%82%b0/" rel="category tag">ブログ</a><span class="category-separator">, </span><a href="https://info-coin.biz/category/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/" rel="category tag">アルトコイン</a><span class="category-separator">, </span><a href="https://info-coin.biz/category/%e3%83%a2%e3%83%8a%e3%82%b3%e3%82%a4%e3%83%b3/" rel="category tag">モナコイン</a></span>
+
+      
+      
+      
+      
+      
+    </p>
+
+    
+    
+    
+      </header>
+
+  <figure class="eye-catch">
+    <img width="487" height="487" src="https://info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?w=487&amp;ssl=1 487w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?resize=320%2C320&amp;ssl=1 320w" sizes="(max-width: 487px) 100vw, 487px" data-attachment-id="849" data-permalink="https://info-coin.biz/monacoin-1/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?fit=487%2C487&amp;ssl=1" data-orig-size="487,487" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Monacoin-1" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/Monacoin-1.png?fit=487%2C487&amp;ssl=1" /></figure>
+
+  <div id="the-content" class="entry-content">
+  <p>仮想通貨というとビットコインを思いつく方も多いかもしれません。もちろん間違ってはいませんが新しい可能性ということでアルトコインを検討いただくのもよいのではないでしょうか。これから、アルトコインの一つであるモナコインについて話したいと思います。</p>
+<hr>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- リンク中 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7781594167883398"
+     data-ad-slot="5698401042"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<center>スポンサーリンク</center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- テキスト／ディプレイ上 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7781594167883398"
+     data-ad-slot="2618718238"
+     data-ad-format="rectangle"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</br><div id="toc_container" class="no_bullets"><p class="toc_title">目次</p><ul class="toc_list"><li><a href="#Monacoin">モナコイン(Monacoin)特徴と説明</a></li><li><a href="#i">モナコインの使い道と魅力</a><ul><li><a href="#i-2">使い道１</a></li><li><a href="#i-3">使い道２</a></li></ul></li><li><a href="#i-4">モナコインのメリット・デメリット</a><ul><li><a href="#i-5">メリット</a></li><li><a href="#i-6">デメリット</a></li></ul></li><li><a href="#i-7">モナコインの将来性</a></li><li><a href="#i-8">モナコインはどこで買えるのか？</a></li><li><a href="#i-9">まとめ</a></li></ul></div>
+<h2><span id="Monacoin"><span class="bold">モナコイン(Monacoin)特徴と説明</span></span></h2>
+<p>モナコインは仮想通貨のひとつで、日本生まれです。モナコインは他の仮想通貨とどう違うのかを述べます。</p>
+<p>モナコインは、仮想通貨であるライトコインをベースにして作られた仮想通貨です。また、<span class="red-under">Segwit</span>という送金が早くなる技術を初めて搭載した仮想通貨です。ビットコインも搭載していますがビットコインよりも早く搭載しています。<br />
+そうすることでビットコインよりも素早く、手数料も安くなっているのです。</p>
+<p>そして、モナコインはビットコインとアトミックスワップができます。アトミックスワップとは、取引所等の仲介業者を介在させずに他の仮想通貨にユーザー同士で行うことができる仕組みです。</p>
+<p>Segwitとアトミックスワップを兼ね備えた仮想通貨として急速に注目されているのです。<br />
+仮想通貨全体の地位としても時価総額は<span class="marker">2017年10月には120位でしたが2018年2月末には61位</span>となりました。</p>
+<h2><span id="i">モナコインの使い道と魅力</span></h2>
+<p>モナコインはアルトコインの一種です。アルトコインのほとんどが開発途上で投機的に取引されているのが現実です。つまり仮想通貨とは呼ばれていますが通貨としての意味が薄れているようです。</p>
+<p>&ensp;</p>
+<p>それに比べて、モナコインは使い勝手の良い仮想通貨で、現在日本国内ではビットコインに次ぐ普及率となっています。<br />
+また、モナコインは独自サービスを提供しています。それがmonappyとtipmonaです。</p>
+<p><img data-attachment-id="868" data-permalink="https://info-coin.biz/2018/07/14/post-865/images-11/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/images-4.jpg?fit=284%2C177&amp;ssl=1" data-orig-size="284,177" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/images-4.jpg?fit=284%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/images-4.jpg?fit=284%2C177&amp;ssl=1" class="wp-image-868 aligncenter" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/images-4.jpg?resize=477%2C297&#038;ssl=1" alt="" width="477" height="297" data-recalc-dims="1" /></p>
+<h3><span id="i-2">使い道１</span></h3>
+<p>モナコインでmonappyやtipmonaでお買い物ができます。<br />
+monappyはモナコインを使って買い物や管理ができるサイトです。</p>
+<p>&ensp;</p>
+<p>ネット上のフリーマーケットというところでしょうか。もちろん、出品することもできます。tipmonaはtipmonaというタイムラインを利用してモナコインを送ったり受け取ったりできるサービスです。</p>
+<h3><span id="i-3">使い道２</span></h3>
+<p>コミケでも使えるモナコイン<br />
+日本が世界に誇るアニメ・漫画・ゲームの祭典、コミックマーケット、通称コミケです。東京ビッグサイトにて夏と冬に行われ、特に夏は日本のオタクはもちろんのこと外人にも人気があり、来場者数は100万人以上と言われています。</p>
+<p>&ensp;</p>
+<p>実際に行ったことがある方なら分かると思いますがあまりの人の多さと常識では考えられない数々の出来事。</p>
+<p>例えば、ATMのお金がなくなる、コンビニで入場規制が行われる、コンビニの中の商品がまさに圧縮陳列状態になっているといった珍状態が起ります。</p>
+<p>&ensp;</p>
+<p>そんなコミケですが、東京ビッグサイトを借りて行うので決済システムが充実しておらず主に現金決済が基本ですが現金決済は売るほうも買うほうもお互い苦痛になるものです。</p>
+<p>間違えや盗難の危険性もあります。そして登場したのがモナコインでの決済です。</p>
+<p>まだすべてとは言いませんが2017年12月の冬のコミケでモナコインを対応するサークルも徐々に増えているのです。売るほうも買うほうもこれで決済の仕方でストレスを感じることなくコミケという祭りを楽しめます。</p>
+
+<!-- WP QUADS Content Ad Plugin v. 1.7.9 -->
+<div class="quads-location quads-ad1" id="quads-ad1" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<hr>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 下リンク -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7781594167883398"
+     data-ad-slot="8129123266"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<center>スポンサーリンク</center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ディスプレイ中 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7781594167883398"
+     data-ad-slot="9890278563"
+     data-ad-format="rectangle"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<h2><span id="i-4">モナコインのメリット・デメリット</span></h2>
+<p>続いてはモナコインのメリットといデメリットについてです。</p>
+<h3><span id="i-5">メリット</span></h3>
+<p>モナコインのメリットとしてはアルトコインとしては珍しく決済としての機能があること、特に国内で幅広く決済に使用できる仮想通貨であることですさらにビットコインモールでは通販サイトとして現在ビットコインとモナコインのみ決済手段としているのです。</p>
+<h3><span id="i-6">デメリット</span></h3>
+<p>デメリットは、利用者のコミュニティが確立されており、人気が出始めてはいますが、そのまま一部の人気で終わってしまう可能性があるという点です。</p>
+<p>&ensp;</p>
+<p>仮想通貨の時価総額でも60位前後で決して低くはない地位ではありますが低くはない地位だからこそ、そこそこの地位で終わってしまう可能性がないとも言い切れない懸念があります。<br />
+今後のサービス向上に注目ですね。</p>
+<h2><span id="i-7">モナコインの将来性</span></h2>
+<p><img data-attachment-id="273" data-permalink="https://info-coin.biz/2018/07/14/post-865/images-1/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?fit=259%2C194&amp;ssl=1" data-orig-size="259,194" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images-1" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?fit=259%2C194&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?fit=259%2C194&amp;ssl=1" class="wp-image-273 aligncenter" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?resize=574%2C430&#038;ssl=1" alt="" width="574" height="430" srcset="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?w=259&amp;ssl=1 259w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/06/images-1.jpg?resize=175%2C131&amp;ssl=1 175w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1" /><br />
+モナコインの将来性ですがいくつかポイントがあります。</p>
+<div class="point-box-1">まず、仮想通貨に珍しく長期投資向きと言えます。現在、一部のコミュニティでモナコインは注目を集めていますが、このままコミュニティが拡大していけばモナコインの価値も上昇するということです。</div>
+<p>しかし、コミュニティ拡大は時間的に緩やかになる傾向があるので価値上昇も緩やかなものになる可能性があるのです。</p>
+<p>また、国内の取引所に上場する機会が増えれば価値が上昇するとも言われています。それにはモナコインの価格の推移から説明します。</p>
+<p>&ensp;</p>
+<p>2017年前半くらいまでは100円弱で推移していたモナコインですが日本で最も有名な取引所であるビットフライヤーで取り扱いがスタートし、それまでは知名度と人気の低い仮想通貨でしたがそれから一気に爆騰し、2017年12月には2400円ほどになっています。</p>
+<p>&ensp;</p>
+<p>これはビットフライヤーに上場されたことで知名度も上がり、信用度も得たと言えるでしょう。</p>
+<p>しかし、投機的な意味で購入された方も当然いるので価格は不安定でした。その後400円前後に急落して現在に至ります。</p>
+<p>ただ、下落前の時価総額の120位よりも高い60位ほどです。</p>
+<p>急落をしたのに元の順位よりも上がっていることは投機的目的だけの人ではなく、モナコインの魅力を分かっている人が買い付けている。</p>
+<p>つまり長期的な意味で通貨として考えている人がいるという証ではないでしょうか。長期的な価値が認めらつつある仮想通貨と言えるでしょう。</p>
+<h2><span id="i-8">モナコインはどこで買えるのか？</span></h2>
+<p>モナコインは主に<span class="bold">取引市場</span>で買えます。<br />
+ビットフライヤー(bitFlyer)、ザイフ（Zaif）、ビットバンク(bitbank)とありますが、やはり流動性という観点から考えるとビットフライヤーが一番です。</p>
+<p>&ensp;</p>
+<p>ザイフはもともとモナコインを扱っていた取引所で一番の老舗です。老舗ならではの信頼性があると言えるでしょう。ビットバンクは中間的存在ですが徐々に地位を高めており、流動性ではザイフと同じくらいになっています。</p>
+<h2><span id="i-9">まとめ</span></h2>
+<p><img data-attachment-id="990" data-permalink="https://info-coin.biz/2018/07/14/post-865/download-28/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?fit=225%2C225&amp;ssl=1" data-orig-size="225,225" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="download" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?fit=225%2C225&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?fit=225%2C225&amp;ssl=1" class="wp-image-990 aligncenter" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?resize=424%2C424&#038;ssl=1" alt="" width="424" height="424" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?w=225&amp;ssl=1 225w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-3.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1" /></p>
+<p>モナコインは、まだまだ地位的には不安定かもしれませんが機能性や価値もこれからまだまだ向上していく可能性があるので仮想通貨をお考えの方はモナコインを投資対象や決済対象として検討してはどうでしょうか。新しいものほど世に受け入れにくいというのは世の常ではないでしょうか。</p>
+<p>&ensp;</p>
+<p>インターネットが発達してこのようにさまざまなことができるようになるなんて誰が予想したでしょうか。</p>
+<p>先のことはだれにもわかりませんし、だからこそ不安もあれば面白さもあるのではないでしょうか。</p>
+<p>仮想通貨というのは今まで現物重視だった世代からの変革かもしれません。</p>
+<p>ひょっとしたら変革せずに終わることだってあるでしょう。それでも重要なことは実際に自分がするしないにかかわらず知ること、もしくは知りたいと欲することではないでしょうか。<br />
+これからの通貨の変革としてモナコインを投資先や通貨として考えるのもありかもしれませんね。</p>
+
+  </div>
+
+  <footer>
+    <!-- ページリンク -->
+          <div id="custom_html-11" class="widget_text widget-under-article widget_custom_html"><div class="textwidget custom-html-widget"><hr>
+<center>　スポンサーリンク</center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ディスプレイ下 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7781594167883398"
+     data-ad-slot="4338994012"
+     data-ad-format="rectangle"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>    
+      <!-- 文章下広告 -->
+                  
+
+    
+    <div id="sns-group" class="sns-group sns-group-bottom">
+    <div class="sns-buttons sns-buttons-pc">
+    <p class="sns-share-msg">シェアする</p>
+    <ul class="snsb clearfix">
+    <li class="balloon-btn twitter-balloon-btn twitter-balloon-btn-defalt">
+  <div class="balloon-btn-set">
+    <div class="arrow-box">
+      <a href="//twitter.com/search?q=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F" target="blank" class="arrow-box-link twitter-arrow-box-link" rel="nofollow">
+        <span class="social-count twitter-count"><span class="fa fa-comments"></span></span>
+      </a>
+    </div>
+    <a href="https://twitter.com/intent/tweet?text=%E3%83%A2%E3%83%8A%E3%82%B3%E3%82%A4%E3%83%B3%28Monacoin%29%E7%89%B9%E5%BE%B4%E3%81%A8%E8%AA%AC%E6%98%8E&amp;url=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F" target="blank" class="balloon-btn-link twitter-balloon-btn-link twitter-balloon-btn-link-default" rel="nofollow">
+      <span class="fa fa-twitter"></span>
+              <span class="tweet-label">ツイート</span>
+          </a>
+  </div>
+</li>
+        <li class="facebook-btn"><div class="fb-like" data-href="https://info-coin.biz/2018/07/14/post-865/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div></li>
+            <li class="google-plus-btn"><script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
+      <div class="g-plusone" data-size="tall" data-href="https://info-coin.biz/2018/07/14/post-865/"></div>
+    </li>
+            <li class="hatena-btn"> <a href="//b.hatena.ne.jp/entry/https://info-coin.biz/2018/07/14/post-865/" class="hatena-bookmark-button" data-hatena-bookmark-title="モナコイン(Monacoin)特徴と説明｜INFO COIN" data-hatena-bookmark-layout="vertical-large"><img src="//b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" style="border: none;" /></a><script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" async="async"></script>
+    </li>
+            <li class="pocket-btn"><a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="//widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+    </li>
+            <li class="line-btn">
+      <a href="//timeline.line.me/social-plugin/share?url=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F" target="blank" class="line-btn-link" rel="nofollow">
+          <img src="https://info-coin.biz/wp-content/themes/simplicity2/images/line-btn.png" alt="" class="line-btn-img"><img src="https://info-coin.biz/wp-content/themes/simplicity2/images/line-btn-mini.png" alt="" class="line-btn-img-mini">
+        </a>
+    </li>
+                      </ul>
+</div>
+
+    <!-- SNSページ -->
+<div class="sns-pages">
+<p class="sns-follow-msg">フォローする</p>
+<ul class="snsp">
+<li class="feedly-page"><a href="//feedly.com/i/subscription/feed/https://info-coin.biz/feed/" target="blank" title="feedlyで更新情報を購読" rel="nofollow"><span class="icon-feedly-logo"></span></a></li><li class="rss-page"><a href="https://info-coin.biz/feed/" target="_blank" title="RSSで更新情報をフォロー" rel="nofollow"><span class="icon-rss-logo"></span></a></li>  </ul>
+</div>
+    </div>
+
+    
+    <p class="footer-post-meta">
+
+            <span class="post-tag"><span class="fa fa-tags fa-fw"></span><a href="https://info-coin.biz/tag/%e3%82%a2%e3%83%ab%e3%83%88%e3%82%b3%e3%82%a4%e3%83%b3/" rel="tag">アルトコイン</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/%e8%aa%ac%e6%98%8e%e6%9b%b8/" rel="tag">説明書</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/%e7%89%b9%e5%be%b4/" rel="tag">特徴</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/monacoin/" rel="tag">Monacoin</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/%e3%83%a2%e3%83%8a%e3%82%b3%e3%82%a4%e3%83%b3/" rel="tag">モナコイン</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/%e3%81%8a%e3%81%9f%e3%81%8f/" rel="tag">おたく</a><span class="tag-separator">, </span><a href="https://info-coin.biz/tag/%e4%bd%bf%e3%81%84%e9%81%93/" rel="tag">使い道</a></span>
+      
+      <span class="post-author vcard author"><span class="fa fa-user fa-fw"></span><span class="fn"><a href="https://info-coin.biz/author/KEI/">KEI</a>
+</span></span>
+
+      
+          </p>
+  </footer>
+  </article><!-- .article -->
+  </div><!-- .post -->
+
+      <div id="under-entry-body">
+
+            <aside id="related-entries">
+        <h2>関連記事</h2>
+                <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/07/14/post-874/" title="仮想通貨の概要及び税金について">
+        <img width="100" height="100" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1004" data-permalink="https://info-coin.biz/2018/07/14/post-874/60_1/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?fit=1200%2C734&amp;ssl=1" data-orig-size="1200,734" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 60D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1503939588&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;26&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.003125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="60_1" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?fit=300%2C184&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/60_1.jpg?fit=680%2C416&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/07/14/post-874/" class="related-entry-title-link" title="仮想通貨の概要及び税金について">
+        仮想通貨の概要及び税金について        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   仮想通貨の概要及び税金について説明していきたいと思います。
+基礎知識を含めて仮想通貨を始める方は是非読んで見て下さい。
+仮想通貨とは
+...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/07/14/post-874/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/08/10/post-1412/" title="エストコーポレーションの注目ICO『EMIコイン』特徴と将来性">
+        <img width="100" height="100" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1415" data-permalink="https://info-coin.biz/2018/08/10/post-1412/emi%e3%82%b3%e3%82%a4%e3%83%b3-ico-%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?fit=664%2C442&amp;ssl=1" data-orig-size="664,442" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="EMIコイン-ICO-仮想通貨" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/EMIコイン-ICO-仮想通貨.png?fit=664%2C442&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/08/10/post-1412/" class="related-entry-title-link" title="エストコーポレーションの注目ICO『EMIコイン』特徴と将来性">
+        エストコーポレーションの注目ICO『EMIコイン』特徴と将来性        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   エストコーポーレーションについて。
+まずはEMIコインを作ったEMI財団と事業提携している、エストコーポレーションの説明をしますね。 20...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/08/10/post-1412/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/07/02/post-774/" title="リップル（XRP）とは？５分で分かる説明書">
+        <img width="100" height="100" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="970" data-permalink="https://info-coin.biz/2018/07/02/post-774/ripple/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?fit=750%2C400&amp;ssl=1" data-orig-size="750,400" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ripple" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?fit=300%2C160&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/ripple.jpg?fit=680%2C363&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/07/02/post-774/" class="related-entry-title-link" title="リップル（XRP）とは？５分で分かる説明書">
+        リップル（XRP）とは？５分で分かる説明書        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   今回は与沢翼さんも注目していたリップル(XRP)について書きました。
+
+グーグルからも出資を受けている通貨ですので注目して置くべき通貨の...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/07/02/post-774/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/08/06/post-1405/" title="ネム(XEM)とは？特徴と仕組みとハッキング事件の過去を詳しく説明。">
+        <img width="100" height="100" src="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?resize=100%2C100&amp;ssl=1 100w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1406" data-permalink="https://info-coin.biz/2018/08/06/post-1405/af41e7aacc4400c980053c6ffc3bc1c7/" data-orig-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?fit=900%2C490&amp;ssl=1" data-orig-size="900,490" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="af41e7aacc4400c980053c6ffc3bc1c7" data-image-description="" data-medium-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?fit=300%2C163&amp;ssl=1" data-large-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/af41e7aacc4400c980053c6ffc3bc1c7.png?fit=680%2C370&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/08/06/post-1405/" class="related-entry-title-link" title="ネム(XEM)とは？特徴と仕組みとハッキング事件の過去を詳しく説明。">
+        ネム(XEM)とは？特徴と仕組みとハッキング事件の過去を詳しく説明。        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   ネムとは
+ネム。仮想通貨表記ではＮＥＭ、あるいはＸＥＭと表記されます。仮想通貨名称ではＸＥＭとされます。ＮＥＭという名前の名称は開発プロジ...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/08/06/post-1405/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/08/10/post-1455/" title="イーサリアムウォレットTrustWalletをBINANCEが買収">
+        <img width="100" height="100" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1456" data-permalink="https://info-coin.biz/2018/08/10/post-1455/%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88-2018-08-22-17-51-12/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?fit=1246%2C478&amp;ssl=1" data-orig-size="1246,478" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="スクリーンショット 2018-08-22 17.51.12" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?fit=300%2C115&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/08/スクリーンショット-2018-08-22-17.51.12.png?fit=680%2C261&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/08/10/post-1455/" class="related-entry-title-link" title="イーサリアムウォレットTrustWalletをBINANCEが買収">
+        イーサリアムウォレットTrustWalletをBINANCEが買収        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   イーサリアムウォレットTrustWalletをBINANCEが買収
+2018年7月に日本から南ヨーロッパのマルタ共和国に拠点を移し、仮想通...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/08/10/post-1455/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/07/03/post-794/" title="ビットコイン(Bitcoin)とはパッと見て理解できる説明">
+        <img width="100" height="100" src="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="977" data-permalink="https://info-coin.biz/2018/07/03/post-794/large_bitcoin-logo/" data-orig-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?fit=720%2C480&amp;ssl=1" data-orig-size="720,480" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="large_bitcoin-logo" data-image-description="" data-medium-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/info-coin.biz/wp-content/uploads/2018/07/large_bitcoin-logo.png?fit=680%2C453&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/07/03/post-794/" class="related-entry-title-link" title="ビットコイン(Bitcoin)とはパッと見て理解できる説明">
+        ビットコイン(Bitcoin)とはパッと見て理解できる説明        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   最近になって、にわかにビットコインという言葉が様々な場面で使われるようになりました。テレビやラジオは勿論、新聞に雑誌、はては日常会話にすら、...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/07/03/post-794/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/08/01/post-1294/" title="bitbank（ビットバンク）の特徴、手数料や評判、サービス内容について">
+        <img width="100" height="100" src="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?resize=100%2C100&amp;ssl=1 100w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1342" data-permalink="https://info-coin.biz/2018/08/01/post-1294/share/" data-orig-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?fit=1200%2C630&amp;ssl=1" data-orig-size="1200,630" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="share" data-image-description="" data-medium-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?fit=300%2C158&amp;ssl=1" data-large-file="https://i2.wp.com/info-coin.biz/wp-content/uploads/2018/08/share.jpg?fit=680%2C357&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/08/01/post-1294/" class="related-entry-title-link" title="bitbank（ビットバンク）の特徴、手数料や評判、サービス内容について">
+        bitbank（ビットバンク）の特徴、手数料や評判、サービス内容について        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   仮想通貨の代名詞と言える銘柄といえば、やはりビットコインでしょう。テレビやラジオ、新聞といった様々な媒体で取り上げられたこともあって、その知...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/08/01/post-1294/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/08/04/post-1390/" title="スカイコイン（SKY）はなにを目的にした仮想通貨なのか？特徴と仕組みを詳しく説明">
+        <img width="100" height="100" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1391" data-permalink="https://info-coin.biz/2018/08/04/post-1390/2018y03m22d_054505510/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?fit=597%2C281&amp;ssl=1" data-orig-size="597,281" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2018y03m22d_054505510" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?fit=300%2C141&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/08/2018y03m22d_054505510.jpg?fit=597%2C281&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/08/04/post-1390/" class="related-entry-title-link" title="スカイコイン（SKY）はなにを目的にした仮想通貨なのか？特徴と仕組みを詳しく説明">
+        スカイコイン（SKY）はなにを目的にした仮想通貨なのか？特徴と仕組みを詳しく説明        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   スカイコインとは
+通貨はＳＫＹと表示されるスカイコインはビットコイン、イーサリアムに次ぐ第3の通貨と呼ばれています。というのもスカイコイン...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/08/04/post-1390/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/07/16/post-883/" title="仮想通貨のマイニングとは？仕組みと説明">
+        <img width="100" height="100" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1009" data-permalink="https://info-coin.biz/2018/07/16/post-883/bitcoin-mining02/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?fit=718%2C459&amp;ssl=1" data-orig-size="718,459" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bitcoin-mining02" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/bitcoin-mining02.jpg?fit=680%2C435&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/07/16/post-883/" class="related-entry-title-link" title="仮想通貨のマイニングとは？仕組みと説明">
+        仮想通貨のマイニングとは？仕組みと説明        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   仮想通貨は、取引所への新規上場やハードフォークといった理由から無料で配られることもあるものの、基本的にはお金を出してそれを買わなければ手に入...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/07/16/post-883/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->      <article class="related-entry cf">
+  <div class="related-entry-thumb">
+    <a href="https://info-coin.biz/2018/07/22/post-1064/" title="アービトラージって何？やり方と説明">
+        <img width="100" height="100" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?resize=100%2C100&amp;ssl=1" class="related-entry-thumb-image wp-post-image" alt="" srcset="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?zoom=2&amp;resize=100%2C100&amp;ssl=1 200w, https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?zoom=3&amp;resize=100%2C100&amp;ssl=1 300w" sizes="(max-width: 100px) 100vw, 100px" data-attachment-id="1067" data-permalink="https://info-coin.biz/2018/07/22/post-1064/https_cdn-user-blog-st-hatena/" data-orig-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?fit=1200%2C731&amp;ssl=1" data-orig-size="1200,731" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="https_cdn.user.blog.st-hatena" data-image-description="" data-medium-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?fit=300%2C183&amp;ssl=1" data-large-file="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/https_2F2Fcdn.user_.blog_.st-hatena.jpg?fit=680%2C414&amp;ssl=1" />        </a>
+  </div><!-- /.related-entry-thumb -->
+
+  <div class="related-entry-content">
+    <header>
+      <h3 class="related-entry-title">
+        <a href="https://info-coin.biz/2018/07/22/post-1064/" class="related-entry-title-link" title="アービトラージって何？やり方と説明">
+        アービトラージって何？やり方と説明        </a></h3>
+    </header>
+    <p class="related-entry-snippet">
+   仮想通貨や投資に関する専門用語は様々ですが、この「アービトラージ」のように、その多くが一目見ただけでは内容が理解できないものばかりとなってい...</p>
+
+        <footer>
+      <p class="related-entry-read"><a href="https://info-coin.biz/2018/07/22/post-1064/">記事を読む</a></p>
+    </footer>
+    
+  </div><!-- /.related-entry-content -->
+</article><!-- /.elated-entry -->  
+  <br style="clear:both;">      </aside><!-- #related-entries -->
+      
+
+
+        <!-- 広告 -->
+                  
+      
+      <!-- post navigation -->
+<div class="navigation">
+      <div class="prev"><a href="https://info-coin.biz/2018/07/13/post-853/" rel="prev"><span class="fa fa-arrow-left fa-2x pull-left"></span>ADA(エイダ/カルダノ)とは？特徴と今後について</a></div>
+      <div class="next"><a href="https://info-coin.biz/2018/07/14/post-874/" rel="next"><span class="fa fa-arrow-right fa-2x pull-left"></span>仮想通貨の概要及び税金について</a></div>
+  </div>
+<!-- /post navigation -->
+            </div>
+    
+            </div><!-- /#main -->
+          </main>
+        <!-- sidebar -->
+<div id="sidebar" role="complementary">
+    
+  <div id="sidebar-widget">
+  <!-- ウイジェット -->
+  <aside id="search-2" class="widget widget_search"><form method="get" id="searchform" action="https://info-coin.biz/">
+	<input type="text" placeholder="ブログ内を検索" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="">
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget_title sidebar_widget_title">最近の投稿</h3>		<ul>
+											<li>
+					<a href="https://info-coin.biz/2018/08/17/post-1437/">仮想通貨Dragonchain(ドラゴンチェーン/DRGN)</a>
+											<span class="post-date">2018年8月17日</span>
+									</li>
+											<li>
+					<a href="https://info-coin.biz/2018/08/15/post-1433/">仮想通貨Quantum（クアンタム／QTUM）とは？分かりやすく説明</a>
+											<span class="post-date">2018年8月15日</span>
+									</li>
+											<li>
+					<a href="https://info-coin.biz/2018/08/13/post-1428/">セントラリティについて分かりやすく説明。特徴や価格推移について</a>
+											<span class="post-date">2018年8月13日</span>
+									</li>
+											<li>
+					<a href="https://info-coin.biz/2018/08/12/post-1424/">アイオタ（IOTA）とは？３分でわかる説明</a>
+											<span class="post-date">2018年8月12日</span>
+									</li>
+											<li>
+					<a href="https://info-coin.biz/2018/08/10/post-1455/">イーサリアムウォレットTrustWalletをBINANCEが買収</a>
+											<span class="post-date">2018年8月10日</span>
+									</li>
+					</ul>
+		</aside><aside id="text-10" class="widget widget_text"><h3 class="widget_title sidebar_widget_title">Twitterつぶやき</h3>			<div class="textwidget"><p><a class="twitter-timeline" data-lang="ja" data-height="600" href="https://twitter.com/info_coin_916?ref_src=twsrc%5Etfw">Tweets by info_coin_916</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+		</aside><aside id="top-posts-2" class="widget widget_top-posts"><h3 class="widget_title sidebar_widget_title">人気の投稿とページ</h3><ul>				<li>
+										<a href="https://info-coin.biz/2018/07/02/post-774/" class="bump-view" data-bump-view="tp">
+						リップル（XRP）とは？５分で分かる説明書					</a>
+									</li>
+							<li>
+										<a href="https://info-coin.biz/2018/07/14/post-865/" class="bump-view" data-bump-view="tp">
+						モナコイン(Monacoin)特徴と説明					</a>
+									</li>
+			</ul></aside><aside id="text-13" class="widget widget_text">			<div class="textwidget"><p><a href="https://info-coin.biz/category/%E5%8F%96%E5%BC%95%E6%89%80/"><img class="wp-image-1033 aligncenter" src="https://i1.wp.com/info-coin.biz/wp-content/uploads/2018/07/download-4.png?resize=290%2C242&#038;ssl=1" alt="" width="290" height="242" data-recalc-dims="1" /></a></p>
+</div>
+		</aside>  </div>
+
+  
+</div><!-- /#sidebar -->
+        </div><!-- /#body-in -->
+      </div><!-- /#body -->
+
+      <!-- footer -->
+      <footer itemscope itemtype="http://schema.org/WPFooter">
+        <div id="footer" class="main-footer">
+          <div id="footer-in">
+
+                        <div id="footer-widget">
+               <div class="footer-left">
+                                             </div>
+               <div class="footer-center">
+                                             </div>
+               <div class="footer-right">
+               <aside id="archives-2" class="widget widget_archive"><h3 class="footer_widget_title">アーカイブ</h3>		<label class="screen-reader-text" for="archives-dropdown-2">アーカイブ</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">月を選択</option>
+				<option value='https://info-coin.biz/2018/08/'> 2018年8月 &nbsp;(15)</option>
+	<option value='https://info-coin.biz/2018/07/'> 2018年7月 &nbsp;(22)</option>
+
+		</select>
+		</aside>               </div>
+            </div>
+          
+          <div class="clear"></div>
+            <div id="copyright" class="wrapper">
+                            <div class="credit">
+                &copy; 2018  <a href="https://info-coin.biz">INFO COIN</a>.              </div>
+
+                          </div>
+        </div><!-- /#footer-in -->
+        </div><!-- /#footer -->
+      </footer>
+      <div id="page-top">
+      <a id="move-page-top"><span class="fa fa-angle-double-up fa-2x"></span></a>
+  
+</div>
+          </div><!-- /#container -->
+    	<div style="display:none">
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://info-coin.biz/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/planet-blockchain-coin-explorer/widget.js'></script>
+<script src="https://info-coin.biz/wp-content/themes/simplicity2/javascript.js" defer></script>
+<script src="https://info-coin.biz/wp-content/themes/simplicity2-child/javascript.js" defer></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/table-of-contents-plus/front.min.js'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/jetpack/_inc/build/spin.min.js'></script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"ja","ajaxurl":"https:\/\/info-coin.biz\/wp-admin\/admin-ajax.php","nonce":"3df8495a23","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"\u30b3\u30e1\u30f3\u30c8","post_comment":"\u30b3\u30e1\u30f3\u30c8\u3092\u9001\u4fe1","write_comment":"\u30b3\u30e1\u30f3\u30c8\u3092\u3069\u3046\u305e","loading_comments":"\u30b3\u30e1\u30f3\u30c8\u3092\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059\u2026","download_original":"\u30d5\u30eb\u30b5\u30a4\u30ba\u8868\u793a <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"\u30b3\u30e1\u30f3\u30c8\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002","no_comment_email":"\u30b3\u30e1\u30f3\u30c8\u3059\u308b\u306b\u306f\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002","no_comment_author":"\u30b3\u30e1\u30f3\u30c8\u3059\u308b\u306b\u306f\u304a\u540d\u524d\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002","comment_post_error":"\u30b3\u30e1\u30f3\u30c8\u6295\u7a3f\u306e\u969b\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u5f8c\u307b\u3069\u3082\u3046\u4e00\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002","comment_approved":"\u30b3\u30e1\u30f3\u30c8\u304c\u627f\u8a8d\u3055\u308c\u307e\u3057\u305f\u3002","comment_unapproved":"\u30b3\u30e1\u30f3\u30c8\u306f\u627f\u8a8d\u5f85\u3061\u4e2d\u3067\u3059\u3002","camera":"\u30ab\u30e1\u30e9","aperture":"\u7d5e\u308a","shutter_speed":"\u30b7\u30e3\u30c3\u30bf\u30fc\u30b9\u30d4\u30fc\u30c9","focal_length":"\u7126\u70b9\u8ddd\u96e2","copyright":"\u8457\u4f5c\u6a29","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/info-coin.biz\/wp-login.php?redirect_to=https%3A%2F%2Finfo-coin.biz%2F2018%2F07%2F14%2Fpost-865%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">\u540d\u524d<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://info-coin.biz/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.1',blog:'146730492',post:'865',tz:'9',srv:'info-coin.biz'} ]);
+	_stq.push([ 'clickTrackerInit', '146730492', '865' ]);
+</script>
+            <!-- はてブシェアボタン用スクリプト -->
+<script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-122324697-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- /Google Analytics -->
+
+    
+  </body>
+</html>

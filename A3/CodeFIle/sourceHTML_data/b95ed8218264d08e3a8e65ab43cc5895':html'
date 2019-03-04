@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Crypto Click Affiliate - アフィリエイターファーストの仮想通貨関連ＡＳＰ</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Web Fonts  -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/animate/animate.min.css">
+    <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.min.css">
+    <link rel="stylesheet" href="/vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/vendor/owl.carousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/vendor/magnific-popup/magnific-popup.min.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/css/theme.css">
+    <link rel="stylesheet" href="/css/theme-elements.css">
+    <link rel="stylesheet" href="/css/theme-blog.css">
+    <link rel="stylesheet" href="/css/theme-shop.css">
+    <!-- Current Page CSS -->
+    <link rel="stylesheet" href="/vendor/rs-plugin/css/settings.css">
+    <link rel="stylesheet" href="/vendor/rs-plugin/css/layers.css">
+    <link rel="stylesheet" href="/vendor/rs-plugin/css/navigation.css">
+    <link rel="stylesheet" href="/vendor/circle-flip-slideshow/css/component.css">
+    <!-- Skin CSS -->
+    <link rel="stylesheet" href="/css/skins/default.css">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="/css/custom.css">
+    <!-- Head Libs -->
+    <script src="/vendor/modernizr/modernizr.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var arg = new Object;
+            url = location.search.substring(1).split('&');
+            for (i = 0; url[i]; i++) {
+                var k = url[i].split('=');
+                arg[k[0]] = k[1];
+            }
+            $('input.intro').val(arg.intro);
+        })
+
+    </script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WX7SGRT');
+
+    </script>
+    <!-- End Google Tag Manager -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("a[href]").each(function() {
+                var link = $(this).attr("href");
+                if (link.match(/#/))
+                    $(this).attr("href", location.search + $(this).attr("href"));
+                else
+                    $(this).attr("href", $(this).attr("href") + location.search);
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WX7SGRT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="body">
+        <header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-57px', 'stickyChangeLogo': true}">
+            <div class="header-body">
+                <div class="header-container container">
+                    <div class="header-row">
+                        <div class="header-column">
+                            <div class="header-logo"> <a href="/"> <img alt="Crypto Click Affiliate" width="151" height="85" data-sticky-width="121" data-sticky-height="68" data-sticky-top="33" src="/img/logos/CCA-logo-footer.gif"> </a> </div>
+                        </div>
+                        <div class="header-column">
+                            <div class="header-row">
+                                <nav class="header-nav-top">
+                                    <ul class="nav nav-pills">
+                                        <li> <a href="/ja/" class="dropdown-menu-toggle" id="dropdownLanguage" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> <img src="/img/blank.gif" class="flag flag-jp" alt="Japanese" /> 日本語 <i class="fa fa-angle-down"></i> </a>
+                                            <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownLanguage">
+                                                <li><a href="/"><img src="/img/blank.gif" class="flag flag-us" alt="English" /> English</a></li>
+                                                <li><a href="/ja/"><img src="/img/blank.gif" class="flag flag-jp" alt="Japanese" /> 日本語</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div role="main" class="main">
+
+            <div class="container">
+                <div class="row center">
+                    <div class="col-md-12" align="center"> <img alt="" class="img-responsive" src="/img/db006819e4a7332a9987cb6b24cec3c5.png"> </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <hr class="tall">
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-10">
+                    <h2>[お知らせ] <strong> CCA一時閉鎖について</strong></h2>
+                    <p>２０１８年３月下旬、日本国金融庁より、私たちが行なっている日本国居住者向けの業務が日本の仮想通貨交換業務に該当しており、速やかに当該業務の停止などの是正措置を取るよう要請がありました。</p>
+                    <p>私たちは、本要請について事実確認と調査を実施し、本要請が日本国の関連法に基づき妥当なものであることを確認いたしました。</p>
+                    <p>また、本件への対応中に、同金融庁より香港の大手取引所に対して警告が発せられたこともあり、日々めまぐるしく変化してゆく各国の法規制の動向、特に私たちのホームグラウンドでもある香港の法規制についても今一度調査、確認することが必要であると言う認識に至りました。</p>
+                    <p>そこで、２０１８年３月３１日（土）をもって以下の全てのサービスの提供を停止し、事業の適法性についての確認が完了するまでサービスサイトを一時閉鎖する事を決定いたしました。</p>
+                    <p>２０１８年４月１日（日）以降停止する機能
+                        <li>新規アカウント作成</li>
+                        <li>サービスへのログイン（※報酬獲得者は除く）</li>
+                        <li>全てのバウンティ・プログラムの提供</li>
+                        <li>全てのアフィリエイト・プログラムの提供</li>
+                        <li>全ての広告の出稿</li>
+                    </p>
+                    <p>※２０１８年３月３１日（土）までにアフィリエイトおよびバウンティ・プログラムにおいて報酬が発生しているユーザについては、獲得報酬についての権利と財産を保全するため、２０１８年４月３０日（月）まで、以下の機能を利用することが可能です。
+                        <li>サービスへのログイン</li>
+                        <li>各種報酬の払い出し申請</li>
+                        <li>各種レポートの取得</li>
+                    </p>
+                    <p>※２０１８年４月３０日（月）をもって獲得報酬の払い出し申請の受付を終了いたしました。２０１８年５月１日（火）以降はＣＣコイン保有者のみログインが可能となります。ＣＣコインの保全作業は２０１８年６月２９日（金）に完了を予定しております。</p>
+                    <p>なお、金融系システムに実績を持つシステムベンダーを含む複数の企業と合弁で開発および運営体制の構築を進めてまいりました「CCM（CryptoClick Market）（仮称）」については、本件を機に弊社の資本を抜き、新体制で開発を継続する事を同時に決定いたしました。</p>
+                    <p>これまでの協議で上場を決定していた各トークン発行体との契約なども新体制に委譲され、２０１８年夏頃のサービス開始に向けて開発が進行しております。</p>
+                    <p> ・・・ </p>
+                    <p>CCAをローンチした２０１７年１０月以降、私たちは立ち止まることなく走り続けてまいりました。</p>
+                    <p>新しいことへのチャレンジが大好きな私たちは、私たちと同じように、世界に先駆けて税制や法規制を整備し、仮想通貨市場の健全な発展に積極的に寄与せんとする日本国の取り組みを高く評価しています。</p>
+                    <p>残念ながら私たちの事業は日本の法規制およびその解釈によって適法ではなくなってしまいましたが、私たちは彼らの決定に敬意を持って応えるべく、可能な限り速やかに本件に対処してまいりました。</p>
+                    <p>今後、私たちは一日も早いサービス再開を目指し、世界各国の関係当局と連携して事業の再構築に挑んでゆきます。</p>
+                    <p>私たちのサービスをご利用いただいている皆様におかれましてはご不安もあろうかと存じますが、無用な不安や混乱を生じることは、日本国金融庁にとっても、私たちにとっても本意ではありません。</p>
+                    <p>これまで私たちとともに歩んで来てくださった皆様の信頼にお応えできるよう、必要な情報提供を継続して行なってゆく事をここにお約束いたします。</p>
+                    <p> CEO Aiko Shimizu<br>Crypto Click Limited</p>
+                    <p>２０１８年３月３１日</p>
+
+                </div>
+
+                <div class="col-md-1"></div>
+            </div>
+        </div>
+        <footer id="footer">
+            <!-- Copyright -->
+            <div class="footer-copyright">
+                <div class="container">
+                    <div class="col-md-12" align="center"> <a href="/" class="logo"> <img alt="Crypto Click Affiliate" class="img-responsive" width="240" src="/img/logos/CCA-logo-footer.png"> </a> </div>
+                    <div class="col-md-12" align="center">
+                        <p>© Copyright 2017. All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- Vendor -->
+    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="/vendor/jquery.appear/jquery.appear.min.js"></script>
+    <script src="/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="/vendor/jquery-cookie/jquery-cookie.min.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/vendor/common/common.min.js"></script>
+    <script src="/vendor/jquery.validation/jquery.validation.min.js"></script>
+    <script src="/vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+    <script src="/vendor/jquery.gmap/jquery.gmap.min.js"></script>
+    <script src="/vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+    <script src="/vendor/isotope/jquery.isotope.min.js"></script>
+    <script src="/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="/vendor/vide/vide.min.js"></script>
+    <!-- Theme Base, Components and Settings -->
+    <script src="/js/theme.js"></script>
+    <!-- Current Page Vendor and Views -->
+    <script src="/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="/vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
+    <script src="/js/views/view.home.js"></script>
+    <!-- Theme Custom -->
+    <script src="/js/custom.js"></script>
+    <!-- Theme Initialization Files -->
+    <script src="/js/theme.init.js"></script>
+</body>
+
+</html>

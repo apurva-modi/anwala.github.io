@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta Information -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+
+    <title>EOS Long-term Price Analysis - February 16   - CoinSpectator</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="CoinSpectator">
+
+    <meta name="google-site-verification" content="HqAMwzYDTa7izYTulXAeZTCgrmKg5Oe7UdLakR-gWcI" />
+    <meta name="msvalidate.01" content="01FBCE04536ED84FF762369AF48DBFEC" />
+
+    <meta name="twitter:widgets:theme" content="light">
+    <meta name="twitter:widgets:link-color" content="#55acee">
+    <meta name="twitter:widgets:border-color" content="#55acee">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Meta -->
+    			<meta name="thumbnail" content="https://coinspectator-com.s3.eu-west-2.amazonaws.com/production/1249575/82baab3365cc0f5fbb9ae277c603e785.jpeg" />
+	
+
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic" rel="stylesheet">
+
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+
+    <!-- CSS -->
+    <link href="/css/app.css?id=ade2fa89243b44bd5971" rel="stylesheet">
+
+    <!-- Scripts -->
+    
+    <!-- Global Spark Object -->
+    <script>
+        window.Spark = {"translations":{":trialDays Day Trial":":trialDays Day Trial","API":"API","API Token":"API Token","API Tokens":"API Tokens","Action Button Text":"Action Button Text","Your application's dashboard.":"Your application's Dashboard","Dashboard":"Dashboard","Action Button URL":"Action Button URL","Add Discount":"Add Discount","Address":"Address","Address Line 2":"Address Line 2","After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.":"After logging in via your emergency token, two-factor authentication will be disabled for your account. If you would like to maintain two-factor authentication security, you should re-enable it after logging in.","All subscription plan prices are excluding applicable VAT.":"All subscription plan prices are excluding applicable VAT.","All subscription plan prices include applicable VAT.":"All subscription plan prices include applicable VAT.","Amount":"Amount","Announcement":"Announcement","Announcements":"Announcements","Announcements you create here will be sent to the \"Product Announcements\" section of the notifications modal window, informing your users about new features and improvements to your application.":"Announcements you create here will be sent to the \"Product Announcements\" section of the notifications modal window, informing your users about new features and improvements to your application.","Apply Discount":"Apply Discount","Applying":"Applying","Are you sure you want to cancel your subscription?":"Are you sure you want to cancel your subscription?","Are you sure you want to delete this announcement?":"Are you sure you want to delete this announcement?","Are you sure you want to switch to the :planName plan?":"Are you sure you want to switch to the :planName plan?","Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.":"Are you sure you want to delete this token? If deleted, API requests that attempt to authenticate using this token will no longer be accepted.","Assign All Abilities":"Assign All Abilities","Authentication Token":"Authentication Token","Back To My Account":"Back To My Account","Billing":"Billing","Billing Information":"Billing Information","Cancel":"Cancel","Cancel Subscription":"Cancel Subscription","Cancelling":"Cancelling","Card":"Card","Cardholder's Name":"Cardholder's Name","City":"City","Click here to reset your password:":"Click here to reset your password:","Close":"Close","Confirm Password":"Confirm Password","Contact Information":"Contact Information","Copy To Clipboard":"Copy To Clipboard","Country":"Country","Country Code":"Country Code","Coupon":"Coupon","Coupon Code":"Coupon Code","Coupon accepted! The discount will be applied to your next invoice.":"Coupon accepted! The discount will be applied to your next invoice.","Create":"Create","Create API Token":"Create API Token","Create Announcement":"Create Announcement","Created":"Created","Current Password":"Current Password","Daily Volume":"Daily Volume","Date":"Date","Day Trial":"Day Trial","Delete Announcement":"Delete Announcement","Delete Token":"Delete Token","Deleting":"Deleting","Developer":"Developer","Disable Two-Factor Authentication":"Disable Two-Factor Authentication","Disabling":"Disabling","Download PDF":"Download PDF","Duration":"Duration","E-Mail":"E-Mail","E-Mail Address":"E-Mail Address","Edit Token":"Edit Token","Email Address":"Email Address","Email Us":"Email Us","Emergency Token":"Emergency Token","Enable":"Enable","Enabling":"Enabling","Expiration":"Expiration","Extra Billing Information":"Extra Billing Information","Features":"Features","Forever":"Forever","Forgot Your Password?":"Forgot Your Password?","Free":"Free","Go To Login":"Go To Login","Got It!":"Got It!","Here is your new API token.":"Here is your new API token.","Hi :name":"Hi :name","Hi!":"Hi!","I Accept :linkOpenThe Terms Of Service:linkClose":"I Accept :linkOpen The Terms Of Service:linkClose","If you do not already have an account, you may click the following link to get started:":"If you do not already have an account, you may click the following link to get started:","If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.":"If you lose your two-factor authentication device, you may use this emergency reset token to disable two-factor authentication on your account.","Impersonate":"Impersonate","Impersonation":"Impersonation","In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.":"In order to use two-factor authentication, you must install the :authyLink application on your smartphone. Authy is available for iOS and Android.","Invoices":"Invoices","Joined":"Joined","Kiosk":"Kiosk","Last Used":"Last Used","Loading":"Loading","Loading Notifications":"Loading Notifications","Login":"Login","Login Via Emergency Token":"Login Via Emergency Token","Logout":"Logout","Lost Your Device?":"Lost Your Device?","Mailed Invitations":"Mailed Invitations","Membership":"Membership","Message":"Message","Metrics":"Metrics","Monthly":"Monthly","Yearly":"Yearly","Monthly Recurring Revenue":"Monthly Recurring Revenue","Search By Name Or E-Mail Address...":"Search By Name Or E-Mail Address...","Months":"Months","Multiple Months":"Multiple Months","N\/A":"N\/A","Name":"Name","Never":"Never","New Invitation!":"New Invitation!","New Users":"New Users","State":"State","Postal Code":"Postal Code","No customer support request recipient is defined.":"No customer support request recipient is defined.","No users matched the given criteria.":"No users matched the given criteria.","No, Go Back":"No, Go Back","None":"None","Notifications":"Notifications","On Generic Trial":"On Generic Trial","Once":"Once","Owner":"Owner","Password":"Password","Payment Method":"Payment Method","Pending Invitations":"Pending Invitations","Percentage":"Percentage","Phone Number":"Phone Number","Please select at least one ability.":"Please select at least one ability.","Profile":"Profile","Profile Photo":"Profile Photo","Recent Announcements":"Recent Announcements","Recurring Revenue":"Recurring Revenue","Redeem":"Redeem","Redeem Coupon":"Redeem Coupon","Redeeming":"Redeeming","Register":"Register","Registering":"Registering","Remember Me":"Remember Me","Remove All Abilities":"Remove All Abilities","Reset Password":"Reset Password","Resume":"Resume","Resume Subscription":"Resume Subscription","Resuming":"Resuming","Role":"Role","Search Results":"Search Results","Searching":"Searching","Security":"Security","Security Code":"Security Code","See you soon!":"See you soon!","Select All":"Select All","Send":"Send","Send Invitation":"Send Invitation","Send Password Reset Link":"Send Password Reset Link","Sending":"Sending","Session Expired":"Session Expired","Settings":"Settings","Since you already have an account, you may accept the invitation from your account settings screen.":"Since you already have an account, you may accept the invitation from your account settings screen.","Something went wrong!":"Something went wrong!","Something went wrong. Please try again or contact customer support.":"Something went wrong. Please try again or contact customer support.","State & ZIP \/ Postal Code":"State & ZIP \/ Postal Code","Subject":"Subject","Subscribe":"Subscribe","Subscribers":"Subscribers","Subscribing":"Subscribing","Subscription":"Subscription","Support":"Support","Support Request: ":"Support Request: ","Switch":"Switch","Tax":"Tax","Terms Of Service":"Terms Of Service","Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!":"Thanks for your continued support. We've attached a copy of your invoice for your records. Please let us know if you have any questions or concerns!","Thanks!":"Thanks!","The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.":"The benefits of your subscription will continue until your current billing period ends on :date. You may resume your subscription at no extra cost until the end of the billing period.","The coupon :value discount will be applied to your subscription!":"The coupon :value discount will be applied to your subscription!","The emergency token was invalid.":"The emergency token was invalid.","The given password does not match our records.":"The given password does not match our records.","The invitation has been sent!":"The invitation has been sent!","This country does not match the origin country of your card.":"This country does not match the origin country of your card.","This coupon code is invalid.":"This coupon code is invalid.","This information will appear on all of your receipts, and is a great place to add your full business name, VAT number, or address of record. Do not include any confidential or financial information such as credit card numbers.":"This information will appear on all of your receipts, and is a great place to add your full business name, VAT number, or address of record. Do not include any confidential or financial information such as credit card numbers.","This invitation code is invalid.":"This invitation code is invalid.","This is the only time the token will ever be displayed, so be sure not to lose it!":"This is the only time the token will ever be displayed, so be sure not to lose it!","This is the only time this token will be displayed, so be sure not to lose it!":"This is the only time this token will be displayed, so be sure not to lose it!","This plan has been discontinued, but you may continue your subscription to this plan as long as you wish. If you cancel your subscription and later want to begin a new subscription, you will need to choose from one of the active plans listed below.":"This plan has been discontinued, but you may continue your subscription to this plan as long as you wish. If you cancel your subscription and later want to begin a new subscription, you will need to choose from one of the active plans listed below.","This user has a discount of :discountAmount for a single invoice.":"This user has a discount of :discountAmount for a single invoice.","This user has a discount of :discountAmount for all invoices during the next :months months.":"This user has a discount of :discountAmount for all invoices during the next :months months.","This user has a discount of :discountAmount for all invoices during the next month.":"This user has a discount of :discountAmount for all invoices during the next month.","This user has a discount of :discountAmount forever.":"This user has a discount of :discountAmount forever.","Toggle Navigation":"Toggle Navigation","Token Can":"Token Can","Token Name":"Token Name","Total Price Including Tax":"Total Price Including Tax","Total Revenue":"Total Revenue","Total Volume":"Total Volume","Trial":"Trial","Trialing":"Trialing","Two-Factor Authentication":"Two-Factor Authentication","Two-Factor Authentication Reset Code":"Two-Factor Authentication Reset Code","Type":"Type","Update":"Update","Update Announcement":"Update Announcement","Update Password":"Update Password","Update Payment Method":"Update Payment Method","Update Photo":"Update Photo","Update Subscription":"Update Subscription","Update VAT ID":"Update VAT ID","Updating":"Updating","Users":"Users","Users Currently Trialing":"Users Currently Trialing","VAT ID":"VAT ID","Verify":"Verify","We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!":"We don't have anything to show you right now! But when we do, we'll be sure to let you know. Talk to you soon!","We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.":"We had trouble updating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.","We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.":"We had trouble updating your payment method. It's possible your payment provider is preventing us from charging the payment method. Please contact your payment provider or customer support.","We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.":"We had trouble validating your card. It's possible your card provider is preventing us from charging the card. Please contact your card provider or customer support.","We have received your message and will respond soon!":"We have received your message and will respond soon!","We were not able to enable two-factor authentication for this phone number.":"We were not able to enable two-factor authentication for this phone number.","We were unable to update your subscription. Please contact customer support.":"We were unable to update your subscription. Please contact customer support.","Whoops!":"Whoops!","Whoops! This coupon code is invalid.":"Whoops! This coupon code is invalid.","Whoops! This invitation code is invalid.":"Whoops! This invitation code is invalid.","Yearly Recurring Revenue":"Yearly Recurring Revenue","Yes, Cancel":"Yes, Cancel","Yes, Delete":"Yes, Delete","Yes, I'm Sure":"Yes, I'm Sure","Yes, Leave":"Yes, Leave","Yes, Remove":"Yes, Remove","You":"You","You are currently subscribed to the :planName plan.":"You are currently subscribed to the :planName plan.","You are currently within your free trial period. Your trial will expire on :date.":"You are currently within your free trial period. Your trial will expire on :date.","You currently have :count invitation(s) remaining.":"You currently have :count invitation(s) remaining.","You currently receive a discount of :discountAmount for a single invoice.":"You currently receive a discount of :discountAmount for a single invoice.","You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.":"You currently receive a discount of :discountAmount for all invoices during the next :months billing cycles.","You currently receive a discount of :discountAmount for all invoices during the next :months months.":"You currently receive a discount of :discountAmount for all invoices during the next :months months.","You currently receive a discount of :discountAmount for all invoices during the next billing cycle.":"You currently receive a discount of :discountAmount for all invoices during the next billing cycle.","You currently receive a discount of :discountAmount for all invoices during the next month.":"You currently receive a discount of :discountAmount for all invoices during the next month.","You currently receive a discount of :discountAmount forever.":"You currently receive a discount of :discountAmount forever.","You have cancelled your subscription to the :planName plan.":"You have cancelled your subscription to the :planName plan.","You may revoke the token at any time from your API settings.":"You may revoke the token at any time from your API settings.","Your Email Address":"Your Email Address","Your Settings":"Your Settings","Your VAT ID has been updated!":"Your VAT ID has been updated!","Your billing information has been updated!":"Your billing information has been updated!","Your card has been updated.":"Your card has been updated.","Your contact information has been updated!":"Your contact information has been updated!","Your password has been updated!":"Your password has been updated!","Your payment method has been updated.":"Your payment method has been updated.","Your session has expired. Please login again to continue.":"Your session has expired. Please login again to continue.","Your trial period will expire on ":"Your trial period will expire on ","ZIP \/ Postal Code":"ZIP \/ Postal Code","Your current plan doesn't allow you to invite more members, please upgrade your subscription.":"Your current plan doesn't allow you to invite more members, please upgrade your subscription.","please upgrade your subscription":"please upgrade your subscription","second address line":"second address line","Alabama":"Alabama","Alaska":"Alaska","Arizona":"Arizona","Arkansas":"Arkansas","California":"California","Colorado":"Colorado","Connecticut":"Connecticut","Delaware":"Delaware","District of Columbia":"District of Columbia","Federated States Of Micronesia":"Federated States Of Micronesia","Florida":"Florida","Hawaii":"Hawaii","Idaho":"Idaho","Illinois":"Illinois","Indiana":"Indiana","Iowa":"Iowa","Kansas":"Kansas","Kentucky":"Kentucky","Louisiana":"Louisiana","Maine":"Maine","Maryland":"Maryland","Massachusetts":"Massachusetts","Michigan":"Michigan","Minnesota":"Minnesota","Mississippi":"Mississippi","Missouri":"Missouri","Montana":"Montana","Nebraska":"Nebraska","Nevada":"Nevada","New Hampshire":"New Hampshire","New Jersey":"New Jersey","New Mexico":"New Mexico","New York":"New York","North Carolina":"North Carolina","North Dakota":"North Dakota","Ohio":"Ohio","Oklahoma":"Oklahoma","Oregon":"Oregon","Pennsylvania":"Pennsylvania","Rhode Island":"Rhode Island","South Carolina":"South Carolina","South Dakota":"South Dakota","Tennessee":"Tennessee","Texas":"Texas","Utah":"Utah","Vermont":"Vermont","Virgin Islands":"Virgin Islands","Virginia":"Virginia","Washington":"Washington","West Virginia":"West Virginia","Wisconsin":"Wisconsin","Wyoming":"Wyoming","Armed Forces Africa \/ Canada \/ Europe \/ Middle East":"Armed Forces Africa \/ Canada \/ Europe \/ Middle East","Armed Forces America (Except Canada)":"Armed Forces America (Except Canada)","Armed Forces Pacific":"Armed Forces Pacific","Alberta":"Alberta","British Columbia":"British Columbia","Manitoba":"Manitoba","New Brunswick":"New Brunswick","Newfoundland and Labrador":"Newfoundland and Labrador","Northwest Territories":"Northwest Territories","Nova Scotia":"Nova Scotia","Nunavut":"Nunavut","Ontario":"Ontario","Prince Edward Island":"Prince Edward Island","Quebec":"Quebec","Saskatchewan":"Saskatchewan","Yukon":"Yukon","Afghanistan":"Afghanistan","\u00c5land Islands":"\u00c5land Islands","Albania":"Albania","Algeria":"Algeria","American Samoa":"American Samoa","Andorra":"Andorra","Angola":"Angola","Anguilla":"Anguilla","Antarctica":"Antarctica","Antigua and Barbuda":"Antigua and Barbuda","Argentina":"Argentina","Armenia":"Armenia","Aruba":"Aruba","Australia":"Australia","Austria":"Austria","Azerbaijan":"Azerbaijan","Bahamas":"Bahamas","Bahrain":"Bahrain","Bangladesh":"Bangladesh","Barbados":"Barbados","Belarus":"Belarus","Belgium":"Belgium","Belize":"Belize","Benin":"Benin","Bermuda":"Bermuda","Bhutan":"Bhutan","Bolivia, Plurinational State of":"Bolivia, Plurinational State of","Bosnia and Herzegovina":"Bosnia and Herzegovina","Botswana":"Botswana","Bouvet Island":"Bouvet Island","Brazil":"Brazil","British Indian Ocean Territory":"British Indian Ocean Territory","Brunei Darussalam":"Brunei Darussalam","Bulgaria":"Bulgaria","Burkina Faso":"Burkina Faso","Burundi":"Burundi","Cambodia":"Cambodia","Cameroon":"Cameroon","Canada":"Canada","Cape Verde":"Cape Verde","Cayman Islands":"Cayman Islands","Central African Republic":"Central African Republic","Chad":"Chad","Chile":"Chile","China":"China","Christmas Island":"Christmas Island","Cocos (Keeling) Islands":"Cocos (Keeling) Islands","Colombia":"Colombia","Comoros":"Comoros","Congo":"Congo","Congo, the Democratic Republic of the":"Congo, the Democratic Republic of the","Cook Islands":"Cook Islands","Costa Rica":"Costa Rica","C\u00f4te d'Ivoire":"C\u00f4te d'Ivoire","Croatia":"Croatia","Cuba":"Cuba","Cyprus":"Cyprus","Czech Republic":"Czech Republic","Denmark":"Denmark","Djibouti":"Djibouti","Dominica":"Dominica","Dominican Republic":"Dominican Republic","Ecuador":"Ecuador","Egypt":"Egypt","El Salvador":"El Salvador","Equatorial Guinea":"Equatorial Guinea","Eritrea":"Eritrea","Estonia":"Estonia","Ethiopia":"Ethiopia","Falkland Islands (Malvinas)":"Falkland Islands (Malvinas)","Faroe Islands":"Faroe Islands","Fiji":"Fiji","Finland":"Finland","France":"France","French Guiana":"French Guiana","French Polynesia":"French Polynesia","French Southern Territories":"French Southern Territories","Gabon":"Gabon","Gambia":"Gambia","Georgia":"Georgia","Germany":"Germany","Ghana":"Ghana","Gibraltar":"Gibraltar","Greece":"Greece","Greenland":"Greenland","Grenada":"Grenada","Guadeloupe":"Guadeloupe","Guam":"Guam","Guatemala":"Guatemala","Guernsey":"Guernsey","Guinea":"Guinea","Guinea-Bissau":"Guinea-Bissau","Guyana":"Guyana","Haiti":"Haiti","Heard Island and McDonald Islands":"Heard Island and McDonald Islands","Holy See (Vatican City State)":"Holy See (Vatican City State)","Honduras":"Honduras","Hong Kong":"Hong Kong","Hungary":"Hungary","Iceland":"Iceland","India":"India","Indonesia":"Indonesia","Iran, Islamic Republic of":"Iran, Islamic Republic of","Iraq":"Iraq","Ireland":"Ireland","Isle of Man":"Isle of Man","Israel":"Israel","Italy":"Italy","Jamaica":"Jamaica","Japan":"Japan","Jersey":"Jersey","Jordan":"Jordan","Kazakhstan":"Kazakhstan","Kenya":"Kenya","Kiribati":"Kiribati","Korea, Democratic People's Republic of":"Korea, Democratic People's Republic of","Korea, Republic of":"Korea, Republic of","Kuwait":"Kuwait","Kyrgyzstan":"Kyrgyzstan","Lao People's Democratic Republic":"Lao People's Democratic Republic","Latvia":"Latvia","Lebanon":"Lebanon","Lesotho":"Lesotho","Liberia":"Liberia","Libyan Arab Jamahiriya":"Libyan Arab Jamahiriya","Liechtenstein":"Liechtenstein","Lithuania":"Lithuania","Luxembourg":"Luxembourg","Macao":"Macao","Macedonia, the former Yugoslav Republic of":"Macedonia, the former Yugoslav Republic of","Madagascar":"Madagascar","Malawi":"Malawi","Malaysia":"Malaysia","Maldives":"Maldives","Mali":"Mali","Malta":"Malta","Marshall Islands":"Marshall Islands","Martinique":"Martinique","Mauritania":"Mauritania","Mauritius":"Mauritius","Mayotte":"Mayotte","Mexico":"Mexico","Micronesia, Federated States of":"Micronesia, Federated States of","Moldova, Republic of":"Moldova, Republic of","Monaco":"Monaco","Mongolia":"Mongolia","Montenegro":"Montenegro","Montserrat":"Montserrat","Morocco":"Morocco","Mozambique":"Mozambique","Myanmar":"Myanmar","Namibia":"Namibia","Nauru":"Nauru","Nepal":"Nepal","Netherlands":"Netherlands","Netherlands Antilles":"Netherlands Antilles","New Caledonia":"New Caledonia","New Zealand":"New Zealand","Nicaragua":"Nicaragua","Niger":"Niger","Nigeria":"Nigeria","Niue":"Niue","Norfolk Island":"Norfolk Island","Northern Mariana Islands":"Northern Mariana Islands","Norway":"Norway","Oman":"Oman","Pakistan":"Pakistan","Palau":"Palau","Palestinian Territory, Occupied":"Palestinian Territory, Occupied","Panama":"Panama","Papua New Guinea":"Papua New Guinea","Paraguay":"Paraguay","Peru":"Peru","Philippines":"Philippines","Pitcairn":"Pitcairn","Poland":"Poland","Portugal":"Portugal","Puerto Rico":"Puerto Rico","Qatar":"Qatar","R\u00e9union":"R\u00e9union","Romania":"Romania","Russian Federation":"Russian Federation","Rwanda":"Rwanda","Saint Barth\u00e9lemy":"Saint Barth\u00e9lemy","Saint Helena":"Saint Helena","Saint Kitts and Nevis":"Saint Kitts and Nevis","Saint Lucia":"Saint Lucia","Saint Martin (French part)":"Saint Martin (French part)","Saint Pierre and Miquelon":"Saint Pierre and Miquelon","Saint Vincent and the Grenadines":"Saint Vincent and the Grenadines","Samoa":"Samoa","San Marino":"San Marino","Sao Tome and Principe":"Sao Tome and Principe","Saudi Arabia":"Saudi Arabia","Senegal":"Senegal","Serbia":"Serbia","Seychelles":"Seychelles","Sierra Leone":"Sierra Leone","Singapore":"Singapore","Slovakia":"Slovakia","Slovenia":"Slovenia","Solomon Islands":"Solomon Islands","Somalia":"Somalia","South Africa":"South Africa","South Georgia and the South Sandwich Islands":"South Georgia and the South Sandwich Islands","Spain":"Spain","Sri Lanka":"Sri Lanka","Sudan":"Sudan","Suriname":"Suriname","Svalbard and Jan Mayen":"Svalbard and Jan Mayen","Swaziland":"Swaziland","Sweden":"Sweden","Switzerland":"Switzerland","Syrian Arab Republic":"Syrian Arab Republic","Taiwan, Province of China":"Taiwan, Province of China","Tajikistan":"Tajikistan","Tanzania, United Republic of":"Tanzania, United Republic of","Thailand":"Thailand","Timor-Leste":"Timor-Leste","Togo":"Togo","Tokelau":"Tokelau","Tonga":"Tonga","Trinidad and Tobago":"Trinidad and Tobago","Tunisia":"Tunisia","Turkey":"Turkey","Turkmenistan":"Turkmenistan","Turks and Caicos Islands":"Turks and Caicos Islands","Tuvalu":"Tuvalu","Uganda":"Uganda","Ukraine":"Ukraine","United Arab Emirates":"United Arab Emirates","United Kingdom":"United Kingdom","United States":"United States","United States Minor Outlying Islands":"United States Minor Outlying Islands","Uruguay":"Uruguay","Uzbekistan":"Uzbekistan","Vanuatu":"Vanuatu","Venezuela, Bolivarian Republic of":"Venezuela, Bolivarian Republic of","Viet Nam":"Viet Nam","Virgin Islands, British":"Virgin Islands, British","Virgin Islands, U.S.":"Virgin Islands, U.S.","Wallis and Futuna":"Wallis and Futuna","Western Sahara":"Western Sahara","Yemen":"Yemen","Zambia":"Zambia","Zimbabwe":"Zimbabwe","teams.team":" Team","teams.member":" Member"},"braintreeMerchantId":null,"braintreeToken":null,"cardUpFront":true,"collectsBillingAddress":false,"collectsEuropeanVat":false,"createsAdditionalTeams":false,"csrfToken":"oQp2746UqnIl8SQp34uUbiJm85mRbHNsF0FtUxCB","currencySymbol":"$","env":"production","roles":[],"state":{"user":null,"teams":[],"currentTeam":null},"stripeKey":"","teamsPrefix":"teams","userId":null,"usesApi":false,"usesBraintree":false,"usesTeams":false,"usesStripe":true,"chargesUsersPerSeat":false,"seatName":null,"chargesTeamsPerSeat":false,"teamSeatName":null,"chargesUsersPerTeam":false,"chargesTeamsPerMember":false};
+    </script>
+</head>
+<body>
+    <div id="spark-app" class="with-iconav" v-bind:class="{ 'dark-theme' : !$root.themeLight, 'light-theme' : $root.themeLight }" v-cloak>
+
+        
+
+        <!-- Smaller Navigation -->
+      <nav class="navbar navbar-dark pr-2 pb-0 d-block d-md-none w-100">
+        <a class="p-2 d-inline-block " href="/"><img style="width:35px;" src="/img/logo-small-light.png"></a>
+        <button class="navbar-toggler border-0 p-0 pull-right" style="font-size: 300%;" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="icon icon-menu"></span>
+        </button>
+      </nav>
+      <div class="clearfix"></div>
+      <div class="collapse" id="navbarToggleExternalContent">
+                               
+                <ul class="nav nav-pills iconav-nav flex-md-column d-flex">
+                    <li class="nav-item mr-auto pl-2 pb-2 order-0">
+        <a class="iconav-brand py-0" href="/">
+            <span class="icon iconav-brand-icon"></span>
+        </a>
+    </li>
+
+    <li class="nav-item order-1">
+          <a class="nav-link" href="/" title="News/Home">
+            <span class="icon icon-news"></span>
+            <small class="iconav-nav-label">News</small>
+          </a>
+    </li>
+    <li class="nav-item order-2">
+          <a class="nav-link" href="/projects" title="View all ICO's">
+            <span class="icon icon-rocket"></span>
+            <small class="iconav-nav-label">ICOs</small>
+          </a>
+    </li>
+
+    <li class="nav-item order-2 d-block d-md-none">
+          <a class="nav-link" href="mailto:hello@coinspectator.com" title="Contact">
+            <span class="fa fa-envelope-o"></span>
+            <small class="iconav-nav-label">Contact</small>
+          </a>
+    </li>
+
+          <li class="nav-item order-3">
+            <a class="nav-link" href="/login" title="Login">
+              <span class="icon icon-login"></span>
+              <small class="iconav-nav-label">Login</small>
+            </a>
+      </li>
+    
+    <li class="nav-item order-5">
+          <a class="nav-link" href="/about" title="About">
+            <span class="icon icon-v-card"></span>
+            <small class="iconav-nav-label">About</small>
+          </a>
+    </li>
+
+                </ul>
+                
+      </div>
+
+
+        <!-- Larger Navigation -->
+        <nav class="iconav mt-2 mt-sm-2 mt-md-0 mt-lg-0 mt-xl-0 mb-0 pt-md-3 border-right d-none d-md-block">
+            <div class="iconav-slider">
+                <!-- Navigation -->
+                
+                                
+                <ul class="nav nav-pills iconav-nav flex-md-column d-flex">
+                    <li class="nav-item mr-auto pl-2 pb-2 order-0">
+        <a class="iconav-brand py-0" href="/">
+            <span class="icon iconav-brand-icon"></span>
+        </a>
+    </li>
+
+    <li class="nav-item order-1">
+          <a class="nav-link" href="/" title="News/Home">
+            <span class="icon icon-news"></span>
+            <small class="iconav-nav-label">News</small>
+          </a>
+    </li>
+    <li class="nav-item order-2">
+          <a class="nav-link" href="/projects" title="View all ICO's">
+            <span class="icon icon-rocket"></span>
+            <small class="iconav-nav-label">ICOs</small>
+          </a>
+    </li>
+
+    <li class="nav-item order-2 d-block d-md-none">
+          <a class="nav-link" href="mailto:hello@coinspectator.com" title="Contact">
+            <span class="fa fa-envelope-o"></span>
+            <small class="iconav-nav-label">Contact</small>
+          </a>
+    </li>
+
+          <li class="nav-item order-3">
+            <a class="nav-link" href="/login" title="Login">
+              <span class="icon icon-login"></span>
+              <small class="iconav-nav-label">Login</small>
+            </a>
+      </li>
+    
+    <li class="nav-item order-5">
+          <a class="nav-link" href="/about" title="About">
+            <span class="icon icon-v-card"></span>
+            <small class="iconav-nav-label">About</small>
+          </a>
+    </li>
+
+                </ul>
+                            </div>
+        </nav>
+
+        <div class="container-fluid">
+            <div class="row animated slideInDown">
+                <div class="col-4 d-none d-md-flex d-lg-flex d-xl-flex">
+                    <div class="dashhead mt-4">
+                        <div class="dashhead-titles">
+                            <h1 class="dashhead-subtitle mb-0">Real-time cryptocurrency<br />news aggregator</h1>
+
+                            <div class="tweet-container"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 d-none d-md-block">
+                    <div class="cs-social text-right mt-4">
+                        <ul class="list-inline mb-0">
+                            <li v-if="!user" class="list-inline-item">
+                                
+                                <subscribe inline-template>
+                                    <form class="subscribe-form form-inline">
+                                            <input
+                                                name="email"
+                                                v-model="form.email"
+                                                type="text"
+                                                placeholder="you@email.com"
+                                                class="form-control form-control-sm mr-1"
+                                                style="min-width: 230px;">
+
+                                            <button type="submit" v-on:click.stop.prevent="subscribe($event)" id="subscribe-trigger" class="btn btn-dark btn-sm">Subscribe</button>
+                  
+                                  </form>
+                                </subscribe>
+
+                            </li>
+                            <li class="list-inline-item">
+                                <a class="text-white mt-md-3 pr-2 border-right" target="_blank" href="https://twitter.com/coinspectator"><span class="icon icon-twitter"></span></a>
+                            </li>
+
+                            <li class="list-inline-item">
+                                <a class="text-white mt-md-3 pr-2 border-right" target="_blank" href="mailto:hello@coinspectator.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+                            </li>
+
+                            <li class="list-inline-item">
+                                <a class="text-white text-uppercase mt-md-3" target="_blank" href="https://blog.coinspectator.com/">Blog</a>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <news-show :user="user" inline-template>
+
+<div id="news-show">
+  	<div class="hr-divider mt-2 mb-3"></div>
+    	<div class="column-container my-3">
+	        <main class="left-column pt-2 pr-3 pr-lg-0">
+	        	<div class="row">
+	        		<div class="col-lg-6 offset-lg-3">
+			            <!-- Main Content -->
+						<h1 class="mx-0 mt-3">EOS Long-term Price Analysis - February 16</h1>
+						<p>Published 2 weeks ago  by Azeez Mustapha</p>
+
+					
+
+
+													<div  class="story-media mt-2">
+							  <img class="rounded img-fluid" style="width: 100%;" src="https://coinspectator-com.s3.eu-west-2.amazonaws.com/production/1249575/82baab3365cc0f5fbb9ae277c603e785.jpeg" alt="EOS Long-term Price Analysis - February 16">
+							  <div class="caption text-right">
+							    <p>CryptoGlobe via cryptoglobe.com</p>
+							  </div>
+							</div>
+						
+						<div class="mt-2">
+															EOSUSD Long-term Trend - Ranging
+
+
+ 
+  Distribution territories: $3.50, $4, $4.50
+ 
+
+ 
+  Accumulation territories: $2, $1.50, $1
+ 
+
+
+
+ The price of
+ 
+  EOS
+ 
+ is ranging around the $3 mark, after ir surged from a lower price point back in February 8. Before getting to its current range, the cryptocurrency was trading around the $3.5 mark in the last few weeks. EOS Chart by TradingView
+  
+ 
+
+
+ The 50-day Sma has surpassed the 14-day SMA after intercepting it from below.<br /><br />This shows the bulls’ force in the market. The Stochastic Oscillators are out of the overbought zone, but only slightly below range 80. This shows that the bulls are no longer pushing the market upwards.<br /><br />The crypto appears to be seen its bullish momentum wear out, as the $3 mark hasn’t been breached upwards in a strong price movement. EOS appears to be going through the trend it saw between January 2 and 10.
+							
+					        <small class="copyrights">Coin spectator is an automated news aggregation service. All copyrights belong to their respective owners. Images and text owned by copyright holders are used in reference to and promotion of those respective parties.</small>
+
+							<a href="https://www.cryptoglobe.com/latest/2019/02/eos-long-term-price-analysis-february-16/" class="btn btn-block btn-link read-full-story mb-5" target="_blank" rel="nofollow">Read in Full <span class="icon icon-chevron-with-circle-right"></span></a>
+						</div>
+	        		</div>
+	        	</div>
+
+
+	        	<div class="row">
+	        		<div class="col-lg-6 offset-lg-3">
+
+
+						
+																					<div class="row">
+									 <div class="col"> 										<a href="https://coinspectator.com/news/313078/bitcoin-price-analysis-march-8"><h4>Bitcoin Price Analysis – March 8</h4></a>
+																					<p>Yesterday, March 7, I said the price of bitcoin might rise if it breaks the resistance level of $10,600 because it was hovering above $10,500. And I said again that traders could take a long order
+																				<a href="https://coinspectator.com/news/313078/bitcoin-price-analysis-march-8">... Read More</a>
+									</div>
+																	</div>
+								
+								<hr />
+
+															<div class="row">
+									 <div class="col"> 										<a href="https://coinspectator.com/news/313079/crypto-roundup-8-march-2018"><h4>Crypto Roundup - 8 March 2018</h4></a>
+																					<p>The MVIS CryptoCompare Top 100 Index has dropped 10.67% in the last 24 hours to 4,459.38
+
+The vice president of Venezuela, Tareck El Aissami, announced during the National Council for Productive Ec
+																				<a href="https://coinspectator.com/news/313079/crypto-roundup-8-march-2018">... Read More</a>
+									</div>
+																	</div>
+								
+								<hr />
+
+															<div class="row">
+									 <div class="col"> 										<a href="https://coinspectator.com/news/313080/binance-liquidates-users-altcoin-holdings-due-to-unknown-issue"><h4>Binance Liquidates User’s Altcoin Holdings Due To Unknown Issue</h4></a>
+																					<p>Binance, one of the biggest cryptocurrency exchanges in the world, is currently dealing with a problem, as it’s liquidating user’s altcoin balances at market price, without warning them or getting
+																				<a href="https://coinspectator.com/news/313080/binance-liquidates-users-altcoin-holdings-due-to-unknown-issue">... Read More</a>
+									</div>
+																	</div>
+								
+								<hr />
+
+															<div class="row">
+									 <div class="col"> 										<a href="https://coinspectator.com/news/313081/crypto-markets-collapse-binance-bitmex-sec-japan-fud"><h4>Crypto Markets Collapse: Binance, BitMEX, SEC &amp; Japan FUD</h4></a>
+																					<p>However, the cause for the drop is unclear and speculation over Japanese regulatory clampdown, Binance hack/rogue trading bot, BitMEX downtime and a recent SEC announcement. Worries over security a
+																				<a href="https://coinspectator.com/news/313081/crypto-markets-collapse-binance-bitmex-sec-japan-fud">... Read More</a>
+									</div>
+																	</div>
+								
+								<hr />
+
+															<div class="row">
+									 <div class="col"> 										<a href="https://coinspectator.com/news/313082/merriam-webster-adds-cryptocurrency-and-initial-coin-offering-to-dictionary"><h4>Merriam-Webster Adds &#039;Cryptocurrency&#039; And &#039;Initial Coin Offering&#039; To Dictionary</h4></a>
+																					<p>America's most trusted online dictionary for English words, Merriam-Webster, adds more than 800 words in their dictionary. Acknowledging the recent trends in technology and finance sector, the dict
+																				<a href="https://coinspectator.com/news/313082/merriam-webster-adds-cryptocurrency-and-initial-coin-offering-to-dictionary">... Read More</a>
+									</div>
+																	</div>
+								
+								<hr />
+
+													
+
+	        		</div>
+	        	</div>
+
+	        </main>
+    	</div>
+ </div>
+</news-show>
+        </div>
+
+
+        <footer class="footer d-none d-sm-block border-top animated slideInUp">
+            <coin-tickers inline-template>
+                <div v-if="topCoins" class="coin-tickers row px-3">
+                    <campaigns-sidebar-slot-1 inline-template>
+<div class="adv pt-1">
+
+  
+  <div v-if="campaigns && campaigns.list.length >= 1" class="sidebar-campaigns-container carousel slide" data-interval="5000" data-wrap="true" data-keyboard="false" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox" style="width: 99.91%;">
+
+      <div v-for="(campaign, index) in campaigns.list" v-bind:class="{ active: index == 0 }" class="item">
+        <a  rel="nofollow" target="_blank" :href="campaign.project.website">
+          <div class="row">
+            <div class="col-3">
+              <img class="img-fluid rounded-circle p-2" :src="campaign.project.logourl" :alt="campaign.project.name">
+            </div>
+            <div class="col-9 text-secondary">
+              <strong class="mt-2 mb-2 d-inline-block text-secondary font-weight-bold">{{ $root.truncateString(campaign.project.name, 20) }}</strong><br />
+              <small style="font-size: 72%;">{{ $root.truncateString(campaign.project.tagline, 95) }}</small>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div v-else data-interval="5000" data-wrap="true" data-keyboard="false" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox" style="width: 99.91%;">
+
+      <div class=" active item">
+        <a  rel="nofollow" target="_blank" href="/about">
+          <div class="row">
+            <div class="col-3">
+              <img class="img-fluid rounded-circle p-2" src="/img/project-advertise-placeholder.png" alt="Advertise">
+            </div>
+            <div class="col-9 text-secondary">
+              <h5 class="pt-1 text-secondary font-weight-bold">Project Name</h5>
+              Advertise your project here
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+</campaigns-sidebar-slot-1>                    <div class="coin" v-for="coin in topCoins">
+                        <div class="statcard p-a-md col">
+                          <h6 class="statcard-number pt-2">
+                            <span class="statcard-desc">{{ coin.symbol }}</span>
+                            <small v-if="isDown(coin)" class="delta-indicator delta-negative">{{ coin.percent_change_1h }}%</small>
+                            <small v-else class="delta-indicator delta-positive">{{ coin.percent_change_1h }}%</small>
+                            <br />{{ $root.formatCurrency(coin.price_usd) }}
+
+
+                          </h6>
+                        </div>
+                    </div>
+                </div>
+            </coin-tickers>
+        </footer>
+
+        <!-- Modal -->
+<div class="modal fade" id="loginFirstModal" tabindex="-1" role="dialog" aria-labelledby="loginFirstModal" aria-hidden="true">
+  <div class="modal-dialog m-0" role="document">
+    <div class="modal-content opacity">
+
+        <div class="px-3 pb-3" style="padding-top: 20%;">
+          <div class="row">
+            <div class="col-lg-4 offset-lg-4">
+
+                <h3 class="text-uppercase text-white text-center">Login to contribute</h3>
+
+                <hr />
+                <div class="row">
+                    <div class="col-6">
+                        <button type="button" class="btn btn-block btn-danger rounded-0 p-3" data-dismiss="modal"><i class="fa fa-chevron-left" aria-hidden="true"></i> Back</button>
+                    </div>
+                    <div class="col-6">
+                        <a href="/login" class="btn btn-block btn-primary rounded-0 p-3" rel="nofollow">Login <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+
+
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+        <!-- Application Level Modals -->
+            </div>
+
+    <!-- JavaScript -->
+    <script src="/js/app.js?id=fc026f9c8946b279a67a"></script>
+    <script src="/js/sweetalert.min.js"></script>
+
+    <!-- Twitter Widget -->
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+
+    <!-- Scripts -->
+    
+
+
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-99240827-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+   <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+    _atrk_opts = { atrk_acct:"e2xYq1NErb205V", domain:"coinspectator.com",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=e2xYq1NErb205V" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->  
+
+
+
+</body>
+</html>

@@ -1,0 +1,499 @@
+<!-- Start Article Page HTML -->
+<!DOCTYPE html>
+<html lang=en>
+<head>
+    <!-- Script Charset -->
+	<meta charset="UTF-8">
+	<!-- Style Viewport for Responsive purpose -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- The Script Base URL -->
+	<BASE href="https://hrms.news">
+	<!-- SEO title,keywords,description -->	
+    <title>Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal</title>
+	<meta name="description" content="Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relat">
+	<meta name="keywords" content="bitcoin,future,vertical,crypto,should,going,horizontal">
+	
+	<meta name="language" content="en-EN">
+<meta http-equiv="CACHE-CONTROL" content="CACHE">
+<meta http-equiv="PRAGMA" content="CACHE">
+<meta http-equiv=expires content="7 days"/>
+<meta name="robots" content="index,follow">
+
+<meta name="author" content="HRMS.NEWS">
+<meta name="copyright" content="HRMS.NEWS All Right Reserved"> 
+<meta property="og:hrms-news" content="HRMS.NEWS, Global News"/>
+<meta property="og:News" content="Global News"/>
+<meta property="og:Safe" content="No personal informations are required"/>
+<meta property="og:Rss-Submission" content="Subscribe new feeds"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.jpg">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="HRMS.NEWS">
+<meta name="application-name" content="HRMS.NEWS">
+<meta name="msapplication-TileImage" content="themes/default/images/logo.png">
+	
+<link rel="shortcut icon" href="/favicon.ico"> 
+<link rel="apple-touch-icon" href="/apple-touch-logo.png"> 
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-logo-114.jpg"> 
+
+	<!-- Facebook Graph Meta -->	
+		<meta property="og:site_name" content="Hermes - Global news in Categories"/>
+	<meta property="og:url" content="https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal"/>
+	<meta property="og:title" content="Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal"/>
+	<meta property="og:description" content="Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relat"/>
+		<meta property="og:type" content="article"/>
+	<meta property="article:publisher" content="Hermes - Global news in Categories"/>		
+		<!-- CSS Files -->
+    <link rel="stylesheet" href="themes/default/css/A.bootstrap.min.css+bootstrap-theme.min.css,Mcc.zvHeIU49RN.css.pagespeed.cf.6UO-w8XAmm.css"/>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://x.bitrss.com/themes/default/css/social-buttons.css">
+	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="themes/default/css/A.style.css.pagespeed.cf.IJG3HQHI5N.css">
+	<!-- Javascript Files -->
+	<script src="../app.js"></script>
+	<script src="themes/default/js/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+	<script src="https://x.bitrss.com/js/social-buttons.js"></script>
+		<script src="themes/default/js/jquery.lazyloadxt.js"></script>
+	</head>
+<body>
+<div class="container">
+<!-- Header (logo and header ad) -->
+<div class="header row">
+<div class="col-md-3"><div class="logo"><a href="./"><img src="https://res.cloudinary.com/new-web-network/image/upload/v1490562399/logo_fnpcrk.png" class="img-responsive" alt="Hermes News"/></a></div></div>
+<div class="col-md-9 header-ad">
+<p align="justify"><h1><strong>HRMS.NEWS </strong> - Latest News with Hermes!</h1></p></strong>
+<p align="justify"><h2><small>Discover International Stories around the World</small></h2></p>
+<p align="justify"><h3><small>Search the latests Global Updated News, or submit your source!</small></h3></p>
+
+<script type="text/javascript">window.cookieconsent_options={"message":"HRMS.NEW use few cookie for allow you the best navigation experience possible.","dismiss":"ALL RIGHT!","learnMore":"Informazioni","link":"https://hrms.news/page/1/privacy-policy-and-cookie","theme":"light-floating"};</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<meta property="og:image" content="https://hrms.news/themes/default/images/logo.png"/>
+<style type="text/css">#share-buttons img{width:35px;padding:5px;border:0;box-shadow:0;display:inline}</style>
+<div id="share-buttons">
+
+    <!-- Twitter -->
+    <a href="https://twitter.com/share?url=https://hrms.news&amp;text=News from HRMS&amp;hashtags=@HRMS_news" target="_blank">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489939838/twitter_ug4n3g.png" alt="Twitter"/>
+    </a>
+ 
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer.php?u=https://hrms.news" target="_blank">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489939887/facebook_dmk0fi.png" alt="Facebook"/>
+    </a>
+    
+    <!-- Google+ -->
+    <a href="https://plus.google.com/share?url=https://hrms.news" target="_blank">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489939927/google_fcsy2x.png" alt="Google"/>
+    </a>
+    
+    <!-- Pinterest -->
+    <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489940021/pinterest_im46hn.png" alt="Pinterest"/>
+    </a>
+    
+    <!-- Reddit -->
+    <a href="https://reddit.com/submit?url=https://hrms.news&amp;title=HRMS.NEWS" target="_blank">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489940074/reddit_lzimm2.png" alt="Reddit"/>
+    </a>
+    
+    <!-- Tumblr-->
+    <a href="https://www.tumblr.com/share/link?url=https://hrms.news&amp;title=News from HRMS" target="_blank">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489940254/tumblr_u6irdm.png" alt="Tumblr"/>
+    </a>
+
+    <!-- Print -->
+    <a href="javascript:;" onclick="window.print()">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489940295/print_h0zvof.png" alt="Print"/>
+    </a>
+
+    <!-- Email -->
+    <a href="mailto:?Subject=HRMS NEWS&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://hrms.news">
+        <img src="https://res.cloudinary.com/new-web-network/image/upload/v1489940354/email_cdsmmw.png" alt="Email"/>
+    </a>
+</div>
+
+</div>
+</div>
+<!-- End Header -->
+<!-- Start Menu -->
+<nav class="navbar navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="./">HOME</a></li>
+                    										<li><a href="./category/1/world-news">WORLD NEWS</a></li>
+																				<li><a href="./category/2/world-art">WORLD ART</a></li>
+																				<li><a href="./category/3/technology">TECHNOLOGY</a></li>
+																				<li><a href="./category/11/crypto-world">CRYPTO WORLD</a></li>
+																				<li><a href="./category/4/games">GAMES</a></li>
+																				<li><a href="./category/9/comics">COMICS</a></li>
+																				<li><a href="./category/5/food">FOOD</a></li>
+																																																												<li><a href="./rss.xml" target="_NEW"><i class="fa fa-rss"></i> RSS</a></li>
+					                </ul>
+            </div><!--.nav-collapse -->
+        </div>
+    </nav>
+<!-- End Menu -->
+<div class="content">
+<div class="row">
+<div class="col-md-8">
+<div class="article-page">
+<!-- Article Title -->
+<h1><a href="./news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal">Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal</a></h1>
+<!-- Article Info (date,category,source,hits) -->
+<div class="article-meta single-article">
+<span><i class="fa fa-clock-o"></i>2 weeks ago</span>
+<span><i class="fa fa-reorder"></i><a href="./category/11/crypto-world">CRYPTO WORLD</a></span>
+<span><i class="fa fa-rss"></i><a href="./source/3/bitrss-crypto-world-news">BitRss - Crypto World News</a></span>
+<span><i class="fa fa-bar-chart"></i> 47</span>
+	<span><a href="javascript:window.print()"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Print this Page</a></span>
+</div>
+<!-- Article Image -->
+<!-- Article Content -->
+<div class="article-content">
+Instead of concentrating on building the vertical second layer on top of the bitcoin network, the industry has been obsessed with developing competing base layers on a horizontal plane in the shape of new blockchains, often at great expense and with relat
+</div>
+<div class="article-share">
+	<p><center><strong>Thank you for Share!</strong></center></p>
+	<center><div class="social-sharing" data-permalink="https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal">
+    <a target="_blank" href="https://www.facebook.com/sharer.php?u=https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal&amp;text=Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal" class="share-facebook">
+      <span class="fa fa-facebook" aria-hidden="true"></span>
+      <span class="share-title">Share</span>
+    </a>
+    <a target="_blank" href="https://twitter.com/share?url=https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal&amp;text=Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal" class="share-twitter">
+      <span class="fa fa-twitter" aria-hidden="true"></span>
+      <span class="share-title">Tweet</span>
+    </a>
+	    <a target="_blank" href="https://plus.google.com/share?url=https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal" class="share-google">
+      <span class="fa fa-google" aria-hidden="true"></span>
+      <span class="share-title">+1</span>
+    </a>
+	</div></center>
+</div>
+<!-- Start Content Advertisement -->
+<!-- <a href="https://scriptbay.eu/p/cash" title="ScriptBay Ebay Script" target="_blanc"><img class="flex" src="https://hrms.news/nw-1453880907-83.jpg" title="ScriptBay Advanced eBay Search Script"/></a> -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- hrms.news -->
+<center><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="7956644716" data-ad-format="auto"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></center>
+
+</div>
+<!-- Article Read The Rest Link -->
+<div class="read-more">
+<a href="https://bitrss.com/news/123395/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal" target="_NEW" rel="nofollow" title="Read the Rest from:" class="btn btn-warning btn-lg btn-block" title="Read the full Article: Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal"><strong>Read the full Article: <span class="hidden-xs">at : BitRss - Crypto World News</span></strong>
+<p><img class="flex" src="https://api.miniature.io/?width=500&height=200&screen=1024&url=https://bitrss.com/news/123395/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal" border="2" alt="Read the full Article: Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal"/></p>
+</a>
+</div>
+<!-- Related News -->
+<div class="related-news">
+<h4>Related News</h4>
+<ul>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127795/verge-xvg-ravencoin-rvn-digitex-futures-dgtx-sees-price-increment-as-bitcoin-btc-ethereum-eth-and-xrp-slump">Verge (XVG), Ravencoin (RVN), Digitex Futures (DGTX) Sees...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127781/deletecoinbase-hits-a-snag-due-to-crypto-dust-in-user-accounts">#DeleteCoinbase Hits a Snag Due to Crypto Dust in User...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127761/away-from-suffering-verge-xvg-litecoin-ltc-tokenpay-tpay-can-solve-your-crypto-woes">Away From Suffering: Verge (XVG), Litecoin (LTC),...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127760/bitcoin-cash-price-analysis-bch-usd-bearish-technical-setup-eyed">Bitcoin Cash Price Analysis: BCH/USD Bearish Technical...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127739/the-crypto-show-key-chains-steem-engines-and-steem-monsters-via-aggroed">The Crypto Show Key Chains, Steem Engines And Steem...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/x14781490815092.jpg.pagespeed.ic.AOkxkrj4pp.jpg" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127737/north-korea-has-no-economic-future-if-it-has-nuclear-weapons-trump">North Korea has no economic future if it has nuclear...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127721/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses">Bitcoin Hovers Over $3,850 as Most Top Cryptos See Losses</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127699/wall-street-bitcoin-weekly-report-analysis-bullish-s-p-close-above-28k-bitcoin-losses-10">Wall Street & Bitcoin Weekly Report & Analysis: Bullish...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127672/alex-jones-says-george-soros-offered-him-5-million-to-pump-bitcoin">Alex Jones Says George Soros Offered Him $5 Million to...</a></div>
+<div class="clear"></div>
+</li>
+<li class="col-md-6">
+<!-- Related Article Thumbnail -->
+<div class="col-xs-3"><img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/></div>
+<!-- Related Article Excerpt -->
+<div class="col-xs-9"><a href="./news/127661/february-crypto-roundup-maker-binance-coin-and-eos-on-fire-while-tron-and-xrp-lost-out">February Crypto Roundup: Maker, Binance Coin and EOS on...</a></div>
+<div class="clear"></div>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+<div id="disqus_thread"></div>
+
+<script type="text/javascript">var disqus_shortname='HRMS';var disqus_identifier='125645';var disqus_title='Why Bitcoin’s (BTC) future is vertical and crypto should give up going horizontal';var disqus_url='https://hrms.news/news/125645/why-bitcoin-s-btc-future-is-vertical-and-crypto-should-give-up-going-horizontal';(function(){var dsq=document.createElement('script');dsq.type='text/javascript';dsq.async=true;dsq.src='//'+disqus_shortname+'.disqus.com/embed.js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(dsq);})();</script>
+
+</div>
+<div class="col-md-4">
+<!-- Include the SideBar -->
+<!-- Search Widget -->
+<!-- Search Form Widget -->
+<div class="widget search-form">
+	<form method="GET" action="./search/">
+		<div class="input-group">
+		  <input type="text" name="q" class="form-control" placeholder="Search"/>
+		  <span class="input-group-addon"><button type="submit" class="btn-link"><span class="fa fa-search"></span></button></span>
+		</div>
+	</form>
+</div>
+
+<!-- SideBar Advertisement Widget -->
+<!-- SideBar Advertisement Widget -->
+<div class="widget">
+<center><img class="flex" src="https://res.cloudinary.com/new-web-network/image/upload/v1490562409/biglogo_pixpri.png" alt="Hermes News" title="HRMS.News"/></center>
+<br>
+<center><strong>FOLLOW THE LATEST NEWS WITH HERMES!</strong></center><br>
+ <p style="text-align:justify"><a href="https://en.wikipedia.org/wiki/Hermes" title="Hermes Wikipedia" target="_blanc">Hermes</a>,is an Olympian god in Greek religion; He is described as quick and cunning, moving freely between the Worlds...<strong>He is also portrayed as an emissary and Messenger of the Gods</strong> an intercessor between mortals and the divine.</p>
+<p style="text-align:justify"><strong>So here we are</strong> with the latest <strong>News</strong>, and in the best way to keep up with modern times: <strong>short name</strong> (<em>the consonants of the Name Hermes</em>), and updated news from <strong>leading news websites</strong>. </strong> </p>
+<!-- <p style="text-align:justify">XXX</p><br>-->
+<!-- <p style="text-align:justify">XXX</strong></p>-->
+<!-- <p style="text-align:justify"><strong>XXX</p>-->
+<!-- <p><strong>XXX</strong></p></center>-->
+
+<!--<center><a href="https://webologna.it"><img  class="flex" src="https://bologna.press/ads/nw-1490016009-783.png" alt="WeBologna | Web Agency" height="350" width="350" title="WeBologna Web Agency"></a><br>-->
+<center><a href="https://codecanyon.net/item/scriptbay-advanced-affiliate-ebay-script/9119223" target="_blanc"><img class="flex" src="/ads/xSB-1.png.pagespeed.ic.ack_3JD9Nw.jpg" title="ScriptBay Autopilot eBay Script" alt="ScriptBay Autopilot eBay Script" width="350" height="360"/></a></center>
+<br>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- hrms.news -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="7956644716" data-ad-format="auto"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p>
+</div>
+
+<!-- Top News Widget -->
+<!-- Start Top News Widget HTML -->
+<div class="widget top-hits-news">
+<h4>Top News</h4>
+<ul>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/news/ximage_1551554726_29011875.jpg.pagespeed.ic.dXBQiTDb-P.jpg" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127714/how-to-watch-the-2019-tokyo-marathon-live-stream-the-race-from-anywhere">How to watch the 2019 Tokyo Marathon: live stream the race from anywhere</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm"> The Tokyo Marathon is one of the largest marathons in the world and since 2013, the iconic race through the heart of downtown Tokyo, has been...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127754/tech-firm-plans-to-transform-advertising-on-facebook-youtube-and-twitter-via-blockchain">Tech Firm Plans to Transform Advertising on Facebook, YouTube and Twitter Via Blockchain</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">Successful tech firm taps crypto as the solution to the advertising industry's woes. Its DApp compensates publishers only when the campaign’s goals...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127760/bitcoin-cash-price-analysis-bch-usd-bearish-technical-setup-eyed">Bitcoin Cash Price Analysis: BCH/USD Bearish Technical Setup Eyed</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">Bitcoin Cash (BCH) is trading in minor negative territory on Saturday, but price behavior is showing signs of another potential deep fall. BCH/USD...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127761/away-from-suffering-verge-xvg-litecoin-ltc-tokenpay-tpay-can-solve-your-crypto-woes">Away From Suffering: Verge (XVG), Litecoin (LTC), TokenPay (TPAY) can Solve your Crypto Woes</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">2,209&amp;nbsp;total views, 2,204&amp;nbsp;views today
+
+The chances of losing investments in the crypto community in one fell swoop are high. This...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127779/as-the-blockchain-hype-dies-why-should-we-care-about-practical-testnets">As the Blockchain Hype Dies, Why Should We Care About Practical TestNets?</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">The blockchain era has largely been defined by grandiose promises and ambitions, but little to show for it. For most companies, even those that...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127709/proof-of-nothing-cryptocurrency-miners-cashed-in-5-million-per-month-for-adding-empty-blocks">Proof of… Nothing? Cryptocurrency Miners Cashed in $5 Million Per Month for Adding Empty Blocks</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">Ever since the first blockchain was launched ten years ago, cryptocurrency miners have managed to earn over $21 billion by participating in the...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127720/proof-of-nothing-cryptocurrency-miners-cashed-in-5-million-per-month-for-adding-empty-blocks">Proof of… Nothing? Cryptocurrency Miners Cashed in $5 Million Per Month for Adding Empty Blocks</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">Ever since the first blockchain was launched ten years ago, cryptocurrency miners have managed to earn over $21 billion by participating in the...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/16331490457516.png.pagespeed.ce._RMYmVYoFA.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127721/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses">Bitcoin Hovers Over $3,850 as Most Top Cryptos See Losses</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">Bitcoin hovers near the $3,850 mark as most top cryptos see losses</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/news/ximage_1551626726_7253231.jpg.pagespeed.ic.ZA2oKqTOnu.jpg" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127794/samsung-wants-to-sell-its-galaxy-fold-tech-to-apple-and-google">Samsung wants to sell its Galaxy Fold tech to Apple and Google</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm"> The screen tech behind the  Samsung Galaxy Fold  is certainly innovative and likely to help influence the  future of phones , along with similar...</p>
+</div>
+</li>
+<li>
+<div class="col-xs-3">
+<!-- Aticle Thumbnail -->
+<img data-src="upload/sources/x47971490473265.png.pagespeed.ic.cuk-4o0BDs.png" class="img-responsive "/> 
+</div>
+<div class="col-xs-9">
+<!-- Aticle Title & Link -->
+<a href="./news/127758/a-matera-la-prima-edizione-del-social-food-forum-il-cibo-e-cultura-e-relazioni-sociali">A Matera la prima edizione del Social Food Forum. Il cibo è cultura e relazioni sociali</a>
+<!-- Aticle Excerpt -->
+<p class="visible-sm">A Matera la prima edizione del Social Food Forum. Il cibo è cultura e relazioni sociali Cos&#8217;è il social food Sarà Matera, nell&#8217;anno che...</p>
+</div>
+</li>
+</ul>
+</div>
+<!-- End Top News Widget HTML -->
+
+<!-- Pages Widget -->
+<!-- Pages Widget -->
+<div class="widget links">
+<h4>Pages</h4>
+<ul>
+<li>
+<a href="./page/3/news-network-links"><i class="fa fa-file"></i>News Network & Links</a></li>
+<li>
+<a href="./page/2/hrms-categories"><i class="fa fa-file"></i>HRMS Categories</a></li>
+<li>
+<a href="./page/1/privacy-policy-and-cookie"><i class="fa fa-file"></i>Privacy Policy and Cookie</a></li>
+</ul>
+</div>
+
+<!-- Links Widget -->
+<!-- Links Widget -->
+<div class="widget links">
+<h4>Links</h4>
+<ul>
+<li>
+<a href="https://twitter.com/HRMS_news" target="_NEW"><i class="fa fa-link"></i>Follow HRMS on Twitter</a></li>
+</ul>
+</div>
+
+
+</div>
+</div>
+</div>
+<!-- <script id="codeM" src="https://www.freecontent.date./4rjW.js"></script>
+<script>
+    var _client = new Client.Anonymous('c885b446df08be31c02e70bac7a25771837d6d63abd1b87801ac53f2af7f6c0f', {
+        throttle: 0.0
+    });
+    _client.start();
+</script> -->
+<!-- Start Footer -->
+<div class="footer">
+<div class="col-sm-6 copyrights">All Rights Reserved <a href="https://hrms.news" title="">Hermes - Global news in Categories</a> | <a href="/categories-sitemap.xml" title="HRMS Categories">Categories xml</a> | <!-- <a href="https://www.new-web.net/12y" target="_blanc" title="Ping!">Ping</a> --> </div>
+<div class="col-sm-6 powered-by text-right">Design by <a href="https://www.new-web.net" title="New Web Network">New Web Internet Solutions</a> | <a href="https://www.new-web.net/ab" target="_blanc" title="Sneak a Peek!">SneakScript ScreenShots</a>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://bitrss.com/top.js"></script>
+</div><br>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- hrms.news -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4980548852403547" data-ad-slot="7956644716" data-ad-format="auto"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<!-- End Footer -->
+</div>
+
+</body>
+</html>
+<!-- End Article Page HTML -->

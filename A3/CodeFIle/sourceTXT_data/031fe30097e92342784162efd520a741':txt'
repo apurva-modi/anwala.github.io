@@ -1,0 +1,16 @@
+By Cali Haan
+Unsecured databases hosted on the free and open-source cross-platform database MongoDB are still being attacked by hackers demanding Bitcoin ransoms, says Zero Day , albeit less effectively than before.
+Reports of hack exploitation of MongoDB data first surfaced in December 2016, “when hackers realized they could extort payments from companies that had left their MongoDB databases exposed on the internet.”
+This lucrative realization on the part of hackers and foolishness on the part of database admins lead to what would go on to be dubbed “The MongoDB Apocalypse,” as hackers “ransacked” more than 28 000 servers in the first two months of 2017.
+The attacks initially involved hackers copying exposed data and then deleting it at MongoDB.
+Hackers would then email victims and demand a ransom of Bitcoins to return their data.
+Later, hackers reportedly realized that hosting the volumes of stolen data was prohibitive, and they simply began erasing it and hoping they could con the ransom anyway.
+MongoDB created a document to help users secure their data in early 2017, and as word of the attacks spread, hackers reportedly moved on to hassling naive users of ElasticSearch, Hadoop, CouchDB, Cassandra, and MySQL servers.
+The log shows that the latest attack occurred February 1st, 2019, and Gevers claims three new hackers have recently managed to exploit an additional 3000 new unsecured MongoDB databases.
+Gevers called these latest hackers “more clumsy” than previous ones, however:
+“Most of the time they forget to delete the database.”
+Ransom returns have been relatively low as well, with one hacker reportedly only garnering $200 for their efforts.
+Gevers also says that it appears hackers are buying the prepackaged exploit on the Dark Net, at the equivalent of a hacking junk market:
+“It’s clear  someone sold a toolkit  as each attack looks like the same as others…Only the email, Bitcoin address, and ransom note differ.”
+Sponsored Links by DQ Promote
+You may also like...

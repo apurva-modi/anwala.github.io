@@ -1,0 +1,21 @@
+Bitcoin Goes Offline
+ 
+When Jack Dorsey described Bitcoin as the ‘ native currency of the web ”, little may he have thought about the possibility of it functioning without any internet at all.  Experiments in making the network functional in the absence of an internet connection have been ongoing since 2017. The efforts have now begun bearing fruit as much of the world is now able to use Bitcoin by simply connecting antennas that relay data to ground stations, that in turn communicate with satellites. We take a look at how these systems function, the need for them and their future in today’s issue of the newsletter.
+ 
+To infinity and beyond
+In order for a censorship-resistant currency to be truly uncensorable, the mediums through which it reaches the end user needs to be outside the control of internet service providers. Blockstream’s satellites claim to broadcast the Bitcoin blockchain around the world, round the clock without any network interruptions. They currently cover North America, South America, Africa, Europe and Asia. Ground stations managed by Blockstream known as ‘teleports” relay data from regional transactions to geosynchronous satellites positioned 35,786 kilometres above the earth. Individuals can run a bitcoin node by simply using a USB based antenna to receive and send data from these teleports.  In case you'd like to tinker with setting up a node that's connected to satellites, here's a handy guide from Hackernoon.   A more comprehensive guide on making completely offline Bitcoin transactions can be found here.   
+Satellites are not the only medium through which experimentations in token transfers have occurred. Recently, Coinkite's founder Radolfo Novak made a cross-border Bitcoin transfer with the help of amateur, HAM radio. He transferred a string of characters representing a Bitcoin brainwallet  all the way from Toronto, Canada to Michigan, USA.  More on the event in Bitcoin's coverage here. 
+Image: Blocksteam's satellite details. 
+ 
+Why does this matter?
+To begin with, making Bitcoin’s blockchain independent of internet service providers increases the decentralisation of its network. Users in regions where there are strict regulations around the usage of tokens could rely on the service to send or receive capital without the intrusion of governments or banking entities. The utility of the network will be more useful in cases where a regional disaster wipes out local networks. The service can currently not only be used to transfer tokens but also encrypted messages which could be instrumental in nations where freedom of speech is restricted. Future iterations of the product could also relay Bitcoin’s price in real time. Long story short - satellite enabled Bitcoin transactions could be instrumental in ensuring the network is accessible, regardless of a nation’s stance towards it, network presence in a region or ISP based censorship. Additionally, it could also pave ways for over 1.7 billion people around the world without a functional internet connection to begin engaging with the Bitcoin network. One small step for a handful of satellites, a giant leap for the network!
+Readworthy
+Interesting Reads For The Weekend
+ 
+1. The gentrification of payments -   Roarmag
+2. What comes after open source  -  Denis Nazarov
+3. MakerDao revenue analysis -    Marc-André Dumas
+4. Circle Report on 2018 -  Circle
+From The Team
+Our team is proud to have been one of the judges at the MOBI hackathon organised in Munich this week. More on why it matters here .  In addition our Research Analyst, Vangelis Andrikopoulos was selected as a member of the  Forbes 30 under 30  list for the year. Hearty congratulations to him! 
+ 

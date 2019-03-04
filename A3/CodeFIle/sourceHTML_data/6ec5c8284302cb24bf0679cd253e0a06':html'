@@ -1,0 +1,1064 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video# ya: http://webmaster.yandex.ru/vocabularies/"> <!--<![endif]-->
+<head>
+    <title>Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application - Techterrene</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://techterrene.com/xmlrpc.php" />
+    <meta property="og:image" content="https://i0.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&ssl=1" /><link rel="icon" type="image/png" href="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg"><meta name="geo.placename" content="" /><meta name="geo.position" content=";" /><meta name="geo.region" content="" />
+<!-- This site is optimized with the Yoast SEO Premium plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://techterrene.com/?p=16261" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="place:location:latitude" content=""/>
+<meta property="place:location:longitude" content=""/>
+<meta property="business:contact_data:street_address" content=""/>
+<meta property="business:contact_data:locality" content=""/>
+<meta property="business:contact_data:country_name" content=""/>
+<meta property="business:contact_data:postal_code" content=""/>
+<meta property="business:contact_data:website" content="http://techterrene.com/"/>
+<meta property="business:hours:day" content="monday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="tuesday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="wednesday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="thursday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="friday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="saturday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="business:hours:day" content="sunday"/>
+<meta property="business:hours:start" content="09:00"/>
+<meta property="business:hours:end" content="17:00"/>
+<meta property="og:title" content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application - Techterrene" />
+<meta property="og:description" content="After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin. Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private &hellip;" />
+<meta property="og:url" content="https://techterrene.com/?p=16261" />
+<meta property="og:site_name" content="Techterrene" />
+<meta property="article:section" content="CRYPTOCURRENCY" />
+<meta property="article:published_time" content="2019-02-16T21:41:41+00:00" />
+<meta property="og:image" content="https://i1.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&#038;ssl=1" />
+<meta property="og:image:secure_url" content="https://i1.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&#038;ssl=1" />
+<meta property="og:image:width" content="1100" />
+<meta property="og:image:height" content="680" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin. Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private [&hellip;]" />
+<meta name="twitter:title" content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application - Techterrene" />
+<meta name="twitter:image" content="https://i0.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&#038;ssl=1" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Techterrene &raquo; Feed" href="https://techterrene.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Techterrene &raquo; Comments Feed" href="https://techterrene.com/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Techterrene &raquo; Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application Comments Feed" href="https://techterrene.com/?feed=rss2&#038;p=16261" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/techterrene.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://techterrene.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-email-subscribe-css'  href='https://techterrene.com/wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_automatic_gallery_style-css'  href='https://techterrene.com/wp-content/plugins/wp-automatic/css/wp-automatic.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='td-plugin-multi-purpose-css'  href='https://techterrene.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=9b761fb88cde3d1bd90677504fc739fc' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&#038;ver=9.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://techterrene.com/wp-content/themes/Newspaper/style.css?ver=9.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://techterrene.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://techterrene.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://techterrene.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://techterrene.com/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20181228'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-content/plugins/wp-automatic/js/main-front.js?ver=5.0.3'></script>
+<link rel='https://api.w.org/' href='https://techterrene.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://techterrene.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://techterrene.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://wp.me/paBRTf-4eh' />
+<link rel="alternate" type="application/json+oembed" href="https://techterrene.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261" />
+<link rel="alternate" type="text/xml+oembed" href="https://techterrene.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>			<script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/techterrene.com\/wp-admin\/","wpRestNonce":"57877d13fc","wpRestUrl":"https:\/\/techterrene.com\/index.php?rest_route=\/","permalinkStructure":""};
+			</script>
+			<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    			<style type="text/css">
+				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
+var td_ajax_url="https:\/\/techterrene.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=9.2.2";
+var td_get_template_directory_uri="https:\/\/techterrene.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="show_header_logo";
+var tds_header_style="11";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #67962e;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #67962e !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+    
+    
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
+    .td-header-style-4 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-5 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-6 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-style-12 .td-header-menu-social .td-social-icon-wrap i,
+    .td-header-wrap .header-search-wrap #td-header-search-button .td-icon-search {
+        color: #ffffff;
+    }
+    .td-header-wrap .td-header-menu-social + .td-search-wrapper #td-header-search-button:before {
+      background-color: #ffffff;
+    }
+    
+    
+    .td-header-wrap .td-logo-text-container .td-logo-text {
+        color: #51db32;
+    }
+
+    
+    .td-header-wrap .td-logo-text-container .td-tagline-text {
+        color: #ffffff;
+    }
+    
+   
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #81d742;
+    }
+
+    
+    .td-footer-wrapper .footer-social-wrap .td-icon-font {
+        color: #000000;
+    }
+</style>
+
+
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebSite",
+                    "@id": "https://techterrene.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://techterrene.com/?cat=9",
+                    "name": "CRYPTOCURRENCY"
+                }
+            }
+            ,{
+                "@type": "ListItem",
+                "position": 3,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://techterrene.com/?p=16261",
+                    "name": "Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application"                                
+                }
+            }    
+        ]
+    }
+</script>
+
+<!-- Button style compiled by theme -->
+
+<style>
+    
+</style>
+
+	<style id="tdw-css-placeholder"></style></head>
+
+<body class="post-template-default single single-post postid-16261 single-format-standard crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application global-block-template-10 td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://web.facebook.com/Techterrene-287008921963155" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/techterrene" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-main_menu-container"><ul id="menu-main_menu" class="td-mobile-main-menu"><li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-15"><a href="https://techterrene.com/?cat=4">ANDRIOD</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="https://techterrene.com/?cat=10">APPS</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="https://techterrene.com/?cat=3">AUTOS</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://techterrene.com/?cat=11">COMPUTING</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-19"><a href="https://techterrene.com/?cat=9">CRYPTOCURRENCY</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="https://techterrene.com/?cat=5">GAMING</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="https://techterrene.com/?cat=8">REVIEWS</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="https://techterrene.com/?cat=7">SCIENCE</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://techterrene.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        <!--
+Header style 11
+-->
+
+<div class="td-header-wrap td-header-style-11 ">
+    
+	<div class="td-header-top-menu-full td-container-wrap ">
+		<div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	</div>
+        <div class="td-header-sp-top-widget">
+    
+    </div>    </div>
+
+<!-- LOGIN MODAL -->
+		</div>
+	</div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        
+        <div class="td-header-menu-wrap td-header-gradient ">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+                <a class="td-main-logo" href="https://techterrene.com/">
+            <img class="td-retina-data" data-retina="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" src="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" alt=""/>
+        </a>
+        </div>
+    <div class="menu-main_menu-container"><ul id="menu-main_menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-15"><a href="https://techterrene.com/?cat=4">ANDRIOD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-16"><a href="https://techterrene.com/?cat=10">APPS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17"><a href="https://techterrene.com/?cat=3">AUTOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-18"><a href="https://techterrene.com/?cat=11">COMPUTING</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-19"><a href="https://techterrene.com/?cat=9">CRYPTOCURRENCY</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21"><a href="https://techterrene.com/?cat=5">GAMING</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-23"><a href="https://techterrene.com/?cat=8">REVIEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-24"><a href="https://techterrene.com/?cat=7">SCIENCE</a></li>
+</ul></div></div>
+
+<div class="td-header-menu-social">
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://web.facebook.com/Techterrene-287008921963155" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/techterrene" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></div>
+    <div class="header-search-wrap">
+        <div class="td-search-btns-wrap">
+            <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+        </div>
+
+        <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+            <form method="get" class="td-search-form" action="https://techterrene.com/">
+                <div role="search" class="td-head-form-search-wrap">
+                    <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                </div>
+            </form>
+            <div id="td-aj-search"></div>
+        </div>
+    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full  td-container-wrap ">
+        <div class="td-header-sp-logo">
+            		<a class="td-main-logo" href="https://techterrene.com/">
+			<img class="td-retina-data"  data-retina="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" src="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" alt="" />
+			<span class="td-visual-hidden">Techterrene</span>
+		</a>
+	        </div>
+    </div>
+
+    
+</div><div class="td-main-content-wrap td-container-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://techterrene.com/">Home</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="View all posts in CRYPTOCURRENCY" class="entry-crumb" href="https://techterrene.com/?cat=9">CRYPTOCURRENCY</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-16261" class="post-16261 post type-post status-publish format-standard has-post-thumbnail hentry category-cryptocurrency" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="https://techterrene.com/?cat=9">CRYPTOCURRENCY</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                                        <span class="td-post-date td-post-date-no-dot"><time class="entry-date updated td-module-date" datetime="2019-02-16T21:41:41+00:00" >February 16, 2019</time></span>                                                        </div>
+
+            </header>
+
+        </div>
+
+        <div class="td-post-sharing-top"><div id="td_social_sharing_article_top" class="td-post-sharing td-ps-bg td-ps-notext td-post-sharing-style1 "><div class="td-post-sharing-visible"><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-facebook"></i></div>
+                                        <div class="td-social-but-text">Facebook</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-twitter" href="https://twitter.com/intent/tweet?text=Crypto+Tidbits%3A+Meet+JP+Morgan+Coin%2C+SEC+Drops+Bitcoin+ETF+Application&url=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261&via=Techterrene">
+                                        <div class="td-social-but-icon"><i class="td-icon-twitter"></i></div>
+                                        <div class="td-social-but-text">Twitter</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-googleplus" href="https://plus.google.com/share?url=https://techterrene.com/?p=16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-googleplus"></i></div>
+                                        <div class="td-social-but-text">Google+</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://techterrene.com/?p=16261&amp;media=https://techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg&description=Crypto+Tidbits%3A+Meet+JP+Morgan+Coin%2C+SEC+Drops+Bitcoin+ETF+Application">
+                                        <div class="td-social-but-icon"><i class="td-icon-pinterest"></i></div>
+                                        <div class="td-social-but-text">Pinterest</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-whatsapp" href="whatsapp://send?text=Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application %0A%0A https://techterrene.com/?p=16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-whatsapp"></i></div>
+                                        <div class="td-social-but-text">WhatsApp</div>
+                                    </a></div><div class="td-social-sharing-hidden"><ul class="td-pulldown-filter-list"></ul><a class="td-social-sharing-button td-social-handler td-social-expand-tabs" href="#" data-block-uid="td_social_sharing_article_top">
+                                    <div class="td-social-but-icon"><i class="td-icon-plus td-social-expand-tabs-icon"></i></div>
+                                </a></div></div></div>
+
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><a href="https://i1.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&ssl=1" data-caption=""><img width="696" height="430" class="entry-thumb td-modal-image" src="https://i2.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?resize=696%2C430&ssl=1" srcset="https://i2.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?resize=696%2C430&#038;ssl=1 696w, https://i1.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?resize=1100%2C680&#038;ssl=1 1392w" sizes="(-webkit-min-device-pixel-ratio: 2) 1392px, (min-resolution: 192dpi) 1392px, 696px" alt="" title="shutterstock_1142996930-1100x680.jpg"/></a></div>
+        <p> <br />
+</p>
+<div id="">
+<p>After last week’s price action, the crypto market quieted down. Bitcoin entered a lull, while altcoins followed close behind. Yet, the wheels of the crypto train have continued to spin.</p>
+<p>Twitter CEO Jack Dorsey revealed that his fintech upstart would eventually integrate Bitcoin’s Lightning Network, JP Morgan launched its own digital asset on a private Ethereum-based chain, a Filipino banking giant launched crypto ATMs, and Chainalysis secured millions amid this market rut.</p>
+<h2><strong>Crypto Tidbits</strong></h2>
+<ul>
+<li><a href="https://www.newsbtc.com/2019/02/11/new-etf-proposal-allocates-25-of-its-portfolio-to-bitcoin-futures/" data-wpel-link="internal"><strong>Reality Shares Files Semi Bitcoin ETF, SEC Requests Application Withdrawal</strong></a>: Reality Shares, a California-based crypto-centric investment services provider, filed a peculiar application to the SEC, America’s leading financial regulator. This proposal outlined an ETF that was composed of both allocations in CME’s and CBOE’s Bitcoin futures and monetary instruments, like sovereign debt products denominated in the British Pound, Japanese Yen, Swiss Francs, among other government-issued currencies. But, in an odd turn of events, the governmental agency politely requested for Reality Shares to pull its innocuous application. Spokespeople told CoinDesk that the SEC enlisted such a move due to the fact that it wasn’t “appropriate to file a registered 40 Act fund with cryptocurrency exposure at this time.”</li>
+<li><strong><a href="https://www.newsbtc.com/2019/02/11/intercontinental-exchange-ice-chief-confident-about-future-for-bakkt-and-crypto/" data-wpel-link="internal">ICE CEO: Bakkt Is Our Moonshot Bet On Crypto</a></strong>: In the Intercontinental Exchange’s Q4 earnings call, chief executive Jeff Sprecher touched on crypto upstart Bakkt and its prospects in 2019. Sprecher, who is wed to the founder of Bakkt, explained that the company is “unique,” especially due to its independence and intentions. Yet, he explained that ICE has been able to apply its infrastructure — “settlement capabilities, warehouse and custody management capabilities, large treasury operations, and banking connectivity” — to the cryptocurrency venture. And thus, this “star power” has attracted “a lot of very very interesting companies,” such as Microsoft and Starbucks, giving Bakkt the potential to become a “very, very valuable company.” With all this in mind, the finance heavyweight concluded that if you boil Bakkt down, it could be classified as his firm’s very own “moonshot bet [on crypto].”</li>
+<li><strong><a href="https://www.newsbtc.com/2019/02/16/chainalysis-secures-30m-bitcoin-crash-crypto-venture-money-flowing/" data-wpel-link="internal">Chainalysis Secures $30M From Silicon Valley Venture Group</a></strong>: Earlier this week, Chainalysis, leading blockchain research and analytics boutique, revealed that it had scored over $30 million in funding for its Series B round, led by Accel, a Palo Alto-based venture group that also has investments in Circle. Accel’s deal with Chainalysis will also see the Bay Area investment group’s Philippe Botteri and Amit Kumar join the blockchain upstart’s board. Per <a href="https://www.businessinsider.com/chainalysis-raises-30-million-from-accel-2019-2" target="_blank" rel="follow noopener" data-wpel-link="exclude">Business Insider</a>, the duo will aid Chainalysis in bolstering its presence, in the European region, along with its overall research efforts. The company explained that this influx of funding will help it double-down on its<em> raison d’etre</em> to make blockchain data easy to digest, useful, and accessible for governments, institutions, and native cryptocurrency firms.</li>
+<li><strong><a href="https://www.newsbtc.com/2019/02/12/researcher-bitcoin-lightning-on-square-could-be-bigger-than-crypto-etf-bakkt-combined/" data-wpel-link="internal">Jack Dorsey Hints At Eventual Bitcoin Lightning Integration For Square</a></strong>: Just days after appearing on the Joe Rogan Experience to laud Bitcoin and releasing dozens of crypto-related tweets, Jack Dorsey, the chief executive of both Square and Twitter, took to Stephan Livera’s podcast to confirm that the integration of the Lightning Network onto Square is a matter of “when,” not “if.” Speaking on the rationale of eventually making such a move, Dorsey explained that his firm’s <em>raison d’etre</em> is to serve customers best, with Lightning only accentuating this goal. The Silicon Valley legend added that Square sees Bitcoin’s underlying nature as a currency, rather than solely a speculative asset. And as it stands, the widespread adoption of the Lightning Network is the most promising means to get to that ambitious end.</li>
+<li><strong><a href="https://www.newsbtc.com/2019/02/10/report-philippines-based-banking-giant-launching-two-way-crypto-atms/" data-wpel-link="internal">Philippines Banking Giant Has Launched Two-Way Crypto ATMs</a></strong>: According to <a href="https://www.philstar.com/business/2019/02/06/1891103/unionbank-launches-first-virtual-currency-atm" target="_blank" rel="nofollow noopener" data-wpel-link="external">reports</a> from Filipino media, Union Bank of the Philippines, a banking giant that is the seventh largest in the country, is launching crypto asset automated teller machines (ATM). Per the statement, the company launched its first two-way cryptocurrency ATM earlier this week, allowing customers to purchase and sell assets like Bitcoin for pesos. Union Bank has purportedly collaborated with the Bangko Sentral ng Pilipinas (BSP), the nation’s central bank, to ensure that this newfangled offering is compliant.</li>
+<li><a href="https://www.newsbtc.com/2019/02/14/jpm-coin-bitcoin/" data-wpel-link="internal"><strong>JP Morgan Launches Ethereum-like Chain For In-House Crypto Asset</strong></a>: In a move that was straight out of left field, JP Morgan Chase, the world’s sixth largest bank, took to CNBC divulging that it would be launching an in-house crypto asset, fittingly named “JPM Coin.”According to a comment from Umar Farooq, the Wall Street institution’s blockchain division lead, the asset will be backed by physical U.S. dollars and will first be based on Quorum, JP Morgan’s private Ethereum-based chain. Eventually, the asset will go multi-chain, with interoperability solutions allowing for JPM Coin to be transacted in different ecosystems. Farooq remarked that his team intends the venture to eventually be a multi-purpose asset for the bank’s operations, whereas “anything, where you have a distributed ledger, [that] involves corporations and institutions” will use the stablecoin. For now, however, the JP Morgan executive made it clear that the newfangled offering is intended to bolster the company’s internal, yet international corporate transactions.</li>
+</ul>
+<pre>Featured Image from Shutterstock</pre>
+</div>
+<p><br />
+<br /><a href="https://www.newsbtc.com/2019/02/16/crypto-tidbits-meet-jp-morgan-coin-sec-drops-bitcoin-etf-application/">Source link </a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-16261" class="share-twitter sd-button share-icon no-text" href="https://techterrene.com/?p=16261&amp;share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-16261" class="share-facebook sd-button share-icon no-text" href="https://techterrene.com/?p=16261&amp;share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow noopener noreferrer" data-shared="sharing-google-16261" class="share-google-plus-1 sd-button share-icon no-text" href="https://techterrene.com/?p=16261&amp;share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                            </div>
+
+            <div class="td-post-sharing-bottom"><div class="td-post-sharing-classic"><iframe frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://techterrene.com/?p=16261&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></div><div id="td_social_sharing_article_bottom" class="td-post-sharing td-ps-bg td-ps-notext td-post-sharing-style1 "><div class="td-post-sharing-visible"><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-facebook"></i></div>
+                                        <div class="td-social-but-text">Facebook</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-twitter" href="https://twitter.com/intent/tweet?text=Crypto+Tidbits%3A+Meet+JP+Morgan+Coin%2C+SEC+Drops+Bitcoin+ETF+Application&url=https%3A%2F%2Ftechterrene.com%2F%3Fp%3D16261&via=Techterrene">
+                                        <div class="td-social-but-icon"><i class="td-icon-twitter"></i></div>
+                                        <div class="td-social-but-text">Twitter</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-googleplus" href="https://plus.google.com/share?url=https://techterrene.com/?p=16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-googleplus"></i></div>
+                                        <div class="td-social-but-text">Google+</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://techterrene.com/?p=16261&amp;media=https://techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg&description=Crypto+Tidbits%3A+Meet+JP+Morgan+Coin%2C+SEC+Drops+Bitcoin+ETF+Application">
+                                        <div class="td-social-but-icon"><i class="td-icon-pinterest"></i></div>
+                                        <div class="td-social-but-text">Pinterest</div>
+                                    </a><a class="td-social-sharing-button td-social-sharing-button-js td-social-network td-social-whatsapp" href="whatsapp://send?text=Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application %0A%0A https://techterrene.com/?p=16261">
+                                        <div class="td-social-but-icon"><i class="td-icon-whatsapp"></i></div>
+                                        <div class="td-social-but-text">WhatsApp</div>
+                                    </a></div><div class="td-social-sharing-hidden"><ul class="td-pulldown-filter-list"></ul><a class="td-social-sharing-button td-social-handler td-social-expand-tabs" href="#" data-block-uid="td_social_sharing_article_bottom">
+                                    <div class="td-social-but-icon"><i class="td-icon-plus td-social-expand-tabs-icon"></i></div>
+                                </a></div></div></div>            <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="https://techterrene.com/?p=16259">Central Bank Digital Currencies Are a Trojan Horse for Bitcoin</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="https://techterrene.com/?p=16263">Bitcoin Vs Litecoin – Bull Flags Yet to Play Out for BTC &#038; LTC</a></div></div></div>            <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://techterrene.com/?author=1">admin</a></span></div>	        <span class="td-page-meta" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="admin"></span><meta itemprop="datePublished" content="2019-02-16T21:41:41+00:00"><meta itemprop="dateModified" content="2019-02-16T21:41:41+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://techterrene.com/?p=16261"/><span class="td-page-meta" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span class="td-page-meta" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg"></span><meta itemprop="name" content="Techterrene"></span><meta itemprop="headline " content="Crypto Tidbits: Meet JP Morgan Coin, SEC Drops Bitcoin ETF Application"><span class="td-page-meta" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://i2.wp.com/techterrene.com/wp-content/uploads/2019/02/shutterstock_1142996930-1100x680.jpg?fit=1100%2C680&ssl=1"><meta itemprop="width" content="1100"><meta itemprop="height" content="680"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_2_5c7c18a8e73f7_rand td_with_ajax_pagination td-pb-border-top td_block_template_10"  data-td-block-uid="td_uid_2_5c7c18a8e73f7" ><script>var block_td_uid_2_5c7c18a8e73f7 = new tdBlock();
+block_td_uid_2_5c7c18a8e73f7.id = "td_uid_2_5c7c18a8e73f7";
+block_td_uid_2_5c7c18a8e73f7.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"td_uid_2_5c7c18a8e73f7_rand","td_column_number":3,"live_filter_cur_post_id":16261,"live_filter_cur_post_author":"1","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"td_uid_2_5c7c18a8e73f7_rand","tdc_css_class_style":"td_uid_2_5c7c18a8e73f7_rand_style"}';
+block_td_uid_2_5c7c18a8e73f7.td_column_number = "3";
+block_td_uid_2_5c7c18a8e73f7.block_type = "td_block_related_posts";
+block_td_uid_2_5c7c18a8e73f7.post_count = "3";
+block_td_uid_2_5c7c18a8e73f7.found_posts = "3586";
+block_td_uid_2_5c7c18a8e73f7.header_color = "";
+block_td_uid_2_5c7c18a8e73f7.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5c7c18a8e73f7.max_num_pages = "1196";
+tdBlocksArray.push(block_td_uid_2_5c7c18a8e73f7);
+</script><h4 class="td-related-title td-block-title"><a id="td_uid_3_5c7c18a8e881b" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_2_5c7c18a8e73f7" href="#">RELATED ARTICLES</a><a id="td_uid_4_5c7c18a8e885f" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_2_5c7c18a8e73f7" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_2_5c7c18a8e73f7 class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://techterrene.com/?p=22523" rel="bookmark" class="td-image-wrap" title="Bitcoin Likely Seized From Dark Web Operators Auctioned by Wilsons Auctions"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC"alt="" title="Bitcoin Likely Seized From Dark Web Operators Auctioned by Wilsons Auctions" data-type="image_tag" data-img-url="https://i1.wp.com/techterrene.com/wp-content/uploads/2019/03/bitcoin_basic_2_1.jpg?resize=218%2C150&ssl=1"  width="" height="" /></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://techterrene.com/?p=22523" rel="bookmark" title="Bitcoin Likely Seized From Dark Web Operators Auctioned by Wilsons Auctions">Bitcoin Likely Seized From Dark Web Operators Auctioned by Wilsons Auctions</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://techterrene.com/?p=22521" rel="bookmark" class="td-image-wrap" title="Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC"alt="" title="Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards" data-type="image_tag" data-img-url="https://i0.wp.com/techterrene.com/wp-content/uploads/2019/03/limit.jpg?resize=218%2C150&ssl=1"  width="" height="" /></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://techterrene.com/?p=22521" rel="bookmark" title="Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards">Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://techterrene.com/?p=22520" rel="bookmark" class="td-image-wrap" title="Bitcoin Token Tops 1-Day Volume of $1,983.00 (BTK)"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC"alt="" title="Bitcoin Token Tops 1-Day Volume of $1,983.00 (BTK)" data-type="image_tag" data-img-url="https://i0.wp.com/techterrene.com/wp-content/uploads/2019/01/image-pending.gif?resize=218%2C150&ssl=1" data-img-retina-url="https://i0.wp.com/techterrene.com/wp-content/uploads/2019/01/image-pending.gif?resize=300%2C300&ssl=1" width="218" height="150" /></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://techterrene.com/?p=22520" rel="bookmark" title="Bitcoin Token Tops 1-Day Volume of $1,983.00 (BTK)">Bitcoin Token Tops 1-Day Volume of $1,983.00 (BTK)</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_5c7c18a8e73f7" data-td_block_id="td_uid_2_5c7c18a8e73f7"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_2_5c7c18a8e73f7" data-td_block_id="td_uid_2_5c7c18a8e73f7"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+	<div class="comments" id="comments">
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">LEAVE A REPLY <small><a rel="nofollow" id="cancel-comment-reply-link" href="/?p=16261#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://techterrene.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<div class="clearfix"></div>
+				<div class="comment-form-input-wrap td-form-comment">
+					<textarea placeholder="Comment:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea>
+					<div class="td-warning-comment">Please enter your comment!</div>
+				</div>
+		        <div class="comment-form-input-wrap td-form-author">
+			            <input class="" id="author" name="author" placeholder="Name:*" type="text" value="" size="30"  aria-required='true' />
+			            <div class="td-warning-author">Please enter your name here</div>
+			         </div>
+<div class="comment-form-input-wrap td-form-email">
+			            <input class="" id="email" name="email" placeholder="Email:*" type="text" value="" size="30"  aria-required='true' />
+			            <div class="td-warning-email-error">You have entered an incorrect email address!</div>
+			            <div class="td-warning-email">Please enter your email address here</div>
+			         </div>
+<div class="comment-form-input-wrap td-form-url">
+			            <input class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" />
+                     </div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='16261' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e83a682f7d" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="106"/></p>			</form>
+			</div><!-- #respond -->
+	    </div> <!-- /.content -->
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                                <!-- .no sidebar -->
+                                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+
+
+
+	<!-- Footer -->
+	<div class="td-footer-wrapper td-container-wrap td-footer-template-14 ">
+    <div class="td-container td-footer-bottom-full">
+        <div class="td-pb-row">
+            <div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://techterrene.com/"><img class="td-retina-data" src="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" data-retina="http://techterrene.com/wp-content/uploads/2019/01/IMG-20190123-WA0004-e1548917510897-300x109.jpg" alt="" title="" width="" /></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>All about Tech News<div class="footer-email-wrap">Contact us: <a href="mailto:hello@techterrene.com">hello@techterrene.com</a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://web.facebook.com/Techterrene-287008921963155" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/techterrene" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></aside></div>        </div>
+    </div>
+</div>
+	<!-- Sub Footer -->
+	    <div class="td-sub-footer-container td-container-wrap ">
+    <div class="td-container">
+        <div class="td-pb-row">
+            <div class="td-pb-span td-sub-footer-menu">
+                <div class="menu-main_menu-container"><ul id="menu-main_menu-2" class="td-subfooter-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-15"><a href="https://techterrene.com/?cat=4">ANDRIOD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-16"><a href="https://techterrene.com/?cat=10">APPS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17"><a href="https://techterrene.com/?cat=3">AUTOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-18"><a href="https://techterrene.com/?cat=11">COMPUTING</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-19"><a href="https://techterrene.com/?cat=9">CRYPTOCURRENCY</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21"><a href="https://techterrene.com/?cat=5">GAMING</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-23"><a href="https://techterrene.com/?cat=8">REVIEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-24"><a href="https://techterrene.com/?cat=7">SCIENCE</a></li>
+</ul></div>            </div>
+
+            <div class="td-pb-span td-sub-footer-copy">
+                &copy; 2019 businessdaylight.co.uk            </div>
+
+                        </div>
+        </div>
+    </div>
+
+
+</div><!--close td-outer-wrap-->
+
+	<div style="display:none">
+	</div>
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2017
+        Version: 9.2.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 5c7c18a8f1f01
+    -->
+
+    
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/techterrene.com\/?p=16261":16261};
+	</script>
+				<script type='text/javascript' src='https://techterrene.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.2.2'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-includes/js/comment-reply.min.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.9'></script>
+<script type='text/javascript' src='https://techterrene.com/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<script async="async" type='text/javascript' src='https://techterrene.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://techterrene.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.9'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-google-plus-1', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+</script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://techterrene.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://techterrene.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'156788653',post:'16261',tz:'0',srv:'techterrene.com'} ]);
+	_stq.push([ 'clickTrackerInit', '156788653', '16261' ]);
+</script>
+
+
+			<div id="tdw-css-writer" style="display: none" class="tdw-drag-dialog tdc-window-sidebar">
+				<header>
+
+				
+					<a title="Editor" class="tdw-tab tdc-tab-active" href="#" data-tab-content="tdw-tab-editor">Edit with Live CSS</a>
+					<div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div>
+				
+				</header>
+				<div class="tdw-content">
+
+					
+					<div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
+
+
+						<script>
+
+							(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);
+
+						</script>
+
+
+						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5c7c18a8f2b90"></textarea>
+						<div id="td_live_css_uid_1_5c7c18a8f2b90" class="td-code-editor"></div>
+
+
+						<script>
+							jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_5c7c18a8f2b90');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_5c7c18a8f2b90");
+                                    window.editor.$blockScrolling = Infinity;
+
+                                    // 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+                                    editor.getSession().setUseWrapMode(true);
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});
+						</script>
+
+					</div>
+				</div>
+
+				<footer>
+
+					
+						<a href="#" class="tdw-save-css">Save</a>
+						<div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div>
+
+					
+					<div class="tdw-resize"></div>
+				</footer>
+			</div>
+			
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2968/80 objects using apc
+Page Caching using apc (Requested URI contains query) 
+Database Caching 14/17 queries in 0.004 seconds using apc
+
+Served from: techterrene.com @ 2019-03-03 18:10:48 by W3 Total Cache
+-->

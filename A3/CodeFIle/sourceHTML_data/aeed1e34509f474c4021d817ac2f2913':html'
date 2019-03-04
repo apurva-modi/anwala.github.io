@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Yammy Network</title>
+    <!-- basic page needs
+   ================================================== -->
+    <meta name="decription" content="Yammy Network is going to create the whole ecosystem of web services and apps based on this principe">
+    <meta name="keywords" content="yammy, yammy network, cryptocurrencies, smart-contracts, yummy network, yummy, ymm, ymm token, yma coin, ymm coin">
+    <meta name="author" content="Yammy_Network_Team">
+    <!-- favicons
+    ================================================= -->
+    <link href="img/favicon.jpg" rel="shortcut icon" type="image/x-icon" />
+    <link rel="icon" href="favicon.jpg" type="image/x-icon">
+    <!--mobile specific
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/style.css">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-grid.css" rel="stylesheet">
+    <!--Scripts
+    ================================================== -->
+  </head>
+  <body>
+    <!--HEADER
+    ================================================== -->
+  <header class="header" id="header-but" >
+  <div class="top-bar">
+
+      <h3>
+        <ul>
+          <nav>
+          <li><a class="smoothscroll" rel='m_PageScroll2id' href="#about">What's Yammy?</a></li>
+          <li><a href="#YMM" rel='m_PageScroll2id'>Token</a></li>
+          <li><a href="#roadmap" rel='m_PageScroll2id'>Roadmap</a></li>
+          <li><a href="#exchanges" rel='m_PageScroll2id'>Exchanges</a></li>
+          <li><a href="#team" rel='m_PageScroll2id'>Our Team</a></li>
+
+          </nav>
+        </ul>
+      </h3>
+
+  </div>
+    </header>
+    <!-- Intro
+    ================================================== -->
+    <div class="intro" align="center">
+        <img src="img/intro5.png" alt="Yammy Network"class="img-intro">
+
+    </div>
+    <!-- About Yammy
+    ================================================== -->
+<div class="main" align="center">
+
+
+
+    <div id="about" class="about-yammy" align="center">
+
+        <h3>About Yammy</h3>
+        <p>
+Yammy Network – the smart solution. Our goal is to create the new reality equivalent to LEGO of blockchain. Yammy Network is about to introduce the elements of Blockchain 3.0 features for the first time ever.</p>
+ <p>What does it mean? <br></p>
+<p>Imagine portions of code which is compact, easy to read and understand combined with applicability and scalability  for the average user who will be able to build a smart contract or a Decentralized Application (dApp) of his choice.</p>
+<p>Same way small LEGO bricks create  buildings or even machines with sensors without engineering Yammy gives users the opportunity to everyone to make their own blockchain applications and contracts even without knowledge of programming.
+</p>
+<p>Moreover, Yammy Network is going to create the whole ecosystem of web services and apps based on this principe.</p>
+<p>Yammy – the future is here.
+</p>
+  </div>
+  <div class="monitor" align="center" id="YMM">
+    <img src="img\display-about.png" alt="" class="disp-about">
+    <div class="ymm-info">
+
+    <h4>Yammy Token</h4>
+    <p> Name: Yammy Token | Symbol: YMM <br>
+      Algo: Ethereum | Type: ERC20 | Decimals: 18 <br>
+      Max Supply: 100 000 000 <br>
+      <span class="vbeth">Verified by Etherscan &#10004;</span> <br>
+      Contract: <a target="_blank" href="https://etherscan.io/token/0xf3bcbaac4d699bd81e75e35fe01c695739b0903c">0xf3bcbaac4d699bd81e75e35fe01c695739b0903c</a>
+    </p>
+    </div>
+
+  </div>
+  <div class="distrib">
+    <h4>Yammy Token distribution</h4>
+  </div>
+
+  <div class="about-funds">
+    <b>About Funds</b><br>
+    <b>R&D Fund</b> -Yammy Network is strongly backed by science and technology. We are keen to introduce our ideas to the World thus the main amount of tokens will be spent on Research and Development of the Project.<br>
+    <b>Network Maintenance Fund</b> - Yammy Network proudly presents revolutionary zero transaction fee Yammy Coin (YMA) based on it's own blockchain. To keep the mainnet running the Network Maintenance Fund is established. <br>
+    <b>Reserve Fund</b> - 10% of the YMM Token emission reserved. The use of this coins is strictly prohibited and all the tokens will be burned during Stage2 of the Project. <br>
+  </div>
+  <div class="dtable">
+
+  <table class="table table-hover" >
+    <thead class="thead-dark">
+      <tr>
+
+        <th><b>#<b></th>
+        <th><b>Stage</b></th>
+        <th><b>%</b></th>
+        <th><b>YMM<b></th>
+
+      </tr>
+
+    </thead>
+
+    <tbody>
+      <tr>
+        <th><b>1</b></th>
+        <th> Airdrop Fund</th>
+        <th>5%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0x5ef63Ec410b7B7E01153EAeE7ff4B86cC4fA75A1">5 000 000 YMM</a></th>
+      </tr>
+      <tr>
+        <th><b>2</b></th>
+        <th>Bounty Fund</th>
+        <th>10%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0x6b6ca3a4827f641384b81bccf4bb56c25d20913d">10 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>3</b></th>
+        <th>R&D Fund</th>
+        <th>50%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0x3ff8918ebcd0556f9304d9700e6722100b52d57d">50 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>4</b></th>
+        <th>Marketing Fund</th>
+        <th>5%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0xf13e365b5cf4047827c607e3e9f927bfddcd2889">5 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>5</b></th>
+        <th>Network Maintenance Fund</th>
+        <th>5%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0xf69159d6dda58bf2f75e3023b1150b0d077bce3a">5 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>6</b></th>
+        <th>Founders Fund </th>
+        <th>5%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0xf13e365b5cf4047827c607e3e9f927bfddcd2889">5 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>7</b></th>
+        <th>Reserve Fund</th>
+        <th>10%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0xa3452d0a6486d19f54f452b7d06ffc7cf922bd63">10 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th><b>8</b></th>
+        <th>Exchange Listing Fund</th>
+        <th>10%</th>
+        <th><a target="_blank" href="https://etherscan.io/search?q=0x71a1f64afefd97593bf64cb43542931a096d8f26">10 000 000 YMM</a></th>
+      </tr>
+
+      <tr>
+        <th></th>
+        <th><b>Total supply</b></th>
+        <th><b>100%</b></th>
+        <th><b>100 000 000 YMM</b></th>
+      </tr>
+
+    </tbody>
+  </table>
+
+</div>
+</div>
+
+    <!--Roadmap
+    ================================================== -->
+    <div class="roadmap" id="roadmap" align="center">
+      <h3>Roadmap</h3>
+
+      <div class="q1" align="center">
+        <div class="q-text">Start: 2018 Q4</br>- Whitepaper v1.0 <br>- Launch of website <br>- Token creation</div>
+      </div>
+
+        <div class="roadmap-line">
+        </div>
+
+      <div class="q1-2019">
+        <div class="q-text">Q1 2019 </br>- Listing YMM to exchange <br>- Whitepaper v2.0</div>
+      </div>
+
+      <div class="roadmap-line">
+      </div>
+
+      <div class="q2-2019">
+        <div class="q-text">Q2 2019 <br>- Yammy Coin launch <br>- Masternodes </div>
+      </div>
+
+      <div class="roadmap-line">
+      </div>
+
+      <div class="q3-2019">
+        <div class="q-text">Q3 2019 <br>- Smartcontracts <br>- Yammy Platform alpha version</div>
+      </div>
+
+      <div class="roadmap-line">
+      </div>
+
+      <div class="q4-2019">
+        <div class="q-text">Q4 2019 <br>- Yammy Platform beta version</div>
+      </div>
+
+      <div class="roadmap-line">
+      </div>
+
+      <div class="q1-2020">
+        <div class="q-text">2020 <br>- Betting site as a first sample of Yammy Platform
+          <br>- Global marketplace with crypto payments
+          <br>- Decentralized crypto exchange </div>
+      </div>
+
+
+
+      <div class="roadmap-line-black">
+      </div>
+    </div>
+
+    <a href="#header-but" rel='m_PageScroll2id' class="top">
+    <img src="img/to_top.png" alt="top" class="to-top" >
+    </a>
+
+
+    <!-- Exchanges
+      ============================================================ -->
+
+    <div class="exchanges" id="exchanges" align='center'>
+      <h4>Where to buy?</h4>
+
+      <h5>Exchanges</h5>
+        <div class="img-ex"><a href='https://www.tokenmom.com/exchange/YMM-WETH' target="_blank" ><img src="img\exchanges\tokenmom.png" alt="Tokenmom" class="img-ex" id="cex"></a></div>
+        <div class="img-ex"><img src="img\exchanges\crex24.png" alt="Crex24" class="img-ex" id="crex24"><p>Coming soon</p></div>
+        <div class="img-ex"><a href="https://etherdelta.com/#0xf3bcbaac4d699bd81e75e35fe01c695739b0903c-ETH" target="_blank"><img src="img\exchanges\ETHD.png" alt="Etherdelta" class="img-ex" id="ethd"></a></div>
+
+
+      <h5>Anonymous swap on our website</h5>
+      <div class="swaps">
+      <img src="img\exchanges\gear.png" alt=""> IN PROGRESS
+    </div>
+  </div>
+
+    <!--Our Team
+      ==================================================  -->
+      <div class="team" id="team" align="center">
+        <h3>Our Team</h3>
+
+        <div class="profiles">
+
+        <div class="worker-row1">
+          <div class="worker" id="CEO">
+            <img src="img\worker\ceo1.jpg" alt="CEO" class="worker-logo">
+
+            <div class="worker-media">
+              <a target="_blank" href="#"><img src="img\social-media\telegram1.jpg" alt="tg"></a>
+              <a target="_blank" href="https://twitter.com/eirikblod"><img src="img\social-media\twitter.jpg" alt="twitter"></a>
+            </div>
+            <div class="worker-desc">
+              <h5>Eric Bloodaxe</h5>
+              <p>UNIX industrial apps developer with 20 years of experience. Certified aerospace engineer,
+                former of JPL and NASA specialist.</p><p>Yammy Network co-founder</p>
+            </div>
+
+          </div>
+
+          <div class="worker" id="CTO">
+            <img src="img\worker\cto1.jpg" alt="CTO" class="worker-logo">
+
+            <div class="worker-media">
+              <a target="_blank" href="#"><img src="img\social-media\telegram1.jpg" alt="tg"></a>
+            </div>
+            <div class="worker-desc">
+              <h5>Wilson Baker</h5>
+              <p>Young and ambitious Python developer. Control systems engineer
+                whose idea to make blockchain simple is the driving force behind the project.
+                 Employee of the Siemens AG. </p><p>Yammy Network co-founder</p>
+            </div>
+
+          </div>
+
+          <div class="worker" id="CSO">
+            <img src="img\worker\cso1.jpg" alt="CSO" class="worker-logo">
+
+            <div class="worker-media">
+              <a target="_blank" href="#"><img src="img\social-media\telegram1.jpg" alt="tg"></a>
+              <a target="_blank" href="https://twitter.com/Mithridates_Ym"><img src="img\social-media\twitter.jpg" alt="twitter"></a>
+            </div>
+            <div class="worker-desc">
+              <h5>Mithridates</h5>
+              <p>Financial specialist. Commodity trader with speciality in futures with 10 years of professional experience trading in the commodity markets.
+                 <p>Yammy Network co-founder</p></p>
+            </div>
+
+          </div>
+        </div>
+        <div class="partners">
+          <h3>Yammy's Partners</h3>
+          <h4></h4>
+          <div class="worker" id="bounty-manager">
+            <img src="img\worker\bntm.jpg" alt="CSO" class="partner-logo">
+
+            <div class="worker-media">
+              <a target="_blank" href="https://t.me/team2one"><img src="img\social-media\telegram1.jpg" alt="tg"></a>
+              <a id="linkedinbntm" target="_blank" href="https://www.linkedin.com/in/dzofir-openg-5005a4168"><img src="img\social-media\linkedin.jpg" alt="linkedin"></a>
+            </div>
+            <div class="worker-desc">
+              <h5>21twOne Team</h5>
+              <p>
+                 <p>Bounty Management</p></p>
+            </div>
+
+          </div>
+
+        </div>
+        </div>
+        </div>
+
+
+
+
+        <!-- footer
+       ============================================================ -->
+
+        <div class="footer" align="center">
+          <div class="our-links">
+            <h5>Where to find us?</h5>
+            <p>Our <a target="_blank" href="">Telegram</a> channel </p>
+            <p>Our <a target="_blank" href="https://github.com/Yammynetwork/Yammy">GitHub</a> </p>
+            <p>Our <a target="_blank" href="https://twitter.com/NetworkYammy">Twitter</a> </p>
+            <p>Our <a target="_blank" href="https://www.reddit.com/user/Yammy_team">Reddit</a> </p>
+            <p>Our <a target="_blank" href="https://discord.gg/BnkthU">Discord</a> </p>
+            <p>Official email: <a target="_blank" href="/cdn-cgi/l/email-protection#026b6c646d427b636f6f7b2c6c6776756d7069"><span class="__cf_email__" data-cfemail="3e575058517e475f53534710505b4a49514c55">[email&#160;protected]</span></a> </p>
+            <p><a target="_blank" href="">Bitcointalk</a></p>
+          </div>
+          <div class="our-links">
+            <h5>Useful</h5>
+            <p><a target="_blank" href="Yammy Network White Paper 1.0.pdf">Whitepaper</a></p>
+            <p> <a target="_blank" href="https://etherscan.io/address/0xf3bcbaac4d699bd81e75e35fe01c695739b0903c"> Explorer</a> </p>
+            <p> <a target="_blank" href=""> Coinmarketcap</a> Coming Soon </p>
+            <p> <a target="_blank" href="https://ethplorer.io/address/0xf3bcbaac4d699bd81e75e35fe01c695739b0903c"> Ethplorer</a> </p>
+          </div>
+
+          <div class="donate">
+            <h5>Donate</h5>
+            <h6>You can support our project</h6>
+            <div class="donat" align='left'>
+            <div class="don">
+              <img src="img\donate\eth.png" alt="QR ethereum">
+              <p>ETH address: 0x67581c4447589bec296a4c9816ad9a66c0e39987</br></p>
+            </div>
+            <div class="don">
+              <img src="img\donate\btc.png" alt="QR ethereum">
+              <p>BTC address: 353udsgi3Mhgu4ttTpPg9ox37D3MRpANmi</br></p>
+            </div>
+          </div>
+        </div>
+
+        </div >
+
+
+
+
+    <!-- Java Script
+      ================================================== -->
+      <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+      <script src="js/jquery.malihu.PageScroll2id.min.js"></script>
+      <script src="js/main.js"></script>
+      <script src="js/bootstrap.js"></script>
+
+  </body>
+</html>
