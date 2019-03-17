@@ -482,7 +482,8 @@ def SD():
     global friend_Mean
     stdDeviationSum = 0
     for num in friend_List:
-        stdDeviationSum = stdDeviationSum + ((int(num) - int(friend_Mean)) *  (int(num) - int(friend_Mean)))
+        stdDeviationSum = stdDeviationSum + ((int(num) - int(friend_Mean)) 
+        								*  (int(num) - int(friend_Mean)))
         # print('stdDeviationSum',stdDeviationSum)  
         friend_SD = round(math.sqrt(stdDeviationSum / total_count),2)
     return friend_SD
@@ -646,7 +647,8 @@ def SD():
     global friend_Mean
     stdDeviationSum = 0
     for num in friend_List:
-        stdDeviationSum = stdDeviationSum + ((int(num) - int(friend_Mean)) *  (int(num) - int(friend_Mean)))
+        stdDeviationSum = stdDeviationSum + ((int(num) - int(friend_Mean)) 
+        								*  (int(num) - int(friend_Mean)))
         # print('stdDeviationSum',stdDeviationSum)  
         friend_SD = round(math.sqrt(stdDeviationSum / total_count),2)
     return friend_SD
