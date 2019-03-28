@@ -1,0 +1,49 @@
+'Removing Edges...', '0--->31'
+  
+'Removing Edges...', '0--->2'  
+
+'Removing Edges...', '0--->8'  
+
+'Removing Edges...', '13--->33'  
+
+'Removing Edges...', '19--->33'  
+
+'Removing Edges...', '2--->32'  
+
+'Removing Edges...', '1--->30'  
+
+'Removing Edges...', '1--->2'  
+
+'Removing Edges...', '2--->3'  
+
+'Removing Edges...', '2--->7'  
+
+'Removing Edges...', '2--->13'  
+
+'Removing Edges...', '9--->33'  
+
+'Removing Edges...', '27--->33'  
+
+'Removing Edges...', '2--->9'  
+
+'Removing Edges...', '0--->5'  
+
+'Removing Edges...', '0--->6'  
+
+'Removing Edges...', '0--->10'  
+
+'Removing Edges...', '0--->4'  
+
+'Removing Edges...', '31--->33'  
+
+'Removing Edges...', '31--->32'  
+
+'Removing Edges...', '28--->33'  
+
+'Removing Edges...', '23--->25'  
+
+'Removing Edges...', '23--->27'  
+
+'Removing Edges...', '2--->8' 
+ 
+'Total flows to separation:', 24  
