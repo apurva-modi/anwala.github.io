@@ -1,0 +1,2 @@
+[(-1.0000000000000004, 'Clean Slate (Coup de Torchon) (1981)'), (-1.0, '1-900 (1994)'), (-1.0, 'American Dream (1990)'), (-1.0, 'Collectionneuse, La (1967)'), (-1.0, 'Colonel Chabert, Le (1994)')]
+[(1.0, 'Search for One-eye Jimmy, The (1996)'), (1.0, 'Wedding Gift, The (1994)'), (1.0000000000000027, 'Oscar & Lucinda (1997)'), (1.0000000000000033, 'Newton Boys, The (1998)'), (1.0000000000000033, 'Penny Serenade (1941)')]
