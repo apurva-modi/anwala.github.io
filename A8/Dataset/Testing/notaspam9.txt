@@ -1,0 +1,36 @@
+This is a great start. I'll share detailed feedback this weekend but overall the idea is awesome.
+
+For now, there are a few things needed in the document. 
+Need wireframes for the app in business plan. Draw it on a whiteboard and take picture, no fancy frames required at this point.
+See offerup mobile app. That UI is close to this use case. Someone got a job, take a picture or describe and post, let someone pick up the job (Uber like model) and share an online quote to the customer via app. Customer approves -> appointment -> work done -> satisfaction score/reviews etc. 
+ 
+Did you build the prototype already? Is it in progress? I'll fund you for the mobile/web prototype development with a cap if you need it.
+I also shared with a few business folks and let you know their feedback.
+
+
+Need more details on competition. What comes close to this and why that is not sufficient. 
+How would you take on the big players. Yelp, https://services.amazon.com/selling-services/home.htm, Google, Facebook, Angies list, Thumbtack,
+https://www.amazon.com/s/ref=lp_10192830011_hi_3?rh=n%3A8098158011%2Cn%3A%2110192820011%2Cn%3A10192825011%2Cn%3A11525235011&ie=UTF8&qid=1553815850
+
+Write a Press Release - As if your product is ready and fully functional and you are launching it today. PR should communicate (some of this is already in business plan)
+    Who is the customer
+    What is the customer problem, why do they care, how is it better than what already exists
+    What is the most important customer benefit
+    How do you know what customer need or want
+    What does customer experience look like
+
+See FAQ
+https://www.amazon.com/Home-Services-FAQs/b?ie=UTF8&node=13409637011
+
+The format could be
+    Heading - Short, compelling description -     One sentence summary - Eleator pitch
+    First prara - Summary of what it is (Assume at 50% won't go beyond this. Get them excited)
+    Second Para - Opportunity/ problem
+    Third     - Approach/solutions
+    Fourth - Fictitious quote from a customer - How it helped
+    Fifth - Customer experience - Motivate the user to try this out
+    closing para - Customer testimonial - make it up but realistic
+    Call to action
+    
+Avoid Marketing buzzwords - HUGE, GREAT etc.  Keep it as simple as possible.
+      

@@ -1,0 +1,55 @@
+<!DOCTYPE >
+<html>
+  <head><meta http-equiv="Content-type" Content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+    <title>
+    </title>
+  </head>
+  <body>
+    <center>
+      <table width="100">
+        <tbody>
+          <tr>
+            <td>
+              <img alt="SLIDE1_FTC_STUDENT" height="1732" src="https://bank.sbi/campaign/1512181812_SLIDE1_FTC_STUDENT.jpg" style="width: 634px; height: 839px;" width="1301" />
+            </td>
+            <td>
+              &nbsp;
+            </td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp; 
+              <p style="text-align: justify; color: red; font-family: Calibri; font-size: 12px;">
+                <strong>Disclaimer:</strong> State Bank never sends e-mails and embedded links asking you to update or verify confidential, personal and security details. If you receive such emails/phone calls/SMS, NEVER RESPOND to them and report such matter to the bank at <a href="mailto:report.phishing@sbi.co.in">report.phishing@sbi.co.in</a>
+              </p>
+              <p style="text-align: justify; color: red; font-family: Calibri; font-size: 12px;">
+                <strong>NOTE: This is a system generated mail so please do not reply to this mail.</strong>
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+<div contenteditable="false"><!--OPTOUT_START--><p><center><font size="-1">
+Click <a target="_blank" href="https://dmcrm.sbi.co.in/optout?mk=jtyag7ii.AAFEJN1JDNGXRQRP&9B89BF502C0652015686A7A5=&81F6943F165959361A1B1A1046F50297=5E0FDF1944E1F6E8506E816929C59CAB2F4A963E38944E1720085D45182DA8174465E447&A698914A250878AC17B4AC96=5E0FDF1944E1F6E8506E816929C59CAB2F4A963E38944E1720085D45182DA8174465E447">here</a> to unsubscribe from future mailings.</font></center></p>
+<!--OPTOUT_END--></div>
+</body>
+</html>

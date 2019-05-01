@@ -1,0 +1,27 @@
+<p>Dear GitHub User,</p>
+        
+            <p>We are researchers at the Professorship of <a href="https://www.cybertrust.in.tum.de/index.php?id=89">Cyber Trust at Technical University of Munich</a> and are seeking GitHub users who are at least 18 years old to participate in a short online survey. Your email was identified because it is publicly available on your GitHub profile.</p>
+        
+            <p>We are conducting research to better understand programming practices and to work on tools to provide help to developers. The purpose of this study is to examine how developers use the web to seek help for programming questions.</p>
+        
+            <p>Participation in this study involves:<br />
+            A time commitment of 10 minutes<br />
+            Simple scenario-based survey<br />
+            Five Amazon vouchers worth 50 USD will be given away in a draw for all participants.</p>
+        
+            <p><b>Please start the survey here:</b><br/><a href="https://tum-survey.net/index.php/713599?lang=en&mref=YXB1cnZhLmJlaXMuMTRAYWNoYXJ5YS5hYy5pbg==">https://tum-survey.net/index.php/713599?lang=en&mref=YXB1cnZhLmJlaXMuMTRAYWNoYXJ5YS5hYy5pbg==</a></p>
+        
+            <p><b>You can request us to delete your data from our database and restrict processing of your data here:</b><br />
+            <a href="https://tum-survey.net/optout.php?token=YXB1cnZhLmJlaXMuMTRAYWNoYXJ5YS5hYy5pbg==">https://tum-survey.net/optout.php?token=YXB1cnZhLmJlaXMuMTRAYWNoYXJ5YS5hYy5pbg==</a></p>
+        
+            <p>For more information about this study, please contact the principal investigator, Felix Fischer, by email <a href="mailto:flx.fischer@tum.de">flx.fischer@tum.de</a>.</p>
+        
+            <p>Thank you very much for your time!</p>
+        
+            <p><b>Privacy Notice (compliance with Art. 14 GDPR)</b><br />
+            We have collected and stored your email address for a research project conducted by the Professorship of Cyber Trust at the Technical University of Munich, Department of Informatics, Boltzmannstrasse 3, 85748 Garching, Germany.</p>
+        
+            <p>We process this data for research study recruitment purposes only. We found this data on GitHub. We are storing this data in our recruitment database, which stores data in Germany, and we will not share it with anyone else. We would like to keep this data until December 31, 2019. When that period is over, we will either delete your data or inform you that we will keep it in our database for future recruitment.</p>
+        
+            <p>You can send a request to <a href="mailto:flx.fischer@tum.de">flx.fischer@tum.de</a> to let you access your data that we have collected, request us to delete your data, correct any inaccuracies or restrict our processing of your data.</p>
+        

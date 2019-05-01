@@ -1,0 +1,141 @@
+Hi there,
+
+Today=E2=80=99s tutorial is inspired from PyImageSearch reader, Joao
+Paulo Folador, a PhD student from Brazil.
+
+Joao is interested in utilizing computer vision and machine
+learning to automatically detect and predict Parkinson=E2=80=99s disease
+based on geometric drawings ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIj=
+oiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsInVybCI6Imh0dHBzOi8vd3d3L=
+nB5aW1hZ2VzZWFyY2guY29tLzIwMTkvMDQvMjkvZGV0ZWN0aW5nLXBhcmtpbnNvbnMtZGlzZWFz=
+ZS13aXRoLW9wZW5jdi1jb21wdXRlci12aXNpb24tYW5kLXRoZS1zcGlyYWwtd2F2ZS10ZXN0Lz9=
+fX3M9cXVmY2JoMTNmY2k0cmh2M3FtbmMifQ ) (i.e., spirals and sign waves).
+
+Image ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2=
+ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29=
+tLzIwMTkvMDQvMjkvZGV0ZWN0aW5nLXBhcmtpbnNvbnMtZGlzZWFzZS13aXRoLW9wZW5jdi1jb2=
+1wdXRlci12aXNpb24tYW5kLXRoZS1zcGlyYWwtd2F2ZS10ZXN0Lz9fX3M9cXVmY2JoMTNmY2k0c=
+mh2M3FtbmMifQ )
+
+While I am familiar with Parkinson=E2=80=99s disease, I had not heard of
+the geometric drawing test =E2=80=94 a bit of research led me to a 2017
+paper, Distinguishing Different Stages of Parkinson=E2=80=99s Disease
+Using Composite Index of Speed and Pen-Pressure of Sketching a
+Spiral, by Zham et al.
+
+The researchers found that the drawing speed was slower and the
+pen pressure lower among Parkinson=E2=80=99s patients =E2=80=94 this
+was especially pronounced for patients with a more acute/advanced
+forms of the disease.
+
+One of the symptoms of Parkinson=E2=80=99s is tremors and rigidity in the
+muscles, making it harder to draw smooth spirals and waves.
+
+Joao postulated that it might be possible to detect Parkinson=E2=80=99s
+disease using the drawings alone rather than having to measure
+the speed and pressure of the pen on paper.
+
+Reducing the requirement of tracking pen speed and pressure:
+
+* Eliminates the need for additional hardware when performing the
+test.
+* Makes it far easier to automatically detect Parkinson=E2=80=99s.
+
+Graciously, Joao and his advisor allowed me access to the dataset
+they collected of both spirals and waves drawn by (1) patients
+with Parkinson=E2=80=99s, and (2) healthy participants.
+
+I took a look at the dataset and considered our options.
+
+Originally, Joao wanted to apply deep learning to the project,
+but after consideration, I carefully explained that deep
+learning, while powerful, isn=E2=80=99t always the right tool for the
+job! You wouldn=E2=80=99t want to use a hammer to drive in a screw, for
+instance.
+
+Instead, you look at your toolbox, carefully consider your
+options, and grab the right tool for the task at hand.
+
+I explained this to Joao and then demonstrated how we can predict
+Parkinson=E2=80=99s in images with 83.33% accuracy using standard
+computer vision and machine learning algorithms.
+
+To see which algorithms where used, and how to apply them to
+Parkinson's detection, you'll need to read the full post here. ( https://t.=
+dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjMzNj=
+Y0NDEyNyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29tLzIwMTkvMDQvMjkvZ=
+GV0ZWN0aW5nLXBhcmtpbnNvbnMtZGlzZWFzZS13aXRoLW9wZW5jdi1jb21wdXRlci12aXNpb24t=
+YW5kLXRoZS1zcGlyYWwtd2F2ZS10ZXN0Lz9fX3M9cXVmY2JoMTNmY2k0cmh2M3FtbmMifQ )
+
+Adrian Rosebrock
+
+Chief PyImageSearcher
+
+P.S. Deep learning methods are all the rage right now, and yes,
+they are super powerful, but deep learning doesn=E2=80=99t make other
+computer vision techniques obsolete.
+
+Instead, you need to bring the right tool to the job. You
+wouldn=E2=80=99t try to bang in a screw with a hammer, you would instead
+use a screwdriver. The same concept is true with computer vision
+=E2=80=94 you bring the right tool to the job.
+
+In order to help build your toolbox of computer vision algorithms
+I have put together the PyImageSearch Gurus course. ( https://t.dripemail2.=
+com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsI=
+nVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29tL3B5aW1hZ2VzZWFyY2gtZ3VydXMv=
+P19fcz1xdWZjYmgxM2ZjaTRyaHYzcW1uYyJ9 )
+
+Inside the course you=E2=80=99ll learn:
+
+* Machine learning and image classification
+* Automatic License/Number Plate Recognition (ANPR)
+* Face recognition
+* How to train HOG + Linear SVM object detectors
+* Content-based Image Retrieval (i.e., image search engines)
+* Processing image datasets with Hadoop and MapReduce
+* Hand gesture recognition
+* Deep learning fundamentals
+* =E2=80=A6and much more!
+
+PyImageSearch Gurus is the most comprehensive computer vision
+education online today, covering 13 modules broken out into 168
+lessons, with other 2,161 pages of content. You won=E2=80=99t find a more
+detailed computer vision course anywhere else online, I guarantee
+it.
+
+The PyImageSearch Gurus course also includes private community
+forums. I participate in the Gurus forum virtually every day, so
+it=E2=80=99s a great way to get expert advice, both from me and from the
+other advanced students, on a daily basis.
+
+If you'd like to see the full list of topics covered in the
+course (including 10 FREE sample lessons), just click here and
+I'll email them to you immediately. ( http://t.dripemail2.com/c/eyJhY2NvdW5=
+0X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsInVybCI6Imh0dHA6Ly=
+9kcmlwLmxhL2MvZXlKaFkyTnZkVzUwWDJsa0lqb2lORGMyT0RReU9TSXNJblJ5YVdkblpYSmZhV=
+1FpT2lJeE1UVTROekl4TXlJc0ltUjVibUZ0YVdOZmRYSnNJanB1ZFd4c0xDSjFjbXdpT2lKb2RI=
+UndPaTh2ZDNkM0xuQjVhVzFoWjJWelpXRnlZMmd1WTI5dEwyUnZibVV0WjNWeWRYTXRkRzkxY2k=
+4X1kyRnRjR0ZwWjI0OU9ERTVaVFpoTUdaY2RUQXdNalowYnoxMGIzVnlYMlZ0WVdsc1h6RWlmUT=
+9fX3M9cXVmY2JoMTNmY2k0cmh2M3FtbmMifQ )
+
+And if you decide you'd like to join the course, I'm offering it
+at 25% OFF when you pre-order your copy of Raspberry Pi for
+Computer Vision. ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyO=
+SIsImRlbGl2ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsInVybCI6Imh0dHBzOi8vd3d3LmtpY2tzdGFy=
+dGVyLmNvbS9wcm9qZWN0cy9hZHJpYW5yb3NlYnJvY2svcmFzcGJlcnJ5LXBpLWZvci1jb21wdXR=
+lci12aXNpb24tZWJvb2s_X19zPXF1ZmNiaDEzZmNpNHJodjNxbW5jIn0 )
+
+Let me know if you have any questions on either the PyImageSearch
+Gurus course or RPi for CV, I'm happy to help!
+
+---------------------
+To make sure you keep getting these emails, please add
+adrian@pyimagesearch.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQ=
+yOSIsImRlbGl2ZXJ5X2lkIjoiNjMzNjY0NDEyNyIsInVybCI6Imh0dHBzOi8vd3d3LmdldGRyaX=
+AuY29tL3N1YnNjcmliZXJzL3F1ZmNiaDEzZmNpNHJodjNxbW5jL3Vuc3Vic2NyaWJlP2Jyb2FkY=
+2FzdD00OTAwNTU5ODNcdTAwMjZkPTIwcnA0NXc1ZDFjeWthM2s2emdrXHUwMDI2ZXhjbHVkZV9j=
+bGljaz0xXHUwMDI2X19zPXF1ZmNiaDEzZmNpNHJodjNxbW5jIn0">Unsubscribe</a>.
+Our postal address: PO Box 17598 #17900, Baltimore, MD 21297-1598
+

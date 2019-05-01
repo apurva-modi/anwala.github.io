@@ -1,0 +1,285 @@
+* 
+ * 
+
+ *Mumbai Chapter* 
+
+ * * 
+
+*PRESENTS * 
+
+ *ONLINE TRAINING ON * 
+
+ *.NET MVC 5* 
+
+ *STEP BY STEP .NET
+MVC 5 WITH EF 6, WebApi, Generic Repository pattern & DI container* 
+
+ *Pre-requisites:* 
+
+ 1. Basic understanding of C# and html 
+
+ 2. Basic understanding of LINQ 
+
+ *SYLLABUS* 
+
+  *Section-1 MVC Introduction* 
+
+ " Covers *Architecture of MVC* and *Routing Mechanism* who take care
+of URL pattern and *Razor Engine* who will take care of server side
+parsing in cshtml. 
+
+ 1. MVC Introduction 
+
+ 2. Routing Mechanism 
+
+ 3. Razor Engine 
+
+  *Section-2 Data Management Technique* 
+
+ " Covers *Data Management* techniques like *ViewData, ViewBag,
+TempData* and *Session*. Difference between these objects and their
+*scope* in MVC cycle. It also introducing
+*Model layer*. 
+
+ 4. Data Management-ViewData and ViewBag 
+
+ 5. Data Management-TempData and Session 
+
+ 6. Scope of ViewData, ViewBag, TempData and Session 
+
+ 7. Model and Strongly type View 
+
+  *Section-3 HTML Helpers* 
+
+ " Covers introduction of *Entity Framework 6* and *HTML helpers.* It
+also load *DropDownBox* and *RadioButtonList* using Entity Framework 
+
+ 8. Helpers Part1 Standard type 
+
+ 9. Introduction of Entity Framework 
+
+ 10. Generating DropDownBox 
+
+ 11. Helpers Part2 Strongly type 
+
+ 12. Generating RadioButtonList 
+
+  *Section-4 CRUD using Entity Framework* 
+
+ " Covers *CRUD* base operation using *Entity Framework 6 Database
+First* approach. It is also explaining *ModelBinder* and *Custom
+ModelBinder*. It also covers 
+
+ *Scaffolding* option. 
+
+ 13. Data Retrieval using Entity Framework 
+
+ 14. Master-Detail using ActionLink and Entity Framework 
+
+ 15. Create View to Post data using scaffolding 
+
+ 16. Capture Form data using Formcollection 
+
+ 17. Capture Form data using ModelBinder 
+
+ 18. Capture Form data using UpdateModel 
+
+ 19. Create Editing View to Post data using Entity Framework 
+
+ 20. Updating data using Entity Framework 
+
+ 21. Delete data using Entity framework 
+
+ 22. Implement Custom ModelBinder CRUD using Entity Framework 
+
+ 23. CRUD using Entity Framework and Scaffolding 
+
+  *Section-5 Validation* 
+
+ " Covers *validation* at *server side and client side* using *Data
+Annotation* *and Jquery*. It also solves *validation constraint* for
+entity framework using *Metadata* 
+
+ 24. Validation Part1 Server Side-Required, Range, Regular Expression
+and Compare Attribute using Data Annotation 
+
+ 25. Validation Part1 Server Side-Implement metadata to
+solve Entity Framework validation problem 
+
+ 26. Validation Part3 Client Side 
+
+  *Section-6 Layout and Area* 
+
+ " Covers *Layout, Section, Render Page, Partial Page, Layout Render
+techniques* using *ViewStart file* 
+
+ 27. Layout 
+
+ 28. RenderSection and RenderPage 
+
+ 29. Different Render techniques to use ViewStart file 
+
+ 30. 
+ Partial View 
+
+ 31. Area 
+
+  *Section-7 Caching and
+Optimization* 
+
+ " Covers *performance* topics using *Bundling, Minification and
+Caching techniques.* In caching it covers *Output Cache, Partial Page
+Caching and Data
+Caching.* 
+
+ 32. Bundling and Minification 
+
+ 33. MVC Caching Part1 
+
+ 34. MVC Caching Part2 
+
+ * * 
+
+  *Section-8
+Security* 
+
+ " Covers *Security* which discuss about *Cross Site Scripting attack*
+and its *Prevention* 
+
+ 35. MVC Security Part1 Cross Site Scripting and prevention 
+
+  *Section-9 MVC Filters* 
+
+ " Covers *MVC Filters* which implement *Custom Authentication,*
+*Custom Authorization, Custom Action* and *Custom Exception Filter*
+covers *Authentication, Authorization, Logging and handling Exception*
+respectively in MVC application. It also
+covers *MVC Pipeline* in detail. 
+
+ 36. MVC Filter Part1 
+
+37. MVC Filter Part2 
+
+ 38. Error Handling using HandleError attribute 
+
+ 39. Authentication and Authorization 
+
+ 40. Form Authentication and Authorization 
+
+ 41. MVC Pipeline 
+
+  *Section-10 Dependency Injection* 
+
+ " Covers Dependency
+Inversion Principle *(DIP)*, Dependency Injection *(DI)*, Inversion Of
+Control *(IoC)* and *Unity Container*. It also implement *Custom
+Controller Factory* to implement Dependency Injection in MVC 
+
+ 42. Dependency Injection-Part1- Dependecy Inversion Principal (DIP)
+and Inversion of Control (IoC) 
+
+ 43. Dependency Injection-Part 2-Dependecy Injection (DI) and IoC 
+
+ 44. Dependency Injection-Part 3- Implement Dependency Injection using
+unity in MVC 
+
+ 45. Dependency Injection-Part 4- Implement Custom Controller Factory
+to support DI 
+
+ 46. Dependency Injection-Part 3- Implement Unity container in MVC 
+
+  *Section-11 Pattern and Practises* 
+
+ " Covers common architecture design pattern which normally apply with
+MVC like *Repository*, and *Generic Repository*. 
+
+ 47. Implement Repository Pattern in MVC 
+
+ 48. Implement Generic Repository Pattern in MVC 
+
+  *Section-12 Test Driven Application and Deployment* 
+
+ " Covers *MSTest project* to write *Unit Test* for MVC and *Build and
+Deploy* MVC using *IIS7* 
+
+ 49. Unit Testing using .Net Testing 
+
+ 50. Build and Deployment in IIS7 
+
+  *Section-13 WebApi* 
+
+ " Covers *REST API* i.e
+ASP.Net *WebApi-2* and how MVC application *communicate* with Web Api.
+
+
+ 51. WebApi Part1 
+
+ 52. WebApi Part2 
+
+ *Demo Video* 
+
+ *Watch demo video of* 
+Module 1-MVC Architecture & Module 2- Data Management Techniques 
+
+ http://panela.csimumbai.org/jtrack?d=0&id=CFQACQVXGFMSFBFFVRcBXVBGHQEBJABTXQdHTQMcBwAWXw0=&client=60809
+
+ *Course prepared by Mr. Yogesh* 
+
+ Yogesh is Senior Solution Architect in Leading Software Company in
+US. He has over 13+ years hands on experience in .NET Technology with
+an academic background of BE Computer. He has good experience in Azure
+Service Fabric, KAFKA, Elastic Search, Redis, Microservices, Design
+Patterns, ASP.NET, MVC, Angular, Entity Framework, LINQ, WCF, Web Api
+and Web services. He is corporate .NET trainer and taking online .Net
+training for several companies. 
+
+ *REGISTRATION DETAILS* 
+
+ *CSI MEMBERS / STUDENTS* 
+
+ *NON CSI MEMBERS / PROFESSIONALS * 
+
+ 3000/- 
+
+ 4000/- 
+
+ *Registration Link * 
+
+ http://panela.csimumbai.org/jtrack?d=0&id=CFQACQVXGFMSFBFFVRcBXVBGHQEBJABTXQdHTQMcBwAWXw0=&client=60809
+
+ *CERTIFICATE* : At the
+completion of the course you will receive CSI certificate 
+
+ *VALIDITY* : 3 months after purchase 
+
+ *COURSE ACCESS:* Users will have access to the course within 48
+business hours after payment. 
+
+ *FOR QUERIES / BULK REGISTRATION* 
+
+ Harshvardhan Mane 
+
+ CSI Mumbai Chapter 
+
+ Telephone: +91 22 28235476 / 28235548, Fax: +91 22 28235546 
+
+ Mobile : +91 9819089527,9768550926 
+
+ Email: harsh@csimumbai.org , info@csimumbai.org ,
+sunita@events-csi.com 
+
+ Website: www.csimumbai.org 
+
+ Disclaimer: 
+
+ This mail is not spam mail and is a genuine communication from
+Computer Society of India (CSI) Mumbai Chapter to its members and
+other IT Professionals to inform them about the forthcoming event. If
+you feel that this mail should not have been sent to you or you want
+similar communication to be sent to your different e-mail address,
+please reply to this mail and
+specify it in the message. 
+
+ * * 
+
+--Click Here to unsubscribe from this newsletter.

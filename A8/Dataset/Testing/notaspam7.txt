@@ -1,0 +1,374 @@
+
+<HTML><HEAD></HEAD><BODY><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Trans=
+itional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0">
+        <style type=3D"text/css">
+            a
+            {
+            text-decoration: none;
+            }
+            @media screen and (max-width: 550px)
+            {
+            td.eBody
+            {
+            padding: 20px 0 0 0!important;
+            }
+            .eBody table, .eBody img.longBodyImage
+            {
+            width: 99%!important;
+            }
+            .eBody .cellMiddle
+            {
+            width: 1px!important;
+            }
+            }
+            td.title
+            {
+            font-family:Helvetica, Arial, sans-serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #004280;
+            }
+            .style1
+            {
+            width: 100px;
+            height: 43px;
+            }
+            .buttonBlue
+            {
+            color:#ffffff!important; font-weight: 600;
+            background-color: #004280;
+            padding: 10px 13px;text-align: center; text-decoration: none;
+            display: inline-block;margin: 0;border:0; cursor: pointer;
+            }
+            .buttonPlain
+            {
+            color:#004280!important; font-weight: 600; background-color: #f=
+ff;
+            padding: 10px 0 0 0 ;text-align: left; text-decoration: underli=
+ne;
+            display: inline-block;margin: 0;border:0; cursor: pointer;
+            }
+        </style>
+    </head>
+    <body style=3D"" contenteditable=3D"true">
+        <table style=3D"font-family:Helvetica, Arial, sans-serif; font-size=
+: 1.3em border-collapse: collapse; float: left;" border=3D"0" width=3D"600p=
+x" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff">
+            <tbody>
+                <!-- $$ Page Header  $$  -->
+                <tr>
+                    <td style=3D"padding:0;  width: 100%;"><img src=3D"http=
+s://static.askadmissions.net/cunyzick/usermedia/templates/Temp%20MS%20Banne=
+r.jpg" alt=3D"Baruch College-Zicklin School of Business" style=3D""><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"eBody" style=3D"padding:20px 35px 0 35px; =
+ width: 100%;">
+                    <table style=3D"font-family: Helvetica, Arial, sans-ser=
+if; float: left; width: 530px;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"">
+                        <tbody>
+                            <tr>
+                                <td colspan=3D"3" class=3D"title" style=3D"=
+padding: 5px 0px 15px; text-align: left; vertical-align: bottom;">
+                                <div><span style=3D"font-size: 32px;">Zickl=
+in MS Programs&nbsp;</span></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"width: 250px; padding-top: 20p=
+x; vertical-align: top;" colspan=3D"3"><span style=3D"font-size: 20px; font=
+-family: Arial;"><strong>Upcoming Application Deadline</strong></span></td>
+                            </tr>
+                            <tr>
+                                <td colspan=3D"3" style=3D"border-bottom: 1=
+px solid black; padding: 20px 0px; width: 550px;">
+                                <div>
+                                <div style=3D"font-family: Helvetica, Arial=
+, sans-serif; font-size: 16px;"><em style=3D"font-family: Arial;">Apply by =
+our&nbsp;<strong>Round 3</strong>&nbsp;deadline of <strong>Wednesday</stron=
+g><em><em><strong>, May 1st</strong> (11:59pm)</em></em><br>
+                                </em></div>
+                                </div>
+                                <div>
+                                </div>
+                                <div></div>
+                                <div>
+                                <div style=3D"font-family: Helvetica, Arial=
+, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">
+                                <div style=3D"outline: none; display: inlin=
+e !important;">
+                                <table table=3D"" ;=3D"" width=3D"288" heig=
+ht=3D"42" align=3D"left" style=3D"padding: 0px; margin: 0px; outline: none =
+medium; left: 26px; width: 283px; height: 44px;">
+                                    <tbody style=3D"outline: none;">
+                                        <tr style=3D"outline: none;">
+                                            <td style=3D"margin: 0px; backg=
+round-color: #004280; vertical-align: middle; text-align: center; height: 3=
+0px;"><font color=3D"#ffffff" face=3D"Arial"><span style=3D"font-size: 14px=
+;"><strong><a href=3D"http://cunyzick.askadmissions.net/admin/Communication=
+s/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_VvVrhQvNVKnY0o1zo0MeLoWHW8kZihF=
+ivNjgcvi_g6W" target=3D"_blank" class=3D"buttonBlue"><span style=3D"color: =
+#ffffff;">Start or Finish Your Application Now</span></a></strong></span></=
+font></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </div>
+                                <p style=3D"margin: 0in; font-family: Calib=
+ri; font-size: 11pt;"><span style=3D"font-size: 14px;"><br>
+                                </span></p>
+                                <div style=3D"margin: 0in; font-family: Cal=
+ibri; font-size: 11pt;"><span style=3D"font-size: 14px;">&nbsp;</span>
+                                <div></div>
+                                </div>
+                                <div style=3D"margin: 0in; font-family: Cal=
+ibri; font-size: 11pt;"><span style=3D"font-family: Arial, sans-serif; font=
+-size: 14px;">&nbsp;&nbsp;&nbsp;</span></div>
+                                <div style=3D"margin: 0in; font-family: Cal=
+ibri; font-size: 11pt;"><span style=3D"font-family: Arial, sans-serif; font=
+-size: 14px;">&nbsp;</span></div>
+                                <div style=3D"margin: 0in; font-family: Cal=
+ibri; font-size: 11pt;"><span style=3D"font-family: Arial, sans-serif; font=
+-size: 14px;">
+                                <div style=3D"background-color: rgb(255, 25=
+5, 255); margin-top: 0in; margin-right: 0in; margin-bottom: 0in; font-famil=
+y: Calibri; font-size: 11pt;"><strong><span style=3D"font-size: 16px; font-=
+family: Arial;">Application Checklist:</span></strong></div>
+                                <div style=3D"background-color: rgb(255, 25=
+5, 255); margin-top: 0in; margin-right: 0in; margin-bottom: 0in; font-famil=
+y: Calibri; font-size: 11pt;"><strong><span style=3D"font-size: 16px; font-=
+family: Arial;"></span></strong><span style=3D"font-family: Arial;;font-siz=
+e: 16px;">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;Online Application &amp; Appli=
+cation Fee<br>
+                                </span><em style=3D"font-size: 16px; font-f=
+amily: Arial;"><span style=3D"font-family: Arial; font-size: 16px; backgrou=
+nd-color: rgb(255, 255, 255);">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;</span>Un=
+official</em><span style=3D"font-size: 16px; font-family: Arial;">&nbsp;GMA=
+T or GRE Score<br>
+                                </span><em style=3D"font-family: Arial;"><s=
+pan style=3D"font-family: Arial; font-size: 16px; background-color: rgb(255=
+, 255, 255);">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;</span>Unofficial</em><spa=
+n style=3D"font-size: 16px; font-family: Arial;">&nbsp;Transcripts<br>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;"><span style=3D"font-family: Arial; font-size: 16px; backgr=
+ound-color: rgb(255, 255, 255);">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;Names a=
+nd Emails of Two Recommenders</span><br>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;"><span style=3D"font-family: Arial; font-size: 16px; backgr=
+ound-color: rgb(255, 255, 255);">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;</span>=
+Two Essays*<br>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;"><span style=3D"font-family: Arial; font-size: 16px; backgr=
+ound-color: rgb(255, 255, 255);">&nbsp; &nbsp;=E2=96=A1&nbsp; &nbsp;</span>=
+R=C3=A9sum=C3=A9</span></div>
+                                <div style=3D"background-color: rgb(255, 25=
+5, 255); margin-top: 0in; margin-right: 0in; margin-bottom: 0in; font-famil=
+y: Calibri; font-size: 11pt;"><span style=3D"font-family: Arial; font-size:=
+ 14px;">&nbsp;</span></div>
+                                <div style=3D"background-color: rgb(255, 25=
+5, 255); margin-top: 0in; margin-right: 0in; margin-bottom: 0in; font-famil=
+y: Calibri; font-size: 11pt;"><span style=3D"font-family: Arial; font-size:=
+ 14px;">*Essay prompts and further instructions can be found on our website=
+ under&nbsp;&nbsp;<a href=3D"http://cunyzick.askadmissions.net/admin/Commun=
+ications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_cEFLT3EMzyDu_y4KTL3OddxA=
+QtyCwju9o63Pu0IJ3L1" target=3D"_blank" ;"=3D""><strong><span style=3D"color=
+: rgb(27,68,126);">Application Components</span></strong></a>.&nbsp;&nbsp;F=
+or students educated outside the U.S., see additional application elements =
+that might be required under&nbsp;<a href=3D"http://cunyzick.askadmissions.=
+net/admin/Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_RxKjH6X4=
+QCyoGFRDAb1-LNAo2L7lxohlihk9FxOqtPY" target=3D"_blank" ;"=3D""><strong><spa=
+n style=3D"color: rgb(27,68,126);">International Applicants</span></strong>=
+</a>.</span></div>
+                                </span></div>
+                                </div>
+                                </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"width: 250px; padding-top: 20p=
+x; vertical-align: top;" colspan=3D"3"><strong style=3D"font-family: Helvet=
+ica, Arial, sans-serif; font-size: 20px; background-color: rgb(255, 255, 25=
+5);">Interested in learning more?</strong><span style=3D"font-family: Arial=
+; font-size: 16px; background-color: rgb(247, 247, 247);">&nbsp;</span><br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"width: 250px; padding-top: 20p=
+x; vertical-align: top;" colspan=3D"3">
+                                <div><span style=3D"font-size: 16px; font-f=
+amily: Arial;">
+                                <div><span style=3D"font-size: 13px;">
+                                <div><span style=3D"font-size: 18px;;font-s=
+ize: 16px;">Register for our upcoming events or webinars</span><font color=
+=3D"#23318f" style=3D"font-size: 16px;">&nbsp;<a href=3D"http://cunyzick.as=
+kadmissions.net/admin/Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh=
+5Od_ehRdnI48IF3fCach4ROopFumJhZ6bNg-R7mmV8WbvXo" target=3D"_blank"><span st=
+yle=3D"color: #004280;"><strong>here</strong></span></a>.&nbsp;</font></div=
+>
+                                </span></div>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;">
+                                <div><span style=3D"font-size: 13px;">
+                                <div>
+                                <p style=3D"margin: 0in; font-size: 16px; f=
+ont-family: Calibri;">&nbsp;</p>
+                                </div>
+                                </span></div>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;">
+                                <div><span style=3D"font-size: 13px;">
+                                <div>
+                                <div style=3D"margin: 0in; font-size: 16px;=
+ font-family: Calibri;"><span style=3D"font-size: 14px;;font-family: Arial;=
+"><span style=3D"font-size: 14px; background-color: rgb(255, 255, 255); fon=
+t-family: Arial;"></span><span style=3D"font-family: Arial; font-size: 14px=
+;;font-family: Arial, sans-serif;">&nbsp; &nbsp;=E2=80=A2&nbsp; <em>Account=
+ing and Taxation Open House</em>: May 2nd</span></span></div>
+                                <div style=3D"margin: 0in; font-size: 16px;=
+ font-family: Calibri;"><span style=3D"font-size: 14px;;font-family: Arial;=
+;font-family: Arial; font-size: 14px;;font-family: Arial, sans-serif;"><spa=
+n style=3D"font-family: Arial; font-size: 14px; background-color: rgb(255, =
+255, 255);"><span style=3D"font-family: Arial, sans-serif;">&nbsp; &nbsp;=
+=E2=80=A2&nbsp;&nbsp;</span><span style=3D"font-family: Arial, sans-serif;"=
+><em>Application Workshop Webinar:</em></span></span><span style=3D"font-fa=
+mily: Arial; font-size: 14px; background-color: rgb(255, 255, 255);"><em>&n=
+bsp;</em>May 9th</span></span></div>
+                                </div>
+                                </span></div>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;">
+                                <div><span style=3D"font-size: 13px;">
+                                <div>
+                                <div style=3D"margin: 0in; font-size: 16px;=
+ font-family: Calibri;"><span style=3D"font-size: 14px;;font-family: Arial;=
+"><strong style=3D"font-family: Arial; font-size: 14px; background-color: r=
+gb(255, 255, 255);"><span style=3D"font-family: Arial, sans-serif;">&nbsp; =
+&nbsp;=E2=80=A2&nbsp; </span></strong><span style=3D"font-family: Arial; fo=
+nt-size: 14px; background-color: rgb(255, 255, 255);;font-family: Arial, sa=
+ns-serif;"><em>MS Programs Information Session</em></span><em style=3D"font=
+-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255);">:&n=
+bsp;</em><span style=3D"font-family: Arial; font-size: 14px; background-col=
+or: rgb(255, 255, 255);">May 21st</span><br>
+                                </span></div>
+                                <div style=3D"margin: 0in; font-size: 16px;=
+ font-family: Calibri;"><span style=3D"font-size: 14px;;font-family: Arial;=
+"><br>
+                                </span></div>
+                                </div>
+                                </span></div>
+                                </span><span style=3D"font-size: 16px; font=
+-family: Arial;">
+                                <div><span style=3D"font-size: 13px;">
+                                <div>
+                                <p style=3D"margin: 0in; font-size: 16px; f=
+ont-family: Calibri;">&nbsp;</p>
+                                </div>
+                                </span></div>
+                                </span><span style=3D"font-size: 16px; back=
+ground-color: rgb(247, 247, 247); font-family: Arial;">
+                                <div><span style=3D"font-size: 14px;"></spa=
+n><span style=3D"font-size: 13px;"></span></div>
+                                <div></div>
+                                </span><span style=3D"font-size: 16px; back=
+ground-color: rgb(247, 247, 247); font-family: Arial;">
+                                <div>
+                                <div style=3D"font-family: Helvetica, Arial=
+, sans-serif;"><span style=3D"font-size: 14px; font-family: Arial;">
+                                <div style=3D"font-family: Helvetica, Arial=
+, sans-serif; font-size: 16px; text-align: center;"><span style=3D"font-siz=
+e: 14px; font-family: Arial;"></span></div>
+                                </span></div>
+                                </div>
+                                </span>
+                                <p style=3D"margin: 0.5em 0px;"><span style=
+=3D"font-size: 16px;"><strong>Office of Graduate Admissions</strong><br>
+                                </span><span style=3D"font-size: 16px;">Zic=
+klin School of Business<br>
+                                Baruch College, City University of New York=
+<br>
+                                </span><a href=3D"mailto:ZicklinGradAdmissi=
+ons@baruch.cuny.edu" style=3D"color: rgb(15, 54, 96); font-size: 14px;"><sp=
+an style=3D"color: #004280;"><strong><span style=3D"font-size: 16px;">Zickl=
+inGradAdmissions@baruch.cuny.edu</span></strong></span></a></p>
+                                </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan=3D"3" class=3D"footer" style=3D"padding: 50=
+px 0 25px 0;">
+                    <table style=3D"font-family:Helvetica, Arial, sans-seri=
+f; font-size: 1.3em border-collapse: collapse; float: left;" border=3D"0" w=
+idth=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff">
+                        <tbody>
+                            <tr>
+                                <td style=3D"width: 33%; vertical-align: to=
+p;"><a href=3D"http://cunyzick.askadmissions.net/admin/Communications/Click=
+Thru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_VIJlTK4VbGRzlIrkaACsu3UBdz9p23seK2v2O1=
+fVP1n"><img src=3D"https://static.askadmissions.net/cunyzick/usermedia/temp=
+lates/ZK_BC_Logo.png" alt=3D"Baruch College-Zicklin School of Business Logo=
+" style=3D"width: 168px; height: 55px;"><br>
+                                </a>
+                                </td>
+                                <td style=3D"width: 25%; vertical-align: to=
+p; padding-top: 10px;"><a href=3D"http://cunyzick.askadmissions.net/admin/C=
+ommunications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_dCv84TjSPLCusgt-f8z=
+fWRVjWR2Fx3jCfQ5rStv3PD-"><img src=3D"https://static.askadmissions.net/cuny=
+zick/usermedia/templates/cuny-logo-small.png" alt=3D"" style=3D""><br>
+                                </a>
+                                </td>
+                                <td style=3D"width: 42%; vertical-align:bot=
+tom; padding-top: 20px;">
+                                <p style=3D"padding-top: 0; text-align: rig=
+ht; font-size: 80%; padding-right: 160px;">Stay in touch</p>
+                                <p style=3D"padding-top: 0; margin-top: -40=
+px; text-align: right;"><a href=3D"http://cunyzick.askadmissions.net/admin/=
+Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_cJVPjs-E9mMxYcR7IM=
+AgoVjSFEFebjhMaVYVzn6mlZ6"><img src=3D"https://static.askadmissions.net/cun=
+yzick/usermedia/templates/fac.png" alt=3D"" style=3D""></a>&nbsp;<a style=
+=3D"text-decoration: none;" href=3D"http://cunyzick.askadmissions.net/admin=
+/Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_QeDPt3tpOCRLYJ5mY=
+HIxV9Yp_JOWnaF_JpzWCK4frEl"><img src=3D"https://static.askadmissions.net/cu=
+nyzick/usermedia/tws.png" alt=3D"" style=3D""></a>
+                                <a href=3D"http://cunyzick.askadmissions.ne=
+t/admin/Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_TxeVzU0rQM=
+2pnkVwqBTEolPs4XhbMzngyjiV_vNpYwp"><img src=3D"https://static.askadmissions=
+.net/cunyzick/usermedia/templates/linked.png" alt=3D"" style=3D""></a>&nbsp=
+;<a style=3D"text-decoration: none;" href=3D"http://cunyzick.askadmissions.=
+net/admin/Communications/ClickThru.aspx?qs=3D_EwdfQp77dLpUPZ2wh5Od_QqTD02Wk=
+pVUQ7sJZ4DaAW9DieVhGVAEkqcQo2vlP1Gs"><img src=3D"https://static.askadmissio=
+ns.net/cunyzick/usermedia/templates/youtube.png" alt=3D"" style=3D""></a>
+                                </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
+<BR><BR><TABLE width=3D"100%">
+<TR><TD><IMG src=3Dhttp://cunyzick.askadmissions.net/admin/Communications/W=
+ebBeacon.aspx?qs=3D_H9XTGX9sBytaqwh_y5Rubg></TD></TR><TR><TD style=3D"FONT-=
+SIZE: 10pt; FONT-FAMILY: Verdana" align=3D"left">To opt-out from future ema=
+il communications, please&nbsp;<A HREF=3D"https://cunyzick.askadmissions.ne=
+t/ContactPreferenceCenter.aspx?qs=3D_XTJ-DoIhn7eyl5ueiEntP4We71nmo4sfd0pCeE=
+XwNirFKORvl-aCtRmr7xMfw3-ZdUYAodVcIDoI6u7wTXsvyWR13rJcLbrKecoMNgtYqWZjV2EQq=
+fpbtot-6N8zQo8NLMUrF96HS4ZfNCaPrh_pNpd--iH8NykrtC_4ZR-HpwbkYq45xseeAaNl9q6q=
+fUo5">Unsubscribe.</A></TD></TR><TR><TD>&nbsp;</TD></TR><TR><TD style=3D"FO=
+NT-SIZE: 8pt; FONT-FAMILY: Verdana" align=3D"center">Zicklin School of Busi=
+ness<BR>Baruch College of the City University of New York</TD></TR>
+</TABLE></BODY></HTML>

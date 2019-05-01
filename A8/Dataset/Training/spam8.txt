@@ -1,0 +1,76 @@
+
+	<head>
+<title>View in browser</title>
+<link rel="icon" href="/uploads/logo/favicon.png" sizes="42x42" type="image/png">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+            #outlook a{
+                padding:0;
+            }
+            body{
+                width:100% !important;
+            }
+            body{
+                -webkit-text-size-adjust:none;
+            }
+            body{
+                margin:0;
+                padding:0;
+            }
+            img{
+                border:none;
+                font-size:14px;
+                font-weight:bold;
+                height:auto;
+                line-height:100%;
+                outline:none;
+                text-decoration:none;
+                text-transform:capitalize;
+            }
+            table{
+                margin:0;
+                padding:0;
+            }
+            .preheader {display:none !important;}
+            
+        </style>
+</head>
+<body style="width:100% !important;webkit-text-size-adjust:none; margin:0;
+                                padding:0" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+
+    <div style="width:100%">
+        
+<a href="http://ntrck.fineecho.com/links/ixJRDflCYckCREaUwawYERUkYWgqsaUVRBFFMkuhPkMK/107774/Luvia.html" target="_blank">
+</a><table cellpadding="10" cellspacing="0" border="0" width="700" style="margin:auto;">
+<tr>
+<td align="center"><img src="https://mmail-images.s3.amazonaws.com/email-images/2019/jan/24/nat/ACK-Media-Header.jpg" align="middle" width="700" alt="NATIONAL GEOGRAPHIC" style="display:block;     color:#fcd905;
+    font-family:Arial;
+    line-height:60px;
+    text-align:center;
+    font-size:24px;
+    background:#353338;"></td>
+  </tr>
+<tr>
+<td align="center"><img src="https://mmail-images.s3.amazonaws.com/email-images/2019/jan/24/nat/NG-THE-BIG-DROP%21v8.jpg" alt="LIMITED PERIOD OFFER | THE BIG DROP! | WE ARE SLASHING OUR PRICES LIKE NEVER BEFORE!" width="700" usemap="#Map" align="center" style="display:block;     color:#ffffff;
+    font-family:Arial;
+    line-height:60px;
+    text-align:center;
+    font-size:24px;
+    background:#353338;"></td>
+  </tr>
+<tr>
+<td align="center">
+<img src="https://mmail-images.s3.amazonaws.com/email-images/2019/jan/24/nat/Brand-Footer.jpg" alt="SUBSCRIBE NOW" width="700" usemap="#Map2" align="center" style="display:block;     color:#fcd905;
+    font-family:Arial;
+    line-height:60px;
+    text-align:center;
+    font-size:24px;
+    background:#353338;"><map name="Map2"><area shape="rect" coords="242,10,455,132" href="http://www.facebook.com/tinklecomicsstudio">
+<area shape="rect" coords="494,11,687,132" href="http://www.amarchitrakatha.com/in/magazines/tinkle-subscriptions"></map>
+</td>
+  </tr>
+</table>
+</div>
+
+</body>

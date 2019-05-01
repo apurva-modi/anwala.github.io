@@ -1,0 +1,26 @@
+Good evening from Crete,
+
+I mentioned in our #courses slack channel that we had one place left for tomorrow's Data Structures in Java Live Class.
+
+That sold out pretty quickly.
+
+However, one of the students requested to move to the next course. So we have one place left.
+
+It is $149, plus VAT.
+
+Please get it here: https://javaspecialists.teachable.com/p/data-structures-in-java-2019-03
+
+It will be fun, whilst at the same time educational. Even if you know everything there is to about data structures, I bet you will learn at least one useful thing that will be worth your $149, and more importantly, your time.
+
+We will spend a lot of time on the most useful data structures, but will also look at those you have maybe not used much, such as CopyOnWriteArrayList/Set and ConcurrentSkipListSet/Map.
+
+See you tomorrow hopefully :-)
+
+Kind regards
+
+Heinz
+
+
+
+
+Unsubscribe from these emails  

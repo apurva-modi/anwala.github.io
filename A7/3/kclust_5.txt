@@ -1,0 +1,102 @@
+Total Number Of Iterations: 11 
+---
+Cluster 1 
+1.	Catering Harian Tangerang
+2.	Catering Tangerang
+3.	A Teacher's View
+4.	Witty Title Pending
+5.	ESLP Garden Cleanups
+6.	Jackson449
+7.	Start talking about these things.
+8.	Life at the lake
+9.	A New Day Vegan
+10.	Skinny Mini, that'll be me!
+11.	Jenn, Simply
+12.	TwoTalkTulsa
+13.	The Accidental CrossFitter
+14.	papier-mâché
+15.	Random Thoughts of a Plastic Surgeon
+16.	My Experience as a Student of Veterinary Medicine
+17.	Stony Bridge Farm
+18.	Dry Moon:  Then and Now
+19.	MAX Summer 2015
+20.	John's Blog
+21.	Nicole's Socially Awkward
+22.	Budget Vegetarians
+23.	THE ORIFICE!!
+24.	Other Amazing reusable products out there
+25.	Perfect...Not So Much
+26.	Mind - Body - Spirit - Soul - Connection
+27.	Liz B. Quilting
+28.	Short Presents | Food. Fashion. Fun.
+29.	Pursuing The Art of Life
+30.	Glitter Every Day
+31.	vegan greenling
+32.	MizzBzVegan
+33.	StackThat
+34.	Two Lovebird Locavores
+35.	remy eats (& cooks!)
+36.	I've always loved pink!
+37.	Evil Ditties
+38.	My Tenuous Grasp
+39.	F-Measure
+
+---
+Cluster 2 
+1.	BUF Book Group
+2.	Thoughts and Sermons from a Biblical Worldview
+3.	Life, Faith, and Urban Farming
+4.	Coachingbeyond
+5.	UX in Libraries: Glossary
+6.	Diary of a Faithful Mama
+7.	A New Start
+
+---
+Cluster 3 
+1.	chinese food recipes
+2.	herbal cancer tertament
+3.	My adsense money
+
+---
+Cluster 4 
+1.	BUFrecipes
+2.	Catering Tangerang Murah
+3.	Living as foodie
+4.	Health Actual
+5.	Aromatherapy
+6.	Main Tourist Trips
+7.	Rent a helicopter
+8.	World Food
+9.	Yacht Rentals
+10.	John Creasy Permaculture Design
+11.	OHMazing Kids Yoga
+12.	Flying Dragon Wellness ~~~~Nourish Your Inner Fire
+13.	GardenSpotlight
+14.	Minutes with Coach
+15.	Green on the Scene Wellness & Fertility
+16.	Cultural Media Literacy
+17.	Indigeny & Energetics
+18.	...how deep the water...
+19.	Ukumbwa Sauti, initiated Dagara Elder, Counselor
+20.	GODSHERBS4ME
+21.	lifehopeAfricafoundation
+22.	FAT CATERING
+23.	Herblog
+24.	Flexitarian Family
+25.	what.supp.blog
+26.	c o e x i s t
+27.	velvetfox
+28.	"KHANA KHAZANA" BUSINESS
+29.	BREATHE & SHINE
+30.	Web Science and Digital Libraries Research Group
+
+---
+Cluster 5 
+1.	Parkers BIG blog
+2.	The Story of the Seed
+3.	Spawn of the Thrall
+4.	Actual Medical
+5.	world religions Project
+6.	Letters to the Vatican
+7.	The Boy Who Harnessed the Wind Blog by Zeke Cambey
+

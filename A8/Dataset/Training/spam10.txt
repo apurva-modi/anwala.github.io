@@ -1,0 +1,55 @@
+
+	<head>
+<title>View in browser</title>
+<link rel="icon" href="/uploads/logo/favicon.png" sizes="42x42" type="image/png">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+            #outlook a{
+                padding:0;
+            }
+            body{
+                width:100% !important;
+            }
+            body{
+                -webkit-text-size-adjust:none;
+            }
+            body{
+                margin:0;
+                padding:0;
+            }
+            img{
+                border:none;
+                font-size:14px;
+                font-weight:bold;
+                height:auto;
+                line-height:100%;
+                outline:none;
+                text-decoration:none;
+                text-transform:capitalize;
+            }
+            table{
+                margin:0;
+                padding:0;
+            }
+            .preheader {display:none !important;}
+            
+        </style>
+</head>
+<body style="width:100% !important;webkit-text-size-adjust:none; margin:0;
+                                padding:0" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+
+    <div style="width:100%">
+        
+<div>
+  <table align="center" width="650" cellpadding="0" cellspacing="0" style="margin:auto;border:1px solid #ccc"><tbody><tr>
+<td>
+        <a href="http://track.facedelta.com/links/YXxlbelsWEwWluWkUJEiCPcfuCEPxyfRggPeWqKlK/90447/Netco.html" target="_blank"> 
+        <img src="https://gumimg.gumlet.com/2019/march/dt-29/Health_M3a.jpg" width="100%" alt="Express Your Love By Gifting Health Insurance | Starting @ Rs.26.50/Day* | Buy Now" style="display: block;color: #fff;font-family: Arial;line-height: 60px;text-align: center;font-size: 24px;background:#dd0712;"></a>
+        </td>
+      </tr></tbody></table>
+</div>
+
+    </div>
+
+</body>

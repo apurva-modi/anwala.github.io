@@ -1,0 +1,29 @@
+Design AI models and AI-driven systems using MATLAB & Simulink
+Dear Members,
+
+The agenda for our next meetup "Design AI models and AI-driven systems using MATLAB & Simulink" at MathWorks if finalised, here is the updated session details:
+
+10:15 am – 11:15 am: Beyond the “I” in AI
+
+Insight. Implementation. Integration.
+
+AI, or artificial intelligence, is transforming the products we build and the way we do business. It also presents new challenges for those who need to build AI into their systems. Creating an “AI-driven” system requires more than developing intelligent algorithms. It also requires:
+
+Insights from domain experts to generate the tests, models, and scenarios required to build confidence in the overall system
+Implementation details including data preparation, compute-platform selection, modelling and simulation, and automatic code generation
+Integration into the final engineered system
+11:30 am – 12:15 am: Developing & Deploying Digital Twins and AI Algorithms for Near Real-Time Decision Making
+
+Industrial IoT has brought the rise of connected devices that stream information and optimize operational behaviour over the course of a device’s lifetime.
+
+This presentation covers how to develop and deploy MATLAB ® algorithms and Simulink models as digital twin and IoT components on assets, edge devices, or cloud for anomaly detection, control optimization, and other applications. It includes an introduction to how assets, edge, and OT/IT components are connected.
+
+The talk features customer use cases starting from design to final operation, the underlying technology, and results.
+
+For the complete agenda, checkout https://konfhub.com/mathworks.
+
+Please register here: https://konfhub.com/mathworks (DO NOT RSVP in the meetup)
+
+Best Regards,
+
+Meetup Organisers

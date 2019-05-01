@@ -1,0 +1,185 @@
+Computer Society of India, Mumbai Chapter Presents Two day hands-on
+workshop Cassandra NOSQL Database *Date: 11-12 May 2019, Timing- 9:30
+am to 5:30 pm, Mumbai* 
+
+ *Introduction* 
+
+ Cassandra is a highly scalable, high-performance distributed database
+designed to handle large amounts of data across many commodity
+servers. Providing high availability with no single point of failure.
+It is a type of NoSQL database. 
+
+ Cassandra is the latest and rapidly growing database service. Its
+scaling feature has attracted fortune 500 companies and startups
+towards it. It
+is a column-oriented database Cassandra provides high performance,
+auto failover and auto scaling which has is the primary goal for the
+newly emerging Big data Developers. 
+
+ *Course Contents* 
+
+ *NOSQL Overview* Introduction What is NoSQL? Why NoSQL? 
+RDBMS vs NoSQL Brief history of NoSQL CAP Theorem (Brewer's Theorem)
+NoSQL pros/cons NoSQL Categories 
+
+ *Cassandra Overview* What is Apache Cassandra? Features of Cassandra
+History of Cassandra 
+
+ *Getting Started with Cassandra * Supported
+operating systems Downloading Cassandra Installing Cassandra Starting
+Cassandra services Basic configuration settings Working with CQL 
+
+ *Data Modeling * 
+ Keyspaces and tables Creating tables Data types *Data Management *
+Inserting records Querying data Time-To-Live Update and delete
+operations Primary key Secondary keys Collection data types: sets,
+lists and maps Batches Data import and export 
+
+ *Cassandra Architecture * Single server architecture Clustered
+architecture Coordinator node MemTable, CommitLog, SSTable 
+
+ *Clusters* " Core concepts of Cassandra clusters 
+
+ " Data distribution 
+
+ " Replication 
+
+" Setting up a cluster 
+
+ " Configuring replication settings 
+
+ " Clustering across data centers 
+
+ *Objectives* 
+
+ To familiarize the participants with: 
+
+ NOSQL Database , Various types of NOSQL database , specially
+Cassandra The Importance of the NOSQL database i.e. Cassandra How to
+acquire, Install and Use Cassandra? How to do Database Management i.e.
+CRUD Operatios, backup and Restore , import and Export Data on
+Cassandra Scalability and Performance
+Consideration How to use with extensive hands on 
+
+ *Who should attend* 
+
+ The Top and Middle level Management of the company. The IT Manager,
+System Analyst and Programmer which are involved in Design,
+Development and Implementation of Computer Application, The persons in
+the top and middle management and IT department of any company. 
+
+ *Faculty Profile* 
+
+ *Mrs. Rashmi Gupta* , a gold medalist engineer with M.Tech. from IIT,
+Kanpur, has more than 30 years of experience in software field. She
+has provided her consultancy services to a number of organizations in
+India, U.S.A., UK, Australia, Switzerland, Thailand, Indonesia, and
+Malaysia etc. She has worked with Tata Consultancy Services, Tata
+Infotech, Burrough Corporation, Sara Infotech etc. for 30 years on
+projects for AT&T, UNDP, Unisys etc. She has written research papers
+on software sizing techniques for object-oriented systems. 
+
+ She has led a large team of software professionals to design and
+develop a 200 Man Year Product development project of Sara ERP, CRM,
+Business Intelligence (SQL Server 2005/2008/2012) and Interface with
+DCS, SCADA & other equipments / instrument / meters etc. She has also
+led professional teams to customize and implement ERP, HR, CRM,
+Interface with DCS / SCADA system in India, Thailand, Indonesia, UK
+and Malaysia etc. She has studied various ERP packages like SAP, Baan,
+Oracle
+Financial etc. in depth. 
+ She has trained thousands of software professionals in SSAD, OOAD,
+UML, Power Builder, SQL Gupta Windows, SQL Server, SSIS, SSAS, SSRS,
+Crystal Report, Oracle, Sybase, Software Sizing, Software Engineering,
+Data Mining and Warehousing, SQL Server Performance Tuning, Crystal
+Report, Business Objects, .NET, JAVA,Spring,Hibernate , Share Point
+Server, Postgres Database, MySQL Database, ERP, and CRM etc. for
+organizations like Accenture, LionBridge Technology, Ness Technology,
+Atos Origin, I-Flex,BNP Paribas,TCS, Tata Infotech, Hexaware, CSI,
+Rave Technology,
+PMAM, I-Employee, MOTECH, IIS Infotech, Unisys Corporation, NITIE,
+Quinnox , Financial Technologies, CLSA, Datamatics, GTL, Raymonds,
+Bayer Business Services etc. Conducted a number of corporate training
+programs on Powershell Scripting , Core Java,Advanced Java, Spring
+,Struts, Hibernate, HTML , Java Script, Angular JS Data Modeling,
+Dimensional Modeling, SQL Server 2008 and SQL Server 2008 R2, SQL
+Server 2012, SQL Server 2014, SQL 2016 Developer/Admin, BI including
+Integration Service, Analysis Service( with DAX and MDX) and Reporting
+Service, Oracle PL/SQL and DBA, Performance Tuning in
+Oracle 10g and 11g, Informatica, Power Shell , NOSQL database like
+MongoDB, CouchBase and cassanda, Redis etc in many Organizations like
+Wipro, HCL, NIC, TCS, Accenture, Cognigent etc. and got excellent
+Rating on the courses conducted. 
+
+ * * 
+
+ She has also provided consultancy on SQL Server
+2005/2008//2012/2014/2016 BI to a number of organizations. 
+
+ *Contact for Registration* 
+
+ *Registration Fees / Terms and Conditions* 
+
+ *Harsh Mane @* 
+
+ *CSI Mumbai Chapter* 
+
+ E-217, 2nd Floor, Floral Deck Plaza, MIDC, Near Sunrise Tower,
+Andheri East, Mumbai - 400093 
+
+ Tel:022 28235476 / 28235548 / 28235546 
+
+ Mobile 9819089527, 9768550926 
+
+ Email: sunita@events-csi.com <mailto:sunita@events-csi.com>
+ / harsh@csimumbai.org <mailto:harsh@csimumbai.org>
+
+ info@csimumbai.org <mailto:info@csimumbai.org>
+
+ http://panela.csimumbai.org/jtrack?d=0&id=U1ZWAwcGGAUURBNHVBpRUV9FTVIDJVQCClFEGlUaUlcYCF8=&client=57116
+
+ *For online payment please click the below link* 
+
+ http://panela.csimumbai.org/jtrack?d=0&id=U1ZWAwcGGAUURBNHVBpRUV9FTVIDJVQCClFEGlUaUlcYCF8=&client=57116
+
+ - *CSI Members* * Rs. 10620/- * *Per Participant including GST* 
+
+ - *Non CSI Member * *Rs. 12980/- * 
+
+ *Per Participant including GST*
+
+ - Group discount is available for minimum 5 number of registration. 
+
+ - The cheque / DD in favour of "CSI Mumbai Chapter" Payable at
+Mumbai. 
+
+ - The mentioned fees are inclusive of all taxes and charges. 
+
+ - Registration fees covers courseware, lunch, Tea/Coffee and CSI
+Certificate. 
+
+ - Payment is to be made in favour of 
+
+ "*CSI Mumbai Chapter*", *A/c No. 10606576641* payable at State Bank
+of India, MIDC, Andheri East Branch, Mumbai-400093, RTGS/NEFT Code:
+SBIN0007074, (All Major VISA / Master Credit / Debit cards will be
+accepted. 
+
+ Participation only through advance registration, (*Batch size 20
+participants only*) 
+
+ Note - Out station participants need to confirm at least 5 days prior
+to the commencement of the
+training 
+
+ Disclaimer: 
+
+ This mail is not spam mail and is a genuine communication from
+Computer Society of India (CSI) Mumbai Chapter to its members and
+other IT Professionals to inform them about the forthcoming event. If
+you feel that this mail should not have been sent to you or you want
+similar communication to be sent to your different e-mail address,
+please reply to this mail and specify it in the message 
+
+--Click Here to unsubscribe from this newsletter.
+

@@ -1,0 +1,238 @@
+Computer Society of India, Mumbai Chapter Presents Two days hands-on
+workshop Machine Learning with Python *Date: 26-27 April 2019, 9:30 am
+to 5:30 pm, Mumbai* 
+
+ *Introduction* 
+
+ In recent
+times, there has been a sudden rise in demand of Machine Learning. The
+prime reason behind this surge is the data driven and techno focused
+approaches that majority of organizations have willingly embraced. The
+Machine Learning Program is designed to impart an in-depth training in
+the concepts and techniques of learning algorithms. The module is
+designed to help participants learn machine learning techniques and
+algorithms which can be applied using Python. The training program
+will be entirely based on used cases which will give a hands-on
+learning experiment. 
+
+ *Course Contents* 
+
+ *Python Introduction* 
+
+ Python Introduction Python History Python Data types Operands
+*Conditional statements* 
+
+ If condition if else conditions elif conditions Nested if conditions
+*Loops* 
+
+ xrange
+function for loop while loop in clause in loops break statements
+continue statements *Functions* 
+
+ Defining functions Function with return values Function with
+arguments Calling functions Recursion *Classes and Objects* 
+
+ Creating classes Variables of class Methods of class Using classes
+*Modules and Packages* 
+
+ Code reusabilty Import statements Packages Modules *Data Science
+Overview* 
+
+ Introduction to Data Science Different Sectors Using Data Science
+Purpose and Components of Python Key Takeaways 
+ *Mathematical Computing with Python (Numpy)* 
+
+ Introduction to Numpy Creating and Printing an ndarray Class and
+Attributes of ndarray Basic Operations Copy and Views Mathematical
+Functions of Numpy Case Study *Scientific Computing with Python
+(Scipy)* 
+
+ Introduction to
+SciPy SciPy - Integration and Optimization Case Study *Data
+Manipulation with Pandas* 
+
+ Introduction to Pandas Understanding DataFrame View and Select Data
+Demo Missing Values Data Operations Case Study *Machine Learning
+Concepts* 
+
+ Machine Learning Approach Supervised Learning Models i. Linear
+Regression 
+
+ ii. Logistic Regression 
+
+ iii. SVM 
+
+ Unsupervised Learning Models i. Clustering 
+
+ ii. Association 
+
+ Case Study *Data Visualization in Python using Matplotlib* 
+
+ Introduction to Data Visualization Knowledge Check Line Properties
+(x,y) Plot and
+Subplots Knowledge Check Types of Plots Case Study 
+
+ *Objectives* 
+
+ Packed with machine learning techniques and used cases, this course
+provides an in-depth knowledge of machine learning using
+python. After the program, you will be: 
+
+ Have thorough knowledge on Python Implement machine learning
+techniques on real life business problems Build predictive models like
+Regression and Logistic
+Regression Will be able to apply cluster algorithms 
+
+ *Pre-requisites* 
+
+ *Who Should Attend* 
+
+ A prior knowledge of basic algebra and calculus may be helpful. (A
+refresher will be done on the
+same). 
+
+ We would recommend this path strongly for professionals in the
+following roles: 
+
+ IT professionals Banking and Finance professionals Marketing Managers
+Supply Chain Network Managers Beginners in in data analytics domain
+Students in UG/ PG Analytics Programs Professors 
+
+ *Faculty Profile* 
+
+ *Mr. Amitendra Kumar* 
+
+ * * 
+
+ *PERSONAL SUMMARY* 
+
+ Amitendra holds an MBA degree from ISCS, Pune. He has 10 years of
+rich corporate experience in training delivery and analytics product
+development. He has worked with HDFC bank, Redwood Associates and
+Analytics Training Institute. He is extremely passionate about
+analytics and statistical concepts. He has experience of more than
+3000 Hrs in training corporate
+organisations and individuals on different analytical tools such as
+SAS, Hadoop, R etc. He has also delivered training on Analytics
+concepts such as forecasting methodologies and segmentation
+techniques. 
+
+ He has significant experience in developing cutting edge analytics
+solutions using statistical/ quantitative tools and
+techniques. The major clientele includes Standard Chartered Bank,
+MindTree, Genpact, HP, Creamline Dairy Pvt Ltd (Jersey), Jasper
+Technologies, ACT TV, Beam Tele, Orient Cements, Yash Technologies,
+GDF SUEZ, TATA Beverages, Doodla Dairy, Meenakshi Energies Pvt Ltd,
+NIT Warangal, Amex 
+
+ * * 
+
+ *TRAININGS CONDUCTED * 
+
+ Major clients include: 
+
+ HDFC Bank, HP, Standard Chartered Bank,
+ACT TV, Beam, IBM, Genpact, Holy Merry Business School, Creamline
+Dairy Products Pvt Ltd, Dialuz Online Ad Services Private Limited,
+Orient Cements, HP, Mind Tree, GDF Suez, WaterHealth, Yash
+Technologies, Tata Beverages, Doodla Dairy, Cognizant 
+
+ As part of Redwood Associates, He has conducted workshops at
+Redwood's training
+lab for senior level management and personnel from different
+organisations like Genpact, Wipro, HP etc. 
+
+ *EDUCATIONAL QUALIFICATION* 
+
+ MBA (IT & Marketing): Has completed MBA in IT and Marketing from
+Indira School Of Career Studies, Pune. Has dual specialization in IT
+and Marketing. 
+
+ BSC (Mathematics): Has done graduation from St Andrews College,
+Gorakhpur with 100% marks in Mathematics. 
+
+ *AREA OF EXPERTISE* 
+
+ Statistical Modeling 
+
+ SAS OLE 9.4 
+
+ Machine Learning 
+
+ Python 
+
+ R Programming 
+
+ *PERSONAL SKILLS* 
+
+ System Thinking 
+
+ Problem Solving 
+
+ Analytical Skills 
+
+ * Contact for Registration * 
+
+ *Registration Fees / Terms and Conditions* 
+
+ *Harsh Mane @* 
+
+ *CSI Mumbai Chapter* 
+
+ E-217, 2nd Floor, Floral Deck Plaza, MIDC, Near Sunrise Tower,
+Andheri East, Mumbai -
+400093 
+
+ Tel:022 28235476 / 28235548 / 28235546 
+
+ Mobile 9819089527, 9768550926 
+
+ Email: sunita@events-csi.com
+ <mailto:sunita@events-csi.com>
+ / harsh@csimumbai.org <mailto:harsh@csimumbai.org>
+ / info@csimumbai.org <mailto:info@csimumbai.org>
+
+ www.csimumbai.org 
+
+ *For online payment please click below link* 
+
+ http://panela.csimumbai.org/jtrack?d=0&id=U1ZWAwcGGAUURBNHVBpRUV9FTVIDJVQCClFEGlUaUlcYCF8=&client=57116
+
+ - *CSI Members Rs. 10620/- Per Participant * 
+
+ - *Non CSI Member Rs. 12980* */- Per Participant * 
+
+ - Group discount is available for minimum 5 number of registration. 
+
+ - The cheque / DD in favour of "CSI Mumbai Chapter" Payable at
+Mumbai. 
+
+ - The
+mentioned fees are inclusive of all taxes and charges. 
+
+ - Registration fees covers courseware, lunch, Tea/Coffee and CSI
+Certificate. 
+
+ - Payment is to be made in favour of *"CSI Mumbai Chapter"*, *A/c No.
+10606576641* payable at State Bank of India, MIDC, Andheri East,
+Branch, Mumbai - 400 093, RTGS/NEFT Code: SBIN0007074, (All Major VISA
+/
+Master Credit / Debit cards will be accepted. 
+
+ *Participation only through advance registration, (Batch size 20
+participants only)* 
+
+ *Note - Out station participants need to confirm at least 5 days
+prior to the commencement of the training* 
+
+ Disclaimer 
+
+ This mail is not spam mail and is a genuine communication from
+Computer Society of India (CSI) Mumbai Chapter to its members and
+other IT Professionals to inform them about the forthcoming event. If
+you feel that this mail should not have been sent to you or you want
+similar communication to be sent to your different e-mail address,
+please reply to this mail and specify it
+in the message 
+
+--Click Here to unsubscribe from this newsletter.

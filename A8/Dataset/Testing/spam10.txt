@@ -1,0 +1,122 @@
+
+Hi,
+
+A few weeks ago, Google released Coral, a super fast, =E2=80=9Cno
+internet required=E2=80=9D development board and USB accelerator that
+enables deep learning practitioners to deploy their models =E2=80=9Con
+the edge=E2=80=9D and =E2=80=9Ccloser to the data=E2=80=9D (which is what w=
+e'll be
+covering today ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSI=
+sImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZW=
+FyY2guY29tLzIwMTkvMDQvMjIvZ2V0dGluZy1zdGFydGVkLXdpdGgtZ29vZ2xlLWNvcmFscy10c=
+HUtdXNiLWFjY2VsZXJhdG9yLz9fX3M9cXVmY2JoMTNmY2k0cmh2M3FtbmMifQ )):
+
+Image ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2=
+ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29=
+tLzIwMTkvMDQvMjIvZ2V0dGluZy1zdGFydGVkLXdpdGgtZ29vZ2xlLWNvcmFscy10cHUtdXNiLW=
+FjY2VsZXJhdG9yLz9fX3M9cXVmY2JoMTNmY2k0cmh2M3FtbmMifQ )
+
+Using Coral, deep learning developers are no longer required to
+have an internet connection, meaning that the Coral TPU is fast
+enough to perform inference directly on the device rather than
+sending the image/frame to the cloud for inference and
+prediction.
+
+The Google Coral comes in two flavors:
+
+* A single-board computer with an onboard Edge TPU. The dev board
+can be thought of an =E2=80=9Cadvanced Raspberry Pi for AI=E2=80=9D or a
+competitor to NVIDIA=E2=80=99s Jetson Nano.
+* A USB accelerator that plugs into a device (such as a Raspberry
+Pi). The USB stick includes an Edge TPU built into it. Think of
+Google=E2=80=99s Coral USB Accelerator as a competitor to Intel=E2=80=99s
+Movidius NCS.
+
+Today we=E2=80=99ll be focusing on the Coral USB Accelerator as it=E2=80=99=
+s
+easier to get started with (and it fits nicely with our theme of
+Raspberry Pi-related posts the past few weeks).
+
+To learn how to configure the Google Coral USB accelerator, as
+well as perform classification + object detection on the Coral,
+you'll need to read the full tutorial here! ( https://t.dripemail2.com/c/ey=
+JhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6I=
+mh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29tLzIwMTkvMDQvMjIvZ2V0dGluZy1zdGFydGVk=
+LXdpdGgtZ29vZ2xlLWNvcmFscy10cHUtdXNiLWFjY2VsZXJhdG9yLz9fX3M9cXVmY2JoMTNmY2k=
+0cmh2M3FtbmMifQ )
+
+Adrian Rosebrock
+
+Chief PyImageSearcher
+
+P.S. Google Coral, Movidius NCS, and NVIDIA Jetson Nano devices
+are bringing computer vision and deep learning to resource
+constrained systems such as embedded devices and the Raspberry
+Pi.
+
+In my opinion, embedded CV and DL is the next big wave in the AI
+community. It=E2=80=99s so big that it may even be a tsunami =E2=80=94 will=
+ you
+be riding that wave?
+
+I know I will be.
+
+Will you join me?
+
+To help you get your start in embedded Computer Vision and Deep
+Learning, I have decided to write a brand new book =E2=80=94 Raspberry Pi
+for Computer Vision. ( https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2O=
+DQyOSIsImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6Imh0dHBzOi8vd3d3LmtpY2tz=
+dGFydGVyLmNvbS9wcm9qZWN0cy9hZHJpYW5yb3NlYnJvY2svcmFzcGJlcnJ5LXBpLWZvci1jb21=
+wdXRlci12aXNpb24tZWJvb2s_X19zPXF1ZmNiaDEzZmNpNHJodjNxbW5jIn0 )
+
+Inside this book you will learn how to:
+* Build practical, real-world computer vision applications on the
+Pi
+* Create computer vision and Internet of Things (IoT) projects
+and applications with the RPi
+* Optimize your OpenCV code and algorithms on the resource
+constrained Pi
+* Perform Deep Learning on the Raspberry Pi (including utilizing
+the Movidius NCS and OpenVINO toolkit)
+* Configure your Google Coral, perform image classification and
+object detection, and even train + deploy your own custom
+models to the Coral Edge TPU!
+
+* Utilize the NVIDIA Jetson Nano to run multiple deep neural
+networks on a single board, including image classification,
+object detection, segmentation, and more!
+
+I=E2=80=99m running a Kickstarter campaign ( https://t.dripemail2.com/c/eyJ=
+hY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6Im=
+h0dHBzOi8vd3d3LmtpY2tzdGFydGVyLmNvbS9wcm9qZWN0cy9hZHJpYW5yb3NlYnJvY2svcmFzc=
+GJlcnJ5LXBpLWZvci1jb21wdXRlci12aXNpb24tZWJvb2s_X19zPXF1ZmNiaDEzZmNpNHJodjNx=
+bW5jIn0 ) to fund the creation of the new book, and to celebrate, I=E2=80=
+=99m
+offering 25% OFF my existing books and courses if you pre-order a
+copy of RPi for CV.
+
+In fact, the Raspberry Pi for Computer Vision book is
+practically free if you pre-order it with Deep Learning for
+Computer Vision with Python or the PyImageSearch Gurus course.
+
+The clock is ticking and these discounts won=E2=80=99t last =E2=80=94
+the Kickstarter pre-sale shuts down on May 10th at 10AM EDT,
+after which I=E2=80=99m taking the deals down.
+
+Reserve your pre-order of RPi for CV now and while you're at it,
+grab another course or book at a discounted rate. ( https://t.dripemail2.co=
+m/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInV=
+ybCI6Imh0dHBzOi8vd3d3LmtpY2tzdGFydGVyLmNvbS9wcm9qZWN0cy9hZHJpYW5yb3NlYnJvY2=
+svcmFzcGJlcnJ5LXBpLWZvci1jb21wdXRlci12aXNpb24tZWJvb2s_X19zPXF1ZmNiaDEzZmNpN=
+HJodjNxbW5jIn0 )
+
+---------------------
+To make sure you keep getting these emails, please add
+adrian@pyimagesearch.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQ=
+yOSIsImRlbGl2ZXJ5X2lkIjoiNjI1NTYzMTQ1NyIsInVybCI6Imh0dHBzOi8vd3d3LmdldGRyaX=
+AuY29tL3N1YnNjcmliZXJzL3F1ZmNiaDEzZmNpNHJodjNxbW5jL3Vuc3Vic2NyaWJlP2Jyb2FkY=
+2FzdD03MTk0NTU4MjNcdTAwMjZkPTEzMDQ1YzBjdWt1dTYybHVyeTBvXHUwMDI2ZXhjbHVkZV9j=
+bGljaz0xXHUwMDI2X19zPXF1ZmNiaDEzZmNpNHJodjNxbW5jIn0">Unsubscribe</a>.
+Our postal address: PO Box 17598 #17900, Baltimore, MD 21297-1598
