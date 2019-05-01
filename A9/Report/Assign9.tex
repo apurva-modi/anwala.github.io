@@ -1,0 +1,703 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Programming/Coding Assignment
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Original author:
+% Ted Pavlic (http://www.tedpavlic.com)
+%
+% Note:
+% The \lipsum[#] commands throughout this template generate dummy text
+% to fill the template out. These commands should all be removed when 
+% writing assignment content.
+%
+% This template uses a Perl script as an example snippet of code, most other
+% languages are also usable. Configure them in the "CODE INCLUSION 
+% CONFIGURATION" section.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+
+
+\documentclass{article}
+
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage[usenames,dvipsnames]{color} % Required for custom colors
+\usepackage{graphicx} % Required to insert images
+\usepackage{listings} % Required for insertion of code
+\usepackage{courier} % Required for the courier font
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{comment}
+\usepackage{caption}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+%\usepackage{natbib}
+\usepackage{underscore}
+\usepackage{subfigure}
+\usepackage{fixltx2e}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    breaklinks=true
+}
+
+\usepackage[]{algorithm2e}
+\usepackage{pdfpages}
+\usepackage{tikz}
+
+
+
+
+%For python inclusion (http://widerin.org/blog/syntax-highlighting-for-python-scripts-in-latex-documents)
+\definecolor{Code}{rgb}{0,0,0}
+\definecolor{Decorators}{rgb}{0.5,0.5,0.5}
+\definecolor{Numbers}{rgb}{0.5,0,0}
+\definecolor{MatchingBrackets}{rgb}{0.25,0.5,0.5}
+\definecolor{Keywords}{rgb}{0,0,1}
+\definecolor{self}{rgb}{0,0,0}
+\definecolor{Strings}{rgb}{0,0.63,0}
+\definecolor{Comments}{rgb}{0,0.63,1}
+\definecolor{Backquotes}{rgb}{0,0,0}
+\definecolor{Classname}{rgb}{0,0,0}
+\definecolor{FunctionName}{rgb}{0,0,0}
+\definecolor{Operators}{rgb}{0,0,0}
+\definecolor{Background}{rgb}{0.98,0.98,0.98}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName} % Top left header
+\chead{\hmwkClass\ (\hmwkClassInstructor\ \hmwkClassTime): \hmwkTitle} % Top center head
+\chead{\hmwkClass\ (\hmwkClassInstructor): \hmwkTitle} % Top center head
+\rhead{\firstxmark} % Top right header
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \protect\pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+%----------------------------------------------------------------------------------------
+%	CODE INCLUSION CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\definecolor{MyDarkGreen}{rgb}{0.0,0.4,0.0} % This is the color used for comments
+\lstloadlanguages{Perl} % Load Perl syntax for listings, for a list of other languages supported see: ftp://ftp.tex.ac.uk/tex-archive/macros/latex/contrib/listings/listings.pdf
+\lstset{language=Perl, % Use Perl in this example
+        frame=single, % Single frame around code
+        basicstyle=\small\ttfamily, % Use small true type font
+        keywordstyle=[1]\color{Blue}\bf, % Perl functions bold and blue
+        keywordstyle=[2]\color{Purple}, % Perl function arguments purple
+        keywordstyle=[3]\color{Blue}\underbar, % Custom functions underlined and blue
+        identifierstyle=, % Nothing special about identifiers                                         
+        commentstyle=\usefont{T1}{pcr}{m}{sl}\color{MyDarkGreen}\small, % Comments small dark green courier font
+        stringstyle=\color{Purple}, % Strings are purple
+        showstringspaces=false, % Don't put marks in string spaces
+        tabsize=5, % 5 spaces per tab
+        %
+        % Put standard Perl functions not included in the default language here
+        morekeywords={rand},
+        %
+        % Put Perl function parameters here
+        morekeywords=[2]{on, off, interp},
+        %
+        % Put user defined functions here
+        morekeywords=[3]{test},
+       	%
+        morecomment=[l][\color{Blue}]{...}, % Line continuation (...) like blue comment
+        numbers=left, % Line numbers on left
+        firstnumber=1, % Line numbers start with line 1
+        numberstyle=\tiny\color{Blue}, % Line numbers are blue and small
+        stepnumber=5 % Line numbers go in steps of 5
+}
+
+% Creates a new command to include a perl script, the first parameter is the filename of the script (without .pl), the second parameter is the caption
+\newcommand{\perlscript}[2]{
+\begin{itemize}
+\item[]\lstinputlisting[caption=#2,label=#1]{#1.pl}
+\end{itemize}
+}
+
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT STRUCTURE COMMANDS
+%	Skip this unless you know what you're doing
+%----------------------------------------------------------------------------------------
+
+% Header and footer for when a page split occurs within a problem environment
+\newcommand{\enterProblemHeader}[1]{
+\nobreak\extramarks{#1}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+}
+
+% Header and footer for when a page split occurs between problem environments
+\newcommand{\exitProblemHeader}[1]{
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1}{}\nobreak
+}
+
+\setcounter{secnumdepth}{0} % Removes default section numbers
+\newcounter{homeworkProblemCounter} % Creates a counter to keep track of the number of problems
+
+\newcommand{\homeworkProblemName}{}
+\newenvironment{homeworkProblem}[1][Problem \arabic{homeworkProblemCounter}]{ % Makes a new environment called homeworkProblem which takes 1 argument (custom name) but the default is "Problem #"
+\stepcounter{homeworkProblemCounter} % Increase counter for number of problems
+\renewcommand{\homeworkProblemName}{#1} % Assign \homeworkProblemName the name of the problem
+\section{\homeworkProblemName} % Make a section in the document with the custom problem count
+\enterProblemHeader{\homeworkProblemName} % Header and footer within the environment
+}{
+\exitProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+\newcommand{\problemAnswer}[1]{ % Defines the problem answer command with the content as the only argument
+\noindent\framebox[\columnwidth][c]{\begin{minipage}{0.98\columnwidth}#1\end{minipage}} % Makes the box around the problem answer and puts the content inside
+}
+
+\newcommand{\homeworkSectionName}{}
+\newenvironment{homeworkSection}[1]{ % New environment for sections within homework problems, takes 1 argument - the name of the section
+\renewcommand{\homeworkSectionName}{#1} % Assign \homeworkSectionName to the name of the section from the environment argument
+\subsection{\homeworkSectionName} % Make a subsection with the custom name of the subsection
+\enterProblemHeader{\homeworkProblemName\ [\homeworkSectionName]} % Header and footer within the environment
+}{
+\enterProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\hmwkTitle}{Assignment\ \#9 } % Assignment title
+%\newcommand{\hmwkDueDate}{Monday,\ January\ 1,\ 2012} % Due date
+\newcommand{\hmwkClass}{Web Science} % Course/class
+%\newcommand{\hmwkClassTime}{10:30am} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Alexander Nwala} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{Apurva Modi} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{
+\vspace{2in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+%\normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate}\\
+%\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{0.1in}\large{\textit{\hmwkClassInstructor}}
+\vspace{3in}
+}
+
+\author{\textbf{\hmwkAuthorName}}
+\date{Wednesday, May 1, 2019} % Insert date here if you want it to appear below your name
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle
+\newpage
+
+
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+\newpage
+\tableofcontents
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 1
+%----------------------------------------------------------------------------------------
+
+% To have just one problem per page, simply put a \clearpage after each problem
+
+\begin{homeworkProblem}
+
+Using the data from A7:
+\begin{enumerate}
+\item\textbf{}Consider each row in the blog-term matrix as a 1000 dimension vector, 
+corresponding to a blog.  
+
+\item\textbf{}Use knnestimate() to compute the nearest neighbors for both:
+
+\begin{verbatim}
+	http://f-measure.blogspot.com/
+	http://ws-dl.blogspot.com/
+\end{verbatim}
+
+	for k={1,2,5,10,20}.
+
+	Use cosine distance metric (chapter 8) not euclidean distance. 
+	So you have to implement numpredict.cosine() instead of using 
+	numpredict.euclidean() in:
+	https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter8/numpredict.py
+	
+\end{enumerate}
+ 
+ 
+%\problemAnswer{
+
+ \textbf{SOLUTION :}\\
+
+  \begin{enumerate}
+ 	 \item\textbf{} I have used the "blogdata.txt" blog metric from A7 and code files from\\ \textbf{Programming Collective Intelligence} text book.
+  	\item\textbf{}  Modified the "numpredict" file to add the cosine similarity function and created a new file "AssignmentNumPredict.py"
+	 \item\textbf{}  Created another script ,"kNNClusturing.py" to determine nearest neighbours using knnestimate() function for both the blogs.
+	 \item\textbf{} Then, I Passed the title of the given  two blogs, whose nearest neighbours need to be determined             			             					      
+ \end{enumerate}
+ 
+  \begin{lstlisting}[language=Python, caption=AssignmentNumPredict.py]
+  
+from random import random,randint
+import math
+from scipy import spatial
+
+def wineprice(rating,age):
+  peak_age=rating-50
+  
+  # Calculate price based on rating
+  price=rating/2
+  if age>peak_age:
+    # Past its peak, goes bad in 10 years
+    price=price*(5-(age-peak_age)/2)
+  else:
+    # Increases to 5x original value as it
+    # approaches its peak
+    price=price*(5*((age+1)/peak_age))
+  if price<0: price=0
+  return price
+
+
+def wineset1():
+  rows=[]
+  for i in range(300):
+    # Create a random age and rating
+    rating=random()*50+50
+    age=random()*50
+
+    # Get reference price
+    price=wineprice(rating,age)
+    
+    # Add some noise
+    price*=(random()*0.2+0.9)
+
+    # Add to the dataset
+    rows.append({'input':(rating,age),
+                 'result':price})
+  return rows
+
+def euclidean(v1,v2):
+  d=0.0
+  for i in range(len(v1)):
+    d+=(v1[i]-v2[i])**2
+  return math.sqrt(d)
+
+def cosine(v1,v2):
+ 
+  result = 1 - spatial.distance.cosine(v1, v2)
+  return result
+  
+  
+
+
+  
+def getdistances(data,vec1):
+  distancelist=[]
+  
+  #import pdb
+  #pdb.set_trace()
+  
+  # Loop over every item in the dataset
+  for i, cal in enumerate(data):
+    vec2 = cal
+    
+    # Add the distance and the index
+   
+    distancelist.append((cosine(vec1,vec2),i))
+  
+  
+  # Sort by distance
+  distancelist.sort(reverse=True)
+  return distancelist
+
+def knnestimate(data,vec1,k=5):
+  # Get sorted distances
+  distant=getdistances(data,vec1)
+  
+  
+  return distant
+  
+  
+  # # Take the average of the top k results
+  # for i in range(k):
+    # idx=dlist[i][1]
+    # avg+=data[idx]['result']
+  # avg=avg/k
+  # return avg
+
+def inverseweight(dist,num=1.0,const=0.1):
+  return num/(dist+const)
+
+def subtractweight(dist,const=1.0):
+  if dist>const: 
+    return 0
+  else: 
+    return const-dist
+
+def gaussian(dist,sigma=5.0):
+  return math.e**(-dist**2/(2*sigma**2))
+
+def weightedknn(data,vec1,k=5,weightf=gaussian):
+  # Get distances
+  dlist=getdistances(data,vec1)
+  avg=0.0
+  totalweight=0.0
+  
+  # Get weighted average
+  for i in range(k):
+    dist=dlist[i][0]
+    idx=dlist[i][1]
+    weight=weightf(dist)
+    avg+=weight*data[idx]['result']
+    totalweight+=weight
+  if totalweight==0: return 0
+  avg=avg/totalweight
+  return avg
+
+def dividedata(data,test=0.05):
+  trainset=[]
+  testset=[]
+  for row in data:
+    if random()<test:
+      testset.append(row)
+    else:
+      trainset.append(row)
+  return trainset,testset
+
+def testalgorithm(algf,trainset,testset):
+  error=0.0
+  for row in testset:
+    guess=algf(trainset,row['input'])
+    error+=(row['result']-guess)**2
+    #print row['result'],guess
+  #print error/len(testset)
+  return error/len(testset)
+
+def crossvalidate(algf,data,trials=100,test=0.1):
+  error=0.0
+  for i in range(trials):
+    trainset,testset=dividedata(data,test)
+    error+=testalgorithm(algf,trainset,testset)
+  return error/trials
+
+def wineset2():
+  rows=[]
+  for i in range(300):
+    rating=random()*50+50
+    age=random()*50
+    aisle=float(randint(1,20))
+    bottlesize=[375.0,750.0,1500.0][randint(0,2)]
+    price=wineprice(rating,age)
+    price*=(bottlesize/750)
+    price*=(random()*0.2+0.9)
+    rows.append({'input':(rating,age,aisle,bottlesize),
+                 'result':price})
+  return rows
+
+def rescale(data,scale):
+  scaleddata=[]
+  for row in data:
+    scaled=[scale[i]*row['input'][i] for i in range(len(scale))]
+    scaleddata.append({'input':scaled,'result':row['result']})
+  return scaleddata
+
+def createcostfunction(algf,data):
+  def costf(scale):
+    sdata=rescale(data,scale)
+    return crossvalidate(algf,sdata,trials=20)
+  return costf
+
+weightdomain=[(0,10)]*4
+
+def wineset3():
+  rows=wineset1()
+  for row in rows:
+    if random()<0.5:
+      # Wine was bought at a discount store
+      row['result']*=0.6
+  return rows
+
+def probguess(data,vec1,low,high,k=5,weightf=gaussian):
+  dlist=getdistances(data,vec1)
+  nweight=0.0
+  tweight=0.0
+  
+  for i in range(k):
+    dist=dlist[i][0]
+    idx=dlist[i][1]
+    weight=weightf(dist)
+    v=data[idx]['result']
+    
+    # Is this point in the range?
+    if v>=low and v<=high:
+      nweight+=weight
+    tweight+=weight
+  if tweight==0: return 0
+  
+  # The probability is the weights in the range
+  # divided by all the weights
+  return nweight/tweight
+
+from pylab import *
+
+def cumulativegraph(data,vec1,high,k=5,weightf=gaussian):
+  t1=arange(0.0,high,0.1)
+  cprob=array([probguess(data,vec1,0,v,k,weightf) for v in t1])
+  plot(t1,cprob)
+  show()
+
+
+def probabilitygraph(data,vec1,high,k=5,weightf=gaussian,ss=5.0):
+  # Make a range for the prices
+  t1=arange(0.0,high,0.1)
+  
+  # Get the probabilities for the entire range
+  probs=[probguess(data,vec1,v,v+0.1,k,weightf) for v in t1]
+  
+  # Smooth them by adding the gaussian of the nearby probabilites
+  smoothed=[]
+  for i in range(len(probs)):
+    sv=0.0
+    for j in range(0,len(probs)):
+      dist=abs(i-j)*0.1
+      weight=gaussian(dist,sigma=ss)
+      sv+=weight*probs[j]
+    smoothed.append(sv)
+  smoothed=array(smoothed)
+    
+  plot(t1,smoothed)
+show()
+
+\end{lstlisting}
+
+Below code determines the nearest distance through cosine similarity using the modified numpredict.py:
+
+ \begin{lstlisting}[language=Python, caption=kNNClusturing.py]
+ 
+ from AssignmentNumPredict import *
+
+
+def calculateData():
+    
+    fmeasure = 'F-Measure'
+    wlblog = 'Web Science and Digital Libraries Research Group'
+    bnames = {}
+    mesf = []
+    cesf = []
+    with open("blogdata.txt", 'r', encoding='utf-8') as f:
+        doctext = f.readlines()
+        for i, line in enumerate(doctext):
+            if i == 0:
+                # skip header
+                continue
+            tuples = line.strip().split('\t')
+            if tuples[0] == fmeasure:
+                for i in range(1, len(tuples)):
+                    mesf.append(float(tuples[i]))
+            elif tuples[0] == wlblog:
+                for i in range(1, len(tuples)):
+                    cesf.append(float(tuples[i]))
+            else:
+                bnames[tuples[0]] = []
+                for i in range(1, len(tuples)):
+                    bnames[tuples[0]].append(float(tuples[i]))
+
+    return bnames, mesf, cesf
+
+
+def knnest(calval, mesvec, gpvec):
+    nn = knnestimate(bnames.values(), mesvec)
+    print("====================================" * 2)
+    print("F-Measure")
+    print("====================================" * 2)
+    kvals = [1, 2, 5, 10, 20]
+    for k in kvals:
+        print('k =', k)
+        for j in range(k):
+            print('%s\t%.6f' % (list(bnames.keys())[nn[j][1]], nn[j][0]))
+
+        print("------------------------------------" * 2)
+    print()
+
+    print("====================================" * 2)
+    print("Web Science and Digital Libraries Research Group")
+    print("====================================" * 2)
+    nn = knnestimate(bnames.values(), gpvec)
+    for k in kvals:
+        print('k =', k)
+        for j in range(k):
+            print('%s\t%.6f' % (list(bnames.keys())[nn[j][1]], nn[j][0]))
+
+        print("------------------------------------" * 2)
+
+
+
+
+
+if __name__ == "__main__":
+    bnames, dvec, worvec = calculateData()
+    knnest(bnames.values(), dvec, worvec)
+
+
+\end{lstlisting}
+
+\newpage
+
+ \begin{lstlisting}[caption= KNN Output]
+ ========================================================================
+F-Measure
+========================================================================
+k = 1
+Catering Harian Tangerang	nan
+------------------------------------------------------------------------
+k = 2
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+------------------------------------------------------------------------
+k = 5
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+------------------------------------------------------------------------
+k = 10
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+Life at the lake	0.672151
+Jackson449	0.659178
+Glitter Every Day	0.649249
+Stony Bridge Farm	0.644484
+Liz B. Quilting	0.632190
+------------------------------------------------------------------------
+k = 20
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+Life at the lake	0.672151
+Jackson449	0.659178
+Glitter Every Day	0.649249
+Stony Bridge Farm	0.644484
+Liz B. Quilting	0.632190
+My Tenuous Grasp	0.629786
+Random Thoughts of a Plastic Surgeon	0.623991
+Cultural Media Literacy	0.623974
+The Accidental CrossFitter	0.603577
+Short Presents | Food. Fashion. Fun.	0.590743
+Evil Ditties	0.587276
+A Teacher's View	0.579137
+Diary of a Faithful Mama	0.574603
+Life, Faith, and Urban Farming	0.573619
+Two Lovebird Locavores	0.559064
+------------------------------------------------------------------------
+
+========================================================================
+Web Science and Digital Libraries Research Group
+========================================================================
+k = 1
+Catering Harian Tangerang	nan
+------------------------------------------------------------------------
+k = 2
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+------------------------------------------------------------------------
+k = 5
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+------------------------------------------------------------------------
+k = 10
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+Indigeny & Energetics	0.533557
+GardenSpotlight	0.532078
+A Teacher's View	0.531536
+Stony Bridge Farm	0.525594
+Witty Title Pending	0.518742
+------------------------------------------------------------------------
+k = 20
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+Indigeny & Energetics	0.533557
+GardenSpotlight	0.532078
+A Teacher's View	0.531536
+Stony Bridge Farm	0.525594
+Witty Title Pending	0.518742
+THE ORIFICE!!	0.510066
+Pursuing The Art of Life	0.505948
+Minutes with Coach	0.496287
+Life, Faith, and Urban Farming	0.488257
+Perfect...Not So Much	0.486288
+Main Tourist Trips	0.485894
+Jackson449	0.466494
+Diary of a Faithful Mama	0.465566
+Green on the Scene Wellness & Fertility	0.464534
+Start talking about these things.	0.460376
+------------------------------------------------------------------------
+ 
+  \end{lstlisting}
+%}
+	
+\end{homeworkProblem}
+\clearpage
+\newpage
+
+
+\textbf{References}
+\begin{enumerate}
+\item\textbf{} https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter8/numpredict.py
+\item\textbf{} http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.DistanceMetric.html
+\item\textbf{} https://cmry.github.io/notes/euclidean-v-cosine
+
+\end{enumerate}
+\end{document}

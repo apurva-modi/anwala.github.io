@@ -1,0 +1,103 @@
+========================================================================
+F-Measure
+========================================================================
+k = 1
+Catering Harian Tangerang	nan
+------------------------------------------------------------------------
+k = 2
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+------------------------------------------------------------------------
+k = 5
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+------------------------------------------------------------------------
+k = 10
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+Life at the lake	0.672151
+Jackson449	0.659178
+Glitter Every Day	0.649249
+Stony Bridge Farm	0.644484
+Liz B. Quilting	0.632190
+------------------------------------------------------------------------
+k = 20
+Catering Harian Tangerang	nan
+Pursuing The Art of Life	0.707630
+THE ORIFICE!!	0.700501
+Start talking about these things.	0.696794
+Witty Title Pending	0.683905
+Life at the lake	0.672151
+Jackson449	0.659178
+Glitter Every Day	0.649249
+Stony Bridge Farm	0.644484
+Liz B. Quilting	0.632190
+My Tenuous Grasp	0.629786
+Random Thoughts of a Plastic Surgeon	0.623991
+Cultural Media Literacy	0.623974
+The Accidental CrossFitter	0.603577
+Short Presents | Food. Fashion. Fun.	0.590743
+Evil Ditties	0.587276
+A Teacher's View	0.579137
+Diary of a Faithful Mama	0.574603
+Life, Faith, and Urban Farming	0.573619
+Two Lovebird Locavores	0.559064
+------------------------------------------------------------------------
+
+========================================================================
+Web Science and Digital Libraries Research Group
+========================================================================
+k = 1
+Catering Harian Tangerang	nan
+------------------------------------------------------------------------
+k = 2
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+------------------------------------------------------------------------
+k = 5
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+------------------------------------------------------------------------
+k = 10
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+Indigeny & Energetics	0.533557
+GardenSpotlight	0.532078
+A Teacher's View	0.531536
+Stony Bridge Farm	0.525594
+Witty Title Pending	0.518742
+------------------------------------------------------------------------
+k = 20
+Catering Harian Tangerang	nan
+Cultural Media Literacy	0.629830
+Liz B. Quilting	0.556286
+Random Thoughts of a Plastic Surgeon	0.548003
+Life at the lake	0.538732
+Indigeny & Energetics	0.533557
+GardenSpotlight	0.532078
+A Teacher's View	0.531536
+Stony Bridge Farm	0.525594
+Witty Title Pending	0.518742
+THE ORIFICE!!	0.510066
+Pursuing The Art of Life	0.505948
+Minutes with Coach	0.496287
+Life, Faith, and Urban Farming	0.488257
+Perfect...Not So Much	0.486288
+Main Tourist Trips	0.485894
+Jackson449	0.466494
+Diary of a Faithful Mama	0.465566
+Green on the Scene Wellness & Fertility	0.464534
+Start talking about these things.	0.460376
+------------------------------------------------------------------------
